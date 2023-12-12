@@ -1,0 +1,1420 @@
+File Name: ALB-NEP-2013-EN
+Year: 2013
+Country Name: Albania
+Country Code: ALB
+Category: NEP
+Document Title: Solar Water Heating System Project: Albania Country Program
+Exists?: Y
+Publication Date: 2013
+Start Year: 2013
+End Year: 2020
+Language: EN
+------------------------------------------------
+
+United Nations Development Program – Solar Water Heating System Project: 
+Albania Country Program 
+(Project ID 00062827) 
+Solar Thermal Obligations for Public Buildings in the 
+Municipality of Tirana 
+September 2013 
+ CONTENTS
+Abbreviations and Acronyms ............................................................................................................................ 4
+Solar Thermal Obligation for the Municipality of Tirana................................................................................... 5
+Definitions..................................................................................................................................................... 5
+Objectives of the Tirana Municipality Solar Thermal Obligation (STO)......................................................... 8
+Scope of the Tirana Municipality STO ........................................................................................................... 8
+Quantification of the Tirana Municipality STO.............................................................................................. 9
+Quality Requirements of the Tirana Municipality STO................................................................................ 10
+Design and specification of the SWH systems......................................................................................... 10
+Installation and commissioning of SWH systems.................................................................................... 11
+Maintenance and monitoring of SWH systems....................................................................................... 12
+Municipal Targets for Solar Water Heating in Public Buildings................................................................... 14
+Annexes........................................................................................................................................................... 16
+Annex I – Method for calculating the SHW thermal load............................................................................ 16
+Annex II – Steps for designing a SWH system in the scope of the Tirana Municipality STO ....................... 17
+Annex III – Curriculum for the training and coaching program for certification of SWH systems designers
+..................................................................................................................................................................... 17
+Annex IV – Structure of the document to be produced by the SWH systems designer when designing
+systems in the scope of the Tirana Municipality STO.................................................................................. 19
+Annex V – Curriculum for the training and coaching program for certification of SWH systems installers 20
+Annex VI – Guidelines for developing the SWH systems preventive maintenance plan............................. 21
+Annex VII – Guidelines for developing the SWH systems monitoring plan................................................. 23
+Annex VIII – Evaluation grid for the course of SWH systems designers...................................................... 23
+Annex Ix – Evaluation grid for the course of SWH systems installers ......................................................... 23
+Annex X – Check‐list for information collection in the scope of the SWH systems design ......................... 23
+Annex XI – Grounds for developing a Solar Thermal Obligation in the Municipality of Tirana................... 26
+Municipal Vision of a Solar Water Heating framework ........................................................................... 27
+Key Challenges......................................................................................................................................... 28
+General recommendations...................................................................................................................... 29A vision of EU Standards on STO ............................................................................................................. 30
+The scope of a STO .................................................................................................................................. 31
+Quantifying the Obligation ...................................................................................................................... 31
+Quality Requirements.............................................................................................................................. 36
+Architectonic Issues and Protected Buildings.......................................................................................... 38
+Supervision of the STO ............................................................................................................................ 39
+References....................................................................................................................................................... 42ABBREVIATIONS AND ACRONYMS
+EE ‐ Energy Efficiency
+GHG – Green House Gases
+MoT – Municipality of Tirana
+MV&E – Monitoring, Verification and Enforcement
+NPV ‐ Net Present Value  
+NZEB – Nearly Zero Energy Building
+RES – Renewable Energy Sources
+SF – Solar Fraction
+SHW – Sanitary Hot Waters
+STO – Solar Thermal Obligation
+SWH – Solar Water Heating 
+TL – Thermal Load
+UNDP – United Nations Development Program
+ SOLAR THERMAL OBLIGATION FOR THE MUNICIPALITY OF TIRANA
+The importance of the SWH and all to it relevant concerns have been recognised on the national
+level. SWH is one of the most promising technologies to reduce electricity and fuel wood
+consumption in Albania with a significant contribution towards GHG gas emissions reduction.
+The Global Solar Water Heating Market Transformation and Strengthening Initiative: Albania
+Country Programme, funded by the Global Environment Facility and implemented by UNDP,
+under the National Execution Modality, addresses the most common barriers to solar water
+heating development: policy and regulations, finance, business skills, information, and
+technology.
+The UNDP Project will give a contribution regarding the creation and drafting of all SWH bylaws of
+governmental decrees. The Energy Efficiency (EE) Center has taken the initiative to develop an
+initiative aiming at raising the awareness of Municipal staff in what regards the benefits of EE in
+buildings. It would be important to have these activities integrated and co‐ordinated since they all
+have the same purpose – save energy, raise competitiveness and avoid polluting emissions.
+According to the National Energy Strategy and Albania’s First National Communication and
+Technology Needs Assessment, over 70% of domestic hot water needs of the household and
+service sector in Albania is supplied by electric boilers, while the energy demand for hot water in
+Albania was projected to grow from 600 GWh in 2000 to 875 GWh in 2015, in the residential
+sector alone.
+The objectives of Albania energy policy are competitiveness, security of supply and sustainability.
+The Law, No. 138/2013 on Renewable Energy Sources (RES), endorsed by the Albanian
+Government, recognises the important role of Albanian municipalities in taking the lead in making
+solar water heating as a standard solution for all new public buildings and those going through
+major renovations.  
+DEFINITIONS
+Amplification – the intervention in one existing building that aims at adding a new body, section
+or floor and that has the consequence of augmenting the useful pavement surface.
+Annual solar energy (design) – it is the energy expressed in units of final energy, supplied by the
+SWH system, according with the design methodology and estimation method used.
+Annual solar energy (measured) – it is the energy expressed in units of final energy, supplied by
+the SWH system, according with the information made available by the use of an energy
+management system. Measured in the boundaries of the primary circuit of the SWH system, i.e.,
+before and after the heat exchanger.
+Appropriate solar exposition – is the existing roof, in terrace or sloped surface, the latter with a
+perpendicular oriented in a range of azimuths of 90º between south‐east and south‐west, that arenot shaded by significant obstacles in the period initiating everyday two hours after sunshine and
+finishing two hours before sunset.
+Autonomous fraction – it is a section, floor or apartment within a building which is designed or
+altered to be used separately.  
+Building – in the scope of this STO, it is either the whole part of a property or one of its
+autonomous fractions.
+Energy management system – it is an electronic system, composed of hardware and software,
+used for managing the SWH system, including, the supervision, monitoring, command of the
+system and its components and the quantification of the energy collected and made useful by the
+SWH system.
+Energy mix – is the distribution in percentage terms of the primary energy sources for producing
+electricity at the national level. This value varies every year, namely in function of the annual
+hydropower generation capacity.
+Envelope – it is a building component that defines the boundary between the internal and
+external space. It is closely related with the architecture and construction of the “skin” of the
+building but depends also of the physical relations between the “skin” of the building, its structure
+and the other constructive elements.
+Final energy – is the energy made available to users under different forms (electricity, natural gas,
+propane, butane, diesel, gasoline, and biomass) and expressed in units with commercial meaning
+(kWh, Nm3
+, kg). 
+Large rehabilitation – the intervention in the envelope or in the technical installations (energetic
+or not) of one existing building, that should not result in the erection of a new body or section and
+which has an estimated cost superior to 25% of the value of the building, excluding the value of
+the terrain, in the conditions defined in the relevant legislation.
+Monitoring – in the scope of this STO, it is the accompanying of the SWH system by following a
+program of regular and periodic readings and registries of pertinent characteristic parameters.
+This activity can be executed continuously in real time or periodically.  
+Municipal energetic matrix – it is a quantitative representation of all the available energy, in a
+region under administration of a Municipality, which can be used for all the productive processes.
+It is essential for the orientation of energy‐sector planners in their mission of ensuring production,
+security of supply and rational use of energy. The municipal energy matrix details the energetic
+profile of the Municipality, separated by activity sectors and energy use typologies. It also details
+the group of energy forms or vectors of each sub ‐sector and or energy use typology. The
+pollution potential of each subsector or energy use typology can be done by correlating the
+energy matrix with the carbon emissions matrix. The carbon emissions matrix, reflects the
+corresponding emissions of each sub‐sector or energy use typology. The pollution potential of
+each subsector or energy use typology can be indicated in terms of the result of dividing tonnes of
+carbon by the tonnes of oil equivalent. It is important to refer the difference between the
+calculation of carbon emissions, taking into account the final energy matrix or the primary energy
+matrix. From the global perspective, it is more correct to calculate the carbon emissions through
+the primary energy matrix, because, in that situation, the inefficiencies of the power generationand distribution systems can be included, as well as the inefficiencies of the various fuels for
+processing the distribution.
+Nearly Zero‐Energy Building – is a building that has a very high energy performance, as
+determined in accordance with Annex I of the EU Energy Performance Buildings Directive (recast).
+The nearly zero or very low amount of energy required should be covered to a very significant
+extent by energy from renewable sources, including energy from renewable sources produced on‐
+site or nearby.
+Nominal primary energy global needs – it is the parameter that expresses the quantity of primary
+energy that corresponds to the pondered sum of the nominal useful energy‐needs for heating,
+cooling and production of sanitary hot waters, taking into account the adopted systems or, in the
+absence of their respective definition, conventional reference systems, and the current utilization
+patterns of those systems.
+Nominal useful energy‐needs for cooling – it is the parameter that expresses the quantity of
+useful energy needed annually to maintain a building or an autonomous fraction with a reference
+internal temperature during the cooling season.
+Nominal useful energy‐needs for heating – it is the parameter that expresses the quantity of
+useful energy needed annually to maintain a building or an autonomous fraction with a reference
+internal temperature during the heating season.
+Nominal useful energy‐needs for producing sanitary hot waters – it is the parameter that
+expresses the quantity of useful energy needed to heat the annual average reference sanitary
+water volume to a temperature of 60 ºC.
+Preventive maintenance plan ‐  a set of maintenance tasks and activities that are recommended
+for each component and part of the SWH system, taking into consideration the good practice of
+the professional category, the manufacturers instructions and the specific applicable regulations.
+Primary circuit – is the hydraulic closed circuit of a SWH system that makes the transportation of
+the solar thermal energy, collected in the solar collectors, to the sanitary hot water storage
+tank(s).
+Primary energy – is the energetic resource that is found available in nature (petroleum, natural
+gas, hydro energy, wind energy, biomass and solar) and is expressed generally in units of
+equivalent mass of petroleum (tonnes of oil equivalent). There are forms of primary energy
+(natural gas, wood, Sun) that can also be made available directly to the final users, being
+coincident in those cases to final energy.
+Renewable energy – is the energy with origin in, the Sun (used under the form of light, thermal
+energy or photovoltaic electricity, of biomass, wind and waves), in the Earth (geothermic) and in
+the gravitational effect of the Moon and Sun (tides).
+Roofing surface – is the surface, measured from the inside, of the opaque elements of the
+envelope, horizontal or with an inclination inferior to 60º that separates superiorly the useful
+space from the exterior or from non‐useful adjacent spaces.Sanitary hot water – is potable water at a temperature higher than 45 ºC used for showers,
+cleaning, cooking, washing and other specific uses, prepared in an appropriate device and using
+conventional and, or, renewable energy sources.
+Secondary circuit – is the hydraulic open circuit that ensures the supply and heating of fresh
+water to the final consumption. The heating process happens with the heat exchange between
+the primary and secondary circuits, generally with support of an internal or external (to the
+storage tank) heat exchanger.
+Solar fraction – is the proportion, in percentage terms, of the thermal load that is satisfied by the
+SWH system.
+Thermal load – is the energy, in units of final energy, needed to satisfy the nominal useful energy‐
+needs for producing sanitary hot waters.
+Useful pavement surface – is the sum of the surfaces, measured in plan from the inside perimeter
+of the walls, of all the compartments of an autonomous fraction of a building, including dressing
+rooms, internal circulations, sanitary installations, internal sheds and other compartments of
+similar function and built‐in wardrobes.
+OBJECTIVES OF THE TIRANA MUNICIPALITY SOLAR THERMAL OBLIGATION (STO)
+By building on the provisions of the RES law (Law No. 138/2013 ON RENEWABLE ENERGY SOURCES),
+the Municipal STO aims at making solar thermal applications as a common and obligatory
+component for all new public buildings and those going through large rehabilitation in the area of
+Tirana Municipality.
+The Tirana Municipality STO and respective accessory standards aims also at defining:
+A. The specific type of buildings subject to this obligation (or which should be exempted
+from this obligation on technical or cost‐efficiency grounds);
+B. The minimum technical and quality requirements applicable for SWH systems, in three
+phases of their overall life‐cycle:
+i. design/specification
+ii. installation/commissioning
+iii. operation
+C. The minimum technical qualifications applicable to SWH designers and installers and the
+contents to include in specific vocational training and certification schemes for these two
+professional categories;
+D. The timeframes for the objectives and targets
+SCOPE OF THE TIRANA MUNICIPALITY STO
+1. All the public buildings under the jurisdiction of the Municipality of Tirana, in which
+sanitary hot water needs were identified, are in the scope of this STO, with the exceptionof those public buildings under the jurisdiction of the Municipality of Tirana referred in
+point number 4.  
+2. This STO applies to all buildings referred in point 1 regardless of their age, i.e., it applies to
+new buildings and existing buildings.
+3. For a complete understanding of the point number 2, in the scope of this STO, the
+following applies:
+a. New buildings are buildings being erected for the first time or amplifications of
+existing buildings.  
+b. Existing buildings are buildings that:
+i. Will be subjected to a large rehabilitation and, or, an amplification
+ii. Have energy systems for producing sanitary hot water that will be
+replaced and, or, rehabilitated
+4. Public buildings exempted from this STO are:
+a. Buildings used as places of worship and for religious activities
+b. Temporary buildings
+c. Buildings which have permanently no appropriate solar exposition and that are,
+therefore, impeded of receiving a profitable SWH system
+d. Historically protected buildings (e.g., monuments)
+5. The Municipality of Tirana shall extend the scope of this STO to non‐public buildings
+through a governmental order to be published by the Municipality of Tirana/the Ministry
+responsible for Energy.  
+QUANTIFICATION OF THE TIRANA MUNICIPALITY STO
+The quantification of the STO follows an approach based on the principle that a minimum
+percentage of the thermal load shall be covered by the SWH system.
+6. In all buildings included in the scope of the STO, considering that there is an appropriate
+solar exposition, the annual solar fraction of the SWH systems shall be at least 55%, as an
+average over the annual expected consumption.  
+7. The thermal load shall be calculated through the method described in Annex I.
+8. The Tirana Municipality STO shall have a simulation software tool, to support the design
+of the SWH systems. In particular, the referred simulation software tool shall be able to
+provide information regarding:
+a. The collecting area (number of collectors) of a given SWH system, based on the
+specification of:
+i. the daily thermal load
+ii. the annual utilization of the system
+iii. the storage tank(s)
+iv. the heat exchanger
+v. the solar collectors  
+vi. the solar collectors orientation and inclination
+b. The solar fraction of a given SWH system configurationc. The annual energy supplied by the SWH system
+9. The only argument for the designer to not comply with the point number 6 is an
+argument related with the absence of, available roofing surface (due to the occupation
+with other energy systems) and, or, appropriate solar exposition. In this case the solar
+fraction may be reduced to a limit of 35%.
+QUALITY REQUIREMENTS OF THE TIRANA MUNICIPALITY STO
+The implementation of a STO in a community or country introduces significant alterations in the
+local solar thermal market. Without appropriate measures of quality assurance, low quality
+installations may occur frequently. To ensure persistence of the solar energy gains and to amplify
+the acceptance of the Municipal STO and of the solar thermal technology, strict requirements
+must be verified in the following stages of a SWH system, under this STO.
+DESIGN AND SPECIFICATION OF THE SWH SYSTEMS
+A project with insufficiencies may force the installer to assume the responsibility of defining
+details of the installation, for which he is generally not qualified. This may lead to the making of
+decisions that may compromise the functioning of the SWH system. On the other hand, the lack
+of clear and objective specifications may encourage the use of more economic equipment and
+components, generally with doubtful quality, raising the risks of reliability and contributing to low
+availability levels of the system and loss of credibility of the technology.  
+10. The design of all SWH systems under the scope of this STO must be developed by certified
+SWH systems designers.
+11. The design and specification of all SWH systems under the scope of this STO, including the
+respective components, must follow the steps defined in the Annex II of this STO.
+12. The certification process of the SWH system designers, referred in the point number 10,
+will be defined in a governmental order to be published by the Municipality of Tirana/the
+Ministry responsible for Energy, and will consist in the evaluation of the professional
+competence of individual candidates, taking into account the performance of the
+individual candidate in designing and specifying a SWH system, defined and attributed to
+him, in the scope of a training and coaching program.  
+13. The training and coaching program referred in point number 12 shall be based in the
+curriculum indicated in Annex III, which includes professional development in security
+aspects, commissioning, maintenance and monitoring of SWH systems.
+14. The training and coaching program referred in point number 12 shall be developed,
+adapted and delivered for the following two different stages:
+a. Initially, to train and certify the first frontrunners, i.e., a training of trainers.  
+In this case the evaluation will be based on the performance of individual
+candidates during:
+i. the referred training and coaching program; and  ii. the first experience of delivering a course to certify SWH systems
+designers (i.e., a mentoring session to evaluate and improve training
+skills);
+b. In the following editions, to train and certify the SWH designers
+15. The specification of the SWH systems components shall take into consideration the need
+to choose components with a recognized and accepted certification. In this sense, solar
+collectors chosen for SWH systems, under the scope of this STO, must have certification
+Solar Keymark, and the other main components (e.g., storage tanks, circulation units,
+piping accessories and safety equipment) must have the mark CE.
+16. For all the SWH systems developed in the scope of this STO, there should exist a
+document containing all the relevant information that can serve as:
+a. The basis for understanding between the owner and the technician responsible
+by its definition
+b. Provide grounded estimates and transparent information regarding the
+economical and environmental evaluation of the project
+c. Give orientation to the installer in the execution phase; and
+d. Support the clarification and allocation of responsibility in the case that the
+installation presents deficiencies and, or, malfunctioning.
+17. The document referred in the number 16 is of the responsibility of the certified SWH
+designer. It should be in a complete version before the procurement process of the SWH
+system and should have a structure that addresses, at least, the points indicated in Annex
+IV of this STO.
+INSTALLATION AND COMMISSIONING OF SWH SYSTEMS
+The installation stage of SWH systems has been, in several European countries, a stage when
+many mistakes that endanger the reliability and durability of the installations occur. On the other
+hand the essay of all components and fine‐tuning of their respective working parameters, before
+entering in operation, helps to adapt the system to the concrete operational context and to the
+technical conditions that optimizes the systems’ performance. This STO aims at avoiding the
+concretization of performance risks in the several stages of a SWH system life‐time.
+18. The installation and commissioning of all SWH systems under the scope of this STO must
+be executed by certified SWH systems Installers.
+19. The certification process of SWH system Installers and commissioning technicians will be
+defined in a governmental order to be published by the Municipality of Tirana/the
+Ministry responsible for Energy, and will consist in the evaluation of the professional
+competence of individual candidates, taking into account the performance of the
+individual candidate in performing the activities foreseen in a specific training and
+coaching program.  
+20. The training and coaching program referred in point number 19 shall be based in the
+curriculum indicated in Annex V, which includes also professional development in security
+aspects, maintenance and monitoring of SWH systems.
+21. The training and coaching program referred in point number 19 shall be developed,
+adapted and delivered for the following two different stages:a. Initially, to train and certify the first frontrunners, i.e., a training of trainers.  
+In this case the evaluation will be based on the performance of individual
+candidates during:
+i. the referred training and coaching program; and  
+ii. the first experience of delivering a course to certify SWH systems
+installers (i.e., a mentoring session to evaluate and improve training
+skills);
+b. In the following editions, to train and certify the SWH installers
+MAINTENANCE AND MONITORING OF SWH SYSTEMS
+Nowadays SWH systems are planned to have a useful life of about 20 years. Maintenance of SWH
+systems is a key success factor for assuring high levels of reliability, availability, maintainability
+and security of those systems. On the other hand, in some cultures the energy performance of an
+energy system is not always related to its reliability. To overcome this issue it is important to
+establish, in parallel with a preventative maintenance plan, a monitoring plan to have a notion of
+how is our system performing.  
+Monitoring plans of SWH installations under the scope of a STO are also important to ensure the
+supply of information to the STO administration entity. Resulting information of a monitoring plan
+can help characterize the success of the STO or, in case the SWH installations under the STO are
+being financed or co‐financed by public funds, of how those public funds are being used.
+22. All the SWH systems developed in the scope of this STO must have, at the beginning of
+their operation, a preventive maintenance plan proposed by the certified SWH designer
+that was responsible for the design. The existence of this preventive maintenance plan is
+a necessary condition to the emission of the building permit by the competent authority.
+23. The preventive maintenance plan referred in the point number 22 should be developed
+according with the guidelines indicated in point number 24 and in the Annex VI of this
+STO. The preventive maintenance plan should be adapted to the specific operational
+context, of the SWH system, by the entity or individual responsible for assuming the
+responsibility of the services contract referred in the point number 30.
+24. The preventive maintenance plan shall include, at least, the identification of:
+a. The installation and its location, i.e., building address
+b. The contacts of the technician responsible for the design or maintenance, and, or
+the maintenance contract manager
+c. The function of the SWH system
+d. The expected number of users
+e. The solar collecting area, in reference to the aperture area of solar collectors
+f. The characteristics and specifications of the main components (circulation kit,
+storage tank(s), collectors, thermal fluid)
+g. The detailed description of the maintenance and cleaning tasks and their
+respective periodicitiesh. The detailed description of procedures for troubleshooting, in relation the most
+common failure modes of SWH systems
+i. The registry of the maintenance operations and alterations to the installation
+performed, including the name of the technician who performed said operations,
+the results of executing the procedures and other eventual pertinent comments
+j. The definition of the parameters to be read and registered for construction of the
+maintenance historic registry
+25. The preventive maintenance plan of the SWH systems under the scope of this STO, shall
+foresee the need to, access to and intervene in, all the constituting equipment and
+components for maintenance purposes.
+26. In a sheltered technical area of the SWH system there should be, easily accessible:
+a. an updated unifilar diagram of the SWH system
+b. a copy of the design document
+c. operating instructions  
+d. emergency instructions
+27. The entities and, or individuals responsible for assuming the responsibility of the services
+contract referred in the point number 30, must be able to demonstrate, at any time, that
+they possess the professional aptitude in the scope of this STO, i.e., a professional SWH
+systems designer and, or installer certificate, to perform the corresponding activities.
+28. All the SWH systems developed in the scope of this STO must have a monitoring plan. Said
+monitoring plan must define responsibilities for:
+a. Data acquisition
+b. Data registry in the maintenance folder of the SWH system
+c. Submission of data to the administrating entity of this STO
+29. The definition of the monitoring plan should follow the guidelines indicated in Annex VII
+30. All the SWH systems developed in the scope of this STO must be, since the beginning of
+their operation, subjected to a services contract for:
+a. Executing the preventive maintenance plan referred in point number 22
+b. Executing any other activity related with the reliability assurance of the system
+(e.g., corrective maintenance, fine‐tuning to improve performance, satisfy legal
+warranties over deficiencies in the installation)
+c. Monitoring the installation in accordance with the monitoring plan mentioned in
+point number 28, and  
+d. Keeping guard and managing the resulting information of both, the preventive
+maintenance plan and the monitoring plan (e.g., maintenance and performance
+historic of the installation).  
+31. The services contract referred in the number 30 should be established with the following
+entities, listed in order of preference:
+k. The entity or individual responsible for the installation of the SWH system  
+l. The entity or individual responsible for the design of the SWH system
+m. Any other entity or individual possessing a certification of installer and, or,
+designer of SWH systems as mentioned in this STO.
+32. The activities in the scope of the services contract referred in the point number 30 are of
+the responsibility of the services supplier. However, the contracting authority(Municipality of Tirana) as administrator of this STO and owner of the buildings in which
+the SWH systems will be installed and working, should include in its management
+activities procedures for monitoring the quality of the services provided by these service
+providers.  
+MUNICIPAL TARGETS FOR SOLAR WATER HEATING IN PUBLIC BUILDINGS
+33. The Municipality of Tirana shall start implementing this STO in 2013.
+34. The Municipality of Tirana shall define, document and implement, until the end of 2013,
+action plans to achieve the objectives and targets of this STO
+35. The Municipality of Tirana shall define and document, until the end of February 2014, the
+time frames for extension of this STO to private buildings, i.e., private residential and non‐
+residential buildings
+36. The Municipality of Tirana shall define and document, until the end of February 2014:
+a. The appropriate allocation of resources (human, technical and financial) and
+responsibilities (who does what) to put in place the operational and instrumental
+structures of the Municipal STO, including those needed for the supervision of
+this STO
+b. The precise way by which the SWH systems designers and installers will be
+qualified and certified. This shall include:
+i. the approval of the training and coaching programs and curriculums
+ii. the approval of the processes for recognition of competencies, rights and
+obligations of those new professional categories
+iii. the indication of the entities responsible for creating, developing and
+managing this qualification and professional aptitude certification process
+iv. the annual scheduling of training and coaching courses to qualify and
+certify SWH designers and installers
+c. The precise way by which the SWH systems will be simulated, as referred in the
+point number 7 of this STO
+d. The precise way by which the procurement, acquisition and final reception of
+SWH systems, to be installed in Public Buildings, will occur. This shall include the
+rules, procedures and the needed documentation.
+e. The precise way by which the SWH systems will be licensed
+f. A Monitoring, Verification & Enforcement (MV&E) plan to supervise and ensure
+the integrity of this STO. This MV&E plan shall not collide with the actual related
+procedures (e.g., licensing) and shall be defined in a cost‐effective manner, i.e.,
+ensuring the rational use of Municipal technical, human and financial resources
+g. The appropriate flanking measures to maximize the promotion and dissemination
+of information regarding this STO and the benefits of SWH technologies, e.g.:
+i. Campaigns
+ii. Municipal knowledge centre
+iii. Training of Municipal Staff in MV&E activities inherent to this STO
+h. The appropriate sanctionary regime to be applied in case of nonfulfilmenti. The motivations and causes that conduce to the need of revising and altering this
+STO. This statement for the revision of the STO shall have a periodicity referred in
+it
+37. The Municipality of Tirana shall ensure, by the end of April 2014:
+a. The training of the implicated Municipal staff in performing the MV&E activities
+needed to ensure the integrity of this STO
+38. The Municipality of Tirana shall ensure, by 15 July 2014:
+a. The existence of a team of certified Trainers, able to qualify and certify individual
+candidates for the programmes of SWH design and installation, using the
+curriculums foreseen in the Annexes III and V of this STO and the mentoring
+process referred in point number 14.a.ii.
+b. The existence of results of the first training courses, for designers and installers,
+after the Training of Trainers referred in the point number 34.a.ANNEXES
+ANNEX I – METHOD FOR CALCULATING THE SHW THERMAL LOAD
+The daily thermal load is calculated by using the following expression:
+DailyThermalLoad  (Vshw*  w ) *Cw *T /1000
+   
+[kWh] 
+Where:
+Vshw – is the reference daily average sanitary hot water (SHW) consumption in [liters]
+ρw – is the density of water, 0.988 [kg/liter]
+cw – is the specific heat capacity of water, 1.163 [Wh/kg*K]
+∆T – is the increase of tap water temp. for the preparation of SHW (e.g. from 15ºC to 45 ºC)
+For dimensioning the SWH system, the daily thermal load is expected to be the same in every day
+where there is consumption of SHW.
+For the purpose of calculating the reference daily average SHW consumption (ܯ௦௛௪), for a given
+type of building, the following values should be used:
+Table 3 – Reference values of SHW consumption for several types of buildings, [1]
+Type of building Sanitary Hot Water daily consumption (60 ºC) Units
+Residential 40 l/capita
+Hospitals 50‐65 l/bed
+School 5 l/capita
+Hotel ***** 90 l/bed
+Hotel **** 70 l/bed
+Hotel *** 55 l/bed
+Hotel ** 40 l/bed
+Hotel * 35 l/bed
+Elderly or students house 55 l/bed
+Military facilities 20 l/capita
+Gymnasium (showers) 25‐35 l/capita
+Laundry 4‐7 l/kg cloths
+Restaurant 6‐12 l/meal
+Canteen 4 l/meal
+The increase in tap water temperature to prepare the SHW (∆ܶ) shall have the reference value of
+45 ºC. This value results from two considerations:
+i) The annual average temperature of the water coming from the public grid is 15 ºC
+ii) The temperature at which the SHW must be warmed up is 60 ºCANNEX II – STEPS FOR DESIGNING A SWH SYSTEM IN THE SCOPE OF THE TIRANA
+MUNICIPALITY STO
+It is suggested that the design of SWH systems is made by realizing the following sequence of
+activities:
+ Collecting information about the building, the hot water needs and the expectations of
+the building owner, regarding the SWH system to produce. This activity can be carried out
+by using the check‐list provided in Annex X of this STO.
+ Simulating the SWH system in a software simulation tool as referred in point number 7 of
+this STO, i.e., quantify the collecting surface, the solar fraction and the annual solar
+energy obtainable.
+ Define the line‐up of the collectors and the physical characteristics of the primary circuit.
+ Define the filling pressure of the primary circuit, specify the safety components and
+define their location in the circuit.
+ Define the SWH system configuration (technical drawing, identification of components
+and map of quantities)
+ Define the backup system
+ Calculate the economical and environmental viability of the installation (ROI, NPV)
+ Describe the sequence of activities for the installation execution
+ Describe the procedures for final cleaning and commissioning of the SWH system
+  
+ANNEX III – CURRICULUM FOR THE TRAINING AND COACHING PROGRAM FOR
+CERTIFICATION OF SWH SYSTEMS DESIGNERS
+The proposed programmatic content is expected to respond to the training needs of professionals
+that are willing to become specialized in the design of SWH systems of medium‐ and large‐size.
+The proposed curriculum will deliver a level of knowledge to participants such that, since the
+beginning of the definition of the system, there will be the potential to condition the operation,
+the cost, the durability, the performance and the maintenance cost of the installation.
+The certification process of SWH designers initiates with the candidacy of the individual
+candidates. There will be no pre‐requisites. The training and coaching program consists of seven
+(7) days in class. Four (4) days will be used to deliver knowledge from the trainer to the
+participants. The three (3) last days will be used to initiate and elaborate on the practice exercise,
+i.e., designing with support of the trainer a medium‐size SWH system according with the
+information contained in Annex II and Annex IV of this STO.
+After the seven (7) days in class, totalling 56 hours, the participants will have 10 useful days to
+complete the SWH system design and the document referred in the number 15. The final work
+will be subjected to the evaluation of the trainer. The participant will have two opportunities to
+see his work evaluated. The evaluation will be made objectively and taking into account the
+evaluation grid included in Annex VIII. If the first evaluation delivers a classification inferior to
+85%, the participant will receive his work with written comments in relation to the parts thatwere not well done. If it is superior to 85%, the participant is approved as certified SWH systems
+designer under the scope of this STO. If, after the second evaluation, the classification is again
+below 85%, the participant will not be approved as certified SWH designer in the scope of this
+STO. Participant can always try more times but will have to initiate the process from the
+beginning.
+If approved, the participant will become habilitated to:
+ Design installations for SWH in global terms and in relation to all of its constituting
+elements
+ Make critical analysis of projects
+ Elaborate the budget to execute the project
+ Define and plan the program of works and activities in relation to all stages of the project
+development
+ Elaborate the plans for, production, installation, commissioning, maintenance and
+monitoring of a SWH system
+The programmatic content of the training and coaching program for certification of SWH systems
+designers is as follows:  
+ Basics of solar energy collection and storage (elementary physics / fundamentals of
+hydraulic circuits / solar radiation)
+ Fundamentals of solar thermal energy (relative movement Earth‐Sun / study of shades /
+detailed study of components / thermodynamic analysis of a solar collector)
+ Legislation and technical standards
+ Types of systems
+ Check‐list for information collection – Aspects to include for several types of buildings
+ Choice of storage capacity(ies)
+ Choice of collectors
+ SOLTERM software tool (Determination of collecting area / determination of Solar
+Fraction)
+ Displacement and interconnection of collectors
+ Primary circuit dimensioning (validation of commercial diameters / pressure loss
+calculations / circulating pump / heat exchangers dimensioning)
+ Charging pressure of the primary circuit and security equipment selection
+ Overall configuration of the system (single line diagram / location of safety components /
+map of quantities / working principle description and function of components / control of
+the system)
+ Back‐up system
+ Economical and environmental evaluation of SWH systems
+ Installation execution (schedule of activities / schedule of inspections / acceptance
+criteria)
+ Failure modes of a SWH system
+ Maintenance and monitoring of SWH systems
+ Security related with SWH systems operation and installation
+ Generalities on procurement of SWH systems installations
+ Project practical exerciseThe pedagogic methodology of the training and coaching program for certification of SWH
+systems designers is as follows:
+ The contents are presented in power point format with oral exposition and will be
+distributed to participants in hard copy.
+ The project practical exercise, initiated in class and finished in the participant’s premises,
+is developed according with the format indicated in Annex IV and submitted by e‐mail to
+an address defined by the entity managing the certification process, before the deadline
+indicated in this Annex.
+In the end of the training and coaching program, the approved participants will receive a
+certificate, attributed by the National Agency for Natural Resources, which will confer them the
+professional aptitude to design SWH systems.  
+As a result of this process a list of certified SWH systems designers will be created and maintained
+accessible to the interested parties on the internet site of the Municipality of Tirana/National
+Agency for Natural Resources.
+The training and coaching course is a presential course and implies the presence of participants in
+at least 90% of the total number of hours (56).
+ 
+ANNEX IV – STRUCTURE OF THE DOCUMENT TO BE PRODUCED BY THE SWH SYSTEMS
+DESIGNER WHEN DESIGNING SYSTEMS IN THE SCOPE OF THE TIRANA MUNICIPALITY
+STO
+The document to be produced for the purpose of satisfying the point number 15 of this STO shall
+have the following structure:
+1 Introduction
+2 Building description
+2.1 Initial information supplied by client
+2.2 Hot water consumptions / demand
+2.3 Additional information resuting from the visit and inquiry (use of check‐list)
+3 Simulation program (e.g., SOLTERM)
+3.1 Choosing the hot water storage tanks
+3.2 Choosing the collectors
+3.3 Simulating the system – Calculation of collecting area and annual solar energy
+4 Collectors’ arrangement and primary circuit characteristics
+4.1 Primary circuit mass and volumetric flow
+4.2 Diameters of the piping network (validation of commercial diameter)  
+4.3 Pressure loss in the primary circuit – piping and accessories (identification of the critical
+path)  
+4.4 Heat exchanger thermal power
+4.5 Primary circuit circulation pump
+5 Primary circuit pressure and definition of security equipment/components
+5.1 Security equipment and components
+5.2 Loading pressure of the primary circuit
+6 Configuration of the SWH system
+6.1 Single‐line diagram (with precise location and identification of accessoories)6.2 Detailed description of components (map of quantities and commercial reference of
+accessories)
+6.3 Control system and system’s working principle (monitoring parameters and control
+conditions)
+6.4 Collector’s security temperature
+7 Backup system
+7.1 Source of energy for backup system
+7.2 Technical characteristics and interconnection with SWH system
+7.3 Control of backup system and working principle (monitoring parameters and control
+conditions)
+8 Installation’s viability
+8.1 Acquisition budget
+8.2 Installation budget
+8.3 Avoided energy costs
+8.4 Simple payback; Net present value; Internal rate of return
+8.5 Environmental benefit of the installation
+9 Execution of the installation
+9.1 Schedule for execution of works
+9.2 List of equipment suppliers (collectors, storage tanks, hydraulic groups, …)  
+9.3 List of installers (companies) that can be invited to bid
+9.4 List of tools to be used in the installation execution (referring the utility and function)  
+9.5 Maintenance program and plan (actions, verification parameters and respective
+periodicity)
+9.6 Market consultation procedure (including parameters evaluation and selection criteria)
+9.7 Installations’ provisional acceptance criteria
+10 Annex
+Annexo I – Building plants (technical drawings)
+Anexo II – Check‐list used for information collection
+Annex III – Simulation reports  
+Annex IV – Calculations spreadsheet
+Annex V – Equipment catalogues
+ANNEX V – CURRICULUM FOR THE TRAINING AND COACHING PROGRAM FOR
+CERTIFICATION OF SWH SYSTEMS INSTALLERS
+The proposed programmatic content is expected to respond to the training needs of professionals
+that are willing to become specialized in the installation of SWH systems. The proposed
+curriculum will deliver a level of knowledge to participants such that, there will be the potential to
+condition the operation, the cost, the durability, the performance and the maintenance cost of
+the installation. Furthermore, a large focus on the safety of the installation activities will be given
+so that accidents can be minimized.
+The certification process of SWH installers initiates with the candidacy of the individual
+candidates. There will be no pre‐requisites. The training and coaching program consists of seven
+(7) days. Four (4) days will be used to deliver knowledge, in class, from the trainer to the
+participants. The three (3) last days will be used to visit existing and selected installations so that a
+real perception of good and bad practices can be made.After the seven (7) days, totalling 56 hours, the participants will have 10 useful days to complete
+the SWH system installation exam. The final work will be subjected to the evaluation of the
+trainer. The participant will have two opportunities to see his work evaluated. The evaluation will
+be made objectively and taking into account the evaluation grid included in Annex IX. If the first
+evaluation delivers a classification inferior to 85%, the participant will receive his work with
+written comments in relation to the parts that were not well done. If it is superior to 85%, the
+participant is approved as certified SWH systems installer  under the scope of this STO. If, after
+the second evaluation, the classification is again below 85%, the participant will not be approved
+as certified SWH designer in the scope of this STO. Participant can always try more times but will
+have to initiate the process from the beginning.
+If approved, the participant will become habilitated to:
+ Execute installations of SWH systems of all sizes
+ Elaborate the plans for, production, installation, commissioning, maintenance and
+monitoring of a SWH system
+ Take the responsibility for the maintenance and monitoring of SWH systems
+The curriculum for installers should be based on the following topics:
+ Basics of solar energy collection
+ Fundamentals of solar thermal energy (detailed study of components / thermodynamic
+analysis of a solar collector / study of shades)
+ Fundamentals of hydraulic circuits
+ Materials of SWH systems
+ Sequence of activities needed for having a SWH system constructed
+ Means and tools needed and respective function
+ Washing and filling up the primary circuit
+ Preparing the commissioning – development of a check‐list
+ Failure modes of a SWH system
+ Maintenance and monitoring of SWH systems
+ Security related with SWH systems operation and installation
+ANNEX VI – GUIDELINES FOR DEVELOPING THE SWH SYSTEMS PREVENTIVE
+MAINTENANCE PLAN
+In the scope of this STO all SWH systems shall have a preventive maintenance plan including the
+following maintenance actions and respecting the respective periodicities.
+Table 4 – Preventive maintenance actions recommended for SWH systems
+COMPONENT INTERVENTION FREQUENCY
+(months) OBSERVATIONS
+Solar Collectors Cleaning 12
+With water and detergent. Execute the operation
+in periods of low sun radiation (sunrise or
+sunset).Structure 12 Recover structure parts that present corrosion;
+sand and paint. Verify screw tightness.
+Collectors
+Covering 6
+Visual inspection. Replace in case of crack. If
+significant condensation is observed inside,
+identify the origin and correct the situation.
+Joints 6 Visual inspection (adherence, deformation and
+degradation).
+Absorbing board 6
+Visual inspection to detect scaling of paint,
+corrosion points, strange bodies deposition,
+leakage and deformations. Replace in case of
+leakage.
+Piping 6 Visual inspection for leakage detection.
+Box 6 Visual inspection for deformation detection.
+Primary Circuit
+Thermal fluid in circulation
+12 Check density and PH  (pH< 5 may indicate the
+need for replacement)
+60 Replacement of thermal fluid.
+Waterproofness 24 (max.) Make pressure proofs from the second year of
+operation.
+Purge
+‐ Automatic 12 Clean and confirm correct operation.
+‐ manual 0,5 Activate to release air retained.
+Coil 60 Cleaning and take out. Simultaneously with
+replacement of thermal fluid.
+Pump 12 Waterproofness and lubrication.
+Thermostat 12 Cleaning. Check functionality control and
+regulation. Use temperature sensors.
+Expansion vessel 12 Comprove pressure.
+Heat exchanger 60 Cleaning and inspection (12 months in locations
+with hard waters).
+Secondary
+circuit
+Cut off valve 12 Lubricate and fasten.
+Security valve
+12 Move them along their entire course to avoid
+incrustation or mineral deposits.
+60 Check release pressure.
+Thermal storage reservoir 24 (max.) Verify cathodic protection elements.
+Electric
+components
+Switch 12 Cleaning and fasten the terminal connections.
+Meters 12 Cleaning and fasten the terminal connections.
+Differentials 12 Control of operation. Verification of mass
+connection.
+Electric panel 12 Cleaning.ANNEX VII – GUIDELINES FOR DEVELOPING THE SWH SYSTEMS MONITORING PLAN
+In the scope of this STO, the objectives of monitoring are:  
+i) to determine the quantity of solar thermal energy that is converted and delivered to
+the consumption as well as the contribution, for the same consumption, of the source
+of energy that supplies the backup equipment;  
+ii) to validate the calculation tools used in the dimensioning of the SWH system; and  
+iii) provide valorous information to the administrating entity of this STO about, among
+other thing, the number of installations, their performance and energy savings
+achieved.  
+In the scope of this STO all SWH systems shall have a monitoring plan including the following
+actions and respecting the respective periodicities.
+Object of Monitoring KPI Periodicity
+Thermal fluid temperature at the
+exit of each autonomous group
+of collectors
+Differences larger than 5 ºC 6 months
+Fuel or electricity that is used by
+the backup system
+Kg or kWh   12 months
+Annual solar energy collected –
+Productivity (kWh/m2
+)
+Integration of the enthalpy
+measured by the energy
+management system
+6 months
+Sanitary hot water consumption Install a meter at the
+entrance of the storage
+tank(s)
+12 months
+ANNEX VIII – EVALUATION GRID FOR THE COURSE OF SWH SYSTEMS DESIGNERS
+ANNEX IX – EVALUATION GRID FOR THE COURSE OF SWH SYSTEMS INSTALLERS
+ANNEX X – CHECK‐LIST FOR INFORMATION COLLECTION IN THE SCOPE OF THE SWH
+SYSTEMS DESIGN
+The following is an example of the use of a check‐list appropriate to multi‐family apartments
+building.Local Somewhere in Tirana 
+Typologies Quantity Nº of bathrooms Nº of showers Observations
+T0 3 1 1 Building under 
+rehabilitation. It will 
+incorporate taps and 
+showers of Class A+
+hydraulic efficiency. 
+T1 3 1 1 
+T2 5 2 1 
+T3 2 2 2 
+T4 3 3 2 
+T5
+Observations
+Consuming
+profiles
+Regulation derived According with Tirana SWH Standards. See the decree 
+Other for details. 
+Seasonality To be used all year. 
+Observations
+Other hot water requirements Washing machines Machines receive pre-heated water. 
+It must be defined an extra hot 
+water demand for this. No pools. 
+Other SWH system applications Pool
+Other
+Back‐up system Observations
+Is there a grid of conventional fuel (natural gas) ?
+What is the most cost‐effective local source of energy ?
+Are the houses equiped with heating system ? Specify.
+Roofing Observations
+Plane accessible The roofing is plane and accessible, by stairs. There is an 
+elevator between living floors. Rrofing is above the 5th floor. 
+Collectors may have to be transported to the roof by elevating 
+means (depends on the model chosen). The roof is in good 
+condition to resist to the load. 
+Plane not accessible
+Sloping
+Other type
+Roof covering Observations
+Ceramic tile
+The roof coveing is asphaltic. The covering is supposed to be 
+replaced in the scope of the rehabilitation. There should exist a 
+careful planning to integrate the installation of the SWH system 
+without damaging the new asphaltic covering. 
+Metal sheet
+Mosaic
+Asphaltic
+Pebble
+Inclination No inclination. There is sufficient space to install the collectores 
+Orientation South oriented and according with good rules of the art. 
+Sources of shading ObservationsExisting The only shading source is the surrounding wall of 1,1 m height 
+and the howuse of the elevator room located in the centre of the 
+roof. Potential
+Observations
+Positioning of lead The lead columns can pass through the existing technical 
+courette that exist in the lateral of the elevators vertical 
+passage. Space available columns
+Building technical room
+Local Observations
+Roof
+The bulding technical room is in the basement. It accomodates 
+currently an old boiler, used for heating purposes, that will be 
+removed in the scope of the rehabilitation. 
+Ground‐floor
+Basement
+Other
+Dimensions ‐ plan Technical drawings exist. There is sufficient space to 
+accomodate (and move in) the needed equipment for the SWH 
+system (circulating system and expansion reservoirs). 
+Height
+Access dimensions
+Fraction technical room
+Local Observations
+Laundry The most appropriate space to accomodate the individual hot 
+water storage tank would be in the sheds, where old electrical 
+thermal accumulators are installed. Attention to the choice of 
+model and the respective space needs for maintenance. 
+Shed
+Other
+Dimensions ‐ plan Technical drawings exist. There is sufficient space to 
+accomodate (and move in) the indivuidual hot water tanks 
+and security components. Primary and secondary circuits must 
+pass there. 
+Height
+Access dimensions
+Positioning of accessories Observations
+Energy meters The system should have at least one enrgy meter, located in the 
+technical area with 2 sensors (one in the collectors area and 
+one just before the pump). 
+The cut-off valves of the collectors area should be instaleld on 
+the top of the lead columns (at the level of roofing). 
+There should exist, in the primary circuit, flow regulation valves 
+in each autonomous group of collectors, at the exit of each 
+individual storage tank and in the technical room. 
+Water meters
+Cut‐off valves
+Flow regulation valves
+Date:
+Surveyor:ANNEX XI – GROUNDS FOR DEVELOPING A SOLAR THERMAL OBLIGATION IN THE
+MUNICIPALITY OF TIRANA
+Solar Water Heating (SWH) is a proven technology to supply Sanitary Hot Water (SHW) to the
+service sector (e.g. hospitals, hotels, and schools), industry and households. However, low
+electricity prices and non‐payments are obstacles to the penetration of this carbon‐free source of
+useful energy. Nevertheless, solar panels are already available on the market and significant
+volumes have been installed. According with the national Agency of Natural Resources of Albania,
+in 2010, a total of 10,700 m2 were installed (60% by services, 40% by households), bringing total
+installations to 52,000 m2 (equivalent to around 70 GWh/y or 1% of electricity consumed by
+households in 2009). UNDP is supporting a programme (2011‐2015) to install 50 thousand m2 of
+solar panels based on grants and fiscal incentives.
+In Tirana, the daily average solar radiation in each month is given in the table below.
+Table 1 – Monthly daily average solar radiation [kJ/m2]
+County Jan. Feb. Mar. Apr. May Jun. Jul. Aug. Sep. Oct. Nov. Dec
+Tirana 12066 13292 14243 16007 18555 20538 21598 21896 19854 16564 13604 13250
+The following pictures illustrate the availability of the energy resource – Sun – in annual energy
+per square meter and the annual sunshine hours. It can be seen that Tirana is located in a region
+where there is an annual average of 1500 [kWh/m2
+] and where it is possible to have a SWH
+system operating during more than 2500 hours per year.MUNICIPAL VISION OF A SOLAR WATER HEATING FRAMEWORK
+Generally composed of solar thermal collectors, an hydraulic circuit to carry the thermal energy
+collected and a storage of the thermal energy, SWH systems provide a simple, cost‐effective, and
+sustainable means of heating water for domestic and other uses. In addition to reducing Green
+House Gas (GHG) emissions, SWH systems offers a host of potential benefits to governments
+seeking to reduce their dependence on fossil fuels and, or, reducing energy importations and
+improving the overall efficiency of their energy sector, in both perspectives – supply and demand
+sides. In countries where power demand is exceeding capacity, SWH can reduce pressure on the
+national power system and diminish pollution produced by conventional energy sources.
+The contribution of SWH for the Nearly Zero‐Energy Buildings (NZEB) concept can be very
+significant, especially in residential buildings and in those buildings where there is a significant
+need of heat for preparing sanitary hot waters. The NZEB concept is related to the development
+of buildings that have a very high energy performance and therefore require a very low amount ofenergy to comply with its function. Moreover, the low amount of energy required should be
+covered to a very significant extent by energy from renewable sources, including energy from
+renewable sources produced on‐site or nearby. The NZEB concept is being widely studied through
+all Europe and is expected to be mainstream from 2018 onwards (on new public buildings) and
+from 2020 onwards (on all buildings).
+Given the crisis in the EU construction sector, it is expected that new incentives and obligations
+will redirect the construction companies’ efforts for the urban rehabilitation and, therefore, the
+NZEB concept eventually start being applied also to the existing buildings, which hide the greatest
+potential to avoid energy use.
+Environmental benefits of a SWH framework are the direct and indirect reduction of GHG
+emissions. Direct reduction of GHG emissions are obtained by the avoidance of using fossil‐fuel
+based primary energy sources to prepare sanitary hot waters. Indirect reduction of GHG emissions
+are obtained, for example, by the avoidance of overheating of buildings, the reduction of the
+heat‐island effect and by the avoidance of transporting fossil‐fuel based primary energy from
+outside the boundaries of the city to the city (e.g., LPG, natural gas, diesel). The environmental
+performance of cities can be well characterized and monitored using and implementing the
+concept of Energetic Matrix.  
+Economic and social benefits of a SWH framework include the creation of new (and eventually
+certified) professional categories, enhanced employment opportunities and the creation of small
+and medium‐sized SWH businesses. The development of such businesses and maturation of the
+respective market could lead to improved product quality and professional culture.  
+KEY CHALLENGES
+Through all Europe, and especially in the South European countries, solar thermal is a key
+technology to address multiple current challenges such as sustainable development, green
+economy, population growth, housing, quality of life, resource efficiency, energy efficiency,
+climate change and poverty eradication.
+Albanian challenges are a combination of the global challenges with particular challenges of
+Albania as a state with a transitional economy. From the analysis made to the available
+information, it was possible to identify several aspects and market barriers that must be
+addressed by the implementers of the Tirana Municipality STO in order to achieve the objectives
+of the STO and to promote the creation, development and sustained growth of a solid solar
+thermal market.  
+ Lack of installations working in a correct and effective manner
+ Lack of installations working and subjected to a monitoring program
+ Lack of knowledge from the public in general regarding the benefits of SWH and Energy
+Efficiency (EE)
+ Lack of service providers (companies) duly qualified and certified by an accredited
+certification body   Lack of individual technicians qualified and certified, by an accredited certification body,
+to perform the activities of design, installation, commissioning, maintenance and
+monitoring of SWH systems
+ Lack of financial incentives to promote not only the final users of SWH systems but also:
+o The construction stakeholders (supporting the over‐cost of new constructions);
+and especially
+o The entrepreneurs that know and believe in the benefits and potential of SWH
+and that may want to create their business in the area.
+GENERAL RECOMMENDATIONS
+It is not uncommon to see countries that have loads of laws and regulations that, although
+technically perfect, do not work as initially expected. There are at least two major reasons for this:
+a) The high level of complexity of the Regulations;
+b) The inadequate instrumental and operational structure of the Regulations to ensure its
+integrity.  
+Regarding point a), the complexity of the law makes it difficult to be applied and constitutes a
+general barrier to its fructuous implementation. This is even clearer if the object of the new law is
+a “new subject”, as it is for the case of SWH in Albania.
+Therefore, it is recommended that the regulation should be simple and clear to be, easily applied,
+less expensive to manage and to more easily convince all stakeholders that the application of the
+law will benefit the community.  
+The regulation shall establish in a clear and direct way the linkage of activities to be done, the
+entities responsible implicated and the respective timeframes that must be satisfied by the
+implicated parties, e.g., operational structure of the STO and its target groups (time of entering
+into force, actors, deadlines, documentation to present, periodicity of inspections, training and
+certification of professionals, …).
+Regarding point b), the initial operational structure must be carefully balanced in order not to
+compromise the integrity of the standard, in one hand, and to ensure that the implementation
+and maintenance costs are kept as low as possible, on the other hand. The integrity of a standard
+can be measured by the respective levels of Monitoring, Verification and Enforcement (MV&E).
+Monitoring comprises the collection and analysis of data to give an accurate picture of the STO
+progress and compliance, and is usually an on‐going process. It provides the opportunity to
+identify and act on any implementation issues, as well as providing data for the STO evaluation.
+Verification is the process of determining whether the SWH systems are being developed
+according with the requirements of the STO (e.g., quality requirements).
+Enforcement is about responding to non‐compliance offences with a suite of timely and
+appropriate actions. When developing a STO it is essential to consider not only how non‐
+compliance will be detected, but also how it will be responded to and by whom. When instancesof non‐compliance are not responded to as often or as appropriately as they should be, there are
+negative repercussions on the STO integrity. If participants see that the penalties for non‐
+compliance are low, then there is less motivation for them to comply, particularly if the costs of
+compliance are seen to be high. The STO administrators should consider the design and
+implementation of procedures for responding to non‐compliance offences.  
+A VISION OF EU STANDARDS ON STO  
+The experience has been showing that there has been in the several EU regulations concerning
+energy use in buildings, a merging of measures that promote renewable integration and EE
+improvement. In fact, the need to save conventional (fossil‐fuel based) energy, through, namely,
+the limitation of energy demand, the increase of the thermal energy systems efficiency and the
+introduction of renewable energy collected locally or nearby, made clear that it is necessary to
+establish an integrated “bundle of policies” in the direction of the Nearly Zero‐Energy Buildings.  
+One key aspect hat must be reflected in this “bundle of policies” is that of quality. It is essential,
+for the benefit of the users, the market and the credibility of the STO, to integrate certification
+schemes in key aspects of the STO as well as technical and, or, performance requirements.
+Examples of these aspects are:  
+ Certification of components of the SWH system (e.g., the collectors);  
+ Certification of the designers for medium and large size installations;  
+ Certification of installers for installations of all sizes;  
+ Introduction of technical requirements, such as reference to EU Standards and
+comprehensive maintenance plans;  
+ Integration of requirements for reliability assurance, such as the existence of a valid
+maintenance contract during the useful life‐time of the SWH system;
+ Integration of performance requirements, such as persistence of a given Solar Fraction
+(SF) and, or, annual productivity.
+Another aspect to reflect in the Tirana Municipality STO, as a general good practice and for the
+benefit of overcoming existing barriers, is that of the public awareness. Parallel to the
+implementation of the STO, the public in general must have easy and free access (e.g., on‐line
+access, solar thermal municipal knowledge centre) to information about the work being
+developed by the operational structure of the STO. Examples of relevant information are:
+ Lists of certified equipment that exist in the market (national/international);
+ Lists of local certified professionals (designers and installers);
+ List of institutions that promote the training of all stakeholders and the qualification and
+certification of SWH systems professionals;
+ Annual scheduling of training and coaching programs for certification of preofessionals;
+ Technical description of SWH systems and respective individual integrating equipment;
+ Manuals containing guidelines;
+ Data and graphics illustrating the chronological rate of penetration of SWH systems in the
+market (desirable before and after STO implementation to have better perception of the
+effect); Initiatives of financial incentive for voluntary integration of SWH systems.
+THE SCOPE OF A STO
+STO’s are generally applied to new and existing buildings subjected to large refurbishments and,
+sometimes, when there is the need to replace water heating systems. Although it would be
+desirable to integrate all buildings in a STO, pondering on the existing limitations is
+recommended. The first STO ever, a 1980 Israeli law, had encompassed only the residential
+buildings with a height up to 27 meters. Very tall buildings and non‐residential buildings were not
+considered in the scope of the law.
+The following group of criteria can be used to determine the type of buildings to include in the
+scope of an STO:
+ Type of use (residential; non‐residential; seasonality);
+ Localization (i.e., climatic zone);
+ Age (new/existing buildings);
+ Hot water needs (litre/day or litres/year, SHW temperature);
+ Dimension (total net area; height; number of autonomous fractions)  
+ Energy consumption
+The following group of criteria can be used to determine the type of buildings to exempt of the
+scope of an STO:
+ Buildings used as places for worship or religious activity;
+ Temporary buildings;
+ Protected monuments;
+ Buildings under permanent shading;
+ Buildings not included in the scope of the STO.
+It is a success key factor to define as clear as possible the scope of the STO (i.e., buildings in the
+scope and buildings exempted), in order not to affect its intention and not to allow circumvention
+of the rules.  
+The Tirana Municipality is already limiting the scope of intervention of the STO to develop, to the
+universe of Public buildings. This seems wise and advisable at the first glance, but it is
+recommended just for the purpose of highlighting the intention of being the Public Authority to
+set the example; progressive extension of the scope of the STO to other buildings (e.g., private
+buildings) is recommended because of the cost‐benefit analysis of applying the STO.
+QUANTIFYING THE OBLIGATIONThe critical aspect of an STO is the minimum proportion of solar energy contribution to the overall
+thermal load for water heating purposes (i.e., the solar fraction). A STO must define clearly:
+ A quantitative and qualitative definition of the obligation; and
+ A unequivocal description of the calculation procedure.
+The following approaches are possible:
+1. The STO stipulates the SF of the SWH system (e.g., 40 % ‐ 80 %). This SF can vary
+depending on several parameters (e.g., the use of the building; hot water needs;
+availability of solar energy; availability of area to install solar collectors).
+SWOT Analysis, [3]  
+Strengths
+correctness and precision: giving different
+values for the obliged share, taking into account
+different parameters (building size, climate,
+etc.) and requiring a specific calculation allow to
+meet precisely the requirements; for instance,
+the efficiency of the solar collector could be
+included in the calculation;  
+from the point of view of communication, it is
+easy to understand how much solar really
+contributes to the hot water demand and
+therefore to the energy savings in buildings.  
+Weaknesses  
+calculations should be first performed and then
+checked; this means that both designers and
+Municipality staff (or other actors in charge of
+the checks) should be adequately trained.  
+the approach is practically applicable only to
+solar domestic hot water systems. It is not
+applicable for systems for combined domestic
+hot water preparation and space heating.
+Opportunities  
+N/A
+Threats  
+simplified tools and standard calculation
+methods should be provided and their correct
+use should be carefully checked; otherwise, any
+applicant could do his/her own 'tricks' for not
+fulfilling the obligation;  
+the above tools should be for free, cleary visible
+on web sites and easily downloadable;  
+do not allow exemptions or lowering of the
+minimum share based on too generic 'technical
+impossibility' to install the solar thermal plants.
+2. Making a relation between the minimum solar collecting area to be installed and some
+well known and standardized figures of the construction sector, such as, square meters of
+useful area or number of occupants. For this method to be precise, it will be needed to
+define parameters for the specific climatic zone and parameters related with the solar
+collector’s technology.SWOT Analysis, [3]  
+Strengths  
+this approach is easy both for calculating the
+amount of solar thermal to be installed and
+also for checking the fulfilment;  
+it is applicable for both applications of solar
+plants, domestic hot water preparation and
+space heating;  
+it uses figures which designers and
+Municipality staff are quite familiar with (floor
+area, number of occupants and which should
+be anyway communicated when asking for
+building permission.
+Weaknesses  
+not precise and not correct on a
+technical/scientific basis, since we only talk
+about m2 of 'solar thermal', without taking into
+account the efficiency of the collector; defining
+a set of values depending on the efficiency
+could avoid this problem;  
+from the point of view of communication, solar
+thermal is something which is expressed
+through m2 and not through the produced
+heat. Presently the solar thermal markets are
+changing to the use of kWth instead of m2 for
+defining the size and capacity of solar heating
+systems. Following this development it is
+should be considered to specify the obligation
+in kWth collector capacity per m2 and per
+occupant.
+Opportunities  
+N/A
+Threats  
+define precisely which area of solar thermal we
+are referring to ('gross', 'aperture', 'absorber');  
+do not allow exemptions or lowering of the
+minimum values based on too generic
+'technical impossibility' to install the solar
+thermal plants.
+The first approach is a more simple and easy to understand option, besides being more precise,
+since it is more directly related with the purpose of the system. The second option can become
+complex and become a source of questions from the interested parties involved.  
+For the Tirana Municipality STO the use of the approach described in point 1 above is
+recommended.
+Given that Tirana has very good solar radiance a high threshold could in principle be placed.
+However, as the economical aspect of SWH systems must not constitute a discouraging factor, the
+Tirana Municipality STO should be implemented with a moderate level of SF. Ideally there should
+be a range of acceptable SF to be taken into account when designing a SWH system (55‐65) and a
+solution to exceptions that can eventually surge when the application of the STO begins.Experience has shown that a high solar fraction (e.g., > 70%), does not mean cost optimality of
+minimum SWH requirements. The next figure is a tendency curve of the SF of a SWH system in
+function of the collecting area. It was placed here to illustrate the idea that it may be better
+having a system with a moderate SF and operating with high levels of global efficiency instead of a
+very high SF and a system with lower global efficiency.
+Figure 3 – Solar Fraction (%) of a SWH system vs Collecting Area (m2)
+For this graphic, 13 simulations were done in the SOLTERM dimensioning tool. It can be noted
+that the last 6 simulations correspond to values of SF between 80% and 90% and that the
+corresponding increments in SF associated with the increase of collecting area is progressively
+smaller. It should also be noted that from simulation nº 6 (Collecting area = 14,22 m2 | SF =
+75,4%) the simulation resulted in the generation of wasted energy, i.e., solar energy that was
+collected but that will not have use/be useful, taking into account the application foreseen for the
+SWH system (in this case, preparation of SHW). These facts constitute valorous information for
+defining the cost optimality of the minimum SWH requirements, to be established in a STO.
+On the other hand, the optimization of the NPV of a SWH system implies the collection of a
+significant amount of solar energy, to ensure the profitability of the investment. Calculating the
+NPV of the system, i.e., the accumulated cash flows provided by the operation of this SWH
+system, one can have a perception of the exact collecting area that provides economical
+optimization of a SWH system.  
+The SOLTERM tool has this optimization process integrated in its functionalities. Using this specific
+example, a designer could dimension the SWH system for a collecting area immediately below the
+threshold of waste generation (14,2 m2 – 6 collectors). However, after integrating all the relevant
+information to have a clearer picture of the economics of this SWH system, the designer can
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100conclude that the collecting area that optimizes the NPV of this specific SWH system is lower than
+what was defined just by analysing the annual performance of the system (9,5 m2 – 4 collectors).  
+The Municipality of Tirana, as a leader in Albania for the implementation of STO, given the
+potential national interest, should strive to have the support of the Ministry responsible for
+Energy and, or the UNDP, to initiate the procurement of a simulation software tool, perfectly
+adapted to the conditions and needs of the STO. Said software tool, eventually useful also for the
+Albanian Buildings Energy Performance Certification System, should be able to be further adapted
+to encompass the climatic conditions of all the Albanian territory.
+Figure 4 – SOLTERM output related with the economical optimization of a SWH system, using the NPV method
+Finally, using the value of collecting area that optimizes the NPV (9,5 m2) and the graphic of Figure
+3, the SF of the economically optimized SWH system is approximately 62 %.
+There are other software tools, such as POLYSUN and, or, T‐SOL, that can be indicated for the
+purpose of being considered as the tool to be used in the scope of the Tirana Municipality STO.
+The SF is naturally related with a given Thermal Load (TL). The TL’s to consider for the STO should
+be the hot water needs of several types of buildings. The following table taken from [1], gives an
+indication of reasonable values of hot water needs for several types of buildings. These figures
+presuppose that the hot water piping of the secondary circuit is thermally insulated.  
+The units in which the hot water needs are expressed must facilitate the design of the SWH
+system, in particular the dimensioning of the storage tank(s). It is good practice that the storage
+tanks are dimensioned with the following criteria: the volume of the storage tank(s) must be
+equal to the daily hot water needs.
+Table 2 – Hot water needs by type of building according with Portuguese STO (RCCTE)
+Type of building Hot water daily consumption (60 ºC) Units
+Residential 40 l/capita
+Hospitals 50‐65 l/bed
+School 5 l/capita
+Hotel 90 l/bed
+Hotel 70 l/bed
+Hotel 55 l/bedHotel 40 l/bed
+Hotel 35 l/bed
+Elderly or students house 55 l/bed
+Military facilities 20 l/capita
+Gymnasium (showers) 25‐35 l/capita
+Laundry 4‐7 l/kg cloths
+Restaurant 6‐12 l/meal
+Canteen 4 l/meal
+These values can be used for the Tirana Municipality STO providing that the design of the
+secondary circuit comprehends thermal insulation in the hot water piping.
+EXAMPLES
+Several approaches used in Europe to define the solar collectors’ mandatory surface.
+1 ‐ The Portuguese legislation requires 1 m² of standard solar collector per occupant of the
+residential building.
+2 ‐ The regulation in Murcia, Spain, demand that the system covers 60‐70% of the heat needs to
+produce sanitary hot water.  
+3 ‐ The German law of renewable heat and the regional law of Baden‐Württemberg of renewable
+heat demands that, for the existing buildings and for the new buildings, 10 to 20 % respectively of
+the global energy needs for heating are covered by renewable energy sources. This is
+accomplished when 0,04 (m2 of solar collector / m2 of useful pavement surface), is installed.
+QUALITY REQUIREMENTS
+Without appropriate measures to ensure, quality of SWH systems installations and persistence of
+SWH systems performance, there can be frequently installations of low quality that will generate
+lower solar energy gains than expected and will affect the credibility of the STO and eventually
+the credibility of the technology. This latter is more probable in markets with low penetration of
+solar thermal (as it is the case in Albania). Therefore the regulations must be conceived in a way
+to ensure that the products used in the SWH systems, the planning/design of the SWH systems,
+the installation, commissioning and maintenance/monitoring of the SWH systems are according
+with the state‐of‐the‐art.
+The STO should not include to much technical requirements if it will not be possible to confirm
+them all and if, by doing so, the technological innovation and development will be impeded.
+The quality requirements should be:
+ Clear;
+ Applicable (e.g., certified products and, or, services only if in the market there is a
+significant quantity available; otherwise the STO must establish deadlines to accomplishthe certification requirements included in the STO). Even if there are not many internal
+suppliers, Albania is a member of the World Trade Organization and can, therefore, access
+easily the EU market.
+ Inclusive, i.e., include quality requirements for the services needed in the main stages of
+the SWH systems (from planning/design to maintenance/monitoring) and for the
+products/components;
+ For the services, several requirements should be established, e.g.:
+o Design (certified designers; accredited training centres/entities)
+o Installation (certified installers; delivery of a specific maintenance plan; accredited
+training centres/entities);
+o Operation and Maintenance (maintenance contract valid for a given number of
+years; energy performance contract; monitoring of the system; random
+inspections);
+ For the products and components, it is preferred that Albanian or European standards are
+used (e.g., solarkeymark for solar collectors). If different schemes are created and, or,
+adopted the market may become fragmented, the competition will be reduced, the
+certification costs will be higher all with disadvantage to the final users;
+EXAMPLES
+1 ‐ The Solar Keymark is the first internationally recognized quality mark for solar thermal
+products and it is based in three main imperatives:
+ Testing of the initial type of collector through the methodologies described in the
+European Normatives EN 12975 or 12976
+ Having implemented a Quality Management System for the manufacturing process
+ Ensuring annual revision of the Quality Management System and submitting the product
+to a bi‐annual inspection
+Sometimes the market feels as if it is awash with a large variety of standards and directives to
+achieve the necessary market compliance. To simplify understanding of achieving EU market
+needs:  
+ The obligatory CE marking shows conformity with European directives.  
+ The voluntary Keymark certifies conformity with European standards and so offers market
+opportunities.  
+ National marks certify conformity with requirements of national Member State
+certification schemes.  
+If the EU has produced a directive relevant to a particular product, then manufacturers selling
+that product have to show conformity by attaching the relevant CE mark. For the time being, only
+very large collectors can be CE marked. In the next 5 to 10 years, it is anticipated that collectors
+will need a CE mark.  The Solar Keymark is a voluntary third‐party certification mark, introduced by CEN and CENLEC
+(the European Committee for Standardisation introduced the Keymark) and developed by ESTIF
+(the European Solar Thermal Industry Federation) and CEN, with the support of the European
+Commission. By obtaining the Solar Keymark, the solar product qualifies for nearly all the
+different Member State regulatory and financial incentive schemes. The voluntary Solar Keymark
+scheme encourages the further expansion of the European solar thermal market by improving
+market confidence in solar products.  
+2 ‐ In Portugal besides the existence of a certification scheme for installers, ADENE(*) is
+developing, in partnership with CERTIF(*), a certification scheme for SWH systems Designers. As
+the thermal regulation for buildings is to be reformulated, one aspect that is expected to be
+included is that medium‐ and large‐size SWH installations (mandatory according with the
+buildings thermal regulation) will require a design developed by a certified designer.  To be a
+certified designer, one must conclude successfully a training/coaching course (with classification
+above 90%) and have significant experience (still to be defined).  
+(*) :
+ ADENE ‐ the Portuguese Agency for Energy.
+ CERTIF – an association for Certification composed of 27 associate members like business
+associations and laboratories that represent several activity sectors.
+3 – In France, Qualisol is a qualification of installers that includes 10 compromises (from advisory
+to the after sales). It is a voluntary compromise valid for three years, but with annual renovation.
+To become a Qualisol company, the organization must demonstrate that possesses technical
+competency in solar thermal, through previous experience and, or, professional development
+certificates. Within the three years of the compromise, the certification organization (Qualit’EnR)
+will execute a quality audit to one installation done by the installer.
+The audit is presented as a pedagogic tool for the installer and a confidence mark for the
+customer. Depending on the number of non‐conformities, the results of the audit may vary from,
+“perfect service” to “failed installation”. Based on the result the installer will maintain, or not, the
+commercial quality certificate. In 2008 more than 5000 audits were done (> 1 M€ spent), and
+more than 85% passed the threshold.
+ARCHITECTONIC ISSUES AND PROTECTED BUILDINGS
+A well developed STO should include requirements about architectural integration and clear rules
+about what buildings are exempt of complying with the law, e.g., for historic reasons. Naturally
+that the requirements for architectural integration of SWH systems in new buildings, should be
+more tight than those for existing buildings (under large rehabilitation).
+At this respect, the STO should include simple rules, i.e., rules that are easy to verify and to
+execute. For example: Installation in plane roofs or terrace: consider the height of the existing platband and
+define it as the maximum height of the solar collectors’ field to minimize the visual
+impact. The orientation should be free. However preferential orientations can be
+specified so that the visual impact is reduced and the efficiency of the system is
+augmented.
+ Installation in tilted roofs: the solar collectors should have the same orientation and
+inclination of the roof. The use of supporting structures should not be allowed.
+ In new buildings with tilted roofs the architecture should foresee the need to have at
+least one slope of the roof with sufficient surface and favourable inclination and
+orientation.
+ In new buildings with tilted roofs the architecture should foresee the need to have a good
+access to the roof (to allow passing materials and persons).
+ In historical areas, instead of just impeding the installation of SWH systems, special
+requirements may be established for their architectonic integration.
+The STO should not exempt too many types of buildings and the exemption criteria should not be
+vague.
+EXAMPLES
+Integration of SWH systems in the historical and protected area of Lisbon’s down‐town.
+The buildings located in the Portuguese protected areas or belonging to the historic patrimony
+are exempt of the thermal regulation (which imposes the use of SWH systems to produce SHW).
+Although it can be accepted that the historic patrimony should be preserved, this exemption
+conduces several times to a situation where the investors and promoters of the construction
+industry (especially of residential buildings in protected areas) will try to escape of complying
+from the thermal regulation. To overcome this tendency it is important to adapt residential
+protected buildings to modern patterns which include the possibility to integrate technologies to
+collect and convert solar energy.
+In the context of the urban requalification of the Lisbon down‐town, the Municipal Energy Agency
+(Lisboa‐Enova) in cooperation with the Municipality and IGESPAR (the entity responsible for the
+management of the national archaeological and architectural patrimony) promotes the
+development of the “Potential for integration of solar technologies in the Lisbon’s down‐town”.
+The application (an IT web based platform), allows the identification of the solar potential for all
+the buildings in the perimeter of the project. http://lisboaenova.org/en/cartasolarlisboa
+This information will be integrated in the urban requalification plan, in order to promote the
+integration of solar systems in the renovation process of buildings, in accordance with the cultural
+patrimony requisites. The assessment of potential will be accompanied by an Integration Manual,
+do be developed in accordance with the solutions currently existing in the market and the
+relevant criteria for the integration of such systems in classified buildings.
+SUPERVISION OF THE STOThe supervision is a key question when a STO is introduced: the laws can be well made but will
+not have impact until a well defined and balanced MV&E regime is in place. Supervision means
+also the appropriate monitoring of the STO impact. Without an impact monitoring it is not
+possible to compare the real results with the targets established in the preparation phase.
+There are many indicators that should be considered when defining the MV&E of the STO. At
+least, the following two categories of indicators are essential:
+ The values relative to buildings
+o Number of buildings in the scope of the STO (also interesting to be defined in
+terms of m2 of useful pavement surface and, or, number of persons); to be
+compared with
+o Number of buildings in the scope but exempted of the STO  
+o Values of the real over‐cost in new buildings or buildings rehabilitated; infer
+about the reasonableness of this value  
+o Number of cases where the minimum solar water heating requirements (e.g.,
+solar fraction) was evidently surpassed
+ The values relative to verifications
+o Number of people in the administrating authority of the STO that received
+training to perform verifications in the scope of the STO
+o Percentage of negative verifications in the SWH system design phase
+o Number of random verifications (or inspections) in the installation phase and the
+percentage of negative situations
+o Number of random verifications (or inspections) in the operation phase and the
+percentage of negative situations
+o Number of sanctioned situations (and type, i.e., severity of non‐compliance) and
+rate of execution (payment of the fine)
+An enforcement strategy is a set of responses to incidents of non‐compliance, coupled with a
+progressive action plan for their application that should include a range of elevating enforcement
+responses that can be implemented depending on:  
+ The severity of the non‐compliance;  
+ The range of sanctions that are available;  
+ The type of programme (i.e. whether it is mandatory or voluntary);  
+ The quality of the evidence supporting the claim of non‐compliance;  
+ The responsiveness of the party responsible for the non‐compliance;  
+ The potential to rectify non‐compliance.  
+If compliance is enforced, participants will be encouraged to comply when the potential costs,
+whether financial or to the participant’s reputation, are greater than the benefits. Similarly, if
+programme participants consider that there is only a small chance of a transgression being
+discovered and that the associated penalty is also low, there will be little motivation to comply.  
+Enforcement, including remediation, is most effective when action is timely, i.e. responding to the
+detection of transgressions without undue delay. Enforcement processes with a limited range ofpossible responses tend to be unwieldy and often require high levels of “proof”, which make
+them impractical in dealing with minor transgressions. A wider range of sanctions allows the
+enforcement authority to respond more quickly, is less costly, and more effective.  
+Where sanctions are necessary, they should be sufficient to outweigh the benefits of non‐
+compliance in order to be an effective deterrent.  
+Taking enforcement action improves the level of compliance by elevating the perception of risk to
+the parties involved in the STO.  
+Before creating the enforcement strategy, answering some basic questions will help to develop an
+effective enforcement strategy and highlight areas that need further information or investigation.
+A preliminary set of questions includes:  
+ What types of non‐compliance can be envisaged?  
+ What criteria will be used to rank types of non‐compliance?  
+ What levels of compliance will be acceptable?  
+ What will be deemed as non‐compliance?  
+ At what level of non‐compliance will penalties commence and what will trigger their
+escalation?  
+ What action will be taken and by whom?
+Understanding the costs and benefits associated with MV&E activities of an STO is important:  
+ For governments to justify decisions on the design of a STO to industry partners
+ For programme administrators to articulate requests for adequate public funding of
+MV&E processes  
+Generally MV&E regimes that deliver high rates of compliance will have a higher overall cost than
+those that achieve lesser outcomes. This is true irrespective of the regime design, although the
+design is likely to affect how these costs are distributed amongst governments, industry and
+consumers.REFERENCES
+[1] RCCTE – Portuguese Decree‐Law about the thermal regulation of buildings
+[2] EPBD – EU Energy Performance of Buildings Directive
+[3] www.solarordinances.eu – European Community funded project to promote and
+disseminate information about STO
+[4] www.clasponline.org  

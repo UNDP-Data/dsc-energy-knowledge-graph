@@ -1,0 +1,60 @@
+[
+    {
+        "Subject": "Tokyo Mutual Accountability Framework ",
+        "Relation": "Implemented By",
+        "Object": "United Nations",
+        "Description": "The international community and the United Nations will continue to support Afghanistan, as exemplified in the Tokyo Mutual Accountability Framework and the Chicago commitments on development and security.",
+        "Relevance Score": 8
+    },
+
+    {
+        "Subject": "United Nations Development Assistance Framework",
+        "Relation": "Supports",
+        "Object": "UNDP",
+        "Description": "UNDP should also transition to meet emerging priorities and operational challenges, guided  by the United Nations Development Assistance Framework and the new strategic plan, 2014-2017.",
+        "Relevance Score": 7
+    },
+    {
+        "Subject": "Millennium Development Goals Report",
+        "Relation": "Contains",
+        "Object": "Millennium Development Goals",
+        "Relevance Score": 4
+    },
+    {
+        "Subject": "Afghanistan",
+        "Relation": "Aims To Achieve",
+        "Object": "Millennium Development Goals",
+        "Description": "The Millennium Development Goals Report, 2012, suggests that Afghanistan should be able to achieve the Millennium Development Goals for education and health by its target year, 2020.",
+        "Relevance Score": 7
+    },
+
+    {
+        "Subject": "Kabul Conference",
+        "Relation": "Collaborates With",
+        "Object": "United Nations",
+        "Description": "Responding to the Kabul Conference request for a unified United Nations system, the United Nations country team has committed to increasing the effectiveness of the system.",
+        "Relevance Score": 6
+    },
+    {
+        "Subject": "New Deal for Engagement in Fragile States",
+        "Relation": "Implemented By",
+        "Object": "UNDP",
+        "Description": "UNDP is supporting the implementation of the New Deal for Engagement in Fragile States principle with  the Ministry of Finance.",
+        "Relevance Score": 7
+    },
+    
+    {
+        "Subject": "Development Assistance Database",
+        "Relation": "Assists",
+        "Object": "UNDP",
+        "Description": "UNDP is engaging in better aid management to gradually align development financing with national priorities, donor initiatives, country systems and accountability systems such as the Development Assistance Database, and is ensuring harmonized, sector wide approaches to the allocation of resources.",
+        "Relevance Score": 8
+    },
+    {
+        "Subject": "UNDP",
+        "Relation": "Operates In",
+        "Object": "Afghanistan",
+        "Relevance Score": 4
+    }
+
+]
