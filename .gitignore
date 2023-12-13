@@ -113,6 +113,7 @@ ipython_config.py
 __pypackages__/
 
 .DS_Store
+Data/.DS_Store
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
