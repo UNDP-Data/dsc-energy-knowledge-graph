@@ -1,1 +1,0 @@
-MERGE (n:Entity {id: "albania"}) ON CREATE SET n.name = "Albania", n.summary = "Albania faces multiple challenges that drive vulnerabilities, including weaknesses in rule of law, uneven institutional capacity, service gaps, limited investments in social services, degradation of natural resources and few labour opportunities."
