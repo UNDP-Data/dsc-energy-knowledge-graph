@@ -1,3 +1,0 @@
-MERGE (n:Entity {id: "e1"}) ON CREATE SET n.name = "Albania", n.summary = "Albania faces multiple challenges that drive vulnerabilities, including weaknesses in rule of law, uneven institutional capacity, service gaps, limited investments in social services, degradation of natural resources and few labour opportunities." - Exception: Couldn't connect to localhost:7687 (resolved to ()):
-Failed to establish connection to ResolvedIPv6Address(('::1', 7687, 0, 0)) (reason [Errno 61] Connection refused)
-Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 61] Connection refused)
