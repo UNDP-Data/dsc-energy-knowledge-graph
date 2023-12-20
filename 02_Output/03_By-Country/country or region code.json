@@ -1,63 +1,60 @@
 {
     "metadata": {
-        "Type": "(National, UNDP, General)",
-        "Country Name": "country or region Name",
-        "Country Code": "country or Region Code",
-        "Category": "(NEP, CPD, Publication, Journal, etc.)",
-        "Title": "",
-        "Publication Date": "Mutiple date formats",
-        "Start Year": "for policies or plans, the effective start date",
-        "End Year": "for policies or plans, the effective start date",
-        "Language": "2 digit language code",
-        "Link": "link to document or website",
-        "Taxonomies": "Semicolon separated list of tags",
-        "Description": "Short text description",
-        "Project ID": "4 or 6 digit id for a UNDP project, if relevant",
-        "Source/Publisher": "UNDP, Government, IRENA, etc.",
-        "Image": "link to thumbnail image"
+        "country name": "country or region Name",
+        "country code": "country or Region Code",
+        "image": "link to thumbnail image",
+        "long description": "Long description HTML with hyperlinks",
+        "documents": [
+            "list of 3-5 most relevant document codes"
+        ],
+        "indicators": [
+            "list of most relevant indicators (pending)"
+        ],
+        "prompts": [
+            "prompt 1",
+            "prompt 2",
+            "prompt 3"
+        ]
     },
-    "prompts":[
-        "prompt 1",
-        "prompt 2",
-        "prompt 3"
-    ],
-    "entities": [
-        {
-            "entity": "European Union",
-            "category": "Organization",
-            "acronym": "EU"
-        },
-        {
-            "entity": "Albania",
-            "category": "Location"
-        },
-        {
-            "entity": "United Nations Development Programme",
-            "category": "Organization",
-            "acronym": "UNDP"
-        }
-    ],
-    "relations": [
-        {
-            "Relation": "focuses_on",
-            "Subject": "Albania",
-            "Object": "Sustainable Development Goal",
-            "Description": "This country programme reflects the comparative advantages of UNDP in supporting national reforms and upholding values of justice, human rights, equity and gender equality, through coordinated multisectoral approaches that facilitate systemic reforms.",
-            "Relevance": 8
-        },
-        {
-            "Relation": "in",
-            "Subject": "Albania",
-            "Object": "European Union",
-            "Description": "In March 2020, the European Union opened accession negotiations. The country\u2019s vision of sustainable development, the key drivers for reforms and political and public priorities, are accession to the European Union, sustainable economic growth and inclusive prosperity.",
-            "Relevance": 9
-        },
-        {
-            "Relation": "supports",
-            "Subject": "UNDP",
-            "Object": "European Union",
-            "Description": "UNDP supports the aspirations of European Union to join the European Union and attain the outcomes of the United Nations Sustainable Development Cooperation Framework (UNSDCF).",
-            "Relevance": 8
-        }
-    ]
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "European Union",
+                "category": "Organization",
+                "acronym": "EU"
+            },
+            {
+                "entity": "Albania",
+                "category": "Location"
+            },
+            {
+                "entity": "United Nations Development Programme",
+                "category": "Organization",
+                "acronym": "UNDP"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "focuses_on",
+                "Subject": "Albania",
+                "Object": "Sustainable Development Goal",
+                "Description": "This country programme reflects the comparative advantages of UNDP in supporting national reforms and upholding values of justice, human rights, equity and gender equality, through coordinated multisectoral approaches that facilitate systemic reforms.",
+                "Relevance": 8
+            },
+            {
+                "Relation": "in",
+                "Subject": "Albania",
+                "Object": "European Union",
+                "Description": "In March 2020, the European Union opened accession negotiations. The country\u2019s vision of sustainable development, the key drivers for reforms and political and public priorities, are accession to the European Union, sustainable economic growth and inclusive prosperity.",
+                "Relevance": 9
+            },
+            {
+                "Relation": "supports",
+                "Subject": "UNDP",
+                "Object": "European Union",
+                "Description": "UNDP supports the aspirations of European Union to join the European Union and attain the outcomes of the United Nations Sustainable Development Cooperation Framework (UNSDCF).",
+                "Relevance": 8
+            }
+        ]
+    }
 }
