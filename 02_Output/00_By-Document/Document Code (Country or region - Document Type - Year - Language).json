@@ -15,7 +15,7 @@
         "short description": "Short text description",
         "long description": "Long description HTML with hyperlinks",
         "project id": "4 or 6 digit id for a UNDP project, if relevant",
-        "source/publisher": "UNDP, Government, IRENA, etc.",
+        "source": "UNDP, Government, IRENA, etc.",
         "image": "link to thumbnail image",
         "prompts": [
             "prompt 1",
