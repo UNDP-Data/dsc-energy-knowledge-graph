@@ -1,0 +1,477 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "NATIONAL ENERGY POLICY & STRATEGIES OF SRI LANKA",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ceylon Electricity Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "Lanka Electricity Company (Pvt",
+                "category": "Organization"
+            },
+            {
+                "entity": "LECO",
+                "category": "Organization"
+            },
+            {
+                "entity": "CEB",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Public Utilities Commission of Sri Lanka",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Public Utilities Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ceylon Petroleum Corporation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Lanka Indian Oil Company (Lanka IOC",
+                "category": "Organization"
+            },
+            {
+                "entity": "Sri Lanka\u2019s Energy Sector",
+                "category": "Organization"
+            },
+            {
+                "entity": "This National Energy Policy and Strategies of Sri Lanka",
+                "category": "Organization"
+            },
+            {
+                "entity": "Consumer Protection and Ensuring a Level Playing Field",
+                "category": "Organization"
+            },
+            {
+                "entity": "Adverse Environmental Impacts of Energy Facilities",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Energy Conservation Fund Act",
+                "category": "Organization"
+            },
+            {
+                "entity": "CDM",
+                "category": "Organization"
+            },
+            {
+                "entity": "PUCSL",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Provincial Councils",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ceylon Electricity Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Provincial Authorities",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Power and Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "ECF",
+                "category": "Organization"
+            },
+            {
+                "entity": "LTGEP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Energy Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "LTNREP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Demand Side Management",
+                "category": "Organization"
+            },
+            {
+                "entity": "DSM",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Power Purchase Agreements",
+                "category": "Organization"
+            },
+            {
+                "entity": "Treasury",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Gulf of Mannar Basin",
+                "category": "Location"
+            },
+            {
+                "entity": "3D",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Petroleum and Petroleum Resources Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "South Asia",
+                "category": "Location"
+            },
+            {
+                "entity": "the Board of Investment of Sri Lanka",
+                "category": "Organization"
+            },
+            {
+                "entity": "The National Energy Database",
+                "category": "Organization"
+            },
+            {
+                "entity": "Energy Sector Performance",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Energy Planning Team of the Ministry of Power and Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Rural Electrification",
+                "category": "Organization"
+            },
+            {
+                "entity": "RE",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Power and Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Finance",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "be",
+                "Subject": "supply",
+                "Object": "kTOE",
+                "Description": "In 2004, hydro-electricity production in the country accounted for 706.9 kTOE (thousand tonnes of oil\nequivalent) while the biomass-based energy supply was 4,494.4 kTOE."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "resources",
+                "Object": "kTOE",
+                "Description": "Additionally, the non-conventional\nresources (mainly wind) provided 3.5 kTOE of primary energy, giving an aggregate primary energy supply of approximately\n9,509.1 kTOE."
+            },
+            {
+                "Relation": "undergo",
+                "Subject": "sub\u0002sectors",
+                "Object": "process",
+                "Description": "Both these sub\u0002sectors, which are largely served by state-owned utilities, are presently undergoing process of reforms."
+            },
+            {
+                "Relation": "set",
+                "Subject": "PUCSL",
+                "Object": "35",
+                "Description": "Although the PUCSL has been already set up under the provisions of the Public Utilities Commission of\nSri Lanka Act No. 35 of 2002 to regulate the physical infrastructure sectors, it will be empowered to execute regulation only\nwhen the individual industry legislations are enacted and made effective."
+            },
+            {
+                "Relation": "join",
+                "Subject": "player",
+                "Object": "distribution",
+                "Description": "A third\nplayer could also join petroleum distribution, but this has been temporarily suspended by the Government due to the lack of\nanticipated benefits to the country and its consumers through the liberalization and part privatization of the downstream\npetroleum sub-sector."
+            },
+            {
+                "Relation": "have",
+                "Subject": "PUCSL",
+                "Object": "authority",
+                "Description": "PUCSL, which will be the future petroleum sub-sector regulator, will have the authority to decide on the\nfuture structure of the petroleum sub sector."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "Biomass",
+                "Object": "sub",
+                "Description": "Biomass still remains a sub-sector not formally organised unlike the electricity and petroleum sub-sectors."
+            },
+            {
+                "Relation": "state",
+                "Subject": "Strategies",
+                "Object": "framework",
+                "Description": "* \u201cImplementing Strategies\u201d states the implementation framework to achieve each policy element."
+            },
+            {
+                "Relation": "save",
+                "Subject": "utilisation",
+                "Object": "resources",
+                "Description": "Efficient utilisation of energy by all concerned, from utilities (supply-side management) to final\nconsumers (demand-side management) not only saves valuable resources of the country but also reduces the\noverall cost of energy to the consumer."
+            },
+            {
+                "Relation": "minimise",
+                "Subject": "dependence",
+                "Object": "vulnerability",
+                "Description": "\nMinimum dependence on non-indigenous resources and optimum development of local energy resources will\nminimise the vulnerability of energy supplies to external factors such as the international socio-political\nenvironment."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Policy",
+                "Object": "initiatives",
+                "Description": "The Energy Policy includes\nnecessary initiatives to vigorously implement the country\u2019s oil and gas exploration programme."
+            },
+            {
+                "Relation": "hamper",
+                "Subject": "subsidies",
+                "Object": "growth",
+                "Description": "Non-cost reflective pricing and non-targeted subsidies both in the electricity and petroleum sub-sectors in the\nabsence of a property regulatory mechanism, seriously hamper the growth and financial viability of sub-sector\nutilities."
+            },
+            {
+                "Relation": "affect",
+                "Subject": "quality",
+                "Object": "growth",
+                "Description": "Poor quality of energy services affects the country\u2019s economic growth and the general standard of living of the\npublic."
+            },
+            {
+                "Relation": "receive",
+                "Subject": "impacts",
+                "Object": "attention",
+                "Description": "Adverse impacts on society and the environment arising out of the electricity and petroleum sub-sector\nactivities have not been receiving adequate attention."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "developments",
+                "Object": "regulations",
+                "Description": "All developments and operations of energy sector facilities shall follow the relevant environmental regulations\nand standards of Sri Lanka."
+            },
+            {
+                "Relation": "give",
+                "Subject": "Priority",
+                "Object": "to",
+                "Description": "3.1 Providing Basic Energy Needs\n* Priority will be given to improving access by rural areas to commercial energy forms such as electricity and\npetroleum-based fuels."
+            },
+            {
+                "Relation": "receive",
+                "Subject": "transportation",
+                "Object": "priority",
+                "Description": "Railway transportation will receive priority over road\ntransportation."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "country",
+                "Object": "management",
+                "Description": "* A strategic plan for street lighting will be formulated for the country to ensure proper management of street\nlighting which will enhance the safety of motorists and pedestrians and also contribute to energy conservation\nwith better aesthetic sense."
+            },
+            {
+                "Relation": "convert",
+                "Subject": "Initiatives",
+                "Object": "biomass",
+                "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+            },
+            {
+                "Relation": "include",
+                "Subject": "prices",
+                "Object": "elements",
+                "Description": "These prices will include elements such as a reasonable return on equity,\ninternal cash generation for capital investment and debt service."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "utility",
+                "Object": "division",
+                "Description": "Every energy sector utility will establish an environmental division with staff qualified to conduct\nenvironmental safety audits of existing and new facilities to comply with the standards and regulations under\nthe National Environment Act."
+            },
+            {
+                "Relation": "take",
+                "Subject": "measures",
+                "Object": "sub",
+                "Description": "* Necessary measures will be taken to establish appropriate market structures within electricity and petroleum\nsub-sectors by attracting investments from public and private sectors."
+            },
+            {
+                "Relation": "make",
+                "Subject": "Electrification",
+                "Object": "available",
+                "Description": "\n4.1 Electrification of Households\nElectricity will be made available to all feasible areas by extending the national grid and focussed rural energy\ninitiatives using off-grid technologies."
+            },
+            {
+                "Relation": "confirm",
+                "Subject": "studies",
+                "Object": "viability",
+                "Description": "The LTGEP studies confirm the viability of this\nstrategy."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Energy",
+                "Object": "resource",
+                "Description": "Non-conventional Renewable Energy (NRE) shall be the fourth resource in this deversification and\nsecurity strategy."
+            },
+            {
+                "Relation": "maintain",
+                "Subject": "player",
+                "Object": "\n",
+                "Description": "Every player in the petroleum sub-sector downstream retail business shall maintain a strategic fuel reserve\nequivalent to a minimumof 30 days\u2019 consumption at any given time."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "\n",
+                "Object": "strategy",
+                "Description": "The Long-Term Generation Expansion Plan\n(LTGEP) shall reflect the above strategy and milestones."
+            },
+            {
+                "Relation": "be",
+                "Subject": "LTGEP",
+                "Object": "plan",
+                "Description": "LTGEP shall be a 20-year plan, updated at least once in two\nyears."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Electricity",
+                "Object": "hydropower",
+                "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+            },
+            {
+                "Relation": "subsidize",
+                "Subject": "Government",
+                "Object": "utilities",
+                "Description": "If justified, the\nGovernment may subsidize the energy utilities for this purpose."
+            },
+            {
+                "Relation": "create",
+                "Subject": "Government",
+                "Object": "Fund",
+                "Description": "* To make available the incentives for NRE technologies, the Government will create an \u2018Energy Fund\u2019 ,which will\nbe managed by the ECF."
+            },
+            {
+                "Relation": "charge",
+                "Subject": "developments",
+                "Object": "resource",
+                "Description": "* NRE developments will not be charged any resource cost(royalty) for a period of 15 years from the commercial\noperation date."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "ECF",
+                "Object": "Plan",
+                "Description": "The ECF shall prepare a Long-term Non-conventional Renewable Energy Plan (LTNREP), which shall provide interim\ntargets for specific NRE technologies, upper thresholds of pricing, and resource costing."
+            },
+            {
+                "Relation": "be",
+                "Subject": "LTNREP",
+                "Object": "plan",
+                "Description": "The LTNREP shall be a 20 year\nplan, updated at least once in two years."
+            },
+            {
+                "Relation": "make",
+                "Subject": "price",
+                "Object": "reflective",
+                "Description": "* Average electricity price to each category of consumers will be gradually made cost reflective."
+            },
+            {
+                "Relation": "limit",
+                "Subject": "tariff",
+                "Object": "consumption",
+                "Description": "The lifeline tariff to domestic consumers will be limited to Samurdhi Beneficiaries and to a monthly household\nconsumption of 30kWh."
+            },
+            {
+                "Relation": "give",
+                "Subject": "Consumers",
+                "Object": "opportunities",
+                "Description": "Consumers and all other stake holders will be given opportunities to present their views at\na public hearing."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "utilities",
+                "Object": "proposals",
+                "Description": "Electricty distribution utilities shall prepare tariff proposals for the approval of PUCSL, which will seek\nconcurrence of the Treasury on Government subsidy."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "subsidy",
+                "Object": "to",
+                "Description": "No general subsidy will be provided to any of the\nproducts and the marketing companies will be allowed to decide on their retail consumer prices within the specified maximum\nretail consumer prices for the period."
+            },
+            {
+                "Relation": "make",
+                "Subject": "wille",
+                "Object": "available",
+                "Description": "Targeted subsidies wille be made available to low income"
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "distributors",
+                "Object": "proposals",
+                "Description": "Petroleum\ndistributors shall prepare the product pricing proposals according to the agreed formula for the approval of the PUCSL\nwhich will seek concurrence of the Treasury on the Government subsidy."
+            },
+            {
+                "Relation": "place",
+                "Subject": "location",
+                "Object": "it",
+                "Description": "The Strategic geographical location of Sri Lanka places it in a very favourable situation to become a leader in the\nbunkering business in South Asia."
+            },
+            {
+                "Relation": "make",
+                "Subject": "\n",
+                "Object": "mandatory",
+                "Description": "The appliance labelling programme\nwill be made mandatory to identified appliances by mid 2007."
+            },
+            {
+                "Relation": "make",
+                "Subject": "variety",
+                "Object": "available",
+                "Description": "* A variety of financing mechanisms will be made available by end 2007 to finance energy efficiency improvement\nprojects in all sectors including collateral substitution to concessionary loans, operated through utilities."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "strategies",
+                "Description": "Institutional Responsibility to implement these strategies to reach the targets specified lies with the ECF, and shall be\nassisated by electricity and petroleum utilities, the PUCSL and other stakholders."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "Ministry",
+                "Object": "team",
+                "Description": "* Ministry of Power and Energy shall immediately establish a national energy palnning team, to address the\npolicy issues inter-linkages between sub-sectors, and to investigate important issues such as pricing policy\nin consultation with public, private and civil society groups."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "team",
+                "Object": "methodology",
+                "Description": "* The planning team shall, by end of 2007 establish improved methodology, if necessary, to develop demand\nforecasts, simulate development scenarios, intergrate sub-sectoral plans, conduct sensitivity studies, analyse\npolicy options, and develop forecast energy balances."
+            },
+            {
+                "Relation": "study",
+                "Subject": "government",
+                "Object": "policies",
+                "Description": "In this\ncontext, the government will study the policies/programs adopted by other developing countries."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "government",
+                "Object": "policy",
+                "Description": "The government will also\nseriously consider entrusting the management of RE schemes to consumer co-operatives, a policy successfully implemented\nby some developing countries."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "lies",
+                "Description": "Institutional Responsibility to implement this lies with the Ministry of Power and Energy and the Ministry of Finance,\nassisted by the PUCSL.\n"
+            }
+        ]
+    }
+}

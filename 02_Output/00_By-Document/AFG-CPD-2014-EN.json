@@ -1,0 +1,779 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "The Afghanistan \u2018Transformation Decade\u2019",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Development Assistance Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Millennium Development Goals Report",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Development Assistance Database",
+                "category": "Organization"
+            },
+            {
+                "entity": "Parliament",
+                "category": "Organization"
+            },
+            {
+                "entity": "Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Office on Drugs and Crime",
+                "category": "Organization"
+            },
+            {
+                "entity": "the High Office of Oversight",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "South-South",
+                "category": "Location"
+            },
+            {
+                "entity": "Gender",
+                "category": "Organization"
+            },
+            {
+                "entity": "Security Council",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Millennium Development Goals Report",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Assistance Mission",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Global Environment Facility",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNAMA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Assembly",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Civil Service Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Interior",
+                "category": "Organization"
+            },
+            {
+                "entity": "General\u2019s Office",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Women\u2019s Affairs",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Assessment of Development Results",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry",
+                "category": "Organization"
+            },
+            {
+                "entity": "non-United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Children\u2019s Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Agriculture, Irrigation and Livestock",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Office",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Istanbul Process",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN-Women",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Donor Advisory Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Volunteers",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Global Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "Civil Society Advisory Committee",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Executive Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Working Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Oversight and Compliance Unit",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Data for Development Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNFPA",
+                "category": "Organization"
+            },
+            {
+                "entity": "Working Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations PMT",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Resident Coordinator\u2019s",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "continue",
+                "Subject": "Afghanistan",
+                "Object": "journey",
+                "Description": "With presidential \nelections in 2014, the withdrawal of international troops, and the closure of \nprovincial reconstruction teams, Afghanistan continues its journey towards self\u0002reliance."
+            },
+            {
+                "Relation": "enter",
+                "Subject": "Afghanistan",
+                "Object": "Decade",
+                "Description": "As Afghanistan enters its Transformation Decade, UNDP \nshould also transition to meet emerging priorities and operational challenges, guided \nby the United Nations Development Assistance Framework and the new strategic \nplan, 2014-2017."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "implementation",
+                "Description": "Furthermore, UNDP is supporting the \nimplementation of the New Deal for Engagement in Fragile States principle s with \nthe Ministry of Finance."
+            },
+            {
+                "Relation": "tackle",
+                "Subject": "solutions",
+                "Object": "causes",
+                "Description": "For peacebuilding to succeed, \nmoreover, development solutions must tackle the root causes of conflict and \nexclusion."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "UNDP",
+                "Object": "approach",
+                "Description": "UNDP will follow an issues-based approach addressing some of the key \nlinks and the nexus between conflict and better governance, and between poverty \nand community resilience."
+            },
+            {
+                "Relation": "achieve",
+                "Subject": "UNDP",
+                "Object": "results",
+                "Description": "Yet UNDP achieved only limited results in increased \nopportunities for income generation, pointing to a need to intensify its work in the \narea of sustainable livelihoods for poverty reduction and, where possible, regional \nand triangular cooperation."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "assessment",
+                "Object": "causes",
+                "Description": "The \nassessment identified several causes of conflict and fragility."
+            },
+            {
+                "Relation": "need",
+                "Subject": "institutions",
+                "Object": "time",
+                "Description": "Governance institutions need \ntime to mature to enable state services to reach all citizens."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "This",
+                "Object": "service",
+                "Description": "This has led to the creation of parallel structures and, notably, \na \u2018parallel civil service\u2019."
+            },
+            {
+                "Relation": "be",
+                "Subject": "UNDP",
+                "Object": "player",
+                "Description": "UNDP has been an active player in accountable governance since 2002."
+            },
+            {
+                "Relation": "need",
+                "Subject": "Afghanistan",
+                "Object": "support",
+                "Description": "Afghanistan needs significant support \nto meet human rights standards and the legal obligations as enshrined in its \nConstitution."
+            },
+            {
+                "Relation": "constitute",
+                "Subject": "This",
+                "Object": "approach",
+                "Description": "This, together with support to the Ministry of Justice and access to \njustice initiatives, especially for women, will constitute an integrated approach to \njustice sector reform and development."
+            },
+            {
+                "Relation": "require",
+                "Subject": "reduction",
+                "Object": "intervention",
+                "Description": "Since over 80 per cent of the population depend on natural \nresources for their livelihoods \u2014 in a socio-political environment dominated by \npatronage networks \u2014 poverty reduction in Afghanistan requires direct intervention \nto ensure equitable access to assets such as land and water."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "support",
+                "Description": "UNDP already provides support to all provinces, and about 80 per cent of all \ndistricts, to improve planning, budgeting and implementation of a produc tive \ninfrastructure more conducive to local development."
+            },
+            {
+                "Relation": "enhance",
+                "Subject": "UNDP",
+                "Object": "provision",
+                "Description": "UNDP will also enhance the provision of energy, support environmental governance \nand build resilience to climate change and disasters."
+            },
+            {
+                "Relation": "list",
+                "Subject": "Index",
+                "Object": "Afghanistan",
+                "Description": "In 2012, the Gender Inequality Index listed Afghanistan 147th out of \n148 countries."
+            },
+            {
+                "Relation": "decrease",
+                "Subject": "number",
+                "Object": "number",
+                "Description": "Finally, although the number of registered cases of violence \nagainst women has decreased slightly, from 6,796 cases in 2008 to 6,000 in 2012, \nthe actual number of incidents of violence against women, as the Government \nacknowledged in the Millennium Development Goals Report, 2012, is much higher, as a large number of incidents go unreported."
+            },
+            {
+                "Relation": "play",
+                "Subject": "community",
+                "Object": "role",
+                "Description": "The \ninternational community plays an important role in helping the country navigate this \nperiod from transition to transformation and achieve the goal of self-reliance."
+            },
+            {
+                "Relation": "evolve",
+                "Subject": "focus",
+                "Object": "\n",
+                "Description": "As the focus of assistance from the international community evolves \nfrom supporting security and stabilization to sustainable development and resilience, \nUNDP is planning its interventions based on assumptions derived from discussions \nof possible future scenarios."
+            },
+            {
+                "Relation": "plan",
+                "Subject": "UNDP",
+                "Object": "interventions",
+                "Description": "As the focus of assistance from the international community evolves \nfrom supporting security and stabilization to sustainable development and resilience, \nUNDP is planning its interventions based on assumptions derived from discussions \nof possible future scenarios."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "UNDP",
+                "Object": "value",
+                "Description": "UNDP will increase its added value by rebalancing its \nprogramme and maintaining a flexible stance."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "livelihoods",
+                "Description": "To address \ndisparities across the country, UNDP will strengthen livelihoods and community \nresilience at the subnational level, and will assist Afghanistan in tackling poverty \nand sustaining economic gains."
+            },
+            {
+                "Relation": "address",
+                "Subject": "UNDP",
+                "Object": "marginalization",
+                "Description": "UNDP will address the marginalization of women \nand vulnerable groups by strengthening its work with state and non-state actors, \ncivil society and local communities."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "impact",
+                "Object": "opportunities",
+                "Description": "The impact of UNDP work will bring greater \npolitical, social, and economic opportunities for all Afghans, better systems for \naccountable governance through the rule of law, and social inclusion."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "UNDP",
+                "Object": "document",
+                "Description": "For each country programme \noutcome, UNDP will prepare an outcome strategy document, in consultation with all \npartners and the new Government and in the light of the evolving UNAMA mandate \nafter 2015.11."
+            },
+            {
+                "Relation": "foster",
+                "Subject": "\n",
+                "Object": "ownership",
+                "Description": "Participatory planning \nwill foster community ownership, leading to sustainable interventions through \nconflict-sensitive programming, the rights-based approach and \u2018do no harm\u2019 \nprinciples."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "UNDP",
+                "Object": "synergies",
+                "Description": "Using an \nissues-based approach, UNDP will ensure that synergies between outcomes and \nfields of work are established to ensure accelerated progress towards specified \ngoals, fostering development impact and social cohesion.\n"
+            },
+            {
+                "Relation": "involve",
+                "Subject": "This",
+                "Object": "use",
+                "Description": "This will involve a greater use of state and \nnon-state actors in Afghanistan, and at the regional and global levels through South\u0002South cooperation, to ensure that the best national and international comparative \nexperience can be integrated into the country programme outcome areas of work.\n"
+            },
+            {
+                "Relation": "assist",
+                "Subject": "support",
+                "Object": "institutions",
+                "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+            },
+            {
+                "Relation": "support",
+                "Subject": "\n",
+                "Object": "Assembly",
+                "Description": "UNDP \nwill support the National Assembly in building capacities to deliver on its \nconstitutional mandate."
+            },
+            {
+                "Relation": "further",
+                "Subject": "This",
+                "Object": "institutionalization",
+                "Description": "This will further the institutionalization of \ndemocratic processes as well as ensure equitable economic development and \npromotion of justice, the rule of law and women\u2019s rights as core priorities of UNDP \ndevelopment interventions at the subnational level.\n"
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "\n",
+                "Object": "approach",
+                "Description": "Building on the Afghanistan \nPeace and Reintegration Programme and possible successor arrangements, UNDP \nwill adopt a two-pronged approach to address the root causes of conflict: (i)"
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "solutions",
+                "Description": "At the \nnational level, UNDP will work closely with UNAMA and the Ministry of Finance \nto support policy formulation, including through the use of such tools as the \nimplementation of the New Deal agenda and the incorporation of peacebuilding and state building indicators into government planning processes; and (ii) At the \nprovincial and district levels, UNDP will promote community-centred solutions to \nconflict through mediation efforts by provincial councils, district coordination \ncouncils, as well as involving traditional Shuras and Jirgas, and will facilitate \nequitable local access and management of natural resources."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "office",
+                "Object": "typologies",
+                "Description": "As was highlighted in a risk analysis report prepared for UNDP \nin 2013, the country office will develop typologies for cross-cutting and politically \nsensitive risks when addressing peacebuilding interventions."
+            },
+            {
+                "Relation": "guide",
+                "Subject": "approaches",
+                "Object": "scalability",
+                "Description": "Risk management \napproaches would guide the scalability of these interventions."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "initiatives",
+                "Description": "This will include anti-corruption \ninitiatives."
+            },
+            {
+                "Relation": "include",
+                "Subject": "partners",
+                "Object": "Commission",
+                "Description": "Key partners will include the Civil Service Commission, the World Bank \nand the United Nations country team, to ensure harmonization of efforts."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "support",
+                "Description": "This will include at least 50 per cent support \nprovided through the national budget, a minimum of 80 per cent alignment to the \nnational priority programmes, and collaboration with the \u2018capacity-building for \nresults\u2019 initiative of the World Bank, which aims to enhance the service delivery \ncapacities of key line agencies."
+            },
+            {
+                "Relation": "set",
+                "Subject": "plan",
+                "Object": "agenda",
+                "Description": "The public \nfinancial management action plan will set out the government agenda to strengthen \neffective delivery of the national budget and increase transparency and \naccountability so as to advance anti-corruption initiatives, making use of South\u0002South and triangular cooperation."
+            },
+            {
+                "Relation": "envisage",
+                "Subject": "areas",
+                "Object": "Justice",
+                "Description": "With the objective of increasing trust in, and access to, the fair, effective, and \naccountable rule of law, two intervention areas are envisaged: \n(a) Justice and police governance."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "Linkages",
+                "Object": "harmonization",
+                "Description": "Linkages between the Ministry of Interior, the Ministry of Justice, the Attorney \nGeneral\u2019s Office, and the Ministry of Women\u2019s Affairs, and between formal and \ninformal justice service providers, will ensure policy harmonization, as \nrecommended by the Assessment of Development Results which recognizes \nUNDP\u2019s clear comparative advantage."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "formulation",
+                "Description": "In coordination with the national working group on rule of law indicators, \nUNDP will support the formulation and monitoring of indicators on the \neffectiveness of justice services as well as the human rights due diligence policy on \nUnited Nations support to non-United Nations security forces."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Literacy",
+                "Object": "components",
+                "Description": "Literacy, \ncriminal investigations, violence against women, collaboration with prosecutors, \njuvenile justice, and community-oriented policing will be important components of \nthis approach."
+            },
+            {
+                "Relation": "scale",
+                "Subject": "UNDP",
+                "Object": "interventions",
+                "Description": "Starting with 10 districts \nacross six target provinces in 2015, UNDP will scale up its interventions to\n100 districts across 20 provinces in five years, in line with its regionalization \nstrategy and according to access and security conditions and application of risk \nmanagement approaches."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "Outcome",
+                "Object": "development",
+                "Description": "Outcome 3 of the country programme document promotes development that is \nequitable and inclusive."
+            },
+            {
+                "Relation": "include",
+                "Subject": "outcome",
+                "Object": "approaches",
+                "Description": "The outcome will include new \napproaches to conflict prevention and resilience by increasing equitable access to \nnatural resources and addressing climate change adaptation and disaster risk \nmanagement."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "approach",
+                "Object": "opportunities",
+                "Description": "A three-pronged approach will be followed:\n(a) Sustainable livelihood opportunities."
+            },
+            {
+                "Relation": "undertake",
+                "Subject": "UNDP",
+                "Object": "initiatives",
+                "Description": "UNDP will undertake initiatives to \nfacilitate local economic development in an inclusive manner by helping to create \nbetter economic opportunities for vulnerable populations, especially women and \nunemployed youth, through area-based approaches linked to provincial and district \ndevelopment plans, which UNDP has been engaged in since 2002 through the \nMinistry of Rural Rehabilitation and Development."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "policies",
+                "Description": "At the national level, UNDP will support \nkey economic policies called for in the national priority programmes related to \nregional integration and economic cooperation."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "opportunities",
+                "Description": "At the provincial and district levels, \nUNDP will promote livelihood opportunities in the rural economy by strengthening \nthe marketable skills of unemployed youth, promoting the development of entrepreneurship, supporting small-scale infrastructure, and fostering access to \nmarkets and sharia-compliant finance."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "support",
+                "Description": "This could include targeted support to \ndurable solutions for displaced populations, and it is expected to discourage poppy \ncultivation."
+            },
+            {
+                "Relation": "undertake",
+                "Subject": "UNDP",
+                "Object": "studies",
+                "Description": "As part of larger efforts of regional integration, UNDP may undertake \nstudies and provide policy advisory services to strengthen the efforts of those \ninvolved in the Istanbul Process, the Istanbul Programme of Action for Least \nDeveloped Countries, and possibly the Central Asia Regional Economic \nCooperation Programme."
+            },
+            {
+                "Relation": "take",
+                "Subject": "cooperation",
+                "Object": "place",
+                "Description": "South-South and triangular cooperation with Tajikistan \nand other central Asian countries is already taking place in areas such as \nemployment and local trade."
+            },
+            {
+                "Relation": "deepen",
+                "Subject": "UNDP",
+                "Object": "engagement",
+                "Description": "UNDP will deepen its engagement in issues that directly \naddress access to natural resources and their equitable management."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "governance",
+                "Object": "policies",
+                "Description": "Environmental \ngovernance at governmental and community levels, as an integral component of \nsustainable development, will be strengthened thorough policies, plans and legal \ninstruments as new opportunities with the Global Environment Facility are \nidentified."
+            },
+            {
+                "Relation": "be",
+                "Subject": "promotion",
+                "Object": "area",
+                "Description": "The promotion of off-grid, community-managed and owned, clean and \nrenewable energy services will be a specific focus area."
+            },
+            {
+                "Relation": "target",
+                "Subject": "projects",
+                "Object": "provinces",
+                "Description": "Initial pilot projects will \ntarget seven provinces for three years."
+            },
+            {
+                "Relation": "include",
+                "Subject": "work",
+                "Object": "development",
+                "Description": "Policy-level work in this sector \nwill include the development of legal and regulatory instruments for rural energy at \nthe village level, as well as improving the interface between the national and \nvillage-level energy structures."
+            },
+            {
+                "Relation": "work",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "In the extractive industries sector, UNDP will work \non an initiative with the World Bank, the National Environmental Protection \nAgency, the Ministry of Agriculture, Irrigation and Livestock, and the Ministry of \nMines, to reduce the negative effects of mining on ecosystems and to ensure \ncommunity involvement. \n"
+            },
+            {
+                "Relation": "scale",
+                "Subject": "Support",
+                "Object": "provinces",
+                "Description": "Support will be scaled up to 10 provinces by the end of the \nprogramme period."
+            },
+            {
+                "Relation": "include",
+                "Subject": "work",
+                "Object": "assistance",
+                "Description": "Policy formulation work will include assistance on finalizing a \nclimate change strategy and action plan with the National Environmental Protection \nAgency, while regional cooperation for disaster risk management will be pursued \nthrough the Istanbul Process."
+            },
+            {
+                "Relation": "focus",
+                "Subject": "UNDP",
+                "Object": "capacity",
+                "Description": "In \ncooperation with the Ministry of Women\u2019s Affairs, UNAMA and UN-Women, \nUNDP will focus on three interventions:\n(a) Government capacity to meet women\u2019s rights."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "UNDP will support the \nGovernment in implementing legal commitments, both national and international, \nthat affect the lives of women."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "advocacy",
+                "Description": "To increase the \nresponsiveness of government ministries to citizens\u2019 rights, UNDP supports \nadvocacy, through civil society organizations and women\u2019s groups, for the inclusion \nof emerging citizen priorities in national and subnational planning frameworks."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "capacity",
+                "Description": "In \naddition to the capacity to implement technical and financial support, in partnership \nwith civil society organizations, through advocacy measures, UNDP will strengthen \nthe capacity of the Ministry of Women\u2019s Affairs and civil society organizations to \nmonitor and report on the implementation of the international and national \ncommitments of the Government."
+            },
+            {
+                "Relation": "make",
+                "Subject": "UNDP",
+                "Object": "use",
+                "Description": "UNDP will make use of new technology and \nknowledge-sharing platforms, such as cooperation exchange mechanisms, to achieve \nthat aim."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "Recognizing the challenge of access at the subnational level due to insecurity \nand limited infrastructure, and the need to ensure closer monitoring of projects and \ninteractions with beneficiaries, UNDP is implementing a regionalization strategy \nthat will transform UNDP project-based hubs into UNDP regional sub-offices."
+            },
+            {
+                "Relation": "propose",
+                "Subject": "that",
+                "Object": "model",
+                "Description": "This \nwill be complemented by partnership and communication strategies and a risk \nmanagement strategy \u2014 which are being developed \u2014 that will propose an outreach \nmodel at the regional and provincial levels, in addition to approaches for scaling up \ninterventions."
+            },
+            {
+                "Relation": "be",
+                "Subject": "hubs",
+                "Object": "co",
+                "Description": "The UNDP regional hubs will be co-located with other United Nations \norganizations, where possible, to guide area-based programming and synergies \namong outcomes."
+            },
+            {
+                "Relation": "enable",
+                "Subject": "proximity",
+                "Object": "UNDP",
+                "Description": "Greater proximity to communities will enable UNDP to better assess needs, improve targeting of interventions, collect \nbetter-quality data, and facilitate the monitoring of activities."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "Regionalization",
+                "Object": "synergies",
+                "Description": "Regionalization will \nimprove programme synergies and increase operational efficiency thanks to \nclustering and common premises and services."
+            },
+            {
+                "Relation": "present",
+                "Subject": "strategy",
+                "Object": "risks",
+                "Description": "While this regionalization strategy presents \ncertain risks related to security, access, oversight capacity and financial \nsustainability, the sub-offices, by improving interactions with local partners, \ncollecting better local knowledge and data, and conducting provincial conflict \nanalysis, will allow programmes to be scaled up and expanded through scenario \nplanning when security conditions and infrastructure become more favourable."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Mechanisms",
+                "Object": "means",
+                "Description": "Mechanisms such as joint provincial visits and sharing of data from sub-offices \nwould be additional means of cooperation."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "UNDP",
+                "Object": "ties",
+                "Description": "As the assessment of development results notes, UNDP must increase its ties \nwith civil society, both as a means of delivering its programmes and to enhance \naccountability, counter corruption, and promote gender equality."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "people",
+                "Description": "This could include people with disabilities and those living \nwith HIV."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results alignment and resources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "be",
+                "Subject": "execution",
+                "Object": "modality",
+                "Description": "National \nexecution will be the preferred modality, to be replaced by direct execution for all or \npart of the programme if required to enable response to major capacit y weaknesses \nand/or force majeure."
+            },
+            {
+                "Relation": "rearrange",
+                "Subject": "office",
+                "Object": "structure",
+                "Description": "The country office will rearrange its internal programme structure to deliver \nthe four outcomes, and each outcome will be housed in one programme team."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "\n",
+                "Object": "coherence",
+                "Description": "This \nwill increase programme coherence and allow for an issues-based approach to \nproviding development solutions."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "assessments",
+                "Description": "UNDP will support joint \ncapacity assessments and a common approach to risk management, ensuring full \ncompliance with the principles of the harmonized approach to cash transfers."
+            },
+            {
+                "Relation": "create",
+                "Subject": "UNDP",
+                "Object": "categories",
+                "Description": "To facilitate a targeted risk mitigation strategy, UNDP has created three \ncategories: strategic, external and internal risks."
+            },
+            {
+                "Relation": "include",
+                "Subject": "risks",
+                "Object": "pressure",
+                "Description": "Strategic risks include political \npressure, implementation modality constraints, and limitations related to on-budget \ndelivery mechanisms."
+            },
+            {
+                "Relation": "include",
+                "Subject": "risks",
+                "Object": "access",
+                "Description": "External risks include reduced access at the subnational and \ncommunity levels due to deterioration in security conditions, shrinking donor funds, \nweak infrastructure, limited capacity of implementing partners, and corruption."
+            },
+            {
+                "Relation": "include",
+                "Subject": "risks",
+                "Object": "turnover",
+                "Description": "Internal risks include staff turnover and capacity, and inadequacy of oversight and \naccountability measures and financial management systems."
+            },
+            {
+                "Relation": "include",
+                "Subject": "impact",
+                "Object": "loss",
+                "Description": "The impact of these \ncould include reputational loss, mismanagement of funds, inefficiency in \nprogramme interventions, and inability to implement, monitor and evaluate \nactivities effectively."
+            },
+            {
+                "Relation": "require",
+                "Subject": "transition",
+                "Object": "approach",
+                "Description": "The transition in the Law and Order Trust Fund for \nAfghanistan, in particular, will require a targeted risk management approach."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "use",
+                "Description": "These will include the \nproactive use of programme criticality assessments and innovative approaches for \ndata collection and analysis of results."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "UNDP",
+                "Object": "audit",
+                "Description": "UNDP has also established a dedicated audit and investigations capacity, \nand programme criticality levels have been established for UNDP activities, all of \nwhich are undertaken in compliance with this United Nations-wide framework."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Operating",
+                "Object": "challenge",
+                "Description": "Operating in a fragile context with high levels of insecurity, minimal local \ninformation management systems, and a lack of comprehensive, accurate data has \nbeen a key challenge for monitoring and evaluation efforts."
+            },
+            {
+                "Relation": "have",
+                "Subject": "challenges",
+                "Object": "implications",
+                "Description": "These \nchallenges have cost implications at the programme and project levels which will \nhave to be addressed."
+            },
+            {
+                "Relation": "intensify",
+                "Subject": "programme",
+                "Object": "efforts",
+                "Description": "The new country programme will intensify efforts in monitoring and utilizing \ndata collection to continuously assess impact."
+            },
+            {
+                "Relation": "use",
+                "Subject": "UNDP",
+                "Object": "Committee",
+                "Description": "UNDP will also use \nthe newly established Civil Society Advisory Committee as a mechanism through \nwhich to partner with selected civil society organizations to monitor programmes in \ntheir respective areas of expertise."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "This",
+                "Object": "validation",
+                "Description": "This will \nfacilitate the validation of results, the generation of lessons learned and the \ncontinuous assessment of UNDP contributions to outcomes."
+            },
+            {
+                "Relation": "include",
+                "Subject": "monitoring",
+                "Object": "monitoring",
+                "Description": "Specific monitoring and \nevaluation methods will include third-party monitoring, regular UNDP verification \nmissions, and quantitative surveys."
+            },
+            {
+                "Relation": "explore",
+                "Subject": "UNDP",
+                "Object": "surveillance",
+                "Description": "UNDP and the United Nations system as a whole \nwill explore satellite surveillance, mobile phone monitoring, and the use of other \ninnovative methodologies for monitoring in fragile and insecure environments."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "UNDP will support joint United Nations efforts to develop national \ninstitutional capacity to collect, update, analyse and utilize statistical and \nmonitoring data to strengthen evidenced-based development policies and strategies \nthrough national systems."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "ministries",
+                "Description": "UNDP will support certain counterpart \nministries in collecting data related to their sectors."
+            }
+        ]
+    }
+}

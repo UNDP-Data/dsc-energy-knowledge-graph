@@ -1,0 +1,2493 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "USAID ARMENIA",
+                "category": "Organization"
+            },
+            {
+                "entity": "BWR Boiling Water Reactor",
+                "category": "Organization"
+            },
+            {
+                "entity": "CAES Compressed Air Energy Storage",
+                "category": "Organization"
+            },
+            {
+                "entity": "DWG DecisionWare Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "ETSAP Energy Technology Systems",
+                "category": "Organization"
+            },
+            {
+                "entity": "EU European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "GEF Global Environmental Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHG Greenhouse",
+                "category": "Organization"
+            },
+            {
+                "entity": "GTS Gas Transportation System",
+                "category": "Organization"
+            },
+            {
+                "entity": "HPP Hydro Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "IAEA International Atomic Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA International Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA-ETSAP International Energy Agency - Energy Technology Systems Analysis Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "IPCC Intergovernmental Panel",
+                "category": "Organization"
+            },
+            {
+                "entity": "LLC Limited Liability Company",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG Liquefied Petroleum Gases MLET Market Liberalization and Electricity Trade",
+                "category": "Organization"
+            },
+            {
+                "entity": "Mtkm Millions",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Megawatt",
+                "category": "Organization"
+            },
+            {
+                "entity": "NEA Nuclear Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "NEEAP National Energy Efficiency Action Plan",
+                "category": "Organization"
+            },
+            {
+                "entity": "OECD The Organization for Economic Co-operation",
+                "category": "Organization"
+            },
+            {
+                "entity": "PWR Pressurized Water",
+                "category": "Organization"
+            },
+            {
+                "entity": "RA MEINR Ministry of Energy Infrastructures and",
+                "category": "Organization"
+            },
+            {
+                "entity": "RD&D Research, Development and Demonstration",
+                "category": "Organization"
+            },
+            {
+                "entity": "SMR Small Modular Reactors",
+                "category": "Organization"
+            },
+            {
+                "entity": "TPES Total Primary Energy Supply",
+                "category": "Organization"
+            },
+            {
+                "entity": "TPP Thermal Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "WB World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Scientific Research Institute for Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Armenia Least Cost Energy Development Plan (LCEDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "TIMES",
+                "category": "Organization"
+            },
+            {
+                "entity": "the International Energy Agency\u2019s Energy Technology Systems Analysis Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "VRES",
+                "category": "Organization"
+            },
+            {
+                "entity": "Armenia\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Baseline Reference",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Armenia Nuclear Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "TPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW (Light Water Reactor",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHG",
+                "category": "Organization"
+            },
+            {
+                "entity": "Loriberd",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW SMR",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW LWR",
+                "category": "Organization"
+            },
+            {
+                "entity": "EU",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA - ETSAP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Baseline-Reference",
+                "category": "Organization"
+            },
+            {
+                "entity": "Hrazdan",
+                "category": "Organization"
+            },
+            {
+                "entity": "Vorotan HPP Cascade",
+                "category": "Organization"
+            },
+            {
+                "entity": "Small Hydropower Producers",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Armenian Nuclear Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "V-270",
+                "category": "Organization"
+            },
+            {
+                "entity": "Spitak",
+                "category": "Organization"
+            },
+            {
+                "entity": "Araks Basin",
+                "category": "Location"
+            },
+            {
+                "entity": "Araks",
+                "category": "Location"
+            },
+            {
+                "entity": "The Hrazdan River",
+                "category": "Location"
+            },
+            {
+                "entity": "Vorotan",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Energy Infrastructures",
+                "category": "Organization"
+            },
+            {
+                "entity": "Kanaker",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Hrazdan River",
+                "category": "Location"
+            },
+            {
+                "entity": "the Vorotan River",
+                "category": "Location"
+            },
+            {
+                "entity": "Syunik",
+                "category": "Organization"
+            },
+            {
+                "entity": "PV",
+                "category": "Organization"
+            },
+            {
+                "entity": "North",
+                "category": "Location"
+            },
+            {
+                "entity": "HVL",
+                "category": "Organization"
+            },
+            {
+                "entity": "Electric Networks",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Public Services Regulatory Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "PSRC",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Service/Commercial",
+                "category": "Organization"
+            },
+            {
+                "entity": "Transport",
+                "category": "Organization"
+            },
+            {
+                "entity": "MAIN",
+                "category": "Organization"
+            },
+            {
+                "entity": "Abovyan Underground Gas Storage Facility",
+                "category": "Organization"
+            },
+            {
+                "entity": "THE GAS SUPPLY SYSTEM FOR",
+                "category": "Organization"
+            },
+            {
+                "entity": "Public Services Regulatory Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Armenian Energy Balance",
+                "category": "Organization"
+            },
+            {
+                "entity": "Armenia\u2019s Energy Balance",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG",
+                "category": "Organization"
+            },
+            {
+                "entity": "Diesel Oil",
+                "category": "Organization"
+            },
+            {
+                "entity": "Appendix 1",
+                "category": "Location"
+            },
+            {
+                "entity": "AMD",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "Implementation of National Program on Energy Efficiency",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Energy Security Action Plan",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Long-Term",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Armenian Energy Sector",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Energy Efficiency Action Plan",
+                "category": "Organization"
+            },
+            {
+                "entity": "Law on Energy Efficiency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Parliament",
+                "category": "Organization"
+            },
+            {
+                "entity": "AEI",
+                "category": "Organization"
+            },
+            {
+                "entity": "the IEA - ETSAP",
+                "category": "Organization"
+            },
+            {
+                "entity": "a Reference Energy System",
+                "category": "Organization"
+            },
+            {
+                "entity": "MARKAL",
+                "category": "Organization"
+            },
+            {
+                "entity": "THE TECHNO-ECONOMIC COMPONENT OF A TIMES SCENARIO",
+                "category": "Organization"
+            },
+            {
+                "entity": "TIMES-Armenia",
+                "category": "Organization"
+            },
+            {
+                "entity": "Times-Armenia Key Inputs",
+                "category": "Organization"
+            },
+            {
+                "entity": "#Demand Services",
+                "category": "Organization"
+            },
+            {
+                "entity": "#Total Energy & System",
+                "category": "Organization"
+            },
+            {
+                "entity": "\uf0b7 Annual &",
+                "category": "Organization"
+            },
+            {
+                "entity": "KEY ASSUMPTIONS FOR DEMAND DRIVERS",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Energy Outlook",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA World Energy Outlook",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ukrainian National Nuclear Electricity Generation Company Energoatom9",
+                "category": "Organization"
+            },
+            {
+                "entity": "South",
+                "category": "Location"
+            },
+            {
+                "entity": "the Yearbooks of the Statistical Committee of",
+                "category": "Organization"
+            },
+            {
+                "entity": "Table",
+                "category": "Organization"
+            },
+            {
+                "entity": "Residential",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Agriculture, Commercial, Industry and Freight",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Commercial (Service",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Food & Tobacco",
+                "category": "Organization"
+            },
+            {
+                "entity": "Transportation",
+                "category": "Organization"
+            },
+            {
+                "entity": "O&M",
+                "category": "Organization"
+            },
+            {
+                "entity": "Appendix 2",
+                "category": "Location"
+            },
+            {
+                "entity": "the Initial Unconstrained Baseline (IU BASE",
+                "category": "Organization"
+            },
+            {
+                "entity": "Improved/Better/Advanced",
+                "category": "Organization"
+            },
+            {
+                "entity": "Agriculture",
+                "category": "Organization"
+            },
+            {
+                "entity": "DWG",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Initial Unconstrained Baseline Scenario",
+                "category": "Organization"
+            },
+            {
+                "entity": "CCGT",
+                "category": "Organization"
+            },
+            {
+                "entity": "MAIN ASSUMPTIONS FOR THE BASELINE-REFERENCE",
+                "category": "Organization"
+            },
+            {
+                "entity": "RES",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Baseline-Reference Scenario",
+                "category": "Organization"
+            },
+            {
+                "entity": "Structure of Total Discounted System Cost to 2036",
+                "category": "Organization"
+            },
+            {
+                "entity": "Small",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Shnokh HPP",
+                "category": "Location"
+            },
+            {
+                "entity": "MW Loriberd",
+                "category": "Organization"
+            },
+            {
+                "entity": "RENCO CCGT",
+                "category": "Organization"
+            },
+            {
+                "entity": "GROWTH SENSITIVITY",
+                "category": "Organization"
+            },
+            {
+                "entity": "GROWTH SENSITIVITY RESULTS",
+                "category": "Organization"
+            },
+            {
+                "entity": "TPES",
+                "category": "Organization"
+            },
+            {
+                "entity": "GOAM",
+                "category": "Organization"
+            },
+            {
+                "entity": "NPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "LWR",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW capacity",
+                "category": "Organization"
+            },
+            {
+                "entity": "PJ",
+                "category": "Organization"
+            },
+            {
+                "entity": "Nationally Determined Contribution",
+                "category": "Organization"
+            },
+            {
+                "entity": "Cumulative",
+                "category": "Organization"
+            },
+            {
+                "entity": "the GHG Target",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW NPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "HPP Loriberd",
+                "category": "Organization"
+            },
+            {
+                "entity": "European Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "Directorate-General for Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "ENER/C2/2014-641",
+                "category": "Organization"
+            },
+            {
+                "entity": "Armenian Energy Balance",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Energy Balances",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Energy Agency - Energy Technology Systems Analysis Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Monetary Fund Data",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Renewable Energy Laboratory",
+                "category": "Organization"
+            },
+            {
+                "entity": "Nuclear Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Nuclear Energy Agency/IEA/OECD (",
+                "category": "Organization"
+            },
+            {
+                "entity": "OECD Publishing",
+                "category": "Organization"
+            },
+            {
+                "entity": "Uwe",
+                "category": "Organization"
+            },
+            {
+                "entity": "First National Energy Efficiency Action Plan (NEEAP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Second National Energy Efficiency Action Plan (NEEAP",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Development Program/Global Environment Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "Armenia \u2013 Improving Energy Efficiency of Municipal Heating",
+                "category": "Organization"
+            },
+            {
+                "entity": "Services and Industry",
+                "category": "Organization"
+            },
+            {
+                "entity": "Residential Energy Consumption Survey",
+                "category": "Organization"
+            },
+            {
+                "entity": "Service",
+                "category": "Organization"
+            },
+            {
+                "entity": "Industrial",
+                "category": "Organization"
+            },
+            {
+                "entity": "Chemical",
+                "category": "Organization"
+            },
+            {
+                "entity": "SBP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Commonwealth of Independent States",
+                "category": "Organization"
+            },
+            {
+                "entity": "Appendix",
+                "category": "Organization"
+            },
+            {
+                "entity": "NEA/IEA/OECD",
+                "category": "Organization"
+            },
+            {
+                "entity": "non-OECD",
+                "category": "Organization"
+            },
+            {
+                "entity": "PWR",
+                "category": "Organization"
+            },
+            {
+                "entity": "ALWR",
+                "category": "Organization"
+            },
+            {
+                "entity": "OECD",
+                "category": "Organization"
+            },
+            {
+                "entity": "Europe",
+                "category": "Location"
+            },
+            {
+                "entity": "Asia",
+                "category": "Location"
+            },
+            {
+                "entity": "USD5,776",
+                "category": "Organization"
+            },
+            {
+                "entity": "TABLE",
+                "category": "Organization"
+            },
+            {
+                "entity": "SMR",
+                "category": "Organization"
+            },
+            {
+                "entity": "Cost(P0)x(P1/P0)n (",
+                "category": "Organization"
+            },
+            {
+                "entity": "VHTR",
+                "category": "Organization"
+            },
+            {
+                "entity": "LFR",
+                "category": "Organization"
+            },
+            {
+                "entity": "Capacity Factor",
+                "category": "Organization"
+            },
+            {
+                "entity": "RD&D",
+                "category": "Organization"
+            },
+            {
+                "entity": "NREL",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Energy Infrastructures and Natural Resources",
+                "category": "Organization"
+            },
+            {
+                "entity": "Lori-Berd",
+                "category": "Organization"
+            },
+            {
+                "entity": "\uf0fc Design Power Capacity",
+                "category": "Organization"
+            },
+            {
+                "entity": "Armhydroenergy Project",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Debet River",
+                "category": "Location"
+            },
+            {
+                "entity": "Kistum",
+                "category": "Organization"
+            },
+            {
+                "entity": "\uf0fc Design Power Capacity - 76",
+                "category": "Organization"
+            },
+            {
+                "entity": "\uf0fc Daily",
+                "category": "Organization"
+            },
+            {
+                "entity": "Investors Club",
+                "category": "Organization"
+            },
+            {
+                "entity": "Contractual Nonpublic Investment Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Installed Capacity",
+                "category": "Organization"
+            },
+            {
+                "entity": "RA",
+                "category": "Organization"
+            },
+            {
+                "entity": "MOU",
+                "category": "Organization"
+            },
+            {
+                "entity": "Debed Hydro",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Iranian Mahab Ghods",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Iranian Water and Energy Development Company",
+                "category": "Organization"
+            },
+            {
+                "entity": "\uf0fc Energy Production",
+                "category": "Organization"
+            },
+            {
+                "entity": "kWh/m2",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Climate Investment Funds",
+                "category": "Organization"
+            },
+            {
+                "entity": "SREP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Energy Infrastructures and Natural Resources",
+                "category": "Organization"
+            },
+            {
+                "entity": "FRV",
+                "category": "Organization"
+            },
+            {
+                "entity": "FSL",
+                "category": "Organization"
+            },
+            {
+                "entity": "Wind Energy Resource Atlas",
+                "category": "Organization"
+            },
+            {
+                "entity": "Geghama Mountains",
+                "category": "Location"
+            },
+            {
+                "entity": "Ar Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Acciona Energy Global SL",
+                "category": "Organization"
+            },
+            {
+                "entity": "Access Infra",
+                "category": "Organization"
+            },
+            {
+                "entity": "Japan Shimizu Corporation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Power Generation Clean Development Mechanism",
+                "category": "Organization"
+            },
+            {
+                "entity": "CDM",
+                "category": "Organization"
+            },
+            {
+                "entity": "Shimizu Corporation",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Renewable Resources and Energy Efficiency Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "WB",
+                "category": "Organization"
+            },
+            {
+                "entity": "GEF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Potential Utilization",
+                "category": "Organization"
+            },
+            {
+                "entity": "GENERAL INPUT DATA",
+                "category": "Organization"
+            },
+            {
+                "entity": "MEINR",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Monetary Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "IMF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Electricity Import",
+                "category": "Organization"
+            },
+            {
+                "entity": "Gas Import",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "present",
+                "Subject": "Report",
+                "Object": "framework",
+                "Description": "This Report presents the modelling framework, data, analyses and conclusions of the year-long activity \nundertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as \nthe lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to \nprepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-\n2036."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "lead",
+                "Object": "update",
+                "Description": "This Report presents the modelling framework, data, analyses and conclusions of the year-long activity \nundertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as \nthe lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to \nprepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-\n2036."
+            },
+            {
+                "Relation": "utilize",
+                "Subject": "work",
+                "Object": "model",
+                "Description": "This work utilized the Integrated MARKAL-EFOM System (TIMES) model which is an economic model \ngenerator for local, national, multi-regional, or global energy systems, developed and maintained under the \nauspices of the International Energy Agency\u2019s Energy Technology Systems Analysis Program, which provides a \ntechnology-rich basis for representing energy dynamics over a multi-period time horizon."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "platform",
+                "Object": "system",
+                "Description": "The TIMES model platform provides an integrated energy system modelling tool designed to guide policy \nformulation over a wide range of energy, economic and environmental planning and policy issues, helping to \nestablish investment priorities within a comprehensive framework."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "employs",
+                "Object": "framework",
+                "Description": "Key features of the TIMES platform include \nthat it encompasses the entire energy system from resource extraction through to end-use demands; employs \nleast-cost optimization to identify the most cost-effective pattern of resource use and technology deployment \nover time; provides a framework to evaluate medium- to long-term policies and programs that can impact the \nevolution of the energy system; and quantifies the costs and technology choices that result from imposing those \npolicies and program."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "team",
+                "Object": "consumption",
+                "Description": "In order to adapt the generic TIMES model to become the TIMES-Armenia model, the SRIE team first \nestablished as a base year that period for which there was a complete set of data on production and \nconsumption of all energy carriers used in Armenia - the energy balance."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "results",
+                "Object": "Reference",
+                "Description": "When this set of added constraints was applied to the \nbaseline model, the results established the Baseline Reference (BASE-R) Scenario."
+            },
+            {
+                "Relation": "underscore",
+                "Subject": "fact",
+                "Object": "importance",
+                "Description": "The fact that the full constrained amount of solar and wind capacity is selected by the \nmodel as part of the least cost solution for new generation under all scenarios \nunderscores the importance to Armenia of ensuring a policy and institutional \nenvironment that supports full realization of new VRES generation to the maximum \nextent practicable, not only to ensure the lowest cost generation but also to minimize \nreliance on other imported energy sources and to strengthen Armenia\u2019s energy \nsecurity and competitiveness."
+            },
+            {
+                "Relation": "have",
+                "Subject": "rates",
+                "Object": "impact",
+                "Description": "While these higher (lower) growth rates had the expected impact in regard to increasing (decreasing) total \nsystem costs, total primary energy supply, final energy consumption and electricity generation, it was especially \ninteresting to note that the higher GDP growth rate also reduced the share of total system cost in GDP, owing \nto the fact that it was accompanied by significant lowering of the energy intensity of a unit of GDP."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "This",
+                "Object": "fact",
+                "Description": "This reflects the fact that aggregate purchases of new energy demand devices increase by \nalmost 19%, which embeds higher levels of efficiency over time as incomes rise."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "variations",
+                "Description": "While there are slight variations in the implementation \nschedule for new solar, wind and hydro power capacity, the only effect of higher \n(lower) income growth lies in the increased (decreased) utilization of existing installed \ncapacity of both VRES and gas-fired thermal power plants, with a concomitant \nincrease (decrease) in expenditures on natural gas fuel."
+            },
+            {
+                "Relation": "lie",
+                "Subject": "effect",
+                "Object": "capacity",
+                "Description": "While there are slight variations in the implementation \nschedule for new solar, wind and hydro power capacity, the only effect of higher \n(lower) income growth lies in the increased (decreased) utilization of existing installed \ncapacity of both VRES and gas-fired thermal power plants, with a concomitant \nincrease (decrease) in expenditures on natural gas fuel."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "considering",
+                "Object": "choice",
+                "Description": "Thus, whether considering total system cost or investment costs required for new generation, \nthe scenarios for life extension of the ANPP represent a least-cost policy choice for continuing to maintain \nnuclear capacity in Armenia\u2019 energy mix."
+            },
+            {
+                "Relation": "mirror",
+                "Subject": "Commitment",
+                "Object": "scenarios",
+                "Description": "Commitment, either by 2036 or earlier, largely mirror the \u201cnew nuclear\u201d scenarios in \nterms of increases in total system cost and primary energy supply, reductions in GHG \nemissions and decreases in imports of natural gas for electricity generation."
+            },
+            {
+                "Relation": "explore",
+                "Subject": "We",
+                "Object": "scenarios",
+                "Description": "We also explored two \nscenarios with lower gas prices, starting from the same initial border gas price effective from January 1, 2019, \nof US$ 165 per 1000 m3 , which i) applied the EU trend growth rate over the entire period to 2036 from that \nstarting point , and ii) assumed that the border gas prices grows to US$ 180/1000 m3 by 2027 and remains \nfixed at that level until the end of the planning period."
+            },
+            {
+                "Relation": "apply",
+                "Subject": "which",
+                "Object": "rate",
+                "Description": "We also explored two \nscenarios with lower gas prices, starting from the same initial border gas price effective from January 1, 2019, \nof US$ 165 per 1000 m3 , which i) applied the EU trend growth rate over the entire period to 2036 from that \nstarting point , and ii) assumed that the border gas prices grows to US$ 180/1000 m3 by 2027 and remains \nfixed at that level until the end of the planning period."
+            },
+            {
+                "Relation": "generate",
+                "Subject": "which",
+                "Object": "saving",
+                "Description": "It is useful to note that the constrained levels of solar and \nwind generation are still fully built, which generates an investment cost saving as compared to BASE-R of $377 \nmillion in the case with the EU trend to 2036 and of $391 million when the gas price is capped at $180."
+            },
+            {
+                "Relation": "examine",
+                "Subject": "we",
+                "Object": "scenarios",
+                "Description": "To \nexplore these opportunities, we examined scenarios designed to increase the penetration level for use of \nelectricity in residential heating to 25% in 2027 and to 50% by 2036, increase the penetration level for use of \nelectric vehicles to 25% in 2027 and to 50% by 2036 and both of these scenarios taken together."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Report",
+                "Object": "framework",
+                "Description": "This Report presents the modelling framework, data, analyses and conclusions of the year-long activity \nundertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as \nthe lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to \nprepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-2036."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "lead",
+                "Object": "update",
+                "Description": "This Report presents the modelling framework, data, analyses and conclusions of the year-long activity \nundertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as \nthe lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to \nprepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-2036."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "sections",
+                "Object": "description",
+                "Description": "The remaining sections of this Chapter summarize a description of the \nArmenian energy system in the modelling base year of 2016."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Chapter",
+                "Object": "summary",
+                "Description": "Chapter 2 presents a brief summary of the platform and methodology for the generic TIMES model, which is an \neconomic model generator for local, national, multi-regional, or global energy systems, developed and \nmaintained under the auspices of the International Energy Agency\u2019s Energy Technology Systems Analysis \nProgram (IEA - ETSAP)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "model",
+                "Object": "basis",
+                "Description": "This model provides a technology-rich basis for representing energy dynamics over a \nmulti-period time horizon."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Chapter",
+                "Object": "details",
+                "Description": "Chapter 3 provides details on the specific application of the TIMES-Armenia model, \nconfirming the calibration of the model to the year first modelled year (2018), confirming results to match \navailable data, and presents the process of developing the initial Baseline (or Reference) scenario for the period \nplanning period 2020 \u2013 2036."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "Chapter",
+                "Object": "set",
+                "Description": "With the Baseline-Reference scenario fully detailed, Chapter 4 outlines a set of selected alternative possible \nscenarios that were identified by key stakeholders as of interest, to reflect different potential pathways for the \nevolution of the Armenian energy system, including policy choices as well as sensitivity analyses to determine \nthe possible impacts of variations in such factors as demand growth or energy processes."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Chapter",
+                "Object": "set",
+                "Description": "Once the results of the various scenarios have been \ndescribed and the differences in outcomes explored, Chapter 5 presents a set of summary conclusions and \nrecommendations based on those results."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "damage",
+                "Description": "Following the Spitak earthquake on December 7, 1988, operation of the ANPP stopped for safety \nconsiderations, although there was no technical damage to the plant."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Rivers",
+                "Object": "potential",
+                "Description": "The Hrazdan River, flowing out of Lake Sevan, and the Araks, Vorotan, and Debet \nRivers have the most energy potential."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "cascade",
+                "Object": "HPPs",
+                "Description": "The cascade comprises seven HPPs: Sevan (34 MW); Hrazdan (81 MW); \nArgel (224 MW); Arzni (70 MW); Kanaker (102 MW); Yerevan-1 (44 MW); and Yerevan-3 (5 MW), with \na total installed capacity of 560 MW and designed to produce up to 2.32 billion kWh annually."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "cascade",
+                "Object": "HPP",
+                "Description": "The cascade comprises Spandaryan \nHPP (76 MW), Shamb HPP (171 MW) and Tatev HPP (157 MW) with a total installed capacity of 404 \nMW and a designed annual electricity generation of 1.16 billion kWh."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Construction",
+                "Object": "factor",
+                "Description": ";\n\uf0b7 Small HPPs: Construction of small HPPs in Armenia has been a leading factor in the development of \nrenewable energy resources, enhancing the energy security of Armenia."
+            },
+            {
+                "Relation": "have",
+                "Subject": "system",
+                "Object": "farm",
+                "Description": "In terms of other renewable energy resources, in 2016 Armenia\u2019s system also had one wind farm with a \ncapacity of 2.64 MW and at the end of the year there were a small number of solar PV plants installed, with \ncapacity of 273 kW and annual generation less than 0.1 million kWh \n"
+            },
+            {
+                "Relation": "have",
+                "Subject": "GENERATION",
+                "Object": "share",
+                "Description": "#ELECTRICITY GENERATION AND CONSUMPTION IN 2016, in MILLION kWh:\nTotal Annual Generation 7,315.3 of which the Power plant own use/(% of total) has a share of 327.4/(4.5%) and Losses/(% of total net input) are 706.0/(10.1%)."
+            },
+            {
+                "Relation": "be",
+                "Subject": "consumption",
+                "Object": "5,328.2",
+                "Description": "Export is 1,226.4 and Import 272.6 while Final consumption is 5,328.2 with a Number of Consumers of ~ 985,000.\n"
+            },
+            {
+                "Relation": "present",
+                "Subject": "numbers",
+                "Object": "shares",
+                "Description": "These numbers present the shares of electricity generation in 2016 by fuel, which shows that the ANPP, gas-fired \npower plants and renewables (including small HPPs and wind) were distributed almost equally in the total \ngeneration mix, each accounting for around one-third of the total."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "amount",
+                "Description": "Figure 1.2 presents the amount of electricity \ngenerated for domestic use in 2016, with difference reflecting the fact that net exports are generally accounted \nfor by gas generation, which increases the share of nuclear generation and of all renewables to 37% each, \nleaving 26% of electricity generation for domestic use dependent on imported gas."
+            },
+            {
+                "Relation": "have",
+                "Subject": "system",
+                "Object": "interconnections",
+                "Description": "The Armenia power system \nhas interconnections with all neighbor countries, although those with Turkey and Azerbaijan were not in \noperation, due to political issues."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "Electricity",
+                "Object": "consumers",
+                "Description": "Electricity generated by power plants and transmitted by HVL reaches consumers through the distribution \nnetwork, which comprises 110 \u2013 35 - 6(10) - 0.4 kV lines and cables."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "share",
+                "Description": "Figure 1.4 shows the share of electricity consumption by economic sectors in 2016, using the terminology for \nsectors of the Public Services Regulatory Commission (PSRC)."
+            },
+            {
+                "Relation": "be",
+                "Subject": "sectors",
+                "Object": "focus",
+                "Description": "Clearly, in terms of understanding and projecting demand growth for electricity, these three sectors will be a \nkey focus for in-depth modelling."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "facility",
+                "Object": "opportunity",
+                "Description": "The underground gas storage facility in Abovyan, \nwhich has capacity of around 140 million cubic meters (m3), provides an opportunity to regulate daily load \nfluctuations in heavy demand periods such as winter days, as well as to accumulate some amount of gas to \nprovide uninterrupted supply in emergency situations."
+            },
+            {
+                "Relation": "include",
+                "Subject": "system",
+                "Object": "km",
+                "Description": "The bulk gas transportation system includes 1,682.2 km of main and branch gas pipelines, of which \n1,586.5 km of gas pipelines are involved in gas transportation activities and the rest is in operational reserve \nmode."
+            },
+            {
+                "Relation": "include",
+                "Subject": "facility",
+                "Object": "tanks",
+                "Description": "The Abovyan gas storage facility includes 21 underground tanks and compressor \nstations."
+            },
+            {
+                "Relation": "present",
+                "Subject": "section",
+                "Object": "data",
+                "Description": "This section presents \nthe main data of the Armenian Energy Balance for the base year (2016), as officially published by International \nEnergy Agency (IEA)"
+            },
+            {
+                "Relation": "present",
+                "Subject": "Table",
+                "Object": "Balance",
+                "Description": "Table 1.5 presents the Armenian Energy Balance for 2016, which includes also the amounts of other energy \ncarriers used, in particular coal and oil."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "processes",
+                "Object": "conversion",
+                "Description": "Transformation processes comprise the conversion of primary forms of energy to secondary and \nfurther transformation (e.g., coking coal to coke; crude oil to oil products; fuel oil to electricity)."
+            },
+            {
+                "Relation": "cover",
+                "Subject": "use",
+                "Object": "amount",
+                "Description": "Transformation losses will appear in the \u201ctotal\u201d column as negative numbers. ;\n\uf0d8 Energy industry own use covers the amount of fuels used by the energy producing industries (e.g., for \ndistribution)."
+            },
+            {
+                "Relation": "\uf0d8",
+                "Subject": "\n",
+                "Object": "Consumption",
+                "Description": ";\n\uf0d8 Total Final Consumption (TFC)"
+            },
+            {
+                "Relation": "cover",
+                "Subject": "use",
+                "Object": "fuels",
+                "Description": ";\n\uf0d8 Non-energy use covers those fuels that are used as raw materials in the different sectors and are not \nconsumed as a fuel or transformed into another fuel."
+            },
+            {
+                "Relation": "bio",
+                "Subject": "gases",
+                "Object": "products",
+                "Description": "Liquefied petroleum gases (LPG) 4.5 ;\nBitumen 22.2 ;\nMotor Gasoline excl. bio 146.7 ;\nOther oil products 3 ;\nGasoline type jet fuel 0.0 ;\nNatural Gas 1,847.4 ;\nWhite spirit & SBP 0.1 ;\nFire wood 0.0 ;\nKerosene Type Jet Fuel excl."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "data",
+                "Object": "position",
+                "Description": "The base \nyear data outline the leading position of households, which accounted for 37% of total FEC, with transport \nsecond at almost 30%."
+            },
+            {
+                "Relation": "have",
+                "Subject": "agriculture",
+                "Object": "share",
+                "Description": "In the base year, services and industry accounted for 15.6% and 15.3% of FEC, \nrespectively, while agriculture had the smallest share in total FEC at 2%."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "consumption",
+                "Description": "Figure 1.7 shows all final energy \nconsumption by sectors and types of fuel in 2016."
+            },
+            {
+                "Relation": "have",
+                "Subject": "rates",
+                "Object": "capacity",
+                "Description": "These rates have a capacity and an \nelectricity (energy) component."
+            },
+            {
+                "Relation": "have",
+                "Subject": "renewables",
+                "Object": "tariff",
+                "Description": "Except for small HPPs, all other renewables had a VAT-inclusive generation tariff (51.29 AMD/kWh) \nset higher than the highest tariff for consumers (44.98 AMD/kWh with VAT; Table 1.7)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "\n",
+                "Object": "differentiation",
+                "Description": "This \nincludes some tariff differentiation, in particular for socially vulnerable (poor) households, agricultural \ngreenhouse farms and distinguishing consumers utilizing more or less than 10,000 m3/month."
+            },
+            {
+                "Relation": "approve",
+                "Subject": "Government",
+                "Object": "Plan",
+                "Description": "Further, on February 2, 2017, \nGovernment of Armenia (GOAM) approved the Energy Efficiency Action Plan for 2017-2018."
+            },
+            {
+                "Relation": "include",
+                "Subject": "which",
+                "Object": "requirements",
+                "Description": "In 2016 amendments to Law on Energy Efficiency and Renewable Energy were approved by Parliament \nwhich included some specific minimum energy efficiency requirements."
+            },
+            {
+                "Relation": "request",
+                "Subject": "Law",
+                "Object": "Government",
+                "Description": "The amended Law in particular \nrequested the Government to classify economic sectors by their energy intensity levels as high, medium and \nlow and established mandatory energy efficiency and energy management technical requirements for newly\u0002built residential apartment buildings and state-funded construction or re-construction."
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "GOAM",
+                "Object": "laws",
+                "Description": "Although the GOAM has adopted laws and policies to \npromote efficiency through various programs as noted, the potential for efficiency improvement remains largely \nuntapped."
+            },
+            {
+                "Relation": "show",
+                "Subject": "factors",
+                "Object": "percentage",
+                "Description": "These factors show the percentage of efficiency improvement due to replacement of old equipment and \ndevices by new ones of the same type, taking into consideration some reduction of efficiency of old equipment \nbecause of depreciation."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "platform",
+                "Object": "systems",
+                "Description": "The TIMES platform provides an integrated energy systems\u2019 modelling \nframework that is designed to guide policy formulation over a wide range of energy, economic and \nenvironmental planning and policy issues and to help establish investment priorities within a comprehensive \nframework."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "iii",
+                "Object": "framework",
+                "Description": "\nKey aspects of TIMES platform include that it: i) encompasses an entire energy system from resource \nextraction through to end-use demands, as represented by a Reference Energy System network that connects\nall technologies to track to flow of commodities throughout the energy system, see Figure 2.1; ii) employs \nleast-cost optimization to identify the most cost-effective pattern of resource use and technology deployment \nover time; iii) provides a framework for evaluation of medium- to long-term policies and programs that can \nimpact the evolution of the energy system; and iv) quantifies the costs and technology choices that result from \nimposition of the policies and program."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Utilizing",
+                "Object": "tool",
+                "Description": "Utilizing the TIMES model can be a productive tool for fostering \nstakeholder buy-in and consensus building."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "user",
+                "Object": "estimates",
+                "Description": "In addition, the user provides estimates of the existing \nstocks of energy-related equipment in all sectors and identifies assumptions relating to the characteristics of \navailable future technologies and present and future sources of primary energy supply and their potentials. \n"
+            },
+            {
+                "Relation": "carry",
+                "Subject": "model",
+                "Object": "optimization",
+                "Description": "Using these as inputs, the TIMES model carries out its optimization to supply energy services at minimum \nglobal cost by simultaneously making decisions on equipment investment and operation; primary energy supply; \nand energy trade."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "increase",
+                "Description": "For example, if there is an increase in residential lighting energy service relative to the \nreference scenario (perhaps due to a decline in the cost of residential lighting, or due to different assumptions \non GDP growth), either existing generation equipment must be used more intensively, or new, possibly more \nefficient equipment must be installed."
+            },
+            {
+                "Relation": "have",
+                "Subject": "equilibrium",
+                "Object": "\n",
+                "Description": "Thus, this equilibrium has the property \nthat total economic surplus is maximized."
+            },
+            {
+                "Relation": "have",
+                "Subject": "model",
+                "Object": "capability",
+                "Description": "The TIMES model has the capability of \nestimating the response of demands to the changing conditions of an alternate scenario."
+            },
+            {
+                "Relation": "require",
+                "Subject": "\n",
+                "Object": "set",
+                "Description": "To do this, the model \nrequires an additional set of inputs for the assumed own-price elasticities of the demand."
+            },
+            {
+                "Relation": "impact",
+                "Subject": "policies",
+                "Object": "system",
+                "Description": "Insofar as some policies impact the energy system, they become an integral part of scenario definition."
+            },
+            {
+                "Relation": "ignore",
+                "Subject": "scenario",
+                "Object": "emissions",
+                "Description": "For \ninstance, a reference scenario may ignore emissions of various pollutants, while alternate policy scenarios may \nenforce emission restrictions, or emission taxes, etc."
+            },
+            {
+                "Relation": "enforce",
+                "Subject": "scenarios",
+                "Object": "restrictions",
+                "Description": "For \ninstance, a reference scenario may ignore emissions of various pollutants, while alternate policy scenarios may \nenforce emission restrictions, or emission taxes, etc."
+            },
+            {
+                "Relation": "be",
+                "Subject": "example",
+                "Object": "policy",
+                "Description": "A simpler example might be a nuclear policy that limits or expands the future capacity of \nnuclear plants."
+            },
+            {
+                "Relation": "be",
+                "Subject": "example",
+                "Object": "imposition",
+                "Description": "Another example might be the imposition of fuel taxes, or of targeted capital subsidies, etc. \n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "technologies",
+                "Object": "user",
+                "Description": "In the TIMES model, some technologies may be user \nimposed, while others may simply be available for the model to choose from."
+            },
+            {
+                "Relation": "incorporate",
+                "Subject": "model",
+                "Object": "inputs",
+                "Description": "Following the generic process described above, as described in the following Chapter the TIMES-Armenia \nmodel incorporates the key inputs as presented in the following lists with Times-Armenia Key Inputs:\n#Energy Balance \n"
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "level",
+                "Description": "Total discounted cost of all fuel purchases, power plant builds, device purchases, \noperating & maintenance costs over the entire planning horizon;\n#Resources\nAnnual production level, and marginal price if constrained and limit is reached;\n#Technologies \n\uf0b7 Total installed capacity in each period;\n\uf0b7 Annual new power plant builds and expenditure ;\n\uf0b7 Annual fixed and variable operating and fuel costs ;\n\uf0b7 Annual & season/time of day (for power plants) utilization ;\n\uf0b7 Marginal cost, if constrained and limit is reached;\n#Energy Carriers\n\uf0b7 Annual amount consumed by each technology & by sector ;\n\uf0b7 Marginal price (by season/time of day for electricity);\n#Demand Services\n\uf0b7 Marginal price of meeting each demand;\n\uf0b7 Change in level of demand (if elastic formulation used) ;\n#Emissions\n\uf0b7 Emission level by resource/sector & fuel for each period ;\n\uf0b7 Marginal costs, if limited;\n#3."
+            },
+            {
+                "Relation": "show",
+                "Subject": "structure",
+                "Object": "3.2",
+                "Description": "The structure of projected useful energy demand and its growth for 2018 \u2013 2036 is shown in Table \n3.2 and illustrated in Figure 3.2."
+            },
+            {
+                "Relation": "include",
+                "Subject": "model",
+                "Object": "drivers",
+                "Description": "The model also includes other drivers which will lead to reduced energy consumption, such \nas the demolition rate of old buildings and replacement with more energy efficient new buildings, and \ninternal improvement of appliances\u2019 efficiency, even when replacing the same one."
+            },
+            {
+                "Relation": "keep",
+                "Subject": "elasticity",
+                "Object": "constant",
+                "Description": "For passenger \ncarrying international aviation, the elasticity is kept constant at 0.51."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "Table",
+                "Object": "parameters",
+                "Description": "Table 3.3 describes the relevant and economic parameters for existing power plants included in the TIMES\u0002Armenia model."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "These",
+                "Object": "point",
+                "Description": "These also provide the corrected starting point for calculations \nover the full forecast period through 2036."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "Tables",
+                "Object": "technologies",
+                "Description": "In addition to existing generation capacities that are and will be available in the system over the planning \nhorizon to 2036, Tables 3.4 and 3.5 below describe the candidate technologies that are included in the TIMES\u0002Armenia model, including seasonal capacity factor for variable renewable energy sources (VRES)."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "costs",
+                "Object": "changes",
+                "Description": "Investment costs in this table \nreflect the possible changes in costs for any given technology over time, so that a constant value means that no \nchanges in costs are foreseen for the planning horizon."
+            },
+            {
+                "Relation": "contain",
+                "Subject": "model",
+                "Object": "database",
+                "Description": "The \nmodel contains an extensive database with different types of demand technologies, presented as \u201cStandard\u201d, \n\u201cImproved\u201d, \u201cBest\u201d and \u201cAdvanced\u201d."
+            },
+            {
+                "Relation": "calculate",
+                "Subject": "cost",
+                "Object": "horizon",
+                "Description": "Depending on the whole system cost calculated for each milestone period, as well as for entire planning \nhorizon, and based on the costs for supplied energy carriers, the TIMES model chooses the least cost demand\noption applicable for the current state."
+            },
+            {
+                "Relation": "put",
+                "Subject": "Government",
+                "Object": "requirements",
+                "Description": "Because the Government of Armenia has not yet put in place any obligatory requirements for implementation \nof energy efficiency activities, the market uptake of Improved, Better and Advanced technologies is constrained."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "discussion",
+                "Object": "findings",
+                "Description": "The following discussion summarizes the main findings of the TIMES-Armenia initial model Baseline Scenario \ncalculation results, in which no further constraints than those noted above have been introduced."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "energy",
+                "Object": "source",
+                "Description": "Nuclear energy remains a significant supply source, accounting for \nup to 25% of TPES, until the ANPP exits from the system."
+            },
+            {
+                "Relation": "include",
+                "Subject": "scenario",
+                "Object": "introduction",
+                "Description": "In addition to existing generation units, this scenario includes the introduction of the RENCO \ngas-fired CCGT and the Masrik-1 solar PV power plants according to their scheduled Commercial Operation \nDates, and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their current \noperational lifetimes, 2027 and 2021, respectively. \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "results",
+                "Object": "capacity",
+                "Description": "In this Least-Cost Baseline, with no other limitations on choice of technology, by the end of planning period the \nmodel results show an added capacity of 2,931 MW of grid-connected Solar PV, 1,091 MW of Wind Farms and \n107 MW of added Small HPPs."
+            },
+            {
+                "Relation": "create",
+                "Subject": "planning",
+                "Object": "challenges",
+                "Description": "As a practical matter, planning for and realizing such extensive growth of VRES could \nclearly create operational challenges for the electricity system."
+            },
+            {
+                "Relation": "show",
+                "Subject": "model",
+                "Object": "decline",
+                "Description": "As large amounts of new grid connected VRESs \nare introduced, the model shows a decline in production of Small HPPs, which are almost exclusively run-of\u0002river."
+            },
+            {
+                "Relation": "limit",
+                "Subject": "model",
+                "Object": "generation",
+                "Description": "This is driven in part by the fact of maximum solar generation during summer time (especially in June), \nwhen large amounts of hydro generation are also available, although the model limits generation by these Small \nHPPs at these times as higher cost."
+            },
+            {
+                "Relation": "imply",
+                "Subject": "this",
+                "Object": "need",
+                "Description": "Given system operational constraints of having such large \namounts of VRES on the system from solar PV, this could imply the need for implementation of storage \ntechnologies, although these are available and are not among the selected least-cost solutions."
+            },
+            {
+                "Relation": "explore",
+                "Subject": "we",
+                "Object": "this",
+                "Description": "In fact, we explore this in the next case, which describes our proposed Baseline - \nReference Scenario."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Scenario",
+                "Object": "pattern",
+                "Description": "Scenario, Figures 3.4 and 3.5 show the pattern of\nnew generation added to the system by type and the associated total lumpsum projected investment \nexpenditures over the planning period, which amounts to roughly US $3.17 billion to add around 4,409 MW of \ncapacity."
+            },
+            {
+                "Relation": "highlight",
+                "Subject": "Scenario",
+                "Object": "\n",
+                "Description": "Scenario clearly highlighted the cost-based preference \nfor significant implementation of grid-connected wind and solar PV generation."
+            },
+            {
+                "Relation": "raise",
+                "Subject": "expansion",
+                "Object": "questions",
+                "Description": "At the same time, such a \nsubstantial expansion also raises questions of the required further analysis of system technical issues associated \nwith adding very large amounts of VRES, e.g., system stability and dispatching issues, as well as of ensuring \nrealistic time frames for development of those resources and the availability of domestic capacity to do so at \nsuch large scale."
+            },
+            {
+                "Relation": "impose",
+                "Subject": "scenario",
+                "Object": "limitation",
+                "Description": "To reflect these aspects of concern, the following scenario, which we \ndevelop as the Baseline-Reference Scenario (BASE-R), imposes a certain limitation on grid-connected solar PV \nand wind generation expansion."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "sections",
+                "Object": "Scenario",
+                "Description": "In particular, the following sections develop the BASE-R Scenario in which \ntotal VRES development is capped at 2,000 MW, of which grid-connected solar PV can be at maximum 1,500 \nMW over the planning period and wind generation at 500 MW."
+            },
+            {
+                "Relation": "compare",
+                "Subject": "we",
+                "Object": "Scenario",
+                "Description": "Once we have compared this BASE-R Scenario to the IU BASE Scenario presented in the previous section, in \nChapter 4 we will then proceed to use the BASE-R Scenario as the point of comparison for examining further \nthe alternate policy scenarios that have been identified by key sector stakeholders as of interest in looking to \nreshape the evolution of the Armenian energy system."
+            },
+            {
+                "Relation": "retain",
+                "Subject": "\n",
+                "Object": "assumptions",
+                "Description": "The BASE-R Scenario maintains the same assumptions regarding key demand drivers and hence the same \nprojected growth of sectoral demands for useful energy as in the IU BASE Scenario (Section 3.5 above); it also \nretains the same assumptions related to gas prices, electricity losses, net exports, energy efficiency adoption \nrates and inclusion of Yerevan CCGT2 and Masrik-1."
+            },
+            {
+                "Relation": "introduce",
+                "Subject": "Scenario",
+                "Object": "assumptions",
+                "Description": "In addition, the BASE-R Scenario introduces the following \nassumptions related to limiting VRES deployment over the period from 2020-2036: \n\uf0b7 Introduction of new VRES generation capacity is limited to 1.5 GW for solar PV (central and \ndecentralized) and 0.5 GW of wind. ;\n\uf0b7 Annual maximum new capacity additions are capped at 100 MW for central solar PV, 4/5 MW for \nResidential/Commercial rooftop PV, and 50 MW for wind."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "\n",
+                "Object": "share",
+                "Description": "In fact, \ncompared to the IU BASE Scenario, gas increases its share of TPES by about 10% after 2027 and its amount by \naround 25% as a result of limiting VRES builds."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "generation",
+                "Object": "limits",
+                "Description": "In the BASE-R Scenario, RES increases around two and a half \ntimes over the planning period, with its share rising from 6.6% of TPES to nearly 16% by 2030, as the new \ngeneration reaches its assumption-allowed limits."
+            },
+            {
+                "Relation": "show",
+                "Subject": "sources",
+                "Object": "changes",
+                "Description": "No other sources of primary energy supply show significant \nchanges from the IU BASE scenario."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "value",
+                "Description": "Figure 3.6 presents the net present value of the sum of all costs, as projected by the model, that are associated \nwith ensuring development and operation of Armenia\u2019s energy system to meet the projected energy \nconsumption over the period to 2036, as total of US $41.0 billion, which is higher than Base case without \nrenewables limitation by US$ 512 M, an increase of 1.3%."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "costs",
+                "Object": "costs",
+                "Description": "As noted earlier in the discussion of Figure 3.3, these \nprojected costs comprise all costs associated with supply of energy, generation of electricity and with the end\u0002use demands for energy across all five sectors of the model, i.e., Agriculture, Commercial, Industry, Residential, \nand Transport."
+            },
+            {
+                "Relation": "include",
+                "Subject": "scenario",
+                "Object": "introduction",
+                "Description": "As \nnoted earlier, in addition to existing generation units, this scenario includes the introduction of the RENCO \ngas-fired Yerevan CCGT2 and the Masrik-1 solar PV power plants according to their scheduled Commercial \nOperation Dates and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their \ncurrent operational lifetimes, 2027 and 2021, respectively."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "Both",
+                "Object": "technologies",
+                "Description": "Both of these last-named HPPs represent the next cheapest \ngeneration technologies following solar and wind."
+            },
+            {
+                "Relation": "show",
+                "Subject": "model",
+                "Object": "generation",
+                "Description": "As the limited amounts of new VRES are introduced, the model shows relatively \nstable generation by most of the other power plants."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figures",
+                "Object": "pattern",
+                "Description": "Figures 3.7 and 3.8 show the pattern of new generation added to the system by type and the associated total \nlumpsum projected investment expenditures over the planning period, which amounts to roughly US $1.89 \nbillion for 2,457 MW of added capacity."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "this",
+                "Object": "investment",
+                "Description": "During the last three planning periods to 2036, an \nadditional 875 MW of generation capacity is added to cover the growth of demand; again, this comprises new \nVRES investment in Solar PV (714 MW), wind farms (95 MW) and the medium-sized Loriberd HPP (66 M)."
+            },
+            {
+                "Relation": "highlight",
+                "Subject": "we",
+                "Object": "points",
+                "Description": "In addition to the observations in the preceding section comparing TIMES-Armenia model projections for the \nIU BASE and BASE-R Scenarios, we highlight the following points:\n"
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "limitation",
+                "Object": "volume",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "play",
+                "Subject": "gas",
+                "Object": "role",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "limitation",
+                "Object": "level",
+                "Description": "As shown in Figure 3.10, the assumed limitation on implementing new generation from VRES reduces the\noverall total (undiscounted) lumpsum level of investment in new generation by 40%, from US$3,170 million to \nUS$ 1,891, which is the combined result of the much-reduced level of solar PV and wind investment, offset \npartly by the increased HPP investments and higher utilization of the existing gas-fired thermal generation."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Chapter",
+                "Object": "summary",
+                "Description": "This Chapter provides a summary of key results in comparing the Baseline-Reference (BASE-R) Scenario with a \nset of alternative scenarios identified as of interest by key sector stakeholders."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "levels",
+                "Description": "Figure 4.1 below shows the modelled levels of GDP for each \nmilestone year at the three growth rate levels."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.2 below illustrates the changes in \ncomposition of TPES as compared to the BASE-R scenario for each of the GDP growth scenarios."
+            },
+            {
+                "Relation": "show",
+                "Subject": "situation",
+                "Object": "results",
+                "Description": "The reverse situation is shown in the lower GDP growth rate scenario, \nin which lower income growth results in a decrease both of FEC by 4.3% and purchases of demand devices by \naround 11%."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Figures",
+                "Object": "representation",
+                "Description": "Figures 4.3 and 4.4 below provide another representation of the TIMES Armenia model results above for new \nelectricity generation capacity added over the planning horizon, which again reiterates the key point that there \nare no differences in total new power plant capacities by type needed to cover electricity demand between the \ntwo GDP growth scenarios as compared to the BASE-R scenario, with only the implementation schedule for \nnew solar, wind and hydro being slightly different, depending on the required consumption level in each time \nperiod."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figures",
+                "Object": "levels",
+                "Description": "Figures 4.5 and 4.6 show the aggregate projected generation levels by plant type for each of the GDP growth \nscenarios and their difference from the BASE-R scenario over the planning horizon."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "this",
+                "Object": "increase",
+                "Description": "For the case of a 50% \nhigher GDP growth rate, this indicates an increase of roughly 1,879 GWh of total renewable electricity \ngeneration and 1,438 GWh of gas-fired production, as compared to the BASE-R scenario, while in the in the \ncase of a 50% lower GDP growth rate these figures show reductions of 803 GWh in generation from \nrenewables and of 982 GWh from gas-fired generation."
+            },
+            {
+                "Relation": "show",
+                "Subject": "figures",
+                "Object": "reductions",
+                "Description": "For the case of a 50% \nhigher GDP growth rate, this indicates an increase of roughly 1,879 GWh of total renewable electricity \ngeneration and 1,438 GWh of gas-fired production, as compared to the BASE-R scenario, while in the in the \ncase of a 50% lower GDP growth rate these figures show reductions of 803 GWh in generation from \nrenewables and of 982 GWh from gas-fired generation."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "costs",
+                "Description": "Table 4.47 summarizes the comparative fuel costs for electricity generation in each of the GDP growth \nscenarios, as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "confirm",
+                "Subject": "analysis",
+                "Object": "increases",
+                "Description": "The TIMES Armenia model analysis of the effects of higher and lower GDP growth rates, covering the range of \n+/- 50% over the period from 2022 to 2036, confirmed expected increases (and decreases) in energy supply, \nend use consumption and GHG emissions, with interesting impacts from the increased adoption of energy \nefficient demand devices in the case of rising incomes which lead to an overall pattern of decreasing energy \nintensity per unit of GDP as income rises (with conversely less impact when incomes fall)."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "extension",
+                "Object": "cost19",
+                "Description": "As shown in Table 4.9, life extension of the ANPP to 2032 reduces total energy system cost19 by 0.8%, while \nextension to 2037 reduces it by 1.2%, principally through reduced use of imported natural gas and the fact that \nadditional investment costs for new generation are reduced."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "extension",
+                "Object": "it",
+                "Description": "As shown in Table 4.9, life extension of the ANPP to 2032 reduces total energy system cost19 by 0.8%, while \nextension to 2037 reduces it by 1.2%, principally through reduced use of imported natural gas and the fact that \nadditional investment costs for new generation are reduced."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "Forcing",
+                "Object": "costs",
+                "Description": "Forcing the build of new nuclear plants increases \noverall energy system costs compared to BASE-R by from 1.9 \u2013 2.0%, depending on the size of new reactor, \nwhere savings associated with reduced fuel costs are more than offset by the higher costs for the new nuclear \nunits which are built."
+            },
+            {
+                "Relation": "start",
+                "Subject": "part",
+                "Object": "\n",
+                "Description": "Because part of the calculation of TPES starts \nfrom electricity produced and works backward to fuel used, the fact that NPP efficiency is around 33% means \nthat the forced production of additional nuclear power electricity generation as compared to BASE-R is \nreplacing the gas used in CCGTs, which have an efficiency of around 56%."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "construction",
+                "Description": "Figure 4.9 presents the projected construction of new electricity generation capacity in MW by type over the \nperiod 2020 - 2036 for the BASE-R scenario and the four nuclear option scenarios, which are further \nsummarized in terms of differences from BASE-R in Figure 4.10."
+            },
+            {
+                "Relation": "delay",
+                "Subject": "option",
+                "Object": "deployment",
+                "Description": "Compared with the BASE-R scenario, all the nuclear option \nscenarios delay deployment of new solar PV generation capacity, although in all cases the full amount of \nconstrained new solar capacity (1,500 MW) is added during the planning horizon to 2036."
+            },
+            {
+                "Relation": "constrain",
+                "Subject": "amount",
+                "Object": "capacity",
+                "Description": "Compared with the BASE-R scenario, all the nuclear option \nscenarios delay deployment of new solar PV generation capacity, although in all cases the full amount of \nconstrained new solar capacity (1,500 MW) is added during the planning horizon to 2036."
+            },
+            {
+                "Relation": "delay",
+                "Subject": "scenarios",
+                "Object": "deployment",
+                "Description": "Similarly, all the \nnuclear option scenarios delay deployment of new wind capacity until later in the planning horizon, and in the \ncase of the new-nuclear LWR 600 MW capacity scenario overall new wind generation capacity grows to less \nthan its constrained limit (500 MW) by just over 100MW."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "differences",
+                "Description": "\nTable 4.12 summarizes the overall differences in new electricity generation capacity built over the TIMES\u0002Armenia model planning horizon for the four nuclear option scenarios as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "reduction",
+                "Description": "In both scenarios that introduce new nuclear capacity after the decommissioning of ANPP, the \nadditional capacity increases of 300 and 600 MW for the new nuclear units is offset by the elimination of \nmedium-sized hydro (141 MW), while in the LWR 600 MW scenario there is a further reduction of new wind \ngeneration capacity (by 114 MW)."
+            },
+            {
+                "Relation": "instal",
+                "Subject": "Table",
+                "Object": "capacities",
+                "Description": "\nTable 4.13 below presents projected installed electricity generation capacities by plant or plant type for each \nscenario."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "levels",
+                "Description": "Figure 4.11 shows the aggregate projected generation levels by plant type over the planning horizon, which for\nthe most part mirrors the installed capacity trends above, with the notable exception of gas-fired plants which \nshow a marked difference by scenario."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "fuel",
+                "Description": "Table 4.14 summarizes the comparative gas fuel cost savings in each of the nuclear scenarios as compared to \nBASE-R. While these represent significant savings in imported fuel, they are in general offset by increased \ninvestment costs, in particular in the two scenarios with new-build nuclear generation."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "these",
+                "Object": "savings",
+                "Description": "Table 4.14 summarizes the comparative gas fuel cost savings in each of the nuclear scenarios as compared to \nBASE-R. While these represent significant savings in imported fuel, they are in general offset by increased \ninvestment costs, in particular in the two scenarios with new-build nuclear generation."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Table",
+                "Object": "costs",
+                "Description": "Table 4.15 above presents the lumpsum (undiscounted) investment costs for additional generation capacity by \nplant type over the planning horizon, while Table 4.16 summarizes the differences in investment levels required, \nby scenario."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "differences",
+                "Description": "Table 4.15 above presents the lumpsum (undiscounted) investment costs for additional generation capacity by \nplant type over the planning horizon, while Table 4.16 summarizes the differences in investment levels required, \nby scenario."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "extension",
+                "Object": "requirements",
+                "Description": "Life extension of the ANPP to 2032 increases these investment requirements by 15%, while life \nextension to 2037 increases these costs by 12%, reflecting both the assumed additional $300 million and $600 \nmillion of further investment beyond the current program of safety upgrades, respectively, for these extensions \nand the fact that the longer life extension eliminates the investment required for both the mid-sized HPPs, \nShnokh and Loriberd."
+            },
+            {
+                "Relation": "negotiate",
+                "Subject": "Armenia",
+                "Object": "prices",
+                "Description": "Historically Armenia has negotiated gas prices with Russia \nbelow these European rates."
+            },
+            {
+                "Relation": "be",
+                "Subject": "this",
+                "Object": "timing",
+                "Description": "(note: \n2027 is the indicative year as this is the timing for currently- planned shutdown of the ANPP)."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "prices",
+                "Description": "Figure 4.12 below shows the modelled natural gas border prices for each milestone \nyear."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.13 \nbelow illustrates the changes in composition of TPES as compared to the BASE-R scenario for each of the \nlower gas price scenarios, indicating the pattern of increase in natural gas supply and reductions of renewables \nand of oil products, equal to 2.2 PJ for a 1.0% reduction."
+            },
+            {
+                "Relation": "be",
+                "Subject": "which",
+                "Object": "result",
+                "Description": "Referring to the more detailed outputs of the TIMES Armenia model, the data show that FEC \nremains virtually unchanged by fuel and by sector, which is the result of replacing electricity generated by \nrenewable energy sources by that produced in gas-fired power plants."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Figures",
+                "Object": "representation",
+                "Description": "Figures 4.14 and 4.15 below provide another representation of the TIMES Armenia model results for new \nelectricity generation capacity over the planning horizon, which again reiterates that there are no differences in \ntotal new power plant capacities by type needed to cover electricity demand between the two lower gas price \nscenarios as compared to the BASE-R scenario, and only the implementation schedule for renewable energy \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figures",
+                "Object": "levels",
+                "Description": "Figures 4.16 and 4.17 show the aggregate projected generation levels by plant type for each of the lower gas \nprice scenarios and their difference from the BASE-R scenario over the planning horizon, respectively."
+            },
+            {
+                "Relation": "require",
+                "Subject": "supply",
+                "Object": "capacity",
+                "Description": "As noted earlier, in both of the low gas price scenarios the mid-sized HPPs are not built while the expanded\nsupply of electricity from gas-fired thermal generation does not require any new capacity."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "results",
+                "Object": "savings",
+                "Description": "As shown in Figure \n4.18 and Table 4.22, this results in roughly 20% reduction in the lumpsum investment required, a saving of $377 \nmillion in the EU trend to 2036 scenario and of $391 million in the scenario with gas price capped at $180, as \ncompared to BASE-R.\nTable 4.23 summarizes the comparative fuel cost savings for electricity generation in each of the low gas price \nscenarios, as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "examine",
+                "Subject": "we",
+                "Object": "scenarios",
+                "Description": "To explore these opportunities, we examine \nthe following scenarios: \n\u2022 Increase in the penetration level for the use of electricity in residential heating to 25% in 2027 and to 50% \nby 2036; \n\u2022 Increase in the penetration level for use of electric vehicles to 25% in 2027 and to 50% by 2036; \n\u2022"
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "stock",
+                "Object": "cars",
+                "Description": "stock comprises electric cars by the end of planning period."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "increase",
+                "Description": "In the electric vehicle scenario, the TPES savings amount to 79 PJ which comes from a \ncombination of reduce use of oil products (61 PJ) and gas (31 PJ), while at the same time there is an increase of \naround 12 PJ of renewable energy sources to cover the increased electricity demand."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.19 below illustrates these changes in composition of TPES as compared to the BASE-R scenario for \neach of the scenarios replacing gas with electricity."
+            },
+            {
+                "Relation": "see",
+                "Subject": "we",
+                "Object": "increase",
+                "Description": "In all scenarios we see a slight increase in renewables, as \nexpected."
+            },
+            {
+                "Relation": "see",
+                "Subject": "we",
+                "Object": "reduction",
+                "Description": "In the scenario with residential heating increased to 50% \nfrom electricity by the end of the planning period, we see reduction of total natural gas supply (import) by \naround 4.8%, while the share of renewables in primary energy supply has practically not changed."
+            },
+            {
+                "Relation": "see",
+                "Subject": "we",
+                "Object": "reduction",
+                "Description": "In the \nscenario with 50% electric vehicles in the transport sector by 2036 we see a significant reduction of TPES from \noil products by 24.8% and of natural gas by 1.9%, as well as around 3.4% increase of renewable energy sources."
+            },
+            {
+                "Relation": "arise",
+                "Subject": "changes",
+                "Object": "PJ",
+                "Description": "In the residential \nheating scenario, these changes primarily arise due to the more aggressive replacement of energy used by \n\u201cStandard\u201d demand technologies (490 PJ) by the more efficient \u201cAdvanced\u201d (35 PJ), \u201cBetter\u201d (68 PJ) and \n\u201cImproved\u201d (169 PJ) technologies."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "levels",
+                "Description": "Figure 4.22 shows the aggregate projected generation levels by plant type over the planning horizon, which are\nvery similar and indicate a roughly 10% higher level of total electricity generation in the scenario with electrified \ntransport and the combined scenario, as compared to BASE-R. In particular, given that the structure of \ngeneration capacity remains the same, this is reflected in the increased use of the available gas-fired generation \nas more electricity is consumed after 2027."
+            },
+            {
+                "Relation": "imply",
+                "Subject": "which",
+                "Object": "increase",
+                "Description": "Here we see (in the \u201cGas-fired\u201d line) that after 2027 there is \nincreased use of the available CCGT generation as more electricity is consumed, which implies an increase in \ngas fuel for that which is offset by the decline in direct gas consumption for heat and transport."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "savings",
+                "Description": "Table 4.29 summarizes the comparative fuel cost savings for electricity generation in each of the scenarios \ninvolving replacement of gas to electricity, as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "differences",
+                "Description": "While as noted above there are no differences in the total amount of new generation capacity added to the\nsystem in any of these scenarios as compared to BASE-R, at the same time there are very slight differences in\ntotal lumpsum investments in new generations due to the shifts in timing of the costs realized, as shown in\nTable 4.30 below."
+            },
+            {
+                "Relation": "undertake",
+                "Subject": "EMISSIONS",
+                "Object": "obligations",
+                "Description": "#4.5 REDUCED GHG EMISSIONS FROM ENERGY SECTOR COMPARED TO BAU BY 2036 \n#4.5.1 SCENARIO DESCRIPTION \nArmenia as a party to the Paris Agreement has undertaken obligations to reduce its GHG emissions to the \nlevel defined in its Nationally Determined Contribution (NDC) but meeting these targets will be a challenge."
+            },
+            {
+                "Relation": "examine",
+                "Subject": "scenario",
+                "Object": "impact",
+                "Description": "This scenario examines the impact on energy system development costs of meeting Armenia\u2019s adopted NDC \nobligations, which were not an imposed constraint in the BASE-R scenario."
+            },
+            {
+                "Relation": "examine",
+                "Subject": "We",
+                "Object": "scenario",
+                "Description": "We also examine a scenario where value of the 2036 GHG emissions target is shifted forward, to be achieved \nby 2030, the GHG Target by 2030 Scenario."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "results",
+                "Object": "pathways",
+                "Description": "The \nTIMES Armenia model results presented below summarize the possible pathways to meet Armenia\u2019s NDC \nobligations, while ensuring the least-cost solution on energy system development over the entire planning \nhorizon."
+            },
+            {
+                "Relation": "resemble",
+                "Subject": "scenario",
+                "Object": "scenario",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "scenario",
+                "Object": "plant",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "reduction",
+                "Object": "it",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "be",
+                "Subject": "driver",
+                "Object": "consumption",
+                "Description": "As noted above, the structure of energy carriers used on the demand side \nin these GHG emissions reduction scenarios differs from that in the nuclear scenarios, reflecting the \nrequirement to reduce GHG by replacing higher-emissions devices with lower-emissions ones, while in the \nnew nuclear scenarios the main driver of FEC is more electricity consumption from forced implementation of \nnuclear power."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "construction",
+                "Description": "Figure 4.24 presents the projected construction of new electricity generation capacity in MW by type over the \nperiod 2020 - 2036 for the BASE-R scenario and the two GHG target reduction scenarios, with Figure 4.25 \n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "objective",
+                "Object": "\n",
+                "Description": "While the objective of this scenario is \nto examine how an earlier move to the NDC GHG limitation affects system outcomes, it is important to \nhighlight that while having a new 300 MW SMR by 2022 is not feasible, both scenarios clearly indicate that \nintroduction of new nuclear generation together with some demand-side management activities represents the \nleast-cost solution to reduce GHG emissions \nTable 4.35 summarizes the total of new electricity power generation capacity installed over the planning \nhorizon for both GHG reduction scenarios and compares them to the BASE-R scenario."
+            },
+            {
+                "Relation": "instal",
+                "Subject": "Table",
+                "Object": "capacities",
+                "Description": "Table 4.36 below presents projected installed electricity generation capacities by plant or plant type for each of \nthe GHG reduction scenarios, as well as the BASE-R scenario."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "levels",
+                "Description": "Figure 4.26 shows the aggregate projected generation levels by plant type over the planning horizon, which for \nthe most part mirrors the installed capacity trends above, with the notable exception of gas-fired plants which \nshow a marked difference by scenario."
+            },
+            {
+                "Relation": "yield",
+                "Subject": "replacement",
+                "Object": "savings",
+                "Description": "Table 4.37 summarizes the comparative fuel cost savings in each of the GHG scenarios as compared to BASE\u0002R. While the replacement of thermal generation by nuclear and renewables does yield significant savings in \nimported fuel, it is useful to note how these figures compare to the increased investment costs."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Table",
+                "Object": "lumpsum",
+                "Description": "Table 4.38 below presents the lumpsum (undiscounted) investment costs for additional generation capacity by \nplant type over the planning horizon, while Table 4.39 summarizes the differences in investment levels required, \nfor each of the GHG reduction scenarios, as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "differences",
+                "Description": "Table 4.38 below presents the lumpsum (undiscounted) investment costs for additional generation capacity by \nplant type over the planning horizon, while Table 4.39 summarizes the differences in investment levels required, \nfor each of the GHG reduction scenarios, as compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "require",
+                "Subject": "increases",
+                "Object": "investment",
+                "Description": "In the Cumulative GHG 127 \nMt scenario, power sector investment increases by more than $3.472 billion, while achieving the 2036 GHG \ntarget by 2030 requires a further investment of $1.657 billion in comparison with NDC target scenario."
+            },
+            {
+                "Relation": "have",
+                "Subject": "technologies",
+                "Object": "costs",
+                "Description": "As will be detailed further below this \narises mostly due to fuel costs savings, for although the new higher efficiency technologies which are forced in \nimplementation may have higher investment costs, their reduced use of fuel leads to this overall total system \ncost reduction."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "reduction",
+                "Object": "changes",
+                "Description": "As illustrated in Figure 4.26 below, this reduction in TPES reflects key changes in the composition of energy\nsupply as compared to the BASE-R scenario, in particular through a significant reduction of natural gas use - \ncumulatively at 248.9 PJ for a 17.1% reduction, equivalent to 7,136.6 billion m3 - and of oil products, equal to \n66.2 PJ for a 27.7% reduction over the planning horizon."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "carrier",
+                "Object": "gas",
+                "Description": "Figure 4.27 below shows that while the main energy carrier used remains natural gas, followed by electricity \nand oil products, most energy savings come from reduced consumption of natural gas, cumulatively amounting \nto around 240 PJ, around 79% of total savings, and from reduced consumption of oil products equal to 66 PJ,\naround 22% of savings."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "differences",
+                "Description": "Figure 4.29 below illustrates that while there are no differences between 25% reduced FEC and BASE-R \nscenarios in terms of the total new power plant capacities by type needed to cover electricity demand, there is \na slight variation in the implementation schedule depending on the required consumption levels in each time \nperiod."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Scenario",
+                "Object": "levels",
+                "Description": "25% reduced FEC Scenario: Construction of New Power Plants (by type), MW \nFigure 4.30 shows the aggregate projected generation levels by plant type over the planning horizon, which are \nalmost the same in the 25% reduced FEC scenario compared to the BASE-R scenario, with an overall difference \nof less than 2.8% over the entire period to 2036."
+            },
+            {
+                "Relation": "summarize",
+                "Subject": "Table",
+                "Object": "savings",
+                "Description": "Table 4.45 summarizes the comparative total natural gas cost savings as a result of its reduced use in all sectors \nas compared to the BASE-R scenario."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "differences",
+                "Description": "While as noted above there are no differences in the total amount of new generation capacity added to the \nsystem in this scenario as compared to the BASE-R scenario, there is a very slight increase in total lumpsum \ninvestments in new generations due to the shifts in timing of the costs realized, as shown in Table 4.46."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "Industry",
+                "Object": "%",
+                "Description": "Industry and Agriculture together contribute just 1 % to total GHG emissions reductions, while \nthe Power sector slightly increases its GHG emissions - by 3% of the total - as a result of increases in \nelectricity production from gas-fired power plants that are be required to cover the requirements of new \ndemand side devices."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "sector",
+                "Object": "emissions",
+                "Description": "Industry and Agriculture together contribute just 1 % to total GHG emissions reductions, while \nthe Power sector slightly increases its GHG emissions - by 3% of the total - as a result of increases in \nelectricity production from gas-fired power plants that are be required to cover the requirements of new \ndemand side devices."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "model",
+                "Object": "platform",
+                "Description": "As noted earlier, the TIMES-Armenia model provides a platform for \nintegrated energy system modelling that is designed to guide policy \nformulation over a wide range of energy, economic and environmental \nplanning and policy issues, and thereby help to establish investment \npriorities within a comprehensive framework."
+            },
+            {
+                "Relation": "include",
+                "Subject": "framework",
+                "Object": "tools",
+                "Description": "Besides the strengths of the core modelling features of TIMES, the \nframework includes powerful model management tools to facilitate the \neffective use to inform decisionmakers."
+            },
+            {
+                "Relation": "highlight",
+                "Subject": "sections",
+                "Object": "some",
+                "Description": "The following sections highlight some of the key insights for energy sector policy development in Armenia over \nthe period to 2036 that can be gleaned from the detailed scenario analyses presented above."
+            },
+            {
+                "Relation": "underscore",
+                "Subject": "fact",
+                "Object": "importance",
+                "Description": "The fact that the full amount of \nsolar and wind capacity is \nselected by the model as part of \nthe least cost solution for new \ngeneration under all scenarios \nunderscores the importance to \nArmenia of ensuring a policy and \ninstitutional environment that \nsupports full realization of new \nVRES generation to the \nmaximum extent practicable, \nnot only to ensure the lowest \ncost generation but also to \nminimize reliance on other \nimported energy sources and to \nstrengthen Armenia\u2019s energy \nsecurity and competitiveness."
+            },
+            {
+                "Relation": "expect",
+                "Subject": "rates",
+                "Object": "impacts",
+                "Description": "While these higher (lower) growth rates have expected \nimpacts in regard to increasing (decreasing) total system \ncosts, TPES, FEC and electricity generation, it is especially \ninteresting to note that the higher GDP growth rate also \nreduces the share of total system cost in GDP, owing to \nthe fact that it is accompanied by significant lowering of the \nenergy intensity of a unit of GDP, e.g., by 16% as measured \nby TPES."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "case",
+                "Object": "FEC",
+                "Description": "In fact, the high-growth case of BASE-R projects \nan even lower level of TPES per unit of GDP than the \nscenario which explicitly pursues reduced FEC through \nexpanded energy efficiency (7.0 MJ/$ as compared to 7.5 \nMJ/$)."
+            },
+            {
+                "Relation": "mirror",
+                "Subject": "growth",
+                "Object": "impacts",
+                "Description": "Conversely, the \nlower growth has mirroring adverse impacts on increasing \ntotal system costs as a share of GDP and increasing the \nenergy intensity per unit of GDP."
+            },
+            {
+                "Relation": "lie",
+                "Subject": "effect",
+                "Object": "utilization",
+                "Description": "The only effect of higher (lower) \nincome growth lies in the increased (decreased) \nutilization of existing installed capacity of both \nVRES and gas-fired thermal power plants, with \na concomitant increase (decrease) in \nexpenditures on natural gas fuel."
+            },
+            {
+                "Relation": "lie",
+                "Subject": "effect",
+                "Object": "utilization",
+                "Description": "The only effect of higher (lower) \nincome growth lies in the increased (decreased) \nutilization of existing installed capacity of both \nVRES and gas-fired thermal power plants, with \na concomitant increase (decrease) in \nexpenditures on natural gas fuel."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "scenarios",
+                "Object": "choice",
+                "Description": "Whether considering total system cost or investment costs required for new generation, the scenarios for life \nextension of the ANPP represent a least-cost policy choice for continuing to maintain nuclear capacity in \nArmenia\u2019 energy mix."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "prices",
+                "Object": "trend",
+                "Description": "In the case when gas prices follow the EU trend, \nreplacement of renewables by natural gas results in total additional TPES of \naround 32 PJ, which is distributed between an increase of 56 PJ (roughly 1.6 \nbillion m3) of natural gas and a reduction of renewables use by 22 PJ over the \nplanning period."
+            },
+            {
+                "Relation": "examine",
+                "Subject": "we",
+                "Object": "scenarios",
+                "Description": "To explore these opportunities, we examined the following \nscenarios: \n\u2022 Increase in the penetration level for the use of electricity in residential heating to 25% in 2027 and to 50% \nby 2036; \n\u2022"
+            },
+            {
+                "Relation": "learn",
+                "Subject": "Lessons",
+                "Object": "Report",
+                "Description": "Lessons Learned Report 1 \n\u201cArmenia \u2013 Improving Energy Efficiency of Municipal Heating and Hot Water Supply\u201d."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "data",
+                "Object": "position",
+                "Description": "The base year data indicates \nthe leading position of households, which accounted for 37% of total FEC, with Transport second at almost \n30%."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Agriculture",
+                "Object": "share",
+                "Description": "In the base year, Services and Industry accounted for 15.6% and 15.3% of FEC, respectively, while \nAgriculture had the smallest share in the total Armenian FEC at 2%."
+            },
+            {
+                "Relation": "show",
+                "Subject": "A.1.1",
+                "Object": "FEC",
+                "Description": "Figure A.1.1 shows FEC by sector and types of \nfuel in 2016."
+            },
+            {
+                "Relation": "consume",
+                "Subject": "sector",
+                "Object": "ktoe",
+                "Description": "The Residential sector consumed 784.7 ktoe in 2016, making up to 37% of Armenian total FEC."
+            },
+            {
+                "Relation": "be",
+                "Subject": "gas",
+                "Object": "carriers",
+                "Description": "Because natural gas and electricity were the main energy carriers used by households, their monthly \nconsumption has been analyzed further in order to allocate the total amount of natural gas demand between \nheat, hot water, and cooking and for electricity demand between heat, hot water, cooking, air conditioning, and \nappliances."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "differences",
+                "Object": "demands",
+                "Description": "It was assumed that gas demand for hot water preparation and cooking remain unchanged \nthroughout the year, while differences between winter and summer consumption patterns are reflected heating \ndemands."
+            },
+            {
+                "Relation": "keep",
+                "Subject": "demands",
+                "Object": "constant",
+                "Description": "The remaining demands - for \nhot water, cooking and appliances - are also kept constant throughout the year."
+            },
+            {
+                "Relation": "consume",
+                "Subject": "sector",
+                "Object": "ktoe",
+                "Description": "In the base year, the Service sector consumed 326.9 ktoe, a 15.6% share in total FEC of Armenia."
+            },
+            {
+                "Relation": "show",
+                "Subject": "A.1.3",
+                "Object": "structure",
+                "Description": "Figure A.1.3 shows the structure of Service sector base year \nconsumption.\n"
+            },
+            {
+                "Relation": "split",
+                "Subject": "model",
+                "Object": "sector",
+                "Description": "The TIMES-Armenia model splits the Industrial sector into the sub-sectors listed in the table below."
+            },
+            {
+                "Relation": "show",
+                "Subject": "A.1.4",
+                "Object": "consumption",
+                "Description": "Figure A.1.4 shows the base \nyear consumption by fuel types and by each sub-sector of industry."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "chart",
+                "Object": "positions",
+                "Description": "The chart illustrates the leading positions of \nmining and quarrying, also food, beverages and tobacco sub-sectors in industry consumption, representing 27% \nand 26.9% respectively, whereas wood and wood products, also textiles and leather were recorded as smallest \nindustrial consumption types of fuel, representing 0.3% and 0.4% respectively."
+            },
+            {
+                "Relation": "hold",
+                "Subject": "\n",
+                "Object": "dominance",
+                "Description": "As shown in the chart, natural \ngas and electricity hold the dominance in industry consumption, representing correspondingly 49.4% and 43.8% \nof the total consumption of the sector and 7.5% and 6.7% of Armenian total final energy consumption, whereas \nwhite spirit & SBP and liquefied petroleum gases came out to be the least consumed type of energy, \nrepresenting 0.3% and 0.4% respectively."
+            },
+            {
+                "Relation": "show",
+                "Subject": "A.1.5",
+                "Object": "consumption",
+                "Description": "Figure A.1.5 shows the base year consumption of transportation sub\u0002sectors by fuel types."
+            },
+            {
+                "Relation": "have",
+                "Subject": "sector",
+                "Object": "share",
+                "Description": "The Agriculture sector has a small share in total FEC, with the use of energy in 2016 of 42.7 ktoe, \nrepresenting 2% of Armenian total FEC."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "electricity",
+                "Description": "This includes electricity, diesel and kerosene."
+            },
+            {
+                "Relation": "compose",
+                "Subject": "products",
+                "Object": "share",
+                "Description": "Oil products composed \nthe largest share in agriculture energy consumption, at 32.8 ktoe or 76.8%, consisting of gas/diesel oil, excluding \nbio (25.2 ktoe) and other kerosene (7.6 ktoe)."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "A.1.6",
+                "Object": "consumption",
+                "Description": "Figure A.1.6 describes the sectoral consumption by fuel types."
+            },
+            {
+                "Relation": "show",
+                "Subject": "analysis",
+                "Object": "that",
+                "Description": "Further analysis of sectoral energy consumption shows that: \n"
+            },
+            {
+                "Relation": "describe",
+                "Subject": "Appendix",
+                "Object": "options",
+                "Description": "This Appendix describes the power plant options available in the TIMES-Armenia model."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "Costs",
+                "Object": "options",
+                "Description": "The Projected Costs of Generating Electricity 2015 report identifies two gas-fired generation options: combined\u0002cycle gas turbines (CCGTs) and open-cycle gas turbines (OCGTs)."
+            },
+            {
+                "Relation": "be",
+                "Subject": "which",
+                "Object": "reactor",
+                "Description": "Given the \nrelatively near-term need of Armenia, focus is made on most advanced and mature technology currently\navailable, which is advanced light water reactor (ALWR)."
+            },
+            {
+                "Relation": "be",
+                "Subject": "ALWRs",
+                "Object": "water",
+                "Description": "ALWRs can either be pressurized water (PWR) or \nboiling water (BWR)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Costs",
+                "Object": "information",
+                "Description": "The Projected Costs of Generating Electricity 2015 provides detailed information for 11 nuclear power plants, of \nwhich 9 are in OECD member countries and the remaining two are in China."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "reactor",
+                "Description": "This includes a generic light \nwater reactor (LWR), ten advanced light water reactors and generic generation III reactors."
+            },
+            {
+                "Relation": "list",
+                "Subject": "TABLE",
+                "Object": "plants",
+                "Description": "TABLE lists the nuclear plants in Projected Costs of Generating Electricity 2015."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "we",
+                "Object": "versions",
+                "Description": "Based on this we suggest two \nversions of ALWR, one based on average characteristics of ALWR globally and the second based solely on \nHungary data."
+            },
+            {
+                "Relation": "include",
+                "Subject": "technologies",
+                "Object": "reactors",
+                "Description": "\nEmerging nuclear technologies in the 2015-2030 timeframe include small modular reactors (SMRs), essentially \nbased on the same technology as today\u2019s generation III reactors (namely light water reactors)."
+            },
+            {
+                "Relation": "suffer",
+                "Subject": "SMRs",
+                "Object": "disadvantage",
+                "Description": "Based on Current Status, Technical Feasibility and Economics of Small Nuclear Reactors (NEA 2011), because of \neconomies of scale, SMRs will suffer a significant economic disadvantage compared to large reactors in terms of \ntheir overnight costs per unit of installed capacity."
+            },
+            {
+                "Relation": "employ",
+                "Subject": "studies",
+                "Object": "function",
+                "Description": "Several \nstudies have employed the following scaling function to illustrate the effect of changing from a plant unit size P0\nto a plant of similar design with capacity P1: \nCost(P1)"
+            },
+            {
+                "Relation": "assume",
+                "Subject": "we",
+                "Object": "factor",
+                "Description": "For this study we have assumed the scaling factor of 0.6 for overnight and O&M costs."
+            },
+            {
+                "Relation": "show",
+                "Subject": "TABLE",
+                "Object": "suggestions",
+                "Description": "TABLE and TABLE A.2.4 \nshow alternative suggestions for nuclear plants."
+            },
+            {
+                "Relation": "compensate",
+                "Subject": "economies",
+                "Object": "economies",
+                "Description": "However, economies of volume could compensate economies of scale if a sufficiently large number of identical \nSMR designs are built and replicated in factory assembly workshops."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "costs",
+                "Object": "financing",
+                "Description": "Lower overall investment costs and \nshorter construction times for SMRs could also facilitate the financing of such reactors compared to large \nnuclear plants at lower costs of capital)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Prototypes",
+                "Object": "reactors",
+                "Description": "Prototypes of generation IV reactors, that could include very-high-temperature reactors (VHTR) for electricity \nand process heat applications, and liquid metal-cooled reactors such as sodium-cooled fast reactors (SFR) and \nlead-cooled fast reactors (LFR), were not considered."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "IV",
+                "Object": "benefits",
+                "Description": "However, generation IV also provide additional benefits in terms of fuel utilization and waste management \n"
+            },
+            {
+                "Relation": "represent",
+                "Subject": "this",
+                "Object": "advantage",
+                "Description": "(especially for fast neutron reactors) or in terms of high thermal efficiency (>40%), and potential for high \ntemperature process heat application for HTRs and this could represent an economic advantage over \nalternative technologies."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "we",
+                "Object": "technologies",
+                "Description": "In addition we \nconsider solar thermal technologies, which are able to produce significant amounts of power (installation sizes \ntend to range from the tens to hundreds of megawatts) and can be used with thermal storage solutions such as \nmolten salts to extend their electric power production into peak evening hours."
+            },
+            {
+                "Relation": "use",
+                "Subject": "plants",
+                "Object": "materials",
+                "Description": "Conversely, solar thermal \npower plants use more materials, in particular steel, than other types of solar power, and so are relatively \nmore capital-intensive and will often also have higher operation and maintenance (O&M) costs."
+            },
+            {
+                "Relation": "select",
+                "Subject": "we",
+                "Object": "options",
+                "Description": "For Armenia, \nwe have selected two options from the US, one with 6-hour storage, which reaches annual Capacity Factor \n(CF) ="
+            },
+            {
+                "Relation": "include",
+                "Subject": "plants",
+                "Object": "hydro",
+                "Description": "Other power plants include hydro, geothermal and onshore wind plants."
+            },
+            {
+                "Relation": "absorb",
+                "Subject": "technologies",
+                "Object": "energy",
+                "Description": "Energy storage technologies absorb energy and store it for a period of time before releasing it to supply energy \nor power services."
+            },
+            {
+                "Relation": "bridge",
+                "Subject": "technologies",
+                "Object": "gaps",
+                "Description": "Through this process, storage technologies can bridge temporal and geographical gaps \nbetween energy supply and demand."
+            },
+            {
+                "Relation": "include",
+                "Subject": "technologies",
+                "Object": "storage",
+                "Description": "Emerging electricity storage technologies include \ncompressed air energy storage (CAES), adiabatic CAES, a range of batteries, flywheels and hydrogen storage."
+            },
+            {
+                "Relation": "show",
+                "Subject": "costs",
+                "Object": "reductions",
+                "Description": "In addition, costs for large-scale \nbatteries have shown impressive reductions, thanks in part to ambitious electric vehicle deployment programs \nand greater demand for frequency regulation."
+            },
+            {
+                "Relation": "show",
+                "Subject": "cost",
+                "Object": "decline",
+                "Description": "The cost of a lithium-ion battery for grid-scale storage has shown \nthe largest decline, falling by more than three-quarters between 2008 and 2013."
+            },
+            {
+                "Relation": "dictate",
+                "Subject": "Lack",
+                "Object": "necessity",
+                "Description": "Lack of fossil fuel in Armenia dictates the necessity to utilize domestic energy sources (hydro, wind, solar, etc.)"
+            },
+            {
+                "Relation": "have",
+                "Subject": "companies",
+                "Object": "licenses",
+                "Description": "With respect to small hydro resources, according to PSRC data, in addition to existing 186 small hydro power \nplants (SHPPs) with total installed capacity 336.4 MW, 31 companies have licenses for construction of 56.88 \nMW SHPPs."
+            },
+            {
+                "Relation": "play",
+                "Subject": "Construction",
+                "Object": "role",
+                "Description": "Construction of the Lori-Berd HPP (with around 60MW of installed capacity and 200 million kWh of annual \nenergy production) on the Dzoraget river plays important role for the Armenian hydro energy sector \ndevelopment."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "Fichtner",
+                "Object": "study",
+                "Description": "In the years 2003-2004 Fichtner prepared a feasibility study for the above-mentioned station."
+            },
+            {
+                "Relation": "update",
+                "Subject": "Fichtner",
+                "Object": "calculations",
+                "Description": "In \nFebruary 2007, Fichtner updated the price calculations for the project."
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "GoA",
+                "Object": "Decision",
+                "Description": ";\nOn August 10, 2017, the GoA adopted Protocol Decision N 973-"
+            },
+            {
+                "Relation": "invest",
+                "Subject": "Robbins",
+                "Object": "capital",
+                "Description": "According to the MOU, Robbins would invest charter capital for Debed Hydro LLC by providing a \nTunnel Boring Machine for boring the water pipe with 22 km length foreseen by Shnokh HPP construction \nprogram, training local Armenian specialists in use of the boring machine, and provide technical support during \nduration of the boring works."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Armenia",
+                "Object": "potential",
+                "Description": "Armenia has a significant solar energy potential."
+            },
+            {
+                "Relation": "sign",
+                "Subject": "Ministry",
+                "Object": "plant",
+                "Description": "On July 18, 2018 the Ministry of Energy Infrastructures and Natural Resources signed a Government Assistance \nAgreement \u201cOn Design, Funding, Construction, Ownership, Possession and Exploitation of Masrik-1 PV power \nplant in Mets Masrik community of Gegharkunik Region of Armenia\u201d."
+            },
+            {
+                "Relation": "start",
+                "Subject": "company",
+                "Object": "implementation",
+                "Description": "In \nDecember 2017, the company started implementation of the wind potential assessment."
+            },
+            {
+                "Relation": "organize",
+                "Subject": "Fund",
+                "Object": "study",
+                "Description": "The Renewable Resources and Energy Efficiency Fund of Armenia, with the assistance of a WB and GEF grant \nhas organized a study on \u201cAssessment of Bioethanol Production, Potential Utilization and Perspectives in \nArmenia\u201d in which the project of bioethanol production potential is prepared for investors."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "we",
+                "Object": "period",
+                "Description": "If we are considering only \neconomy recovery period (2010-2017) then GDP growth is amounted to 4.0%."
+            },
+            {
+                "Relation": "be",
+                "Subject": "option",
+                "Object": "forecast",
+                "Description": "Anyway, another option could be the WB forecast due to low average GDP growth \n(3.6%) for the period 2013-2017."
+            },
+            {
+                "Relation": "choose",
+                "Subject": "TIMES",
+                "Object": "continuation",
+                "Description": "No swap \u2013 forced (if TIMES will choose continuation of agreement) \n"
+            },
+            {
+                "Relation": "take",
+                "Subject": "exchange",
+                "Object": "place",
+                "Description": "Currently no electricity exchange takes place between Armenia and South, other than to cover \nthe swap."
+            }
+        ]
+    }
+}
