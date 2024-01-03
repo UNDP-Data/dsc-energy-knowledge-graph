@@ -1,0 +1,113 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "MKD",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW",
+                "category": "Organization"
+            },
+            {
+                "entity": "GWh %",
+                "category": "Organization"
+            },
+            {
+                "entity": "Other Industrial Transport Other Buildings",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "PV",
+                "category": "Organization"
+            },
+            {
+                "entity": "NPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Abu Dhabi",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSD",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSD Energy Balances",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN COMTRADE",
+                "category": "Organization"
+            },
+            {
+                "entity": "EDGAR",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank Global Solar Atlas",
+                "category": "Organization"
+            },
+            {
+                "entity": "HS",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "flow",
+                "Subject": "Public",
+                "Object": "capacity",
+                "Description": "7.a.1 Public flows to renewables\n7.3.1 Energy intensity\n3.4\n2.9\n3.0\n3.1\n3.2\n3.3\n3.4\n3.5\n3.6\n3.7\n3.8\n2014 2015 2016 2017 2018 2019\nMJ/USD GDP 2017 PPP\n7.b.1 Per capita renewable capacity\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n2014 2015 2016 2017 2018 2019 2020\n"
+            },
+            {
+                "Relation": "avoid",
+                "Subject": "RE",
+                "Object": "CO2",
+                "Description": "Mt CO2 Emissions\nEmitted CO2 RE Avoided CO2\n+11%\n638 637\n0.0\n 100\n 200\n 300\n 400\n 500\n 600\n 700\n 800\n2015 2016 2017 2018 2019 2020\ntCO2 /GWh\n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "proportion",
+                "Description": "The bar chart shows the proportion of a country's land \narea in each of these classes and the global distribution of land area \nacross the classes (for comparison)."
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "distribution",
+                "Description": "The bar chart \nshows the distribution of the country's land area in each of these classes \ncompared to the global distribution of wind resources."
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "include",
+                "Subject": "trade",
+                "Object": "commodities",
+                "Description": "Energy trade includes all \ncommodities in Chapter 27 of the Harmonised System (HS)."
+            }
+        ]
+    }
+}
