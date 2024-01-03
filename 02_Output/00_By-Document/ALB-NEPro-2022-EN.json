@@ -1,0 +1,103 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "ALB",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW",
+                "category": "Organization"
+            },
+            {
+                "entity": "Albania First Solar PV Auction",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "PV",
+                "category": "Organization"
+            },
+            {
+                "entity": "NPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Abu Dhabi",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "IEA",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSD",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSD Energy Balances",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN COMTRADE",
+                "category": "Organization"
+            },
+            {
+                "entity": "EDGAR",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank Global Solar Atlas",
+                "category": "Organization"
+            },
+            {
+                "entity": "HS",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "avoid",
+                "Subject": "RE",
+                "Object": "CO2",
+                "Description": "Mt CO2 Emissions\nEmitted CO2 RE Avoided CO2\n+11%\n0.0\n 100\n 200\n 300\n 400\n 500\n 600\n2015 2016 2017 2018 2019 2020\ntCO2 /GWh"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "proportion",
+                "Description": "The bar chart shows the proportion of a country's land \narea in each of these classes and the global distribution of land area \nacross the classes (for comparison)."
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "distribution",
+                "Description": "The bar chart \nshows the distribution of the country's land area in each of these classes \ncompared to the global distribution of wind resources."
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "include",
+                "Subject": "trade",
+                "Object": "commodities",
+                "Description": "Energy trade includes all \ncommodities in Chapter 27 of the Harmonised System (HS)."
+            }
+        ]
+    }
+}

@@ -1,0 +1,675 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "UN Country",
+                "category": "Organization"
+            },
+            {
+                "entity": "HDI",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sustainable Development Goals",
+                "category": "Organization"
+            },
+            {
+                "entity": "PRODESI",
+                "category": "Organization"
+            },
+            {
+                "entity": "the International Monetary Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "El Ni\u00f1o",
+                "category": "Organization"
+            },
+            {
+                "entity": "Gender",
+                "category": "Organization"
+            },
+            {
+                "entity": "The National Development Plan",
+                "category": "Organization"
+            },
+            {
+                "entity": "NDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "plan18",
+                "category": "Organization"
+            },
+            {
+                "entity": "IFI",
+                "category": "Organization"
+            },
+            {
+                "entity": "ODA",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "INE",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Global Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Economic and Social Council",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Social Action",
+                "category": "Organization"
+            },
+            {
+                "entity": "MASFAMU",
+                "category": "Organization"
+            },
+            {
+                "entity": "Operationalizing General Assembly",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Development Assistance Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDAF",
+                "category": "Organization"
+            },
+            {
+                "entity": "African Union Agenda 2063",
+                "category": "Organization"
+            },
+            {
+                "entity": "South-South",
+                "category": "Location"
+            },
+            {
+                "entity": "the World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Economy and Planning",
+                "category": "Organization"
+            },
+            {
+                "entity": "MEP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "MINFIN",
+                "category": "Organization"
+            },
+            {
+                "entity": "African Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Labour Organization (ILO",
+                "category": "Organization"
+            },
+            {
+                "entity": "HHD",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Health,",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "United States Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Joint United Nations Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNAIDS",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNFPA",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Health Organization (WHO",
+                "category": "Organization"
+            },
+            {
+                "entity": "GEF",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Environment",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Agriculture and Forests",
+                "category": "Organization"
+            },
+            {
+                "entity": "MINAGRIF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Fisheries",
+                "category": "Organization"
+            },
+            {
+                "entity": "MINPESMAR",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Energy and Waters",
+                "category": "Organization"
+            },
+            {
+                "entity": "MINEA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Civil Protection Commission",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Territorial Administration",
+                "category": "Organization"
+            },
+            {
+                "entity": "the European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "Green Climate Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "MAT",
+                "category": "Organization"
+            },
+            {
+                "entity": "Parliament",
+                "category": "Organization"
+            },
+            {
+                "entity": "Cabo Verde",
+                "category": "Organization"
+            },
+            {
+                "entity": "General Inspection Services",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Provedor de Justi\u00e7a",
+                "category": "Organization"
+            },
+            {
+                "entity": "NHRI",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "DCP",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "usher",
+                "Subject": "elections",
+                "Object": "era",
+                "Description": "The 2017 general elections ushered in a new era in Angola, with a change of President after 38 \nyears."
+            },
+            {
+                "Relation": "take",
+                "Subject": "Advances",
+                "Object": "place",
+                "Description": "Advances in democracy and rights are taking place in a context of tight fiscal space and \ndeceleration of economic growth,\nas result of the sharp decrease in oil prices and its related tax \nrevenues."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "Angola",
+                "Object": "index",
+                "Description": "The 2018 Multiple Overlapping \nDeprivation Analysis (MODA) on multidimensional child poverty in Angola concluded that \n77.4 per cent of children under 18 are poor.6 The Gini coefficient was 0.43 in 2008.Due to higher \nlife expectancy, Angola improved its human development index (HDI) to medium human \ndevelopment status, ranking 147 out of 189 countries in 2017, with an HDI of 0.581.8 The tight \nfiscal space underscoresthe importance of increased private investments that support achievement\nof the Sustainable Development Goals."
+            },
+            {
+                "Relation": "rank",
+                "Subject": "Ease",
+                "Object": "Angola",
+                "Description": "The 2019 World Bank Ease of Doing Business Report ranks Angola \n173 out of 190 countries."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "country",
+                "Object": "Programme",
+                "Description": "The country is currently implementing the Programme to Support \n"
+            },
+            {
+                "Relation": "face",
+                "Subject": "ages",
+                "Object": "rates",
+                "Description": "Young people \nages 15 to 24 face higher unemployment rates, at 52.4 per cent."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Angola",
+                "Object": "tuberculosis",
+                "Description": "Angola presents high maternal, child and youth mortality rates, and a high incidence of malaria, \ntuberculosis and other communicable and non-communicable diseases."
+            },
+            {
+                "Relation": "include",
+                "Subject": "determinants",
+                "Object": "knowledge",
+                "Description": "Social determinants of health in Angola include the limited knowledge of \nprevention methods and access to prevention commodities, high cost of treatment and related \nservices, poor housing and sanitation, and gender inequalities."
+            },
+            {
+                "Relation": "affect",
+                "Subject": "change",
+                "Object": "Angola",
+                "Description": "Climate change has severely affected Angola."
+            },
+            {
+                "Relation": "cause",
+                "Subject": "drought",
+                "Object": "million",
+                "Description": "In 2012-2016, El Ni\u00f1o-induced drought in the\nsouthern provinces caused $750 million in damages and losses, with 1.2 million people affected, \nmostly women and children."
+            },
+            {
+                "Relation": "affect",
+                "Subject": "people",
+                "Object": "women",
+                "Description": "In 2012-2016, El Ni\u00f1o-induced drought in the\nsouthern provinces caused $750 million in damages and losses, with 1.2 million people affected, \nmostly women and children."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Government",
+                "Object": "framework",
+                "Description": "The Government has developed a drought recovery framework for \n2018-2022, including the investment plan to enhance resilience."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Angola",
+                "Object": "areas",
+                "Description": "Angola has large protected areas and is planning its first marine \nprotected area."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "management",
+                "Object": "challenge",
+                "Description": "Solid waste management remains a challenge, with 1.3 million tonnes of \nhousehold waste produced yearly in the capital."
+            },
+            {
+                "Relation": "make",
+                "Subject": "Angola",
+                "Object": "commitment",
+                "Description": "Angola has made a strong commitment through \nits nationally determined contributions to reduce carbon emissions by 35 per cent."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "Government",
+                "Object": "investment",
+                "Description": "Although the Government promotes private investment in renewables, and there is \ngrowing private interest, the insufficient legal and regulatory environment, low cost of \nconventional energy, and limited access to foreign currency remain barriers."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "rights",
+                "Object": "challenge",
+                "Description": "Gender and women\u2019s rights and participation remain a challenge because of patriarchal \ncustoms and practices."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "Women",
+                "Object": "cent",
+                "Description": "Women represent 35.5 per cent of senior government positions.17 Gender \nbarriers remain inherent in the HIV context, such as unequal age of consent to marry and gaps in \nsexual and reproductive health rights."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Plan",
+                "Object": "pillars",
+                "Description": "The National Development Plan (NDP), 2018-2022, has six pillars: (a) human development \nand wellbeing; (b) inclusive, diversified and sustainable economic development; (c) infrastructure \nfor development; (d) democracy, good governance, state reform and decentralization; \n(e) harmonious development of territory; and (f) stability, territorial integrity and the country\u2019s \nrole in the regional and international contexts."
+            },
+            {
+                "Relation": "undergo",
+                "Subject": "Angola",
+                "Object": "reforms",
+                "Description": "As Angola is undergoing political reforms and addressing major economic challenges, the \nNDP, 2018-2022, puts significant emphasis on maintaining stability and peace."
+            },
+            {
+                "Relation": "undergo",
+                "Subject": "office",
+                "Object": "transformation",
+                "Description": "Over the last three years, the UNDP country office has undergone a major transformation and \nis, at the start of the next country programme, a convener of multiple partners for the Goals and \nAgenda 2030."
+            },
+            {
+                "Relation": "deliver",
+                "Subject": "UNDP",
+                "Object": "advice",
+                "Description": "UNDP delivers quality policy advice and technical support and assists Angola in \nmeeting targets and requirements of complex funding mechanisms, such as the Global \nEnvironment Facility and the Global Fund to Fight AIDS, Tuberculosis and Malaria."
+            },
+            {
+                "Relation": "include",
+                "Subject": "programme",
+                "Object": "solutions",
+                "Description": "The programme includes integrated solutions \nto complex, interconnected development challenges."
+            },
+            {
+                "Relation": "define",
+                "Subject": "priorities",
+                "Object": "programme",
+                "Description": "Three complementary priorities define the \n2020-2022 programme:\n(a) fostering poverty eradication and inclusive economic growth;\n(b) increasing resilience to shocks and crises and enhancing management of natural \nresources for conservation and economic development; and\n(c) strengthening inclusive democracy, human rights, justice and rule of law."
+            },
+            {
+                "Relation": "support",
+                "Subject": "programme",
+                "Object": "Angola",
+                "Description": "The country \nprogramme will support Angola in effectively managing its development resources and bolstering\nthe voice of those furthest behind and their ability to hold government accountable."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "Within the three \nprogramme components, UNDP will support the Government on the overarching national \nobjective in the NDP, 2018-2022, of maintaining stability and peace."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "programme",
+                "Object": "vehicle",
+                "Description": "Operationalizing General Assembly resolution 72/279 on the repositioning of the United \nNations development system, the country programme represents the UNDP vehicle for delivering\u0002as-one in Angola, guided by its United Nations Development Assistance Framework (UNDAF)."
+            },
+            {
+                "Relation": "support",
+                "Subject": "programme",
+                "Object": "commitments",
+                "Description": "The country programme directly supports the country\u2019s international commitments, including \nAgenda 2030, African Union Agenda 2063, the NDP, 2018-2022 and key national strategies, and \nthe UNDP Strategic Plan, 2018-2021."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Innovation",
+                "Object": "element",
+                "Description": "Innovation will be a core element of the country programme."
+            },
+            {
+                "Relation": "devote",
+                "Subject": "UNDP",
+                "Object": "5",
+                "Description": "UNDP will devote 5 per cent of \nits core budget to delivering innovative solutions to development challenges."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "office",
+                "Object": "lab",
+                "Description": "The UNDP country \noffice is establishing an accelerator lab to create a learning network to test innovative ways of \naddressing development challenges."
+            },
+            {
+                "Relation": "deepen",
+                "Subject": "UNDP",
+                "Object": "engagement",
+                "Description": "UNDP will significantly deepen its engagement to end poverty in Angola and reduce \ninequality through substantive analysis, dialogue and technical advice to develop more effective\nnational policies and programmes."
+            },
+            {
+                "Relation": "be",
+                "Subject": "cooperation",
+                "Object": "vehicles",
+                "Description": "The accelerator lab and South-South and triangular \ncooperation will be vehicles for prototyping new solutions."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "partnership",
+                "Description": "UNDP will strengthen \nits partnership with the Government on analytics of expenditures and loan portfolio, measuring \ntheir impact in achieving the Goals."
+            },
+            {
+                "Relation": "have",
+                "Subject": "assistance",
+                "Object": "elements",
+                "Description": "UNDP assistance will have two main elements."
+            },
+            {
+                "Relation": "continue",
+                "Subject": "UNDP",
+                "Object": "programme",
+                "Description": "UNDP will continue \nits youth internship programme and enhance it with the national volunteer programme."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "UNDP",
+                "Object": "establishment",
+                "Description": "In its integrator role, UNDP will facilitate the establishment of an \nengaged private sector platform through the umbrella of the Angolan Corporate Social \nResponsibility Network and Public-Private Partnership Initiative."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "support",
+                "Description": "UNDP will strengthen its support to national efforts for sustainable solutions in health, in line \nwith the UNDP HIV, health and development strategy, 2016-2022 (HHD)."
+            },
+            {
+                "Relation": "deliver",
+                "Subject": "UNDP",
+                "Object": "packages",
+                "Description": "Building on its Global \nFund principal recipient role, UNDP will deliver packages of HIV prevention services to \nadolescent girls and young women, female sex workers, men having sex with men, and treatment \nservices to people living with HIV, including pregnant women."
+            },
+            {
+                "Relation": "have",
+                "Subject": "men",
+                "Object": "sex",
+                "Description": "Building on its Global \nFund principal recipient role, UNDP will deliver packages of HIV prevention services to \nadolescent girls and young women, female sex workers, men having sex with men, and treatment \nservices to people living with HIV, including pregnant women."
+            },
+            {
+                "Relation": "be",
+                "Subject": "approach",
+                "Object": "empowerment",
+                "Description": "The UNDP core programming \napproach will be the social empowerment of these population groups through capacity \ndevelopment, involvement in service delivery and advocacy for sexual and reproductive health \nand rights."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "ownership",
+                "Description": "To reduce gender, legal and human rights-related barriers to accessing basic social services, \nUNDP will promote national ownership of the 2018 HIV legal environment assessment report \nand the national strategy for key populations, and revision of the 2004 HIV law."
+            },
+            {
+                "Relation": "deliver",
+                "Subject": "UNDP",
+                "Object": "packages",
+                "Description": "UNDP will \ndeliver capacity-building packages for advocacy to CSOs."
+            },
+            {
+                "Relation": "include",
+                "Subject": "partners",
+                "Object": "Institute",
+                "Description": "Key UNDP partners include National \nHIV/AIDS Institute (INLS,)"
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "development",
+                "Description": "Building on the NDP, 2018-2022, commitments and early achievements in non-fossil fuel \noptions, UNDP will support low-carbon development."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "investments",
+                "Object": "support",
+                "Description": "The UNDP de-risking renewable energy \ninvestments (DREI) initiative will provide policy support to boost private investments in \nrenewable energies, including in remote areas."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "investment",
+                "Description": "UNDP is supporting private investment in off-grid \nsolutions, and renewable electricity for public infrastructure, including in the health sector."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "Through policy advice and implementation of GEF projects, UNDP will support the \nGovernment in the conservation of forest and protected areas by rehabilitating infrastructure, \ntraining, equipment, preparation of management plans, surveys of flora and fauna, engagement \nwith communities, combatting illegal wildlife trade, and establishing the first marine protected \nareas."
+            },
+            {
+                "Relation": "scale",
+                "Subject": "UNDP",
+                "Object": "disaster",
+                "Description": "UNDP will scale up gender responsive disaster and climate risk management support, building \non its demonstrated results, adopting an integrated approach to resilience."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "training",
+                "Description": "UNDP will provide training to strengthen capacities to cope with shocks and crises."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "Addressing the country\u2019s solid waste management challenge, UNDP will provide technical \nand financial assistance to promote recycling, through the UNDP country accelerator lab, and \nsupport the elimination of toxic waste."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "entrepreneurship",
+                "Description": "Through integration and synergies within the country \nprogramme areas, UNDP will support entrepreneurship and promote green jobs, including for \nbiodiversity and waste management."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "UNDP",
+                "Object": "access",
+                "Description": "UNDP will facilitate access to international funding, \nincluding through GEF, Green Climate Fund (GCF), and South-South and triangular cooperation."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "UNDP will support efforts to ensure the first-ever elected local governments deliver on \npromises for democratic development and improved local service delivery."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "capacity",
+                "Description": "UNDP will strengthen \nthe capacity of elected local governance institutions and support participation mechanisms, such \nas participatory budgeting and civil society involvement in policy formulation, implementation \nand monitoring."
+            },
+            {
+                "Relation": "include",
+                "Subject": "partners",
+                "Object": "MAT",
+                "Description": "Key partners include MAT, MASFAMU, Parliament, local governments, CSOs \nand bilateral donor partners."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "transparency",
+                "Description": "Through technical support and South-South and triangular cooperation with countries such as \nBrazil and Cabo Verde, UNDP will support transparency and accountability in public \nmanagement to improve services and finance development."
+            },
+            {
+                "Relation": "coordinate",
+                "Subject": "UNDP",
+                "Object": "assistance",
+                "Description": "UNDP will coordinate international \nassistance for the implementation of the national anti-corruption strategy, 2018-2022, launched \nwith UNDP support."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "capacity",
+                "Description": "UNDP will support the capacity of justice and human rights institutions at national and local \nlevels to handle citizens\u2019 grievances and address human rights cases, including economic, social \nand cultural rights."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "function",
+                "Description": "This includes the core ombudsman function of the Provedor de Justi\u00e7a and its\npossible accreditation as the national human rights institution (NHRI)."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "inclusion",
+                "Description": "UNDP will promote the inclusion of women in development and service delivery and their \neffective participation and representation in decision-making processes."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "participation",
+                "Description": "UNDP will support the participation of youth in governance processes by advocating for pro\u0002youth participatory processes and mechanisms."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "\n",
+                "Object": "strategy",
+                "Description": "Together with other United Nations organizations, UNDP \nwill implement the joint programming framework and business operations strategy as part of \ndelivering-as-one."
+            },
+            {
+                "Relation": "review",
+                "Subject": "office",
+                "Object": "capacity",
+                "Description": "The country office will review its capacity to ensure it is positioned for effective programme\nimplementation."
+            },
+            {
+                "Relation": "mitigate",
+                "Subject": "UNDP",
+                "Object": "risks",
+                "Description": "UNDP will mitigate development financing risks by advocating for budget prioritization and \nreinforcement of national capacities in result-based budgeting."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "office",
+                "Object": "plan",
+                "Description": "The country office is developing a country programme action plan (CPAP), which \nincludes a partnerships strategy and action plan for resource mobilization, with Bureau of External \nRelations and Advocacy (BERA) support, and a communication strategy."
+            },
+            {
+                "Relation": "undergo",
+                "Subject": "projects",
+                "Object": "review",
+                "Description": "All projects will undergo systematic review to ensure environmental and social safeguards, \ncosts and benefits of an intervention are evaluated in accordance with UNDP policies and \nstandards."
+            },
+            {
+                "Relation": "invoke",
+                "Subject": "office",
+                "Object": "plan",
+                "Description": "The country office will invoke the \nbusiness continuity plan in the case of crises affecting its normal operations."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and serves \nas the primary unit of accountability to the Board for results alignment and resources assigned to \nthe programme at country level."
+            },
+            {
+                "Relation": "support",
+                "Subject": "framework",
+                "Object": "monitoring",
+                "Description": "A strong results framework (annex A) supports monitoring and evaluation of the country \nprogramme, aligned with national priorities, the UNDAF, 2020-2022, the UNDP Strategic Plan, \n2018-2021, the Goals and other international and national commitments."
+            },
+            {
+                "Relation": "use",
+                "Subject": "UNDP",
+                "Object": "systems",
+                "Description": "UNDP will use, as far as possible, the national statistical systems and Goals targets to monitor \nits contribution to national results."
+            }
+        ]
+    }
+}
