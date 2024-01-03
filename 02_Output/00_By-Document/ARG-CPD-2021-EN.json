@@ -1,0 +1,405 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "UN Country",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Sustainable Development Cooperation Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Human Development Index",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "Gender",
+                "category": "Organization"
+            },
+            {
+                "entity": "Agenda for Sustainable Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Argentine Ministry",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sustainable Development Goals",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSDCF",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Secretariat of Human Rights of the Nation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "Interior",
+                "category": "Organization"
+            },
+            {
+                "entity": "Labor",
+                "category": "Organization"
+            },
+            {
+                "entity": "Employment and Social Security",
+                "category": "Organization"
+            },
+            {
+                "entity": "Health",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ombudsman's Office",
+                "category": "Organization"
+            },
+            {
+                "entity": "LGBTI+",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Social Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Health",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNFPA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Entity",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Environment and Sustainable Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sendai Framework for",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Environment",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Environment Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "the European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Global Environment Facility",
+                "category": "Organization"
+            },
+            {
+                "entity": "GEF",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Green Climate Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN-Women",
+                "category": "Organization"
+            },
+            {
+                "entity": "PAHO/WHO",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Industrial Development Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "ECLAC",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNEP,",
+                "category": "Organization"
+            },
+            {
+                "entity": "OHCHR",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Executive Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Foreign Coordination and Planning Secretariat",
+                "category": "Organization"
+            },
+            {
+                "entity": "South-South",
+                "category": "Location"
+            },
+            {
+                "entity": "the Global South",
+                "category": "Location"
+            },
+            {
+                "entity": "the UNDP Programme and",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Foreign Coordination and Planning Secretariat",
+                "category": "Organization"
+            },
+            {
+                "entity": "Communications Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "Censuses",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "face",
+                "Subject": "country",
+                "Object": "volatility",
+                "Description": "The country faces high macroeconomic volatility, aggravated by the coronavirus disease \n(COVID-19) pandemic which generated an estimated 19.1 per cent drop in gross domestic \nproduct in the second quarter of 2020, while unemployment escalated by 9.2 percentage \npoints over the same period."
+            },
+            {
+                "Relation": "result",
+                "Subject": "This",
+                "Object": "poverty",
+                "Description": "This resulted in higher rates of poverty (40.9 per cent) and \nextreme poverty (10.5 per cent) during the first half of 2021, within a context of inflation \nrates over and above the regional mean (37.5 per cent in 2016, 47.6 per cent in 2018 and 53.8 \nper cent in 2019)."
+            },
+            {
+                "Relation": "face",
+                "Subject": "women",
+                "Object": "obstacles",
+                "Description": "Within these groups, women face greater obstacles and more inequality than men."
+            },
+            {
+                "Relation": "have",
+                "Subject": "COVID-19",
+                "Object": "impact",
+                "Description": "The COVID-19 pandemic has had an impact on health and the economy, mainly \naffecting employment, income and the living conditions of the most vulnerable social sectors \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "\n",
+                "Object": "increase",
+                "Description": "Data \nfor the second quarter of 2020 show an increase in the Gini index compared to the same \nperiod in 2019, scaling up to 0.451 from 0.447."
+            },
+            {
+                "Relation": "double",
+                "Subject": "Argentina",
+                "Object": "areas",
+                "Description": "Although Argentina has doubled its protected areas in the last few years, it is not exempt \nfrom hazards and pressures brought about by the current development model, resulting in the \ndisturbance, fragmentation and degradation of ecosystems such as desertification, expansion \nof extractive activities, illegal trade of flora and fauna, invasion of alien species, the energy \nmatrix profile, pollution and climate change."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "implementation",
+                "Description": "UNDP supported the implementation of the \nNational Food Security Plan through community organizations."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "UNDP supported government efforts to promote information and communication \ntechnologies for open government initiatives, improving public service transparency and \nefficiency and facilitating citizen participation."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "access",
+                "Description": "UNDP has promoted access to justice, \nimproving the justice system\u2019s coverage and quality, particularly for disadvantaged groups \nincluding victims of gender-based violence."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "UNDP",
+                "Object": "capacities",
+                "Description": "UNDP improved \ninstitutional capacities in environmental governance and management, assisting the Ministry \nof Security in developing a national comprehensive risk management and civil protection \nsystem, and also the Argentine Ministry for the Environment and Sustainable Development \nin generating environmental data using upgraded information technology systems."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "reforms",
+                "Description": "UNDP will support institutional reforms; leverage implementation of the Sustainable \nDevelopment Goals and environmental strategies at the subnational level; explore \nopportunities to strategically expand collaborative partnerships at the provincial level, \nparticularly in the north; continue to make progress in mainstreaming the gender perspective \nand rights-based approach in all sectors; emphasize programme integration, synergies and \nknowledge transfer; and reinforce the use of evaluations to learn from them and make \nevidence-based decisions."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Contributions",
+                "Object": "Office",
+                "Description": "Contributions from civil society included the Ombudsman's Office, unions, non\u0002governmental organizations that work on human rights issues, the private sector through the \nGlobal Compact, and specific population groups such as youth, women, migrants and \nrefugees, the LGBTI+ community and representatives of indigenous peoples."
+            },
+            {
+                "Relation": "foster",
+                "Subject": "initiatives",
+                "Object": "entrepreneurship",
+                "Description": "The theory of change hypothesizes that if \nproductive initiatives at the local and regional levels foster sustainable entrepreneurship and \ninnovation in an inclusive manner, and also consider the impacts on the country\u2019s ecosystem,\nthen the productive matrix will be diversified, promoting labour-market recovery, \ndevelopment of sustainable financing and fostering social inclusion, emphasizing the \neconomic participation and empowerment of women and the integration of vulnerable \npopulations."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "strategies",
+                "Object": "inequalities",
+                "Description": "The theory of change posits that: (a) if \ncommunity organizations have stronger capacities to ensure food security for vulnerable \ngroups and to provide community services such as health care and professional training, \nbased on a gender and diversity approach (applying signature solution 6); and (b) if \ninnovative strategies reduce inequalities in access to health services and address emerging \ndiseases, then hunger and malnutrition will be reduced and access to health for all will be \nguaranteed, with an emphasis on perinatal and maternal health, disabilities, prevention and \ntreatment of chronic diseases, access to sexual and reproductive health care, and prevention \nof unintended adolescent pregnancy."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "creation",
+                "Description": "UNDP will support \nthe creation of a comprehensive care system based on the co-responsibility principle, with \nthe participation of civil society organizations (CSOs), the private sector and families."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "Ministry",
+                "Object": "fulfilment",
+                "Description": "The theory of change supposes that:\n(a) If the Ministry of Environment and Sustainable Development ensures the fulfilment of \nthe climate action agenda (applying signature solution 4), assuming that stakeholders are \nresponsive and provide resources and support, then the country will advance in achieving the \ncommitments of the Paris Agreement on Climate Change, the Sendai Framework for Disaster \nRisk Reduction 2015-2030 and other international commitments, promoting intersectionality\nand mainstreaming gender equality, intergenerational equity and disaster risk management;\n(b) If the rational management of chemical substances, products and waste is improved, \nassuming that proposals and activities are developed and support continues at the national \nand subnational levels, then human health and the environment will be protected;\n(c) If mechanisms are implemented for the protection and sustainable use of biodiversity, \nassuming that the participation of women, local farmers and the indigenous peoples in the \ncountry is assured, then the environment, human health and livelihoods will be protected at \nthe national and subnational levels and between sectors."
+            },
+            {
+                "Relation": "mainstream",
+                "Subject": "UNDP",
+                "Object": "solution",
+                "Description": "UNDP will mainstream the gender equality signature solution in all actions."
+            },
+            {
+                "Relation": "emphasize",
+                "Subject": "Union",
+                "Object": "importance",
+                "Description": "Considering \nchallenges identified in the previous programmatic cycle, UNDP, in partnership with UN\u0002Women, the European Union and CSOs, will emphasize the importance of allocating specific \nresources to promote gender equality and the empowerment of women and LGBTI+ persons\nand actions to eradicate gender-based violence."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "UNDP",
+                "Object": "approaches",
+                "Description": "Through its Sustainable Development Goal Accelerator Lab, UNDP will establish new \napproaches (sense-making, solutions mapping, collective intelligence, designing and testing),\nadjusting to the complexity of the current development challenges and the design of \ninnovative evidence-based instruments."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "strategy",
+                "Description": "UNDP will strengthen its partnership strategy with stakeholders involved in \nmultisectoral approaches."
+            },
+            {
+                "Relation": "allow",
+                "Subject": "This",
+                "Object": "collaboration",
+                "Description": "This will allow collaboration to catalyse efforts and resources."
+            },
+            {
+                "Relation": "be",
+                "Subject": "donors",
+                "Object": "governments",
+                "Description": "The main \ndonors in this programme cycle will be the national and subnational governments and vertical \nfunds such as the Global Environment Facility (GEF) and the Green Climate Fund."
+            },
+            {
+                "Relation": "extend",
+                "Subject": "UNDP",
+                "Object": "role",
+                "Description": "UNDP will extend its integrator role, seeking synergies with other United Nations\nagencies, different government sectors and other stakeholders, to provide comprehensive \nsolutions to complex development issues within the framework of the 2030 Agenda for \nSustainable Development."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "office",
+                "Object": "initiatives",
+                "Description": "The office will implement joint initiatives (Spotlight, Joint SDG \nFund, etc.) and will coordinate actions with United Nations agencies in development projects, \nmainly in:\n(a)"
+            },
+            {
+                "Relation": "eliminate",
+                "Subject": "Fund",
+                "Object": "violence",
+                "Description": "Fund (UNICEF));\n(b) Eliminating violence against women and girls and femicide (UN-Women), ILO, \nUNFPA, UNICEF);\n(c) Mainstreaming human rights, gender equality and diversity approaches (UN-Women, \nUNFPA, UNICEF); \n(d) Preventing discrimination and violence against people with HIV (Joint United \nNations Programme on HIV/AIDS, Pan American Health Organization/World Health \nOrganization (PAHO/WHO), UNICEF); \n(e) Promoting an inclusive green economy through green job creation (ILO, UNEP, \nUnited Nations Industrial Development Organization, United Nations Institute for Training \nand Research); \n(f)"
+            },
+            {
+                "Relation": "change",
+                "Subject": "Climate",
+                "Object": "mitigation",
+                "Description": "Climate change mitigation and adaptation (UNEP, Food and Agriculture \nOrganization of the United Nations), sustainable consumption and production (UNEP), the \nInternational Humanitarian Network) and wetlands regulatory framework (all programmes, \nfunds and agencies of the United Nations system in Argentina); \n(h)"
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Secretariat",
+                "Object": "counterpart",
+                "Description": "The Foreign Coordination and Planning Secretariat will be the national counterpart in \ncharge of coordination, and other national and subnational authorities will be implementing \npartners."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "country",
+                "Description": "UNDP will support the country regarding its positioning in \nmultilateral bodies and forums."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "UNDP",
+                "Object": "28",
+                "Description": "Within the post-pandemic social and economic recovery plan outlined by the United \nNations system, UNDP will follow up on the socioeconomic situation, providing an \nintegrated view to facilitate monitoring of the pandemic\u2019s impact as well as technical inputs \nfor designing and implementing response and recovery measures.\\\n28."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "ministries",
+                "Description": "UNDP will support the ministries of health at national and subnational levels to provide equal \naccess to health and a healthy environment, addressing emerging diseases, with an emphasis \non perinatal and pregnant women\u2019s health, disabilities, prevention and treatment of chronic \nnon-communicable and communicable diseases (including HIV-specific services), access to \nsexual and reproductive health and prevention of unintended adolescent pregnancy."
+            },
+            {
+                "Relation": "update",
+                "Subject": "UNDP",
+                "Object": "database",
+                "Description": "Every year, UNDP will update \nthe database and will prepare a report to be shared with the Government during the annual \nprogramme review."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "evaluations",
+                "Object": "knowledge",
+                "Description": "Programme and project evaluations will be carried out to identify lessons learned and \ngenerate knowledge in support of evidence-based decision-making."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "building",
+                "Description": "UNDP will support \nnational capacity-building to generate information, evaluate policies and contribute to \nexploring innovative approaches for public policy evaluation."
+            },
+            {
+                "Relation": "appraise",
+                "Subject": "Evaluations",
+                "Object": "contribution",
+                "Description": "Evaluations will appraise the UNDP contribution to national outcomes and priorities and\ndetermine achievements."
+            },
+            {
+                "Relation": "consolidate",
+                "Subject": "UNDP",
+                "Object": "planning",
+                "Description": "UNDP will consolidate comprehensive planning, monitoring, and evaluation to reinforce \nknowledge management and accountability, including mechanisms to identify contributions \nand select replicable innovative initiatives."
+            }
+        ]
+    }
+}

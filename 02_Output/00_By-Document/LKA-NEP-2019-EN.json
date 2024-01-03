@@ -1,0 +1,501 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "United Nations Human Development Index",
+                "category": "Organization"
+            },
+            {
+                "entity": "The National Energy Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sustainable Development Goals",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN",
+                "category": "Organization"
+            },
+            {
+                "entity": "South-South",
+                "category": "Location"
+            },
+            {
+                "entity": "the Electricity Industry\u2019",
+                "category": "Organization"
+            },
+            {
+                "entity": "Access to Energy Services",
+                "category": "Organization"
+            },
+            {
+                "entity": "Providing Energy Services",
+                "category": "Organization"
+            },
+            {
+                "entity": "Improving Energy Efficiency and Conservation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Enhancing Self Reliance",
+                "category": "Organization"
+            },
+            {
+                "entity": "LNG",
+                "category": "Organization"
+            },
+            {
+                "entity": "ABC",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Long-Term Generation Expansion Plan",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sri Lanka Sustainable Energy Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "SEA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the SEA Act",
+                "category": "Location"
+            },
+            {
+                "entity": "Sri Lanka Sustainable Energy Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "Safety and Environmental (HSE",
+                "category": "Organization"
+            },
+            {
+                "entity": "IoT",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sri Lanka Energy Balance",
+                "category": "Organization"
+            },
+            {
+                "entity": "GIS",
+                "category": "Organization"
+            },
+            {
+                "entity": "ICT",
+                "category": "Organization"
+            },
+            {
+                "entity": "ESS",
+                "category": "Organization"
+            },
+            {
+                "entity": "ADR",
+                "category": "Organization"
+            },
+            {
+                "entity": "Sapugaskanda",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ceylon Petroleum Corporation",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Petroleum Corporation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Cauvery Basins",
+                "category": "Organization"
+            },
+            {
+                "entity": "PUCSL",
+                "category": "Organization"
+            },
+            {
+                "entity": "CEB",
+                "category": "Organization"
+            },
+            {
+                "entity": "LECO",
+                "category": "Organization"
+            },
+            {
+                "entity": "Smart",
+                "category": "Organization"
+            },
+            {
+                "entity": "MoPE",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Transport and Civil Aviation",
+                "category": "Organization"
+            },
+            {
+                "entity": "UDA",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHG",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW",
+                "category": "Organization"
+            },
+            {
+                "entity": "SEAby",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Energy Sector",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Physical Planning Department",
+                "category": "Organization"
+            },
+            {
+                "entity": "Innovation and Entrepreneurship",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "enter",
+                "Subject": "industry",
+                "Object": "phase",
+                "Description": "Global energy industry has entered a decisive phase of transition, where an increasing number of supply options,\nnewer energy carriers and the growing demand, contribute to increase the complexity of the industry."
+            },
+            {
+                "Relation": "face",
+                "Subject": "Lanka",
+                "Object": "transition",
+                "Description": "Sri Lanka\ntoo, will face this transition during the next few decades, and the energy industry in transition will fuel the\ngrowing economy of the country, opening many frontiers and opportunities."
+            },
+            {
+                "Relation": "spell",
+                "Subject": "policy",
+                "Object": "ways",
+                "Description": "This policy spells out ways and\nmeans of steering the energy sector in transition to power the nation and its social market economy,aiming at\nhigher levels of stability, security, affordability and sustainability with the least environmental burden,and provide\na fertile ground for all public and private enterprises, homes and institutions to flourish in a future, where\nenergy will not be a constraint."
+            },
+            {
+                "Relation": "intensify",
+                "Subject": "drive",
+                "Object": "role",
+                "Description": "The government\u2019s drive to reach the upper middle-income\nlevel within this decade intensifies the role of energy in Sri Lanka\u2019s economy."
+            },
+            {
+                "Relation": "maintain",
+                "Subject": "Lanka",
+                "Object": "intensity",
+                "Description": "Sri Lanka maintains a comparatively lower energy intensity of economy, using 0.47TJ of commercial energy to\nproduce onemillion LKR of GDP2."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "Lanka",
+                "Object": "milestone",
+                "Description": "Sri Lanka has reached the important milestone of 100%\nelectrification, thereby fulfilling the goal of providing modern energy sources to all the citizens."
+            },
+            {
+                "Relation": "serve",
+                "Subject": "resources",
+                "Object": "needs",
+                "Description": "Water resources serve multiple needs, power generation being the third priority\nafter drinking water and agricultural demand, further complicating issues related to projects such as the Mahaweli\nStage II development."
+            },
+            {
+                "Relation": "be",
+                "Subject": "generation",
+                "Object": "priority",
+                "Description": "Water resources serve multiple needs, power generation being the third priority\nafter drinking water and agricultural demand, further complicating issues related to projects such as the Mahaweli\nStage II development."
+            },
+            {
+                "Relation": "weather",
+                "Subject": "Lanka",
+                "Object": "crises",
+                "Description": "Sri Lanka weathered many energy crises over the last few decades due to resilience garnered from many deep\nroots."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "roots",
+                "Object": "rainfall",
+                "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+            },
+            {
+                "Relation": "attract",
+                "Subject": "reliability",
+                "Object": "sector",
+                "Description": "The reliability of energy systems has attracted services sector to the country, leveraging\nmore economic benefits to the country with the least possible input of energy."
+            },
+            {
+                "Relation": "cause",
+                "Subject": "This",
+                "Object": "change",
+                "Description": "This has caused a structural\nchange in the economy towards services, in sharp contrast to other developing economies experiencing steep\ngrowth in the energy intensity of economy."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Reliability",
+                "Object": "ingredient",
+                "Description": "Reliability and affordability of both indigenous and global energy supplies will be the most desirable ingredient\nin this economy in transition."
+            },
+            {
+                "Relation": "play",
+                "Subject": "Biomass",
+                "Object": "role",
+                "Description": "Biomass,\nprobably the most important energy resource, will play an even more valuable role by making a transformation\nto a convenient fuel for household use and a dependable resource for industrial thermal energy supply."
+            },
+            {
+                "Relation": "take",
+                "Subject": "Electricity",
+                "Object": "pride",
+                "Description": "Electricity will take the pride of\nplace in the quest for discovering new energy carriers, drawing resources from increasing amounts of indigenous\nresources, whilst securing supply routes for global resources."
+            },
+            {
+                "Relation": "pave",
+                "Subject": "policy",
+                "Object": "way",
+                "Description": "This policy will pave the way to realise the vision of Sri Lanka in achieving carbon\nneutrality and complete transition of all the energy value chains by 2050."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "policy",
+                "Object": "space",
+                "Description": "The policy provides the necessary\nspace for establishing key manufacturing industries supplying sustainable energy technologies to the local market and forge alliances with other developing countries through South-South cooperation by developing\nknowledge products and sustainable energy technologies in line with Goal 7 of the SDGs."
+            },
+            {
+                "Relation": "have",
+                "Subject": "document",
+                "Object": "sections",
+                "Description": "\n\nThis policy document has three sections:\n"
+            },
+            {
+                "Relation": "elaborate",
+                "Subject": "Framework",
+                "Object": "actions",
+                "Description": "The Results Delivery Framework, elaborating the specific actions, milestones and the institutions responsible\n"
+            },
+            {
+                "Relation": "supersede",
+                "Subject": "policy",
+                "Object": "policies",
+                "Description": "This policy supersedes all previous policies, strategies,plans and guidelines published from time to time."
+            },
+            {
+                "Relation": "be",
+                "Subject": "gas",
+                "Object": "option",
+                "Description": "Considering the recent price profiles, natural gas would be the next fossil fuel option for the country\nto broaden diversity."
+            },
+            {
+                "Relation": "exceed",
+                "Subject": "capacity",
+                "Object": "%",
+                "Description": "3.1.4 Percentage installed power generation capacity from a single imported fuel shall not exceed 50%\nof the total installed firm capacity to safeguard against geopolitical uncertainties and fuel price\nshocks."
+            },
+            {
+                "Relation": "make",
+                "Subject": "Maintenance",
+                "Object": "\n",
+                "Description": "3.1.9 Maintenance of strategic fuelreserves in strategic locations in the country will be made mandatory\nfor all key players in electricity and petroleum industries."
+            },
+            {
+                "Relation": "offer",
+                "Subject": "services",
+                "Object": "to",
+                "Description": "Additionally,\npremium services will be offered to customers who are willing to pay for such higher service\nquality levels."
+            },
+            {
+                "Relation": "deserve",
+                "Subject": "that",
+                "Object": "consideration",
+                "Description": "The government will identify and provide transparently funded subsidies to target groups of energy\nusers in household, industrial and commercial sectors,that deserve special consideration owing to\ntheir economic standing and contribution to national economic development priorities."
+            },
+            {
+                "Relation": "be",
+                "Subject": "efficiency",
+                "Object": "concern",
+                "Description": "3.4.17 Energy efficiency will be a primary concern in retrofits, and new building designs will be evaluated\nfor their energy performance on a mandatory basis."
+            },
+            {
+                "Relation": "be",
+                "Subject": "efficiency",
+                "Object": "consideration",
+                "Description": "3.4.19 Fuel efficiency of vehicles would be a key consideration in deciding applicable taxes on vehicles to\nencourage a higher efficiency vehicle fleet."
+            },
+            {
+                "Relation": "operate",
+                "Subject": "person",
+                "Object": "\n",
+                "Description": "3.6.10 Necessary Health, Safety and Environmental (HSE) standards will be introduced and relevant\nregulations enforced, making it an offence for a person to operate any energy related infrastructure\nwithout complying with the prescribed HSE standards."
+            },
+            {
+                "Relation": "be",
+                "Subject": "governance",
+                "Object": "principle",
+                "Description": "Good governance in all aspects of the energy sector shall be the guiding principle, and good governance\nin the energy sector will be strengthened to realise accountability, fairness and transparency to achieve\ninvestor and consumer confidence."
+            },
+            {
+                "Relation": "use",
+                "Subject": "corridors",
+                "Object": "possible",
+                "Description": "Available corridors will be used to lay multiple pipelines and power transmission lines wherever\npossible."
+            },
+            {
+                "Relation": "make",
+                "Subject": "infrastructure",
+                "Object": "available",
+                "Description": "3.9.5 All existing and future underground utility infrastructure including electricity, water, communication,\ntown gas and petroleum would be made available in a common mandatory geographic information\nsystem (GIS) to facilitate optimal location of future underground cable routes and pipe transport\ntraces."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "chapter",
+                "Object": "targets",
+                "Description": "This chapter describes the targets and likely timeframes associated with expected policy intents\nand the assignment of responsibilities of realisation of policy intents."
+            },
+            {
+                "Relation": "maintain",
+                "Subject": "player",
+                "Object": "equivalent",
+                "Description": "Every player in the petroleum subsector and all grid connected thermal power\nplants shall jointly maintain a strategic fuel reserve equivalent to a minimum 30\ndays\u2019 consumption at any given time."
+            },
+            {
+                "Relation": "contain",
+                "Subject": "specifications",
+                "Object": "capacities",
+                "Description": "All future power plant specifications\nmust contain appropriate storage capacities to be maintained locally."
+            },
+            {
+                "Relation": "assess",
+                "Subject": "committee",
+                "Object": "contingencies",
+                "Description": "A high-level standing committee to be titled as \u2018Energy Sector Risk Assessment\nPanel\u2019to be established with sufficient representation from key sectors by end\u00022019to assess possible internal and external contingencies that could critically\naffect the performance of the energy sector."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Members",
+                "Object": "co",
+                "Description": "Members of this committee must\nalso include co-opted specialists on the subject of risk assessment and be given\nthe required training on how to identify such risks."
+            },
+            {
+                "Relation": "meet",
+                "Subject": "panel",
+                "Object": "\n",
+                "Description": "This panel must meet\nperiodically and identify such contingencies based on probability-impact analysis\nand advise sector agencies to prepare plans to mitigate impacts of the same."
+            },
+            {
+                "Relation": "encourage",
+                "Subject": "2a",
+                "Object": "industries",
+                "Description": "To ensure access to reliable, convenient, affordable, equitable and quality energy services\nto all citizens to enhance their living standards and to engage in gainful economic\nactivities, the following targets and milestones will be met by institutions to which\nresponsibilities are assigned;\n2a To encourage prospective small and medium scale industries and businesses, the\ninitial cost of obtaining an electricity connection, which may be considerable at\npresent compared with the capital cost of the business, will be reduced by offering\na special concessionary package under which the entire cost of the transformer\nfor contract demands up to 100kVA will be waived-off and be socialised through distribution tariffs."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "SEA",
+                "Object": "penetration",
+                "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+            },
+            {
+                "Relation": "use",
+                "Subject": "networks",
+                "Object": "ABC",
+                "Description": "All new low voltage distribution networks will use all-insulated ABC with\nimmediate effect."
+            },
+            {
+                "Relation": "have",
+                "Subject": "targets",
+                "Object": "\n",
+                "Description": "The following targets and milestones will have\nto be met by the institutions to which responsibilities are assigned."
+            },
+            {
+                "Relation": "make",
+                "Subject": "fuels",
+                "Object": "available",
+                "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+            },
+            {
+                "Relation": "designate",
+                "Subject": "\n",
+                "Object": "users",
+                "Description": "4d \u2018Energy Manager\u2019 scheme will be implemented on a mandatory basis by end 2019to\ndesignated users and extended to the remaining institutional users by 2020."
+            },
+            {
+                "Relation": "offer",
+                "Subject": "duty",
+                "Object": "to",
+                "Description": "4e Reduced duty and taxation of efficient equipment supported by an accelerated\ndepreciation scheme will be offered to building renovation and retrofitting\nindustry to improve the energy efficiency of the existing building stock by 2020."
+            },
+            {
+                "Relation": "make",
+                "Subject": "services",
+                "Object": "available",
+                "Description": "All routine services offered at government agencies that do not require physical\npresence must be made available via internet or mobile phone to minimize transport\nenergy use from 2020."
+            },
+            {
+                "Relation": "make",
+                "Subject": "Incorporation",
+                "Object": "criterion",
+                "Description": "4p Incorporation of building management systems with a focus on energy management\nand future opportunities in smart grid driven automated demand response will be\nmade a mandatory planning criterion for all commercial developments by 2020by\nthe UDA."
+            },
+            {
+                "Relation": "be",
+                "Subject": "%",
+                "Object": "vehicles",
+                "Description": "At least 20% of all new light vehicle registrations shall be electric vehicles in\n2022."
+            },
+            {
+                "Relation": "encourage",
+                "Subject": "SEA",
+                "Object": "sector",
+                "Description": "SEA will encourage the private sector to set up their own charging\nstations to complement the CEB/LECO efforts, by securing fiscal incentives to\nthe industry."
+            },
+            {
+                "Relation": "hold",
+                "Subject": "Applications",
+                "Object": "investments",
+                "Description": "\n7d Applications received by the SEA when feed-in tariffs were on\noffer, but held up due to the termination to feed in tariffs, which\nare at various stages of the approval process will be channeled\nto a competitive bidding model by using suitable interim\napproaches such as offering project proponents preferential\ntreatments when they were opened up for\ncompetition considering the maturity of a project, investments\nmade, etc."
+            },
+            {
+                "Relation": "offer",
+                "Subject": "package",
+                "Object": "to",
+                "Description": "A premium green tariff/green energy certification package will be offered to all\ninterested electricity customer segments as an optional tariff and a portion of\nincremental proceeds will be used for renewable energydevelopment by crediting\nto the Sri Lanka Sustainable Energy Fund."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "8b",
+                "Object": "framework",
+                "Description": "8b Establish a regulatory framework and empower an independent regulatory\ninstitution by enacting the necessary legislation to regulate downstream petroleum\nindustry, by end-2020."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "8i",
+                "Object": "guidelines",
+                "Description": "8i Establish clear guidelines to implement public-private partnership in developing\nenergy infrastructure, by mid-2020."
+            },
+            {
+                "Relation": "establish",
+                "Subject": "9e",
+                "Object": "by2020",
+                "Description": "9e An inter-agency utility corridor coordination authority to resolve\nconflicts will be established by2020.\n"
+            },
+            {
+                "Relation": "grant",
+                "Subject": "10a",
+                "Object": "to",
+                "Description": "10a A 25% local preference will be granted to Sri Lankan enterprises\nand joint ventures led by such enterprises to encourage such\nenterprises to engage in energy sector infrastructure\ndevelopment,from2019."
+            }
+        ]
+    }
+}
