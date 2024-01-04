@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "GIS",
+        "relations": [
+            {
+                "Relation": "make",
+                "Subject": "infrastructure",
+                "Object": "available",
+                "Description": "3.9.5 All existing and future underground utility infrastructure including electricity, water, communication,\ntown gas and petroleum would be made available in a common mandatory geographic information\nsystem (GIS) to facilitate optimal location of future underground cable routes and pipe transport\ntraces."
+            }
+        ]
+    }
+}

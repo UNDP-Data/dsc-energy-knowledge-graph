@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Ombudsman's Office",
+        "relations": [
+            {
+                "Relation": "include",
+                "Subject": "Contributions",
+                "Object": "Office",
+                "Description": "Contributions from civil society included the Ombudsman's Office, unions, non\u0002governmental organizations that work on human rights issues, the private sector through the \nGlobal Compact, and specific population groups such as youth, women, migrants and \nrefugees, the LGBTI+ community and representatives of indigenous peoples."
+            }
+        ]
+    }
+}

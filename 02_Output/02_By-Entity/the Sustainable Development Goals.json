@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Sustainable Development Goals",
+        "relations": [
+            {
+                "Relation": "reach",
+                "Subject": "report",
+                "Object": "consensus",
+                "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "Monitoring",
+                "Object": "accession",
+                "Description": "Monitoring and evaluation will be carried out based on the outcome and output indicators \nin the results and resources framework, aligned with indicators related to European Union\naccession and the national indicator framework for the Sustainable Development Goals."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "Angola",
+                "Object": "index",
+                "Description": "The 2018 Multiple Overlapping \nDeprivation Analysis (MODA) on multidimensional child poverty in Angola concluded that \n77.4 per cent of children under 18 are poor.6 The Gini coefficient was 0.43 in 2008.Due to higher \nlife expectancy, Angola improved its human development index (HDI) to medium human \ndevelopment status, ranking 147 out of 189 countries in 2017, with an HDI of 0.581.8 The tight \nfiscal space underscoresthe importance of increased private investments that support achievement\nof the Sustainable Development Goals."
+            }
+        ]
+    }
+}

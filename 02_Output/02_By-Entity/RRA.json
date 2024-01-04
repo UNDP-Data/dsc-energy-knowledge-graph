@@ -1,0 +1,62 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "RRA",
+        "relations": [
+            {
+                "Relation": "draw",
+                "Subject": "Assessment",
+                "Object": "atten\u0002tion",
+                "Description": "Readiness Assessment (RRA) drew atten\u0002tion to the importance of raising domestic \nfinance, as well to calibrate internal invest\u0002ment with wider development goals."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Section",
+                "Object": "introduc\u0002tion",
+                "Description": "Section 1 presents the introduc\u0002tion covering country background and a \nbrief on the RRA process in Niger."
+            },
+            {
+                "Relation": "present",
+                "Subject": "I",
+                "Object": "account",
+                "Description": "Annex I \npresents a detailed account of the recom\u0002mended action identified by the RRA."
+            },
+            {
+                "Relation": "highlight",
+                "Subject": "RRA",
+                "Object": "opportunities",
+                "Description": "The RRA has highlighted several techni\u0002cal opportunities and barriers facing Niger \nrenewable energy generation and trans\u0002mission infrastructure."
+            },
+            {
+                "Relation": "recommend",
+                "Subject": "RRA",
+                "Object": "set",
+                "Description": "The \nRRA has recommended a set of steps the \ngovernment of Niger should take."
+            },
+            {
+                "Relation": "draw",
+                "Subject": "RRA",
+                "Object": "attention",
+                "Description": "The RRA drew attention to \nthe importance of raising domestic finance \nto calibrate internal investment with wider \ndevelopment goals."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "RRA",
+                "Object": "\n",
+                "Description": "The \nRRA has identified capacity development \nfor planning, financing and implementing \noff-grid and on-grid programmes as a top \npolicy priority."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "experi\u0002ence",
+                "Description": "However, the RRA focused on biogas, \nlargely because there is positive experi\u0002ence in this technology, and biogas offers \nbenefits beyond cooking."
+            },
+            {
+                "Relation": "recog\u0002nise",
+                "Subject": "RRA",
+                "Object": "potential",
+                "Description": "The RRA recog\u0002nised the potential of biogas in Niger, and \nthe Niger biogas feasibility study has been \nconclusive."
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "RE",
+        "relations": [
+            {
+                "Relation": "be",
+                "Subject": "Energy",
+                "Object": "resource",
+                "Description": "Non-conventional Renewable Energy (NRE) shall be the fourth resource in this deversification and\nsecurity strategy."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Electricity",
+                "Object": "hydropower",
+                "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+            },
+            {
+                "Relation": "create",
+                "Subject": "Government",
+                "Object": "Fund",
+                "Description": "* To make available the incentives for NRE technologies, the Government will create an \u2018Energy Fund\u2019 ,which will\nbe managed by the ECF."
+            },
+            {
+                "Relation": "charge",
+                "Subject": "developments",
+                "Object": "resource",
+                "Description": "* NRE developments will not be charged any resource cost(royalty) for a period of 15 years from the commercial\noperation date."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "ECF",
+                "Object": "Plan",
+                "Description": "The ECF shall prepare a Long-term Non-conventional Renewable Energy Plan (LTNREP), which shall provide interim\ntargets for specific NRE technologies, upper thresholds of pricing, and resource costing."
+            },
+            {
+                "Relation": "be",
+                "Subject": "LTNREP",
+                "Object": "plan",
+                "Description": "The LTNREP shall be a 20 year\nplan, updated at least once in two years."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "government",
+                "Object": "policy",
+                "Description": "The government will also\nseriously consider entrusting the management of RE schemes to consumer co-operatives, a policy successfully implemented\nby some developing countries."
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the United Nations",
+        "relations": [
+            {
+                "Relation": "support",
+                "Subject": "programme",
+                "Object": "pillars",
+                "Description": "The country programme will support all three pillars of the United Nations Sustainable \nDevelopment Cooperation Framework (UNSDCF): (a) people\u2019s well-being and capabilities; \n(b) green, sustainable and inclusive economic development; and (c) responsive and effective \ngovernance."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "solutions",
+                "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "report",
+                "Object": "consensus",
+                "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "UNDP",
+                "Object": "implementation",
+                "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+            },
+            {
+                "Relation": "assist",
+                "Subject": "UNDP",
+                "Object": "country",
+                "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "system",
+                "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+            },
+            {
+                "Relation": "consolidate",
+                "Subject": "UNDP",
+                "Object": "leadership",
+                "Description": "UNDP will consolidate its leadership in the United Nations business operation strategy, supporting a coherent, harmonized, effective inter-agency approach."
+            },
+            {
+                "Relation": "be",
+                "Subject": "strength",
+                "Object": "\n",
+                "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+            },
+            {
+                "Relation": "foster",
+                "Subject": "UNDP",
+                "Object": "dialogue",
+                "Description": "Based on current country programme successes, UNDP will foster dialogue and \ncollaborative partnerships on sustainable natural resources management with ministries \nresponsible for environment, agriculture, livestock, water resources, humanitarian action, \ndisaster management, and women and youth promotion in collaboration with FAO, UNEP and \nthe United Nations Capital Development Fund (UNCDF) on unlocking sources of private \nfinance."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "\n",
+                "Object": "coordination",
+                "Description": "UNDP \nwill increase coordination and continuous monitoring and surveillance with the United Nations \nDepartment of Safety and Security and through civil-military coordination."
+            },
+            {
+                "Relation": "enter",
+                "Subject": "Afghanistan",
+                "Object": "Decade",
+                "Description": "As Afghanistan enters its Transformation Decade, UNDP \nshould also transition to meet emerging priorities and operational challenges, guided \nby the United Nations Development Assistance Framework and the new strategic \nplan, 2014-2017."
+            },
+            {
+                "Relation": "include",
+                "Subject": "partners",
+                "Object": "Commission",
+                "Description": "Key partners will include the Civil Service Commission, the World Bank \nand the United Nations country team, to ensure harmonization of efforts."
+            },
+            {
+                "Relation": "explore",
+                "Subject": "UNDP",
+                "Object": "surveillance",
+                "Description": "UNDP and the United Nations system as a whole \nwill explore satellite surveillance, mobile phone monitoring, and the use of other \ninnovative methodologies for monitoring in fragile and insecure environments."
+            }
+        ]
+    }
+}

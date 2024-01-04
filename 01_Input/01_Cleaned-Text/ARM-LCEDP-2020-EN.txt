@@ -1,0 +1,2138 @@
+File Name: ARM-LCEDP-2020-EN
+Year: 2020
+Country Name: Armenia
+Country Code: ARM
+Category: LCEDP
+Document Title: USAID ARMENIA LEAST COST ENERGY DEVELOPMENT PLAN: 2020-2036
+Exists?: Y
+Publication Date: 2020
+Start Year: 2020
+End Year: 2036
+Language: EN
+------------------------------------------------
+
+ARMENIA LEAST COST ENERGY 
+DEVELOPMENT PLAN: 2020-2036 
+MARKET LIBERALIZATION AND ELECTRICITY TRADE (MLET) PROGRAM 
+November 2019
+#ACRONYMS 
+ALWR Advanced Light Water Reactor ;
+AMD Armenian Dram ;
+ANPP Armenian Nuclear Power Plant ;
+BWR Boiling Water Reactor ;
+CAES Compressed Air Energy Storage ;
+CCGT Combined-cycle Gas Turbines ;
+CHP Combined Heat and Power ;
+CJSC Close Joint Stock Company ;
+DWG DecisionWare Group ;
+ETSAP Energy Technology Systems Analysis Program ;
+EU European Union ;
+FEC Final Energy Consumption ;
+GDP Gross Domestic Product ;
+GDS Gas Distribution Stations ;
+GEF Global Environmental Fund ;
+GHG Greenhouse gases ;
+GoA Government of Armenia ;
+GTS Gas Transportation System ;
+GWh Gigawatt Hour ;
+HPP Hydro Power Plant ;
+HVL High Voltage Lines ;
+IAEA International Atomic Energy Agency ;
+IEA International Energy Agency ;
+IEA-ETSAP International Energy Agency - Energy Technology Systems Analysis Program ;
+IPCC Intergovernmental Panel on Climate Change ;
+IU BASE Initial Unconstrained Baseline Scenario ;
+ktoe Kilotons of Oil Equivalent ;
+kV Kilovolt ;
+kWh Kilowatt Hour ;
+LCEDP Least-cost Energy Development Plan ;
+LFR Lead-Cooled Fast Reactors ;
+LLC Limited Liability Company ;
+LPG Liquefied Petroleum Gases MLET Market Liberalization and Electricity Trade ;
+Mpkm Millions of passenger kilometers ;
+Mtkm Millions of ton kilometers ;
+MW Megawatt ;
+MWh Megawatt Hour ;
+NEA Nuclear Energy Agency ;
+NEEAP National Energy Efficiency Action Plan ;
+NPP Nuclear Power Plant ;
+NREL National Renewable Energy Laboratory, USA ;
+O&M Operation and Maintenance ;
+OCGT Open-Cycle Gas Turbines ;
+OECD The Organization for Economic Co-operation and Development ;
+PJ PetaJoule ;
+PSRC Public Services Regulatory Commission ;
+PV Photovoltaic ;
+PWR Pressurized Water ;
+RA MEINR Ministry of Energy Infrastructures and Natural Resources of the Republic of Armenia ;
+RA Republic of Armenia ;
+RD&D Research, Development and Demonstration ;
+RES Renewable Energy Sources ;
+SFR Sodium-Cooled Fast Reactors ;
+SHPP Small Hydro Power Plant ;
+SMR Small Modular Reactors ;
+Sq. km Square Kilometer ;
+SREP Scaling-Up Renewable Energy Program ;
+SRIE Scientific Research Institute of Energy ;
+TFC Total Final Consumption ;
+TIMES The Integrated MARKAL-EFOM System ;
+TJ TeraJoule ;
+TPES Total Primary Energy Supply ;
+TPP Thermal Power Plant ;
+USA United States of America ;
+USAID United States Agency for International Development ;
+USD US Dollar ;
+VAT Value Added Tax VRES Variable Renewable Energy Sources ;
+VVER-440 Water-water Energy Reactor ;
+WB World Bank;
+#EXECUTIVE SUMMARY 
+This Report presents the modelling framework, data, analyses and conclusions of the year-long activity 
+undertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as 
+the lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to 
+prepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-
+2036. This work utilized the Integrated MARKAL-EFOM System (TIMES) model which is an economic model 
+generator for local, national, multi-regional, or global energy systems, developed and maintained under the 
+auspices of the International Energy Agency’s Energy Technology Systems Analysis Program, which provides a 
+technology-rich basis for representing energy dynamics over a multi-period time horizon. 
+The TIMES model platform provides an integrated energy system modelling tool designed to guide policy 
+formulation over a wide range of energy, economic and environmental planning and policy issues, helping to 
+establish investment priorities within a comprehensive framework. Key features of the TIMES platform include 
+that it encompasses the entire energy system from resource extraction through to end-use demands; employs 
+least-cost optimization to identify the most cost-effective pattern of resource use and technology deployment 
+over time; provides a framework to evaluate medium- to long-term policies and programs that can impact the 
+evolution of the energy system; and quantifies the costs and technology choices that result from imposing those 
+policies and program. Thus, the TIMES platform is specifically a tool to develop and compare scenarios for 
+future energy development and as such can be a productive tool to foster stakeholder buy-in and build 
+consensus around energy sector policy. 
+In order to adapt the generic TIMES model to become the TIMES-Armenia model, the SRIE team first 
+established as a base year that period for which there was a complete set of data on production and 
+consumption of all energy carriers used in Armenia - the energy balance. In addition, for the base year it was 
+necessary to establish the energy production and consumption technologies in all sectors of the economy and 
+to analyze and subdivide the initial volumes of energy among all available end-use technologies. When work on 
+the current project was initiated in August 2018, the most recent year for which all relevant data for the 
+Armenian economy and energy sector were available was 2016. This was selected as the base year. Having 
+calibrated the model to confirm that its 2018 results matched available data, the first stage of the scenariobuilding process was to establish the initial Baseline (or Reference) scenario for the period planning period 
+2020 – 2036. 
+#The Baseline Scenario 
+The TIMES-Armenia modelling exercise started by imposing no constraints on the technology choice for future 
+energy sector development. A key result of this exercise was to identify that expansion of variable renewable 
+energy sources (VRES), in particular, solar and wind energy, are the clear least-cost sources for new generation 
+capacity in Armenia, a clear reflection of the combination of Armenia’s rich solar resource and trends in 
+declining cost of solar power over the planning period. Given that the initial unconstrained level of projected 
+VRES capacity in the baseline scenario was so high, adding nearly 3,000 MW of grid-connected solar and over 
+1,000 MW of wind power by 2036, it was clear that more reasonable levels of constrained expansion of VRES 
+generation would be needed. Through expert consultation with stakeholders it was agreed that there was a 
+need to reflect both potential limitations in the institutional capacity to build so much new solar and wind in 
+the coming decades – which led to annual build-rate constraints - and in the need to ensure planning and investment for any system strengthening that would be required to accommodate higher rates of VRES penetration in the total generation mix. 
+This consultation process established that a reasonable and ambitious level of constrained maximum VRES 
+capacity to be modelled would be 1,500 MW of solar and 500 MW of wind until the end of the planning 
+horizon, along with limits on the annual build rates. When this set of added constraints was applied to the 
+baseline model, the results established the Baseline Reference (BASE-R) Scenario. 
+In this BASE-R scenario, which foresees closure of the Armenia Nuclear Power Plant (ANPP) from 2027 
+according to current planning - as was ultimately seen in all other scenarios as well - the full amount of 
+constrained solar and wind capacity is added, reflecting the significant role of these VRES as the least-cost 
+source of electricity for Armenia’s development. While some additional hydropower capacity was also added in 
+the BASE-R scenario, no other types of new generation are selected by the model, taking into account that the 
+gas-fired Yerevan CCGT-2 TPP has already been included from 2022. The total required funding for new 
+power plant construction in the BASE-R scenario is just under $1.9 billion over the entire planning period, 
+while projected expenditures on imported natural gas fuel for electricity generation are $4.25 billion. 
+The fact that the full constrained amount of solar and wind capacity is selected by the 
+model as part of the least cost solution for new generation under all scenarios 
+underscores the importance to Armenia of ensuring a policy and institutional 
+environment that supports full realization of new VRES generation to the maximum 
+extent practicable, not only to ensure the lowest cost generation but also to minimize 
+reliance on other imported energy sources and to strengthen Armenia’s energy 
+security and competitiveness. 
+#GDP Growth Sensitivities in the Baseline Scenario 
+Considering that GDP growth is a key main driver of energy demand growth, two sensitivity analyses for the 
+BASE-R scenario were modelled to explore the impacts of higher and lower GDP growth rates on the least 
+cost development pathway of Armenia’s energy system. The particular cases analysed were for a 50% higher 
+growth rate (i.e., 6.75% growth per year) and a 50% lower rate (i.e., 2.25% growth per year) as compared to 
+the BASE-R scenario assumption of a 4.5% per annum GDP growth rate from 2022. 
+While these higher (lower) growth rates had the expected impact in regard to increasing (decreasing) total 
+system costs, total primary energy supply, final energy consumption and electricity generation, it was especially 
+interesting to note that the higher GDP growth rate also reduced the share of total system cost in GDP, owing 
+to the fact that it was accompanied by significant lowering of the energy intensity of a unit of GDP. In fact, the 
+high-growth case of BASE-R projects an even lower level of total primary energy supply per unit of GDP than 
+the scenario which explicitly pursued reduced final energy consumption through expanded energy efficiency. 
+This enhanced efficiency was most clearly demonstrated in the fact that while overall GDP increases in total by 
+27% compared to the BASE-R scenario, total system costs increase only by 12% and total primary energy 
+supply by 6.3%. This reflects the fact that aggregate purchases of new energy demand devices increase by 
+almost 19%, which embeds higher levels of efficiency over time as incomes rise. A surprising but crucial result from these sensitivity analyses is that the TIMESArmenia model projects no differences in the projected total of new power plant 
+capacities in level or by type required to cover electricity demand over the full range 
+of GDP growth variation. While there are slight variations in the implementation 
+schedule for new solar, wind and hydro power capacity, the only effect of higher 
+(lower) income growth lies in the increased (decreased) utilization of existing installed 
+capacity of both VRES and gas-fired thermal power plants, with a concomitant 
+increase (decrease) in expenditures on natural gas fuel.
+#Nuclear Scenarios 
+Activities to extend the operational lifetime of the ANPP up to 2027 are already in place and in the BASE-R 
+Scenario the plant was to be decommissioned from that time. While available nuclear technologies included in 
+the TIMES-Armenia model were not selected in the BASE-R Scenario on the basis of least cost, the GOAM 
+remains committed to a policy to maintain some nuclear power in the country’s energy mix. To analyze the 
+cost and other implications of these choices, four alternative scenarios for continued inclusion of nuclear 
+generation in the Armenian power system were examined as: operating life extension of the ANPP for an 
+additional 5 or 10 years after 2027; and forced implementation of a new nuclear unit, either with installed 
+capacity 300 MW (Small Modular Reactor) or with installed capacity 600 MW (Light Water Reactor). 
+The scenarios for life extension of the ANPP by 5 and 10 years decrease total system cost by around 1%, 
+compared to eth BASE-R scenario, increase total primary energy supply by 3.7% and 7.3%, reduce greenhouse 
+gas (GHG) emissions significantly by 4.5% and 9.3% and decrease imports of natural gas for electricity 
+generation by 11.8% and 20.4%, respectively. A key feature of these scenarios is that they increase total 
+investment costs for new power generation capacity 15.1% and 12.5%, compared the BASE-R scenario, with 
+the higher investment costs needed for the longer extension being offset in its impact on total investment by 
+the fact that in this scenario neither of the mid-sized HPPs (Shnokh and Loriberd) are built. The scenarios 
+which propose new nuclear units to replace the ANPP from 2027 with either a 300 MW SMR or a 600 MW 
+LWR increase total system cost by around 2%, increase primary energy supply by 3.3% and 7.8%, reduce GHG 
+emissions by 7.1% and 12.2%, and decrease imports of natural gas for electricity generation by 7.2% and 15.5%, 
+respectively. A key impact in these scenarios is that they significantly increase the required total investment 
+costs for new power generation capacity compared the BASE-R scenario, more than doubling it to $4.1 billion 
+(a 116% increase) for the 300 MW SMR unit and increasing it to over $5 billion (a 164% increase) for the 600 
+MW LWR unit. Thus, whether considering total system cost or investment costs required for new generation, 
+the scenarios for life extension of the ANPP represent a least-cost policy choice for continuing to maintain 
+nuclear capacity in Armenia’ energy mix. It must be emphasized that such life extensions must first and 
+foremost always ensure all measures required for the continued safe and reliable operation of these older 
+plants. As a final point, it is useful to note that the scenarios which imposed GHG emissions 
+reduction targets to meet the level defined in Armenia’s Nationally Determined 
+Commitment, either by 2036 or earlier, largely mirror the “new nuclear” scenarios in 
+terms of increases in total system cost and primary energy supply, reductions in GHG 
+emissions and decreases in imports of natural gas for electricity generation. This is 
+not surprising, given that in these scenarios, with the constrained amounts of solar 
+and wind VRES fully utilized, the next choice for lower GHG-emissions generation 
+leads to selection of the new nuclear technologies, in this case introduction of 600 
+MW of nuclear power. Given the slightly different implementation patterns for 
+introduction of nuclear units in these scenarios as compared to the forced 
+implementation in 2027, the impact on total investment costs for new power 
+generation capacity is even larger compared to the BASE-R scenario, ranging from 
+$5.4 - $7.0 billion. 
+#Scenarios with Lower Prices for Imported Natural Gas 
+The BASE-R scenario assumed that the natural gas price will increase up to projected European levels by 2027 
+(the year of ANPP decommissioning) and after that continue to match European levels. We also explored two 
+scenarios with lower gas prices, starting from the same initial border gas price effective from January 1, 2019, 
+of US$ 165 per 1000 m3 , which i) applied the EU trend growth rate over the entire period to 2036 from that 
+starting point , and ii) assumed that the border gas prices grows to US$ 180/1000 m3 by 2027 and remains 
+fixed at that level until the end of the planning period. 
+These scenarios both show that if Russia continues to provide relatively low-cost natural gas to Armenia there 
+will be a significant increase of natural gas consumption across all sectors, but mainly in electricity generation, 
+transportation and residential heating. In both scenarios, the expanded use of existing gas-fired TPP capacity 
+means that the mid-sized HPPs (Shnokh and Loriberd) are not built, while no additional thermal power capacity 
+is required after the inclusion of Yerevan CCGT-2 (RENCO) and the closure of Hrazdan TPP. This results in a 
+roughly 20% reduction in the lumpsum investment required for new generation in these scenarios as compared 
+to the BASE-R scenario, the lowest in any scenarios. It is useful to note that the constrained levels of solar and 
+wind generation are still fully built, which generates an investment cost saving as compared to BASE-R of $377 
+million in the case with the EU trend to 2036 and of $391 million when the gas price is capped at $180. In 
+both scenarios there is an overall increase in total primary energy supply by 1 - 1.5%, because of increased use 
+of the cheaper imported natural gas which is accompanied by a reduction in use of VRES. 
+While total energy system cost is reduced when gas prices are lower, it is important 
+to note that the increased utilization of cheaper gas maintains and deepens Armenia’s 
+dependence on imported energy.
+#Scenarios to Promote Fuel Switching to Electricity in Transport and Heating 
+The most consumed fuel source in Armenia is and will continue to be imported natural gas, most of which is 
+used for residential heating and transport. Since increased electricity generation based on development of 
+Armenia’s VRES is indicated as a least cost solution in the BASE-R scenario, and confirmed in all other 
+scenarios, expanding use of these domestic energy resources could be accompanied by implementation of 
+policies to stimulate use of electricity in the transport and residential sectors to replace natural gas imports. To 
+explore these opportunities, we examined scenarios designed to increase the penetration level for use of 
+electricity in residential heating to 25% in 2027 and to 50% by 2036, increase the penetration level for use of 
+electric vehicles to 25% in 2027 and to 50% by 2036 and both of these scenarios taken together. 
+Each of these scenarios proposing increased sectoral electricity penetration separately reduces total system 
+cost (in combination by 3%), reduces total primary energy supply (again, in combination by 5%), lowers GHG 
+emissions (by nearly 8%, in combination) and decreases imports of natural gas for electricity generation (in 
+combination by 7.6%). Most importantly, no change in the overall level and type of new generation is required 
+as compared to the BASE-R scenario in order to achieve these results, with only a negligible increase in 
+lumpsum investment costs for new generation capacity associated with slight variations in the implementation 
+schedule for projected additions of solar and wind power. 
+The reduction in natural gas used for electricity generation shows clearly that a policy 
+to promote increased deployment of electric for heating and electric vehicles will 
+expand utilization of domestic VRES, reduce reliance on imported energy sources and 
+strengthen Armenia’s energy security. 
+#1.1 REPORT OVERVIEW AND DESCRIPTION OF THE ARMENIAN ENERGY SYSTEM IN THE MODELLING BASE YEAR 2016 
+This Report presents the modelling framework, data, analyses and conclusions of the year-long activity 
+undertaken by the Scientific Research Institute for Energy (SRIE), under sub-contract to Tetra Tech ES Inc. as 
+the lead implementing partner for the USAID Market Liberalization and Energy Trade (MLET) Program, to 
+prepare an update of the Armenia Least Cost Energy Development Plan (LCEDP) for the years 2020-2036. 
+In order to adapt the generic TIMES model (see Chapter 2) so as to become the TIMES-Armenia model, it was 
+necessary first to establish a base year (i.e., the first modelling year) for that period for which a complete set of 
+data on production and consumption of all energy carriers used in the country - the energy balance - can be 
+detailed. In addition, for the base year it is necessary to establish the energy production and consumption 
+technologies in all sectors of the economy, and to analyze and subdivide the initial volumes of used energy 
+among all available end-use technologies. When work on the current project was initiated in August 2018, the 
+most recent year for which all relevant data for the Armenian economy and energy sector were available was 
+2016, so this year was selected as the base year. For all projections, dollar costs and expenditures are 
+reported in terms of 2016 dollars. The remaining sections of this Chapter summarize a description of the 
+Armenian energy system in the modelling base year of 2016. 
+Chapter 2 presents a brief summary of the platform and methodology for the generic TIMES model, which is an 
+economic model generator for local, national, multi-regional, or global energy systems, developed and 
+maintained under the auspices of the International Energy Agency’s Energy Technology Systems Analysis 
+Program (IEA - ETSAP). This model provides a technology-rich basis for representing energy dynamics over a 
+multi-period time horizon. Chapter 3 provides details on the specific application of the TIMES-Armenia model, 
+confirming the calibration of the model to the year first modelled year (2018), confirming results to match 
+available data, and presents the process of developing the initial Baseline (or Reference) scenario for the period 
+planning period 2020 – 2036. 
+With the Baseline-Reference scenario fully detailed, Chapter 4 outlines a set of selected alternative possible 
+scenarios that were identified by key stakeholders as of interest, to reflect different potential pathways for the 
+evolution of the Armenian energy system, including policy choices as well as sensitivity analyses to determine 
+the possible impacts of variations in such factors as demand growth or energy processes. This set of scenarios 
+is intended to be illustrative and not exhaustive and to provide useful inputs to policy and strategy development 
+for the energy sector in Armenia over the period to 2036. Once the results of the various scenarios have been 
+described and the differences in outcomes explored, Chapter 5 presents a set of summary conclusions and 
+recommendations based on those results. Detailed information on various aspects of the model and data used 
+is presented in the Appendices. 
+#1.2 ARMENIAN ELECTRICITY GENERATION, TRANSMISSION AND CONSUMPTION IN 2016 
+As summarized in Table 1.1, the total installed electricity generation capacity of the power system of Armenia 
+in 2016 was approximately 3,267 MW, of which 2,710 MW was available, due to the conditions of aging of 
+some plant and equipment, as well as of climate circumstances of the nuclear and thermal power plants locations. The main reasons for lower availability of nuclear and thermal power plants against installed capacities relate to the relatively low 
+atmospheric density resulting by the altitude above sea level and dry and hot summers in Armenia, which have an influence on efficiency of these type of power plants.
+The installed capacity of thermal power plants (TPPs) was 1,532 MW and total available TPP 
+capacity was 1,030 MW.
+#TOTAL INSTALLED AND AVAILABLE CAPACITY in 2016 in MW:
+Armenian Nuclear Power Plant,440 and 385;
+Hrazdan Thermal Power Plan (TPP), 810 and 370 ;
+Hrazdan Unit 5 TPP, 480 and 440 ;
+Yerevan Combined Cycle Gas Turbine, 242 and 220 
+Sevan-Hrazdan Hydro Power Plant (HPP) Cascade, 560 and 560 ;
+Vorotan HPP Cascade, 404 and 404 ;
+Small Hydropower Producers (<30 MW), 328 and 328 ;
+Wind Farm, 2.64 and 2.64 ;
+TOTAL, 3,267 and 2,710 ;
+The first unit of the Armenian Nuclear Power Plant (ANPP) was put into operation in 1976 and the second 
+unit in 1980. Two reactors of the type VVER-440 (V-270) were installed, with an aggregate capacity of 815 
+MW. Following the Spitak earthquake on December 7, 1988, operation of the ANPP stopped for safety 
+considerations, although there was no technical damage to the plant. As a consequence of the severe energy 
+crisis in Armenia during the years 1993-95, the ANPP Unit No. 2 was re-commissioned in 1995 with an 
+installed capacity of 440 MW. In 2016, the available capacity of ANPP was 385 MW. 
+The installed capacity of all hydropower plants (HPPs) in Armenia in 2016 was 1,293 MW, including 328 MW of 
+small HPPs (size less than 30 MW). All the rivers of Armenia are in the Kura-Araks Basin, with 73.5% of the 
+territory of Armenia in the Araks river basin. There are more than 200 rivers and streams in Armenia with a 
+length of 10 km or more. The Hrazdan River, flowing out of Lake Sevan, and the Araks, Vorotan, and Debet 
+Rivers have the most energy potential. According to the former Ministry of Energy Infrastructures and Natural 
+Resources, the potential water energy resources of Armenia are 21.8 billion kWh, including 18.6 billion kWh 
+from large and medium-sized rivers, and 3.2 billion kWh from small rivers. Armenia’s hydropower resources 
+are the country’s most widely used renewable energy resource. The main hydropower generation units in 
+Armenia in 2016 were: 
+ Sevan-Hrazdan HPP Cascade: The cascade comprises seven HPPs: Sevan (34 MW); Hrazdan (81 MW); 
+Argel (224 MW); Arzni (70 MW); Kanaker (102 MW); Yerevan-1 (44 MW); and Yerevan-3 (5 MW), with 
+a total installed capacity of 560 MW and designed to produce up to 2.32 billion kWh annually. The HPPs 
+are all located on the Hrazdan River and use irrigation water flow from Lake Sevan and other tributaries 
+of the Hrazdan River. ;
+ Vorotan HPP Cascade: The cascade consists of three HPPs, all located on the Vorotan River in the 
+territory of Syunik, which utilize both the river and stream waters. The cascade comprises Spandaryan 
+HPP (76 MW), Shamb HPP (171 MW) and Tatev HPP (157 MW) with a total installed capacity of 404 
+MW and a designed annual electricity generation of 1.16 billion kWh.;
+ Small HPPs: Construction of small HPPs in Armenia has been a leading factor in the development of 
+renewable energy resources, enhancing the energy security of Armenia. The majority of small HPPs 
+under construction or in operation are run-of-river facilities designed for natural water flows. As of 
+January 1, 2017, electricity was generated by 173 small HPPs, with total 328 MW installed capacity. In 
+2016, the generation from small HPPs was around 937 million kWh, roughly 13% of total generation.;
+In terms of other renewable energy resources, in 2016 Armenia’s system also had one wind farm with a 
+capacity of 2.64 MW and at the end of the year there were a small number of solar PV plants installed, with 
+capacity of 273 kW and annual generation less than 0.1 million kWh 
+Data on aggregate electricity generation and consumption in 2016 are presented in Table 1.2. It should be 
+noted that total technical losses in the electricity grid, including transmission and distribution networks, was 
+just over around 10%. There was also electricity trade both to north and to south. 
+#ELECTRICITY GENERATION AND CONSUMPTION IN 2016, in MILLION kWh:
+Total Annual Generation 7,315.3 of which the Power plant own use/(% of total) has a share of 327.4/(4.5%) and Losses/(% of total net input) are 706.0/(10.1%).
+Export is 1,226.4 and Import 272.6 while Final consumption is 5,328.2 with a Number of Consumers of ~ 985,000.
+These numbers present the shares of electricity generation in 2016 by fuel, which shows that the ANPP, gas-fired 
+power plants and renewables (including small HPPs and wind) were distributed almost equally in the total 
+generation mix, each accounting for around one-third of the total. Figure 1.2 presents the amount of electricity 
+generated for domestic use in 2016, with difference reflecting the fact that net exports are generally accounted 
+for by gas generation, which increases the share of nuclear generation and of all renewables to 37% each, 
+leaving 26% of electricity generation for domestic use dependent on imported gas.
+The Armenian electricity transmission system is owned by the state company “High Voltage Electrical 
+Networks” CJSC. In 2016, the total length of 220 kV and 110 kV High Voltage Lines (HVL) involved in 
+electricity transmission was around 1,740 km (1,323 km of 220 kV HVL and 417 km of 110 kV HVL) and the 
+number of substations was 33 (15 220 kV substations and 18 110 kV substations). The Armenia power system 
+has interconnections with all neighbor countries, although those with Turkey and Azerbaijan were not in 
+operation, due to political issues. Currently, construction of new 400 kV HVL both toward the North and the 
+South is planned, which will expand opportunities both for exchange to neighboring power systems and to 
+establish electricity transit among them. 
+Electricity generated by power plants and transmitted by HVL reaches consumers through the distribution 
+network, which comprises 110 – 35 - 6(10) - 0.4 kV lines and cables. The number of distribution customers in 
+2016 was close to 985,000, all served by the sole distribution company “Electric Networks of Armenia” CJSC. 
+The distribution network consisted of 2,778 km of lines and 102 substations at the 110 kV level; 2,307 km of 
+overhead and 68 km of cable lines and 224 substations at the 35 kV level; and 20,917 km of overhead and 5,666 
+km of cable lines and 8,162 substations at the 6(10) and 0.4 kV levels. 
+Figure 1.4 shows the share of electricity consumption by economic sectors in 2016, using the terminology for 
+sectors of the Public Services Regulatory Commission (PSRC). Three sectors account for over 90% of 
+electricity consumption, with “Population” (i.e., Residential) as the largest at 35% of the total, followed by 
+“Others” (comprising the Service/Commercial sector) at 30%, and Industry at 26%. The Transport sector only 
+accounts for 2% of electricity consumption, although as will be seen it is a large consumer of final use energy. 
+Clearly, in terms of understanding and projecting demand growth for electricity, these three sectors will be a 
+key focus for in-depth modelling.
+#1.3 NATURAL GAS IMPORTS, SUPPLY AND CONSUMPTION IN 2016 
+Data for the main indicators of the natural gas supply system for 2016 are summarized in Table 1.3 below. The 
+overall gasification level in Armenia at 95% is nearly complete; this means that almost all consumers have access 
+to the gas system. Notwithstanding this fact, many people especially in rural communities still use biomass 
+(wood and/or manure) for heating, cooking and hot water. The underground gas storage facility in Abovyan, 
+which has capacity of around 140 million cubic meters (m3), provides an opportunity to regulate daily load 
+fluctuations in heavy demand periods such as winter days, as well as to accumulate some amount of gas to 
+provide uninterrupted supply in emergency situations. Finally, it should be noted that gas imports from Russia 
+are used for all domestic needs (including electricity generation), while gas imports from the south are 
+primarily used for electricity generation in the context of the swap contract. 
+#MAIN INDICATORS OF NATURAL GAS SUPPLY, 2016
+Armenia gasification level ~94.6 %;
+Length of the pipelines, km 14,600;
+Number of gasified communities 624;
+Number of consumers 692,114;
+Import, million m3, of which 2,237/2,372;
+from Russia 1,865/2,001;
+from Iran 372/371;
+Abovyan Underground Gas Storage Facility 140 million m3;
+Gasification in Armenia started from 1960 and as of 2016 the Russian firm Gazprom was the sole shareholder 
+of CJSC Gazprom Armenia, which is the sole provider of supply and sales of natural gas for the domestic 
+market. The bulk gas transportation system includes 1,682.2 km of main and branch gas pipelines, of which 
+1,586.5 km of gas pipelines are involved in gas transportation activities and the rest is in operational reserve 
+mode. There are also 110 gas distribution stations; 21 metering units, including the Koghb gas measuring 
+station on the Armenia-Georgia border; 181 electrochemical protection installations, including 166 cathodic 
+and 15 drainage systems. The Abovyan gas storage facility includes 21 underground tanks and compressor 
+stations.
+The main operational indicators of the gas transportation system for 2016 are shown in Table 1.4. Combined 
+losses in the gas transportation and distribution systems amounted to around 143 million m3; at roughly 6.4% 
+of total imported gas volume these are high, but typical for former Soviet Union systems. 
+#MAIN INDICATORS OF THE GAS SUPPLY SYSTEM FOR 2016, in MILLION M3 
+Volume of imported gas, including: 2,236.5 (From Russia 1,864.6,From South 372.0);
+Gas taken from pipelines & underground storage : 50.2 ;
+Own use of gas in transportation system: 3.5 ;
+Losses in gas transportation system, 102.5; of which Technical losses in the pipeline are 102.0 and Emergency losses are 0.5;
+Driven by gas pipelines & underground storage: 48.3 ;
+Volume of transported gas: 2,132.4 ;
+Other consumers: 244.4 ;
+Distribution system: 1,888.1 ;
+Own use of gas distribution system: 3.1 ;
+Recovered gas: 0.7 ;
+Gas distribution system losses: 40.1 ;
+Volume of gas sold by distribution system, 1,844.3 , of which Population is 581.0, Energy is 420.0, Industry is 185.8, CNG compressor stations are 467.3, Budget organizations are 54.3, other consumers are 135.8 ;
+Average calorific value of natural gas is 8,193 (kcal/m3);
+Source: Public Services Regulatory Commission (PSRC). ;
+#1.4 USE OF OTHER ENERGY CARRIERS IN 2016 
+Given that the TIMES model is a tool for optimizing all fuel and energy flows in a system, including production, 
+transformation and consumption, it is necessary to analyze and incorporate all relevant data into the model. 
+The best way to do this is to use the internationally approved country energy balance. This section presents 
+the main data of the Armenian Energy Balance for the base year (2016), as officially published by International 
+Energy Agency (IEA) (Source: 
+https://www.iea.org/statistics/?country=ARMENIA&year=2016&category=Energy%20supply&indicator=TPESbyS
+ource&mode=table&dataTable=BALANCES) 
+Table 1.5 presents the Armenian Energy Balance for 2016, which includes also the amounts of other energy 
+carriers used, in particular coal and oil. As with gas, practically all coal and oil products are imported from 
+abroad (see Table 1.6). The cumulative share of those coal and oil products in Armenia’s Energy Balance is less 
+than 10% and they do not play a significant role in the country’s economy. Almost three-quarters of oil 
+products are used in transport, not only as fuel but also as lubricants. 
+According to the IEA “World energy balances, 2018 edition, Database documentation” 
+(http://wds.iea.org/wds/pdf/worldbal_documentation.pdf) these flows are defined as follows: 
+ Total primary energy supply (TPES) is made up of production + imports - exports - international 
+marine bunkers - international aviation bunkers ± stock changes. ;
+ Transformation processes comprise the conversion of primary forms of energy to secondary and 
+further transformation (e.g., coking coal to coke; crude oil to oil products; fuel oil to electricity). Inputs 
+to transformation processes are shown as negative numbers and output from the process is shown as a 
+positive number. Transformation losses will appear in the “total” column as negative numbers. ;
+ Energy industry own use covers the amount of fuels used by the energy producing industries (e.g., for 
+distribution). It includes energy consumed by energy industries for heating, pumping, traction and lighting 
+purposes. ;
+ Total Final Consumption (TFC) Is the sum of the consumption in end-use sectors and for nonenergy use. Energy used for transformation processes and for own use of the energy producing 
+industries is excluded. Final consumption reflects for the most part deliveries to consumers. Note that 
+international aviation bunkers and international marine bunkers are not included in final consumption 
+except for the world total, where they are reported as world aviation bunkers and world marine bunkers 
+in transport. ;
+ Non-energy use covers those fuels that are used as raw materials in the different sectors and are not 
+consumed as a fuel or transformed into another fuel. Non-energy use is shown separately in final 
+consumption under the heading non-energy use. Note that for biofuels, only the amounts specifically 
+used for energy purposes (a small part of the total) are included in the energy statistics. Therefore, the 
+non-energy use of biomass is not taken into consideration, and the quantities are null by definition.;
+#IMPORTED ENERGY CARRIERS IN 2016, KTOE
+Brown coal 0.7 ;
+Lubricants 6.2 ;
+Anthracite 0.6 ;
+Paraffin Waxes 0.4 ;
+Liquefied petroleum gases (LPG) 4.5 ;
+Bitumen 22.2 ;
+Motor Gasoline excl. bio 146.7 ;
+Other oil products 3 ;
+Gasoline type jet fuel 0.0 ;
+Natural Gas 1,847.4 ;
+White spirit & SBP 0.1 ;
+Fire wood 0.0 ;
+Kerosene Type Jet Fuel excl. bio 44.8 ;
+Solid biomass 6.0 ;
+Other Kerosene 7.6 ;
+Other biomass 0.2 ;
+Gas/Diesel Oil excl. bio 121.3 ;
+Electricity 23.7 ;
+Fuel Oil 0.3 ;
+TOTAL 2,235.7;
+Finally, considering FEC by demand sector in 2016, the total FEC amounted to 2,094.6 kilotons of oil equivalent 
+(ktoe), out of which the amount for households and transport together were just over 1,400 ktoe. The base 
+year data outline the leading position of households, which accounted for 37% of total FEC, with transport 
+second at almost 30%. In the base year, services and industry accounted for 15.6% and 15.3% of FEC, 
+respectively, while agriculture had the smallest share in total FEC at 2%. Figure 1.7 shows all final energy 
+consumption by sectors and types of fuel in 2016. Additional details on the composition of FEC in the base 
+year are found in Appendix 1.
+#1.5 ENERGY COSTS IN 2016 
+Electricity and gas were fully regulated sectors in 2016 and the PSRC was responsible for setting tariffs. 
+#1.5.1 ELECTRICTY TARIFFS FOR CONSUMERS 
+Electricity tariffs for consumers were differentiated by day and night, as presented in Table 1.7. There was no 
+differentiation by consumer types (e.g. industry, services, etc.), but only by connection voltage. There was also 
+a special tariff class for poor consumers.
+#1.5.2 ELECTRICITY GENERATION TARIFFS 
+Tariffs for large electricity generation companies are shown in Table 1.8. These rates have a capacity and an 
+electricity (energy) component. The capacity tariff is a payment that does not depend on the amount of 
+electricity generated, while the electricity tariff is used for payment on kWh of electricity produced. 
+To support development of renewable energy resources, the PSRC had also set feed-in tariffs, as presented in 
+#ELECTRICITY GENERATION TARIFFS: RENEWABLES (VAT EXCLUDED, EFFECTIVE FROM FEBRUARY 1, 2017)
+Except for small HPPs, all other renewables had a VAT-inclusive generation tariff (51.29 AMD/kWh) 
+set higher than the highest tariff for consumers (44.98 AMD/kWh with VAT; Table 1.7).
+Small HPPs Built on drinking water pipeline, 10.579 (2.192) AMD (US cents)/kWh;
+Small HPPs Built on irrigation system, 15.867 (3.287) AMD (US cents)/kWh;
+Small HPPs Built on natural water flow, 23.805 (4.932) AMD (US cents)/kWh;
+Wind Power Plants 42.739 (8.854) AMD (US cents)/kWh;
+Power Generated from Biomass 42.739 (8.854) AMD (US cents)/kWh;
+Solar PV Generation 42.739 (8.854) AMD (US cents)/kWh;
+Source: Public Services Regulatory Commission (PSRC);
+#1.5.3 NATURAL GAS TARIFFS 
+Starting from January 2017, the structure for natural gas consumers was as presented in Table 1.9. This 
+includes some tariff differentiation, in particular for socially vulnerable (poor) households, agricultural 
+greenhouse farms and distinguishing consumers utilizing more or less than 10,000 m3/month. 
+#1.5.4 MARKET PRICES OF OTHER ENERGY CARRIERS 
+Figure 1.8 presents the unregulated annual average consumer prices for gasoline and diesel for the period 2005 
+- 2016. Comparing values shows that average prices in 2016 were lower than their long-term average values: 
+For gasoline it was AMD 375 per liter, compared to the average over the period of AMD 398; for diesel it was 
+346 AMD per liter, compared to the average over the period of AMD 370.
+#1.6 ENERGY EFFICIENCY 
+The TIMES model is well-suited to explore how developing scenarios on energy efficiency policy and adoption 
+can play a role in Armenia’s economy, creating conditions for economic growth while improving energy 
+security. By reducing the energy intensity of economic output, energy efficiency is a key element in realizing a 
+safe, sustainable and affordable energy supply, while meeting increasing energy demand and improving quality of 
+life. Under existing conditions of extreme import dependence for fossil fuels, energy that Armenia’s citizens, 
+businesses, and infrastructure do not use is one of the cheapest, cleanest, and most secure energy resources. 
+Government of Armenia policy is to promote energy efficiency in all economic sectors according to definitions 
+formulated in the Law on Energy Efficiency and Renewable Energy (2004), and as articulated in the 
+National Program on Energy Efficiency and Renewable Energy (2007), the Action Plan of 
+Armenian Government for Implementation of National Program on Energy Efficiency and 
+Renewable Energy (2010), the President’s Order on Approval of Armenian Energy Security 
+Concept (2013), the Energy Security Action Plan for 2014-2020 (2014) and the Long-Term (up to 
+2036) Development Pathways of the Armenian Energy Sector (2015). Further, on February 2, 2017, 
+Government of Armenia (GOAM) approved the Energy Efficiency Action Plan for 2017-2018. 
+In 2016 amendments to Law on Energy Efficiency and Renewable Energy were approved by Parliament 
+which included some specific minimum energy efficiency requirements. The amended Law in particular 
+requested the Government to classify economic sectors by their energy intensity levels as high, medium and 
+low and established mandatory energy efficiency and energy management technical requirements for newlybuilt residential apartment buildings and state-funded construction or re-construction. 
+The potential for energy efficiency in all sectors has been assessed repeatedly and remains high, despite 
+the relatively low energy intensity of the economy. Although the GOAM has adopted laws and policies to 
+promote efficiency through various programs as noted, the potential for efficiency improvement remains largely 
+untapped. As energy prices rise, the urgency of accelerating uptake of energy efficiency throughout Armenia’s 
+economy has increased. 
+Nevertheless, up to 2016 obligatory measures to increase energy efficiency and/or to reduce energy 
+consumption levels had not been implemented, so that it was possible to model for the base year only the 
+“Autonomous efficiency improvement” (AEI) factors, which have been introduced as follows: 
+ for Transport – 0.75%/year, ;
+ for Agriculture and Commercial – 0.0%, ;
+ for Industry – 0.1%, and ;
+ for Residential – 0.01%. ;
+These factors show the percentage of efficiency improvement due to replacement of old equipment and 
+devices by new ones of the same type, taking into consideration some reduction of efficiency of old equipment 
+because of depreciation. The AEI factor is in force for the whole planning period. 
+#2. THE INTEGRATED MARKAL - EFOM SYSTEM (TIMES) MODEL 
+PLATFORM AND METHODOLOGY 
+#2.1 THE GENERIC TIMES MODEL PLATFORM 
+The TIMES model platform, a set of tools developed and maintained under the auspices of the IEA - ETSAP, is 
+an economic model generator for local, national, multi-regional, or global energy systems, which provides a 
+technology-rich basis for representing energy dynamics over a multi-period time horizon. The model is usually 
+applied to the analysis of the entire energy sector, but it may also be applied to study single sectors, such as 
+electricity and district heating. The TIMES platform provides an integrated energy systems’ modelling 
+framework that is designed to guide policy formulation over a wide range of energy, economic and 
+environmental planning and policy issues and to help establish investment priorities within a comprehensive 
+framework. 
+Key aspects of TIMES platform include that it: i) encompasses an entire energy system from resource 
+extraction through to end-use demands, as represented by a Reference Energy System network that connects
+all technologies to track to flow of commodities throughout the energy system, see Figure 2.1; ii) employs 
+least-cost optimization to identify the most cost-effective pattern of resource use and technology deployment 
+over time; iii) provides a framework for evaluation of medium- to long-term policies and programs that can 
+impact the evolution of the energy system; and iv) quantifies the costs and technology choices that result from 
+imposition of the policies and program. Utilizing the TIMES model can be a productive tool for fostering 
+stakeholder buy-in and consensus building.
+In adapting the generic TIMES model to a specific country use case, estimates of end-use energy service 
+demands (e.g., car road travel; residential lighting; steam heat requirements in the paper industry; etc.) are 
+provided by the user to drive the reference scenario. In addition, the user provides estimates of the existing 
+stocks of energy-related equipment in all sectors and identifies assumptions relating to the characteristics of 
+available future technologies and present and future sources of primary energy supply and their potentials. 
+Using these as inputs, the TIMES model carries out its optimization to supply energy services at minimum 
+global cost by simultaneously making decisions on equipment investment and operation; primary energy supply; 
+and energy trade. For example, if there is an increase in residential lighting energy service relative to the 
+reference scenario (perhaps due to a decline in the cost of residential lighting, or due to different assumptions 
+on GDP growth), either existing generation equipment must be used more intensively, or new, possibly more 
+efficient equipment must be installed. The choice by the model of the generation equipment (type and fuel) is 
+based on the analysis of the characteristics of alternative generation technologies, on the economics of energy 
+supply, and on environmental criteria. As shown in Figure 2.2, the TIMES model platform is a vertically 
+integrated model of the entire extended energy system.
+Finally, it should be noted that in TIMES, as in its MARKAL model forerunner, the quantities and prices of the 
+various commodities are assumed to be in equilibrium, i.e. prices and quantities in each time period are such 
+that suppliers produce exactly the quantities demanded by consumers. Thus, this equilibrium has the property 
+that total economic surplus is maximized. 
+#2.2 DRIVING THE TIMES MODEL VIA SCENARIOS 
+The TIMES model is particularly suited to explore possible energy futures based on contrasted scenarios. Given 
+the long time-horizons that are typically simulated with the model, the scenario approach is the most effective 
+choice (whereas for shorter time periods econometric methods may provide more useful projections). A 
+scenario consists of a set of coherent assumptions about the future trajectories of the main drivers of the 
+energy system, leading to a coherent organization of the system under study. In the TIMES platform, a 
+complete scenario consists of four types of inputs: energy service demand curves, primary resource supply 
+curves, a policy setting, and descriptions of a complete set of existing and available future technologies. 
+#2.2.1 THE DEMAND COMPONENT OF A TIMES SCENARIO 
+In the case of a country-specific version of the TIMES model, the main drivers are: Population, GDP, GDP per 
+bf hhldd l OhdfTIMES dl dd d demands over the relevant planning time horizon. This is done by choosing and applying elasticities of demand 
+to their respective drivers. As noted earlier, the demands are user-provided for the reference scenario only. 
+When the model is run for alternate scenarios (e.g., an emission constrained case, or a set of alternate 
+technological assumptions), it is likely that the demands will be affected. The TIMES model has the capability of 
+estimating the response of demands to the changing conditions of an alternate scenario. To do this, the model 
+requires an additional set of inputs for the assumed own-price elasticities of the demand. In this case, the 
+TIMES model is then able to adjust the demands endogenously to the alternate cases without exogenous 
+intervention; that is, the TIMES model is driven not by demands but by demand curves. 
+#2.2.2 THE SUPPLY COMPONENT OF A TIMES SCENARIO 
+The second constituent of a TIMES model scenario is a set of supply curves for primary energy and material 
+resources. Multi-stepped supply curves are easily modeled in TIMES, each step representing a certain potential 
+of the resource available at a particular cost. In some cases, the potential may be expressed as a cumulative 
+potential over the model horizon (e.g. reserves of gas, crude oil, etc.), as a cumulative potential over the 
+resource base (e.g. available areas for wind converters differentiated by velocities, available farmland for biocrops, roof areas for PV installations) and in others as an annual potential (e.g. maximum extraction rates, or 
+for renewable resources the available wind, biomass, or hydro potentials). Note that the supply component 
+also includes the identification of trading possibilities, where the amounts and prices of the traded commodities 
+are determined either endogenously or within user-imposed limits. 
+#2.2.3 THE POLICY COMPONENT OF A TIMES SCENARIO 
+Insofar as some policies impact the energy system, they become an integral part of scenario definition. For 
+instance, a reference scenario may ignore emissions of various pollutants, while alternate policy scenarios may 
+enforce emission restrictions, or emission taxes, etc. The detailed technological nature of the TIMES model 
+allows for simulation of a wide variety of both micro measures (e.g. technology portfolios, or targeted subsidies 
+to groups of technologies) and broader policy targets (such as a general carbon tax or permit trading system 
+on air contaminants). A simpler example might be a nuclear policy that limits or expands the future capacity of 
+nuclear plants. Another example might be the imposition of fuel taxes, or of targeted capital subsidies, etc. 
+#2.2.4 THE TECHNO-ECONOMIC COMPONENT OF A TIMES SCENARIO 
+The fourth constituent of a TIMES model scenario is the set of technical and economic parameters assumed for 
+the transformation of primary resources into energy services. In the TIMES model, these techno-economic 
+parameters are described in the form of technologies (or processes) that transform some commodities into 
+others (fuels, materials, energy services, emissions). In the TIMES model, some technologies may be user 
+imposed, while others may simply be available for the model to choose from. The quality of a TIMES model 
+rests on a rich, well-developed set of technologies, both current and future, for the model to choose from. 
+This emphasis on the technological database is one of the main distinguishing factors of the class of bottom-up 
+models to which TIMES belongs. Other classes of models will tend to emphasize other aspects of the system 
+(e.g. interactions with the rest of the economy) and may treat the technical system in a more succinct manner, 
+e.g., via aggregate production functions. 
+#2.3 THE TIMES-ARMENIA MODEL PLATFORM 
+Following the generic process described above, as described in the following Chapter the TIMES-Armenia 
+model incorporates the key inputs as presented in the following lists with Times-Armenia Key Inputs:
+#Energy Balance 
+Most recent overall energy balance, showing for each fuel: ;
+‐ Supply by source ;
+‐ Use of electricity/heat and distribution losses ;
+‐ Use of different energy carriers in demand devices ;
+‐ Consumption by sector;
+#Resources
+ Annual production maximum and associated price ;
+ Total proven reserves;
+#Technologies 
+ Existing stock of power plants and devices;
+ Fuels in/out, efficiency, availability in each milestone year, 
+technical life duration;
+#Demand Services 
+ Level of energy service to be met in each period;
+ Simplified electricity load duration curve and seasonal gas use ;
+ Amount of fuel switching permitted over time;
+#Global
+ Length of each season/time of day;
+ Discount rate, electricity reserve margin;
+These inputs are then combined with defined policy scenarios as depicted in Figure 2.3 and lead to the key 
+results as presented in the follwing lists: 
+#Total Energy & System Cost
+Total discounted cost of all fuel purchases, power plant builds, device purchases, 
+operating & maintenance costs over the entire planning horizon;
+#Resources
+Annual production level, and marginal price if constrained and limit is reached;
+#Technologies 
+ Total installed capacity in each period;
+ Annual new power plant builds and expenditure ;
+ Annual fixed and variable operating and fuel costs ;
+ Annual & season/time of day (for power plants) utilization ;
+ Marginal cost, if constrained and limit is reached;
+#Energy Carriers
+ Annual amount consumed by each technology & by sector ;
+ Marginal price (by season/time of day for electricity);
+#Demand Services
+ Marginal price of meeting each demand;
+ Change in level of demand (if elastic formulation used) ;
+#Emissions
+ Emission level by resource/sector & fuel for each period ;
+ Marginal costs, if limited;
+#3. THE TIMES-ARMENIA MODEL AND ITS BASELINE-REFERENCE SCENARIO
+#3.1 SCENARIO MODELLING 
+Having described the structure of the TIMES-Armenia model in the previous section, the model was then 
+calibrated for the base year (2016), the first modelling year. The task of then assembling a view of the future 
+Baseline Reference Scenario was undertaken starting with the preparation of the future demand projection, 
+future fuel prices, the power sector presently, and the suite of demand-side options as discussed in the 
+following sections. 
+#3.1.1 KEY ASSUMPTIONS FOR DEMAND DRIVERS 
+The key assumptions regarding the main drivers used to project future demand for energy services, income (as 
+reflected by GDP) and population levels and growth rates, are shown in Table 3.1, below. 
+Given the predominance of gas in Armenia’s energy balance, it is further assumed that the natural gas price in 
+Armenia will reach the European level by 2027 (IEA projection: Section 4.3 of World Energy Outlook 2018, 
+International Energy Agency) and then follow it, as presented in Figure 3.1 (Blue line). The same trend is 
+assumed for the gas price at power plant input points (Figure 3.1, Orange line). 
+Prices for oil products and coal are forecast in accordance with European trends (IEA World Energy Outlook
+2018), with a starting point from the real Armenian prices for 2016, corrected to 2018. It is assumed that the 
+price of main oil products will increase around 123% by 2036, to reach the following levels: LPG, US$ 0.43/l; 
+gasoline, US$ 0.987/l; diesel, US$ 1.049/; kerosene, US$ 1.437/l, aviation gasoline, US$ 1.261/l; and jet fuel, US$ 
+1.163/l. Nuclear fuel prices for modelled nuclear power plants are taken the same based on the special study 
+results provided by the Ukrainian National Nuclear Electricity Generation Company Energoatom9. 
+Finally, accounting for the current electricity-for-natural gas swap contract is a critical assumption. The swap 
+contract calls for imports of gas from the South at no direct cost, but in exchange for electricity exports at a 
+rate of 1 m3 of gas = 3 kWh of electricity. It is assumed that both the swap contract and net imports from 
+Georgia are held constant at their 2018 levels through the end of the planning period (2036); i.e., net exports 
+to South will amount to 1.52 TWh per annum, and net imports from Georgia will be 74.5 GWh p.a. 
+#3.2.1 DEMAND PROJECTIONS FOR USEFUL ENERGY 
+Demand projections in the TIMES model are developed for useful energy services; e.g., lighting, cooling, 
+heating, food preparation, transportation of people and goods, etc.10 The fundamental TIMES model 
+requirement is to meet projected levels of useful energy demand in all sectors and sub-sectors, choosing those 
+fuels and technologies that do so at minimum costs for the total system. 
+Useful energy demand is related to GDP or demographic parameters via elasticities. These elasticities 
+represent how much useful energy growth depends on the growth in GDP, or in GDP per capita. Elasticities 
+vary for different sectors and end-use applications and they have been analyzed from historical data available in 
+the Yearbooks of the Statistical Committee of the Republic of Armenia and estimated using expert judgment. 
+As the economy grows, the overall demand for energy will increase. Based on analyses of available 
+retrospective statistical data and assumptions of the working team, end-use energy forecasts by sector were 
+prepared. The structure of projected useful energy demand and its growth for 2018 – 2036 is shown in Table 
+3.2 and illustrated in Figure 3.2. 
+The Residential sector accounts for the biggest share of useful energy demand in overall energy up to 2036, 
+following by the Commercial sector, which in the last planning years is slightly less than the share of Residential 
+(around 40% each). Agriculture accounts for less than 1% of useful energy demand, with Industry accounting 
+for the remainder. It should be noted that all economic sectors increase in terms of their value of energy 
+demand, with average annual growth rates ranging from 0.2% to 4.4%. 
+The main demand drivers of demand growth for the Agriculture, Commercial, Industry and Freight transport 
+sectors are GDP and sector elasticity to GDP growth. For the Residential and Passenger transportation 
+sectors, the main drivers are GDP per capita and sector elasticity to GDP per capita growth. In addition, 
+sector specific demand drivers were also applied, e.g., degree-days (for heating and cooling) in the Commercial 
+sector, and Population and Changes in the number of new and existing houses for the Residential sector. The 
+values of various elasticities have been established based on the general tends and expert opinion in working 
+team decisions. 
+In addition, the main sector-specific assumptions influencing projected growth of useful energy demand can be 
+summarized as: 
+ Agriculture: The small growth rate is expected due to low possibilities to expand agriculture. For this 
+sector, the elasticity was taken as 0.2 for all demand types and for the entire planning period, as the 
+result of low demand growth for electricity used for water pumping and tractors ;
+ Commercial: It is assumed that development of the Commercial (Service) sector will be based on broad 
+development of hotels, restaurants, shops, etc. This is expected to result in relatively high growth of 
+demand for space cooling and heating, lighting, cooking, etc. For this sector, the elasticity has taken as 0.6 
+for all demand types (space cooling, space heating, cocking, lighting, hot water and other appliances) and 
+for the entire planning period. ;
+ Industry: It is assumed that the demand growth will be mainly driven by the Food & Tobacco sub-sector 
+and by development of the non-metallic minerals sub-sector. The elasticity for these sectors has been 
+taken as 0.9 for the entire planning period. This assumption was made based on the analysis of available 
+Armenian energy balances for recent years and on industry data as presented in the Yearbooks of the 
+Armenian Statistical Committee. (https://www.armstat.am/en/?nid=586) ;
+ Residential: Due to the projected slight decrease in population, the main demand driver, i.e., GDP per
+capita, still grows. In terms of the TIMES modelling logic, this means that living conditions will improve, 
+which allows the population the possibility to buy more appliances, in addition to existing ones. More 
+space in homes and apartments will be heated (e.g., a country-specific issue today is heating of part of 
+flats/homes). Also, the number of people per household is projected to reduce, which means that the 
+number of apartments would increase and more energy will be needed for space heating and cooling, 
+lighting, etc. The model also includes other drivers which will lead to reduced energy consumption, such 
+as the demolition rate of old buildings and replacement with more energy efficient new buildings, and 
+internal improvement of appliances’ efficiency, even when replacing the same one. All of these drivers are 
+captured in the model and the results show that on net, consumption will increase. Two elasticities have 
+been defined for Residential sector: That for space heating, space cooling, hot water preparation is 
+assumed at 0.4; and that for cooking and other appliances at 0.2.; 
+ Transport: It is assumed that the growth of the population’s standard of living, combined with 
+Commercial sector development will require more differentiated types of passenger and freight vehicles, 
+which will result in growth of Transportation end use energy demand. Sector elasticities for buses are 
+distributed through the planning period, dropping from 1.3 in 2018 to 0.25 in 2036. For passenger 
+carrying international aviation, the elasticity is kept constant at 0.51. For heavy-duty vehicles, cargo 
+international aviation, and commercial trucks the elasticities will decrease from 1.1 to 0.95. For rail 
+passenger transportation the sector elasticity is set at 0.64, and for freight rail transportation at 0.5.; 
+#3.2 EXISTING ELECTRICITY GENERATION FACILITIES 
+Table 3.3 describes the relevant and economic parameters for existing power plants included in the TIMESArmenia model.
+For existing power plants, variable and fixed O&M costs are based on 2018 data for the tariff structure as 
+provided by the Public Services Regulatory Commission (PSRC). For model purposes, fuel costs that are included 
+in PSRC tariff calculations have been removed and variable cost recalculated in accordance with modeling 
+requirements. 
+Finally, it should again be noted that TIMES-Armenia model has been calibrated for 2018 using the available 
+baseline year data for 2016. In the first quarter of 2019, the PSRC monthly data on electricity generation, 
+electricity and natural gas transmission, export, import and sectoral distribution of consumption for 2018 
+became available. Using these data, existing power plant characteristics were checked and adjusted to bring the 
+calculation results in line with actual results. These also provide the corrected starting point for calculations 
+over the full forecast period through 2036. 
+#3.3 CANDIDATE ELECTRICITY GENERATION FACILITIES 
+In addition to existing generation capacities that are and will be available in the system over the planning 
+horizon to 2036, Tables 3.4 and 3.5 below describe the candidate technologies that are included in the TIMESArmenia model, including seasonal capacity factor for variable renewable energy sources (VRES). Detailed 
+background on the data sources and assumptions are presented in Appendix 2. Investment costs in this table 
+reflect the possible changes in costs for any given technology over time, so that a constant value means that no 
+changes in costs are foreseen for the planning horizon. Discount and interest rates are considered in TIMES 
+Armenia model and used during the calculations.
+#3.4 KEY PARAMETERS FOR ENERGY EFFICIENCY 
+One of the advantages of the TIMES modelling tool is its ability to simulate and optimize demand-side 
+consumption. For the Initial Unconstrained Baseline (IU BASE) Scenario, no one activity is forced and the tool 
+itself chooses the most economically attractive demand technologies to be implemented in the system. The 
+model contains an extensive database with different types of demand technologies, presented as “Standard”, 
+“Improved”, “Best” and “Advanced”. The main parameters describing each technology are cost, efficiency and 
+the initial year within the planning horizon when such technology could be available, as well as fuel type used. 
+Depending on the whole system cost calculated for each milestone period, as well as for entire planning 
+horizon, and based on the costs for supplied energy carriers, the TIMES model chooses the least cost demand
+option applicable for the current state. In the IU BASE scenario, the rate of penetration of
+Improved/Better/Advanced devices is limited to 17.5% by the end of the planning horizon. 
+Because the Government of Armenia has not yet put in place any obligatory requirements for implementation 
+of energy efficiency activities, the market uptake of Improved, Better and Advanced technologies is constrained. 
+The common assumption on the upper limit of “Improved” technologies for Agriculture, Commercial, Industry 
+and Residential sectors is 10%. In addition, the Agriculture sector is allowed to change existing technologies by 
+“Best” (10%) and “Advanced” (10%), the Commercial sector by “Advanced” (2.5%), and the Residential sector 
+by “Best” (5%) and “Advanced” (2.5%). For the Industrial sector neither “Best” nor “Advanced” technologies 
+are allowed, while for the Transport sector, implementation of all new technologies types are limited to 10%, 
+based on the relatively limited retrospective data available for Armenia, combined with expert review and 
+judgement of available experience by the DWG and SRIE team. 
+#3.5 MAIN ASSUMPTIONS FOR THE INITIAL UNCONSTRAINED BASELINE SCENARIO 
+Summarizing the key model assumptions as detailed in the sections above, we note in particular: 
+ GDP growth is assumed constant after 2022, at the level of 4.5% per year (sensitivities to higher or lower 
+rates will be examined in subsequent scenarios); 
+ While population is assumed to have a small negative growth rate, thus slightly decreasing over the 
+planning period, residential demand for useful energy still grows on average by 1.7% annually; 
+ The commercial sector is the main contributor to demand for useful energy, with average annual growth 
+of over 4.4%; 
+ The agriculture and industrial sectors contribute less to the growth of demand for useful energy, with 
+average annual growth rates of around 0.2% and 2.2%, respectively; 
+ The gas price is assumed to increase, reaching the European prices level in 2027 (US$ 299/1000 m3) and 
+growing at the same rate thereafter; 
+ Electricity losses are assumed to maintain a total of 8.2% for transmission and distribution systems; 
+ Net electricity exports to South are held constant at the 2018 level (1,515.2 GWh) for the planning 
+horizon; net electricity imports from Georgia and from Artsakhenergo are assumed to remain unchanged 
+at their 2018 levels, 74.5 GWh and 17.2 GWh respectively, for the planning horizon; 
+ Both the Yerevan CCGT2 (RENCO) thermal plant and the Masrik-1 grid connected solar PV plant, which 
+are already financed and have set Commercial Operation Dates are introduced in the system at those 
+dates; and 
+ No other technical limitations are imposed on the introduction of new power generation candidate 
+technologies in the system for the planning horizon. ;
+#3.6 SUMMARY RESULTS OF INITIAL UNCONSTRAINED BASELINE SCENARIO 
+The following discussion summarizes the main findings of the TIMES-Armenia initial model Baseline Scenario 
+calculation results, in which no further constraints than those noted above have been introduced. It is useful to 
+reiterate that the purpose of this exercise is to provide a starting point and framework for further analysis, 
+focused on the sole criterion of least cost entry of new generation in the system to ensure that projected 
+demand is met. Based on the results of this scenario, further adjustments may be made before examining a 
+series of practical scenarios and sensitivities that will be developed in order to provide inputs for policy and 
+planning considerations for Armenia’s energy sector. 
+Starting with the projection of main energy sources over the planning time horizon, presented in Table 3.6, we 
+hl ibfhdiih ihiTl PiESl(TPES) staying at around 58% in the period following the exit from the system of the ANPP in 2027, having declined to
+just under 50% in the period around 2024. Nuclear energy remains a significant supply source, accounting for 
+up to 25% of TPES, until the ANPP exits from the system. Renewable energy sources increase dramatically 
+over the planning period, rising from around 6% of TPES to 24%. The share of oil products in TPES rises slightly 
+from 10% to 12 % over the planning period.
+Given the continuing large role of gas in TPES, albeit balanced by the rise of renewable energy sources later in 
+the planning period, we considered whether the capacities of existing gas pipelines might cause possible gas 
+supply restrictions. The results, presented in Table 3.7, indicate that at the end of planning period, the gas 
+supply level from Russia will be just under 55% of maximum capacity of pipeline.
+The final energy consumption (FEC) by sectors and fuel types is presented in Table 3.8. As can be seen, the 
+main energy source consumed for the Agriculture sector, which accounts for less than 2% of total FEC, is oil 
+products, remaining around 77% throughout the planning period. For the Commercial sector, whose share of 
+total FEC rises from 16% to over 20% over the planning period, the main sources of energy consumed are 
+natural gas and electricity; the former covering 57% and the latter 42% of sectoral demand respectively, with a 
+slight shift over the planning period from gas to electricity. In the Industry sector, whose share of total FEC 
+rises very slightly from just under 15% to just over 16% over the planning period, the main sources of energy 
+consumed are again natural gas and electricity; the former accounting for 50% and the latter 43% of sector 
+demand respectively, here with a slight shift over the planning period from electricity to gas. The main sources 
+of final energy consumption in the Residential sector are natural gas, electricity, and biofuels, accounting for 
+around 63%, 19% and 18%, respectively, with very slight shifts over the planning period away from gas and biofuels and toward electricity. Finally, in the Transport sector, FEC is almost entirely split between natural gas 
+and oil products, the former accounting for 59% and the latter 40%, respectively, with a slight decrease in the share of natural gas over the planning period given a small increase in electricity use in the sector. 
+required to ensure safe and uninterrupted operation of all the technologies and installations not only in the
+supply, transmission and distribution systems, but also for all consumer (demand) needs.
+As can be seen in Figure 3.3, the largest share of total system cost for entire planning period is allocated for 
+investments (45%), while the next largest portion (28%) is for fuel. Fixed costs and variable costs (excluding fuel) 
+account for 14% and 13% of overall costs respectively. 
+Finally, the least-cost configuration of the power sector as determined by the TIMES-Armenia model is 
+presented in Table 3.9, showing the Initial Unconstrained Baseline Scenario for total installed capacity in each 
+period, in MW. In addition to existing generation units, this scenario includes the introduction of the RENCO 
+gas-fired CCGT and the Masrik-1 solar PV power plants according to their scheduled Commercial Operation 
+Dates, and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their current 
+operational lifetimes, 2027 and 2021, respectively. 
+In this Least-Cost Baseline, with no other limitations on choice of technology, by the end of planning period the 
+model results show an added capacity of 2,931 MW of grid-connected Solar PV, 1,091 MW of Wind Farms and 
+107 MW of added Small HPPs. The quantity of electricity generation by each technology or plant (in GWh) 
+over the planning period is presented in Table 3.10. 
+These results show clearly that, taken from a cost perspective only and leaving aside any other possible 
+technical constraints, extensive implementation of grid-connected solar PVs along with wind farms (Variable 
+Renewable Energy Sources – VRES) are economically the most attractive sources of new electricity generation 
+over the period to 2036. As a practical matter, planning for and realizing such extensive growth of VRES could 
+clearly create operational challenges for the electricity system. As large amounts of new grid connected VRESs 
+are introduced, the model shows a decline in production of Small HPPs, which are almost exclusively run-ofriver. This is driven in part by the fact of maximum solar generation during summer time (especially in June), 
+when large amounts of hydro generation are also available, although the model limits generation by these Small 
+HPPs at these times as higher cost. In the winter, when power system peak is in the evening and solar is not 
+producing, the compensating generation cannot be from Small HPPs but is rather met by operation at full 
+capacities of the RENCO and Yerevan CCGT plants. Given system operational constraints of having such large 
+amounts of VRES on the system from solar PV, this could imply the need for implementation of storage 
+technologies, although these are available and are not among the selected least-cost solutions. Another possible 
+approach to overcome potential system stability problems would be to limit annual construction of gridconnected solar PV plants. In fact, we explore this in the next case, which describes our proposed Baseline - 
+Reference Scenario.
+Summarizing the Initial Unconstrained Baseline (IU BASE) Scenario, Figures 3.4 and 3.5 show the pattern of
+new generation added to the system by type and the associated total lumpsum projected investment 
+expenditures over the planning period, which amounts to roughly US $3.17 billion to add around 4,409 MW of 
+capacity. After decommissioning of the ANPP in 2027, the model indicates the power system should build 
+around 1,091 MW of new power capacities to cover the gap of electricity production, which is added from 
+wind farms as the lowest cost technology at that time with average annual capacity factor (0.31) suitable to 
+cover about 340 W of the lost base load capacity and match system load needs. During the last three planning 
+periods a further 1,283 MW of generation capacity is added to cover the growth of demand, which the model 
+adds through the addition of Solar PV as the least cost alternative. 
+#3.7 BASELINE-REFERENCE SCENARIO (BASE-R) WITH LIMITATION OF VRES 
+Results of the Initial Unconstrained Baseline (IU BASE) Scenario clearly highlighted the cost-based preference 
+for significant implementation of grid-connected wind and solar PV generation. At the same time, such a 
+substantial expansion also raises questions of the required further analysis of system technical issues associated 
+with adding very large amounts of VRES, e.g., system stability and dispatching issues, as well as of ensuring 
+realistic time frames for development of those resources and the availability of domestic capacity to do so at 
+such large scale. While these issues suggest that it could be reasonable to look at more limited expansion of 
+VRES, there are also significant benefits for domestic energy security that would arise from displacing imported 
+gas or nuclear fuels with VRES and which in turn would suggest that renewable generation expansion should be 
+promoted as much as practically possible. To reflect these aspects of concern, the following scenario, which we 
+develop as the Baseline-Reference Scenario (BASE-R), imposes a certain limitation on grid-connected solar PV 
+and wind generation expansion. In particular, the following sections develop the BASE-R Scenario in which 
+total VRES development is capped at 2,000 MW, of which grid-connected solar PV can be at maximum 1,500 
+MW over the planning period and wind generation at 500 MW. Based on wide discussion with Armenian solar 
+experts it was assumed that construction capacities would be limited to around 100 MW per annum, which 
+would imply around 1,600 MW over the planning horizon 16 years. As a practical matter, based on current 
+construction tendencies it was decided to impose the limit at 1,500 MW over the planning horizon. 
+Once we have compared this BASE-R Scenario to the IU BASE Scenario presented in the previous section, in 
+Chapter 4 we will then proceed to use the BASE-R Scenario as the point of comparison for examining further 
+the alternate policy scenarios that have been identified by key sector stakeholders as of interest in looking to 
+reshape the evolution of the Armenian energy system. 
+#3.7.1 MAIN ASSUMPTIONS FOR THE BASELINE-REFERENCE (BASE-R) SCENARIO 
+The BASE-R Scenario maintains the same assumptions regarding key demand drivers and hence the same 
+projected growth of sectoral demands for useful energy as in the IU BASE Scenario (Section 3.5 above); it also 
+retains the same assumptions related to gas prices, electricity losses, net exports, energy efficiency adoption 
+rates and inclusion of Yerevan CCGT2 and Masrik-1. In addition, the BASE-R Scenario introduces the following 
+assumptions related to limiting VRES deployment over the period from 2020-2036: 
+ Introduction of new VRES generation capacity is limited to 1.5 GW for solar PV (central and 
+decentralized) and 0.5 GW of wind. ;
+ Annual maximum new capacity additions are capped at 100 MW for central solar PV, 4/5 MW for 
+Residential/Commercial rooftop PV, and 50 MW for wind. ;
+ No other technical limitations are imposed on the introduction of new power generation candidate 
+technologies in the system for the planning horizon. ;
+#3.7.2 SUMMARY OF BASE-R SCENARIO RESULTS 
+Starting again with the projection of main energy sources over the planning time horizon, Table 3.11 shows 
+that natural gas remains by far the dominant source, with its share in TPES at around 68% in the period 
+following the exit from the system of the ANPP in 2027, having declined to 50% prior to that period. In fact, 
+compared to the IU BASE Scenario, gas increases its share of TPES by about 10% after 2027 and its amount by 
+around 25% as a result of limiting VRES builds. In the BASE-R Scenario, RES increases around two and a half 
+times over the planning period, with its share rising from 6.6% of TPES to nearly 16% by 2030, as the new 
+generation reaches its assumption-allowed limits. No other sources of primary energy supply show significant 
+changes from the IU BASE scenario.
+Given the continuing large and expanded role of gas in TPES with the limitation of RES implementation, we 
+again considered whether capacities of existing gas pipelines might cause possible gas supply restrictions. The 
+results indicate that by the end of planning period, the gas imports from Russia would increase to 2.58 billion 
+m3 or just under 71% of maximum capacity of pipeline (see Table 3.7 above).
+The FEC distributed by sectors and fuel types is presented in Table 3.12, which shows no significant changes
+when compared to the FEC in the IU BASE Scenario (Table 3.8 above). 
+Figure 3.6 presents the net present value of the sum of all costs, as projected by the model, that are associated 
+with ensuring development and operation of Armenia’s energy system to meet the projected energy 
+consumption over the period to 2036, as total of US $41.0 billion, which is higher than Base case without 
+renewables limitation by US$ 512 M, an increase of 1.3%. As noted earlier in the discussion of Figure 3.3, these 
+projected costs comprise all costs associated with supply of energy, generation of electricity and with the enduse demands for energy across all five sectors of the model, i.e., Agriculture, Commercial, Industry, Residential, 
+and Transport. 
+As shown in Table 3.13, which summarizes the levels and changes in total discounted system development 
+costs between the IU BASE Scenario and the Baseline-Reference Scenario, in fact the 2% overall increase in 
+costs associated with the imposed limitation on VRES generation expansion masks a 2.9% decrease in 
+investment costs and a 10.4% increase in fuel costs, largely associated with the increased use of gas. 
+Figure 3.6. Structure of Total Discounted System Cost to 2036 (US$ Million, %)
+Finally, the least-cost configuration of the power sector as determined by the TIMES-Armenia model is 
+presented in Table 3.14, showing for the BASE-R Scenario the total installed capacity in each period in MW. As 
+noted earlier, in addition to existing generation units, this scenario includes the introduction of the RENCO 
+gas-fired Yerevan CCGT2 and the Masrik-1 solar PV power plants according to their scheduled Commercial 
+Operation Dates and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their 
+current operational lifetimes, 2027 and 2021, respectively. In addition, the limitation of VRES to 1.5 GW of 
+Solar PV and 0.5 GW of Wind farms is in force. 
+In the BASE-R scenario, by the end of planning period the model results show an added capacity of grid
+connected Solar PV and Wind Farms near their upper permissible levels, with 1,500 MW of all types of solar 
+PV and 503 MW of wind, as well as 107 MW of new Small HPPs (against the existing 328 MW; see Table 3.3 
+above), plus 75 MW of medium-size hydropower from the Shnokh HPP (from 2027) and finally at the end of 
+the planning period of the 66 MW Loriberd HPP. Both of these last-named HPPs represent the next cheapest 
+generation technologies following solar and wind. It is useful to note again that in finding the least-cost solution, 
+the TIMES-Armenia model takes into consideration not only the associated costs, but also efficiencies and 
+availability factors for these HPPs. 
+The quantity of electricity generation by each technology or plant, in GWh, over the planning period is 
+presented in Table 3.15. As the limited amounts of new VRES are introduced, the model shows relatively 
+stable generation by most of the other power plants. Only generation at RENCO CCGT declines slightly 
+between 2020 and 2024, while generation of Hrazdan 5 TPP is needed only in a relatively small amount at the 
+end of planning period. 
+Figures 3.7 and 3.8 show the pattern of new generation added to the system by type and the associated total 
+lumpsum projected investment expenditures over the planning period, which amounts to roughly US $1.89 
+billion for 2,457 MW of added capacity. In the period of decommissioning the ANPP in 2027, the model 
+indicates the power system should add around 540 MW of new power capacity to cover the gap of electricity 
+generation, which is added from the lowest cost technologies at that time - Solar PV (300 MW), wind farm 
+(150 MW) and medium-sized Shnokh HPP (75 MW). During the last three planning periods to 2036, an 
+additional 875 MW of generation capacity is added to cover the growth of demand; again, this comprises new 
+VRES investment in Solar PV (714 MW), wind farms (95 MW) and the medium-sized Loriberd HPP (66 M).
+#3.7.3 SELECTED COMPARISONS WITH INITIAL BASELINE SCENARIO 
+In addition to the observations in the preceding section comparing TIMES-Armenia model projections for the 
+IU BASE and BASE-R Scenarios, we highlight the following points:
+As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the
+volume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in 
+TPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 – 23 PJ, on average 
+increase over the period 2027-2036 of 27%.
+As shown in Figure 3.10, the assumed limitation on implementing new generation from VRES reduces the
+overall total (undiscounted) lumpsum level of investment in new generation by 40%, from US$3,170 million to 
+US$ 1,891, which is the combined result of the much-reduced level of solar PV and wind investment, offset 
+partly by the increased HPP investments and higher utilization of the existing gas-fired thermal generation. 
+Thus, the reduced new generation investment funding need of US$ 1,279 million is also associated with 
+significantly higher fuel expenditures. As the limited implementation of VRES results in additional natural gas 
+demand of roughly 26.5% relative to IU BASE by 2036, this amounts to an additional total of approximately 
+7.62 billion m3 of gas over the planning period, which would be the assumed gas prices require an additional 
+(undiscounted) US$ 2.36 billion.
+#4. SELECTED SCENARIOS FOR THE ARMENIAN ENERGY SYSTEM: 2020-2036 
+This Chapter provides a summary of key results in comparing the Baseline-Reference (BASE-R) Scenario with a 
+set of alternative scenarios identified as of interest by key sector stakeholders. Full detailed outputs for each 
+Scenario are presented in Annex 4. 
+#4.1 GDP GROWTH SENSITIVITY ANALYSES 
+#4.1.1 SENSITIVITY ANALYSES DESCRIPTION 
+The BASE-R scenario assumed that GDP growth will stay constant after 2022, at the level of 4.5% per year. 
+Taking into consideration that GDP is the main driver of demand growth, two sensitivity scenarios have been 
+modeled to analyze the influence of different GDP growth rates on the Armenian energy system’s least cost 
+development pathway. In particular, the cases of a 50% higher growth rate (6.75% per year) and a 50% lower 
+rate (2.25% per year) have been analyzed. Figure 4.1 below shows the modelled levels of GDP for each 
+milestone year at the three growth rate levels.
+#4.1.2 GDP GROWTH SENSITIVITY RESULTS 
+As anticipated, Table 4.1 shows that total system costs are estimated to increase by around 12.2% in the case 
+with a 50% higher GDP growth rate and to decrease by 7.0% in scenario with a 50% lower GDP growth rate as 
+compared to the BASE-R scenario. With higher GDP growth reflecting broader development of the economy 
+at large, this results in an increase of energy use to cover the enlarged demand. It is interesting to note that 
+while the higher rate of GDP growth leads to an overall level of GDP nearly 47% higher than in the BASE-R 
+scenario, energy system costs increases by a significantly lower percentage. Similarly, while the lower level of 
+GDP growth leads to lower energy system total costs, the reduction of 7% is less than the overall decrease in 
+GDP of 23% compared to BASE-R.
+As shown in Table 4.2 below, in case with a 50% higher GDP growth rate, the overall increase in TPES is 6.3%, 
+which is largely due to the additional use of imported natural gas as compared to BASE-R by around 138 PJ 
+(roughly 4.0 billion m3), followed by oil products at around 52 PJ, and by RES reaching 7 PJ over the entire 
+planning period. Again, as with total system costs, this increase in TPES is significantly lower than the overall
+increase in GDP, indicating a reduced energy intensity of economic activity. In case of a 50% lower rate of GDP
+growth, reduced demand results in less use of imported natural gas by 83 PJ (around 2.4 billion m3), of oil 
+products by 29 PJ and of RES by nearly 3 PJ as compared to the BASE-R scenario, again with TPES declining in 
+percentage terms by less than the overall decrease in GDP. Figure 4.2 below illustrates the changes in 
+composition of TPES as compared to the BASE-R scenario for each of the GDP growth scenarios.
+As shown in Table 4.3 below, the higher GDP growth rate results in an increase of FEC by 7.5%, slightly higher 
+than in the growth of TPES. Referring to the more detailed outputs of the TIMES Armenia model, the data 
+show that the higher income growth in fact creates possibilities to use more efficient and more expensive 
+technologies on the demand side. This is also seen from Table 4.4, where the amount of money spent to 
+purchase demand devices increases by almost 19% in comparison with BASE-R scenario. It is useful to note that 
+the significant growth of FEC is driven by increased use of gas and oil products to meet increased demand in 
+the Transport and Residential sectors. The reverse situation is shown in the lower GDP growth rate scenario, 
+in which lower income growth results in a decrease both of FEC by 4.3% and purchases of demand devices by 
+around 11%.
+Table 4.5 presents the TIMES Armenia model results for electricity generation capacity by plant and plant type 
+over the planning horizon for each of the GDP growth scenarios, as well as for the BASE-R scenario. The key 
+notable point, which is the same in both GDP growth scenarios, is that the overall level of all power plant 
+capacity additions remains the same, with some small variations in the timing of additions to the system.
+Figures 4.3 and 4.4 below provide another representation of the TIMES Armenia model results above for new 
+electricity generation capacity added over the planning horizon, which again reiterates the key point that there 
+are no differences in total new power plant capacities by type needed to cover electricity demand between the 
+two GDP growth scenarios as compared to the BASE-R scenario, with only the implementation schedule for 
+new solar, wind and hydro being slightly different, depending on the required consumption level in each time 
+period.
+Figures 4.5 and 4.6 show the aggregate projected generation levels by plant type for each of the GDP growth 
+scenarios and their difference from the BASE-R scenario over the planning horizon. For the case of a 50% 
+higher GDP growth rate, this indicates an increase of roughly 1,879 GWh of total renewable electricity 
+generation and 1,438 GWh of gas-fired production, as compared to the BASE-R scenario, while in the in the 
+case of a 50% lower GDP growth rate these figures show reductions of 803 GWh in generation from 
+renewables and of 982 GWh from gas-fired generation.
+As noted earlier, in both of the GDP growth rate sensitivity cases the main changes in TPES and FEC are
+associated with changing demand for natural gas and oil products in the transport and residential sectors. Thus, 
+there are only slight differences in timing of power system installed capacities and in the structure of electricity 
+generation related to the timing of implementation of different technologies as compared to the BASE-R 
+scenario. As shown in Figure 4.7 and Table 4.6, this is reflected again in virtually no change in the total lumpsum 
+investment in new generation required as compared to the BASE-R scenario.
+Table 4.47 summarizes the comparative fuel costs for electricity generation in each of the GDP growth 
+scenarios, as compared to the BASE-R scenario. Note that in case of a 50% higher GDP growth rate, the 
+additional utilization of gas-fired thermal power plants results in an increase of expenditures on natural gas for 
+electricity generation by $425 million, + 10.0% compared to BASE-R, while in the case of a 50% lower GDP 
+growth rate this is reduced by $254 million or - 6.0% compared to the BASE-R scenario.
+Finally, as shown in Table 4.8, the TIMES Armenia model results confirm that the level of fossil fuel 
+consumption will tend to change GHG emissions in the system as compared to the BASE-R scenario, by a 
+range from an increase of 7.9% in the case of higher GDP growth to a decrease of -4.7% in with the lower 
+GDP rate.
+The TIMES Armenia model analysis of the effects of higher and lower GDP growth rates, covering the range of 
++/- 50% over the period from 2022 to 2036, confirmed expected increases (and decreases) in energy supply, 
+end use consumption and GHG emissions, with interesting impacts from the increased adoption of energy 
+efficient demand devices in the case of rising incomes which lead to an overall pattern of decreasing energy 
+intensity per unit of GDP as income rises (with conversely less impact when incomes fall). The key finding of 
+this sensitivity analysis is that there are no differences in total new power plant capacities by type required to 
+cover electricity demand between the two GDP growth scenarios as compared to the BASE-R scenario, with 
+only the implementation schedule for new solar, wind and hydro being very slightly different depending on the 
+required consumption level in each time period. Thus, there is virtually no impact as well on the investment 
+requirement for new electricity generation capacity as compared to the BASE-R scenario. The only effect of 
+higher income growth lies in the increased (decreased) utilization of existing installed capacity of both RES and 
+gas-fired thermal power plants, with a concomitant increase (decrease) in expenditures on natural gas fuel. 
+Given this key result, no further detailed sensitivity analyses of the impacts of higher and lower growth rates is 
+reported for other scenarios. 
+#4.2 NUCLEAR DEVELOPMENT SCENARIOS 
+#4.2.1 SCENARIOS DESCRIPTION 
+Activities to extend the operational lifetime of the ANPP up to 2027 are already in place and the plant was 
+included in the BASE-R Scenario to be decommissioned from that time. Given that the available nuclear 
+technologies included in the TIMESArmenia model were not selected on the basis of least cost in the BASE-R
+Scenario and that the GOAM as a matter of policy remains committed to maintain some nuclear power in the
+countrys energy mix, the following alternatives for continued inclusion of nuclear generation in the Armenia 
+system are examined: 
+ a) Forced implementation of a new nuclear plant upon ANPP decommissioning, in particular: 
+ Forced implementation of a new nuclear unit with installed capacity 300 MW (Small 
+Modular Reactor - SMR); 
+ Forced implementation of a new nuclear unit with installed capacity 600 MW. ;
+ b) Further life extension of ANPP, in line with international experience and ensuring all required safety 
+upgrades (e.g., in the U.S. extension of NPPs lifetime this could be as long as 80 years 
+(https://www.iaea.org/newscenter/news/going-long-term-us-nuclear-power-plants-could-extend-operatinglife-to-80-years), in particular: 
+ Operating life extension of the ANPP for an additional 5 years after 2027 - up to 2032, 
+with $300 million of additional investment;
+ Operating life extension of the ANPP for an additional 10 years after 2027 - up to 2037, 
+with$600 million of additional investment. ;
+Thus, four (4) Nuclear Scenarios have been developed starting from the BASE-R Scenario and for each of them 
+one of the above forced options has been allowed. 
+#4.2.2 NUCLEAR SCENARIO RESULTS 
+As shown in Table 4.9, life extension of the ANPP to 2032 reduces total energy system cost19 by 0.8%, while 
+extension to 2037 reduces it by 1.2%, principally through reduced use of imported natural gas and the fact that 
+additional investment costs for new generation are reduced. Forcing the build of new nuclear plants increases 
+overall energy system costs compared to BASE-R by from 1.9 – 2.0%, depending on the size of new reactor, 
+where savings associated with reduced fuel costs are more than offset by the higher costs for the new nuclear 
+units which are built.
+Figure 4.8 above shows how the development of the various nuclear options from 2027 will replace other 
+energy sources, primarily imported gas and to a lesser extent RES.20 The data in Table 4.10 below indicate that 
+in all the nuclear scenarios there is an overall increase in TPES21. Because part of the calculation of TPES starts 
+from electricity produced and works backward to fuel used, the fact that NPP efficiency is around 33% means 
+that the forced production of additional nuclear power electricity generation as compared to BASE-R is 
+replacing the gas used in CCGTs, which have an efficiency of around 56%. A further factor contributing to the 
+increase in TPES in these scenarios is that some of the extra electricity replaces gas used directly in demand 
+side devices that have efficiencies more than 60%.
+As a final initial summary point, the comparisons in Table 4.11 below indicate that there is no significant change 
+in overall final energy consumption for any of the nuclear option scenarios as compared to the BASE-R 
+scenario.
+Figure 4.9 presents the projected construction of new electricity generation capacity in MW by type over the 
+period 2020 - 2036 for the BASE-R scenario and the four nuclear option scenarios, which are further 
+summarized in terms of differences from BASE-R in Figure 4.10. After the addition of Yerevan CCGT-2 
+(RENCO), no gas-fired units are added. In both scenarios with new nuclear generation and in the scenario of 
+ANPP extension to 2037, construction of the medium-sized HPPs Loriberd and Shnokh is eliminated, while in 
+the scenario of ANPP extension to 2032 they are retained, although their entry to the system is deferred to 
+the last two periods of the planning horizon. Compared with the BASE-R scenario, all the nuclear option 
+scenarios delay deployment of new solar PV generation capacity, although in all cases the full amount of 
+constrained new solar capacity (1,500 MW) is added during the planning horizon to 2036. Similarly, all the 
+nuclear option scenarios delay deployment of new wind capacity until later in the planning horizon, and in the 
+case of the new-nuclear LWR 600 MW capacity scenario overall new wind generation capacity grows to less 
+than its constrained limit (500 MW) by just over 100MW.
+Table 4.12 summarizes the overall differences in new electricity generation capacity built over the TIMESArmenia model planning horizon for the four nuclear option scenarios as compared to the BASE-R scenario. In 
+the scenario with a 5-year life extension for the ANPP, the total installed capacity of new power plants is the 
+same as in BASE-R, with differences in the timing of the implementation schedule for new hydro, solar, and 
+wind facilities. In the scenario with ANPP life extension up to the end of the planning period, overall new 
+generation capacity is reduced by -5.7%, as noted earlier through the exclusion of new medium-sized hydro 
+plants. In both scenarios that introduce new nuclear capacity after the decommissioning of ANPP, the 
+additional capacity increases of 300 and 600 MW for the new nuclear units is offset by the elimination of 
+medium-sized hydro (141 MW), while in the LWR 600 MW scenario there is a further reduction of new wind 
+generation capacity (by 114 MW). 
+Table 4.13 below presents projected installed electricity generation capacities by plant or plant type for each 
+scenario. As noted earlier, the scenarios including nuclear generation lead to somewhat later introduction of 
+wind, with slightly reduced level compared to constraint limits in the LWR 600 MW scenario, and these 
+scenarios eliminate the addition of medium-sized HPPs, except in the case of ANPP extension only to 2032. 
+Figure 4.11 shows the aggregate projected generation levels by plant type over the planning horizon, which for
+the most part mirrors the installed capacity trends above, with the notable exception of gas-fired plants which 
+show a marked difference by scenario.
+In all nuclear option scenarios the level of gas-fired generation is reduced compared to the BASE-R scenario: by 
+23% when ANPP is extended to 2032 (i.e., 958 million m3 less gas is used over the planning period); by 49% 
+when ANPP is extended to 2037 (with 2,027 million m3 less gas used); by 35% for the new nuclear SMR 300 
+MW option (with 1,511 million m3 less gas used); and by 63% for the new nuclear LWR 600 MW scenario 
+(with 2,638 million m3 less gas used). While no gas-fired capacity is added in any scenario, it is striking that in 
+the scenario when the 600 MW LWR is added to the system the model does not elect to run existing gas 
+plants at all after 2027.
+Table 4.14 summarizes the comparative gas fuel cost savings in each of the nuclear scenarios as compared to 
+BASE-R. While these represent significant savings in imported fuel, they are in general offset by increased 
+investment costs, in particular in the two scenarios with new-build nuclear generation.
+Table 4.15 above presents the lumpsum (undiscounted) investment costs for additional generation capacity by 
+plant type over the planning horizon, while Table 4.16 summarizes the differences in investment levels required, 
+by scenario. Life extension of the ANPP to 2032 increases these investment requirements by 15%, while life 
+extension to 2037 increases these costs by 12%, reflecting both the assumed additional $300 million and $600 
+million of further investment beyond the current program of safety upgrades, respectively, for these extensions 
+and the fact that the longer life extension eliminates the investment required for both the mid-sized HPPs, 
+Shnokh and Loriberd. The options to build a new nuclear replacement for the ANPP increase system 
+investment costs significantly compared to the BASE-R scenario, with the SMR 300 MW requiring just over 
+twice as much investment (an added $2.2 billion) and the LWR 600 MW scenario requiring an additional $3.1 
+billion.
+Finally, the model results confirm that replacing gas fired generation by nuclear power will tend to reduce
+greenhouse gas (GHG) emissions in the system as compared to the BASE-R scenario, by a range from 4.5% to 
+12.2% as shown in Table 4.17.
+#4.3 NATURAL GAS PRICE FROM RUSSIA LOWER THAN EUROPEAN 
+#4.3.1 SCENARIO DESCRIPTION 
+The BASE-R scenario assumed that the natural gas price will increase up to projected European levels by 2027 
+and after that continue to match European levels. Historically Armenia has negotiated gas prices with Russia 
+below these European rates. In this section, the following two scenario versions are presented for trends of 
+natural gas prices lower than European as compared to the BASE-R scenario, in all cases starting from the same 
+initial border gas price effective from January 1, 2019, of US$ 165 per 1000 m3: 
+• EU trend rate to 2036: Rather than imposing the higher initial growth of gas prices required to 
+reach the European level in 2027, this scenario simply applies the EU trend growth rate over the entire 
+period to 2036. ;
+• Growth to $180 by 2027: In this scenario, the border gas prices is assumed to grow to US$ 180 per 
+1000 m3 by 2027, and then to remain fixed at that level until the end of the planning period. (note: 
+2027 is the indicative year as this is the timing for currently- planned shutdown of the ANPP).; 
+It should be noted that in all scenarios it is assumed that the current gas transmission/distribution/supply 
+margin does not change. Figure 4.12 below shows the modelled natural gas border prices for each milestone 
+year.
+#4.3.2 LOWER GAS PRICE TREND SCENARIO RESULTS 
+As shown in Table 4.18, the total system cost is estimated to decrease by around 3.8% in the EU trend to 2036 
+scenario and by around 5.6% in scenario with gas price capped at US$ 180 per 1000 m3 after 2027 compared 
+to the BASE-R scenario. Given the fact that gas plays such a predominant role in the Armenian energy balance, 
+scenarios in which gas prices are significantly lower than European gas prices over the planning horizon would 
+be expected to increase the use of gas as compared to other sources of energy, but any such increase in total 
+system costs is clearly offset by the assumed lower prices of that gas.
+As shown in Table 4.19 below, in both scenarios there is an overall increase in TPES, because of increased use 
+of the cheaper imported natural gas and reduction in implementation of renewable energy sources. In the EU 
+trend to 2036 scenario, replacement of renewables by natural gas results in total additional use of around 32 
+PJ23 of primary energy supply distributed primarily between an increase of 56 PJ (roughly 1.6 billion m3) of
+natural gas and a reduction of renewables by 22 PJ over the entire planning period. In the scenario with the gas
+price capped at $180, there is a 1.5 % increase of TPES, amounting to roughly 49 PJ of additional energy use, in 
+which an additional 85 PJ (roughly 2.4 billion m3) of gas is offset by a 34 PJ reduction of renewables. Figure 4.13 
+below illustrates the changes in composition of TPES as compared to the BASE-R scenario for each of the 
+lower gas price scenarios, indicating the pattern of increase in natural gas supply and reductions of renewables 
+and of oil products, equal to 2.2 PJ for a 1.0% reduction.
+As shown in Table 4.20 below, despite the above-noted changes in the structure of TPES there is virtually no 
+change in FEC. Referring to the more detailed outputs of the TIMES Armenia model, the data show that FEC 
+remains virtually unchanged by fuel and by sector, which is the result of replacing electricity generated by 
+renewable energy sources by that produced in gas-fired power plants. 
+Table 4.21 presents the TIMES Armenia model results for electricity generation capacity by plant and plant type 
+over the planning horizon for each of the lower gas price scenarios, as well as for the BASE-R scenario. The 
+key notable points in both lower gas price scenarios are that no new gas-fired power plant capacity is needed, 
+while the mid-sized HPPS are not required and the overall level of solar and wind capacity additions remain the 
+same, with some small variations in their timing.
+Figures 4.14 and 4.15 below provide another representation of the TIMES Armenia model results for new 
+electricity generation capacity over the planning horizon, which again reiterates that there are no differences in 
+total new power plant capacities by type needed to cover electricity demand between the two lower gas price 
+scenarios as compared to the BASE-R scenario, and only the implementation schedule for renewable energy 
+(wind) is slightly different, depending on the required consumption level in each time period.
+Figures 4.16 and 4.17 show the aggregate projected generation levels by plant type for each of the lower gas 
+price scenarios and their difference from the BASE-R scenario over the planning horizon, respectively. For the 
+EU trend to 2036 scenario, this indicates replacement of roughly 6,186 GWh of total renewable electricity 
+generation by 5,833 GWh of gas-fired production, as compared to the BASE-R scenario, while in the scenario 
+with gas price capped at $180, generation from VRES is reduced by 9,460 GWh and gas-fired generation is 
+increased by 9,401 GWh.
+As noted earlier, in both of the low gas price scenarios the mid-sized HPPs are not built while the expanded
+supply of electricity from gas-fired thermal generation does not require any new capacity. As shown in Figure 
+4.18 and Table 4.22, this results in roughly 20% reduction in the lumpsum investment required, a saving of $377 
+million in the EU trend to 2036 scenario and of $391 million in the scenario with gas price capped at $180, as 
+compared to BASE-R.
+Table 4.23 summarizes the comparative fuel cost savings for electricity generation in each of the low gas price 
+scenarios, as compared to the BASE-R scenario. Notwithstanding the substantial increase in the total volume of 
+imported gas, the lower prices still result in a significant cost reduction in both scenarios, with the total cost 
+savings in imported fuel amounting to $948 million in the EU trend scenario and increasing to $1,418 million in 
+the scenario with the gas process capped at $ 180 per 1000 m3.
+Finally, the TIMES Armenia model results confirm that reduced use of renewable energy replaced by fossil fuels 
+will tend to increase GHG emissions in the system as compared to the BASE-R scenario, by a range from 2.2% 
+to 3.5%, as shown in Table 4.24. 
+#4.4 REPLACEMENT OF GAS TO ELECTRICITY 
+#4.4.1 SCENARIO DESCRIPTION 
+The analysis of final energy consumption by energy carriers and sectors showed that the most consumed fuel 
+source in Armenia is and will continue to be imported natural gas, virtually all of which is used for residential 
+heating and transport. Since increased electricity generation based on the development of renewable energy 
+resources is indicated as a least cost solution in the BASE-R scenario, expanding the use of these domestic 
+energy resources could be accompanied by implementation of policies to stimulate use of electricity in the 
+transport and in residential sectors to replace natural gas imports. To explore these opportunities, we examine 
+the following scenarios: 
+• Increase in the penetration level for the use of electricity in residential heating to 25% in 2027 and to 50% 
+by 2036; 
+• Increase in the penetration level for use of electric vehicles to 25% in 2027 and to 50% by 2036; 
+• Both of these scenarios combined. ;
+#4.4.2 REPLACEMENT OF GAS TO ELECTRICITY SCENARIOS RESULTS 
+As shown in Table 4.25 the total system cost will decrease by around 1.2% in the scenario with forced 
+penetration of electricity use for residential heating and by around 1.8% in case when 50% of the transport 
+stock comprises electric cars by the end of planning period. In the combined scenario, the total system cost difference from BASE-R is practically the same as the sum of the differences of individual scenarios, amounting 
+to a 3.0% reduction in total discounted system costs.
+Table 4.26 shows that in all scenarios there is an overall decrease in TPES, primarily because of reduced use of 
+imported natural gas and oil products. In the residential heating scenario, replacement of natural gas 
+consumption by electricity results in savings of around 76 PJ of natural gas (roughly 2.2 billion m3) over the 
+entire planning period. In the electric vehicle scenario, the TPES savings amount to 79 PJ which comes from a 
+combination of reduce use of oil products (61 PJ) and gas (31 PJ), while at the same time there is an increase of 
+around 12 PJ of renewable energy sources to cover the increased electricity demand. Finally, in the combined 
+scenario the total savings in TPES compared to BASE-R amounts to 153 PJ, of which 105 PJ is from reduced use 
+of gas and a little more than 60 PJ from oil products, which again there is an additional 12 PJ of renewable 
+energy sources to balance the total energy demand.
+Figure 4.19 below illustrates these changes in composition of TPES as compared to the BASE-R scenario for 
+each of the scenarios replacing gas with electricity. In all scenarios we see a slight increase in renewables, as 
+expected. Given that oil products are not used in residential heating, all of their reduction in TPES is found in 
+the scenario with increased use of electric vehicles. In the scenario with residential heating increased to 50% 
+from electricity by the end of the planning period, we see reduction of total natural gas supply (import) by 
+around 4.8%, while the share of renewables in primary energy supply has practically not changed. In the 
+scenario with 50% electric vehicles in the transport sector by 2036 we see a significant reduction of TPES from 
+oil products by 24.8% and of natural gas by 1.9%, as well as around 3.4% increase of renewable energy sources. 
+The indicators for the combined scenario are close to the aggregated data from these two scenarios, 
+amounting to a 6.5% reduction of use of natural gas for the entire planning horizon and a 25.8% reduction of oil 
+products, with an increase of renewable sources by around 3.3%.
+Table 4.27 below shows that forcing higher levels of electricity use in residential heating and for transport 
+results in reductions of FEC by 3.3% and 4.3% respectively compared to the BASE-R scenario. In the residential 
+heating scenario, these changes primarily arise due to the more aggressive replacement of energy used by 
+“Standard” demand technologies (490 PJ) by the more efficient “Advanced” (35 PJ), “Better” (68 PJ) and 
+“Improved” (169 PJ) technologies. In the electric vehicle scenario, this reduction arises both from introducing 
+electric transport technologies (27 PJ) and by replacing existing oil product-using technologies (58 PJ) by more 
+advanced gas-using technologies (69 PJ). Finally, in the combined scenario there is an increase of electricity 
+consumption by around 33 PJ in both the residential and transport sectors and a decrease of gas (152 PJ), oil 
+products (58 PJ) and renewables (0.2 PJ).
+As shown in Table 4.28 above, the TIMES Armenia model results for each of the scenarios to replace gas with 
+electricity in the residential heating and transport sectors indicate that there is no need for additional new 
+power generation capacity as compared to the BASE-R scenario. Figures 4.20 and 4.21 below further show that 
+there are no differences between scenarios in total new power plant capacities by type needed to cover 
+electricity demand and only that the implementation schedule is slightly different depending on the required 
+consumption level in each time period.
+Figure 4.22 shows the aggregate projected generation levels by plant type over the planning horizon, which are
+very similar and indicate a roughly 10% higher level of total electricity generation in the scenario with electrified 
+transport and the combined scenario, as compared to BASE-R. In particular, given that the structure of 
+generation capacity remains the same, this is reflected in the increased use of the available gas-fired generation 
+as more electricity is consumed after 2027. Here we see (in the “Gas-fired” line) that after 2027 there is 
+increased use of the available CCGT generation as more electricity is consumed, which implies an increase in 
+gas fuel for that which is offset by the decline in direct gas consumption for heat and transport.
+Table 4.29 summarizes the comparative fuel cost savings for electricity generation in each of the scenarios 
+involving replacement of gas to electricity, as compared to the BASE-R scenario. These significant savings in 
+imported fuel as shown in Figure 4.19, which amounted to $240 million for replacement of gas in residential 
+heating, a reduction of $95 million for the electrification of transport scenario, and around $320 million of 
+reduced fuel expenditures in the combined scenario.
+While as noted above there are no differences in the total amount of new generation capacity added to the
+system in any of these scenarios as compared to BASE-R, at the same time there are very slight differences in
+total lumpsum investments in new generations due to the shifts in timing of the costs realized, as shown in
+Table 4.30 below. 
+Finally, the TIMES Armenia model results confirm that reduced use of fossil fuels will tend to reduce GHG 
+emissions in the system as compared to the BASE-R scenario, by a range from 3.3% to 7.7%, as shown in Table 
+4.31.
+#4.5 REDUCED GHG EMISSIONS FROM ENERGY SECTOR COMPARED TO BAU BY 2036 
+#4.5.1 SCENARIO DESCRIPTION 
+Armenia as a party to the Paris Agreement has undertaken obligations to reduce its GHG emissions to the 
+level defined in its Nationally Determined Contribution (NDC) but meeting these targets will be a challenge. 
+This scenario examines the impact on energy system development costs of meeting Armenia’s adopted NDC 
+obligations, which were not an imposed constraint in the BASE-R scenario. In particular, this scenario forces 
+the NDC target of 127,000 ktons of CO2-equivalent emissions over the entire planning period, which is very 
+close to a 10% GHG reduction as compared to BASE-R by 2036, the Cumulative GHG 127 Mt Scenario. 
+We also examine a scenario where value of the 2036 GHG emissions target is shifted forward, to be achieved 
+by 2030, the GHG Target by 2030 Scenario. This scenario allows us to assess policy options associated 
+with additional reduction of GHG emissions, which would provide the possibility to transfer some amount of
+Armenian GHG reduction limits to later years, or sell credits in the GHG market, or some combination of
+both. 
+#4.5.2 REDUCED GHG SCENARIO RESULTS 
+It is obvious that limitation of GHG emissions can be achieved by reduction of fossil fuel use. Such a target 
+could be reached by broad replacement of existing “dirty” technologies by non-fossil fuel ones on the demand 
+side, and by wider implementation of renewable resources and nuclear options in electricity generation. The 
+TIMES Armenia model results presented below summarize the possible pathways to meet Armenia’s NDC 
+obligations, while ensuring the least-cost solution on energy system development over the entire planning 
+horizon. Given that we continue to maintain the cap on level of deployment of renewables from the BASE-R 
+scenario, it follows that further reductions in GHG from the generation side would be driven by the next noncarbon technology, i.e., nuclear. While increased efficiency can also arise on the demand side, but it this 
+scenario we maintain the same energy efficiency adoption assumptions as in the BASE-R scenario. 
+As shown in Table 4.32, the total system cost will increase by around 0.9% in case of limitation of GHG 
+emission in line with NDC requirements, and by 4.0% in the scenario where this target is reached in 2030. As 
+will be shown later, this is primarily due to reduction of natural gas use for electricity generation in power 
+sector through its replacement by electricity produced by a new 600 MW nuclear unit (Figure 4.23). As Shown 
+in Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear 
+scenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier 
+forced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on 
+line in 2033, which results in a small difference in total system cost due to discounting. In the GHG Target by 
+2030 scenario there is also a different implementation schedule, with nuclear capacity added as compared to 
+the earlier 300 MW (SMR) scenario. Figure 4.23 further shows how reaching the NDC target GHG emission 
+limitation with nuclear and renewable replaces primarily imported natural gas.
+The data in Table 4.33 below indicate that in both of the GHG reduction scenarios there is an overall increase 
+in TPES. As was explained earlier in the description of the nuclear scenarios, the fact that NPP efficiency is 
+around 33% means that the scenario-driven generation of additional nuclear electricity as compared to BASE-R 
+is replacing the gas used in CCGTs, which have an efficiency of around 56%, contributes to this increase in 
+TPES. Again, as the timing of implementation for new nuclear generation in these GHG reduction scenarios 
+differs from the nuclear scenarios, there are slight differences in primary energy needs in each milestone 
+period. A further factor influencing these results lies in the switching for demand devices to replace higher 
+carbon emitting technologies with lower emission ones (e.g. oil products in the Transport sector being 
+replaced by “cleaner” gas-using devices).
+As a final initial summary point, the comparisons in Table 4.34 below indicate that there only a very slight 
+reduction (well under 1%) in overall final energy consumption in both of the GHG target scenarios as 
+compared to the BASE-R scenario. As noted above, the structure of energy carriers used on the demand side 
+in these GHG emissions reduction scenarios differs from that in the nuclear scenarios, reflecting the 
+requirement to reduce GHG by replacing higher-emissions devices with lower-emissions ones, while in the 
+new nuclear scenarios the main driver of FEC is more electricity consumption from forced implementation of 
+nuclear power.
+Figure 4.24 presents the projected construction of new electricity generation capacity in MW by type over the 
+period 2020 - 2036 for the BASE-R scenario and the two GHG target reduction scenarios, with Figure 4.25 
+further summarizing these in differences from the BASE-R scenario. As in the forced nuclear scenarios, after 
+the addition of Yerevan CCGT-2 (RENCO), no gas-fired units are added, and with both solar (1500 MW) and
+wind (500 MW) reaching their imposed limits, in the Cumulative GHG 127 Mt scenario the low-carbon
+electricity is added from a new 600 MW nuclear unit from 2033, which also eliminates construction of the 
+medium-sized HPP Loriberd.
+In the GHG Target by 2030 scenario the least-cost solution is achieved by construction of both Loriberd and 
+Shnokh HPPs in 2030 to meet the requirements on additional GHG emission reduction at this milestone year, 
+with nearly the full permissible limited amount of solar (1,448 MW) and 500 MW of wind farms, as well as two 
+300 MW nuclear units, the first added in 2022 and the second in 2033. While the objective of this scenario is 
+to examine how an earlier move to the NDC GHG limitation affects system outcomes, it is important to 
+highlight that while having a new 300 MW SMR by 2022 is not feasible, both scenarios clearly indicate that 
+introduction of new nuclear generation together with some demand-side management activities represents the 
+least-cost solution to reduce GHG emissions 
+Table 4.35 summarizes the total of new electricity power generation capacity installed over the planning 
+horizon for both GHG reduction scenarios and compares them to the BASE-R scenario. There is a significant 
+increase in new power plant capacities compared to the BASE-R scenario, with these additions arising from 
+GHG emission “free” technologies, such as nuclear, hydro, solar and wind, which reduce the utilization of 
+already-installed thermal power plants. 
+Table 4.36 below presents projected installed electricity generation capacities by plant or plant type for each of 
+the GHG reduction scenarios, as well as the BASE-R scenario. As noted earlier, these scenarios with inclusion 
+of nuclear generation results in somewhat less solar capacity, while the more aggressive policy on emission 
+reduction results in adding 600 MW of new nuclear, as well as both medium-sized HPPs. 
+Figure 4.26 shows the aggregate projected generation levels by plant type over the planning horizon, which for 
+the most part mirrors the installed capacity trends above, with the notable exception of gas-fired plants which 
+show a marked difference by scenario.
+In both of the GHG reduction scenarios the level of gas-fired generation is significantly lower compared to the 
+BASE-R scenario: by 13% in the Cumulative GHG 127Mt scenario (i.e., 4,905 million m3 less gas is used over 
+the planning period); and by 21.5% when the GHG reduction target is reached by 2030 (using 8,519 million m3
+less gas). While no gas-fired capacity is added in any scenario, it is notable that in both of these GHG reduction 
+scenarios the model does not elect to run existing gas plants at all after 2030. 
+Table 4.37 summarizes the comparative fuel cost savings in each of the GHG scenarios as compared to BASER. While the replacement of thermal generation by nuclear and renewables does yield significant savings in 
+imported fuel, it is useful to note how these figures compare to the increased investment costs.
+Table 4.38 below presents the lumpsum (undiscounted) investment costs for additional generation capacity by 
+plant type over the planning horizon, while Table 4.39 summarizes the differences in investment levels required, 
+for each of the GHG reduction scenarios, as compared to the BASE-R scenario. In the Cumulative GHG 127 
+Mt scenario, power sector investment increases by more than $3.472 billion, while achieving the 2036 GHG 
+target by 2030 requires a further investment of $1.657 billion in comparison with NDC target scenario. 
+Comparing these levels to the New Nuclear 600 MW scenariogeneration investment costs in the GHG
+127Mt scenario increase by almost $1,960 million, which is associated with construction of the Loriberd and
+Shnokh HPPs. In the more ambitious GHG target scenario costs are more than $2.0 billion higher compared to 
+New Nuclear 600 MW. Finally, it is important to note that these increased levels of required investment are 
+many times larger than the saving from reduced gas imports.
+Finally, the model results confirm that replacing gas-fired generation by nuclear power will tend to reduce 
+greenhouse gas (GHG) emissions in the system as compared to the BASE-R scenario, by a range from 7.3% to 
+12.7% as shown in Table 4.40.
+#4.6 FORCED IMPLEMENTATION OF ENERGY EFFICIENCY TARGETS 
+#4.6.1 SCENARIO DESCRIPTION 
+As noted earlier in Chapter 1, the Government of Armenia’s policy is to promote energy efficiency in all 
+economic sectors according to definitions formulated in the Law on Energy Efficiency and Renewable 
+Energy (2004; amended in 2016), and as articulated in a number of subsequent Government-approved 
+Programs and Action Plans over the last 15 years. An approved National Energy Efficiency Action Plan
+(2017) is currently in place and the second stage is approved by the Government and in force. Nevertheless, as 
+no specific long-term energy efficiency targets have been articulated we proposed to consider scenarios for 
+forced reduction of FEC at the levels of 25% and 50% over the planning horizon to 2036. 
+When examining these proposed scenarios within the TIMES Armenia model, it was found that implementation 
+of a 50% energy efficiency target was not feasible. In order to find the highest possible feasible level of energy 
+efficiency targets, further sensitivity runs for 40% and 30% reductions were performed and these cases were 
+not also found to be feasible. Thus, in this section we examine and present the results only for a targeted 25% 
+improvement of energy efficiency. 
+#4.6.2 ENERGY EFFICIENCY SCENARIO RESULTS 
+This scenario has been modeled to force a 25% reduction in total of final energy consumption (FEC) across all 
+demand sectors by 2036. Table 4.41 shows that as a result of primary energy savings the overall system cost 
+will decrease by around 4.3%, savings roughly equal to US $1.8 billion. As will be detailed further below this 
+arises mostly due to fuel costs savings, for although the new higher efficiency technologies which are forced in 
+implementation may have higher investment costs, their reduced use of fuel leads to this overall total system 
+cost reduction.
+Table 4.42 shows that in reaching the target of 25% reduced FEC by 2036, TPES over the entire planning 
+period is reduced by 10%, or 314 PJ, which arises principally from reduced demand for gas and oil products due 
+to the increase in combined efficiency of demand devices used throughout the economy.
+As illustrated in Figure 4.26 below, this reduction in TPES reflects key changes in the composition of energy
+supply as compared to the BASE-R scenario, in particular through a significant reduction of natural gas use - 
+cumulatively at 248.9 PJ for a 17.1% reduction, equivalent to 7,136.6 billion m3 - and of oil products, equal to 
+66.2 PJ for a 27.7% reduction over the planning horizon. There is also 5.2% reduction of biofuel supply, which 
+arises after 2030 and saves around 0.12 PJ in total. Beside the reduction of all fossil fuels, use of renewable 
+energy sources in TPES grows by 2.2%, or 0.35 PJ, reflecting the attractiveness of these carbon-free 
+technologies to achieve the FEC reduction targets.
+Table 4.43 below shows that achieving a 25% reduction of FEC by 2036 will cumulatively save around 12.6% of 
+consumed energy over the entire planning horizon, approximately 302 PJ. 
+Figure 4.27 below shows that while the main energy carrier used remains natural gas, followed by electricity 
+and oil products, most energy savings come from reduced consumption of natural gas, cumulatively amounting 
+to around 240 PJ, around 79% of total savings, and from reduced consumption of oil products equal to 66 PJ,
+around 22% of savings. Figure 4.28 illustrates how these savings in FEC are distributed among the end-use 
+sectors, showing that the Transportation, Residential and Commercial sectors all offer significant energy saving 
+potential, amounting to 125 PJ, 105PJ and 71 PJ, respectively.
+As shown in Table 4.44, in order to cover the slight growth of electricity use in this scenario there is no need 
+for additional new power generation capacity, as compared to the BASE-R scenario.
+Figure 4.29 below illustrates that while there are no differences between 25% reduced FEC and BASE-R 
+scenarios in terms of the total new power plant capacities by type needed to cover electricity demand, there is 
+a slight variation in the implementation schedule depending on the required consumption levels in each time 
+period. 
+Figure 4.29. 25% reduced FEC Scenario: Construction of New Power Plants (by type), MW 
+Figure 4.30 shows the aggregate projected generation levels by plant type over the planning horizon, which are 
+almost the same in the 25% reduced FEC scenario compared to the BASE-R scenario, with an overall difference 
+of less than 2.8% over the entire period to 2036. During the first half of the planning horizon - up to 2027- 
+there is a reduction of electricity generation in gas-fired power plants by 1,050 GWh, with almost the same 
+amount of additional generation provided by wind farms (1,092 GWh). In the period after 2027, the growth of 
+electricity demand is fully covered by increased generation from gas-fired plants and by the earlier 
+implementation of the Loriberd HPP, as compared to the BASE-R Scenario.
+Table 4.45 summarizes the comparative total natural gas cost savings as a result of its reduced use in all sectors 
+as compared to the BASE-R scenario. While the very small overall changes in power sector fuel expenditures 
+for natural gas amounted to a $7.55 million reduction in comparison to the BASE-R scenario over the entire 
+planning period, significant savings are recorded in total imported natural gas cost equal to $768 million as a 
+result of more intensive implementation of energy efficiency technologies across the range of demand side uses.
+While as noted above there are no differences in the total amount of new generation capacity added to the 
+system in this scenario as compared to the BASE-R scenario, there is a very slight increase in total lumpsum 
+investments in new generations due to the shifts in timing of the costs realized, as shown in Table 4.46.
+Finally, the TIMES Armenia model results show that reduced use of fossil fuels arising from increased use of 
+more efficient demand devices will tend to significantly reduce GHG emissions in the system as compared to 
+the BASE-R scenario, by 14%, as shown in Table 4.47.
+Table 4.48 presents data showing the sectors of the economy ranked by their level of reduction of GHG 
+emissions. The most significant role in GHG reduction is played by the Transport sector, which contributes 
+over half of the total, followed by the Residential sector at 30% and the Commercial sector at 19% of total 
+reductions. Industry and Agriculture together contribute just 1 % to total GHG emissions reductions, while 
+the Power sector slightly increases its GHG emissions - by 3% of the total - as a result of increases in 
+electricity production from gas-fired power plants that are be required to cover the requirements of new 
+demand side devices.
+#5. SUMMARY CONCLUSIONS AND RECOMMENDATIONS
+As noted earlier, the TIMES-Armenia model provides a platform for 
+integrated energy system modelling that is designed to guide policy 
+formulation over a wide range of energy, economic and environmental 
+planning and policy issues, and thereby help to establish investment 
+priorities within a comprehensive framework. Key aspects of the TIMES 
+platform include that it: 
+i) encompasses the entire energy system from resource extraction 
+through to end-use demands (“well-to-wheels”); 
+ii) employs least-cost optimization to identify the most cost-effective 
+pattern of resource use and technology deployment over time; 
+iii) provides a framework to evaluate medium- to long-term policies and 
+programs that can impact the evolution of the energy system; and 
+iv) quantifies the costs and technology choices that result from imposing 
+those policies and program. 
+Besides the strengths of the core modelling features of TIMES, the 
+framework includes powerful model management tools to facilitate the 
+effective use to inform decisionmakers. Thus, the TIMES platform is 
+specifically a tool to develop and compare scenarios for future energy 
+development and as such can be a productive tool to foster stakeholder buy-in and build consensus. 
+The following sections highlight some of the key insights for energy sector policy development in Armenia over 
+the period to 2036 that can be gleaned from the detailed scenario analyses presented above. To facilitate this 
+discussion, we have gathered selected key modelling metrics and ratios in Tables 5.1 and 5.2. Detailed model 
+results for each of the core scenarios can be found in Appendix 4.
+The fact that the full amount of 
+solar and wind capacity is 
+selected by the model as part of 
+the least cost solution for new 
+generation under all scenarios 
+underscores the importance to 
+Armenia of ensuring a policy and 
+institutional environment that 
+supports full realization of new 
+VRES generation to the 
+maximum extent practicable, 
+not only to ensure the lowest 
+cost generation but also to 
+minimize reliance on other 
+imported energy sources and to 
+strengthen Armenia’s energy 
+security and competitiveness. 
+#5.1 THE BASELINE REFERENCE (BASE-R) SCENARIO 
+The TIMES-Armenia modelling exercise started by imposing no constraints on the technology choice for future 
+energy sector development. A key result of this exercise was to identify expansion of variable renewable 
+energy sources (VRES), in particular solar and wind energy, as the clear least-cost sources for new generation 
+capacity, given the combination of Armenia’s rich solar resource and trends in declining cost of solar power 
+over the planning period. As a result, the level of projected VRES capacity in the initially unconstrained variant 
+of the baseline scenario was so high, adding nearly 3,000 MW of grid-connected solar and over 1,000 MW of 
+wind power by 2036, it was clear that some more reasonable levels of constrained expansion of VRES 
+generation would be needed, both to reflect potential limitations in institutional capacity to build so much new 
+solar and wind in the coming decades and to ensure the planning and investment for any needed system 
+strengthening that might be required to accommodate the higher shares of VRES in the total generation mix. 
+Thus, through expert consultation with stakeholders it was agreed that a reasonable level of constrained 
+maximum VRES capacity to be modelled would be set at 1,500 MW of solar and 500 MW of wind until the end 
+of the planning horizon, along with limits on the annual build rates. This set of added assumptions was then 
+applied to the baseline model and the results, described earlier and summarized in Tables 5.1 and 5.2 establish 
+the Baseline Reference (BASE-R) Scenario.
+In this scenario - as was ultimately seen in all other scenarios as well - the full amount of constrained solar and 
+wind capacity is added, reflecting its significant role as a least-cost source of electricity for Armenia’s 
+development. While some additional hydropower capacity is added in the BASE-R scenario to account for 
+licenses already provided by PSRC, no other types of new generation are selected by the model (taking into 
+account that the gas-fired Yerevan CCGT-2 TPP is already included from 2022) and recognizing that this 
+scenario foresees closure of the ANPP from 2027 according to current planning. The total funding required 
+for new power plant construction in this scenario is just under $1.9 billion, while projected imported natural 
+gas fuel expenditures for electricity generation are $4.25 billion. 
+Finally, in the BASE-R scenario total energy system costs27 account for roughly 11% of GDP over the planning 
+period, while the energy intensity of GDP as measured by TPES is around 8.37 MJ/$. 
+Taking into consideration that GDP growth is the main driver of energy demand growth, two sensitivity 
+analyses were modelled to explore the influence of higher and lower GDP growth rates on the Armenian 
+energy system’s least cost development pathway. In particular, the cases analysed were for a 50% higher
+growth rate (6.75% per year from 2022) and a 50% lower rate (2.25% per year from 2022, as compared to the 
+4.5% per annum GDP growth rate in the BASE-R scenario. 
+While these higher (lower) growth rates have expected 
+impacts in regard to increasing (decreasing) total system 
+costs, TPES, FEC and electricity generation, it is especially 
+interesting to note that the higher GDP growth rate also 
+reduces the share of total system cost in GDP, owing to 
+the fact that it is accompanied by significant lowering of the 
+energy intensity of a unit of GDP, e.g., by 16% as measured 
+by TPES. In fact, the high-growth case of BASE-R projects 
+an even lower level of TPES per unit of GDP than the 
+scenario which explicitly pursues reduced FEC through 
+expanded energy efficiency (7.0 MJ/$ as compared to 7.5 
+MJ/$). This enhanced efficiency is clearly seen in the fact 
+that while overall GDP increases in total by 27% compared 
+to the BASE-R scenario, total system costs increase only 
+by 12% and TPES by 6.3%. This is also reflected in the fact 
+that aggregate purchases of demand devices increase by 
+almost 19%, which presumably embeds higher levels of 
+efficiency over time as incomes rise. Conversely, the 
+lower growth has mirroring adverse impacts on increasing 
+total system costs as a share of GDP and increasing the 
+energy intensity per unit of GDP.
+A surprising but crucial result of these sensitivity 
+analyses is that the model projects no 
+differences in total new power plant capacities 
+in level or by type required to cover electricity 
+demand over the full range of GDP growth 
+variation, with only slight variations in the 
+implementation schedule for new solar, wind 
+and hydro power depending on the required 
+consumption level in each time period. Thus, 
+there is virtually no impact as well on the 
+investment requirement for new electricity 
+generation capacity as compared to the BASER scenario. The only effect of higher (lower) 
+income growth lies in the increased (decreased) 
+utilization of existing installed capacity of both 
+VRES and gas-fired thermal power plants, with 
+a concomitant increase (decrease) in 
+expenditures on natural gas fuel. Given this key 
+result, no further detailed sensitivity analyses of 
+the impacts of higher and lower growth rates 
+was reported for any of the other scenarios. 
+#5.2 NUCLEAR SCENARIOS 
+Activities to extend the operational lifetime of the ANPP up to 2027 are already in place and the plant was 
+included in the BASE-R Scenario to be decommissioned from that time. Although the available nuclear 
+technologies included in the TIMES-Armenia model were not selected on the basis of least cost in the BASE-R 
+Scenario, the GOAM remains committed to a policy to maintain some nuclear power in the country’s energy 
+mix. To analyze the cost and other implications of these choices, four alternative scenarios for continued 
+inclusion of nuclear generation in the Armenian power system were examined as: 
+ Operating life extension of the ANPP for an additional 5 years after 2027 - up to 2032, with an 
+additional $300 million of to ensure safety and reliability; 
+ Operating life extension of the ANPP for an additional 10 years after 2027 - up to 2037, with an 
+additional $600 million of investment to ensure safety and reliability; 
+ Forced implementation of a new nuclear unit with installed capacity 300 MW (Small Modular Reactor - 
+SMR);
+ Forced implementation of a new nuclear unit with installed capacity 600 MW (Light Water Reactor - 
+LWR). ;
+A surprising but crucial result of these sensitivity 
+analyses is that the model projects no 
+differences in total new power plant capacities 
+in level or by type required to cover electricity 
+demand over the full range of GDP growth 
+variation, with only slight variations in the 
+implementation schedule for new solar, wind 
+and hydro power depending on the required 
+consumption level in each time period. Thus, 
+there is virtually no impact as well on the 
+investment requirement for new electricity 
+generation capacity as compared to the BASER scenario. The only effect of higher (lower) 
+income growth lies in the increased (decreased) 
+utilization of existing installed capacity of both 
+VRES and gas-fired thermal power plants, with 
+a concomitant increase (decrease) in 
+expenditures on natural gas fuel. Given this key 
+result, no further detailed sensitivity analyses of 
+the impacts of higher and lower growth rates 
+was reported for any of the other scenarios. in BASE-R, decrease total system cost by around 1%, increase TPES by 3.7% and 7.3%, reduce GHG emissions 
+significantly by 4.5% and 9.3% and decrease imports of natural gas for electricity generation by 11.8% and 
+20.4%, respectively. A key feature of these scenarios is that they increase total investment costs for new 
+power generation capacity 15.1% and 12.5%, compared the BASE-R scenario, with the higher investment costs 
+for the longer extension being offset in its impact on total investment by the fact that in this scenario neither of 
+the mid-sized HPPs (Shnokh and Loriberd) is built. 
+The scenarios which propose new nuclear units to replace the ANPP from 2027 with either a 300 MW SMR or 
+a 600 MW LWR increase total system cost by around 2%, increase TPES by 3.3% and 7.8%, reduce GHG 
+emissions significantly by 7.1% and 12.2%, and decrease imports of natural gas for electricity generation by 7.2% 
+and 15.5%, respectively. A key impact in these scenarios is that they significantly increase total investment 
+costs for new power generation capacity compared the BASE-R scenario, more than doubling it to $4.1 billion 
+(a 116% increase) for the 300 MW SMR unit and increasing it to over $5 billion (a 164% increase) for the 600 
+MW LWR unit. 
+Whether considering total system cost or investment costs required for new generation, the scenarios for life 
+extension of the ANPP represent a least-cost policy choice for continuing to maintain nuclear capacity in 
+Armenia’ energy mix. It should be emphasized that such life extensions must always first and foremost ensure 
+all measures required for continued safe and reliable operation of these older plants. 
+This is not surprising, given that in these scenarios, with the 
+constrained amounts of solar and wind VRES fully utilized, the 
+next choice for lower GHG-emissions generation leads to 
+selection of the new nuclear technologies, in this case 
+introduction of 600 MW of nuclear power. Given the slightly 
+different implementation patterns for the introduction of nuclear 
+units in these scenarios as compared to the forced 
+implementation in 2027 examined earlier, the impact on total 
+investment costs for new power generation capacity is even larger 
+compared to the BASE-R scenario, ranging from $5.4 - $7.0 
+billion.
+As a final point, it is useful to note that the 
+scenarios which imposed GHG emissions 
+reduction targets to meet the level defined 
+in Armenia’s NDC, either by 2036 or 
+earlier, largely mirror the “new nuclear” 
+scenarios in terms of increases in total 
+system cost and TPES, reductions in GHG 
+emissions and decreases in imports of 
+natural gas for electricity generation. 
+#5.3 DIFFERENT TRENDS IN IMPORTED GAS PRICES
+The BASE-R scenario assumed that the natural gas price will increase up to projected European levels by 2027 
+(the year of ANPP decommissioning) and after that continue to match European levels. Historically Armenia 
+has negotiated gas prices with Russia below these rates, so two scenarios were analyzed with lower gas prices 
+as28: 
+• EU trend rate to 2036: Applies the EU trend growth rate over the entire period to 2036; 
+• Growth to $180 by 2027: Assumes the border gas prices grows to US$ 180/1000 m3 by 2027 and 
+remains fixed at that level until the end of the planning period. ; 
+As expected, analysis of these scenarios shows that if Russia continues to provide relatively low-cost natural
+gas to Armenia there will be a significant increase of natural gas consumption across all sectors, but mainly in 
+electricity generation, transportation and residential heating. In both scenarios, the expanded use of existing 
+gas-fired TPP capacity means that the mid-sized HPPs (Shnokh and Loriberd) are not built, while no additional 
+thermal power capacity is required after the inclusion of Yerevan CCGT-2 (RENCO) and the closure of 
+Hrazdan TPP. This results in a roughly 20% reduction in the lumpsum investment required for new generation 
+in these scenarios, the lowest in any scenarios - although still with the constrained levels of solar and wind 
+generation fully built - which generates an investment cost saving as compared to BASE-R of $377 million in the 
+case with the EU trend to 2036 and of $391 million when the gas price is capped at $180. 
+In both scenarios there is an overall increase in TPES, by 1 - 1.5%, because of 
+increased use of the cheaper imported natural gas, which is accompanied by a 
+reduction in use of VRES. In the case when gas prices follow the EU trend, 
+replacement of renewables by natural gas results in total additional TPES of 
+around 32 PJ, which is distributed between an increase of 56 PJ (roughly 1.6 
+billion m3) of natural gas and a reduction of renewables use by 22 PJ over the 
+planning period. When the gas price is capped at $180 from 2027, the 
+increase of TPES is roughly 49 PJ, comprising an increase of 85 PJ of gas 
+(roughly 2.4 billion m3), which is offset by a 34 PJ reduction of use of 
+renewables.
+While total energy system 
+cost is reduced when gas 
+prices are lower, it is 
+important to note that the 
+increased utilization of 
+cheaper gas maintains and 
+deepens Armenia’s 
+dependence on imported 
+energy.
+#5.4 PROMOTING FUEL SWITCHING TO ELECTRICITY IN TRANSPORT AND RESIDENTIAL 
+HEATING 
+Analysis of FEC by energy carrier and sector showed that the most consumed fuel source in Armenia is and 
+will continue to be imported natural gas, most of which is used for residential heating and transport. Since 
+increased electricity generation based on development of Armenia’s VRES is indicated as a least cost solution in 
+the BASE-R scenario, and confirmed in all other scenarios, expanding use of these domestic energy resources 
+could be accompanied by implementation of policies to stimulate use of electricity in the transport and 
+residential sectors to replace natural gas imports. To explore these opportunities, we examined the following 
+scenarios: 
+• Increase in the penetration level for the use of electricity in residential heating to 25% in 2027 and to 50% 
+by 2036; 
+• Increase in the penetration level for use of electric vehicles to 25% in 2027 and to 50% by 2036. ;
+• Both of these scenarios together. ;
+As shown in Table 5.1, each of these scenarios proposing increased sectoral electricity penetration separately 
+reduces total system cost (in combination by 3%), reduces TPES (again, in combination by 5%), lowers GHG 
+emissions (by nearly 8%, in combination) and decreases imports of natural gas for electricity generation (in 
+combination by 7.6%). 
+Most importantly, no change in the overall level and type 
+of new generation is required by the model as compared 
+to the BASE-R scenario to achieve these results, with only 
+a negligible increase in the lumpsum investment costs for 
+new generation capacity associated with slight variations in 
+the implementation schedule for the projected additions of 
+solar and wind power.
+The reduction in natural gas used for electricity 
+generation shows clearly that a policy to promote 
+increased deployment of electric heating and vehicles 
+will expand utilization of domestic VRES, reduce 
+reliance on imported energy sources and strengthen 
+Armenia’s energy security.
+The reduction in natural gas used for electricity 
+generation shows clearly that a policy to promote 
+increased deployment of electric heating and vehicles 
+will expand utilization of domestic VRES, reduce 
+reliance on imported energy sources and strengthen
+#References
+Danish Energy Management A/S (2011) Demand-side Management Report. https://www.dem.dk/en/casesen/ ;
+European Commission – Directorate-General for Energy (2016). Mapping and analyses of the current and 
+future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables): Work package 1: Final 
+energy consumption for the year 2012. Contract N° ENER/C2/2014-641. 
+https://ec.europa.eu/energy/sites/ener/files/documents/mapping-hc-final_report_wp1.pdf;
+International Energy Agency (2016). Armenian Energy Balance for 2016. 
+https://www.iea.org/statistics/?country=ARMENIA&year=2016&category=Energy%20supply&indicator=TPESbyS
+ource&mode=table&dataTable=BALANCES ;
+International Energy Agency (2018). World Energy Balances, 2018 edition, Database documentation. 
+http://wds.iea.org/wds/pdf/worldbal_documentation.pdf ;
+International Energy Agency (2018). World Energy Outlook 2018. ;
+International Energy Agency - Energy Technology Systems Analysis Program (2019). TIMES Model 
+Overview. https://iea-etsap.org/index.php/etsap-tools/model-generators/times;
+International Monetary Fund Data (2018). 
+(https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/ARM) ;
+National Renewable Energy Laboratory/NREL (2016). Energy Storage: Possibilities for Expanding 
+Electric Grid Flexibility. https://www.nrel.gov/docs/fy16osti/64764.pdf;
+Nuclear Energy Agency (2011). Current Status, Technical Feasibility and Economics of Small Nuclear Reactors.
+OECD: Paris, France.;
+Nuclear Energy Agency/IEA/OECD (2015). Projected Costs of Generating Electricity 2015. OECD Publishing, Paris, 
+https://doi.org/10.1787/cost_electricity-2015-en.; 
+Remme, Uwe. R. Loulou, G. Goldstein, A. Kanudia. A. Lettila (2016). Documentation for the TIMES 
+Model. IEA-ETSAP. https://iea-etsap.org/index.php/etsap-tools/model-generators/times;
+Republic of Armenia (2010). First National Energy Efficiency Action Plan (NEEAP) for the Republic 
+of Armenia. http://www.inogate.org/documents/AM_1st_NEEAP_Armenia_final_2010.pdf;
+Republic of Armenia (2016). Second National Energy Efficiency Action Plan (NEEAP) for the 
+Republic of Armenia. https://www.energy-community.org/dam/jcr:0e568a32-bb62-4b90-b96afe41f3a0b9d3/EECG032016_ASE.pdf ;
+United Nations Development Program/Global Environment Fund (2012). Lessons Learned Report 1 
+“Armenia – Improving Energy Efficiency of Municipal Heating and Hot Water Supply”. 
+http://nature-ic.am/en/publication/%E2%80%9CLESSONS-LEARNED-REPORT%E2%80%9D-OF-UNDP-GEF00035799-PROJECT--2012-/7300;
+United Nations Development Program/Global Environment Fund (2016). The Republic of Armenia
+TECHNOLOGY NEEDS ASSESSMENT FOR CLIMATE CHANGE MITIGATION, Reports I, II, 
+III. http://nature-ic.am/en/publication/Technology-Needs-Assessment-for-Climate-Change-Mitigation/10574 ;
+World Population Review Data (2018). http://worldpopulationreview.com/countries/armenia-population/);
+#APPENDIX 1. THE COMPOSITION OF FEC IN THE BASE YEAR
+In the base year, the total final energy consumption (FEC) amounted to 2,094.6 kilotons of oil equivalent (ktoe), 
+out of which the households and Transport accounted for just over 1,400 ktoe. The base year data indicates 
+the leading position of households, which accounted for 37% of total FEC, with Transport second at almost 
+30%. In the base year, Services and Industry accounted for 15.6% and 15.3% of FEC, respectively, while 
+Agriculture had the smallest share in the total Armenian FEC at 2%. In 2016, natural gas was the dominant 
+type of fuel, amounting to 1,209.6 ktoe or 57.7% of total FEC. Figure A.1.1 shows FEC by sector and types of 
+fuel in 2016. 
+The Residential sector consumed 784.7 ktoe in 2016, making up to 37% of Armenian total FEC. Natural gas 
+was the biggest form of energy consumed, representing 480.6 ktoe or 61.2% of total household energy 
+consumption. In the base year coal and heat were the least used fuel types, each just 0.03%. The amount of 
+different fuel types consumed in Residential sector are reflected in Figure A.1.2. 
+Because natural gas and electricity were the main energy carriers used by households, their monthly 
+consumption has been analyzed further in order to allocate the total amount of natural gas demand between 
+heat, hot water, and cooking and for electricity demand between heat, hot water, cooking, air conditioning, and 
+appliances. It was assumed that gas demand for hot water preparation and cooking remain unchanged 
+throughout the year, while differences between winter and summer consumption patterns are reflected heating 
+demands. The same analysis was done for electricity, where variations in monthly (and time of day) 
+consumption patterns clearly showed for air conditioning and heating demand. The remaining demands - for 
+hot water, cooking and appliances - are also kept constant throughout the year. This reconstruction was
+required by TIMES in order to identify the shares of each demand for the Armenian model. Based on review of
+the Economic Development and Research Center Analytic Report on Residential Energy Consumption Survey: 
+2015 (EDRC, 2016), electricity consumption was redistributed among the different types of appliances defined 
+in the TIMES-Armenia model, in particular: lighting, refrigerators and freezers, washing machines, vacuum 
+cleaners, fans, mills, mixers, radio electronic equipment, and others.
+In the base year, the Service sector consumed 326.9 ktoe, a 15.6% share in total FEC of Armenia. Natural 
+gas was the main energy source consumed, providing 56.3% of the sector total and 8.8% in the total Armenian 
+FEC. In 2016, electricity accounted for 140 ktoe of Service sector energy consumption, representing 42.8% of 
+sector total and 6.7% of the total FEC of Armenia. Figure A.1.3 shows the structure of Service sector base year 
+consumption.
+For the Service sector, the same approach was used as described above for the Household sector in regard to 
+allocation of the total demand between cooling, cooking, heating, lighting, miscellaneous, public lighting, 
+refrigeration, and water heating. 
+The TIMES-Armenia model splits the Industrial sector into the sub-sectors listed in the table below. 
+Iron and steel;
+Food beverages and tobacco ;
+Chemical and petrochemical;
+Paper, pulp and printing;
+Non-ferrous metals;
+Wood and wood products;
+Non-metallic minerals;
+Textiles and leather;
+Transport equipment;
+Construction;
+Machinery;
+Non-specified (Other Industry) ;
+Mining and quarrying;
+In 2016, Industrial sector FEC was 320.1 ktoe, a 15.3% share of Armenian FEC. Figure A.1.4 shows the base 
+year consumption by fuel types and by each sub-sector of industry. The chart illustrates the leading positions of 
+mining and quarrying, also food, beverages and tobacco sub-sectors in industry consumption, representing 27% 
+and 26.9% respectively, whereas wood and wood products, also textiles and leather were recorded as smallest 
+industrial consumption types of fuel, representing 0.3% and 0.4% respectively. As shown in the chart, natural 
+gas and electricity hold the dominance in industry consumption, representing correspondingly 49.4% and 43.8% 
+of the total consumption of the sector and 7.5% and 6.7% of Armenian total final energy consumption, whereas 
+white spirit & SBP and liquefied petroleum gases came out to be the least consumed type of energy, 
+representing 0.3% and 0.4% respectively.
+The structure of fuel and electricity consumption in the Transport sector of Armenia differs radically from 
+that of similar the countries in the region and those of Commonwealth of Independent States as a whole. 
+These specific characteristics are largely based on the following factors: 
+ Long-term transportation blockade of the country by Turkey and Azerbaijan limiting trading 
+opportunities (export/import); 
+ High prices for imported oil products; 
+ Existing transport infrastructure (fully electrified railway transport, ground and underground urban 
+electric transport, developed road network, etc.).; 
+Thus, the availability and relative low cost of natural gas compared to liquid motor fuels led to a massive shift of 
+the road transport to the use of natural gas. By the early 2000’s, up to 90% of the light vehicles and most of 
+urban public transport are equipped with dual fuel systems using natural gas with gasoline as a backup fuel. As 
+a result, an extensive network of gas charging stations has been established, covering almost the entire country 
+and a drastic reduction of greenhouse gas emissions was recorded in the transport sector between 1998 and 
+2018. 
+The structure of fuel and electricity consumption in the Transport sector is based on the statistical data and 
+expert estimates. During the base year, total energy consumption of this sector was 620.2 ktoe, representing
+29.6% of the total FEC of Armenia, divided between: rail, metro, other electric transport; road transport;
+aviation; non-specified (other transport). Figure A.1.5 shows the base year consumption of transportation subsectors by fuel types. The road sub-sector had by far the biggest share in this sector, representing 611.5 ktoe 
+or 98.6% of total transport FEC and 29.2% of total Armenian FEC. Natural gas and oil were the main types of 
+fuel consumed in transport and particularly in road sub-sector, representing 62.3% and 36.3% respectively.
+The Agriculture sector has a small share in total FEC, with the use of energy in 2016 of 42.7 ktoe, 
+representing 2% of Armenian total FEC. This includes electricity, diesel and kerosene. Oil products composed 
+the largest share in agriculture energy consumption, at 32.8 ktoe or 76.8%, consisting of gas/diesel oil, excluding 
+bio (25.2 ktoe) and other kerosene (7.6 ktoe). Figure A.1.6 describes the sectoral consumption by fuel types. 
+Further analysis of sectoral energy consumption shows that: 
+ The entire share of electricity was consumed for irrigation purposes; 
+ Diesel fuel was only used by the agricultural machinery for crops sowing and harvesting;
+ The amount of kerosene was insignificant and is assumed to have been used for other purposes. ;
+#APPENDIX 2. ELECTRICITY GENERATION OPTIONS FOR TIMESARMENIA
+#1. INTRODUCTION 
+This Appendix describes the power plant options available in the TIMES-Armenia model. If not otherwise 
+noted, the main source for data is Projected Costs of Generating Electricity 2015 Edition, prepared by the Nuclear 
+Energy Agency and International Energy Agency and published by the Organization for Economic Cooperation 
+and Development (NEA/IEA/OECD, 2015). It complies power plant data across a selection of countries, but 
+where the only non-OECD country included in this list is China. 
+#2. GAS-FIRED GENERATING TECHNOLOGIES 
+The Projected Costs of Generating Electricity 2015 report identifies two gas-fired generation options: combinedcycle gas turbines (CCGTs) and open-cycle gas turbines (OCGTs). It includes data for 17 natural gas-fired 
+generators (13 CCGTs and 4 OCGTs). For TIMES-Armenia four CCGTs and 4 OCGTS were chosen from 
+same countries (Belgium, Germany, UK, New Zealand) and their characteristics were averaged. For fossil fuel 
+plants, the residual value of equipment and materials shall normally be assumed to be equal to the cost of 
+dismantling and site restoration, resulting in a zero net cost of decommissioning. 
+The Projected Costs of Generating Electricity 2015 doesn’t identify any emerging technology for gas-fired 
+generating technologies, this is why no additional options are considered.
+#3. NUCLEAR GENERATING TECHNOLOGIES 
+There are many different designs of nuclear plants available around the world and a dedicated feasibility study 
+would be required to analyze the application of different options for Armenia. The comparison of different 
+nuclear plant designs is outside of the scope and capacities of TIMES-Armenia project, however to analyze the 
+competitiveness of nuclear options against other power plant options in meeting Armenia’s future electricity 
+demands it is important to establish consistent characteristics for the different plant options. Given the 
+relatively near-term need of Armenia, focus is made on most advanced and mature technology currently
+available, which is advanced light water reactor (ALWR). ALWRs can either be pressurized water (PWR) or 
+boiling water (BWR). Russian VVER, considered as an option for Armenia, is also ALWR type. For Armenia, 
+the size of nuclear plant is important. Because of this, the economy of scale of nuclear plants was applied to 
+calculate the costs of smaller versions of ALWR, establishing consistent data for competitive analysis of nuclear 
+plants of different size, as discussion below. 
+The Projected Costs of Generating Electricity 2015 provides detailed information for 11 nuclear power plants, of 
+which 9 are in OECD member countries and the remaining two are in China. This includes a generic light 
+water reactor (LWR), ten advanced light water reactors and generic generation III reactors. For new designs, 
+net plant capacities range from around 1,000 to 3,300 MW (for a multiple-unit plant in the United Kingdom). 
+All the reactors in this report are based on light water technologies, indicating that the industry trend towards 
+this technology continues. TABLE lists the nuclear plants in Projected Costs of Generating Electricity 2015. 
+As seen from TABLE there is there is a large difference in nuclear costs between Europe, US and Asia. Because 
+of this fact, it is important to consider the origin of the possible power plants for Armenia. The Russian VVER 
+version, for example, is the one deployed in Hungary, with a cost of 6,215 USD2013/kW. Another study for 
+South Africa shows an estimated overnight capital cost of $50-billion (including owners development costs 
+but excluding interest during construction) for a 9.6 GW nuclear fleet with a net output of 6 x 1,082 MW using 
+Rosatom VVER 1200 reactors, an overnight cost of USD5,776 per kW net output is calculated. However cost
+for a single unit will be higher by 10 to 20%, which will result in the number around 6,600 USD/kW. As seen 
+from TABLE the Chinese, Korean and US versions are considerably cheaper. Based on this we suggest two 
+versions of ALWR, one based on average characteristics of ALWR globally and the second based solely on 
+Hungary data. 
+It should be mentioned that TABLE also includes the nuclear power plant in Mohovce, Slovak Republic, which 
+consists of 2 blocks with 513MW each. However, this is for a project originally initiated in 1986, the design of 
+which has evolved substantially from the original water-cooled and water-moderated reactor (VVER) V-213 
+specifications, because of this it is not considered. 
+Emerging nuclear technologies in the 2015-2030 timeframe include small modular reactors (SMRs), essentially 
+based on the same technology as today’s generation III reactors (namely light water reactors). There are wideranging projections for installed SMR capacity by 2030. Because of their size the specific per-MW costs of SMRs 
+are likely to be higher (typically 50% to 100% higher per kWh for a single SMR plant) than those of large 
+generation III reactors. Variable costs (O&M and fuel costs) for SMRs most likely will remain higher than for 
+large nuclear plants as well. 
+Based on Current Status, Technical Feasibility and Economics of Small Nuclear Reactors (NEA 2011), because of 
+economies of scale, SMRs will suffer a significant economic disadvantage compared to large reactors in terms of 
+their overnight costs per unit of installed capacity. Specific capital costs (i.e. capital costs per unit of installed 
+capacity) are expected to decrease with size because of fixed set-up costs (e.g. siting activities or earth works 
+for connecting to the transmission grid), more efficient utilization of primary inputs (e.g. raw materials), and the 
+higher performance of larger components (e.g. pumps, heat exchangers, steam generators, etc.). Several 
+studies have employed the following scaling function to illustrate the effect of changing from a plant unit size P0
+to a plant of similar design with capacity P1: 
+Cost(P1) = Cost(P0)x(P1/P0)n (1)
+where Cost(P1) and Cost(P0) are the costs of power plants of size P1 and P0 respectively, and n is the scaling 
+factor for the entire plant (this is an overall scaling law for the entire plant—different components of the plant 
+may have substantially different scaling exponentsCurrent Status, Technical Feasibility and Economics of Small 
+Nuclear Reactors gives some examples of n. For Korea n=0.45, for France n=0.6 for direct costs and 0.3 for 
+indirect costs. For this study we have assumed the scaling factor of 0.6 for overnight and O&M costs. Because 
+we consider the SMRs of same LWR type, the application of Formula (1) is valid. TABLE and TABLE A.2.4 
+show alternative suggestions for nuclear plants. The most feasible one should be chosen for the main analysis, 
+whereas the second one can be used for sensitivity analysis.
+However, economies of volume could compensate economies of scale if a sufficiently large number of identical 
+SMR designs are built and replicated in factory assembly workshops. Lower overall investment costs and 
+shorter construction times for SMRs could also facilitate the financing of such reactors compared to large 
+nuclear plants at lower costs of capital). Furthermore, they can be more discretely sized accorded to the 
+capacity needed owing to the modular nature of the design. So, other sensitivity scenarios can be performed 
+for higher n in formula (1) which will analyze the sensitivity of results compared to the future costs of SMRs. 
+In all cases Decommissioning costs for nuclear plants are higher than those for other generation types, in part 
+because of the additional cost of removing all remaining radioactive materials. Plant-specific decommissioning 
+costs were used when provided, and a default assumption of 15% of the overnight cost was used for all other 
+plants. 
+Prototypes of generation IV reactors, that could include very-high-temperature reactors (VHTR) for electricity 
+and process heat applications, and liquid metal-cooled reactors such as sodium-cooled fast reactors (SFR) and 
+lead-cooled fast reactors (LFR), were not considered. In terms of generation costs, generation IV technologies 
+aim to be at least as competitive as generation III technologies (and will build on the enhanced safety levels of 
+those technologies), though the additional complexity of these designs, the need to develop a specific supply 
+chain for these reactors and the development of the associated fuel cycles will make this a challenging task. 
+However, generation IV also provide additional benefits in terms of fuel utilization and waste management 
+(especially for fast neutron reactors) or in terms of high thermal efficiency (>40%), and potential for high 
+temperature process heat application for HTRs and this could represent an economic advantage over 
+alternative technologies.
+#4. SOLAR POWER PLANTS 
+Solar PV plants are divided into three categories: Residential rooftop (less than 20 kWe), Commercial rooftop 
+(from 20 kWe to 1 MWe), and large (greater than 1 MW) ground-mounted central plants. In addition we 
+consider solar thermal technologies, which are able to produce significant amounts of power (installation sizes 
+tend to range from the tens to hundreds of megawatts) and can be used with thermal storage solutions such as 
+molten salts to extend their electric power production into peak evening hours. Conversely, solar thermal 
+power plants use more materials, in particular steel, than other types of solar power, and so are relatively 
+more capital-intensive and will often also have higher operation and maintenance (O&M) costs. For Armenia, 
+we have selected two options from the US, one with 6-hour storage, which reaches annual Capacity Factor 
+(CF) =34% and another with 12 hour storage reaching CF=50, as opposed to PVs whose CF range between 
+15%-20% in US). However, for Armenia country-specific CFs are used for all Solar plants. 
+#5. OTHER POWER PLANTS 
+Other power plants include hydro, geothermal and onshore wind plants. Country specific CFs should be used 
+in all cases. Hydroelectric and geothermal plants are very site-specific, so it is advisable to use country-specific 
+costs and CFs. Decommissioning costs are assumed to be 5% of overnight costs. See Section 7 below for 
+additional details.
+The lower costs for the dams are caused by the fact that these represent non-power dams, where cost 
+includes adding the power house and raceways, transformer bay, etc., but the cost of the dam (primarily for
+irrigation and flood control) is not included. If dams are to be considered for Armenia, the local country
+specific costs should be used. 
+#6. ELECTRICITY STORAGE TECHNOLOGIES 
+Energy storage technologies absorb energy and store it for a period of time before releasing it to supply energy 
+or power services. Through this process, storage technologies can bridge temporal and geographical gaps 
+between energy supply and demand. Some technologies such as pumped storage hydropower are mature; 
+however, improvements can be made with respect to the ratio of electric capacity to storage volume; flexibility 
+in pumping mode with variable-speed pumps, and sea water pumped storage hydropower, to better help 
+integrate variable renewables. Most other technologies are still at early stages of development and will require 
+further RD&D before their potential can be fully realized. Emerging electricity storage technologies include 
+compressed air energy storage (CAES), adiabatic CAES, a range of batteries, flywheels and hydrogen storage. 
+Investment in energy storage RD&D has led to significant cost reductions. In addition, costs for large-scale 
+batteries have shown impressive reductions, thanks in part to ambitious electric vehicle deployment programs 
+and greater demand for frequency regulation. The cost of a lithium-ion battery for grid-scale storage has shown 
+the largest decline, falling by more than three-quarters between 2008 and 2013. However, additional efforts, 
+including targeted R&D investments and demonstration projects, are needed to further decrease energy 
+storage costs and accelerate development. The setup for TIMES-Armenia is based on lithium-ion battery from 
+report from National Renewable Energy Laboratory (NREL).
+#7. DESCRIPTION OF ARMENIA-SPECIFIC OPTIONS 
+#7.1.1 RENEWABLES DEVELOPMENT OPTIONS 
+#7.1.1.1 SMALL AND MEDIUM SIZE HPPS 
+Lack of fossil fuel in Armenia dictates the necessity to utilize domestic energy sources (hydro, wind, solar, etc.) 
+as much as ecologically and economically feasible. 
+With respect to small hydro resources, according to PSRC data, in addition to existing 186 small hydro power 
+plants (SHPPs) with total installed capacity 336.4 MW, 31 companies have licenses for construction of 56.88 
+MW SHPPs. At this stage, no additional SHPPs are foreseen for construction due to new more stringent 
+ecological and technical requirements, changes in water resources patterns, in part due to global warming, and 
+the absence of economically feasible locations.
+As stated by Ministry of Energy Infrastructures and Natural Resources, there is still potential for development
+of medium-size HPPs , in particular Lori-Berd, Shnokh and Meghri. Below are some main indicators for these 
+projects. 
+#Lori-Berd HPP 
+Construction of the Lori-Berd HPP (with around 60MW of installed capacity and 200 million kWh of annual 
+energy production) on the Dzoraget river plays important role for the Armenian hydro energy sector 
+development. In the years 2003-2004 Fichtner prepared a feasibility study for the above-mentioned station. In 
+February 2007, Fichtner updated the price calculations for the project. Price increases were mostly attributed 
+to higher equipment cost. 
+Lori-Berd HPP Is planned to be constructed in the northern part of Armenia, where there are not large 
+production entities, and would strengthen the energy supply to the northern parts of the country, as well as 
+provide the energy system with opportunities for parallel operation between Armenia and Georgia. It is 
+foreseen to implement the Lori-Berd HPP construction by attracting private financial investment. 
+Lori-Berd HPP characteristics are as follows: 
+ Design head – 343 m (with daily regulated pond) – 311.75 m (without daily regulated pond); 
+ Design discharge - 25 m3/s (with daily regulated pond) - 20 m3/s (without daily regulated pond); 
+ Design Power Capacity - 65.3 MW (with daily regulated pond) - 54.3 MW (without daily regulated pond);
+ Annual average Energy Production - 202.9 million kWh (with daily regulated pond) - 208.3 million kWh 
+(without daily regulated pond). ;
+#Shnokh HPP 
+The original design of Shnokh HPP was prepared by Armhydroenergy Project in 1966 and was updated in 1993. 
+Construction of the Armanis reservoir with 130 million m3 capacity would allow to construct a power station 
+with 120 MW of the installed capacity and 460 million kWh annual energy production. The head pond of 
+Shnokh HPP would be constructed at the top of the Debet River, after the unification of Dzoraget and Pambak 
+rivers. It is foreseen to correct the flow of Marts and Kistum steams on the derivation of Shnokh HPP. 
+The characteristics of the Shnokh HPP, without construction of Armanis reservoir, are as follows: 
+ Design head - 247.3 m; 
+ Design discharge - 37 m3/s; 
+ Design Power Capacity - 76 MW; 
+ Annual Energy Production - 291.4 million kWh; 
+ Derivation Length-22 km;
+ Daily regulated pond - 450 thous.m3. ;
+On August 10, 2017, the GoA adopted Protocol Decision N 973-A “On approval of Framework Agreement 
+signed between the Government of Armenia, Debed Hydro LLC and Investors Club of Armenia Closed-end 
+Contractual Nonpublic Investment Fund for the Design, Construction, Funding, Ownership, Possession and
+Exploitation of Shnokh Hydropower Plant with 76 MW Installed Capacity in Lori Region of RA. A 
+Memorandum of Understanding (MOU) was signed between Debed Hydro LLC, subsidiary of Energy Invest 
+Holding CJSC and the U.S. Robbins Company, that has substantial international experience in boring large 
+tunnels. According to the MOU, Robbins would invest charter capital for Debed Hydro LLC by providing a 
+Tunnel Boring Machine for boring the water pipe with 22 km length foreseen by Shnokh HPP construction 
+program, training local Armenian specialists in use of the boring machine, and provide technical support during 
+duration of the boring works. The estimated cost of the implementation of Shnokh HPP construction program 
+is about 150-190 million USD. 
+#Meghri HPP 
+The feasibility study of Meghri HPP was prepared by the Iranian Mahab Ghods consulting company at the 
+bequest of the Iranian Water and Energy Development Company. The feasibility study for development of 
+Meghri HPP was coordinated and controlled by Armenian-Iranian Joint Technical Committee. In accordance 
+with the feasibility study completed in 2008 the possibility to construct 2 HPPs on the river Araks: Meghri HPP 
+in Armenian side and Gharachilar HPP on Iranian side is foreseen. 
+Megri HPP's main technical characteristics are as follows: 
+ Design discharge 160 m3/s; 
+ Design Power Capacity 100 (2х50) MW; 
+ Energy Production 793 million kWh; 
+ Derivation length (tunnel) 18200 m; 
+ Tunnel Inner diameter 8.5 m; 
+ Design head 90 m . ;
+In the framework of Armenia’s inter-governmental commission with Iran, it was decided to construct Meghri 
+HPP and Gharachilar HPP with 100 MW installed capacity each, taking into the considerations the water 
+resources new survey results. 
+#Small HPPs 
+As of the 1st of January, 2018 and according to the provided licenses, 36 additional SHPPs are under 
+construction, amounting to about 69 MW capacity and 250 million kWh electricity annual supply. 
+#7.1.1.2 SOLAR 
+Armenia has a significant solar energy potential. The average annual amount of solar energy flow per square 
+meter of horizontal surface is about 1,720 kWh, compared with the average European figure of 1,000 kWh. 
+One fourth of the country’s territory is endowed with solar energy resources of 1,850 kWh/m2/year. 
+A Renewable Energy Investment Plan for Armenia was approved in the framework of the Scaling-Up 
+Renewable Energy Program (SREP) of the Climate Investment Funds, with SREP resources are being allocated 
+to develop up to 110 MW of utility-scale solar PV. 
+According to the first stage of the “Solar PV Plant Construction Investment Project” approved by GoA 
+Protocol Decision 53-37 dated December 29, 2016, it is foreseen to construct the utility-scale Masrik-1 solar
+PV power plant with 50-55 MW capacity in Gegharkunik Marz of Armenia. Construction of another 5 PV plants
+with about 60 MW total capacity are being planned. 
+On July 18, 2018 the Ministry of Energy Infrastructures and Natural Resources signed a Government Assistance 
+Agreement “On Design, Funding, Construction, Ownership, Possession and Exploitation of Masrik-1 PV power 
+plant in Mets Masrik community of Gegharkunik Region of Armenia”. The parties of the Agreement are FRV 
+Masrik CJSC (as a Constructor), Fotowatio Renewable Ventures B.V and FSL companies (as a Sponsor) and the 
+Government of RA. 
+The limit for the construction of utility-scale Solar PV Plant of up to 1 MW installed capacity is set at 10 MW 
+total installed capacity, and 12 companies have received Licenses. Currently 4 solar PV plants (total installed 
+capacity about 2.6 MW) are commissioned. 
+#7.1.1.3 WIND 
+According to Wind Energy Resource Atlas of Armenia, prepared by the U.S. National Renewable Energy 
+Laboratory in 2003, the economically justified potential of wind energy is about 450 MW of total installed 
+capacity with about 1.26 billion kWh of electrical energy production per year. The main perspective sites are 
+located in Zod pass, in Bazum Mountain (Qaraqhach and Pushkin passes), in Jajur pass, in the territory of 
+Geghama Mountains, in Sevan pass, in the region of Aparan, in highlands between Sisian and Goris, in the region 
+of Meghri. 
+Monitoring of the wind potential at Sotk pass in Gegharkunik region has been completed by Zod Wind CJSC 
+private company. The company is negotiating with different organizations to attract the investment for 
+construction of the Zod wind farm, with planned installed capacity of 20 MW. 
+Monitoring of wind potential at Karakhach pass in Shirak region has been completed by Ar Energy, Armenian - 
+Italian private company. The company is planning to construct the Qaraqhach 1 wind farm, with initial planned 
+capacity of 20 MW, which will be enlarged later up to 140 MW. 
+#Proposed Investments Projects 
+In the framework of the EU TACIS program “Assistance to Energy Policy of Armenia”, monitoring work has 
+been carried at Semyonovka pass in Sevan region and the pre-feasibility study for construction of a wind power 
+plant with total installed capacity of 34 MW was prepared. 
+#Acciona Energy Global SL (Spain) 
+By the Memorandum of Understanding signed on March 30, 2017 between the Ministry of Energy 
+Infrastructures and Natural Resources of RA and Acciona Energy Global SL on Wind Power Plant Construction 
+Program in Armenia, it is foreseen to construct wind power plants with capacity of 100-150 MW. In 
+December 2017, the company started implementation of the wind potential assessment. Two 80 meter wind 
+monitoring stations and one Sodar system were installed. Each station is equipped with 8 anemometers, 3 
+weathercocks, 2 thermo-hygrometers and 1 atmospheric pressure gauge. 
+#Access Infra Central Asia Limited (United Arab Emirates) 
+According to relevant decision of the GoA dated March 30, 2017, assistance is provided to Access Infra 
+Central Asia Limited (UAE) for construction of wind power stations in Armenia with capacity up to 150 MW.
+According to relevant decision of the GoA dated March 30, 2017, assistance is provided to Access Infra
+another was planned to be installed in April 2018. 
+#7.1.1.4 OTHERS 
+#Geothermal energy 
+Investigations have been conducted to reveal the precise sites of geothermal energy sources for possible 
+construction of geothermal power plants. One of these sites is Jermaghbyur where, according to geological and 
+geophysical explorations, a high pressure (20-25 atmosphere pressure) hot water (at up to 250օC) resource is 
+considered to be available at a depth of 2,500 -3,000 meters. If confirmed, it would be possible to construct a 
+geothermal power plant with 25 MW capacity in this area. 
+#Biogas 
+Biomass is not widely used as a power or gas source in Armenia. Annual potential of Armenia for receiving 
+biogas is about 135 million m3 and the country have just initiated its utilization. A contract between Yerevan 
+Municipality and Japan Shimizu Corporation was signed for implementation of the Nubarashen Solid Waste 
+Landfill Gas Capture and Power Generation Clean Development Mechanism (CDM) Project in Yerevan. 
+According to the calculations of Shimizu Corporation, implementation of each phase of the mentioned project 
+would result in annual creation of certificated reduction of CO2 emissions equal at least 56,000 tons. 
+#Bioethanol 
+The Renewable Resources and Energy Efficiency Fund of Armenia, with the assistance of a WB and GEF grant 
+has organized a study on “Assessment of Bioethanol Production, Potential Utilization and Perspectives in 
+Armenia” in which the project of bioethanol production potential is prepared for investors.
+#APPENDIX 3. GENERAL INPUT DATA FOR TIMES-ARMENIA 
+Based on the discussions in the MEINR the following data is considered for modeling. 
+#1. Planning period
+Data for specific events and policies will be entered in the model for the years in which they are expected to 
+occur. Other data (e.g., demand projections) will be specified according to the MileStoneYears. 
+#2. GDP growth 
+Historical GDP in Armenia (2007-2017)
+Simplified average annual GDP growth for the last decade (2007-2017) is 3.5%. If we are considering only 
+economy recovery period (2010-2017) then GDP growth is amounted to 4.0%. Taking into consideration high 
+GDP growth for 2017 (7.5%) the following GDP forecast done by International Monetary Fund can be used for 
+TIMES-Armenia model. Anyway, another option could be the WB forecast due to low average GDP growth 
+(3.6%) for the period 2013-2017.
+#IMF forecast of annual GDP growth
+(currently in the model) 
+2018 6.0% ;
+2019 4.8% ;
+2020 4.5% ;
+2021 4.5% ;
+2022 4.5% ;
+2023 4.5% ;
+#WB forecast of annual GDP growth38
+2018 4.1% ;
+2019 4.0% ;
+2020 4.0% ;
+The last value of GDP growth remains unchanged till the end of planning period! 
+#3. Generation capacities 
+#3.1. Available capacities (Base Year-2016) + as of the end of 2017
+#3.2. Potential Capacities 
+#4. International agreement on gas/electricity swap 
+Base case: Up to end of planning period (2036) exports will remain at the current level: 1,200 GWh/year – 
+400 million m3 of natural gas – forced
+After 2027, two scenarios should be considered: 
+a. Swap – optional at the contractual level 6,900 GWh/year – 2,300 million m3
+b. No swap – forced (if TIMES will choose continuation of agreement) 
+#5. Electricity Import and export 
+a. North: Currently no electricity exchange takes place between Armenia and North. There is only net 
+zero balance condition required in the future. 
+b. South: Currently no electricity exchange takes place between Armenia and South, other than to cover 
+the swap. There is a net zero balance condition required from one Agreement, and 3 kWh for each 1 
+m3 – the second Agreement. 
+#6. Gas Import price 
+Up to 2026 gas price will be kept at current level ($150/1000m3), thereafter – European commercial prices 
+apply, WB forecast
+#7. Energy Efficiency - Ministry of Energy Infrastructures and Natural Resources 
+Energy efficiency is modelled as an 8%55reduction of overall energy demand.
+#APPENDIX 4. MAIN RESULTS FOR CORE SCENARIOS 
+In the sections that follow key results are presented for each of the core policy scenarios examined. 

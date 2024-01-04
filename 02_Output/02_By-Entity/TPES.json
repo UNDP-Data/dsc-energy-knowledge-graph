@@ -1,0 +1,110 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "TPES",
+        "relations": [
+            {
+                "Relation": "remain",
+                "Subject": "share",
+                "Object": "\n",
+                "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+            },
+            {
+                "Relation": "be",
+                "Subject": "which",
+                "Object": "case",
+                "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "energy",
+                "Object": "source",
+                "Description": "Nuclear energy remains a significant supply source, accounting for \nup to 25% of TPES, until the ANPP exits from the system."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "\n",
+                "Object": "share",
+                "Description": "In fact, \ncompared to the IU BASE Scenario, gas increases its share of TPES by about 10% after 2027 and its amount by \naround 25% as a result of limiting VRES builds."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "generation",
+                "Object": "limits",
+                "Description": "In the BASE-R Scenario, RES increases around two and a half \ntimes over the planning period, with its share rising from 6.6% of TPES to nearly 16% by 2030, as the new \ngeneration reaches its assumption-allowed limits."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "limitation",
+                "Object": "volume",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "play",
+                "Subject": "gas",
+                "Object": "role",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.2 below illustrates the changes in \ncomposition of TPES as compared to the BASE-R scenario for each of the GDP growth scenarios."
+            },
+            {
+                "Relation": "start",
+                "Subject": "part",
+                "Object": "\n",
+                "Description": "Because part of the calculation of TPES starts \nfrom electricity produced and works backward to fuel used, the fact that NPP efficiency is around 33% means \nthat the forced production of additional nuclear power electricity generation as compared to BASE-R is \nreplacing the gas used in CCGTs, which have an efficiency of around 56%."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.13 \nbelow illustrates the changes in composition of TPES as compared to the BASE-R scenario for each of the \nlower gas price scenarios, indicating the pattern of increase in natural gas supply and reductions of renewables \nand of oil products, equal to 2.2 PJ for a 1.0% reduction."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "increase",
+                "Description": "In the electric vehicle scenario, the TPES savings amount to 79 PJ which comes from a \ncombination of reduce use of oil products (61 PJ) and gas (31 PJ), while at the same time there is an increase of \naround 12 PJ of renewable energy sources to cover the increased electricity demand."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "Figure",
+                "Object": "changes",
+                "Description": "Figure 4.19 below illustrates these changes in composition of TPES as compared to the BASE-R scenario for \neach of the scenarios replacing gas with electricity."
+            },
+            {
+                "Relation": "see",
+                "Subject": "we",
+                "Object": "reduction",
+                "Description": "In the \nscenario with 50% electric vehicles in the transport sector by 2036 we see a significant reduction of TPES from \noil products by 24.8% and of natural gas by 1.9%, as well as around 3.4% increase of renewable energy sources."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "reduction",
+                "Object": "changes",
+                "Description": "As illustrated in Figure 4.26 below, this reduction in TPES reflects key changes in the composition of energy\nsupply as compared to the BASE-R scenario, in particular through a significant reduction of natural gas use - \ncumulatively at 248.9 PJ for a 17.1% reduction, equivalent to 7,136.6 billion m3 - and of oil products, equal to \n66.2 PJ for a 27.7% reduction over the planning horizon."
+            },
+            {
+                "Relation": "expect",
+                "Subject": "rates",
+                "Object": "impacts",
+                "Description": "While these higher (lower) growth rates have expected \nimpacts in regard to increasing (decreasing) total system \ncosts, TPES, FEC and electricity generation, it is especially \ninteresting to note that the higher GDP growth rate also \nreduces the share of total system cost in GDP, owing to \nthe fact that it is accompanied by significant lowering of the \nenergy intensity of a unit of GDP, e.g., by 16% as measured \nby TPES."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "case",
+                "Object": "FEC",
+                "Description": "In fact, the high-growth case of BASE-R projects \nan even lower level of TPES per unit of GDP than the \nscenario which explicitly pursues reduced FEC through \nexpanded energy efficiency (7.0 MJ/$ as compared to 7.5 \nMJ/$)."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "prices",
+                "Object": "trend",
+                "Description": "In the case when gas prices follow the EU trend, \nreplacement of renewables by natural gas results in total additional TPES of \naround 32 PJ, which is distributed between an increase of 56 PJ (roughly 1.6 \nbillion m3) of natural gas and a reduction of renewables use by 22 PJ over the \nplanning period."
+            }
+        ]
+    }
+}

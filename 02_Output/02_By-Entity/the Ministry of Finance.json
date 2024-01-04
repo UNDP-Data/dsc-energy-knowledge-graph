@@ -1,0 +1,32 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Ministry of Finance",
+        "relations": [
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "lies",
+                "Description": "Institutional Responsibility to implement this lies with the Ministry of Power and Energy and the Ministry of Finance,\nassisted by the PUCSL.\n"
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "implementation",
+                "Description": "Furthermore, UNDP is supporting the \nimplementation of the New Deal for Engagement in Fragile States principle s with \nthe Ministry of Finance."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "solutions",
+                "Description": "At the \nnational level, UNDP will work closely with UNAMA and the Ministry of Finance \nto support policy formulation, including through the use of such tools as the \nimplementation of the New Deal agenda and the incorporation of peacebuilding and state building indicators into government planning processes; and (ii) At the \nprovincial and district levels, UNDP will promote community-centred solutions to \nconflict through mediation efforts by provincial councils, district coordination \ncouncils, as well as involving traditional Shuras and Jirgas, and will facilitate \nequitable local access and management of natural resources."
+            },
+            {
+                "Relation": "liaise",
+                "Subject": "REED",
+                "Object": "Authority",
+                "Description": "REED will liaise with the Ministry of Finance, the Ministry of Economy, MEW, the National \nEnvironment Protection Agency (NEPA), the Afghanistan National Standards Authority (ANSA) \nand other relevant Government institutions on standardization, maximizing the socio-economic \nimpact of rural electrification while minimizing environmental hazards."
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "ABC",
+        "relations": [
+            {
+                "Relation": "use",
+                "Subject": "networks",
+                "Object": "ABC",
+                "Description": "All new low voltage distribution networks will use all-insulated ABC with\nimmediate effect."
+            }
+        ]
+    }
+}

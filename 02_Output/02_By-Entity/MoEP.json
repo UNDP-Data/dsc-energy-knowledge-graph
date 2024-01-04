@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "MoEP",
+        "relations": [
+            {
+                "Relation": "review",
+                "Subject": "subgroups",
+                "Object": "pairs",
+                "Description": "The subgroups reviewed the tentative list \nresource-service pairs suggested by MoEP \nafter discussions with the national consul\u0002tant to be further analysed and discussed."
+            }
+        ]
+    }
+}

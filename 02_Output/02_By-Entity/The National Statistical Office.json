@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "The National Statistical Office",
+        "relations": [
+            {
+                "Relation": "receive",
+                "Subject": "Office",
+                "Object": "support",
+                "Description": "The National Statistical Office and other partners will \nreceive support to continue improving data quality."
+            }
+        ]
+    }
+}

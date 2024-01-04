@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Syunik",
+        "relations": [
+            {
+                "Relation": "leave",
+                "Subject": "escalation",
+                "Object": "impact",
+                "Description": "The escalation has also left a significant impact on border \ncommunities, particularly in Syunik and Tavush regions of Armenia."
+            }
+        ]
+    }
+}
