@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "ADR": [
+                {
+                    "Relation": "studied",
+                    "Object": "adr",
+                    "Description": "3.10.7 Potential offered by vehicle energy storage systems (ESS) will be studied considering ESS as a\nlocal standby energy storage device, deploying those as an automated demand response (ADR)\noption and a load profile management too."
+                },
+                {
+                    "Relation": "studied",
+                    "Object": "ess",
+                    "Description": "3.10.7 Potential offered by vehicle energy storage systems (ESS) will be studied considering ESS as a\nlocal standby energy storage device, deploying those as an automated demand response (ADR)\noption and a load profile management too."
+                }
+            ]
+        }
+    }
+}

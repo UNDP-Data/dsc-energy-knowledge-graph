@@ -1,38 +1,105 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "West",
-        "relations": [
-            {
-                "Relation": "represent",
-                "Subject": "Pool",
-                "Object": "opportunity",
-                "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
-            },
-            {
-                "Relation": "achieve",
-                "Subject": "programme",
-                "Object": "goal",
-                "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
-            },
-            {
-                "Relation": "face",
-                "Subject": "systems",
-                "Object": "challenges",
-                "Description": "The electricity systems in West Africa also face challenges arising from \nexisting supply capacities unable to satisfy growing demand."
-            },
-            {
-                "Relation": "create",
-                "Subject": "IRENA",
-                "Object": "tool",
-                "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
-            },
-            {
-                "Relation": "include",
-                "Subject": "These",
-                "Object": "Bank",
-                "Description": "These include the African Development Bank, Islamic Development Bank, World \nBank, West African Development Bank \nand other donors."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "West": [
+                {
+                    "Relation": "represents",
+                    "Object": "niger",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "west",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "mme",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "west",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "north",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "benin",
+                    "Object": "burkina faso",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "west",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "benin",
+                    "Object": "west",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "ecreee",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "iaea",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "west",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "west",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "lpg",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "niger",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "west",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "guide",
+                    "Object": "rural",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "mme",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "guide",
+                    "Object": "west",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "west",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                }
+            ]
+        }
     }
 }
