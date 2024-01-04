@@ -1,0 +1,50 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "GEF",
+        "relations": [
+            {
+                "Relation": "be",
+                "Subject": "donors",
+                "Object": "governments",
+                "Description": "The main \ndonors in this programme cycle will be the national and subnational governments and vertical \nfunds such as the Global Environment Facility (GEF) and the Green Climate Fund."
+            },
+            {
+                "Relation": "need",
+                "Subject": "fund",
+                "Object": "access",
+                "Description": "At start-up, such a fund needs access to grant financing \nfrom global trust funds such as the Global Environment Facility (GEF), and this strategy recognizes that \nMIE is working in this direction with the support of the UNDP Climate Change Unit."
+            },
+            {
+                "Relation": "support",
+                "Subject": "Implementation",
+                "Object": "sector",
+                "Description": "Implementation of Western Balkans \nGreen Economy Financing Facility (WB GEFF - Residential) in the Western Balkans, focusing on \nthe residential sector through the EBRD is supporting Residential sector with grants for all \nprojects that reach 20% energy savings or 20% reduction of CO2 emissions."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "Through policy advice and implementation of GEF projects, UNDP will support the \nGovernment in the conservation of forest and protected areas by rehabilitating infrastructure, \ntraining, equipment, preparation of management plans, surveys of flora and fauna, engagement \nwith communities, combatting illegal wildlife trade, and establishing the first marine protected \nareas."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "UNDP",
+                "Object": "access",
+                "Description": "UNDP will facilitate access to international funding, \nincluding through GEF, Green Climate Fund (GCF), and South-South and triangular cooperation."
+            },
+            {
+                "Relation": "organize",
+                "Subject": "Fund",
+                "Object": "study",
+                "Description": "The Renewable Resources and Energy Efficiency Fund of Armenia, with the assistance of a WB and GEF grant \nhas organized a study on \u201cAssessment of Bioethanol Production, Potential Utilization and Perspectives in \nArmenia\u201d in which the project of bioethanol production potential is prepared for investors."
+            },
+            {
+                "Relation": "deepen",
+                "Subject": "UNDP",
+                "Object": "partnerships",
+                "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Green Climate Fund",
+        "relations": [
+            {
+                "Relation": "remain",
+                "Subject": "Fund",
+                "Object": "partners",
+                "Description": "The Adaptation Fund, the \nGlobal Environment Facility, the Green Climate Fund and other vertical multilateral funds \nwill remain critical partners, with a vision to scale up existing and introduce new \nprogramming areas in line with government priorities."
+            },
+            {
+                "Relation": "be",
+                "Subject": "donors",
+                "Object": "governments",
+                "Description": "The main \ndonors in this programme cycle will be the national and subnational governments and vertical \nfunds such as the Global Environment Facility (GEF) and the Green Climate Fund."
+            },
+            {
+                "Relation": "access",
+                "Subject": "projects",
+                "Object": "funding",
+                "Description": "Pilot projects and programs have previously accessed climate funding, \nand larger integrated programs have applied for funding from the Green Climate Fund (GCF)."
+            },
+            {
+                "Relation": "note",
+                "Subject": "evaluation",
+                "Object": "access",
+                "Description": "The evaluation noted the access UNDP has to \nvertical funds, such as the Green Climate Fund, assessed to have catalysed improved water \nmanagement for agriculture and drinking; disaster early warning; and standards and precedents \nfor bottom-up, intersectoral interventions."
+            }
+        ]
+    }
+}

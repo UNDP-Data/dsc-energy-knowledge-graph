@@ -1,0 +1,62 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "State",
+        "relations": [
+            {
+                "Relation": "lead",
+                "Subject": "companies",
+                "Object": "finance",
+                "Description": "State-backed companies have primar\u0002ily led finance and investment in the \nenergy sector."
+            },
+            {
+                "Relation": "cost",
+                "Subject": "challenges",
+                "Object": "State",
+                "Description": "Security challenges cost the State 17 per cent and \n22.1 per cent of its budgetary resources in 2021 and 2022, respectively, severely constraining \ninvestments in the productive sector."
+            },
+            {
+                "Relation": "expand",
+                "Subject": "UNDP",
+                "Object": "offer",
+                "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "security",
+                "Description": "In response to the national policy on modernization of government services for a more \neffective civil service and transformed State structure, UNDP will prioritize the security of \nterritories through a mutual security and civilian coordination mechanism and funding."
+            },
+            {
+                "Relation": "involve",
+                "Subject": "approach",
+                "Object": "States",
+                "Description": "At the European level a proactive approach involves all Member States in promoting a concerted \ninternational response to climate change."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Agency",
+                "Object": "legislation",
+                "Description": "#National Agency of Natural Resources (AKBN)\n\u25cf Develop and implement clear demarcation between agencies as to who is responsible \nfor energy sector planning and statistics if EU compliance is to be assured;\n\u25cf Develop secondary legislation for the collection of energy data in general and oil \nproducts in particular, including MOS (Monthly Oil Statistics) questionnaire;\n\u25cf Internal discussions within MIE should focus on increasing the professional expertise \nof the AKBN as the basis for the Technical Department, with contributions from the \nContract negotiations unit as well;\n#State Technical and Industry Inspectorate\n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "Table",
+                "Object": "types",
+                "Description": "Table 8 shows the types of incentives that have been implemented by EU \nMember States in order to help achieve the targets set up in their various NEEAPs."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "database",
+                "Object": "measures",
+                "Description": "States database describes both the measures and statistical evidence of how well the measures have \nperformed."
+            },
+            {
+                "Relation": "secure",
+                "Subject": "Fund",
+                "Object": "fund",
+                "Description": "In addition, the EE Fund will secure an initial fund from the State Budget based \non the State Budget Law."
+            }
+        ]
+    }
+}

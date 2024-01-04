@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Government\u2019s",
+        "relations": [
+            {
+                "Relation": "include",
+                "Subject": "offer",
+                "Object": "innovation",
+                "Description": "The UNDP integration offer includes innovation, thematic expertise and financing for\nrenewables and energy efficiency in line with Government\u2019s plans to provide safe, affordable \nand clean energy to citizens; and for raising the national ambitions to combat climate change \nand increase resilience to natural and human-induced risks."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "policies",
+                "Description": "UNDP will support policies that accelerate an inclusive, productive and sustainable \neconomy, enhance climate resilience and adaptation planning, and transition into a clean \ngreen economy, in line with the Government\u2019s national strategies."
+            }
+        ]
+    }
+}

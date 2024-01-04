@@ -1,0 +1,110 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "PPA",
+        "relations": [
+            {
+                "Relation": "support",
+                "Subject": "development",
+                "Object": "evolution",
+                "Description": "Furthermore, the development \nof a standardised, bankable PPA would \ngreatly support the evolution of renew\u0002able energy auctioning."
+            },
+            {
+                "Relation": "negotiate",
+                "Subject": "government",
+                "Object": "\n",
+                "Description": "The \ngovernment of Niger is negotiating a PPA \nfor a 20 MW solar plant with a French \ncompany."
+            },
+            {
+                "Relation": "support",
+                "Subject": "development",
+                "Object": "evolution",
+                "Description": "Furthermore, the development of \na standardised and bankable PPA would \ngreatly support the evolution of renewable \nenergy auctioning."
+            },
+            {
+                "Relation": "post",
+                "Subject": "Guidelines",
+                "Object": "obligations",
+                "Description": "c. Guidelines for setting up off-grid stand-alone projects.criteria; registration process; application process including DPRs and technical \ndesigns; clearances and approvals; land acquisition and usage for private, \ngovernment and community land; grid-connectivity; creation/ use of other \ninfrastructure and facilities such as roads and water; legal, commercial and \ncommunity related agreements including Power Purchase Agreements (PPAs); \nsafety certifications and quality control procedures; performance guarantees; post \ncommissioning obligations and activities; exit options, both mid-way and at the end \nof agreed project lifetime; issuing of license (generation, transmission, distribution, \noperation and maintenance)."
+            },
+            {
+                "Relation": "post",
+                "Subject": "Guidelines",
+                "Object": "obligations",
+                "Description": "c. Guidelines for setting up off-grid stand-alone projects.criteria; registration process; application process including DPRs and technical \ndesigns; clearances and approvals; land acquisition and usage for private, \ngovernment and community land; grid-connectivity; creation/ use of other \ninfrastructure and facilities such as roads and water; legal, commercial and \ncommunity related agreements including Power Purchase Agreements (PPAs); \nsafety certifications and quality control procedures; performance guarantees; post \ncommissioning obligations and activities; exit options, both mid-way and at the end \nof agreed project lifetime; issuing of license (generation, transmission, distribution, \noperation and maintenance)."
+            },
+            {
+                "Relation": "assume",
+                "Subject": "agreement",
+                "Object": "importance",
+                "Description": "Thus, the power purchase agreement \n(PPA) assumes primary importance for large scale, MW scale power plants."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "park",
+                "Object": "developers",
+                "Description": "The park provides project developers with proper \ninfrastructure and access to facilities for power generation and export to the grid against a \nfirm Power Purchase Agreement (PPA)."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Projects",
+                "Object": "pathways",
+                "Description": ";\n\u2022 Projects shall have well-defined pathways after the expiry of the PPA."
+            },
+            {
+                "Relation": "include",
+                "Subject": "pathways",
+                "Object": "sale",
+                "Description": "These \npathways could include sale of asset to government, extension of PPA and others."
+            },
+            {
+                "Relation": "define",
+                "Subject": "regulator",
+                "Object": "conditions",
+                "Description": "In terms of the institutional engagement in SPPs, major responsibilities of different \ninstitutions are expected to pan out as follows:\n\u2022 Power sector regulatory body: The regulator shall define conditions for power \nevacuation (must-run and must-take), long term access, PPA and others."
+            },
+            {
+                "Relation": "set",
+                "Subject": "developer",
+                "Object": "project",
+                "Description": "The project developer shall set up its solar PV project and \noperate and maintain the same throughout the life of the PPA."
+            },
+            {
+                "Relation": "hand",
+                "Subject": "developer",
+                "Object": "project",
+                "Description": "Depending upon the \nterms of agreement, after expiry of the PPA the developer may hand over the project \nto the government."
+            },
+            {
+                "Relation": "have",
+                "Subject": "user",
+                "Object": "flexibility",
+                "Description": "The excess power sold to the grid is valued at the PPA and \ncredited to the user in terms of energy credits, with the user to have flexibility on when \nuser chooses to monetise them."
+            },
+            {
+                "Relation": "encompass",
+                "Subject": "role",
+                "Object": "building",
+                "Description": "The role of the RESCO encompasses building, operating and maintaining the \nmicro-utility ecosystem throughout the life of the PPAs signed with various \nconsumers."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "subsidies",
+                "Description": "These can include generation-based capital subsidies (where grants are provided to \nproject developers for commissioning plants), ongoing Power Purchase Agreement (PPA) or \nFeed-in-Tariff subsidies (where monies are provided based upon ongoing generation) or \nconcessional finance (where monies are used to provide a cheaper source of capital such as \nequity or debt to RE developers)."
+            },
+            {
+                "Relation": "decide",
+                "Subject": "subsidy",
+                "Object": "front",
+                "Description": "In the \nrecent 10 MW Kandahar solar project, an element of this model has already proved \nsuccessful; the PPA tariff that DABS would pay to the developer was decided based upon a \nreverse auction, while the capital subsidy was decided up-front."
+            },
+            {
+                "Relation": "be",
+                "Subject": "stage",
+                "Object": "use",
+                "Description": "The next stage could be \nthe use of a reverse auction mechanism for both the capital subsidy and the PPA tariff.\n"
+            }
+        ]
+    }
+}

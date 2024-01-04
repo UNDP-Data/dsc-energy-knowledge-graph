@@ -1,0 +1,44 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Parliament",
+        "relations": [
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "transformation",
+                "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+            },
+            {
+                "Relation": "play",
+                "Subject": "Parliament",
+                "Object": "role",
+                "Description": "The Parliament will play a key \nrole, serving as an important platform for evidence-based policymaking and citizen \nengagement."
+            },
+            {
+                "Relation": "encourage",
+                "Subject": "UNDP",
+                "Object": "dialogue",
+                "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "partners",
+                "Object": "MAT",
+                "Description": "Key partners include MAT, MASFAMU, Parliament, local governments, CSOs \nand bilateral donor partners."
+            },
+            {
+                "Relation": "include",
+                "Subject": "which",
+                "Object": "requirements",
+                "Description": "In 2016 amendments to Law on Energy Efficiency and Renewable Energy were approved by Parliament \nwhich included some specific minimum energy efficiency requirements."
+            },
+            {
+                "Relation": "engage",
+                "Subject": "UNDP",
+                "Object": "institutions",
+                "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+            }
+        ]
+    }
+}

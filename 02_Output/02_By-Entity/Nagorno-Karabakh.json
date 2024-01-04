@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Nagorno-Karabakh",
+        "relations": [
+            {
+                "Relation": "cause",
+                "Subject": "hostilities",
+                "Object": "displacement",
+                "Description": "The recent large-scale military hostilities in the Nagorno-Karabakh conflict area caused a \nmassive displacement from Nagorno-Karabakh to Armenia."
+            },
+            {
+                "Relation": "expand",
+                "Subject": "UNDP",
+                "Object": "work",
+                "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Support",
+                "Object": "transition",
+                "Description": "Support will include: (a) improving preparedness for socioeconomic and environmental \nshocks in rural communities and secondary cities; (b) the transition from subsistence \nagriculture to value addition, processing and precise agriculture using climate-smart, green \nand digital technologies, including irrigation systems; (c) investments in small and medium\u0002sized enterprises, local start-up initiatives and tourism development; (d) boosting \nentrepreneurship, especially for women, and facilitation of trade, investment and exports; \n(e) income-generation and employment initiatives, including rehabilitation and integration \ninto social and economic life for war veterans, wounded and disabled during the recent \nmilitary escalation in the Nagorno-Karabakh conflict area; and (f) the development of a \nfuture-proof labour market."
+            }
+        ]
+    }
+}

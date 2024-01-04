@@ -1,0 +1,32 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Biomass",
+        "relations": [
+            {
+                "Relation": "play",
+                "Subject": "Biomass",
+                "Object": "role",
+                "Description": "Biomass,\nprobably the most important energy resource, will play an even more valuable role by making a transformation\nto a convenient fuel for household use and a dependable resource for industrial thermal energy supply."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "Biomass",
+                "Object": "sub",
+                "Description": "Biomass still remains a sub-sector not formally organised unlike the electricity and petroleum sub-sectors."
+            },
+            {
+                "Relation": "hybridize",
+                "Subject": "Configuration",
+                "Object": "Area",
+                "Description": "Configuration of Concentrating Solar M90 Dishes at \nNTPC- Dadri, India:\nPeak Capacity at STC 80,000 kcal/hr.;\nApplication Cooking (Baking, Boiling and Frying);\nSystem Configuration Hot Thermic Oil at 220\u00b0C;\nIntegration Hybridized with LPG Thermic Oil Heater;\nPeak Capacity at STC 80,000 kcal/hr.;\nTotal Concentrator Area 2 Nos. of M90 Dishes totaling 180 m2;\n#Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system for Rural Applications\n"
+            },
+            {
+                "Relation": "introduce",
+                "Subject": "SG2",
+                "Object": "technologies",
+                "Description": "In addition to technologies that are initiated in SG1 and are now (expectedly) being \nimplemented at a commercial scale, SG2 introduces new technologies such as CSP, \nFloatovoltaics, CPV, Biomass power generation, and geothermal energy particularly for \nheating applications."
+            }
+        ]
+    }
+}

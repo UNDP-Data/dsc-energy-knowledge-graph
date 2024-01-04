@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "South Asia",
+        "relations": [
+            {
+                "Relation": "place",
+                "Subject": "location",
+                "Object": "it",
+                "Description": "The Strategic geographical location of Sri Lanka places it in a very favourable situation to become a leader in the\nbunkering business in South Asia."
+            },
+            {
+                "Relation": "pose",
+                "Subject": "Mozambique",
+                "Object": "competition",
+                "Description": "Mozambique and Tanzania each pose \nconsiderable competition for Nigerian LNG for Asian markets (East Asia, South Asia \nand the Middle East), even more so when both schemes are considered together."
+            }
+        ]
+    }
+}
