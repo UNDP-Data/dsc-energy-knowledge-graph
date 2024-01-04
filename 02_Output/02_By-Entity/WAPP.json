@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "WAPP",
+        "relations": [
+            {
+                "Relation": "represent",
+                "Subject": "Pool",
+                "Object": "opportunity",
+                "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+            },
+            {
+                "Relation": "be",
+                "Subject": "View",
+                "Object": "hydro\u0002power",
+                "Description": "However, major \nView over the Niger River\nPhoto: IRENA/H. Lucasproportion of the power expected to be \ngenerated through WAPP will be hydro\u0002power."
+            },
+            {
+                "Relation": "approve",
+                "Subject": "\n",
+                "Object": "plan",
+                "Description": "WAPP \nhas approved a regional master plan for \ninfrastructure development with timings \nfor the different projects."
+            }
+        ]
+    }
+}

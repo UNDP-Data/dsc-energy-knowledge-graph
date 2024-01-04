@@ -1,0 +1,44 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Niger\u2019s",
+        "relations": [
+            {
+                "Relation": "offer",
+                "Subject": "This",
+                "Object": "opportunity",
+                "Description": "This offers a real opportunity to integrate \nrenewable energy into future plans and also \nstrengthen Niger\u2019s case for support from \ndevelopment partners."
+            },
+            {
+                "Relation": "mandate",
+                "Subject": "Partnership",
+                "Object": "authority",
+                "Description": "Niger\u2019s Public-Private Partnership (PPP) \noffice, which has expressed the desire to \npromote solar power investments, could \nbe mandated by the renewable energy law \nto become the permitting and licensing \nauthority for all renewable energy projects."
+            },
+            {
+                "Relation": "undermine",
+                "Subject": "reliance",
+                "Object": "resilience",
+                "Description": "The heavy reliance \non Nigeria for electricity can potentially \nundermine the resilience of Niger\u2019s energy \nsystem, as in 2008 and 2010."
+            },
+            {
+                "Relation": "prompt",
+                "Subject": "supplies",
+                "Object": "government",
+                "Description": "Erratic power \nsupplies from Nigeria prompted Niger\u2019s \ngovernment to gradually reduce its reliance \non Nigeria by purchasing new diesel-pow\u0002ered generators."
+            },
+            {
+                "Relation": "pay",
+                "Subject": "consumers",
+                "Object": "more",
+                "Description": "However, at USD 0.158/kWh, \nNiger\u2019s consumers pay approximately \nUSD 0.07/kWh more than citizens in the \naverage African country that rely heavily \non thermal power systems (Eberhard, et \n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "potential",
+                "Object": "opportunities",
+                "Description": "Niger\u2019s untapped \nrenewable energy potential provides \nopportunities for transforming urban and \nrural livelihoods."
+            }
+        ]
+    }
+}

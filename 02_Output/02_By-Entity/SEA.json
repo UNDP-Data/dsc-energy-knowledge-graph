@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "SEA",
+        "relations": [
+            {
+                "Relation": "ensure",
+                "Subject": "SEA",
+                "Object": "penetration",
+                "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+            },
+            {
+                "Relation": "encourage",
+                "Subject": "SEA",
+                "Object": "sector",
+                "Description": "SEA will encourage the private sector to set up their own charging\nstations to complement the CEB/LECO efforts, by securing fiscal incentives to\nthe industry."
+            },
+            {
+                "Relation": "hold",
+                "Subject": "Applications",
+                "Object": "investments",
+                "Description": "\n7d Applications received by the SEA when feed-in tariffs were on\noffer, but held up due to the termination to feed in tariffs, which\nare at various stages of the approval process will be channeled\nto a competitive bidding model by using suitable interim\napproaches such as offering project proponents preferential\ntreatments when they were opened up for\ncompetition considering the maturity of a project, investments\nmade, etc."
+            }
+        ]
+    }
+}

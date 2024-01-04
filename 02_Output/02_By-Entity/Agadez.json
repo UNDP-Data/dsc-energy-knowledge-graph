@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Agadez",
+        "relations": [
+            {
+                "Relation": "appear",
+                "Subject": "there",
+                "Object": "\n",
+                "Description": "Although solar radiation \nlevels are high in all four meteorological \nstations, there appears higher variability \nover the year in cities of Arlit and Agadez \nlocated in the northern and central regions \nrespectively."
+            },
+            {
+                "Relation": "draw",
+                "Subject": "Area",
+                "Object": "\n",
+                "Description": "The Agadez Area draws electricity \nfrom a coal-fired system at the moment, \nand this is estimated to have a generation \ncost of about USD 0.12/kWh."
+            }
+        ]
+    }
+}

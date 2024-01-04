@@ -1,0 +1,56 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Executive Board",
+        "relations": [
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results alignment and resources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "CPD",
+                "Object": "contributions",
+                "Description": "This CPD outlines UNDP contributions to national results and serves as the primary unit of \naccountability to the Executive Board for results alignment and resources assigned to the \nprogramme at the country level."
+            }
+        ]
+    }
+}

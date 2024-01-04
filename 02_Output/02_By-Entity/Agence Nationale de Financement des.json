@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Agence Nationale de Financement des",
+        "relations": [
+            {
+                "Relation": "manage",
+                "Subject": "Territoriales",
+                "Object": "funds",
+                "Description": "Agence Nationale de Financement des \nCollectivit\u00e9s Territoriales \u2013 ANFICT, the \nNational Agency for Financing National \nCollectives, manages two funds."
+            }
+        ]
+    }
+}

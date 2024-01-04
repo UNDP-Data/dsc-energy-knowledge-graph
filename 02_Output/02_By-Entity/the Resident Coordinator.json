@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the Resident Coordinator",
+        "relations": [
+            {
+                "Relation": "play",
+                "Subject": "UNDP",
+                "Object": "role",
+                "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+            },
+            {
+                "Relation": "expand",
+                "Subject": "UNDP",
+                "Object": "portfolio",
+                "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+            },
+            {
+                "Relation": "fulfil",
+                "Subject": "UNDP",
+                "Object": "facilitator",
+                "Description": "UNDP will fulfil its facilitator of integrated solutions role, including the extension of the \nUnited Nations flagship regional stabilization strategy, by providing advisory and technical \nsupport to the Resident Coordinator and the country team."
+            }
+        ]
+    }
+}

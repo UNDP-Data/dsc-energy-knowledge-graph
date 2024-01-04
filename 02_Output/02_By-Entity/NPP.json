@@ -1,0 +1,176 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "NPP",
+        "relations": [
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            },
+            {
+                "Relation": "launch",
+                "Subject": "MEW",
+                "Object": "Program",
+                "Description": "MEW launched National \nEnergy Supply Program (NESP) as a National Proirity Program (NPP) under infrastructure \ndevelopment cluster to develop larger sized generation and expansion of transmission and \ndistribution networks."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Program",
+                "Object": "generation",
+                "Description": "MEW launched National \nEnergy Supply Program (NESP) as a National Proirity Program (NPP) under infrastructure \ndevelopment cluster to develop larger sized generation and expansion of transmission and \ndistribution networks."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "considering",
+                "Object": "choice",
+                "Description": "Thus, whether considering total system cost or investment costs required for new generation, \nthe scenarios for life extension of the ANPP represent a least-cost policy choice for continuing to maintain \nnuclear capacity in Armenia\u2019 energy mix."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "damage",
+                "Description": "Following the Spitak earthquake on December 7, 1988, operation of the ANPP stopped for safety \nconsiderations, although there was no technical damage to the plant."
+            },
+            {
+                "Relation": "present",
+                "Subject": "numbers",
+                "Object": "shares",
+                "Description": "These numbers present the shares of electricity generation in 2016 by fuel, which shows that the ANPP, gas-fired \npower plants and renewables (including small HPPs and wind) were distributed almost equally in the total \ngeneration mix, each accounting for around one-third of the total."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "energy",
+                "Object": "source",
+                "Description": "Nuclear energy remains a significant supply source, accounting for \nup to 25% of TPES, until the ANPP exits from the system."
+            },
+            {
+                "Relation": "include",
+                "Subject": "scenario",
+                "Object": "introduction",
+                "Description": "In addition to existing generation units, this scenario includes the introduction of the RENCO \ngas-fired CCGT and the Masrik-1 solar PV power plants according to their scheduled Commercial Operation \nDates, and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their current \noperational lifetimes, 2027 and 2021, respectively. \n"
+            },
+            {
+                "Relation": "include",
+                "Subject": "scenario",
+                "Object": "introduction",
+                "Description": "As \nnoted earlier, in addition to existing generation units, this scenario includes the introduction of the RENCO \ngas-fired Yerevan CCGT2 and the Masrik-1 solar PV power plants according to their scheduled Commercial \nOperation Dates and also forces the decommissioning of the ANPP and Hrazdan TPP at the end of their \ncurrent operational lifetimes, 2027 and 2021, respectively."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "limitation",
+                "Object": "volume",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "play",
+                "Subject": "gas",
+                "Object": "role",
+                "Description": "As shown in Figure 3.9, the assumed limitation on implementing new generation from VRES reduces the\nvolume of renewables in TPES in 2036 by 36%, from 36 PJ to 25 PJ, while gas plays an increasingly large role in \nTPES after decommissioning of the ANPP in 2027, with an increased amount of between 20 \u2013 23 PJ, on average \nincrease over the period 2027-2036 of 27%."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "extension",
+                "Object": "cost19",
+                "Description": "As shown in Table 4.9, life extension of the ANPP to 2032 reduces total energy system cost19 by 0.8%, while \nextension to 2037 reduces it by 1.2%, principally through reduced use of imported natural gas and the fact that \nadditional investment costs for new generation are reduced."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "extension",
+                "Object": "it",
+                "Description": "As shown in Table 4.9, life extension of the ANPP to 2032 reduces total energy system cost19 by 0.8%, while \nextension to 2037 reduces it by 1.2%, principally through reduced use of imported natural gas and the fact that \nadditional investment costs for new generation are reduced."
+            },
+            {
+                "Relation": "start",
+                "Subject": "part",
+                "Object": "\n",
+                "Description": "Because part of the calculation of TPES starts \nfrom electricity produced and works backward to fuel used, the fact that NPP efficiency is around 33% means \nthat the forced production of additional nuclear power electricity generation as compared to BASE-R is \nreplacing the gas used in CCGTs, which have an efficiency of around 56%."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "reduction",
+                "Description": "In both scenarios that introduce new nuclear capacity after the decommissioning of ANPP, the \nadditional capacity increases of 300 and 600 MW for the new nuclear units is offset by the elimination of \nmedium-sized hydro (141 MW), while in the LWR 600 MW scenario there is a further reduction of new wind \ngeneration capacity (by 114 MW)."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "extension",
+                "Object": "requirements",
+                "Description": "Life extension of the ANPP to 2032 increases these investment requirements by 15%, while life \nextension to 2037 increases these costs by 12%, reflecting both the assumed additional $300 million and $600 \nmillion of further investment beyond the current program of safety upgrades, respectively, for these extensions \nand the fact that the longer life extension eliminates the investment required for both the mid-sized HPPs, \nShnokh and Loriberd."
+            },
+            {
+                "Relation": "be",
+                "Subject": "this",
+                "Object": "timing",
+                "Description": "(note: \n2027 is the indicative year as this is the timing for currently- planned shutdown of the ANPP)."
+            },
+            {
+                "Relation": "resemble",
+                "Subject": "scenario",
+                "Object": "scenario",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "scenario",
+                "Object": "plant",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "reduction",
+                "Object": "it",
+                "Description": "As Shown \nin Figure 4.23, while the Cumulative GHG 127 Mt scenario very closely resembles the earlier New Nuclear \nscenario with a 600 MW NPP added, there are differences in the implementation schedule, as the earlier \nforced nuclear scenario brought the plant into the system from 2027, while this GHG reduction brings it on \nline in 2033, which results in a small difference in total system cost due to discounting."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "scenarios",
+                "Object": "choice",
+                "Description": "Whether considering total system cost or investment costs required for new generation, the scenarios for life \nextension of the ANPP represent a least-cost policy choice for continuing to maintain nuclear capacity in \nArmenia\u2019 energy mix."
+            },
+            {
+                "Relation": "show",
+                "Subject": "chart",
+                "Object": "NPP",
+                "Description": "The chart shows the average NPP in the country \n"
+            }
+        ]
+    }
+}

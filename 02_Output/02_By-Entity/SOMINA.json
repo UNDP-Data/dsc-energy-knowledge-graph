@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "SOMINA",
+        "relations": [
+            {
+                "Relation": "produce",
+                "Subject": "SORAZ",
+                "Object": "MW",
+                "Description": "Furthermore, \nthe two Independent Power Producers \n(IPPs) SORAZ (a refinery) and SOMINA (a \nuranium mining company) produce 23 MW \nand 15 MW respectively to meet their elec\u0002tricity needs (Figure 4)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "NIGELEC",
+                "Description": "These include NIGELEC \nand SONICHAR, self-generators such as \nSORAZ and SOMINA and the IPP Aggreko."
+            }
+        ]
+    }
+}

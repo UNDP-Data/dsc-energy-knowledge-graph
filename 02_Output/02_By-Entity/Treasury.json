@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Treasury",
+        "relations": [
+            {
+                "Relation": "prepare",
+                "Subject": "utilities",
+                "Object": "proposals",
+                "Description": "Electricty distribution utilities shall prepare tariff proposals for the approval of PUCSL, which will seek\nconcurrence of the Treasury on Government subsidy."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "distributors",
+                "Object": "proposals",
+                "Description": "Petroleum\ndistributors shall prepare the product pricing proposals according to the agreed formula for the approval of the PUCSL\nwhich will seek concurrence of the Treasury on the Government subsidy."
+            }
+        ]
+    }
+}

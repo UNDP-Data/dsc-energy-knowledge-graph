@@ -1,0 +1,38 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Sustainable Development Goals",
+        "relations": [
+            {
+                "Relation": "involve",
+                "Subject": "management",
+                "Object": "coordination",
+                "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "Monitoring",
+                "Object": "accession",
+                "Description": "Monitoring and evaluation will be carried out based on the outcome and output indicators \nin the results and resources framework, aligned with indicators related to European Union\naccession and the national indicator framework for the Sustainable Development Goals."
+            },
+            {
+                "Relation": "index3ranke",
+                "Subject": "Goals",
+                "Object": "it",
+                "Description": "In \n2021, the global Sustainable Development Goals Index3ranked it 87th of 165 countries."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "development",
+                "Description": "UNDP supported the \ndevelopment of a national action plan to address sexual and gender-based violence, 2016-2020,\nand the preparation of the 2023-2027 plan, also demonstrating leadership in disability inclusion;\n(b) Integrated solutions to Sustainable Development Goals acceleration through improved \nplanning and financing \u2013 including Goals-aligned budgeting, tax reform, strengthening data \narchitecture, linkages across sectors such as sustainable tourism and environment, and vertical \nlinkages between national and subnational levels."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "design",
+                "Description": "UNDP will support the design of policy options for inclusive economic recovery, \nenabling public and private financing for the goals, including nature-positive financing, \nclimate/Goals budgeting, and innovative financing options such as debt-for-nature swaps, \ngreen/blue bonds, and market intelligence on Sustainable Development Goals investment \nopportunities."
+            }
+        ]
+    }
+}

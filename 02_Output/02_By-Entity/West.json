@@ -1,0 +1,38 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "West",
+        "relations": [
+            {
+                "Relation": "represent",
+                "Subject": "Pool",
+                "Object": "opportunity",
+                "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+            },
+            {
+                "Relation": "achieve",
+                "Subject": "programme",
+                "Object": "goal",
+                "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+            },
+            {
+                "Relation": "face",
+                "Subject": "systems",
+                "Object": "challenges",
+                "Description": "The electricity systems in West Africa also face challenges arising from \nexisting supply capacities unable to satisfy growing demand."
+            },
+            {
+                "Relation": "create",
+                "Subject": "IRENA",
+                "Object": "tool",
+                "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "Bank",
+                "Description": "These include the African Development Bank, Islamic Development Bank, World \nBank, West African Development Bank \nand other donors."
+            }
+        ]
+    }
+}

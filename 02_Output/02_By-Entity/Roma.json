@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Roma",
+        "relations": [
+            {
+                "Relation": "address",
+                "Subject": "UNDP",
+                "Object": "exclusion",
+                "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+            }
+        ]
+    }
+}

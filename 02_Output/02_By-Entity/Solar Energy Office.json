@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Solar Energy Office",
+        "relations": [
+            {
+                "Relation": "set",
+                "Subject": "Niger",
+                "Object": "\n",
+                "Description": "This dates back to the 1960s, \nwhen Niger set up the Solar Energy Office \n(Office de l\u2019Energie Solaire \u2013 ONERSOL), \nlater renamed the National Solar Energy \nCentre (Centre National d'\u00c9nergie Solaire \n\u2013 CNES)."
+            },
+            {
+                "Relation": "rename",
+                "Subject": "\n",
+                "Object": "Centre",
+                "Description": "This dates back to the 1960s, \nwhen Niger set up the Solar Energy Office \n(Office de l\u2019Energie Solaire \u2013 ONERSOL), \nlater renamed the National Solar Energy \nCentre (Centre National d'\u00c9nergie Solaire \n\u2013 CNES)."
+            }
+        ]
+    }
+}

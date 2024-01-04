@@ -1,0 +1,535 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "the United Nations Sustainable Development Cooperation Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "Easter",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Economic Forum",
+                "category": "Organization"
+            },
+            {
+                "entity": "Parliament",
+                "category": "Organization"
+            },
+            {
+                "entity": "The United Nations Sustainable Development Cooperation Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNSDCF",
+                "category": "Organization"
+            },
+            {
+                "entity": "the 2030 Agenda for Sustainable Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "Gender",
+                "category": "Organization"
+            },
+            {
+                "entity": "Inter-Parliamentary Union6",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Asian Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Global Compact",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "South",
+                "category": "Location"
+            },
+            {
+                "entity": "the Ministry of Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Green Climate Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "Sustainable Development Goals",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Colombo Development Dialogues",
+                "category": "Organization"
+            },
+            {
+                "entity": "South Asia",
+                "category": "Location"
+            },
+            {
+                "entity": "Global Environment Facility Small Grants Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Planning Department",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Food and Agriculture Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Citra Social Innovation Lab",
+                "category": "Organization"
+            },
+            {
+                "entity": "Nationally Determined Contributions",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Climate Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Cooperation Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Partnership and Communications Action",
+                "category": "Organization"
+            },
+            {
+                "entity": "the United Nations Country Team",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Executive Board",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Programme and Operations Policies and Procedures",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Internal Control Framework",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "Departments of External Resources",
+                "category": "Organization"
+            },
+            {
+                "entity": "SDG Data Portal\u2019",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "experience",
+                "Subject": "Lanka",
+                "Object": "one",
+                "Description": "Sri Lanka is experiencing one of the worst economic crises since independence in 1948, \nwith twin crises \u2013 depleted dollar reserves and excessive debt overhang."
+            },
+            {
+                "Relation": "compound",
+                "Subject": "COVID-19",
+                "Object": "issues",
+                "Description": "The COVID-19 pandemic compounded \nthese issues, with further loss of tourism revenue and the impact of lockdown measures."
+            },
+            {
+                "Relation": "push",
+                "Subject": "this",
+                "Object": "cost",
+                "Description": "Together with \nthe devaluation of the rupee, this has pushed up the cost of living by at least 30 per cent to \n40 per cent."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "system",
+                "Object": "relief",
+                "Description": "The social \nprotection system does not provide adequate relief, resulting in new poor and vulnerable groups."
+            },
+            {
+                "Relation": "face",
+                "Subject": "Lanka",
+                "Object": "challenges",
+                "Description": "Against this background, Sri Lanka faces challenges in protecting development gains."
+            },
+            {
+                "Relation": "index3ranke",
+                "Subject": "Goals",
+                "Object": "it",
+                "Description": "In \n2021, the global Sustainable Development Goals Index3ranked it 87th of 165 countries."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "onset",
+                "Object": "up",
+                "Description": "The onset of the socio-political and socio-economic crisis in 2022, and the rising trend in \npublic protests, indicate a build-up of frustration in a context of weakened governance \nstructures, perceived absence of accountability, and incoherent planning across multiple \npolitical cycles."
+            },
+            {
+                "Relation": "provoke",
+                "Subject": "strengthens",
+                "Object": "initiation",
+                "Description": "The crisis and the public demand for reform that reintroduces independent \noversight mechanisms, strengthens parliament, and removes the unrestrained power of the \nexecutive branch, have provoked the initiation of constitutional reform."
+            },
+            {
+                "Relation": "underscore",
+                "Subject": "report",
+                "Object": "status",
+                "Description": "The report of the \nUnited Nations Human Rights Commission, in March 2022, underscored the deteriorating \nstatus of human rights and heightened risks to social cohesion."
+            },
+            {
+                "Relation": "update",
+                "Subject": "Lanka",
+                "Object": "Contributions",
+                "Description": "In 2021, Sri Lanka updated its Nationally \nDetermined Contributions, renewing commitments to increase forest cover up to 32 per cent,\nreduce greenhouse gas emissions by 14.5 per cent by 2030, and achieve carbon neutrality in \nelectricity generation with no capacity addition of coal power plants by 2050."
+            },
+            {
+                "Relation": "respond",
+                "Subject": "Framework",
+                "Object": "priorities",
+                "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "UNDP",
+                "Object": ".",
+                "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+            },
+            {
+                "Relation": "increase",
+                "Subject": "decline",
+                "Object": "need",
+                "Description": "The continuous decline in official development assistance increased the need for exploring \nalternative and blended sources of financing for development activities, with international \nfinancial institutions, the World Bank, the Asian Development Bank, and non-traditional and \nprivate sector partners (United Nations Global Compact, Biodiversity Sri Lanka)."
+            },
+            {
+                "Relation": "note",
+                "Subject": "evaluation",
+                "Object": "approach",
+                "Description": "The evaluation noted the holistic approach of UNDP to engaging \nthe private sector, leveraging influence on economic empowerment, social cohesion, and\nprogress towards meeting gender-responsive targets."
+            },
+            {
+                "Relation": "receive",
+                "Subject": "UNDP",
+                "Object": "Seal",
+                "Description": "UNDP received the Gender Silver Seal in \n2021, and is aiming for gold in 2022, demonstrating a firm commitment to gender inclusion in \nits programming and management practices."
+            },
+            {
+                "Relation": "note",
+                "Subject": "evaluation",
+                "Object": "access",
+                "Description": "The evaluation noted the access UNDP has to \nvertical funds, such as the Green Climate Fund, assessed to have catalysed improved water \nmanagement for agriculture and drinking; disaster early warning; and standards and precedents \nfor bottom-up, intersectoral interventions."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "UNDP",
+                "Object": "advantages",
+                "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "development",
+                "Description": "UNDP supported the \ndevelopment of a national action plan to address sexual and gender-based violence, 2016-2020,\nand the preparation of the 2023-2027 plan, also demonstrating leadership in disability inclusion;\n(b) Integrated solutions to Sustainable Development Goals acceleration through improved \nplanning and financing \u2013 including Goals-aligned budgeting, tax reform, strengthening data \narchitecture, linkages across sectors such as sustainable tourism and environment, and vertical \nlinkages between national and subnational levels."
+            },
+            {
+                "Relation": "play",
+                "Subject": "organizations",
+                "Object": "role",
+                "Description": "Since volunteer-involving organizations and \nvolunteers play a crucial role in localizing the goals, such platforms and partnerships will be \nleveraged; (c) policy and thought leadership, drawing upon the UNDP Global Policy Network \nas well as country-level platforms such as the Colombo Development Dialogues, an established \n\u2018brand\u2019 with policy credibility; (d) Innovation and digital-led approaches."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "theory",
+                "Object": "pathways",
+                "Description": "The overarching theory of change of the programme suggests pathways for all people in \nSri Lanka, especially the most vulnerable, to contribute to and benefit from inclusive and \nsustainable development in a resilient, peaceful and cohesive society."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "pathway",
+                "Object": "policies",
+                "Description": "The pathway to more \ninclusive green recovery and growth comprises evidence-based economic policies that\ndecouple growth from environmental degradation; incentivize low-carbon, climate-sensitive \ninvestments; promote innovation, entrepreneurship and decent job creation for women and \nyouth; and facilitate better access to financing and markets."
+            },
+            {
+                "Relation": "require",
+                "Subject": "Transformation",
+                "Object": "system",
+                "Description": "Transformation of economic and social policies will require an underpinning \nsystem of governance based on the rule of law which is responsive, accountable, just, and able to effectively perform core government functions, deliver services, and enable social cohesion."
+            },
+            {
+                "Relation": "inform",
+                "Subject": "partners",
+                "Object": "design",
+                "Description": "Consultations (facilitated by the National Planning Department), as well as civil society \npartners, informed the programme design."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Understanding",
+                "Object": "\n",
+                "Description": "Understanding the barriers faced by vulnerable individuals, groups and geographical areas, \nand prioritizing support for actions to ensure that needs and rights are addressed, will be central \nto the country programme."
+            },
+            {
+                "Relation": "take",
+                "Subject": "programme",
+                "Object": "approach",
+                "Description": "The programme takes a crisis-prevention and risk-informed, agile \napproach, given past challenges, future uncertainties, the unprecedented scale of the current \nsocio-economic situation, and the converging crises."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "UNDP",
+                "Object": "support",
+                "Description": "UNDP will substantially increase its support to alleviating the human development impact \nof the socio-economic crises and will support immediate relief and recovery efforts."
+            },
+            {
+                "Relation": "result",
+                "Subject": "Fund",
+                "Object": "group",
+                "Description": "With the \nUnited Nations Children\u2019s Fund and the United Nations results group on social protection, \nUNDP will provide support to expanding social protection coverage for effective relief, and \nbuilding resilience."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "support",
+                "Description": "With the \nUnited Nations Children\u2019s Fund and the United Nations results group on social protection, \nUNDP will provide support to expanding social protection coverage for effective relief, and \nbuilding resilience."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Strengthening",
+                "Object": "focus",
+                "Description": "Strengthening livelihoods will be a key focus, and, in collaboration with the \nWorld Food Programme and the Food and Agriculture Organization, UNDP will address \nimpacts on food security, water security and agricultural production."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "approach",
+                "Description": "This will include a life\u0002cycle approach and horizontal expansion of social protection schemes, linking them to \u2018cash+\u2019\napproaches that generate livelihoods and assets."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "design",
+                "Description": "UNDP will support the design of policy options for inclusive economic recovery, \nenabling public and private financing for the goals, including nature-positive financing, \nclimate/Goals budgeting, and innovative financing options such as debt-for-nature swaps, \ngreen/blue bonds, and market intelligence on Sustainable Development Goals investment \nopportunities."
+            },
+            {
+                "Relation": "leverage",
+                "Subject": "UNDP",
+                "Object": "leadership",
+                "Description": "UNDP will leverage its thought-leadership and provision of integrated solutions in climate, \nnature and energy towards green development through support to implementation of Nationally \nDetermined Contributions, including gender standards, the National Climate Policy, and \ndevelopment of a \u20182050 Carbon Neutrality Roadmap\u2019."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "UNDP",
+                "Object": "process",
+                "Description": "In response to the energy crisis, UNDP will facilitate a consultative process,\nbased on innovation and research, to enhance energy resilience and self-sufficiency."
+            },
+            {
+                "Relation": "support",
+                "Subject": "programmes",
+                "Object": "transition",
+                "Description": "UNDP-led \nintegrated programmes in chemical and health-care waste management, sustainable tourism and \nagriculture, renewable energy, greening of the transport sector, and the phase-out of ozone\u0002depleting substances will support the green transition."
+            },
+            {
+                "Relation": "engage",
+                "Subject": "UNDP",
+                "Object": "institutions",
+                "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "programme",
+                "Object": "capacities",
+                "Description": "UNDP\u2019s flagship programme on local governance, funded by \nthe European Union, will strengthen capacities of decentralized and devolved structures by \npromoting horizontal and vertical development planning, localization of the Goals, and \neffective, inclusive and people-centred service delivery."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "reform",
+                "Description": "To strengthen the rule of law and contribute to an accountable and responsive justice \nsystem, UNDP prioritizes justice sector reform, building on its long-standing partnership with \nthe Ministry of Justice, supported by European Union and in collaboration with the \nUnited Nations Children\u2019s Fund."
+            },
+            {
+                "Relation": "include",
+                "Subject": "areas",
+                "Object": "awareness",
+                "Description": "Focus areas include: rights awareness and representation;\ntransparency of the justice sector; strengthened data capabilities; efficiency, coordination and \ncapacity of a broad range of justice actors to advance legislative and policy reform; and judicial \nmodernization in line with international standards and best practices."
+            },
+            {
+                "Relation": "accelerate",
+                "Subject": "COVID-19",
+                "Object": "use",
+                "Description": "While the COVID-19 pandemic may have accelerated the use \nof digital technologies, a more strategic, whole-of-society shift towards digital transformation \nis required to bridge gaps in public service provision, improve efficiency, and provide better \naccess for women and girls."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "evaluation",
+                "Object": "engagement",
+                "Description": "The previous country programme evaluation suggested a more active engagement with \ncivil society, including enhancement of civic space and promotion of participation at all levels."
+            },
+            {
+                "Relation": "include",
+                "Subject": "focus",
+                "Object": "zones",
+                "Description": "Its geographical focus will include the north, east, dry,\nintermediate and southern zones, where pockets of severe poverty persist (outcome 1) and\nwhere people are most vulnerable to the effects of climate change (outcome 2)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "leadership",
+                "Description": "UNDP will provide active leadership to Cooperation Framework Outcome Results Groups\n3 and 4 and will guide joint planning, monitoring, and reporting, including through to the Joint \nSteering Committee."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "UNDP",
+                "Object": "monitoring",
+                "Description": "Given the fluid circumstances in the country, UNDP will ensure \ncontinuous monitoring of the theory of change for variations in its key underlying assumptions,\nas well as robust programme management mechanisms to adapt to consequential changes in the \ndevelopment context."
+            },
+            {
+                "Relation": "present",
+                "Subject": "possibility",
+                "Object": "risks",
+                "Description": "With the deepening of internal fractures due to socio-economic crises with concomitant \npolitical dislocations, the possibility of increased inter-community tensions, violence and\nuprisings due to social instability presents risks to social cohesion."
+            },
+            {
+                "Relation": "affect",
+                "Subject": "disasters",
+                "Object": "ability",
+                "Description": "Natural and climate-induced disasters, as well as future COVID-19 outbreaks or other \npandemics, may affect the ability of communities and local stakeholders to stay engaged in \ndevelopment initiatives."
+            },
+            {
+                "Relation": "include",
+                "Subject": "actions",
+                "Object": "preparedness",
+                "Description": "Mitigating actions will include disaster preparedness and business \ncontinuity planning for uninterrupted programme delivery developed with United Nations\npartners, government, civil society, and communities."
+            },
+            {
+                "Relation": "review",
+                "Subject": "UNDP",
+                "Object": "processes",
+                "Description": "UNDP will review its business processes to improve efficiency and cost \neffectiveness, including a staffing structure with appropriate capacities, in line with the new \nenterprise resource platforms and global clustering initiatives."
+            },
+            {
+                "Relation": "have",
+                "Subject": "UNDP",
+                "Object": "record",
+                "Description": "As seen during the COVID-19 pandemic, \nUNDP has a track record of building flexibility and gender-responsiveness into programme\ndesign and implementation, leveraging digital solutions and developing new ways of working."
+            },
+            {
+                "Relation": "require",
+                "Subject": "dynamism",
+                "Object": "agility",
+                "Description": "The dynamism of the Sri Lanka development context will require continued agility to respond \nto changes."
+            },
+            {
+                "Relation": "monitor",
+                "Subject": "UNDP",
+                "Object": "assumptions",
+                "Description": "UNDP will monitor the underlying assumptions/risks of the programme and ensure \nreadiness for necessary adjustments."
+            },
+            {
+                "Relation": "enhance",
+                "Subject": "approach",
+                "Object": "integration",
+                "Description": "The envisioned portfolio management approach will enhance integration, creating an \neffective policy-practice nexus with field-work feedback loops; promote effective collaboration \nbetween teams, including between programme and operations; and ensure the best use of \navailable resources."
+            },
+            {
+                "Relation": "apply",
+                "Subject": "UNDP",
+                "Object": "standards",
+                "Description": "UNDP will apply the revised social and environmental standards to \nenhance programme quality, and the enterprise risk management policy to conduct regular \nquality assurance and risk assessments throughout the programme cycle."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "UNDP will ensure \nthat at least 15 per cent of programme expenditures are dedicated to initiatives where gender \nequality is a principal objective (\u2018GEN 3\u2019)."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "embed",
+                "Subject": "UNDP",
+                "Object": "system",
+                "Description": "As recommended by the \nprogramme evaluation, UNDP will embed a robust evidence-based monitoring and evaluation \nsystem in the programme and its projects, combining qualitative and quantitative data, and will \nsolicit citizen and beneficiary feedback to validate impact."
+            },
+            {
+                "Relation": "support",
+                "Subject": "partners",
+                "Object": "efforts",
+                "Description": "To facilitate data collection and analysis for monitoring the programme, UNSDCF, and the \nGoals, UNDP and its United Nations partners will support efforts to strengthen national \nstatistical systems, reinforce results-based processes, and utilize innovative data collection and \nmonitoring methods to identify and better target those left behind and capture transformative \nresults."
+            },
+            {
+                "Relation": "utilize",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "Recognizing the need for additional data sources, UNDP will utilize national data systems\n\u2013 including the UNDP-supported national \u2018SDG Data Portal\u2019, to the extent possible \u2013 to monitor \nprogress."
+            },
+            {
+                "Relation": "address",
+                "Subject": "UNDP",
+                "Object": "limitations",
+                "Description": "UNDP will address data limitations associated with results and resources framework indicators through baseline studies."
+            },
+            {
+                "Relation": "use",
+                "Subject": "UNDP",
+                "Object": "analysis",
+                "Description": "Guided by the country office gender \nstrategy and gender action plan, UNDP will use gender analysis, the gender marker and \ngender-responsive indicators to plan and monitor gender-related investments and results."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "systems",
+                "Object": "practices",
+                "Description": "Knowledge management systems will identify best practices \u2013 including from UNDP \nglobally \u2013 promote synergies, and facilitate joint learning with implementing partners and \nbeneficiaries."
+            },
+            {
+                "Relation": "engage",
+                "Subject": "Projects",
+                "Object": "beneficiaries",
+                "Description": "Projects will engage beneficiaries, particularly women, youth and vulnerable \ngroups, in development solutions, monitoring and learning."
+            },
+            {
+                "Relation": "allocate",
+                "Subject": "UNDP",
+                "Object": "3",
+                "Description": "UNDP will allocate at least 3 per cent of the programme budget, proportionately charged \nto projects, to cover monitoring, evaluation and communication expenses."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "plan",
+                "Object": "project",
+                "Description": "The costed \nevaluation plan indicates key project, programme and thematic evaluations to be undertaken to \nensure learning and accountability. \n"
+            }
+        ]
+    }
+}

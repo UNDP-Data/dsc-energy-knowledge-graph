@@ -1,0 +1,44 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "PUCSL",
+        "relations": [
+            {
+                "Relation": "set",
+                "Subject": "PUCSL",
+                "Object": "35",
+                "Description": "Although the PUCSL has been already set up under the provisions of the Public Utilities Commission of\nSri Lanka Act No. 35 of 2002 to regulate the physical infrastructure sectors, it will be empowered to execute regulation only\nwhen the individual industry legislations are enacted and made effective."
+            },
+            {
+                "Relation": "have",
+                "Subject": "PUCSL",
+                "Object": "authority",
+                "Description": "PUCSL, which will be the future petroleum sub-sector regulator, will have the authority to decide on the\nfuture structure of the petroleum sub sector."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "utilities",
+                "Object": "proposals",
+                "Description": "Electricty distribution utilities shall prepare tariff proposals for the approval of PUCSL, which will seek\nconcurrence of the Treasury on Government subsidy."
+            },
+            {
+                "Relation": "prepare",
+                "Subject": "distributors",
+                "Object": "proposals",
+                "Description": "Petroleum\ndistributors shall prepare the product pricing proposals according to the agreed formula for the approval of the PUCSL\nwhich will seek concurrence of the Treasury on the Government subsidy."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "strategies",
+                "Description": "Institutional Responsibility to implement these strategies to reach the targets specified lies with the ECF, and shall be\nassisated by electricity and petroleum utilities, the PUCSL and other stakholders."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "lies",
+                "Description": "Institutional Responsibility to implement this lies with the Ministry of Power and Energy and the Ministry of Finance,\nassisted by the PUCSL.\n"
+            }
+        ]
+    }
+}

@@ -1,0 +1,509 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "NREP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Afghanistan National Standard Authority",
+                "category": "Organization"
+            },
+            {
+                "entity": "Inter-Ministerial Commission for Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "MEW Ministry of Energy and Water",
+                "category": "Organization"
+            },
+            {
+                "entity": "MRRD Ministry",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Rehabilitation and Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Megawatt",
+                "category": "Organization"
+            },
+            {
+                "entity": "NEPA National Environmental Protection Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "NSP National Solidarity Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Energy Coordination Committee",
+                "category": "Organization"
+            },
+            {
+                "entity": "REED Rural Energy and Enterprise Directorate",
+                "category": "Organization"
+            },
+            {
+                "entity": "RED Renewable Energy Department",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Energy and Water (MEW",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Afghan Government",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Afghanistan National Development Strategy",
+                "category": "Organization"
+            },
+            {
+                "entity": "ANDS",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Energy Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Renewable Rural Energy Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "RREP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Poverty Line",
+                "category": "Organization"
+            },
+            {
+                "entity": "O&M",
+                "category": "Organization"
+            },
+            {
+                "entity": "Afghanistan National Standards Authority",
+                "category": "Organization"
+            },
+            {
+                "entity": "MRRD",
+                "category": "Organization"
+            },
+            {
+                "entity": "MEW",
+                "category": "Organization"
+            },
+            {
+                "entity": "Renewable Energy Resources",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Potential and Status of Renewable Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "MRRD\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Energy and Enterprise Directorate",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Energy Service Centres",
+                "category": "Organization"
+            },
+            {
+                "entity": "Inter-Ministerial Commission for Energy (ICE",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Economy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Electrification",
+                "category": "Organization"
+            },
+            {
+                "entity": "ICE",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Rural Energy Co-ordination",
+                "category": "Organization"
+            },
+            {
+                "entity": "Asian Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Proirity Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "NPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Renewable Energy Department of MEW",
+                "category": "Organization"
+            },
+            {
+                "entity": "Energy Policy Department",
+                "category": "Organization"
+            },
+            {
+                "entity": "Community Development Councils",
+                "category": "Organization"
+            },
+            {
+                "entity": "Energy for Rural Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "ERDA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Office of the Minister",
+                "category": "Organization"
+            },
+            {
+                "entity": "Provincial Reconstruction Teams",
+                "category": "Organization"
+            },
+            {
+                "entity": "the MRRD Rural Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "NEPA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Afghanistan National Standards Authority",
+                "category": "Organization"
+            },
+            {
+                "entity": "Policy Oversight Committee",
+                "category": "Organization"
+            },
+            {
+                "entity": "RED",
+                "category": "Organization"
+            },
+            {
+                "entity": "Technical Working Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "ANSA",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Mines",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Education",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Agriculture, Irrigation and Livestock",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "be",
+                "Subject": "policy",
+                "Object": "component",
+                "Description": "This policy will be a component of National Energy Policy of Afghanistan to be \ndeveloped by MEW."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Afghanistan",
+                "Object": "starter",
+                "Description": "While Afghanistan is a late starter in providing access to clean energy to its rural population, it \nembarks on the journey with considerable advantages."
+            },
+            {
+                "Relation": "present",
+                "Subject": "country",
+                "Object": "opportunities",
+                "Description": "While the country presents unique opportunities and challenges, \nthere is relevant experience in similar terrains, political, environmental and social contexts to \nenable the creation of a suite of policy measures more likely to lead to successful outcomes."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "electrification",
+                "Object": "delivery",
+                "Description": "Rural electrification can thus facilitate social service delivery and \nhelp improve the well-being of those living below the National Poverty Line without \naccess to renewable energy supplies."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Displacing",
+                "Object": "benefits",
+                "Description": "Displacing \ngreenhouse gas emissions will provide significant global climate change benefits."
+            },
+            {
+                "Relation": "involve",
+                "Subject": "facilitate",
+                "Object": "companies",
+                "Description": "To facilitate private sector participation as rural energy service providers, rural service \ndelivery mechanisms may involve energy service companies, equipment dealers or \ncooperatives."
+            },
+            {
+                "Relation": "be",
+                "Subject": "credit",
+                "Object": "mechanism",
+                "Description": "Long-term consumer credit through a microfinance \norganization may be one mechanism to address initial costs."
+            },
+            {
+                "Relation": "demand",
+                "Subject": "installations",
+                "Object": "availability",
+                "Description": ";\n\u2022 Rural energy installations will demand the availability of professional technical service \nand support within a reasonable distance, preferably not beyond the immediate district."
+            },
+            {
+                "Relation": "require",
+                "Subject": "environment",
+                "Object": "introduction",
+                "Description": "An enabling environment requires the introduction of certain regulatory measures from the \nGovernment to attract private sector and promote sustainability."
+            },
+            {
+                "Relation": "include",
+                "Subject": "measures",
+                "Object": "\u2022",
+                "Description": "These regulatory measures \nwill include: \n\u2022 Developing an appropriate legal framework for pricing and tariff structures, working \nwith rural communities to support the integration of renewable energy into the \neconomy and attract private sector investment."
+            },
+            {
+                "Relation": "include",
+                "Subject": "barriers",
+                "Object": "framework",
+                "Description": "The significant barriers to the implementation of renewable energy that need to be addressed \ninclude: \n\u2022 Poor institutional framework and infrastructure at the sub-national level for rural \nenergy promotion ;\n\u2022 Quality of equipment and services related to the renewable energy system installations. ;\n\u2022 Poor baseline data availability; and lack of information on local renewable energy \nresources."
+            },
+            {
+                "Relation": "include",
+                "Subject": "energy",
+                "Object": "following",
+                "Description": "For the purpose of this Policy, renewable energy includes the following: \n1. hydropower plants \n2."
+            },
+            {
+                "Relation": "require",
+                "Subject": "Some",
+                "Object": "solutions",
+                "Description": "Some of the wind and solar projects may require hybrid solutions to provide continuous \nenergy supply."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Subsidies",
+                "Object": "capacity",
+                "Description": ";\n#5.1.1 Mini/Micro-Hydropower Plants \nSubsidies will be provided for the implementation of mini/micro-hydro plants up to 1 MW \ncapacity through an appropriate delivery mechanism."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "projects",
+                "Object": "sites",
+                "Description": "These projects \nwill essentially comprise remote sites or represent areas characterized by uneconomic levels of \npower demand."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Government",
+                "Object": "frameworks",
+                "Description": "The \nGovernment will develop regulatory frameworks for independent power producers, including \npower purchase agreements and a standardized framework for tariffs."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Strengthening",
+                "Object": "strategy",
+                "Description": "Strengthening private entrepreneurship will be an important strategy to fulfil rural energy \nneeds."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "Government",
+                "Object": "provision",
+                "Description": "The \nGovernment will facilitate the provision of credit, certificate or licensing procedures for private \nsector, power tariffs, and capital cost subsidies for projects that support the development of \nrural energy systems."
+            },
+            {
+                "Relation": "combine",
+                "Subject": "approaches",
+                "Object": "involvement",
+                "Description": "Effective policy approaches for reaching the poorest may combine private sector involvement \nwith targeted public subsidies linked to development objectives and strategies for increasing \nincomes."
+            },
+            {
+                "Relation": "include",
+                "Subject": "which",
+                "Object": "micro",
+                "Description": "In consideration of the high capital costs for many rural electrification options and the low cash \ncapacity of rural households, innovative small-scale, affordable financing mechanisms will need \nto be developed, which may include micro-credit, leasing, prepaid meters and fees for service \nprovision."
+            },
+            {
+                "Relation": "investigate",
+                "Subject": "Government",
+                "Object": "potential",
+                "Description": "The Government will investigate the potential for micro-credit financing of \nrenewable energy projects."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Government",
+                "Object": "subsidies",
+                "Description": "The Government may provide subsidies to communities to target the poorest segments \nof the population in rural areas."
+            },
+            {
+                "Relation": "help",
+                "Subject": "introduction",
+                "Object": "consumers",
+                "Description": "The introduction of energy efficiency, coupled with renewable energy technology in rural areas, \nwill help rural consumers by reducing supply constraint and lowering their own energy \nexpenditure."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "measures",
+                "Object": "costs",
+                "Description": "Energy efficiency measures in off-grid and grid-connected systems will reduce \ncosts through lower generation investment costs and reduced energy usage, and will also abate \npollution and displace the importation of fossil fuels."
+            },
+            {
+                "Relation": "include",
+                "Subject": "stakeholders",
+                "Object": "following",
+                "Description": "The institutional stakeholders in renewable energy in Afghanistan include the following."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "\n",
+                "Object": "range",
+                "Description": "ICE \nbrought together a range of Government and donor interests to assure coordinated action and \npractical planning."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "committee",
+                "Object": "agencies",
+                "Description": "The ICE Sub-committee on \nRenewable Energy and Rural Electrification brought together Government agencies, donors and \nnon-governmental actors involved in the sector."
+            },
+            {
+                "Relation": "have",
+                "Subject": "MEW",
+                "Object": "responsibility",
+                "Description": "MEW has overall responsibility for electrification, mainly to provide energy needs to the bulk of \nthe population."
+            },
+            {
+                "Relation": "launch",
+                "Subject": "MEW",
+                "Object": "Program",
+                "Description": "MEW launched National \nEnergy Supply Program (NESP) as a National Proirity Program (NPP) under infrastructure \ndevelopment cluster to develop larger sized generation and expansion of transmission and \ndistribution networks."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Program",
+                "Object": "generation",
+                "Description": "MEW launched National \nEnergy Supply Program (NESP) as a National Proirity Program (NPP) under infrastructure \ndevelopment cluster to develop larger sized generation and expansion of transmission and \ndistribution networks."
+            },
+            {
+                "Relation": "have",
+                "Subject": "MRRD",
+                "Object": "oversight",
+                "Description": "MRRD has general oversight of delivery of all non-farm programmes in rural Afghanistan."
+            },
+            {
+                "Relation": "have",
+                "Subject": "MRRD",
+                "Object": "point",
+                "Description": "Through its \nprovincial offices, MRRD has a point of liaison with provincial governments."
+            },
+            {
+                "Relation": "support",
+                "Subject": "NSP",
+                "Object": "access",
+                "Description": "MRRD has been the principal arm of the Government in promoting rural \nelectrification through its programs: NSP has supported energy access to rural areas through \nthe installation of micro-hydropower plants, solar home systems and diesel generators."
+            },
+            {
+                "Relation": "launch",
+                "Subject": "\n",
+                "Object": "Energy",
+                "Description": "MRRD \nlaunched Energy for Rural Development in Afghanistan (ERDA) under the National Area-Based \nDevelopment Programme (NABDP) in 2008 to address sustainability issues related to rural \nenergy projects."
+            },
+            {
+                "Relation": "include",
+                "Subject": "cases",
+                "Object": "projects",
+                "Description": "many cases include renewable rural energy projects that meet the local demand."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "MRRD",
+                "Object": "projects",
+                "Description": "In case, MRRD is implementing projects above 100 kW capacity, it \nwill be coordinated with MEW and the MEW when implementing projects below 100 kW in the \nrural area will be coordinated with MRRD."
+            },
+            {
+                "Relation": "clarify",
+                "Subject": "REED",
+                "Object": "practices",
+                "Description": "REED will clarify current relevant practices in renewable energy development for rural area, set \nout standards and codes of practice for adoption, and establish implementation procedures and \nguidelines to attract and facilitate donor assistance and private investment in renewable energy \nand rural electrification."
+            },
+            {
+                "Relation": "liaise",
+                "Subject": "REED",
+                "Object": "Authority",
+                "Description": "REED will liaise with the Ministry of Finance, the Ministry of Economy, MEW, the National \nEnvironment Protection Agency (NEPA), the Afghanistan National Standards Authority (ANSA) \nand other relevant Government institutions on standardization, maximizing the socio-economic \nimpact of rural electrification while minimizing environmental hazards."
+            },
+            {
+                "Relation": "convene",
+                "Subject": "REED",
+                "Object": "Group",
+                "Description": "At technical level, REED and RED will convene a Technical Working Group to include \nrepresentatives from MEW, NEPA, ANSA, MRRD, the Ministry of Mines, the Ministry of Public \nHealth, the Ministry of Education, the Ministry of Agriculture, Irrigation and Livestock, donors, \nsector NGOs and any other pertinent body, to coordinate renewable energy development and \ndelivery of renewable energy services to key economic and social sectors."
+            },
+            {
+                "Relation": "maintain",
+                "Subject": "REED",
+                "Object": "liaison",
+                "Description": "REED will maintain close liaison with NEPA in working towards accession to the Kyoto Protocol, \nand to develop and coordinate Clean Development Mechanism projects designed to qualify for \ncarbon credits to reduce the cost of investment in renewable energy rural electrification."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "REED",
+                "Object": "database",
+                "Description": "REED and RED will develop a database for the assessment and implementation of rural \nrenewable energy projects, and disseminate this information to all decision-making bodies on \nall levels."
+            },
+            {
+                "Relation": "coordinate",
+                "Subject": "participants",
+                "Object": "activities",
+                "Description": "In the interest of coordination, all participants will coordinate activities in renewable energy \nand rural electrification with REED of MRRD and RED of MEW."
+            },
+            {
+                "Relation": "meet",
+                "Subject": "development",
+                "Object": "demand",
+                "Description": "The purpose of the RREP is to create the conditions for the development of renewable \ntechnology for rural communities to meet their energy demand."
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "Government",
+                "Object": "approach",
+                "Description": "The Government will adopt a \nphased, managed and partnership approach to renewable energy projects that are well \nconceived and show the potential to providing acceptable social, environmental and financial \nreturns for all investors and stakeholders."
+            },
+            {
+                "Relation": "lessen",
+                "Subject": "This",
+                "Object": "strain",
+                "Description": "This will lessen the strain on fiscal resources and \nhold greater potential for successful implementation. \n"
+            },
+            {
+                "Relation": "nurture",
+                "Subject": "environment",
+                "Object": "technologies",
+                "Description": "An appropriate enabling environment towards full commercial operation will nurture the \ntechnologies that are proven to meet these Policy objectives."
+            }
+        ]
+    }
+}

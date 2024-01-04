@@ -1,0 +1,596 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "UN",
+        "relations": [
+            {
+                "Relation": "engage",
+                "Subject": "UNDP",
+                "Object": "programmes",
+                "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+            },
+            {
+                "Relation": "think",
+                "Subject": "comprises",
+                "Object": "leadership",
+                "Description": "The UNDP integrator role in North Macedonia comprises thought leadership, a platform \napproach, and programmatic focus on innovation and resilience."
+            },
+            {
+                "Relation": "apply",
+                "Subject": "UNDP",
+                "Object": "data",
+                "Description": "UNDP will apply modern data and analytics to join social, economic \nand environmental analysis to integrated approaches and developing scenarios that address \ncomplex development problems, such as COVID-19 recovery, air pollution, corruption, and \nout-migration."
+            },
+            {
+                "Relation": "convene",
+                "Subject": "UNDP",
+                "Object": "stakeholders",
+                "Description": "UNDP will convene multiple stakeholders \u2013 including start-ups, \naccelerators, international financial institutions and domestic banks \u2013 to develop sustainable \nsolutions for national challenges."
+            },
+            {
+                "Relation": "scale",
+                "Subject": "UNDP",
+                "Object": "innovations",
+                "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+            },
+            {
+                "Relation": "test",
+                "Subject": "UNDP",
+                "Object": "solutions",
+                "Description": "UNDP will test new solutions to help businesses navigate the COVID-19 \neconomy and will inform government policies for creating sustainable, formal and green jobs."
+            },
+            {
+                "Relation": "engage",
+                "Subject": "UNDP",
+                "Object": "stakeholders",
+                "Description": "UNDP will engage public and private stakeholders to invest in the business ecosystem \nwith a focus on entrepreneurship, enhanced value chains, and trade."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "businesses",
+                "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+            },
+            {
+                "Relation": "demonstrate",
+                "Subject": "UNDP",
+                "Object": "effectiveness",
+                "Description": "the previous programme, UNDP demonstrated its effectiveness by supporting the creation of \nover 13,000 formal sector jobs and 12,000 new small businesses, accounting for 12 per cent\nof new companies registered during the period, and 10 new social services serving vulnerable \ngroups."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "frameworks",
+                "Description": "UNDP will strengthen policy frameworks and local capacities for climate change \nadaptation and mitigation; efficient management of ecosystem resources, especially water;\nand disaster risk reduction."
+            },
+            {
+                "Relation": "build",
+                "Subject": "UNDP",
+                "Object": "dams",
+                "Description": "UNDP also \u201cbuilt back \nbetter\u201d 5 dams, 4 bridges, 22 km of roads, 102 km of riverbeds and channels, and areas \naffected by landslides."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "planning",
+                "Description": "UNDP will support strategic planning, regulatory and oversight capacities at the central \nlevel, and municipal-level capacity development for analysis, decision-making, budgeting \nand execution."
+            },
+            {
+                "Relation": "demonstrate",
+                "Subject": "UNDP",
+                "Object": "expertise",
+                "Description": "UNDP has demonstrated \nexpertise in strengthening municipal governance and capacities for economic development, \nservice delivery, and citizen participation in the context of ongoing decentralization."
+            },
+            {
+                "Relation": "play",
+                "Subject": "UNDP",
+                "Object": "role",
+                "Description": "UNDP will play an integrator role in these areas to identify policy and programme solutions \nand take proven interventions to scale."
+            },
+            {
+                "Relation": "integrate",
+                "Subject": "strategies",
+                "Object": "response",
+                "Description": "In line with the UNDP COVID-19 crisis response and recovery offer and the\nUnited Nations system strategy for North Macedonia, programme strategies integrate \npandemic response and recovery measures."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "development",
+                "Description": "Under priority 1, UNDP, with United Nations system partners (UNFPA, International \nLabour Organization, UN-Women, International Organization for Migration), will support \neconomic development that is risk-informed and inclusive:\n(a) UNDP will work with the Government and business-serving organizations to \nimplement policy and regulatory solutions for an enabling business environment."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "greening",
+                "Description": "UNDP will support \nthe \u2018greening\u2019 of value chains and ensure that the equity and gender dimensions of small \nbusiness in development policies and incentives are tailored to populations with specific \nvulnerabilities.\n"
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "standards",
+                "Description": "UNDP will support new occupational \nstandards and curricula, and will pilot innovative employment support measures, \nespecially for women and people who lost jobs due to COVID-19."
+            },
+            {
+                "Relation": "address",
+                "Subject": "UNDP",
+                "Object": "exclusion",
+                "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "policies",
+                "Description": "Under priority 2, UNDP, with United Nations system partners (Food and Agriculture \nOrganization, United Nations Office for Disaster Risk Reduction, UN-Women, World Health \nOrganization), will strengthen policies and implementation capacities for climate change\nadaptation and mitigation, management of ecosystem resources, and disaster risk reduction."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "pathways",
+                "Description": "UNDP will promote system \ntransformation pathways addressing society\u2019s relationship with nature, beyond the \nenvironment silo."
+            },
+            {
+                "Relation": "assist",
+                "Subject": "UNDP",
+                "Object": "country",
+                "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+            },
+            {
+                "Relation": "support",
+                "Subject": "c",
+                "Object": "preparation",
+                "Description": "(c) UNDP will support the preparation of integrated and data-informed disaster risk and \nrecovery plans."
+            },
+            {
+                "Relation": "support",
+                "Subject": "d",
+                "Object": "population",
+                "Description": "(d) UNDP will support the rural population in increasing sustainable agricultural \nproduction and farm incomes, focused on small-holders and especially female-headed \nhouseholds, through strengthened agriculture and rural development strategies and \npromotion of agri-business value chains."
+            },
+            {
+                "Relation": "support",
+                "Subject": "partners",
+                "Object": "administration",
+                "Description": "Under priority 3, UNDP, with United Nations system partners (Office of the United \nNations High Commissioner for Refugees, United Nations Children\u2019s Fund, UN-Women, \nOffice of the High Commissioner for Human Rights) will support more effective public \nadministration and transparent and accountable governance."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "preparation",
+                "Description": "UNDP will support the \npreparation of gender-sensitive, risk-informed response and recovery measures that \nreach beyond the health sector to include municipalities and other sector stakeholders."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "UNDP",
+                "Object": "capacities",
+                "Description": "(b) UNDP will develop local government capacities for enhanced analysis, decision\u0002making, budgeting and execution, and measurement of policy outcomes."
+            },
+            {
+                "Relation": "depend",
+                "Subject": "Linkages",
+                "Object": "reform",
+                "Description": "Linkages between the \noutcomes: (a) efforts to stimulate small business development and increase business \nproductivity will depend upon effective governance reform; (b) governance reform, \nespecially for budget transparency, is essential in promoting low emission development and \nresilience to climate change; (c) preparedness for future health emergencies and pandemics \nwill benefit from UNDP experience in disaster risk reduction."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Macedonia",
+                "Object": "country",
+                "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "Government",
+                "Object": "costs",
+                "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+            },
+            {
+                "Relation": "demonstrate",
+                "Subject": "\n",
+                "Object": "linkage",
+                "Description": "This \ndemonstrates a clear linkage between the support provided by UNDP, the Framework\noutcomes, and sustainable development results."
+            },
+            {
+                "Relation": "form",
+                "Subject": "areas",
+                "Object": "backbone",
+                "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+            },
+            {
+                "Relation": "place",
+                "Subject": "UNSDCF",
+                "Object": "people",
+                "Description": "The UNSDCF places people at the centre of development in a bid to reach the 83 per cent \nof the rural population who are more vulnerable to poverty and insecurity and are left the \nfurthest behind in political representation, social and economic development, employment and \nsocial protection."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "system",
+                "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+            },
+            {
+                "Relation": "have",
+                "Subject": "UNDP",
+                "Object": "resilience",
+                "Description": "UNDP has a \nsuccessful track record supporting resilience as the lead United Nations organization in the\nLake Chad Basin Stabilization Facility in Niger, which has enhanced the resilience capacities \nof local authorities and communities in the Diffa region."
+            },
+            {
+                "Relation": "lay",
+                "Subject": "positioning",
+                "Object": "groundwork",
+                "Description": "This UNDP strategic positioning, lauded by the Government and partners, has laid the \ngroundwork for: (a) resilient institutions, systems and communities; (b) conflict prevention, \npeacebuilding and social cohesion; (c) stabilization and search for innovative sustainable \nsolutions in areas affected by insecurity and climate change; (d) constructive policy dialogue \nand an operational coordination framework with the entire electorate, notably women and \nyouth, to capitalize on the achievements of the 2019-2021 electoral process and programme \ncycle."
+            },
+            {
+                "Relation": "expand",
+                "Subject": "UNDP",
+                "Object": "offer",
+                "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+            },
+            {
+                "Relation": "leverage",
+                "Subject": "UNDP",
+                "Object": "position",
+                "Description": "UNDP will leverage its position in the \nUnited Nations country team to experiment and scale up innovation and integrated\ndevelopment solutions."
+            },
+            {
+                "Relation": "offer",
+                "Subject": "UNDP",
+                "Object": "expertise",
+                "Description": "Drawing lessons from the previous country programme, 2019-2022, UNDP will offer its \noperational and technical expertise to promote innovation in building the resilience of \ncommunities, systems and productive value chains."
+            },
+            {
+                "Relation": "consolidate",
+                "Subject": "UNDP",
+                "Object": "leadership",
+                "Description": "UNDP will consolidate its leadership in the United Nations business operation strategy, supporting a coherent, harmonized, effective inter-agency approach."
+            },
+            {
+                "Relation": "use",
+                "Subject": "UNDP",
+                "Object": "experience",
+                "Description": "UNDP will also use its experience leveraging international public \nfinance while unlocking private sector investment for the SDGs."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "UNDP",
+                "Object": "partnerships",
+                "Description": "To implement these programme priorities, UNDP will develop technical partnerships with \nthe Government, United Nations, development partners, the private sector, and civil society \nand local communities."
+            },
+            {
+                "Relation": "be",
+                "Subject": "strength",
+                "Object": "\n",
+                "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+            },
+            {
+                "Relation": "continue",
+                "Subject": "UNDP",
+                "Object": "collaboration",
+                "Description": "UNDP will continue its strategic collaboration to mobilize technical \nand financial partners, as well as national resources, in support of socioeconomic development \ninitiatives and by leveraging the humanitarian-development-peace-climate nexus."
+            },
+            {
+                "Relation": "fulfil",
+                "Subject": "UNDP",
+                "Object": "facilitator",
+                "Description": "UNDP will fulfil its facilitator of integrated solutions role, including the extension of the \nUnited Nations flagship regional stabilization strategy, by providing advisory and technical \nsupport to the Resident Coordinator and the country team."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "UNDP",
+                "Object": "leadership",
+                "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "UNDP",
+                "Object": "\n",
+                "Description": "In a context marked by vulnerability to climate change and strong pressures on natural \nresources that threaten the ecosystem and population\u2019s living conditions, UNDP will contribute \nto developing the capacities of national actors and to improving the management of natural \nresources by adopting best practices related to: (a) biodiversity protection; (b) ecosystem \nrestoration; (c) reduction of pressure on natural resources; and (d) natural disaster management."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "chains",
+                "Description": "UNDP will support sustainable, modern, competitive agricultural value chains, including \nadoption of international standards and smart production systems that protect natural resources\nand promote a green economy."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "initiatives",
+                "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+            },
+            {
+                "Relation": "assist",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "UNDP will assist the Government in mobilizing climate \nresources and implementing regional initiatives and programmes."
+            },
+            {
+                "Relation": "foster",
+                "Subject": "UNDP",
+                "Object": "dialogue",
+                "Description": "Based on current country programme successes, UNDP will foster dialogue and \ncollaborative partnerships on sustainable natural resources management with ministries \nresponsible for environment, agriculture, livestock, water resources, humanitarian action, \ndisaster management, and women and youth promotion in collaboration with FAO, UNEP and \nthe United Nations Capital Development Fund (UNCDF) on unlocking sources of private \nfinance."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "interventions",
+                "Description": "UNDP will support interventions to increase farming incomes and diversification of \nthe rural economy to reduce rural household vulnerability to climate change and natural \ndisasters."
+            },
+            {
+                "Relation": "encourage",
+                "Subject": "UNDP",
+                "Object": "dialogue",
+                "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "capacities",
+                "Description": "UNDP will strengthen institutional and community capacities for disaster risk reduction \nand management in the post-COVID-19 recovery context."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "governance",
+                "Description": "Under this pillar, UNDP prioritizes participatory, inclusive, equitable, accountable and \ntransparent governance."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "security",
+                "Description": "In response to the national policy on modernization of government services for a more \neffective civil service and transformed State structure, UNDP will prioritize the security of \nterritories through a mutual security and civilian coordination mechanism and funding."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "interventions",
+                "Description": "UNDP will support interventions aimed\nat strengthening the peace and security architecture to enhance cross-border coordination and \nconflict-prevention mechanisms."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "UNDP will support national efforts to deepen impartiality, accountability, efficiency, \ninnovation and digitalization of political and legal institutions as well as local and central \nentities."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "frameworks",
+                "Description": "UNDP will strengthen legal and regulatory frameworks in line with international \nnorms and standards."
+            },
+            {
+                "Relation": "continue",
+                "Subject": "UNDP",
+                "Object": "support",
+                "Description": "To contribute to improved national development management, UNDP will continue its \nstrategic support to and monitoring of the implementation of the national development plan, \nincluding the SDGs."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "document",
+                "Object": "contributions",
+                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at country level."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "\n",
+                "Object": "coordination",
+                "Description": "UNDP \nwill increase coordination and continuous monitoring and surveillance with the United Nations \nDepartment of Safety and Security and through civil-military coordination."
+            },
+            {
+                "Relation": "include",
+                "Subject": "risks",
+                "Object": "processes",
+                "Description": "Operational risks include UNDP internal processes and limited capacity of government \ninstitutions and national partners to swiftly implement programmes and apply HACT rules and \nprocedures."
+            },
+            {
+                "Relation": "apply",
+                "Subject": "activities",
+                "Object": "standards",
+                "Description": "Programme activities will apply the revised UNDP \nsocial and environmental standards to enhance programme quality and the enterprise risk \nmanagement policy to conduct regular quality assurance and risk assessments throughout the \nprogramme cycle."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "UNDP",
+                "Object": "strategies",
+                "Description": "UNDP will strengthen its strategies for knowledge management, partnerships, \ncommunication and resource mobilization, including diversifying its partnership base through \nstrategic innovative advocacy and regular engagement with donors and partners."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "Plan",
+                "Object": "monitoring",
+                "Description": "Strategic Plan, 2022-2025, the UNSDCF, 2023-2027, and the Economic and Social \nDevelopment Plan (PDES), 2022-2026, will ensure continuous monitoring to inform decision\u0002making and to reach the programme\u2019s targets."
+            },
+            {
+                "Relation": "use",
+                "Subject": "UNDP",
+                "Object": "practices",
+                "Description": "UNDP will use adaptive management practices and proven innovative \ntools and methodologies, including online data collection mechanisms from beneficiaries and \nreal-time participatory monitoring."
+            },
+            {
+                "Relation": "place",
+                "Subject": "2023\u20132027",
+                "Object": "people",
+                "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+            },
+            {
+                "Relation": "feature",
+                "Subject": "UNSDCF",
+                "Object": "priorities",
+                "Description": "The UNSDCF features four strategic priorities, (i) \ninclusive economic growth and development, (ii) improved environmental conditions and \nincreased resilience, (iii) increased access and use of quality basic social services, and (iv) promote \na peaceful, inclusive, and cohesive society."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "CPD",
+                "Object": "contributions",
+                "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+            },
+            {
+                "Relation": "have",
+                "Subject": "response",
+                "Object": "objectives",
+                "Description": "The UNDP programmatic response in Nigeria has two objectives: socio-economic recovery in \nthe medium term and structural transformation for inclusive and sustainable development to achieve \nthe SDGs by 2030."
+            },
+            {
+                "Relation": "mainstream",
+                "Subject": "UNDP",
+                "Object": "volunteerism",
+                "Description": "UNDP will mainstream volunteerism into \nprogramme implementation strategies as a valuable way of achieving the SDGs by 2030."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "pathways",
+                "Object": "solutions",
+                "Description": "These chosen pathways are considered the best \nsolutions for addressing development challenges in Nigeria, in part, considering the comparative \nadvantage of UNDP in terms of convening power, strategic position, integrator role and its expertise \nin thematic areas such as human development, development financing, inclusive growth, \nenvironment, governance and peace building as evidenced by continuous engagement with key stakeholders including the government and donors."
+            },
+            {
+                "Relation": "make",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "Taking note of CPD evaluation\nfindings, UNDP will make greater efforts in transparent engagement and programme \nimplementation, fostering improved understanding amongst UNDS partners, and collaborating in \nthematic areas where possible, based on respective comparative advantages."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "planning",
+                "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+            },
+            {
+                "Relation": "drive",
+                "Subject": "challenges",
+                "Object": "UNDP",
+                "Description": "Development financing challenges faced by Nigeria have driven UNDP to partner with the \ngovernment, European Union, International Monetary Fund (IMF), World Bank, and other primary \nstakeholders in supporting the development of a healthy financial ecosystem through an Integrated \nNational Financial Framework (INFF) and related economic policy reforms and institutional \nchanges."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "investments",
+                "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "Government",
+                "Description": "UNDP will support the Government of Nigeria to achieve its objective of greening the \neconomy using a set of integrated solutions as per five pathways."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "supports",
+                "Object": "confidence",
+                "Description": "A leading organization in the development of the \nUNSDCF, UNDP supports improved public confidence in key institutions of governance, enhances\naccountability, public sector transparency, security and conflict management, and promotes\ninclusive governance, access to justice and the protection of fundamental rights."
+            },
+            {
+                "Relation": "enhance",
+                "Subject": "UNDP",
+                "Object": "capacities",
+                "Description": "UNDP will enhance the capacities of the national assembly and primary \npublic finance and anti-corruption agencies to enact public finance and anti-corruption legal \nframeworks, collaborate with and empower CSOs, women, and youth groups for constructive and \neffective engagement on anti-corruption."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "efforts",
+                "Description": "UNDP will support efforts aimed at promoting equitable and timely access to justice and \nstrengthen human rights institutions by investing in integrated digital solutions; encouraging the\nelimination of impunity regarding the violation of human rights and gender-based violence;\nfacilitating domestication of all international and regional human rights treaties; promoting\nelimination of inconsistencies between customary practices and statutory laws, and supporting\nimplementation of international and regional human rights recommendations and reporting \nobligations in partnership with the National Human Rights Commission, Ministry of Justice and \nrelevant rule of law institutions."
+            },
+            {
+                "Relation": "prioritize",
+                "Subject": "UNDP",
+                "Object": "reforms",
+                "Description": "UNDP will prioritize electoral reforms and the implementation of \nthe 2022 electoral law for improved election management and expanded democratic space."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "responses",
+                "Description": "UNDP will promote integrated responses to insecurity, linking peacebuilding, climate action\nand livelihood recovery to conflict prevention and stabilization."
+            },
+            {
+                "Relation": "enhance",
+                "Subject": "UNDP",
+                "Object": "capacities",
+                "Description": "UNDP will enhance the \ncapacities of security and governance institutions, expanding options for safe return and \nreintegration while laying the foundation for sustainable peace and national security."
+            },
+            {
+                "Relation": "promote",
+                "Subject": "UNDP",
+                "Object": "cooperation",
+                "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+            },
+            {
+                "Relation": "work",
+                "Subject": "UNDP",
+                "Object": "Women",
+                "Description": "UNDP will work with national partners at federal and state levels, as well as UN Women, \nUNFPA, and UNICEF, in building national capacities to ensure gender equality is mainstreamed \nsuch that it contributesto policy reforms that address the barriers to women\u2019s empowerment."
+            },
+            {
+                "Relation": "involve",
+                "Subject": "This",
+                "Object": "UNDP",
+                "Description": "This will \ninvolve UNDP strengthening the evidence base to inform strategies to advance women\u2019s \nempowerment and gender equality, and support the country in producing nationwide data on SGBV\nfor programming, analysis, and policymaking purposes in partnership with the Federal Ministry of \nWomen Affairs."
+            },
+            {
+                "Relation": "deepen",
+                "Subject": "UNDP",
+                "Object": "partnerships",
+                "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "Cognizant",
+                "Object": "engagement",
+                "Description": "Cognizant of the vibrancy of the private sector in Nigeria in \ninnovation, development financing, impact investments, ease of doing business, job creation, \nclimate action and inclusive governance UNDP will further strengthen engagement with the private \nsector to build more ambitious and effective partnerships."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "UNDP",
+                "Object": "partnerships",
+                "Description": "Moreover, UNDP will develop long-term partnerships with think tanks, chambers of \ncommerce, innovation hubs, and research institutions and foster lasting technical collaborative \nrelationships with CSOs."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "CPD",
+                "Object": "contributions",
+                "Description": "This CPD outlines UNDP contributions to national results and serves as the primary unit of \naccountability to the Executive Board for results alignment and resources assigned to the \nprogramme at the country level."
+            },
+            {
+                "Relation": "review",
+                "Subject": "UNDP",
+                "Object": "structures",
+                "Description": "In addition, UNDP will review structures and procedures to ensure they are \u201cfit \nfor purpose\u201d when implementing the programme and agile enough to adapt to evolving contexts, \nUnited Nations reform actions and the new UNDP Strategic Plan for 2022\u20132025."
+            },
+            {
+                "Relation": "safeguard",
+                "Subject": "implementation",
+                "Object": "accountability",
+                "Description": "UNDP direct \nimplementation will safeguard accountability in complex programming situations that is backed by \nconscious data collection and analysis, and aligned with effective risk management, evidence \ngenerationand adaptive programmatic implementationNational ownership and mutual \naccountability for development results will be strengthened through joint annual work plans and \nreviews aligned with national priorities."
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "UNDP",
+                "Object": "approach",
+                "Description": "To mitigate risks, UNDP will adopt an electoral-cycle approach \nproviding support to key stakeholders before, during and after the elections."
+            },
+            {
+                "Relation": "deploy",
+                "Subject": "\n",
+                "Object": "system",
+                "Description": "In addition, UNDP \nwill deploy a robust risk management system to ensure adaptive programming strategies, direct \nimplementation and working with strategic partners including civil society and volunteers so they \nhave timely information that will lead to quick and meaningful programmatic decisions prior to, \nduring, and after the elections."
+            },
+            {
+                "Relation": "engage",
+                "Subject": "UNDP",
+                "Object": "mechanisms",
+                "Description": "In line with UNDP monitoring and \nevaluation guidelines, UNDP will also engage third-party monitoring mechanisms for inaccessible \nareas."
+            },
+            {
+                "Relation": "support",
+                "Subject": "UNDP",
+                "Object": "institutions",
+                "Description": "UNDP\u2014working with the United Nations Monitoring and \nEvaluation Reference Group, third party monitors, joint field visits and partners\u2014will support the \nnational statistical system and research institutions to enhance national data generation capacities, \nand improve data quality and evaluation functions, and provide evidence-based, gender-sensitive \ndata that informs decision-making and fosters transformational development approaches."
+            }
+        ]
+    }
+}

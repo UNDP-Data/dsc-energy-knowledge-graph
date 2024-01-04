@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Ministry of Power and Energy",
+        "relations": [
+            {
+                "Relation": "establish",
+                "Subject": "Ministry",
+                "Object": "team",
+                "Description": "* Ministry of Power and Energy shall immediately establish a national energy palnning team, to address the\npolicy issues inter-linkages between sub-sectors, and to investigate important issues such as pricing policy\nin consultation with public, private and civil society groups."
+            },
+            {
+                "Relation": "implement",
+                "Subject": "Responsibility",
+                "Object": "lies",
+                "Description": "Institutional Responsibility to implement this lies with the Ministry of Power and Energy and the Ministry of Finance,\nassisted by the PUCSL.\n"
+            }
+        ]
+    }
+}

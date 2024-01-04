@@ -1,0 +1,3369 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "the Asian Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "Renewable Energy Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "ITP",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Asian Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Afghanistan Renewable Energy Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Hisar-E-Shahi",
+                "category": "Organization"
+            },
+            {
+                "entity": "Asian Development Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "AISA Afghanistan Investment Support Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "ANDS",
+                "category": "Organization"
+            },
+            {
+                "entity": "AREU Afghanistan Renewable Energy Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "ASERD Afghanistan Sustainable Energy for Rural Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "ASHP Air Source Heat Pump",
+                "category": "Organization"
+            },
+            {
+                "entity": "ATC Aggregate Technical & Commercial",
+                "category": "Organization"
+            },
+            {
+                "entity": "CCSAP Climate Change Strategy",
+                "category": "Organization"
+            },
+            {
+                "entity": "COAM Conservation Organisation for Afghan Mountain Areas",
+                "category": "Organization"
+            },
+            {
+                "entity": "Silicon",
+                "category": "Organization"
+            },
+            {
+                "entity": "CSO Central Statistics Office",
+                "category": "Organization"
+            },
+            {
+                "entity": "CSO Civil Society Organizations",
+                "category": "Organization"
+            },
+            {
+                "entity": "CTCN Climate Technology Centre",
+                "category": "Organization"
+            },
+            {
+                "entity": "DNI",
+                "category": "Organization"
+            },
+            {
+                "entity": "ERDA Energy for Rural Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "FAO Food and Agriculture Organization of the United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "GCF Green Climate Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHG Greenhouse Gas",
+                "category": "Organization"
+            },
+            {
+                "entity": "GIZ Deutsche Gesellschaft",
+                "category": "Organization"
+            },
+            {
+                "entity": "GoI Government",
+                "category": "Organization"
+            },
+            {
+                "entity": "HPP Hydro Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "IDCOL Infrastructure Development Company Limited",
+                "category": "Organization"
+            },
+            {
+                "entity": "IPP Independent Power Producer",
+                "category": "Organization"
+            },
+            {
+                "entity": "ISA International Solar Alliance",
+                "category": "Organization"
+            },
+            {
+                "entity": "MEW Ministry of Energy and Water",
+                "category": "Organization"
+            },
+            {
+                "entity": "MFC Microbial Fuel Cells",
+                "category": "Organization"
+            },
+            {
+                "entity": "MJ Multi-Junction",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of New and Renewable Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "MRRD Ministry",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Rehabilitation and Development",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Megawatt",
+                "category": "Organization"
+            },
+            {
+                "entity": "Non-Governmental Organizations",
+                "category": "Organization"
+            },
+            {
+                "entity": "NISE National Institute of Solar Energy",
+                "category": "Organization"
+            },
+            {
+                "entity": "NSP National Solidary Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "PCU Power Control Unit",
+                "category": "Organization"
+            },
+            {
+                "entity": "PSMP Power",
+                "category": "Organization"
+            },
+            {
+                "entity": "SE4ALL Sustainable Energy for All",
+                "category": "Organization"
+            },
+            {
+                "entity": "SHS Solar Home Systems",
+                "category": "Organization"
+            },
+            {
+                "entity": "T&D Transmission",
+                "category": "Organization"
+            },
+            {
+                "entity": "VAM Vapor Absorption Machine",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Renewable Energy Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW",
+                "category": "Organization"
+            },
+            {
+                "entity": "PV",
+                "category": "Organization"
+            },
+            {
+                "entity": "#Markets",
+                "category": "Organization"
+            },
+            {
+                "entity": "DABS",
+                "category": "Organization"
+            },
+            {
+                "entity": "Renewable Energy Service Company",
+                "category": "Organization"
+            },
+            {
+                "entity": "Afghanistan Renewable Energy Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "AREU",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Decision Tool",
+                "category": "Organization"
+            },
+            {
+                "entity": "PSMP",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Energy Supply Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Sustainable Energy for All",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Climate Change Strategy",
+                "category": "Organization"
+            },
+            {
+                "entity": "the National Priority Programs",
+                "category": "Organization"
+            },
+            {
+                "entity": "INDC",
+                "category": "Organization"
+            },
+            {
+                "entity": "GIZ",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Ministry of Energy and Water (MEW)",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass Total",
+                "category": "Organization"
+            },
+            {
+                "entity": "AFN",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Solidarity Program",
+                "category": "Organization"
+            },
+            {
+                "entity": "ERDA",
+                "category": "Organization"
+            },
+            {
+                "entity": "MRRD",
+                "category": "Organization"
+            },
+            {
+                "entity": "FAO",
+                "category": "Organization"
+            },
+            {
+                "entity": "NZAID",
+                "category": "Organization"
+            },
+            {
+                "entity": "COAM",
+                "category": "Organization"
+            },
+            {
+                "entity": "the MRRD\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Rural Water Supply, Sanitation and Irrigation",
+                "category": "Organization"
+            },
+            {
+                "entity": "O&M",
+                "category": "Organization"
+            },
+            {
+                "entity": "Creation and Transformation",
+                "category": "Organization"
+            },
+            {
+                "entity": "CIGS",
+                "category": "Organization"
+            },
+            {
+                "entity": "AC",
+                "category": "Organization"
+            },
+            {
+                "entity": "PCU",
+                "category": "Organization"
+            },
+            {
+                "entity": "Independent Power Projects",
+                "category": "Organization"
+            },
+            {
+                "entity": "T&D",
+                "category": "Organization"
+            },
+            {
+                "entity": "SHS",
+                "category": "Organization"
+            },
+            {
+                "entity": "CPV",
+                "category": "Organization"
+            },
+            {
+                "entity": "New Zealand Government",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Japan Embassy",
+                "category": "Organization"
+            },
+            {
+                "entity": "NSP",
+                "category": "Organization"
+            },
+            {
+                "entity": "FPC",
+                "category": "Organization"
+            },
+            {
+                "entity": "collectors(ETC",
+                "category": "Organization"
+            },
+            {
+                "entity": "ETC",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Direct Normal Irradiance",
+                "category": "Organization"
+            },
+            {
+                "entity": "LFR",
+                "category": "Organization"
+            },
+            {
+                "entity": "East",
+                "category": "Location"
+            },
+            {
+                "entity": "Stirling",
+                "category": "Organization"
+            },
+            {
+                "entity": "Kabul University\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG Thermic Oil Heater",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Applications",
+                "category": "Organization"
+            },
+            {
+                "entity": "VAM",
+                "category": "Organization"
+            },
+            {
+                "entity": "Hydro",
+                "category": "Organization"
+            },
+            {
+                "entity": "MHP",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Salma Hydro Power Plant",
+                "category": "Organization"
+            },
+            {
+                "entity": "KfW",
+                "category": "Organization"
+            },
+            {
+                "entity": "HPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "USAID",
+                "category": "Organization"
+            },
+            {
+                "entity": "Hydro Kinetic Turbine",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Bhira",
+                "category": "Organization"
+            },
+            {
+                "entity": "Maharashtra",
+                "category": "Organization"
+            },
+            {
+                "entity": "Casmir Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "the University of Southampton",
+                "category": "Organization"
+            },
+            {
+                "entity": "South East",
+                "category": "Location"
+            },
+            {
+                "entity": "European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Urban",
+                "category": "Organization"
+            },
+            {
+                "entity": "ASHP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Air to Water and Air to Air",
+                "category": "Organization"
+            },
+            {
+                "entity": "COP",
+                "category": "Organization"
+            },
+            {
+                "entity": "Recommended",
+                "category": "Organization"
+            },
+            {
+                "entity": "CSP",
+                "category": "Organization"
+            },
+            {
+                "entity": "San Filippo del Mela",
+                "category": "Location"
+            },
+            {
+                "entity": "Bioenergy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Asia",
+                "category": "Location"
+            },
+            {
+                "entity": "MW & 150",
+                "category": "Organization"
+            },
+            {
+                "entity": "Southern California",
+                "category": "Location"
+            },
+            {
+                "entity": "Tesla Company",
+                "category": "Organization"
+            },
+            {
+                "entity": "GIS",
+                "category": "Organization"
+            },
+            {
+                "entity": "Decision Tool",
+                "category": "Organization"
+            },
+            {
+                "entity": "NGO\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "MFI\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "CDC\u2019s",
+                "category": "Organization"
+            },
+            {
+                "entity": "Application of Decision Tool",
+                "category": "Organization"
+            },
+            {
+                "entity": "Independent Power Producers",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW SPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW IPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "SPP",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW capacity",
+                "category": "Organization"
+            },
+            {
+                "entity": "Diesel",
+                "category": "Organization"
+            },
+            {
+                "entity": "ASERD",
+                "category": "Organization"
+            },
+            {
+                "entity": "Floatovoltaics",
+                "category": "Organization"
+            },
+            {
+                "entity": "FPV",
+                "category": "Organization"
+            },
+            {
+                "entity": "Environmental-Social Impacts Assessment",
+                "category": "Organization"
+            },
+            {
+                "entity": "NSSP",
+                "category": "Organization"
+            },
+            {
+                "entity": "ICT",
+                "category": "Organization"
+            },
+            {
+                "entity": "Build-Own-Operate\u0002Maintain (BOOM",
+                "category": "Organization"
+            },
+            {
+                "entity": "PPA",
+                "category": "Organization"
+            },
+            {
+                "entity": "\u2022 Ministry of Energy and Water: Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Preparation of Detailed Project Report",
+                "category": "Organization"
+            },
+            {
+                "entity": "Facilitate",
+                "category": "Organization"
+            },
+            {
+                "entity": "DF",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Solar Energy Corporation of India",
+                "category": "Organization"
+            },
+            {
+                "entity": "SECI",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Gujarat Power Corporation Limited",
+                "category": "Organization"
+            },
+            {
+                "entity": "Charanka",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Jawaharlal Nehru National Solar Mission (JNNSM",
+                "category": "Organization"
+            },
+            {
+                "entity": "Aggregate Technical & Commercial",
+                "category": "Organization"
+            },
+            {
+                "entity": "\u2022 Ministry of Energy and Water (MEW): Designs the DF Scheme",
+                "category": "Organization"
+            },
+            {
+                "entity": "Pan-Afghanistan",
+                "category": "Organization"
+            },
+            {
+                "entity": "\u2022 Distribution Franchisee",
+                "category": "Organization"
+            },
+            {
+                "entity": "ATC",
+                "category": "Organization"
+            },
+            {
+                "entity": "TPL",
+                "category": "Organization"
+            },
+            {
+                "entity": "the European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Renewable Energy Guarantee Act",
+                "category": "Organization"
+            },
+            {
+                "entity": "Europe",
+                "category": "Location"
+            },
+            {
+                "entity": "RESCO",
+                "category": "Organization"
+            },
+            {
+                "entity": "\u2022 Power",
+                "category": "Organization"
+            },
+            {
+                "entity": "Civil Society Organizations",
+                "category": "Organization"
+            },
+            {
+                "entity": "CSO",
+                "category": "Organization"
+            },
+            {
+                "entity": "Community Development Councils",
+                "category": "Organization"
+            },
+            {
+                "entity": "Africa",
+                "category": "Location"
+            },
+            {
+                "entity": "the Rockefeller Foundation",
+                "category": "Organization"
+            },
+            {
+                "entity": "Energy Service Companies",
+                "category": "Organization"
+            },
+            {
+                "entity": "SPEED",
+                "category": "Organization"
+            },
+            {
+                "entity": "ESCO",
+                "category": "Organization"
+            },
+            {
+                "entity": "Micro-finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "Radio Frequency",
+                "category": "Organization"
+            },
+            {
+                "entity": "CBO",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHG",
+                "category": "Organization"
+            },
+            {
+                "entity": "Communities",
+                "category": "Organization"
+            },
+            {
+                "entity": "SS",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Energy and Water",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Implementing Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Indigo",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Stage-Gate",
+                "category": "Organization"
+            },
+            {
+                "entity": "Stage\u0002Gate",
+                "category": "Organization"
+            },
+            {
+                "entity": "& Stage - Gate",
+                "category": "Organization"
+            },
+            {
+                "entity": "Energy Investment Policy",
+                "category": "Organization"
+            },
+            {
+                "entity": "Schemes",
+                "category": "Organization"
+            },
+            {
+                "entity": "GHI",
+                "category": "Organization"
+            },
+            {
+                "entity": "VTC",
+                "category": "Organization"
+            },
+            {
+                "entity": "Specialized",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural",
+                "category": "Organization"
+            },
+            {
+                "entity": "Bank (Debt) Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Middle East",
+                "category": "Location"
+            },
+            {
+                "entity": "Stage-Gate",
+                "category": "Organization"
+            },
+            {
+                "entity": "Citizens",
+                "category": "Organization"
+            },
+            {
+                "entity": "the World Bank Group",
+                "category": "Organization"
+            },
+            {
+                "entity": "the Green Climate Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "The Climate Technology Centre",
+                "category": "Organization"
+            },
+            {
+                "entity": "Poznan Technology Transfer",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Kandahar",
+                "category": "Organization"
+            },
+            {
+                "entity": "OPIC",
+                "category": "Organization"
+            },
+            {
+                "entity": "GCF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Global Environment Facility",
+                "category": "Organization"
+            },
+            {
+                "entity": "GEF",
+                "category": "Organization"
+            },
+            {
+                "entity": "IREDA",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "Islamic Finance",
+                "category": "Organization"
+            },
+            {
+                "entity": "Central Asia",
+                "category": "Location"
+            },
+            {
+                "entity": "AISA",
+                "category": "Organization"
+            },
+            {
+                "entity": "RET",
+                "category": "Organization"
+            },
+            {
+                "entity": "IDCOL",
+                "category": "Organization"
+            },
+            {
+                "entity": "Solar Energy Corporation of India",
+                "category": "Organization"
+            },
+            {
+                "entity": "Alternate Energy Promotion Centre",
+                "category": "Organization"
+            },
+            {
+                "entity": "MW Roadmap",
+                "category": "Organization"
+            },
+            {
+                "entity": "Broader Impacts",
+                "category": "Organization"
+            },
+            {
+                "entity": "Afghanistan Chambers of Commerce",
+                "category": "Organization"
+            },
+            {
+                "entity": "Business Monitor",
+                "category": "Organization"
+            },
+            {
+                "entity": "Rural Economic Zones",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministries",
+                "category": "Organization"
+            },
+            {
+                "entity": "ECO",
+                "category": "Organization"
+            },
+            {
+                "entity": "ISA",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Renewable Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Solar Alliance",
+                "category": "Organization"
+            }
+        ],
+        "relations": [
+            {
+                "Relation": "address",
+                "Subject": "Bank",
+                "Object": "challenges",
+                "Description": "The Asian Development Bank through a Technical \nAssistance (TA) has addressed these challenges by way of developing the Roadmap for \n"
+            },
+            {
+                "Relation": "sustainable",
+                "Subject": "Afghanistan",
+                "Object": "Energy",
+                "Description": "Afghanistan National Development Strategy ;\nAREU Afghanistan Renewable Energy Union;\nASERD Afghanistan Sustainable Energy for Rural Development;\nASHP Air Source Heat Pump ;\nATC Aggregate Technical & Commercial;\nBMC Billing, Metering and Collection ;\nBOOM Build-Own-Operate-Maintain;\nCAPEX Capital Expenditure ;\nCBO Community Based Organization ;\nCCSAP Climate Change Strategy and Action Plan ;\n"
+            },
+            {
+                "Relation": "intend",
+                "Subject": "INDC",
+                "Object": "Contributions",
+                "Description": "\nINDC Intended Nationally Determined Contributions ;\nIPP Independent Power Producer;\nIREDA Indian Renewable Energy Development Agency Limited;\nIRENA International Renewable Energy Agency;\nISA International Solar Alliance;\nkW Kilowatt;\nkWh Kilowatt-hour;\nLFR Linear Fresnel Reflector ;\nMAIL Ministry of Agriculture, Irrigation and Livestock;\nMEW Ministry of Energy and Water;\nMFC Microbial Fuel Cells;\nMFI Microfinance Institutions ;\nMHPs Micro Hydropower Plants ;\nMJ Multi-Junction;\nMNRE Ministry of New and Renewable Energy (India);\nMRRD Ministry of Rural Rehabilitation and Development;\nMW Megawatt;\n"
+            },
+            {
+                "Relation": "srep",
+                "Subject": "Policy",
+                "Object": "Scaling",
+                "Description": "Renewable Energy Policy ;\nRESCO Renewable Energy Service Company ;\nRETs Renewable Energy Technologies ;\nSAARC South Asian Association for Regional Co-operation;\nSDGs Sustainable Development Goals ;\nSE4ALL Sustainable Energy for All;\nSECI Solar Energy Corporation of India ;\nSHS Solar Home Systems;\nSHWs Solar Hot Water System;\nSPEED Smart Power for Environmentally-sound Economic Development ;\nSPPD Solar Power Park Developer ;\nSPPs Solar Power Park;\nSPV Solar Photovoltaics;\nSREP Scaling Up Renewable Energy Program;\nSS Standalone Systems;\nT&D Transmission and Distribution \nTES Thermal Energy Storage ;\nTPL Torrent Power Limited ;\n"
+            },
+            {
+                "Relation": "lead",
+                "Subject": "projects",
+                "Object": "industry",
+                "Description": "\u2013 5000 MW of renewable energy (RE) capacity by 2032 and envisions a transition from donor \ngrant-funded RE projects to a fully-private sector led industry by 2032."
+            },
+            {
+                "Relation": "include",
+                "Subject": "scope",
+                "Object": "estimation",
+                "Description": "The scope of the Roadmap includes an estimation of technology specific achievable targets \nbased on RE potential that has already been mapped and segregated region-wise."
+            },
+            {
+                "Relation": "estimate",
+                "Subject": "Roadmap",
+                "Object": "costs",
+                "Description": "The Roadmap also estimates costs for achieving the RE generation targets based on the \ninternational/ regional costs and experiences from implementing RE projects in Afghanistan."
+            },
+            {
+                "Relation": "rest",
+                "Subject": "framework",
+                "Object": "assessment",
+                "Description": "The framework and approach for RE Roadmap rests on four pillars- an assessment of RE \nresource potential and its deployment through various technologies and projects; \nappropriate markets and business models for using these technologies; enablers (both policy \nand market related) that are required to implement the appropriate business models; and \nestimation of system costs in Afghanistan for financing of the Roadmap."
+            },
+            {
+                "Relation": "include",
+                "Subject": "resources",
+                "Object": "solar",
+                "Description": "The available RE resources in Afghanistan and their technical potential include solar, \nwind, hydro (small, mini and micro), biomass (including waste-to-energy) and \ngeothermal."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Some",
+                "Object": "PV",
+                "Description": "Some of these technologies and systems include MW \nscale solar PV (both flat plate and concentrating); roof-top and stand-alone PV \nsystems; concentrating solar thermal for power generation and for low grade process \nheat applications; wind farms and stand-alone wind-electric generators; small hydro \npower projects; mini-grids and biogas digesters."
+            },
+            {
+                "Relation": "assess",
+                "Subject": "Level",
+                "Object": "possibility",
+                "Description": "The process for developing project pipeline follows a 3\u2013level decision process:\na. Level 1 assesses the possibility of utility scale RE projects on the basis of good \nquality RE resource, availability of national grid for power evacuation, road \nconnectivity and overall security situation."
+            },
+            {
+                "Relation": "assess",
+                "Subject": "Level",
+                "Object": "viability",
+                "Description": "b. Level 2 assesses the viability of setting up either RE/ hybrid mini-grids or \nstand-alone systems on the basis of population concentration, nature of loads\n(i.e. domestic, institutional, enterprises, anchor loads such as telecom \ntowers), and operational diesel mini-grids that can be hybridised or replaced \nwith RE."
+            },
+            {
+                "Relation": "assess",
+                "Subject": "Level",
+                "Object": "feasibility",
+                "Description": "c. Level 3 assesses the feasibility of specific projects on the basis of primary \nenergy surveys, topographical studies, environmental and social impact \nassessment (if required), community engagement activities, stakeholder \nconsultations etc."
+            },
+            {
+                "Relation": "recommend",
+                "Subject": "Roadmap",
+                "Object": "models",
+                "Description": "Further, for each of the market segments (i.e. utility scale, mini-grids, off-grid/ \nstand-alone), the Roadmap recommends business models that identify the roles of \nthe government, DABS, private sector (already present and likely to be present), MFIs, \nNGOs and communities."
+            },
+            {
+                "Relation": "use",
+                "Subject": "Roadmap",
+                "Object": "model",
+                "Description": "The Roadmap uses a Stage-Gate model to discuss the enablers that are required for \ndevelopment of RE markets across several technologies and business models."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "Implementation",
+                "Object": "sector",
+                "Description": "Implementation of model projects across technologies as \npublic \u2013 private \u2013 partnership (PPP) projects, will further develop this sector."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "projects",
+                "Object": "options",
+                "Description": "The first few commercial projects, led by the private sector, will comprise \nlow-risk options where risks and gains are shared across the government, private \nsector and beneficiary communities."
+            },
+            {
+                "Relation": "collect",
+                "Subject": "costs",
+                "Object": "donors",
+                "Description": "The costs for applicable RE technologies and projects in Afghanistan have been \ncollected through primary research by directly consulting with project developers, \nmainly members of Afghanistan Renewable Energy Union (AREU) and a few NGOs and \ndonors."
+            },
+            {
+                "Relation": "set",
+                "Subject": "RENP",
+                "Object": "vision",
+                "Description": "The RENP sets the vision and goals \nfor RE development in Afghanistan and the Roadmap develops a strategy for achieving \nthese goals."
+            },
+            {
+                "Relation": "include",
+                "Subject": "analysis",
+                "Object": "estimation",
+                "Description": "Further, the analysis also includes \nestimation of costs for various technologies in Afghanistan."
+            },
+            {
+                "Relation": "remain",
+                "Subject": "Lack",
+                "Object": "challenge",
+                "Description": "Lack of \ndomestic generation remains the key challenge for energy security and energy access in \nAfghanistan."
+            },
+            {
+                "Relation": "rank",
+                "Subject": "rate",
+                "Object": "it",
+                "Description": "Its 30% electrification rate ranks it in the lowest 5% in per capita energy \nconsumption globally."
+            },
+            {
+                "Relation": "be",
+                "Subject": "which",
+                "Object": "\n",
+                "Description": "The remaining 49% (254 MW) is from hydropower, which is seasonal \nand has a capacity factor of less than 40%."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "Roadmap",
+                "Object": "pathways",
+                "Description": "The Roadmap for renewable energy for Afghanistan identifies pathways for reaching about \n5,000 MW of renewable energy based generation capacity by 2032, in line with the \nAfghanistan Renewable Energy Policy targets and vision."
+            },
+            {
+                "Relation": "set",
+                "Subject": "NESP",
+                "Object": "term",
+                "Description": "The NESP has set the short-term (by 2015) and long-term (up to 2022) targets \nfor electricity supply, energy efficiency and renewable energy sector, energy institutions \nand private sector participation, as well as capacity and regulatory framework \ndevelopment."
+            },
+            {
+                "Relation": "target",
+                "Subject": "Strategy",
+                "Object": "coverage",
+                "Description": "The Climate Change Strategy and Action Plan for Afghanistan (CCSAP, 2015) targets 100 \npercent electricity coverage by 2100 as mandated within the National Priority Programs."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "INDC",
+                "Object": "access",
+                "Description": "Subsequently, the Intended Nationally Determined Contributions \n(INDC) have identified access to renewable energy for 25% of rural population as the goal."
+            },
+            {
+                "Relation": "support",
+                "Subject": "\n",
+                "Object": "development",
+                "Description": "\nMany donors and international organisations are supporting the development of renewable \nenergy sector in Afghanistan."
+            },
+            {
+                "Relation": "invite",
+                "Subject": "MEW",
+                "Object": "sector",
+                "Description": "MEW has recently invited \nprivate sector to invest in 30 RE projects totalling upto 100 MW and comprising biogas, solar, \nwind, hydro and hybrid technology options."
+            },
+            {
+                "Relation": "complete",
+                "Subject": "No",
+                "Object": "4,602",
+                "Description": "Total No of Renewable Energy Projects Completed 4,602;\n"
+            },
+            {
+                "Relation": "remain",
+                "Subject": "status",
+                "Object": "constraint",
+                "Description": "The status of financial sector remains a constraint for private sector \ndevelopment and limited access to credit is limiting the growth and involvement of local RE \nindustry in rural and renewable energy sector."
+            },
+            {
+                "Relation": "be",
+                "Subject": "rates",
+                "Object": "\n",
+                "Description": "As a result, tariff rates can be \nhigh, and they often are."
+            },
+            {
+                "Relation": "pay",
+                "Subject": "customers",
+                "Object": "Afs",
+                "Description": "Commercial customers of DABS almost everywhere pay around 8-10 Afs (0.15 $) per kWh."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Program",
+                "Object": "programs",
+                "Description": "National Solidarity Program (NSP)/ NABDP and Energy for Rural Development \nin Afghanistan (ERDA) within NABDP, have been the flagship programs of MRRD for rural \nenergization."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "DABS",
+                "Object": "extensions",
+                "Description": "In addition to MRRD, DABS also carries out grid extensions to rural areas under the NESP of \nMEW."
+            },
+            {
+                "Relation": "include",
+                "Subject": "planning",
+                "Object": "component",
+                "Description": "For instance, planning for agriculture based livelihoods projects (i.e. \ncold-storages) should include a component of energy provision and likewise \nplanning for energy projects (i.e. MHP) should identify and support enterprises \nand public institutions that will use the electricity thus generated."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "\n",
+                "Object": "energy",
+                "Description": "At the macro level, the Roadmap \nshall contribute to achievement of sustainable development goals (SDGs), especially towards \nreduction of poverty (SDG 1), affordable and clean energy (SDG 7) and industry, innovation \nand infrastructure (SDG 9)."
+            },
+            {
+                "Relation": "highlight",
+                "Subject": "Following",
+                "Object": "relevance",
+                "Description": "Following figure highlights the relevance of the Roadmap."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "Estimates",
+                "Object": "GW",
+                "Description": "#Prospects\n\u2022 Only 30% energy access in rural areas and \n65% in urban;\n\u2022 Estimates suggest 222 GW of solar, 66 GW \nof wind and 23GW of hydro potential;\n\u2022 Role of RE recognized for energy access, \nenergy security, SDGs and climate \nresilient development ;\n#Situation\n\u2022"
+            },
+            {
+                "Relation": "traverse",
+                "Subject": "market",
+                "Object": "stages-",
+                "Description": "As discussed, \nthe target for 2032 is to achieve around 5,000 MW of RE capacity to be realised as the RE \nmarket traverses three stages-"
+            },
+            {
+                "Relation": "need",
+                "Subject": "Geothermal",
+                "Object": "assessments",
+                "Description": "Geothermal needs more detailed assessments to ascertain realizable potential."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "RENP",
+                "Object": "categories",
+                "Description": "The RENP has identified three main categories of applications and markets that require the \nuse of RE technologies and systems."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Afghanistan",
+                "Object": "resource",
+                "Description": "Afghanistan has a good solar resource that can be harnessed for electricity generation and \nfor thermal applications."
+            },
+            {
+                "Relation": "enjoy",
+                "Subject": "country",
+                "Object": "days",
+                "Description": "The country enjoys particularly long sunny days with high \nirradiation, ranging from 4.5 - 7 kWh/m\u00b2/day."
+            },
+            {
+                "Relation": "convert",
+                "Subject": "description",
+                "Object": "sunlight",
+                "Description": "#Basis description of solar PV technology\nSolar cells, the building block of PV system, convert sunlight directly into DC electricity."
+            },
+            {
+                "Relation": "give",
+                "Subject": "Figure",
+                "Object": "share",
+                "Description": "Figure 5 gives the current market share of PV technologies as per year 2015."
+            },
+            {
+                "Relation": "be",
+                "Subject": "case",
+                "Object": "network",
+                "Description": "Electricity generated from these projects is evacuated through the national (or \nprivate, as the case may be) transmission network."
+            },
+            {
+                "Relation": "have",
+                "Subject": "mini",
+                "Object": "source",
+                "Description": "Solar PV mini-grids \nSolar PV mini-grids have their own generation source (solar) and a local distribution grid."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Mini",
+                "Object": "electricity",
+                "Description": "Mini-grids also provide more reliable electricity, as any power \ncuts or interruptions to electricity supply can be quickly identified and corrected. \n"
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "having",
+                "Object": "\n",
+                "Description": "Additionally, having the site of power generation closer to the load also reduces transmission \nand distribution (T&D) losses associated with centralised generation."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "system",
+                "Description": "Figure 7 shows a typical solar mini-grid \nsystem."
+            },
+            {
+                "Relation": "have",
+                "Subject": "systems",
+                "Object": "applications",
+                "Description": "Stand-alone solar PV systems have many different applications across different sectors such \nas lighting, pumping and battery charging."
+            },
+            {
+                "Relation": "be",
+                "Subject": "availability",
+                "Object": "constraint",
+                "Description": "These installations are \nparticularly useful when availability of land is a \nconstraint."
+            },
+            {
+                "Relation": "become",
+                "Subject": "concept",
+                "Object": "application",
+                "Description": "However, there are some challenges \nwhich need to be overcome before this concept \ncan become a techno-commercial viable \napplication."
+            },
+            {
+                "Relation": "vary",
+                "Subject": "capacity",
+                "Object": "\n",
+                "Description": "The capacity of canal-top PV systems may vary \nfrom small-scale (kW-sized) to larger-scale (MW\u0002sized) installations."
+            },
+            {
+                "Relation": "vary",
+                "Subject": "system",
+                "Object": "structure",
+                "Description": "Although similar in capacity to \nground mounted systems, this system varies \nsignificantly because of the need of a longer, \nwider and stronger mounting structure to support \nits installation over the width of the canal."
+            },
+            {
+                "Relation": "use",
+                "Subject": "CPV",
+                "Object": "lenses",
+                "Description": "CPV uses lenses and curved mirrors to focus sunlight onto small, but highly efficient, multi\u0002junction (MJ) solar cells."
+            },
+            {
+                "Relation": "use",
+                "Subject": "systems",
+                "Object": "trackers",
+                "Description": "In addition, CPV systems often use solar trackers and sometimes a \ncooling system to further increase their efficiency."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "\n",
+                "Object": "competitiveness",
+                "Description": "Ongoing research and development \n(R&D) is rapidly improving their competitiveness in the utility-scale segment and in areas of \nhigh insolation."
+            },
+            {
+                "Relation": "dominate",
+                "Subject": "countries",
+                "Object": "\n",
+                "Description": "Until 2014, developed countries (namely Germany, Italy and Japan) dominated investment \nin solar."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "countries",
+                "Object": "level",
+                "Description": "In 2015, developing countries such as China, India, Chile, South Africa and a few \nothers increased the level of deployment of both utility and small-scale investment in solar \nPV."
+            },
+            {
+                "Relation": "have",
+                "Subject": "systems",
+                "Object": "role",
+                "Description": "Solar PV systems have a significant role to play in overall development of electricity sector \nin Afghanistan on account of the following:\n\u2022 Majority of the population in remote areas doesn\u2019t have access to electricity and off\u0002grid solar PV systems are a viable option where population is dispersed and scattered \nover a wide area;\n\u2022"
+            },
+            {
+                "Relation": "convert",
+                "Subject": "2.3.2",
+                "Object": "radiation",
+                "Description": "Utility scale solar PV projects can contribute to generation at the national level; \n\u2022 Solar PV systems are useful and applicable for nomads (Kuchi people);\n#2.3.2 Solar thermal\nSolar thermal systems convert solar radiation into heat."
+            },
+            {
+                "Relation": "find",
+                "Subject": "systems",
+                "Object": "applications",
+                "Description": "Solar thermal systems find various applications such as electricity generation, water \nheating, space heating/ cooling, industrial process heating, electricity generation etc."
+            },
+            {
+                "Relation": "call",
+                "Subject": "technologies",
+                "Object": "technologies",
+                "Description": "Solar thermal technologies in which sunlight is directly absorbed and is not concentrated, \nare called non-concentrating solar thermal technologies."
+            },
+            {
+                "Relation": "absorb",
+                "Subject": "collectors",
+                "Object": "radiation",
+                "Description": "Non\u0002concentrating collectors absorb both direct and diffuse radiation."
+            },
+            {
+                "Relation": "use",
+                "Subject": "system",
+                "Object": "rows",
+                "Description": "ETC system use parallel rows of glass tubes, each of which contains either a heat pipe or \nanother type of absorber, surrounded by a vacuum."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "This",
+                "Object": "loss",
+                "Description": "This greatly reduces heat loss, \nparticularly in cold climates."
+            },
+            {
+                "Relation": "use",
+                "Subject": "technologies",
+                "Object": "mirrors",
+                "Description": "Concentrating solar thermal technologies use mirrors to concentrate sunlight and produce \nheat and steam to generate electricity via a conventional thermodynamic cycle."
+            },
+            {
+                "Relation": "use",
+                "Subject": "concentrating",
+                "Object": "DNI",
+                "Description": "Unlike solar \nPV, concentrating solar thermal uses only the Direct Normal Irradiance (DNI) and provides \nheat and power only in regions with high DNI."
+            },
+            {
+                "Relation": "use",
+                "Subject": "systems",
+                "Object": "series",
+                "Description": "Linear Fresnel Reflector (LFR) systems use a series of ground-based, flat or slightly curved \nmirrors placed at different angles to concentrate the sunlight onto a fixed receiver located \nseveral meters above the mirror field."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Receivers",
+                "Object": "coating",
+                "Description": "Receivers have a special coating to \nmaximize energy absorption and minimize infrared re-irradiation and work in an evacuated \nglass envelope to avoid convection heat losses."
+            },
+            {
+                "Relation": "track",
+                "Subject": "Mirrors",
+                "Object": "path",
+                "Description": "Mirrors and receivers (i.e. the solar collectors) track the sun\u2019s \npath along a single axis (usually East to West)."
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "that",
+                "Object": "sunlight",
+                "Description": "that reflects sunlight into a receiver placed at the focal point of the dish."
+            },
+            {
+                "Relation": "be",
+                "Subject": "receiver",
+                "Object": "engine",
+                "Description": "The receiver may \nbe a Stirling engine (i.e. kinematic and free-piston variants) or a micro-turbine."
+            },
+            {
+                "Relation": "require",
+                "Subject": "systems",
+                "Object": "systems",
+                "Description": "Parabolic \ndish systems require two-axis sun tracking systems and offer very high concentration factors \nand operating temperatures."
+            },
+            {
+                "Relation": "include",
+                "Subject": "advantages",
+                "Object": "efficiency",
+                "Description": "The main advantages of parabolic dish systems include high \nefficiency (i.e. up to 30%) and modularity, which is suitable for distributed generation."
+            },
+            {
+                "Relation": "consist",
+                "Subject": "system",
+                "Object": "axes",
+                "Description": "A central receiver tower system consists of a large number of mirrors (heliostats) that track \nthe sun individually over two axes and focuses on the central tower where the solar heat \ndrives a thermodynamic cycle and generates electricity."
+            },
+            {
+                "Relation": "have",
+                "Subject": "concentrating",
+                "Object": "applications",
+                "Description": "In addition to renewable heat and power generation, concentrating solar technologies have \nother economically viable and sustainable applications, such as co-generation for domestic \nand industrial heat use, water desalination and enhanced oil recovery in mature and heavy \noil fields."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "GW",
+                "Description": "Total concentrating solar \npower installed capacity has reached 4.8 GW at the end of 2016 with a further 11 GW in \npipeline."
+            },
+            {
+                "Relation": "gather",
+                "Subject": "\n",
+                "Object": "support",
+                "Description": "CSP \nis gathering increased policy support in nations with limited oil/gas reserves, constrained \npower networks or strong agenda for industrialization and job creation."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "dryers",
+                "Object": "quality",
+                "Description": "Solar dryers can increase the quality of the local \nproducts in the agriculture sector."
+            },
+            {
+                "Relation": "hybridize",
+                "Subject": "Configuration",
+                "Object": "Area",
+                "Description": "Configuration of Concentrating Solar M90 Dishes at \nNTPC- Dadri, India:\nPeak Capacity at STC 80,000 kcal/hr.;\nApplication Cooking (Baking, Boiling and Frying);\nSystem Configuration Hot Thermic Oil at 220\u00b0C;\nIntegration Hybridized with LPG Thermic Oil Heater;\nPeak Capacity at STC 80,000 kcal/hr.;\nTotal Concentrator Area 2 Nos. of M90 Dishes totaling 180 m2;\n#Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system for Rural Applications\n"
+            },
+            {
+                "Relation": "supply",
+                "Subject": "system",
+                "Object": "power",
+                "Description": "In \naddition to providing the cold storage facility to \nthe farmers, such a system could also supply grid\u0002quality power to the village; thereby offering a \nholistic solution to some of the key problems \nfacing agrarian population."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "system",
+                "Object": "kW",
+                "Description": "The system, comprises a 15 kW (~5 TR) vapor \nabsorption machine (VAM) coupled with a 50 kWe \nbiomass gasifier system and a field of solar \nconcentrating collectors."
+            },
+            {
+                "Relation": "produce",
+                "Subject": "gasifier",
+                "Object": "gas",
+                "Description": "The biomass gasifier produces synthesis gas using locally \navailable woody biomass, which is then used to run an engine-generator to produce \nelectricity."
+            },
+            {
+                "Relation": "generate",
+                "Subject": "electricity",
+                "Object": "\n",
+                "Description": "The electricity generated \nby the system is enough to power domestic, community, as well as productive loads in a \ntypical village."
+            },
+            {
+                "Relation": "have",
+                "Subject": "plants",
+                "Object": "configurations",
+                "Description": "Hydropower plants have two basic configurations: dams with reservoirs and run-of-river \nplants, with no reservoirs."
+            },
+            {
+                "Relation": "be",
+                "Subject": "scheme",
+                "Object": "sub",
+                "Description": "The dam scheme can be sub-divided into small dams with night\u0002and-day regulation, large dams with seasonal storage and pumped storage reversible plants \n(for pumping and generation) for energy storage and night-and-day regulation."
+            },
+            {
+                "Relation": "exceed",
+                "Subject": "generation",
+                "Object": "demand",
+                "Description": "When electricity generation exceeds grid demand, the energy is stored \nby pumping water from the lower to the higher reservoir."
+            },
+            {
+                "Relation": "classify",
+                "Subject": "plants",
+                "Object": "hydro",
+                "Description": "In Afghanistan, hydropower plants are classified as pico-hydro (0 to 5 kW), micro-hydro (5 \nto 100 kW), mini-hydro (101kW to 1000 kW), small-hydro (1001Kw to 10,000 kW) and large\u0002hydro (above 10,001 kW)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Hydropower",
+                "Object": "services",
+                "Description": "Hydropower also provides other key services, such as flood control, irrigation and potable \nwater reservoirs."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "reservoirs",
+                "Object": "storage",
+                "Description": "Hydro reservoirs provide built-in energy storage that enables a quick response to electricity \ndemand fluctuations across the grid, optimization of electricity production and \ncompensation for power losses from other sources."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Innovations",
+                "Object": "technology",
+                "Description": "Innovations in hydropower technology include variable speed technology for \nnew and refurbished pumped storage plants, which assist in further integration of variable \nrenewable resources."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Afghanistan",
+                "Object": "sites",
+                "Description": "Afghanistan, has many feasible sites for MHP plants."
+            },
+            {
+                "Relation": "play",
+                "Subject": "systems",
+                "Object": "role",
+                "Description": "MHP systems can play a crucial \nrole in economic and social development in the remote areas in Afghanistan."
+            },
+            {
+                "Relation": "utilize",
+                "Subject": "turbine",
+                "Object": "rate",
+                "Description": "The turbine utilizes the existing flow rate available \nto generate clean energy."
+            },
+            {
+                "Relation": "require",
+                "Subject": "diameter",
+                "Object": "m",
+                "Description": "The AC power generated \nby the turbine generator is a function of the following \nthree factors combined:\n\u2022 Average water velocity in the range of 1.25 m/s to \n4 m/s (Increased power generation in faster flow);\n\u2022 Minimum machine diameter of 2.1m requires 2.5m of water depth (Increased power generation \nin sites with deeper waters using the longer blade variants available);\n\u2022 Continuous flows: total power generated depends on number of hours of water flow available \nat a site;\n"
+            },
+            {
+                "Relation": "have",
+                "Subject": "turbine",
+                "Object": "option",
+                "Description": "Other than applications in tailraces of existing hydropower plants, rivers and canals, the micro \nhydro turbine has a bi-directionality option to facilitate operations in tidal currents as well."
+            },
+            {
+                "Relation": "force",
+                "Subject": "wind",
+                "Object": "rotor",
+                "Description": "The wind forces the turbine\u2019s rotor to spin, \nchanging the kinetic energy to rotational energy by moving a shaft which is connected to a \ngenerator, thereby producing electrical energy through electromagnetism."
+            },
+            {
+                "Relation": "mount",
+                "Subject": "shaft",
+                "Object": "parallel",
+                "Description": "The rotating shaft \nis mounted parallel to the wind flow/ground, and the turbines can have two types of rotors: \nup-wind and down-wind."
+            },
+            {
+                "Relation": "use",
+                "Subject": "options",
+                "Object": "grids",
+                "Description": "Such hybrid options can \nbe used as mini-grids for supplying electricity to areas with no electricity grid."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Afghanistan",
+                "Object": "potential",
+                "Description": "Afghanistan has a good wind resource potential especially in South East part of the country."
+            },
+            {
+                "Relation": "include",
+                "Subject": "uses",
+                "Object": "efficiency",
+                "Description": "Majority of the biomass energy is consumed in developing countries for \ntraditional uses with very low efficiency (10%-20%) such as cooking, while modern uses of \nbiomass for heat and power generation include mainly high-efficiency, direct biomass \ncombustion, co-firing with coal and biomass gasification."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "systems",
+                "Object": "\u2022",
+                "Description": "Biogas systems provide:\n\u2022 Clean gaseous fuel for cooking and lighting;\n\u2022 Digested slurry from biogas plants to be used as enriched bio-manure to supplement \nchemical fertilizers;\n\u2022 Improved sanitation in villages and semi -urban areas by linking sanitary toilets with \nbiogas plants;\n#III."
+            },
+            {
+                "Relation": "allow",
+                "Subject": "systems",
+                "Object": "treatment",
+                "Description": "Waste to Energy systems allow treatment and processing of waste from urban & rural areas \nand industries, resulting in energy generation."
+            },
+            {
+                "Relation": "entail",
+                "Subject": "process",
+                "Object": "decomposition",
+                "Description": ";\n\u2022 Thermo-chemical conversion: This process entails high temperature driven \ndecomposition of organic matter to produce either heat energy or fuel oil or gas."
+            },
+            {
+                "Relation": "include",
+                "Subject": "options",
+                "Object": "Pyrolysis",
+                "Description": "The main technological options under this category include \nPyrolysis and Gasification."
+            },
+            {
+                "Relation": "need",
+                "Subject": "methodology",
+                "Object": "studies",
+                "Description": "However, this \nmethodology needs extensive evaluation studies on bulk scale liquid waste treatments \nand stands at a nascent level, worldwide."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "GW",
+                "Description": "Globally bio-power capacity reached 112 GW by the end of 2016."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "Union",
+                "Object": "generation",
+                "Description": "By country, the United States is the largest producer of electricity from biomass sources and \nby region, European Union leads both the bio-power generation and capacity."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "These",
+                "Object": "protection",
+                "Description": "These can improve health protection of women and \nsociety in villages and keep the environment clean."
+            },
+            {
+                "Relation": "include",
+                "Subject": "resources",
+                "Object": "steam",
+                "Description": "Geothermal resources include dry steam, \nhot water, hot dry rock, magma, and ambient ground heat."
+            },
+            {
+                "Relation": "absorb",
+                "Subject": "pump",
+                "Object": "heat",
+                "Description": "Air source heat pump can absorb heat from the air \neven when the temperature is as low as -15\u00b0 C.\n"
+            },
+            {
+                "Relation": "extract",
+                "Subject": "refrigerant",
+                "Object": "heat",
+                "Description": "In heating \nmode, the refrigerant in the outside coils extracts heat from the air and evaporates into \nvapor form."
+            },
+            {
+                "Relation": "release",
+                "Subject": "coils",
+                "Object": "heat",
+                "Description": "The indoor coils release heat from the refrigerant while it condenses into a \nliquid."
+            },
+            {
+                "Relation": "change",
+                "Subject": "valve",
+                "Object": "direction",
+                "Description": "A reversing valve changes the direction of the refrigerant flow for cooling in summer."
+            },
+            {
+                "Relation": "use",
+                "Subject": "systems",
+                "Object": "fans",
+                "Description": "Air\u0002to-Air systems typically use fans to circulate warm air around the home and cannot be used \nto heat water."
+            },
+            {
+                "Relation": "illustrate",
+                "Subject": "figure",
+                "Object": "working",
+                "Description": "The figure illustrates the working of an Air \nSource Heat Pump."
+            },
+            {
+                "Relation": "absorb",
+                "Subject": "technologies",
+                "Object": "energy",
+                "Description": "Energy storage technologies absorb energy when production \nis more than the demand and store it for a period before releasing it to supply energy."
+            },
+            {
+                "Relation": "discharge",
+                "Subject": "electricity",
+                "Object": "energy",
+                "Description": "Electric batteries store electricity in the form of chemical energy and are mainly of two \ntypes \u2013 rechargeable and non-rechargeable;\n\u2022 Flywheels are mechanical devices that stores electricity as rotational energy which is \nharnessed to deliver instantaneous electricity;\n\u2022 Compressed air energy storage stores off-peak electricity to compress air which is later \ndischarged to the gas turbine to generate electricity during peak periods;\n\u2022 Thermal storage systems store thermal energy by heating or cooling a storage medium \nwhich can be used at a later stage for heating and cooling applications and power \ngeneration;\n\u2022 Pumped hydropower storage facilities store energy in the form of water in an upper \nreservoir, pumped from another reservoir at a lower elevation."
+            },
+            {
+                "Relation": "show",
+                "Subject": "Figure",
+                "Object": "stages",
+                "Description": "Figure 19 shows the \ndevelopment stages of various energy storage technologies."
+            },
+            {
+                "Relation": "give",
+                "Subject": "table",
+                "Object": "summary",
+                "Description": "The following table gives a summary of all RETs that are being studied as \npossibilities for implementation, along with their applications."
+            },
+            {
+                "Relation": "add",
+                "Subject": "world",
+                "Object": "capacity",
+                "Description": "The world now \nadds more renewable power capacity annually than it adds (net) capacity from all fossil fuels \ncombined."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "efficiency",
+                "Object": "%",
+                "Description": "The record lab solar PV cell efficiency has reached 25.6 % for mono-crystalline and 20.8 % for \nmulti-crystalline silicon wafer-based technology."
+            },
+            {
+                "Relation": "be",
+                "Subject": "power",
+                "Object": "form",
+                "Description": "Even in conservative scenarios and assuming no major technological breakthroughs, solar \npower will be the cheapest form of electricity in many regions of the world."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "MW",
+                "Description": "By end of 2015, global concentrating PV (CPV) capacity reached 360 MW, most of which are \nhigh-concentration systems (CR: 300-1000)"
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "MWp",
+                "Description": "[Photovoltaics Report 2016, Fraunhofer ISE];\n\u2022 Since first floating plant installation in 2007, the total installed capacity globally has now \nreached 93 MWp with 70 floating PV plant worldwide."
+            },
+            {
+                "Relation": "have",
+                "Subject": "plant",
+                "Object": "capacity",
+                "Description": "The biggest floating plant has a capacity \nof 20 MWp."
+            },
+            {
+                "Relation": "receive",
+                "Subject": "form",
+                "Object": "interest",
+                "Description": "A new form of CSP, called STEM (Solar Thermo Electric Magaldi), which uses fluidized silica \nsand as a thermal storage and heat transfer medium to produce 24-hour industrial scale power \nfor off-grid applications is receiving international interest."
+            },
+            {
+                "Relation": "start",
+                "Subject": "plant",
+                "Object": "operations",
+                "Description": "On 30th June \n2016, the first STEM industrial model plant started operations in San Filippo del Mela (Sicily)."
+            },
+            {
+                "Relation": "generate",
+                "Subject": "turbine",
+                "Object": "electricity",
+                "Description": "A 2 MW wind turbine \nwith an 80-m diameter rotor now generates four to six times more electricity than a 500 kW, \n40 m diameter rotor built in 1995."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Asia",
+                "Object": "number",
+                "Description": "[Renewables 2017 Global Status Report, REN21];\n\u2022 Asia has the highest number of small-scale biogas digesters, with more than 100 million people \nin rural China and 4.83 million people in India have access to digesters to produce gas for \ncooking and space heating."
+            },
+            {
+                "Relation": "have",
+                "Subject": "people",
+                "Object": "access",
+                "Description": "[Renewables 2017 Global Status Report, REN21];\n\u2022 Asia has the highest number of small-scale biogas digesters, with more than 100 million people \nin rural China and 4.83 million people in India have access to digesters to produce gas for \ncooking and space heating."
+            },
+            {
+                "Relation": "be",
+                "Subject": "MWh",
+                "Object": "battery",
+                "Description": "When completed, the larger, 120 MWh (30 MW for 4 hours) \nproject will be the single biggest lithium ion battery in service on a utility grid in the world."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "type",
+                "Object": "process",
+                "Description": "The type of projects that could be taken up for each RE technology, are identified through \na process that is developed specifically for this Roadmap and is presented here in the form \nof a Decision Tool."
+            },
+            {
+                "Relation": "take",
+                "Subject": "Level",
+                "Object": "potential",
+                "Description": "Level 1 takes into account the \ntechno-economical RE resource potential, grid availability, land availability and logistics \nwhich are very region-specific in Afghanistan."
+            },
+            {
+                "Relation": "give",
+                "Subject": "process",
+                "Object": "idea",
+                "Description": "This process gives an idea about suitable RE \nresource and the implementing technology and also point at suitability of utility scale vs \noff-grid systems."
+            },
+            {
+                "Relation": "evaluate",
+                "Subject": "Level",
+                "Object": "factors",
+                "Description": "The next Level 2, evaluates various factors such as existing load profiles, \nenergy consumption pattern, terrain characteristics, population densities, available energy \nresources, and other social factors to indicate mini-grids vs stand-alone system choices."
+            },
+            {
+                "Relation": "aid",
+                "Subject": "Tool",
+                "Object": "makers",
+                "Description": "At level 1, Decision Tool aids the policy makers who are at the first level of the \ndecision-making hierarchy in deciding whether to plan for utility scale grid- connected or \noff-grid projects."
+            },
+            {
+                "Relation": "give",
+                "Subject": "This",
+                "Object": "idea",
+                "Description": "This gives an idea about the presence of load demand in the area."
+            },
+            {
+                "Relation": "enable",
+                "Subject": "parameters",
+                "Object": "developers",
+                "Description": "Ultimately, these parameters enable the project developers and the users in \ndeveloping a mutually agreed upon business model, thus suggesting project design for the \nproject pipeline."
+            },
+            {
+                "Relation": "be",
+                "Subject": "\n",
+                "Object": "outcome",
+                "Description": "c. Then check for land availability, road connectivity, and security if \u201cutility-scale\u201d \nis the outcome above."
+            },
+            {
+                "Relation": "consider",
+                "Subject": "provinces",
+                "Object": "ideal",
+                "Description": "Further, the provinces with no or limited grid availability but high solar radiation are \nconsidered ideal for mini-grid or stand-alone projects in level 2 of the Decision Tool. \n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Tool",
+                "Object": "method",
+                "Description": "The Decision Tool provides a method to create a project pipeline."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Some",
+                "Object": "Simplicity",
+                "Description": "Some of these considerations would be:\n\u2022 Simplicity: How easy they are to construct, operate and maintain ;\n\u2022 Scalability: Whether they can be implemented across a variety of sizes and locations ;\n\u2022 Familiarity: What is their familiarity in Afghanistan on the basis of past experience;\n\u2022 Viability: Whether they are a financially sound option;\n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "SPP",
+                "Object": "trailblazers",
+                "Description": "The proposed 100 MW SPP at Naghlu and 10 MW IPP at \nKandahar will be trailblazers in this segment."
+            },
+            {
+                "Relation": "be",
+                "Subject": "project",
+                "Object": "kind",
+                "Description": "The proposed 10 MWp roof-top PV project in Kabul would be the first-of-its \nkind, which will be followed by similar projects in other major towns and provincial capitals \nthat are/ will be connected to the national/ provincial grids."
+            },
+            {
+                "Relation": "generate",
+                "Subject": "\n",
+                "Object": "tonnes",
+                "Description": "For instance, Kabul \ngenerates approximately 1600 tonnes of MSW daily."
+            },
+            {
+                "Relation": "recommend",
+                "Subject": "Roadmap",
+                "Object": "projects",
+                "Description": "The Roadmap recommends more such \nprojects, totalling to about 56 MW aggregated installed capacity."
+            },
+            {
+                "Relation": "recommend",
+                "Subject": "\n",
+                "Object": "total",
+                "Description": "Roadmap \nrecommends a total of 720 MW of installed capacities."
+            },
+            {
+                "Relation": "market",
+                "Subject": "enterprises",
+                "Object": "systems",
+                "Description": "Private enterprises are already marketing these systems in Afghanistan."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "Initiatives",
+                "Object": "boost",
+                "Description": "Initiatives such as \u2018Citizens\u2019 Charter Afghanistan Programme\u2019 will provide a further boost to \nthis segment."
+            },
+            {
+                "Relation": "play",
+                "Subject": "systems",
+                "Object": "role",
+                "Description": "Given the requirement of hot-water (and low-grade heat) for domestic, community and \ncommercial purposes throughout the year in Afghanistan, non-concentrating solar thermal \nsystems (flat-plate or ETC) can play a critical role in providing thermal energy to these \napplications."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "Roadmap",
+                "Object": "target",
+                "Description": "Accordingly, Roadmap suggests a total target of 60 MW under this category."
+            },
+            {
+                "Relation": "suggest",
+                "Subject": "\n",
+                "Object": "deployment",
+                "Description": "This Roadmap \nsuggests a deployment of such systems with an aggregate capacity of around 6.7 MW."
+            },
+            {
+                "Relation": "give",
+                "Subject": "introduction",
+                "Object": "fillip",
+                "Description": "However, the introduction of RENP and feed-in tariffs for connecting such projects to the \ngrid has given a fillip to the sector."
+            },
+            {
+                "Relation": "take",
+                "Subject": "development",
+                "Object": "place",
+                "Description": "As discussed in the subsequent chapters, development of the RE sector shall take place in \nstages."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "expansion",
+                "Object": "stages",
+                "Description": "As the Stage-Gate model \nlater explains in next chapter, the expansion of the RE sector and its components follows \nthe 3 stages of market seeding, market creation and market transformation."
+            },
+            {
+                "Relation": "address",
+                "Subject": "each",
+                "Object": "objective",
+                "Description": "The renewable energy market in Afghanistan is segregated into three categories (i.e. utility \nscale, mini-grids, and stand-alone) each addressing a specific objective of the Roadmap as \npresented below:\n#Large, utility scale\n"
+            },
+            {
+                "Relation": "need",
+                "Subject": "producers",
+                "Object": "infrastructure",
+                "Description": "In addition, producers need proper \ninfrastructure to set up their MW scale power plants."
+            },
+            {
+                "Relation": "assume",
+                "Subject": "agreement",
+                "Object": "importance",
+                "Description": "Thus, the power purchase agreement \n(PPA) assumes primary importance for large scale, MW scale power plants."
+            },
+            {
+                "Relation": "require",
+                "Subject": "model",
+                "Object": "entrepreneur",
+                "Description": "The business model requires the entrepreneur to make investments in power generation \nand/or distribution systems that would optimally serve its command area."
+            },
+            {
+                "Relation": "see",
+                "Subject": "segment",
+                "Object": "movement",
+                "Description": "The standalone segment has seen some market movement via outright purchases of solar \npowered home systems."
+            },
+            {
+                "Relation": "have",
+                "Subject": "segment",
+                "Object": "potential",
+                "Description": "The segment has significant potential in Afghanistan with the centralized grid \nnot being a cost-effective option in several pockets of the country dominated by \nmountainous terrain and spatially dispersed communities."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "park",
+                "Object": "developers",
+                "Description": "The park provides project developers with proper \ninfrastructure and access to facilities for power generation and export to the grid against a \nfirm Power Purchase Agreement (PPA)."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "SPPs",
+                "Object": "developers",
+                "Description": "SPPs facilitate developers by reducing the number of required \napprovals."
+            },
+            {
+                "Relation": "discuss",
+                "Subject": "section",
+                "Object": "SPPs",
+                "Description": "While this section discusses the SPPs, similar approach may also be considered for setting \nup of wind power parks/farms."
+            },
+            {
+                "Relation": "accommodate",
+                "Subject": "SPP",
+                "Object": "projects",
+                "Description": "As defined above, a single SPP can accommodate several projects promoted by a number of \nprivate sector entities, all facing roughly similar conditions for power generation and sale, \nwhich are governed in their individual power purchase agreements signed with the off-taker, \nsuch as DABS in this case."
+            },
+            {
+                "Relation": "face",
+                "Subject": "all",
+                "Object": "conditions",
+                "Description": "As defined above, a single SPP can accommodate several projects promoted by a number of \nprivate sector entities, all facing roughly similar conditions for power generation and sale, \nwhich are governed in their individual power purchase agreements signed with the off-taker, \nsuch as DABS in this case."
+            },
+            {
+                "Relation": "execute",
+                "Subject": "entity",
+                "Object": "\n",
+                "Description": "This entity, in the role of the SPPD, executes the \nfollowing:\n\u2022 Acquisition of land and developing it for SPP;\n\u2022"
+            },
+            {
+                "Relation": "develop",
+                "Subject": "\u2022",
+                "Object": "roads",
+                "Description": "\u2022 Developing approach roads, water supply and distribution, drainage and other \nrelated infrastructure to each project within the SPP;\n\u2022"
+            },
+            {
+                "Relation": "be",
+                "Subject": "This",
+                "Object": "subsidiary",
+                "Description": "This could be a subsidiary of a utility \nor any other PPP arrangement."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "Standards",
+                "Object": "guidelines",
+                "Description": "Standards for metering and connectivity to grid shall follow the guidelines set \nout in Electricity Law and other relevant guidance documents."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Projects",
+                "Object": "pathways",
+                "Description": ";\n\u2022 Projects shall have well-defined pathways after the expiry of the PPA."
+            },
+            {
+                "Relation": "include",
+                "Subject": "pathways",
+                "Object": "sale",
+                "Description": "These \npathways could include sale of asset to government, extension of PPA and others."
+            },
+            {
+                "Relation": "define",
+                "Subject": "regulator",
+                "Object": "conditions",
+                "Description": "In terms of the institutional engagement in SPPs, major responsibilities of different \ninstitutions are expected to pan out as follows:\n\u2022 Power sector regulatory body: The regulator shall define conditions for power \nevacuation (must-run and must-take), long term access, PPA and others."
+            },
+            {
+                "Relation": "set",
+                "Subject": ".",
+                "Object": "Vehicle",
+                "Description": "Govt. may set up a Special Purpose Vehicle (SPV) in the \nPPP mode (similar to AISA) for setting up and managing SPPs, like a Solar Power Park \nDeveloper (SPPD)."
+            },
+            {
+                "Relation": "finalize",
+                "Subject": "Sherkat",
+                "Object": "rates",
+                "Description": "\u2022 Da Afghanistan Breshna Sherkat (DABS): DABS shall, as the transmission and \ndistribution utility, shall finalize tariff rates for procurement of power from SPPs and \nprocure the power."
+            },
+            {
+                "Relation": "set",
+                "Subject": "developer",
+                "Object": "project",
+                "Description": "The project developer shall set up its solar PV project and \noperate and maintain the same throughout the life of the PPA."
+            },
+            {
+                "Relation": "hand",
+                "Subject": "developer",
+                "Object": "project",
+                "Description": "Depending upon the \nterms of agreement, after expiry of the PPA the developer may hand over the project \nto the government."
+            },
+            {
+                "Relation": "build",
+                "Subject": "This",
+                "Object": "infrastructure",
+                "Description": "This shall build infrastructure such as roads, \npower and water lines to the site and around, thus developing the local micro-economy and \nresulting in decentralised development and reversing the course of migration."
+            },
+            {
+                "Relation": "tend",
+                "Subject": "SPPs",
+                "Object": "years",
+                "Description": "However, in USA, \nChina and India SPPs have tended to be larger in size, especially those installed in the past \nfew years (2012 onwards)."
+            },
+            {
+                "Relation": "show",
+                "Subject": "schematic",
+                "Object": "SPP",
+                "Description": "The following schematic shows the SPP in terms of process flows and roles/ responsibilities \nof various actors."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Examples",
+                "Object": "union",
+                "Description": "Examples of DF could be the industrial park union, association of residents of a housing \nsociety, or any private agency interested in purchasing power from DABS (generator) and \ndistributing it within the mandated zone (park, housing society etc.)."
+            },
+            {
+                "Relation": "identify",
+                "Subject": "\n",
+                "Object": "agencies",
+                "Description": "SECI \nhas identified nodal agencies in prominent Indian states where solar power parks are \nplanned."
+            },
+            {
+                "Relation": "form",
+                "Subject": "agencies",
+                "Object": "ventures",
+                "Description": "These nodal agencies form joint ventures with SECI and act as the SPPD\n"
+            },
+            {
+                "Relation": "spread",
+                "Subject": "park",
+                "Object": "acres",
+                "Description": "The park, located in Patan \ndistrict, is spread over 5,384 acres of unused land."
+            },
+            {
+                "Relation": "instal",
+                "Subject": "park",
+                "Object": "capacity",
+                "Description": "By the end of 2016, Charanka solar \npark has installed capacity of nearly 350 MW (March 2016)."
+            },
+            {
+                "Relation": "give",
+                "Subject": "state",
+                "Object": "responsibility",
+                "Description": "As a third option, the individual \nstate could give responsibility to SECI to become the agency within the state."
+            },
+            {
+                "Relation": "keep",
+                "Subject": "\n",
+                "Object": "open",
+                "Description": "The choice \nof technology and identification of entrepreneurs within \na solar park may be kept open and subjected to a bidding \nprocess."
+            },
+            {
+                "Relation": "be",
+                "Subject": "approach",
+                "Object": "solution",
+                "Description": "For energy-deficit industrial areas and parks in Afghanistan, the DF approach \ncould be a cost-effective solution to meeting the industries\u2019 needs of quality, low to high \nvoltage power demand."
+            },
+            {
+                "Relation": "include",
+                "Subject": "model",
+                "Object": "generator",
+                "Description": "The DF business model necessarily includes a generator that is owned by an entity different \nfrom the DF."
+            },
+            {
+                "Relation": "sell",
+                "Subject": "utility",
+                "Object": "electricity",
+                "Description": "The utility sells electricity to the DF at a single point (such as a transformer) at a pre\u0002agreed, bulk tariff that is governed by a power purchase agreement."
+            },
+            {
+                "Relation": "distribute",
+                "Subject": "DF",
+                "Object": "electricity",
+                "Description": "DF distributes \nelectricity to individual consumers at pre-agreed consumer tariff."
+            },
+            {
+                "Relation": "assure",
+                "Subject": "step",
+                "Object": "utility",
+                "Description": "This step assures the \nutility of payments from the DF, and thus de-risks it from engaging with a multitude of \nconsumers."
+            },
+            {
+                "Relation": "commit",
+                "Subject": "DF",
+                "Object": "activities",
+                "Description": "DF commits to undertaking Billing, \nMetering and Collection (BMC) activities, or making required investments / \nimprovements in the distribution network, as the case may be."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "DF",
+                "Object": "utility",
+                "Description": "The DF represents the utility on the ground and is provided with security and other \nadministrative support."
+            },
+            {
+                "Relation": "be",
+                "Subject": "DF",
+                "Object": "entity",
+                "Description": "The DF could be a local entity \nfamiliar with site-specific dynamics, which would assist in de-risking revenue collection \nand establishment of business ties with community members."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Benefits",
+                "Object": "supply",
+                "Description": "This is more relevant for industrial and urban consumers;\n\u2022 DF realizes its returns on above investments by charging pre-agreed consumer tariffs, \nthat are usually at a premium (in return for better service delivery);\n\u2022 Benefits to consumers served by the DF include improved power supply (both \nqualitatively and quantitatively) and improved complaint redressal;\n\u2022 Benefits to utility include assured revenue collection (from a single-bulk-consumer) and \nreduced manpower deployment costs in the zone where DF operates ;"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "DABS",
+                "Object": "support",
+                "Description": "64\nDABS shall provide necessary support to DF on the ground in the form of security and \nany other administrative / legal support as and when required;\n\u2022 Distribution Franchisee (DF): Invests in, operates and maintains the distribution \ninfrastructure over the tenure of its terms of agreement with DABS."
+            },
+            {
+                "Relation": "launch",
+                "Subject": "India",
+                "Object": "one",
+                "Description": "In the neighbouring country, India for example, \nTorrent Power Limited (TPL) launched one of the first input based distribution franchisee \noperations in Bhiwandi circle of Maharashtra in western India."
+            },
+            {
+                "Relation": "have",
+                "Subject": "TPL",
+                "Object": "mandate",
+                "Description": "Importantly, TPL has a ten-year mandate \nin Bhiwandi Circle, which is needed for it to recover its investments and make returns."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "lack",
+                "Object": "\n",
+                "Description": "On the demand side, lack of reliable energy access coupled with \nhigh demand for electrical energy for lighting and other applications provide a ready market \nfor roof-top based solar PV systems."
+            },
+            {
+                "Relation": "sell",
+                "Subject": "households",
+                "Object": "electricity",
+                "Description": "With the advantage of net metering, households can \nalso sell unused electricity back to the grid and provide more power for distribution."
+            },
+            {
+                "Relation": "draw",
+                "Subject": "user",
+                "Object": "electricity",
+                "Description": "Similarly, if power supplied from the solar PV unit falls short of \ncurrent demand at the user\u2019s end, then the user draws electricity from the grid."
+            },
+            {
+                "Relation": "involve",
+                "Subject": "model",
+                "Object": "owner",
+                "Description": "The Capital Expenditure (CAPEX) model involves the owner of the roof and \nelectricity distributor (DABS, in this case)."
+            },
+            {
+                "Relation": "purchase",
+                "Subject": "owner",
+                "Object": "equipment",
+                "Description": "The owner purchases all the \nnecessary equipment for the generation of roof-top solar and sells the \nelectricity generated to the distributor via a net-metering mechanism ;\no"
+            },
+            {
+                "Relation": "involve",
+                "Subject": "model",
+                "Object": "owner",
+                "Description": "The Operational Expenditure (OPEX) model involves the owner of the roof, a \nthird-party implementation company and the electricity distributor."
+            },
+            {
+                "Relation": "rent",
+                "Subject": "roof",
+                "Object": "roof",
+                "Description": "The roof \nowner rents out their roof to a third party in order for them to generate \nelectricity from solar PV panels."
+            },
+            {
+                "Relation": "generate",
+                "Subject": "them",
+                "Object": "electricity",
+                "Description": "The roof \nowner rents out their roof to a third party in order for them to generate \nelectricity from solar PV panels."
+            },
+            {
+                "Relation": "sell",
+                "Subject": "party",
+                "Object": "\n",
+                "Description": "The third party sells the electricity \ngenerated to the distribution company."
+            },
+            {
+                "Relation": "collect",
+                "Subject": "owner",
+                "Object": "rent",
+                "Description": "In turn, the owner collects rent from \nthe third party, after taking into account any other arrangements, like \nelectricity purchase, profit-sharing, etc."
+            },
+            {
+                "Relation": "enjoy",
+                "Subject": "developer",
+                "Object": "benefits",
+                "Description": "The third-party developer enjoys government tax benefits and incentives as \ngenerator of clean power ;\no"
+            },
+            {
+                "Relation": "become",
+                "Subject": "DABS",
+                "Object": "party",
+                "Description": "In the case of Afghanistan, DABS could also become the third-party so as to \ngenerate more grid-connected energy at a relatively low cost;;\nTo ensure long-term sustainability of roof-top solar PV systems, distribution companies \npurchasing power through net metering, for instance, shall need to ensure \ncomplementarities in power interface with the utility (DABS) grid, so that there is seamless \nintegration with national power systems and management of local interconnection issues. \n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "integration",
+                "Description": "In the case of Afghanistan, DABS could also become the third-party so as to \ngenerate more grid-connected energy at a relatively low cost;;\nTo ensure long-term sustainability of roof-top solar PV systems, distribution companies \npurchasing power through net metering, for instance, shall need to ensure \ncomplementarities in power interface with the utility (DABS) grid, so that there is seamless \nintegration with national power systems and management of local interconnection issues. \n"
+            },
+            {
+                "Relation": "play",
+                "Subject": "tariffs",
+                "Object": "role",
+                "Description": "Like grid-tied systems, feed-in tariffs play an important \nrole."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "model",
+                "Description": "Figure below presents the model."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Union",
+                "Object": "leader",
+                "Description": "Globally, the European Union and especially Germany has been a proven leader in roof-top \nsolar power development."
+            },
+            {
+                "Relation": "have",
+                "Subject": "user",
+                "Object": "flexibility",
+                "Description": "The excess power sold to the grid is valued at the PPA and \ncredited to the user in terms of energy credits, with the user to have flexibility on when \nuser chooses to monetise them."
+            },
+            {
+                "Relation": "introduce",
+                "Subject": "countries",
+                "Object": "regulation",
+                "Description": "In addition, countries where roof-top solar PV are present \nhave introduced prior regulation to facilitate setting up of these systems."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Germany",
+                "Object": "%",
+                "Description": "With a total generation of 36.6 terawatt-hours (TWh; equivalent to 36,600 GWh) from \nsolar PV in 2015, and a total installed capacity of 29.6 GW (29,600 MW) exclusively \nthrough solar PV roof-tops, Germany has over 7% of its total electricity demand being \nfed by solar systems."
+            },
+            {
+                "Relation": "target",
+                "Subject": "country",
+                "Object": "GWh",
+                "Description": "Beginning from a stage of negligible solar PV capacity \nin the 1990s, the country has targeted 45,000 GWh by 2020."
+            },
+            {
+                "Relation": "put",
+                "Subject": "approach",
+                "Object": "importance",
+                "Description": "Importantly, the approach \nputs importance on roof-top as a key enabler."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "segment",
+                "Object": "%",
+                "Description": "Today, the roof-top segment contributes \nalmost 75% of Germany\u2019s PV capacity."
+            },
+            {
+                "Relation": "incentivize",
+                "Subject": "policies",
+                "Object": "owners",
+                "Description": "In addition, policies \nsignificantly incentivize owners to mount solar roof-top systems, through Feed-in-Tariffs \n(FiT)."
+            },
+            {
+                "Relation": "have",
+                "Subject": "opening",
+                "Object": "co",
+                "Description": "As per German EnergieWiende, the opening up of the solar PV market also had significant \nco-benefits."
+            },
+            {
+                "Relation": "combine",
+                "Subject": "RESCO",
+                "Object": "functions",
+                "Description": "As a mini-utility, RESCO combines both \ngeneration and distribution functions."
+            },
+            {
+                "Relation": "pay",
+                "Subject": "incomes",
+                "Object": "\n",
+                "Description": "These incomes pay \nfor energy consumed, sustaining the micro-utility function."
+            },
+            {
+                "Relation": "meet",
+                "Subject": "projects",
+                "Object": "demand",
+                "Description": "RESCO projects, acting as a complete \nmicro-or mini-utility by combining generation and distribution services under a single roof, \ncan meet power demand and contribute to local growth by facilitating enterprise \ndevelopment. \n"
+            },
+            {
+                "Relation": "mirror",
+                "Subject": "RESCO",
+                "Object": "utility",
+                "Description": "The RESCO mirrors a utility on the ground."
+            },
+            {
+                "Relation": "set",
+                "Subject": "RESCO",
+                "Object": "cluster",
+                "Description": "Typically, RESCO sets up a cluster of \nprojects in a district to reduce management overheads and ensure viability."
+            },
+            {
+                "Relation": "undertake",
+                "Subject": "businesses",
+                "Object": "activities",
+                "Description": "RESCO \nbusinesses undertake several pre-project activities such as site selection, load and \nenterprise development, feasibility study preparation and engineering design."
+            },
+            {
+                "Relation": "utilize",
+                "Subject": "RESCO",
+                "Object": "resources",
+                "Description": "For \npower generation, RESCO utilizes locally available RE resources such as solar, \nbiomass and wind."
+            },
+            {
+                "Relation": "sell",
+                "Subject": "Power",
+                "Object": "to",
+                "Description": ";\n\u2022 Power is sold to consumers across all load categories, viz."
+            },
+            {
+                "Relation": "play",
+                "Subject": "entities",
+                "Object": "roles",
+                "Description": "These entities play important roles in project \nidentification, community mobilization, load development and tariff fixation."
+            },
+            {
+                "Relation": "build",
+                "Subject": "CSOs",
+                "Object": "bridges",
+                "Description": "CSOs, \nlargely being local, build trust bridges between RESCO and communities."
+            },
+            {
+                "Relation": "ensure",
+                "Subject": "RESCOs",
+                "Object": "complementarities",
+                "Description": "To ensure long-term sustainability of operations, RESCOs can ensure \ncomplementarities in interface between the mini-grids constructed by them and the \nutility (DABS) grid, so that there is seamless integration with the national grid as and \nwhen it reaches in future."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "integration",
+                "Description": "To ensure long-term sustainability of operations, RESCOs can ensure \ncomplementarities in interface between the mini-grids constructed by them and the \nutility (DABS) grid, so that there is seamless integration with the national grid as and \nwhen it reaches in future."
+            },
+            {
+                "Relation": "have",
+                "Subject": "towers",
+                "Object": "demand",
+                "Description": "For instance, telecom towers have 24x7 demand and can act as anchor \nloads."
+            },
+            {
+                "Relation": "gain",
+                "Subject": "RESCO",
+                "Object": "knowledge",
+                "Description": "The RESCO also gains \nknowledge of various aspects of an energy-based business."
+            },
+            {
+                "Relation": "have",
+                "Subject": "model",
+                "Object": "potential",
+                "Description": ";\nThe RESCO business model has strong potential in Afghanistan, mostly because decentralised \nenergy is expected to contribute significantly in the country\u2019s overall energy sector."
+            },
+            {
+                "Relation": "demarcate",
+                "Subject": "regulator",
+                "Object": "regions",
+                "Description": "The regulator shall demarcate regions within Afghanistan where grid may \nnot reach in a certain foreseeable future."
+            },
+            {
+                "Relation": "ring",
+                "Subject": "These",
+                "Object": "fence",
+                "Description": "These shall ring-fence zones where RESCO \ncan operate."
+            },
+            {
+                "Relation": "set",
+                "Subject": "MEW",
+                "Object": "guidelines",
+                "Description": "MEW will set up guidelines for technical design, \nsafety and quality of power delivered for RESCO projects."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "MEW",
+                "Object": "activities",
+                "Description": "MEW shall also carry out \ncapacity building activities for RESCOs."
+            },
+            {
+                "Relation": "empanel",
+                "Subject": "MRRD",
+                "Object": "organizations",
+                "Description": "MRRD can empanel potential RESCO \norganizations and work in tandem with relevant Community Development Councils \nand other grassroots organizations to identify RESCO project opportunities."
+            },
+            {
+                "Relation": "lie",
+                "Subject": "Sherkat",
+                "Object": "projects",
+                "Description": "Da Afghanistan Breshna Sherkat (DABS): DABS shall, as the transmission utility, lay \ndown guidelines for interconnection of distribution networks for mini-utilities\nprojects with the grid, so as to facilitate seamless transition in the event of grid \ninterface."
+            },
+            {
+                "Relation": "build",
+                "Subject": "DABS",
+                "Object": "capacities",
+                "Description": "DABS shall build capacities of RESCOs on technical and commercial aspects \nof the distribution business including billing, metering and collection activities."
+            },
+            {
+                "Relation": "encompass",
+                "Subject": "role",
+                "Object": "building",
+                "Description": "The role of the RESCO encompasses building, operating and maintaining the \nmicro-utility ecosystem throughout the life of the PPAs signed with various \nconsumers."
+            },
+            {
+                "Relation": "show",
+                "Subject": "diagram",
+                "Object": "diagram",
+                "Description": "With this above background, the following diagram shows a flow diagram of how the RESCO \nis expected to operate."
+            },
+            {
+                "Relation": "be",
+                "Subject": "pumping",
+                "Object": "beneficiary",
+                "Description": "Agricultural pumping has \nalso been a major beneficiary."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "systems",
+                "Object": "supply",
+                "Description": "Using pay-as-you-go or microfinance based financing models, these systems provide\nbasic electricity supply at negligible upfront costs."
+            },
+            {
+                "Relation": "describe",
+                "Subject": "features",
+                "Object": "model",
+                "Description": "Overall, the following salient features broadly describe the stand-alone, home based solar \nPV systems business model:\n\u2022 Stand-alone systems are provided as either one-time outright purchase or a hire-to\u0002purchase or a pay-as-you-go model."
+            },
+            {
+                "Relation": "sequence",
+                "Subject": "Hire",
+                "Object": "rights",
+                "Description": "Hire-to-purchase as well as pay-as-you-go models \nhave sequenced ownership rights."
+            },
+            {
+                "Relation": "comprise",
+                "Subject": "model",
+                "Object": "entity",
+                "Description": "The model may typically comprise a technical entity (who could be the manufacturer \nitself) entrusted with the design of systems, and a implementation partner who \nidentifies and engages with end users."
+            },
+            {
+                "Relation": "characterize",
+                "Subject": "models",
+                "Object": "features",
+                "Description": ";\n\u2022 Stand-alone models are typically characterized by the presence of ICT enabled, \n\u2018smart\u2019 features."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "systems",
+                "Description": "These may include systems that are integrated with central servers \nthrough Radio Frequency tags, prepaid usage, \u201cblack box\u201d designs etc. ;"
+            },
+            {
+                "Relation": "exhibit",
+                "Subject": "models",
+                "Object": "devices",
+                "Description": "The models exhibit optimal and efficient energy use devices such as LED lights, \nenergy efficient fans, multi-function devices (chargeable lantern\u2013cum\u2013torch\u2013cum\u2013FM \nradio; or a hand-cranked or bicycle powered battery to provide supplementary \ncharge)."
+            },
+            {
+                "Relation": "involve",
+                "Subject": "routes",
+                "Object": "channels",
+                "Description": "In order to cater to a large number of customers, the routes to market adoption for \nstand-alone systems often involve innovative channels."
+            },
+            {
+                "Relation": "use",
+                "Subject": "manufacturers",
+                "Object": "NGO",
+                "Description": "While most manufacturers \nuse the NGO \u2013 community based organization (CBO) route, there are other models \nthat have utilized existing distribution channels for petroleum products (Reliance \nSolar), or linking with education programmes (Kotak Urja) in India, or selling energy \ncoupled to other infrastructure services such as water (as done by Grundfos in \nAfrica39)."
+            },
+            {
+                "Relation": "develop",
+                "Subject": "others",
+                "Object": "networks",
+                "Description": "Yet, others have developed their own dealer-distributor networks."
+            },
+            {
+                "Relation": "resolve",
+                "Subject": "partner",
+                "Object": "issues",
+                "Description": "The partner partly resolves cash flow issues for the end user and the technical \npartner or the implementing agency."
+            },
+            {
+                "Relation": "extend",
+                "Subject": "partner",
+                "Object": "micro\u0002credit",
+                "Description": "Typically, the financing partner extends micro\u0002credit to the user."
+            },
+            {
+                "Relation": "replace",
+                "Subject": "systems",
+                "Object": "fuels",
+                "Description": "As these systems replace fossil fuels such as \nkerosene, the financing terms are tuned to ensure that financial savings from avoided \nfuel expenses are utilized to pay monthly lease rentals for the stand-alone systems."
+            },
+            {
+                "Relation": "form",
+                "Subject": "These",
+                "Object": "solution",
+                "Description": "These forms a \nwin-win solution for government who are unable to extend the main grid to remote \nareas."
+            },
+            {
+                "Relation": "set",
+                "Subject": "MEW",
+                "Object": "guidelines",
+                "Description": "These are outlined below:\n\u2022 Ministry of Energy and Water (MEW): MEW can set up guidelines for household scale \nsystems, specifying technical design, safety and power delivered from a given \nsystem."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "MEW",
+                "Object": "activities",
+                "Description": "MEW can also carry out capacity building activities for implementing \nagencies and provide support to technical partners."
+            },
+            {
+                "Relation": "hold",
+                "Subject": "entity",
+                "Object": "key",
+                "Description": ";\n\u2022 Microfinance (MF) or financing entity: The financing entity often holds the key to \nany large-scale programme."
+            },
+            {
+                "Relation": "finance",
+                "Subject": "entity",
+                "Object": "agency",
+                "Description": "In pay-as-you-go systems, the financing entity may finance \nthe implementing agency with a debt-equity combination, which de-risks the \nimplementer from delayed payments."
+            },
+            {
+                "Relation": "own",
+                "Subject": "user",
+                "Object": "asset",
+                "Description": "These charges typically run for 60 \u2013 84 \nmonths, following which the user owns the asset;\n\u2022"
+            },
+            {
+                "Relation": "play",
+                "Subject": "agency",
+                "Object": "role",
+                "Description": "The Implementing Agency: This agency plays a central role in putting together the \nentire programme."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Consumers",
+                "Object": "users",
+                "Description": "Large programmes (at a national level) require an apex \nentity, supported by entities at the provincial level such as NGOs or CSOs;\n\u2022 Consumers: Consumers can be simple end-users, who can undertake outright \npurchase of a system."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "flowchart",
+                "Object": "process",
+                "Description": "The schematic flowchart above outlines the overall process and identifies roles and \nresponsibilities of various stakeholders in a simplified version of the standalone system."
+            },
+            {
+                "Relation": "have",
+                "Subject": "implementation",
+                "Object": "impacts",
+                "Description": "As a result, the \nimplementation of the business models for stand-alone systems could also have far-reaching \nimpacts."
+            },
+            {
+                "Relation": "require",
+                "Subject": "implementation",
+                "Object": "support",
+                "Description": "The implementation of business models requires generic as well as specific support in \nterms of policy readiness, financing, technical-cum-managerial capacities among \nothers."
+            },
+            {
+                "Relation": "present",
+                "Subject": "chapter",
+                "Object": "enablers",
+                "Description": "The next chapter of the Roadmap presents these enablers and their \nrole in stage-wise development and maturity of RE markets."
+            },
+            {
+                "Relation": "allow",
+                "Subject": "box",
+                "Object": "power",
+                "Description": "The black box allows power in the sockets only when the system has been recharged using \na valid code provided to the user."
+            },
+            {
+                "Relation": "make",
+                "Subject": "user",
+                "Object": "payment",
+                "Description": "This code is obtained when the user makes a payment, \ntypically for a one-week or four-week duration."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Azuri",
+                "Object": "strategy",
+                "Description": "The business model works through distribution channels as Azuri does not have any direct \nsales strategy."
+            },
+            {
+                "Relation": "base",
+                "Subject": "cloud",
+                "Object": "details",
+                "Description": "The cloud based Azuri \ndatabase stores details of all distributors \nand consumers, providing each and every \nconsumer with a unique ID (like a serial \nnumber)."
+            },
+            {
+                "Relation": "contribute",
+                "Subject": "Each",
+                "Object": "something",
+                "Description": "Each of the payments contributes \nsomething towards the cost of the \nsystem."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "model",
+                "Object": "understanding",
+                "Description": "The Stage-gate model as explained below, facilitates an understanding of these \nenablers."
+            },
+            {
+                "Relation": "follow",
+                "Subject": "market",
+                "Object": "stages",
+                "Description": "In the current context, the RE market in Afghanistan would follow three (3) stages: market \nseeding to market creation and then to market transformation, with each stage being built \non certain enablers (technical, regulatory/ policy, financial/ economical and institutional \nor related to capacities) that are put in place."
+            },
+            {
+                "Relation": "discuss",
+                "Subject": "chapter",
+                "Object": "model",
+                "Description": "This chapter \ndiscusses the Stage- Gate model as \napplicable to Afghanistan, followed by a \ndiscussion on overarching as well as \ntargeted enablers and actions for each \nstage of the market development."
+            },
+            {
+                "Relation": "present",
+                "Subject": "Figure",
+                "Object": "framework",
+                "Description": "Figure 29 presents the Stage-Gate \nframework of the above-discussed \napproach."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "PV",
+                "Description": "This includes \nsolar PV, mini and micro hydro technologies, and wind power. ;\n\u2022"
+            },
+            {
+                "Relation": "include",
+                "Subject": "technologies",
+                "Object": "waste",
+                "Description": "Other important \ncontributions are from mini-grids (solar as well as hydro) and stand-alone solar PV. ;\n\u2022 New technologies to be piloted include waste to energy, roof-top solar, stand-alone solar \nfor strategic applications such as telecom tower and pumping, solar thermal applications \nand domestic cooking using improved cookstoves and biogas."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "stage",
+                "Object": "demonstration",
+                "Description": "The market creation stage represents demonstration of \u2018techno-commercial viability\u2019\nand confidence building of private sector."
+            },
+            {
+                "Relation": "introduce",
+                "Subject": "SG2",
+                "Object": "technologies",
+                "Description": "In addition to technologies that are initiated in SG1 and are now (expectedly) being \nimplemented at a commercial scale, SG2 introduces new technologies such as CSP, \nFloatovoltaics, CPV, Biomass power generation, and geothermal energy particularly for \nheating applications."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "stage",
+                "Object": "maturity",
+                "Description": "This stage represents market maturity and expansion, led by private initiative."
+            },
+            {
+                "Relation": "exceed",
+                "Subject": "contributions",
+                "Object": "%",
+                "Description": "Promoter contributions exceed 50% with own \nequity, market debt and low-cost debt.;\n"
+            },
+            {
+                "Relation": "discuss",
+                "Subject": "Sections",
+                "Object": "enablers",
+                "Description": "Sections below discuss the key \nenablers and actions required for meeting the targets through each of the three stages."
+            },
+            {
+                "Relation": "contain",
+                "Subject": "stages",
+                "Object": "provisos",
+                "Description": "The \nstages contain certain provisos, which if realized could translate into additional power \ngeneration and eventual contribution to the RENP policy target of 5,000 MW by 2032."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "policies",
+                "Object": "framework",
+                "Description": "While these policies provide a legal and regulatory framework for managing the overall \nenergy and renewable energy domains, there is also a need for other specific enablers which \ninclude the following:\na. Programmatic guidelines (or Schemes) for promoting specific business \nmodels: National level programmatic guidelines for development of Solar (or \nWind) Power Parks and for Distribution Franchisees shall unlock the markets for \nSPPs and pave way for distribution franchisee or mini-utilities in the country."
+            },
+            {
+                "Relation": "include",
+                "Subject": "policy",
+                "Object": "\n",
+                "Description": "The policy should expectedly include the definition \nand description; technical standards and guidelines for designing, operating and \nmaintaining the mini-grids; tariff methodologies; structure and roles for the \nenergy service company (RESCO); regulations and incentives; and involvement of \nlocal enterprises, communities in sustaining the mini-grids."
+            },
+            {
+                "Relation": "open",
+                "Subject": "These",
+                "Object": "market",
+                "Description": "These shall not only open the market for decentralised renewable energy \nprojects, but also allow DABS to identify its own priority areas."
+            },
+            {
+                "Relation": "create",
+                "Subject": "scheme",
+                "Object": "demand",
+                "Description": "A scheme for promoting the use of RE in these sectors would create demand and \nprovide the \u2018pull\u2019 for RETs in the country."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Some",
+                "Object": "discounts",
+                "Description": "Some of the incentives would be discounts in monthly or yearly \nelectricity bills, rebate on home loans, reduced property tax etc.\n"
+            },
+            {
+                "Relation": "develop",
+                "Subject": "g.",
+                "Object": "atlas",
+                "Description": "g. Developing the RE resource atlas: While available RE resource maps that are \ndeveloped by MEW are useful to conduct pre-feasibilities of projects, \nimprovements such as demarcation of RE resources using time series data of key \nvariables such as GHI, DNI (for solar), wind speeds, flow rates for MHP and SHPs \nshall enhance the quality of the maps."
+            },
+            {
+                "Relation": "enhance",
+                "Subject": "improvements",
+                "Object": "quality",
+                "Description": "g. Developing the RE resource atlas: While available RE resource maps that are \ndeveloped by MEW are useful to conduct pre-feasibilities of projects, \nimprovements such as demarcation of RE resources using time series data of key \nvariables such as GHI, DNI (for solar), wind speeds, flow rates for MHP and SHPs \nshall enhance the quality of the maps."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Role",
+                "Object": "regulations",
+                "Description": "Role of the regulatory agency would be to \nintroduce and guide regulations on various subjects such as tariffs, power access \nand transmission, determination of a national \u2018grid code\u2019, issuance of licenses \nfor power generation and distribution operations."
+            },
+            {
+                "Relation": "be",
+                "Subject": "agency",
+                "Object": "enabler",
+                "Description": "Thus, the regulatory agency shall be a key enabler in structuring the \nelectricity sector and complement the efforts of the Ministry of Energy and \nWater."
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "entity",
+                "Description": "Similarly, there could be a dedicated entity \nmanaging the roof-top sector."
+            },
+            {
+                "Relation": "give",
+                "Subject": "utility",
+                "Object": "responsibilities",
+                "Description": "l. Rural electricity utility: The rural electricity utility may be given responsibilities \nfor generation, transmission and distribution exclusively in rural areas."
+            },
+            {
+                "Relation": "be",
+                "Subject": "utility",
+                "Object": "corporation",
+                "Description": "In terms \nof ownership, the utility could be a public corporation or a government owned \ncompany."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "utility",
+                "Object": "focus",
+                "Description": "Given that most of rural Afghanistan is not connected to the national \ngrid, a dedicated rural utility shall provide greater focus on meeting the rural \npower shortage scenario."
+            },
+            {
+                "Relation": "create",
+                "Subject": "This",
+                "Object": "approach",
+                "Description": "This shall \ncreate a basket-fund approach, in which development partners and other \nagencies can pool in resources and enable the entity to offer a string of financial \nsolutions to suit various project types."
+            },
+            {
+                "Relation": "empanel",
+                "Subject": "entity",
+                "Object": "developers",
+                "Description": "The financial entity may empanel \nprospective project developers (private sector players, micro-finance \ncompanies, NGOs) who can avail of financial support through it."
+            },
+            {
+                "Relation": "be",
+                "Subject": "This",
+                "Object": "process",
+                "Description": "This would be a continuous process, as there would be a need to \nkeep abreast with the latest developments in RE sector internationally and also \nto incorporate learnings from local as well as international experiences. \n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "need",
+                "Description": "This would be a continuous process, as there would be a need to \nkeep abreast with the latest developments in RE sector internationally and also \nto incorporate learnings from local as well as international experiences. \n"
+            },
+            {
+                "Relation": "identify",
+                "Subject": "RENP",
+                "Object": "unlocking",
+                "Description": "The RENP has rightly \nidentified the unlocking of private capital as a means to finance investments in the \nrenewable energy sector."
+            },
+            {
+                "Relation": "take",
+                "Subject": "Engagement",
+                "Object": "place",
+                "Description": "Engagement of banking sector & investment finance can take \nplace at the following levels:\nq. Bank (Debt) Finance:"
+            },
+            {
+                "Relation": "leverage",
+                "Subject": "donor",
+                "Object": "capital",
+                "Description": "Currently Afghan banks are more focused \non retail operations, however donor or government guaranteed debt instruments \ncan leverage additional capital."
+            },
+            {
+                "Relation": "support",
+                "Subject": "Microfinance",
+                "Object": "projects",
+                "Description": "r. Microfinance: Primarily for micro scale projects at the user level, microfinance \nsupported renewable energy projects has had significant success in ecosystems\nsimilar to Afghanistan, across Asia and Africa."
+            },
+            {
+                "Relation": "set",
+                "Subject": "agencies",
+                "Object": "incubators",
+                "Description": "Several government agencies, especially MRRD and MAIL (Ministry of \nAgriculture, Irrigation and Livestock), in collaboration with development \npartners, have set up incubators to facilitate rural enterprise development."
+            },
+            {
+                "Relation": "bring",
+                "Subject": "sector",
+                "Object": "approach",
+                "Description": "While the public sector brings socially responsive pro-poor approach to \nproject design, the private sector focuses on financial viability of the project."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "sector",
+                "Object": "projects",
+                "Description": "w. Fiscal and financial incentives for RE sector: while the sector will continue to \nbenefit from already available support and incentives for the private sector led \ninfrastructure projects, the RE sector would require customized fiscal and \nfinancial incentives particularly in terms of customs duty and import tax waivers."
+            },
+            {
+                "Relation": "require",
+                "Subject": "incentives",
+                "Object": "incentives",
+                "Description": "w. Fiscal and financial incentives for RE sector: while the sector will continue to \nbenefit from already available support and incentives for the private sector led \ninfrastructure projects, the RE sector would require customized fiscal and \nfinancial incentives particularly in terms of customs duty and import tax waivers."
+            },
+            {
+                "Relation": "include",
+                "Subject": "risks",
+                "Object": "delays",
+                "Description": "x. Mitigating business risks: Business risks include delays in import and \ntransportation, absence of insurance or high insurance premium, lack or absence \nof skilled labor, risks of theft of plant and machinery (during transit, or during \nimplementation / operation) etc."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "risks",
+                "Description": "These could include revenue risks arising from non\u0002payment of dues from consumers, cost overrun risks from delayed \nimplementation, safety risks from possible accidents etc."
+            },
+            {
+                "Relation": "address",
+                "Subject": "z.",
+                "Object": "risks",
+                "Description": "z. Addressing security risks: Finally, the delicate security situation in the country \nposes a risk as well."
+            },
+            {
+                "Relation": "pose",
+                "Subject": "situation",
+                "Object": "risk",
+                "Description": "z. Addressing security risks: Finally, the delicate security situation in the country \nposes a risk as well."
+            },
+            {
+                "Relation": "include",
+                "Subject": "measures",
+                "Object": "use",
+                "Description": "Direct mitigating measures \ninclude use of security, while more passive options could be to build trust capital \nwith local communities as a means to counter subversive forces."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "Management",
+                "Object": "chances",
+                "Description": "Management of these risks reduces chances of project failure and are crucial for the success \nof the renewable energy sector in general."
+            },
+            {
+                "Relation": "break",
+                "Subject": "section",
+                "Object": "some",
+                "Description": "This section breaks down some of the enablers outlined in the sections above, into enabling \nactivities specific to the context of business models and technologies discussed in this \nRoadmap."
+            },
+            {
+                "Relation": "support",
+                "Subject": "Enablers",
+                "Object": "market",
+                "Description": "#5.3.5 Enablers for microfinance supported stand-alone PV market\n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "there",
+                "Object": "investment",
+                "Description": "To date, there has been very limited investment by private \nsector RE developers or commercial financial institutions, although surveys conducted \nsuggest an interest and willingness provided risks are adequately addressed."
+            },
+            {
+                "Relation": "show",
+                "Subject": "figure",
+                "Object": "trends",
+                "Description": "The following figure shows \nthe trends in utility scale solar PV auctions throughout the world."
+            },
+            {
+                "Relation": "achieve",
+                "Subject": "PV",
+                "Object": "parity",
+                "Description": "In fact, utility scale solar PV is even achieving parity with fossil fuel (coal) based systems in \nsome countries."
+            },
+            {
+                "Relation": "reveal",
+                "Subject": "tenders",
+                "Object": "prices",
+                "Description": "New tenders (particularly in the Middle East) also reveal such low prices."
+            },
+            {
+                "Relation": "cost",
+                "Subject": "Government",
+                "Object": "Taxes",
+                "Description": ";\nGovernment costs:\nTaxes and permitting fees;\n"
+            },
+            {
+                "Relation": "reflect",
+                "Subject": "costs",
+                "Object": "lack",
+                "Description": "The higher labour costs reflect the lack of skilled technical \nlabour available for large-scale installations, which can be partially addressed by training \nprograms."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "developments",
+                "Object": "progress",
+                "Description": "Following scenario/developments will lead to rapid cost reductions in future:\n\u2022 Rapid progress towards integration into international RE market enabling country to \nbenefit from regional economies of scale;\n\u2022 Rapid improvement in logistics costs due to improved infrastructure particularly \ntowards sites for large utility-scale projects;\n\u2022 Positive regulatory environment, established track record and significantly reduced \nAfghanistan risk premium;\n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "costs",
+                "Object": "basis",
+                "Description": "The global costs mentioned in previous section have provided a basis for estimating the costs \nper MW of generation capacity for the various proposed technologies in Afghanistan."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "I",
+                "Object": "phase",
+                "Description": "Stage- Gate I represent the phase when technology deployment is at a nascent stage and \nprojects are generally intended to confirm the sufficient availability of natural resource \n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "table",
+                "Object": "indication",
+                "Description": "The table below provides an indication of what costs might be based upon international\nbenchmarks provided above to give an indication of the scale of investments required to \nreach the roadmap targets in Stage- Gate I. However, as it should be noted again that these \ncosts represent broad global averages rather than Afghanistan specific costs."
+            },
+            {
+                "Relation": "represent",
+                "Subject": "costs",
+                "Object": "range",
+                "Description": "Further, these \ncosts represent a wide range of sites, financing, and market conditions, and often consist \nof only \u2018core\u2019 costs (not including distribution, O&M, capacity building, etc.)."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "sections",
+                "Object": "framework",
+                "Description": "The sections above on costing outlined a framework to estimate the range of costs for \ndeploying RE technology/market combinations as per the Roadmap targets."
+            },
+            {
+                "Relation": "outline",
+                "Subject": "section",
+                "Object": "framework",
+                "Description": "This section\noutlines a framework to judge and put in place financing instruments appropriate to the \nmarket type (e.g. utility scale, mini-grid) and stage of expansion, but is not technology\u0002specific."
+            },
+            {
+                "Relation": "discuss",
+                "Subject": "chapter",
+                "Object": "modalities",
+                "Description": "This chapter does not discuss financing modalities for the broader \ninfrastructure for the energy sector that must be built (such as transmission infrastructure), \nnor does it discuss financing of improved logistics, security, etc. \n"
+            },
+            {
+                "Relation": "face",
+                "Subject": "activities",
+                "Object": "risks",
+                "Description": "These activities, particularly when \nattempted by the private sector, face risks and barriers."
+            },
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "subsidies",
+                "Description": "These can include generation-based capital subsidies (where grants are provided to \nproject developers for commissioning plants), ongoing Power Purchase Agreement (PPA) or \nFeed-in-Tariff subsidies (where monies are provided based upon ongoing generation) or \nconcessional finance (where monies are used to provide a cheaper source of capital such as \nequity or debt to RE developers)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "Instruments",
+                "Object": "contracts",
+                "Description": "Instruments under this mechanism include design-build or design-build-operate contracts \nfinanced by international development agencies, grants for infrastructure such as under the \nNSP (and by the newly-launched Citizens\u2019 Charter Programs) and funding by NGOs."
+            },
+            {
+                "Relation": "include",
+                "Subject": "mechanisms",
+                "Object": "guarantees",
+                "Description": "These mechanisms and events include resource \nrisk guarantees (paid out when exploratory or resource assessment investigations by the \nprivate sector fail to uncover sufficient natural resource potential such as geothermal basin \nheat capability); political / sovereign risks (e.g. political insurrection) and to serve as re\u0002insurance for commercial insurers."
+            },
+            {
+                "Relation": "access",
+                "Subject": "projects",
+                "Object": "funding",
+                "Description": "Pilot projects and programs have previously accessed climate funding, \nand larger integrated programs have applied for funding from the Green Climate Fund (GCF)."
+            },
+            {
+                "Relation": "demonstrate",
+                "Subject": "availability",
+                "Object": "viability",
+                "Description": "This is when technology deployment is at a nascent stage and projects are generally \nintended to confirm the sufficient availability of natural resource (e.g wind availability at \nthe site) or to demonstrate technical viability and refine standard designs through pilot \nprojects."
+            },
+            {
+                "Relation": "have",
+                "Subject": "money",
+                "Object": "role",
+                "Description": "Public grant money also has a role to play in \nhelping ensure that any results or lessons learned from resource assessments are shared as \n"
+            },
+            {
+                "Relation": "compensate",
+                "Subject": "guarantee",
+                "Object": "developer",
+                "Description": "A resource risk guarantee is structured such that if the \ninitial resource investigation proves to be unviable, the resource risk guarantee \ncompensates the developer for all or part of the cost of the resource investigation."
+            },
+            {
+                "Relation": "have",
+                "Subject": "government",
+                "Object": "opportunity",
+                "Description": "The government has the \nopportunity to incentivize developers through mechanisms that forego revenue but increase \nthe market; tax holidays for profits and import duty exemptions for equipment."
+            },
+            {
+                "Relation": "decide",
+                "Subject": "subsidy",
+                "Object": "front",
+                "Description": "In the \nrecent 10 MW Kandahar solar project, an element of this model has already proved \nsuccessful; the PPA tariff that DABS would pay to the developer was decided based upon a \nreverse auction, while the capital subsidy was decided up-front."
+            },
+            {
+                "Relation": "be",
+                "Subject": "stage",
+                "Object": "use",
+                "Description": "The next stage could be \nthe use of a reverse auction mechanism for both the capital subsidy and the PPA tariff.\n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "organizations",
+                "Object": "instruments",
+                "Description": "Development organizations \nsuch as the World Bank, ADB, and OPIC provide these instruments, with variations for \nrequired eligibility (OPIC\u2019s mechanisms are in place to aid US businesses)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "instruments",
+                "Object": "guarantee",
+                "Description": "These \ninstruments provide a guarantee for specified recompense in the event of a defined political \nevent or in the event that the government utility cannot make good on its commitments."
+            },
+            {
+                "Relation": "prove",
+                "Subject": "market",
+                "Object": "combinations",
+                "Description": "At this stage, the market has been proven and viable combinations of technical designs and \nbusiness models are in place."
+            },
+            {
+                "Relation": "face",
+                "Subject": "developers",
+                "Object": "risk",
+                "Description": "During the market seeding stage, \nprivate sector developers face the risk of unknown natural resource potential at the site \n(which in turn can affect generation and revenue) as well as technical risks including the \nability to connect and inject power into the grid."
+            },
+            {
+                "Relation": "include",
+                "Subject": "utility",
+                "Object": "payment",
+                "Description": "(the utility), the risks a private sector investor faces include default or non-payment on the \npart of the utility/government."
+            },
+            {
+                "Relation": "take",
+                "Subject": "finance",
+                "Object": "form",
+                "Description": "In some cases, this \nfinance can take the form of an equity stake rather than debt."
+            },
+            {
+                "Relation": "make",
+                "Subject": "scale",
+                "Object": "cost",
+                "Description": "Systems are smaller and unless methods \nof aggregating assets into a portfolio are implemented and partnerships with local banks \nformed, the small scale of financing requirements often makes the cost of due diligence and \noversight problematic for multilateral development agencies and larger commercial banks."
+            },
+            {
+                "Relation": "present",
+                "Subject": "nature",
+                "Object": "challenges",
+                "Description": "The distributed / rural nature of many operations also presents challenges in terms of \ndirecting financing appropriately towards system sustainability."
+            },
+            {
+                "Relation": "carry",
+                "Subject": "operator",
+                "Object": "functions",
+                "Description": "For this reason, it is also prudent to ensure that backstop operation and \nfinance capability exists (supported by public monies) so that if a mini-grid operator cannot \ncarry out their functions, alternatives can be put in place to prevent the loss of the asset \nand faith of the user base."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Many",
+                "Object": "applicability",
+                "Description": "Many of the uses of grant funding in \nthe mini-grid market have applicability here; technology transfer, community engagement \nand demand assessment; feasibility studies; certification and measurements of benefits, \nand capacity building both for the suppliers and consumers of systems."
+            },
+            {
+                "Relation": "prove",
+                "Subject": "integration",
+                "Object": "useful",
+                "Description": "During the market creation stage, integration between government / international \ndevelopment partners, commercial banks and technology providers has proved useful in \nother regions."
+            },
+            {
+                "Relation": "require",
+                "Subject": "This",
+                "Object": "funds",
+                "Description": "This requires public funds to fund an organization to certify equipment and \nvendors; extend concessional finance for microfinance / banking institutions that in turn \nperform due diligence and extend credit (compliant with Islamic Finance) towards the \npurchase of certified equipment to users, and, where required, subsidize systems such that \nthey are affordable."
+            },
+            {
+                "Relation": "perform",
+                "Subject": "that",
+                "Object": "diligence",
+                "Description": "This requires public funds to fund an organization to certify equipment and \nvendors; extend concessional finance for microfinance / banking institutions that in turn \nperform due diligence and extend credit (compliant with Islamic Finance) towards the \npurchase of certified equipment to users, and, where required, subsidize systems such that \nthey are affordable."
+            },
+            {
+                "Relation": "require",
+                "Subject": "this",
+                "Object": "building",
+                "Description": "As in the case of \nmini-grids, this requires capacity building and concessional funding to commercial banks so \n"
+            },
+            {
+                "Relation": "have",
+                "Subject": "funding",
+                "Object": "part",
+                "Description": "Public and grant funding also has a part to play in building awareness of the benefits and on \nproper use of the systems, and funding subsidies to ensure used equipment such as batteries \nare disposed of in an environmentally friendly manner."
+            },
+            {
+                "Relation": "discuss",
+                "Subject": "focus",
+                "Object": "strategy",
+                "Description": "The focus of the above discussed financing strategy is to incentivize private sector \nparticipation and investment."
+            },
+            {
+                "Relation": "be",
+                "Subject": "rationale",
+                "Object": "focus",
+                "Description": "The strategic rationale, methodology, project prioritization, technical considerations and \nfinancial strategies for achieving a step change in renewable energy deployment have been \nthe focus of this work."
+            },
+            {
+                "Relation": "set",
+                "Subject": "RER2032",
+                "Object": "milestones",
+                "Description": "The RER2032 has set milestones, outlined tasks and prioritised \nactions."
+            },
+            {
+                "Relation": "base",
+                "Subject": "implementation",
+                "Object": "Optimisation",
+                "Description": "The implementation of the Roadmap is based on four guiding principles: \na) Empowered and dedicated institution(s) - to oversee the implementation of \nthe Roadmap in a time bound and coordinated manner\nb) Participatory and collaborative approach- among various ministries, \ndepartments, donors, public institutions, private sector and communities to \nwork towards the common goals of achieving energy security and energy access \nby deploying renewable energy resources in Afghanistan\nc) Optimisation of existing and raising new financial resources- through a mix \nof donor funds, national funds and private finances with a focus on private\u0002sector led growth, and corresponding use of public monies to incentivize private \nsector participation."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "\u2022",
+                "Object": "debt",
+                "Description": "Promote rural electrification projects, specifically \nmini-grids through site selection, land acquisition, \naccess to finance, and regulatory approvals;\n\u2022 set up along the lines of DABS, but would set up \ngeneration and distribution of electricity in rural areas \nonly;\n\u2022 shall support local enterprises as RESCO as distribution \nfranchisees of DABS ;\n\u2022 serve to minimize risk to private sector\u2019s engagement \nin rural electrification;\n\u2022 shall work in close collaboration with ministries and \ndepartments serving rural population and requiring \nenergy services;\nFinancing institution for clean energy sector\n\u2022 a dedicated and empowered institution to finance \nrenewable energy and energy efficiency projects;\n\u2022 facilitating a basket-fund approach;\n\u2022 ensuring ring-fencing of funds for clean energy sector;\n\u2022 shall provide debt and equity to project promoters and \ndevelopers;\n\u2022 can also extend financial support by way of conditional \ngrants and last-stage equity that can provide viability\u0002gap financing;\n\u2022 be able to raise funds through internal as well as \nexternal markets;\n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "area",
+                "Object": "development",
+                "Description": "The second focus \narea shall therefore be the development of strategically important and trendsetting \nprojects in addition to priority sectors outlined in Roadmap."
+            },
+            {
+                "Relation": "set",
+                "Subject": "SPPs",
+                "Object": "grids",
+                "Description": "SPPs may be set up by DABS as the SPPD, and \neventually owned by private sector partners ;\n2 Mini-grids with RESCO model\n"
+            },
+            {
+                "Relation": "improve",
+                "Subject": "project",
+                "Object": "viability",
+                "Description": "Although not directly identified in Roadmap, this pilot scale \nproject to integrate RE with energy efficiency measures in \nthe commercial and industrial sector shall improve the \nviability and acceptance of RETs;\n9 Daikundi Mini-grid\nMini-grids being strategically important for Afghanistan, this \nproject will help in standardizing mini-grid designs and \nbusiness models;\n"
+            },
+            {
+                "Relation": "support",
+                "Subject": "initiative",
+                "Object": "development",
+                "Description": "A national level initiative to raise the \nawareness levels of multi-stakeholders at multiple-levels will support the development \nof the RE sector, while short-term and long-term skill enhancement initiatives will \nmake it impactful."
+            },
+            {
+                "Relation": "facilitate",
+                "Subject": "Roadmap",
+                "Object": "transformation",
+                "Description": "The Roadmap facilitates the transformation of RE sector in Afghanistan from a \u2018current \nproject\u2019 centric thinking and approach to a programmatic or an ecosystem approach that \nencompasses technologies, markets, institutions, finances and other enablers."
+            },
+            {
+                "Relation": "have",
+                "Subject": "Roadmap",
+                "Object": "Impacts",
+                "Description": "Moreover, the Roadmap has Broader Impacts that go beyond the said objectives."
+            },
+            {
+                "Relation": "add",
+                "Subject": "projects",
+                "Object": "million",
+                "Description": "Accounting for large scale hydropower \nprojects adds a further 1.3 million to the 8.1 million."
+            },
+            {
+                "Relation": "create",
+                "Subject": "sector",
+                "Object": "jobs",
+                "Description": "According to Wei et al., upstream RE sector creates 10 jobs per MW related to \nconstruction, operation and maintenance of projects; with solar creating nearly 15 \njobs/MW, and wind/hydro producing 6 job/MW capacity."
+            },
+            {
+                "Relation": "create",
+                "Subject": "projects",
+                "Object": "opportunities",
+                "Description": "Further, RE projects will also create livelihood opportunities in the downstream sector."
+            },
+            {
+                "Relation": "reside",
+                "Subject": "bulk",
+                "Object": "\n",
+                "Description": "The bulk of the population resides \nin rural areas."
+            },
+            {
+                "Relation": "improve",
+                "Subject": "deployment",
+                "Object": "economy",
+                "Description": "The deployment of RE mini-grids and other stand-alone projects in rural areas \nwith unmet demands for electricity and thermal energy can significantly improve the rural \neconomy, contributing to sustainable livelihoods through affordable agriculture, farm based \nand off-farm enterprises."
+            },
+            {
+                "Relation": "imply",
+                "Subject": "These",
+                "Object": "employment",
+                "Description": "These would in turn imply more employment, induced by the \nsetting up of the electricity infrastructure."
+            },
+            {
+                "Relation": "impact",
+                "Subject": "mini",
+                "Object": "households",
+                "Description": "For instance, a rural mini-grid of 1 MW could \npositively impact around 1,000 households and create or sustain 50 \u2013 60 livelihoods, \nincluding direct jobs generated (such as new opportunities as maintenance engineers for \nthe electricity setup)."
+            },
+            {
+                "Relation": "include",
+                "Subject": "This",
+                "Object": "benefits",
+                "Description": "This does not include indirect benefits accrued from better access, \nsuch as better healthcare and education facilities, which shall attract new jobs as well.\n"
+            },
+            {
+                "Relation": "provide",
+                "Subject": "projects",
+                "Object": "boost",
+                "Description": "Apart from benefits related to livelihood creation and employment, RE projects provide a \nboost to local economy by setting up new infrastructure and strengthening the existing ones."
+            },
+            {
+                "Relation": "project",
+                "Subject": "parks",
+                "Object": "\n",
+                "Description": "Specifically, solar and wind power parks and other utility scale projects necessitate building \nof roads and facilitate setting up of water supply and other facilities."
+            },
+            {
+                "Relation": "have",
+                "Subject": "infrastructure",
+                "Object": "effect",
+                "Description": "Improved energy infrastructure would also have a positive effect on larger industries in \nterms of their competitiveness and their exports."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "Chambers",
+                "Object": "shortage",
+                "Description": "Afghanistan Chambers of Commerce in \ntheir Business Monitor indicated energy shortage as the major bottleneck (88%) in the \ndevelopment of industries."
+            },
+            {
+                "Relation": "help",
+                "Subject": "parks",
+                "Object": "them",
+                "Description": "Industrial parks such as the ones in Hisar-e-Shahi would also \nbenefit greatly from reliable electricity supply, as having such a source would help them \nlower their overhead costs and hence create goods at a lower price."
+            },
+            {
+                "Relation": "be",
+                "Subject": "sector",
+                "Object": "agriculture",
+                "Description": "Agriculture: Though the most important employment sector is agriculture and \nlivestock where 39% Afghan population is employed, the productivity in the agriculture \nsector is low, with agriculture contributing just over 25% of GDP."
+            },
+            {
+                "Relation": "impact",
+                "Subject": "access",
+                "Object": "structure",
+                "Description": "Improved electricity \naccess would impact the farming structure, cropping patterns and behaviour, due to \nbetter irrigation."
+            },
+            {
+                "Relation": "require",
+                "Subject": "Setting",
+                "Object": "manufacturing",
+                "Description": "Setting up RE projects would require local manufacturing of auxiliary as well as main \ncomponents and equipment in Afghanistan."
+            },
+            {
+                "Relation": "benefit",
+                "Subject": "chain",
+                "Object": "sectors",
+                "Description": "RE supply chain, once \ncreated, will benefit other sectors as well."
+            },
+            {
+                "Relation": "trigger",
+                "Subject": "mechanism",
+                "Object": "practice",
+                "Description": "The mechanism of \u2018basket fund\u2019 would trigger this practice \nwhich will have far-reaching impacts in terms of optimum utilisation and effective \ndeployment of resources, for efficient gains to the overall economy of Afghanistan."
+            },
+            {
+                "Relation": "have",
+                "Subject": "which",
+                "Object": "impacts",
+                "Description": "The mechanism of \u2018basket fund\u2019 would trigger this practice \nwhich will have far-reaching impacts in terms of optimum utilisation and effective \ndeployment of resources, for efficient gains to the overall economy of Afghanistan."
+            },
+            {
+                "Relation": "rank",
+                "Subject": "Index",
+                "Object": "it",
+                "Description": "The Global Adaptation Index 2012, ranks it as the most vulnerable \nin country in the world, taking into account the country\u2019s exposure, sensitivity and ability \nto cope with climate related hazards, worsened by the socio-political conflicts and security."
+            },
+            {
+                "Relation": "strengthen",
+                "Subject": "access",
+                "Object": "strategies",
+                "Description": "The access to reliable and cost-effective energy will strengthen community-level coping\nstrategies and improve income, thereby increasing their resilience to climate change \nimpacts i.e. adaptation related benefits."
+            },
+            {
+                "Relation": "reduce",
+                "Subject": "deployment",
+                "Object": "dependence",
+                "Description": "Besides, the deployment of RE as per the Roadmap, \nwill reduce the dependence of communities on conventional fuels such as kerosene, diesel \nand biomass, contributing to mitigation elated benefits as well."
+            },
+            {
+                "Relation": "increase",
+                "Subject": "turn",
+                "Object": "emissions",
+                "Description": "This will in-turn increase its greenhouse gas (GHG) emissions."
+            },
+            {
+                "Relation": "get",
+                "Subject": "Afghanistan",
+                "Object": "%",
+                "Description": "\n#8.7 Cross-border trade and energy security\nAfghanistan gets more than 60% of its power requirements via imports."
+            },
+            {
+                "Relation": "reach",
+                "Subject": "capacity",
+                "Object": "MW",
+                "Description": "As per\nthe Roadmap, Afghanistan\u2019s power generation capacity from domestic RE resources would \nreach 850 MW by the end of Stage 1, which would potentially replace around 40% of imports\nat the current levels, avoiding drain of foreign exchange that is required to finance energy \nimports."
+            },
+            {
+                "Relation": "be",
+                "Subject": "prices",
+                "Object": "opportunity",
+                "Description": "The decreasing prices of renewables and their increased generation could be an opportunity \nfor Afghanistan to be a net energy supplier in the long term."
+            },
+            {
+                "Relation": "be",
+                "Subject": "Afghanistan",
+                "Object": "supplier",
+                "Description": "The decreasing prices of renewables and their increased generation could be an opportunity \nfor Afghanistan to be a net energy supplier in the long term."
+            },
+            {
+                "Relation": "introduce",
+                "Subject": "Roadmap",
+                "Object": "tools",
+                "Description": "Roadmap has introduced knowledge tools for developing projects, customising business \nmodels, benchmarking for RE costs, stage-gate framework for sector development etc."
+            },
+            {
+                "Relation": "use",
+                "Subject": "countries",
+                "Object": "platforms",
+                "Description": "These knowledge tools, geared towards planning for RE sector will be useful for other \ncountries in the region and Afghanistan can use regional platforms such as ECO and SAARC \nto share this knowledge."
+            },
+            {
+                "Relation": "make",
+                "Subject": "Some",
+                "Object": "available",
+                "Description": "Some of these funds are already made available to Afghanistan. \n"
+            },
+            {
+                "Relation": "showcase",
+                "Subject": "presence",
+                "Object": "commitment",
+                "Description": "The introduction/ presence of an enabling ecosystem will further showcase the commitment \nat all levels to promote this sector."
+            },
+            {
+                "Relation": "support",
+                "Subject": "memberships",
+                "Object": "development",
+                "Description": "These memberships will further support the \ndevelopment of RE sector through tangible well as non-tangible instruments such as \ndemonstration projects, feasibilities studies, mapping of resources, monitoring and \nevaluation studies, knowledge exchange etc. \n"
+            },
+            {
+                "Relation": "adopt",
+                "Subject": "Advancement",
+                "Object": "agenda",
+                "Description": "#8.11 Advancement of SE4All and SDGs agenda\nAfghanistan, despite its internal challenges related to poverty, security etc., will adopt the \nglobal agenda towards sustainable energy for all and sustainable development goals through \nthe implementation of the Roadmap."
+            },
+            {
+                "Relation": "catalyse",
+                "Subject": "This",
+                "Object": "thinking",
+                "Description": "This will catalyse a progressive thinking and approach \nto development, impacting not only the internal well-being but also propagating an \nenterprising image of Afghans."
+            }
+        ]
+    }
+}
