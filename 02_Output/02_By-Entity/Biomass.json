@@ -1,32 +1,1550 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "Biomass",
-        "relations": [
-            {
-                "Relation": "play",
-                "Subject": "Biomass",
-                "Object": "role",
-                "Description": "Biomass,\nprobably the most important energy resource, will play an even more valuable role by making a transformation\nto a convenient fuel for household use and a dependable resource for industrial thermal energy supply."
-            },
-            {
-                "Relation": "remain",
-                "Subject": "Biomass",
-                "Object": "sub",
-                "Description": "Biomass still remains a sub-sector not formally organised unlike the electricity and petroleum sub-sectors."
-            },
-            {
-                "Relation": "hybridize",
-                "Subject": "Configuration",
-                "Object": "Area",
-                "Description": "Configuration of Concentrating Solar M90 Dishes at \nNTPC- Dadri, India:\nPeak Capacity at STC 80,000 kcal/hr.;\nApplication Cooking (Baking, Boiling and Frying);\nSystem Configuration Hot Thermic Oil at 220\u00b0C;\nIntegration Hybridized with LPG Thermic Oil Heater;\nPeak Capacity at STC 80,000 kcal/hr.;\nTotal Concentrator Area 2 Nos. of M90 Dishes totaling 180 m2;\n#Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system for Rural Applications\n"
-            },
-            {
-                "Relation": "introduce",
-                "Subject": "SG2",
-                "Object": "technologies",
-                "Description": "In addition to technologies that are initiated in SG1 and are now (expectedly) being \nimplemented at a commercial scale, SG2 introduces new technologies such as CSP, \nFloatovoltaics, CPV, Biomass power generation, and geothermal energy particularly for \nheating applications."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "Biomass": [
+                {
+                    "Relation": "ve",
+                    "Object": "ess",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "biomass",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "sea",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "ess",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "sea",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "biomass",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "ess",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "biomass",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "sea",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "un",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "sea",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "biomass",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "biomass",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "households",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "niger",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "niger",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "biomass",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "tpes",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "niger",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "niger",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "biomass",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "niger",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "biomass",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "niger",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "mme",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "biomass",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "biomass",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "rural",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "asia",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "re",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "biomass",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "re",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "biomass",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "re",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "biomass",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "re",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "biomass",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "cdm",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "re",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "re",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "biomass",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew ministry of energy and water",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd ministry",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "rural rehabilitation and development",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mw megawatt",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa national environmental protection agency",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nsp national solidarity program",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "rural energy coordination committee",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "reed rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red renewable energy department",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rrep",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "o&m",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "red",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "biomass",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "ess",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "biomass",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "sea",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "ess",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "sea",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "biomass",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "ess",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "biomass",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "sea",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "un",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "sea",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "biomass",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "biomass",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "households",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "niger",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "niger",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "biomass",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "tpes",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "niger",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "niger",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "biomass",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "niger",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "biomass",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "niger",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "mme",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "biomass",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "biomass",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "rural",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "asia",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "re",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "biomass",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "re",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "biomass",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "re",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "biomass",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "re",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "biomass",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "cdm",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "re",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "re",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "biomass",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew ministry of energy and water",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd ministry",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "rural rehabilitation and development",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mw megawatt",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa national environmental protection agency",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nsp national solidarity program",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "rural energy coordination committee",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "reed rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red renewable energy department",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rrep",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "o&m",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "red",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "biomass",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "ess",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "biomass",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "sea",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "ess",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "sea",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "biomass",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "ess",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "biomass",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "sea",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "un",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "sea",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "biomass",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "biomass",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "households",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "niger",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "niger",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "biomass",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "tpes",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "niger",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "niger",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "biomass",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "niger",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "biomass",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "niger",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "mme",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "biomass",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "biomass",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "rural",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "asia",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "re",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "biomass",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "re",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "biomass",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "re",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "biomass",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "re",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "biomass",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "cdm",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "re",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "re",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "biomass",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew ministry of energy and water",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd ministry",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "rural rehabilitation and development",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mw megawatt",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa national environmental protection agency",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nsp national solidarity program",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "rural energy coordination committee",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "reed rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red renewable energy department",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rrep",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "o&m",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "red",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "biomass",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "ess",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "biomass",
+                    "Description": "These roots can be identified as the impressive use of biomass resources, year-round sunshine and\nhigher rainfall, combined with frugal lifestyle of her people and the small geographical expanse of the country."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "sea",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "ess",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "2d Commercial supply of biomass and biomass-based fuel products will be doubled\nto reach one million tonne per year for using industrial thermal applications and\nhouseholds through the establishment of 20,000 hectares of biomass plantations\nwithin the period 2020-2023as an initiative of SEA.Government land, soft\nfinancing and other fiscal incentives will be offered to businesses that provide\nfuel wood including dedicated energy plantations and other commercial plantations."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "sea",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "biomass",
+                    "Description": "SEA shall ensure a minimum 5% penetration of improved\nstoves using commercialised biomass fuels by 2021."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "ess",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "commercialized",
+                    "Object": "biomass",
+                    "Description": "Processed, commercialized biomass\u0002based fuels used in such stoves will be made widely available across the retail\nmarket by creating an enabling environment."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "sea",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "leased",
+                    "Object": "biomass",
+                    "Description": "5c At least 10,000 hectare of unproductive land will be prescribed as biomass energy\ndevelopment areas, and leased to developers by the SEA starting from 2020 over\na period of 5 years to develop as commercial timber cum fuel wood plantations."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "un",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "sea",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "supported",
+                    "Object": "biomass",
+                    "Description": "5d Biomass supply chains in five regions will be supported through improved\ncollection of biomass residue, mixed cropping and certification of sustainable\nextraction for a three-year duration until they reach commercialisation through a\npilot project by 2020 by the SEA."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "biomass",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "households",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "niger",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "niger",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "increasing",
+                    "Object": "biomass",
+                    "Description": "For Niger, \nincreasing electricity access and making \na transition from inefficient biomass use \nis not only about having the resources \navailable."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "tpes",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "niger",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "However, electricity \naccess in Niger remains low at about 24% \nand almost all the population relies on the \nunsustainable use of traditional biomass \n"
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "niger",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "lacks",
+                    "Object": "biomass",
+                    "Description": "Niger lacks adequate information on forest \ncover and biomass potential."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "niger",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "biomass",
+                    "Description": "The production of biogas by \nanaerobic fermentation of agricultural and \nanimal biomass (anaerobic digestion) has \nalso been used in Niger, but no numbers \nhave been recorded."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "niger",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "mme",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "showing",
+                    "Object": "biomass",
+                    "Description": "At the same time, a new \ngeneration of advanced and more effective \nbiomass cookstoves is showing signs of \ncommercial viability."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "biomass",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "rural",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "asia",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "re",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "e",
+                    "Object": "biomass",
+                    "Description": "\n\n\n#1 INTRODUCTION\n1.1 Energy Supply\nEnergy supply in Sri Lanka is mainly based on three primary resources, namely, biomass, petroleum and\nhydroelectricity."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "re",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "maining",
+                    "Object": "biomass",
+                    "Description": "This is mainly due to limitations in further hydropower\ndevelopment owing to lower economic viability of exploiting the remaining large hydropower sites and limited use of biomass\nwith gradually increasing standard of living of the population."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "re",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "wind",
+                    "Object": "biomass",
+                    "Description": "Biomass and wind are also emerging as significant forms of commercial energy."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "re",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "biomass",
+                    "Description": "* Biomass-based energy projects will be developed in areas where land resources are available, enabling new\nindustrial activities in such areas, empahasising on creating rural income generation avenues."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Initiatives of other sectors and institutions to convert biomass and other waste to energy will be encouraged\nand supported where appropriate."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "cdm",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "re",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "fueld",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "biomass",
+                    "Description": "Every effort will be made to replace\npetroleum-based fuesl with indegenous biomass fueld in industrial thermal applications by encouraging such\nfuel switching initiatives through appropriate incentive, including facilitation of access to green funding\nsuch as CDM."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "re",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "biomass",
+                    "Description": "Based Electricity in the Grid\n* NRE Resources include small-scale hydropower, biomass including dendro power, biogas and waste, solar\npower and wind power."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "re",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "encouraged",
+                    "Object": "biomass",
+                    "Description": "* Commercial development of biomass will be encouraged and facilitated as a new rural industry, allowing\nrural poor to engage in fuelwool farming and participate in the mainstream economic activity by supplying\nelectricity to urban load centres."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "biomass",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew ministry of energy and water",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd ministry",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "rural rehabilitation and development",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mw megawatt",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa national environmental protection agency",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nsp national solidarity program",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "reed",
+                    "Object": "rural energy coordination committee",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "reed rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red renewable energy department",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rrep",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "o&m",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mrrd",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "mew",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "rural energy and enterprise directorate",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "recc",
+                    "Object": "nepa",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "red",
+                    "Description": "KWh Kilowatt-hour ;\nMEW Ministry of Energy and Water ;\nMRRD Ministry of Rural Rehabilitation and Development ;\nMW Megawatt ;\nNEPA National Environmental Protection Agency ;\nNGO(s) Non-governmental organization(s) ;\nNREL National Renewable Energy Laboratory ;\nNSP National Solidarity Program ;\nO&M Operations and Maintenance ;\nRECC Rural Energy Coordination Committee ;\nREED Rural Energy and Enterprise Directorate ;\nRED Renewable Energy Department ;\nRREP Rural Renewable Energy Policy\n#Definitions \nBiogas: a combustible gas created by anaerobic decomposition of organic material primarily \nthrough cattle excreta, composed primarily of methane, carbon dioxide, and hydrogen \nsulphide. ;\nBiomass: energy obtained from renewable organic matter such as agricultural crops and \nresidue, wood and wood waste, animal waste, aquatic plants and organic components of \nmunicipal and industrial wastes. ;\nIndependent power producers: producers of electricity who sell their power to electricity \ndistributors for supplying to the national grid. ;\nRenewable energy: energy obtained from renewable natural sources, such as the energy from \nthe sun, wind, biomass, water and geothermal resources."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "red",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "biomass",
+                    "Description": "Consumption of biomass will be reduced and efficiency of fuelwood stoves enhanced by \nexpanding the use and local production of fuel-efficient stoves."
+                }
+            ]
+        }
     }
 }

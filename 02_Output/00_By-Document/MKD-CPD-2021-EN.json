@@ -39,23 +39,11 @@
                 "category": "Organization"
             },
             {
-                "entity": "the Sustainable Development Goals",
-                "category": "Organization"
-            },
-            {
                 "entity": "the Skopje Lab",
                 "category": "Organization"
             },
             {
-                "entity": "#Poverty",
-                "category": "Organization"
-            },
-            {
                 "entity": "Sustainable Development Goals",
-                "category": "Organization"
-            },
-            {
-                "entity": "UNFPA",
                 "category": "Organization"
             },
             {
@@ -64,18 +52,6 @@
             },
             {
                 "entity": "Mechanisms",
-                "category": "Organization"
-            },
-            {
-                "entity": "United Nations Office",
-                "category": "Organization"
-            },
-            {
-                "entity": "Prespa Lake",
-                "category": "Location"
-            },
-            {
-                "entity": "United Nations Children\u2019s Fund",
                 "category": "Organization"
             },
             {
@@ -91,10 +67,6 @@
                 "category": "Organization"
             },
             {
-                "entity": "the Ministry of Foreign Affairs",
-                "category": "Organization"
-            },
-            {
                 "entity": "The Harmonized Approach",
                 "category": "Organization"
             },
@@ -107,385 +79,960 @@
                 "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "undergo",
-                "Subject": "country",
-                "Object": "reform",
-                "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
-            },
-            {
-                "Relation": "develop",
-                "Subject": "independence",
-                "Object": "economy",
-                "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
-            },
-            {
-                "Relation": "create",
-                "Subject": "migration",
-                "Object": "challenges",
-                "Description": "Out-migration and mismatch between education and market \nneeds create labour-force challenges."
-            },
-            {
-                "Relation": "emphasize",
-                "Subject": "policies",
-                "Object": "growth",
-                "Description": "Sectoral policies and plans emphasize dynamic and \ninclusive economic growth, high-quality health care, education and social protection, \nimproved governance, environmental protection and disaster risk reduction."
-            },
-            {
-                "Relation": "address",
-                "Subject": "results",
-                "Object": "weaknesses",
-                "Description": "Expected results address system weaknesses existing prior to the pandemic and \npromote accelerators to recover better, including investments in innovation, digitization, and \npublic-sector and community resilience to prepare for future shocks."
-            },
-            {
-                "Relation": "engage",
-                "Subject": "UNDP",
-                "Object": "programmes",
-                "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
-            },
-            {
-                "Relation": "think",
-                "Subject": "comprises",
-                "Object": "leadership",
-                "Description": "The UNDP integrator role in North Macedonia comprises thought leadership, a platform \napproach, and programmatic focus on innovation and resilience."
-            },
-            {
-                "Relation": "apply",
-                "Subject": "UNDP",
-                "Object": "data",
-                "Description": "UNDP will apply modern data and analytics to join social, economic \nand environmental analysis to integrated approaches and developing scenarios that address \ncomplex development problems, such as COVID-19 recovery, air pollution, corruption, and \nout-migration."
-            },
-            {
-                "Relation": "convene",
-                "Subject": "UNDP",
-                "Object": "stakeholders",
-                "Description": "UNDP will convene multiple stakeholders \u2013 including start-ups, \naccelerators, international financial institutions and domestic banks \u2013 to develop sustainable \nsolutions for national challenges."
-            },
-            {
-                "Relation": "scale",
-                "Subject": "UNDP",
-                "Object": "innovations",
-                "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
-            },
-            {
-                "Relation": "offer",
-                "Subject": "Lab",
-                "Object": "expertise",
-                "Description": "An Acceleration Lab \u2013 part of the global network \u2013 will offer world-class \nexpertise to addressing emerging policy areas such as the green, circular economy and the \ncare economy."
-            },
-            {
-                "Relation": "test",
-                "Subject": "UNDP",
-                "Object": "solutions",
-                "Description": "UNDP will test new solutions to help businesses navigate the COVID-19 \neconomy and will inform government policies for creating sustainable, formal and green jobs."
-            },
-            {
-                "Relation": "make",
-                "Subject": "Macedonia",
-                "Object": "progress",
-                "Description": "North Macedonia has made progress towards a market economy with greater trade \nopenness and private-sector development."
-            },
-            {
-                "Relation": "constitute",
-                "Subject": "This",
-                "Object": "loss",
-                "Description": "This constitutes a major loss of \nproductivity and jeopardizes the economic future."
-            },
-            {
-                "Relation": "engage",
-                "Subject": "UNDP",
-                "Object": "stakeholders",
-                "Description": "UNDP will engage public and private stakeholders to invest in the business ecosystem \nwith a focus on entrepreneurship, enhanced value chains, and trade."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "businesses",
-                "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
-            },
-            {
-                "Relation": "demonstrate",
-                "Subject": "UNDP",
-                "Object": "effectiveness",
-                "Description": "the previous programme, UNDP demonstrated its effectiveness by supporting the creation of \nover 13,000 formal sector jobs and 12,000 new small businesses, accounting for 12 per cent\nof new companies registered during the period, and 10 new social services serving vulnerable \ngroups."
-            },
-            {
-                "Relation": "highlight",
-                "Subject": "analysis",
-                "Object": "risks",
-                "Description": "The common country analysis highlights significant climate change risks: land \ndegradation, food insecurity, floods, biodiversity loss, and damage to public infrastructure."
-            },
-            {
-                "Relation": "highlight",
-                "Subject": "This",
-                "Object": "nexus",
-                "Description": "This highlights the critical \nenvironment-health nexus and the need for affordable, clean energy."
-            },
-            {
-                "Relation": "lack",
-                "Subject": "country",
-                "Object": "strategy",
-                "Description": "The country lacks a \nnational disaster-risk strategy in line with the Sendai Framework, and there are significant \nchallenges in complying with European Union legislation and standards."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "UNDP",
-                "Object": "frameworks",
-                "Description": "UNDP will strengthen policy frameworks and local capacities for climate change \nadaptation and mitigation; efficient management of ecosystem resources, especially water;\nand disaster risk reduction."
-            },
-            {
-                "Relation": "build",
-                "Subject": "UNDP",
-                "Object": "dams",
-                "Description": "UNDP also \u201cbuilt back \nbetter\u201d 5 dams, 4 bridges, 22 km of roads, 102 km of riverbeds and channels, and areas \naffected by landslides."
-            },
-            {
-                "Relation": "exceed",
-                "Subject": "concerns",
-                "Object": "those",
-                "Description": "Public concerns about corruption, expressed in recent perception surveys, exceed those about \nthe economy and jobs.\n"
-            },
-            {
-                "Relation": "take",
-                "Subject": "people",
-                "Object": "part",
-                "Description": "Despite efforts to increase youth participation and volunteerism, too \nfew young people take part in civic activities."
-            },
-            {
-                "Relation": "reinforce",
-                "Subject": "challenges",
-                "Object": "inequities",
-                "Description": "These challenges reinforce inequities, with a \ndisproportionate impact on vulnerable groups."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "planning",
-                "Description": "UNDP will support strategic planning, regulatory and oversight capacities at the central \nlevel, and municipal-level capacity development for analysis, decision-making, budgeting \nand execution."
-            },
-            {
-                "Relation": "demonstrate",
-                "Subject": "UNDP",
-                "Object": "expertise",
-                "Description": "UNDP has demonstrated \nexpertise in strengthening municipal governance and capacities for economic development, \nservice delivery, and citizen participation in the context of ongoing decentralization."
-            },
-            {
-                "Relation": "play",
-                "Subject": "UNDP",
-                "Object": "role",
-                "Description": "UNDP will play an integrator role in these areas to identify policy and programme solutions \nand take proven interventions to scale."
-            },
-            {
-                "Relation": "enable",
-                "Subject": "This",
-                "Object": "Macedonia",
-                "Description": "This will enable North Macedonia to prosper as a \ncohesive, inclusive society and converge with the European Union in terms of income and \nquality of life, especially for vulnerable groups."
-            },
-            {
-                "Relation": "integrate",
-                "Subject": "strategies",
-                "Object": "response",
-                "Description": "In line with the UNDP COVID-19 crisis response and recovery offer and the\nUnited Nations system strategy for North Macedonia, programme strategies integrate \npandemic response and recovery measures."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "development",
-                "Description": "Under priority 1, UNDP, with United Nations system partners (UNFPA, International \nLabour Organization, UN-Women, International Organization for Migration), will support \neconomic development that is risk-informed and inclusive:\n(a) UNDP will work with the Government and business-serving organizations to \nimplement policy and regulatory solutions for an enabling business environment."
-            },
-            {
-                "Relation": "accelerate",
-                "Subject": "\n",
-                "Object": "formation",
-                "Description": "This \nwill accelerate the formation and growth of small and medium-sized enterprises and \nensure their inclusion in the formal sector."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "greening",
-                "Description": "UNDP will support \nthe \u2018greening\u2019 of value chains and ensure that the equity and gender dimensions of small \nbusiness in development policies and incentives are tailored to populations with specific \nvulnerabilities.\n"
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "standards",
-                "Description": "UNDP will support new occupational \nstandards and curricula, and will pilot innovative employment support measures, \nespecially for women and people who lost jobs due to COVID-19."
-            },
-            {
-                "Relation": "address",
-                "Subject": "UNDP",
-                "Object": "exclusion",
-                "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
-            },
-            {
-                "Relation": "enable",
-                "Subject": "Mechanisms",
-                "Object": "rates",
-                "Description": "Mechanisms and policy measures will enable higher activation rates for women and \nfamily members providing care services."
-            },
-            {
-                "Relation": "support",
-                "Subject": "results",
-                "Object": "directions",
-                "Description": "These results will support government policy directions to increase productive \nemployment, raise living standards, and reform the education system."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "UNDP",
-                "Object": "policies",
-                "Description": "Under priority 2, UNDP, with United Nations system partners (Food and Agriculture \nOrganization, United Nations Office for Disaster Risk Reduction, UN-Women, World Health \nOrganization), will strengthen policies and implementation capacities for climate change\nadaptation and mitigation, management of ecosystem resources, and disaster risk reduction."
-            },
-            {
-                "Relation": "promote",
-                "Subject": "UNDP",
-                "Object": "pathways",
-                "Description": "UNDP will promote system \ntransformation pathways addressing society\u2019s relationship with nature, beyond the \nenvironment silo."
-            },
-            {
-                "Relation": "integrate",
-                "Subject": "This",
-                "Object": "contributions",
-                "Description": "This will integrate nationally determined contributions and adaptation \nplans into other sector plans and strategies for green finance and economy, urban planning \nand housing, health, agriculture, and land-use planning."
-            },
-            {
-                "Relation": "assist",
-                "Subject": "UNDP",
-                "Object": "country",
-                "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
-            },
-            {
-                "Relation": "support",
-                "Subject": "c",
-                "Object": "preparation",
-                "Description": "(c) UNDP will support the preparation of integrated and data-informed disaster risk and \nrecovery plans."
-            },
-            {
-                "Relation": "entail",
-                "Subject": "this",
-                "Object": "development",
-                "Description": "In line with the Sendai Framework,this entails capacity development to \nanalyse disaster risks, strengthen disaster risk governance, enhance disaster preparedness,\nand \u2018build back better\u2019.\n"
-            },
-            {
-                "Relation": "support",
-                "Subject": "d",
-                "Object": "population",
-                "Description": "(d) UNDP will support the rural population in increasing sustainable agricultural \nproduction and farm incomes, focused on small-holders and especially female-headed \nhouseholds, through strengthened agriculture and rural development strategies and \npromotion of agri-business value chains."
-            },
-            {
-                "Relation": "support",
-                "Subject": "results",
-                "Object": "directions",
-                "Description": "These results will support government policy directions to shift the energy sector to a \nlow-carbon development path and reduce air pollution."
-            },
-            {
-                "Relation": "support",
-                "Subject": "partners",
-                "Object": "administration",
-                "Description": "Under priority 3, UNDP, with United Nations system partners (Office of the United \nNations High Commissioner for Refugees, United Nations Children\u2019s Fund, UN-Women, \nOffice of the High Commissioner for Human Rights) will support more effective public \nadministration and transparent and accountable governance."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "preparation",
-                "Description": "UNDP will support the \npreparation of gender-sensitive, risk-informed response and recovery measures that \nreach beyond the health sector to include municipalities and other sector stakeholders."
-            },
-            {
-                "Relation": "assist",
-                "Subject": "This",
-                "Object": "Macedonia",
-                "Description": "This will assist North Macedonia in preparing for future crises and pandemics. \n"
-            },
-            {
-                "Relation": "develop",
-                "Subject": "UNDP",
-                "Object": "capacities",
-                "Description": "(b) UNDP will develop local government capacities for enhanced analysis, decision\u0002making, budgeting and execution, and measurement of policy outcomes."
-            },
-            {
-                "Relation": "include",
-                "Subject": "This",
-                "Object": "introduction",
-                "Description": "This will \ninclude the introduction of innovative digital technologies and mechanisms for inter\u0002municipal planning and pooling of resources to address regional and cross-boundary \nchallenges."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "This",
-                "Object": "rule",
-                "Description": "This will strengthen rule of law, increase access to justice, create a \nstronger legal environment for civilsociety organizations, protect the rights of vulnerable \ngroups, and reduce barriers for gender equality and women\u2019s empowerment."
-            },
-            {
-                "Relation": "support",
-                "Subject": "results",
-                "Object": "directions",
-                "Description": "These results will support government policy directions for more transparent and \naccountable decision-making, judicial reform, and a stronger enabling environment for civil \nsociety."
-            },
-            {
-                "Relation": "form",
-                "Subject": "priorities",
-                "Object": "nexus",
-                "Description": "The priorities for programme cooperation form a nexus of change and partnerships."
-            },
-            {
-                "Relation": "depend",
-                "Subject": "Linkages",
-                "Object": "reform",
-                "Description": "Linkages between the \noutcomes: (a) efforts to stimulate small business development and increase business \nproductivity will depend upon effective governance reform; (b) governance reform, \nespecially for budget transparency, is essential in promoting low emission development and \nresilience to climate change; (c) preparedness for future health emergencies and pandemics \nwill benefit from UNDP experience in disaster risk reduction."
-            },
-            {
-                "Relation": "outline",
-                "Subject": "document",
-                "Object": "contributions",
-                "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
-            },
-            {
-                "Relation": "be",
-                "Subject": "Macedonia",
-                "Object": "country",
-                "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
-            },
-            {
-                "Relation": "contribute",
-                "Subject": "Government",
-                "Object": "costs",
-                "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
-            },
-            {
-                "Relation": "involve",
-                "Subject": "management",
-                "Object": "coordination",
-                "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
-            },
-            {
-                "Relation": "carry",
-                "Subject": "Monitoring",
-                "Object": "accession",
-                "Description": "Monitoring and evaluation will be carried out based on the outcome and output indicators \nin the results and resources framework, aligned with indicators related to European Union\naccession and the national indicator framework for the Sustainable Development Goals."
-            },
-            {
-                "Relation": "demonstrate",
-                "Subject": "\n",
-                "Object": "linkage",
-                "Description": "This \ndemonstrates a clear linkage between the support provided by UNDP, the Framework\noutcomes, and sustainable development results."
-            },
-            {
-                "Relation": "reinforce",
-                "Subject": "programme",
-                "Object": "tools",
-                "Description": "The programme will reinforce innovative tools to \nmanage data collection and analysis at the country programme outcome and output levels."
-            },
-            {
-                "Relation": "shape",
-                "Subject": "practices",
-                "Object": "advice",
-                "Description": "Good practices and lessons learned from national and international sources will shape \npolicy advice, advocacy, and project design and implementation."
-            },
-            {
-                "Relation": "be",
-                "Subject": "evaluation",
-                "Object": "\n",
-                "Description": "An independent evaluation of the country programme will be \nconducted in 2024."
-            }
-        ]
+        "relations": {
+            "MKD": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Country Name: North Macedonia\nCountry Code: MKD\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "mkd",
+                    "Description": "Country Name: North Macedonia\nCountry Code: MKD\nCategory: CPD\n"
+                }
+            ],
+            "the European Union": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the european union",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                }
+            ],
+            "European Union": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Four documents constitute a strategic vision for the country: (a) the national strategy for \nsustainable development; (b) the Government programme for 2020-2024; (c) the economic \nreform programme, and (d) the national plan for adoption of European Union acquis \ncommunautaire."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "Four documents constitute a strategic vision for the country: (a) the national strategy for \nsustainable development; (b) the Government programme for 2020-2024; (c) the economic \nreform programme, and (d) the national plan for adoption of European Union acquis \ncommunautaire."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country lacks a \nnational disaster-risk strategy in line with the Sendai Framework, and there are significant \nchallenges in complying with European Union legislation and standards."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "The country lacks a \nnational disaster-risk strategy in line with the Sendai Framework, and there are significant \nchallenges in complying with European Union legislation and standards."
+                },
+                {
+                    "Relation": "reaffirm",
+                    "Object": "un",
+                    "Description": "These changes will contribute to transparent and accountable governance and\nsocial cohesion, and will reaffirm government commitment to European Union accession and \nthe fundamentals for building trust and counteracting polarization."
+                },
+                {
+                    "Relation": "reaffirm",
+                    "Object": "european union",
+                    "Description": "These changes will contribute to transparent and accountable governance and\nsocial cohesion, and will reaffirm government commitment to European Union accession and \nthe fundamentals for building trust and counteracting polarization."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "digital",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "european union",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "european union",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                }
+            ],
+            "Roma": [
+                {
+                    "Relation": "address",
+                    "Object": "undp",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "un",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "roma",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                }
+            ],
+            "United Nations": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "united nations",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "un",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "united nations",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "un",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "united nations",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "united nations",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                }
+            ],
+            "the Sustainable Development Cooperation Framework": [
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                }
+            ],
+            "Success": [
+                {
+                    "Relation": "depend",
+                    "Object": "un",
+                    "Description": "Success will depend upon sustained and \ninclusive economic and social development (priority 1); enhanced climate action, natural \nresources and disaster risk management (priority 2); and more transparent and accountable \ngovernance (priority 3)."
+                },
+                {
+                    "Relation": "depend",
+                    "Object": "success",
+                    "Description": "Success will depend upon sustained and \ninclusive economic and social development (priority 1); enhanced climate action, natural \nresources and disaster risk management (priority 2); and more transparent and accountable \ngovernance (priority 3)."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "united nations",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "the skopje lab",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "undp",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Based on the common country analysis and stakeholder consultations, there are three \nchallenges to which UNDP will bring strategic and value-added solutions to contribute to \nFramework priorities and outcomes."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "Based on the common country analysis and stakeholder consultations, there are three \nchallenges to which UNDP will bring strategic and value-added solutions to contribute to \nFramework priorities and outcomes."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "digital",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "undp",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "roma",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+                }
+            ],
+            "the United Nations": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the united nations",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "un",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                }
+            ],
+            "the Skopje Lab": [
+                {
+                    "Relation": "scale",
+                    "Object": "the skopje lab",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "undp",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "un",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                }
+            ],
+            "Sustainable Development Goals": [
+                {
+                    "Relation": "reform",
+                    "Object": "digital",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "sustainable development goals",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "sustainable development goals",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "cost\u0002sharing",
+                    "Object": "un",
+                    "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
+                },
+                {
+                    "Relation": "cost\u0002sharing",
+                    "Object": "sustainable development goals",
+                    "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
+                }
+            ],
+            "Digital": [
+                {
+                    "Relation": "support",
+                    "Object": "digital",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "digital",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "european union",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "reform",
+                    "Object": "sustainable development goals",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "digital",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "involving",
+                    "Object": "un",
+                    "Description": "These \nwill be expanded with digital outreach and platforms for consultation involving central and \nmunicipal governments; parliamentarians; civil society organizations; diverse community\u0002based groups, including women\u2019s rights and youth organizations; and the private sector,\nincluding business serving organizations; and financial institutions."
+                },
+                {
+                    "Relation": "involving",
+                    "Object": "digital",
+                    "Description": "These \nwill be expanded with digital outreach and platforms for consultation involving central and \nmunicipal governments; parliamentarians; civil society organizations; diverse community\u0002based groups, including women\u2019s rights and youth organizations; and the private sector,\nincluding business serving organizations; and financial institutions."
+                }
+            ],
+            "Mechanisms": [
+                {
+                    "Relation": "including",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                }
+            ],
+            "UN": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Country Name: North Macedonia\nCountry Code: MKD\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "mkd",
+                    "Description": "Country Name: North Macedonia\nCountry Code: MKD\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the european union",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "The country has undergone considerable economic reform \nsince independence to develop an open economy and is about to open accession negotiations \nwith the European Union."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Four documents constitute a strategic vision for the country: (a) the national strategy for \nsustainable development; (b) the Government programme for 2020-2024; (c) the economic \nreform programme, and (d) the national plan for adoption of European Union acquis \ncommunautaire."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "Four documents constitute a strategic vision for the country: (a) the national strategy for \nsustainable development; (b) the Government programme for 2020-2024; (c) the economic \nreform programme, and (d) the national plan for adoption of European Union acquis \ncommunautaire."
+                },
+                {
+                    "Relation": "depend",
+                    "Object": "un",
+                    "Description": "Success will depend upon sustained and \ninclusive economic and social development (priority 1); enhanced climate action, natural \nresources and disaster risk management (priority 2); and more transparent and accountable \ngovernance (priority 3)."
+                },
+                {
+                    "Relation": "depend",
+                    "Object": "success",
+                    "Description": "Success will depend upon sustained and \ninclusive economic and social development (priority 1); enhanced climate action, natural \nresources and disaster risk management (priority 2); and more transparent and accountable \ngovernance (priority 3)."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "united nations",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the united nations",
+                    "Description": "The country programme builds on the unique positioning of UNDP in the United Nations\nsystem."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "un",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "united nations",
+                    "Description": "UNDP will engage in United Nations\njoint programmes for integrated service provision, disability, climate change, air pollution, \nyouth, and gender equality."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "un",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "the skopje lab",
+                    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the \nInnovation Hub, and platforms for disaster risk management and small and medium-sized\nenterprises."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Based on the common country analysis and stakeholder consultations, there are three \nchallenges to which UNDP will bring strategic and value-added solutions to contribute to \nFramework priorities and outcomes."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "Based on the common country analysis and stakeholder consultations, there are three \nchallenges to which UNDP will bring strategic and value-added solutions to contribute to \nFramework priorities and outcomes."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "digital",
+                    "Description": "UNDP will support \nbusinesses in navigating the economy as it recovers from the pandemic, including digital \ntransformation."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "The country lacks a \nnational disaster-risk strategy in line with the Sendai Framework, and there are significant \nchallenges in complying with European Union legislation and standards."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "european union",
+                    "Description": "The country lacks a \nnational disaster-risk strategy in line with the Sendai Framework, and there are significant \nchallenges in complying with European Union legislation and standards."
+                },
+                {
+                    "Relation": "reaffirm",
+                    "Object": "un",
+                    "Description": "These changes will contribute to transparent and accountable governance and\nsocial cohesion, and will reaffirm government commitment to European Union accession and \nthe fundamentals for building trust and counteracting polarization."
+                },
+                {
+                    "Relation": "reaffirm",
+                    "Object": "european union",
+                    "Description": "These changes will contribute to transparent and accountable governance and\nsocial cohesion, and will reaffirm government commitment to European Union accession and \nthe fundamentals for building trust and counteracting polarization."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "european union",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "sustainable development goals",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "digital",
+                    "Description": "There are opportunities to support North Macedonia in scaling up effective solutions for \nEuropean Union accession and Sustainable Development Goals achievement: (a) readiness \nto reform public administration;\n(b) demands for quality services, highlighting the need for \ngreater municipal capacities, including inter-municipal cooperation and digital infrastructure; \n(c) interplay of non-communicable diseases and air pollution, illustrating the need for \nstronger environmental management and low-emission development; and (d) recognition of \npoverty in the northern regions, calling for more inclusive economic growth, with a focus on \nlocal, \u2018green\u2019 economic development and increased smallholder agricultural productivity."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "un",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "address",
+                    "Object": "roma",
+                    "Description": "\n(c) UNDP will address exclusion and strengthen the targeting and delivery of quality \nsocial services, with a focus on persons with disabilities, Roma and young people."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "un",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the united nations",
+                    "Description": "UNDP will assist the country in meeting its transparency and reporting \ncommitments under the United Nations framework on climate change and the Paris \nAgreement.\n"
+                },
+                {
+                    "Relation": "involving",
+                    "Object": "un",
+                    "Description": "These \nwill be expanded with digital outreach and platforms for consultation involving central and \nmunicipal governments; parliamentarians; civil society organizations; diverse community\u0002based groups, including women\u2019s rights and youth organizations; and the private sector,\nincluding business serving organizations; and financial institutions."
+                },
+                {
+                    "Relation": "involving",
+                    "Object": "digital",
+                    "Description": "These \nwill be expanded with digital outreach and platforms for consultation involving central and \nmunicipal governments; parliamentarians; civil society organizations; diverse community\u0002based groups, including women\u2019s rights and youth organizations; and the private sector,\nincluding business serving organizations; and financial institutions."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "the programme and operations policies and procedures",
+                    "Description": "Accountabilities of managers at \nthe country, regional and headquarters levels with respect to country programmes is prescribed in the Programme and Operations Policies and Procedures and Internal Control \nFramework."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "Accountabilities of managers at \nthe country, regional and headquarters levels with respect to country programmes is prescribed in the Programme and Operations Policies and Procedures and Internal Control \nFramework."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "un",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "un",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "undp",
+                    "Description": "Since North \nMacedonia is an upper-middle-income country, the Government will contribute 75 per cent \nof UNDP local office costs."
+                },
+                {
+                    "Relation": "cost\u0002sharing",
+                    "Object": "un",
+                    "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
+                },
+                {
+                    "Relation": "cost\u0002sharing",
+                    "Object": "sustainable development goals",
+                    "Description": "Risk management will involve: (a) cross-sector coordination and partnerships;\n(b) impartial Sustainable Development Goals-based advocacy and policy dialogue; (c) cost\u0002sharing with government and alternative financing and funding options; (d) regular results \nmonitoring; and (e) review and updating of contingency plans for disasters and emergencies."
+                }
+            ],
+            "the Executive Board": [
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "This country programme document outlines UNDP contributions to national results and \nserves as the primary unit of accountability to the Executive Board for results alignment and \nresources assigned to the programme at the country level."
+                }
+            ],
+            "the Programme and Operations Policies and Procedures": [
+                {
+                    "Relation": "prescribed",
+                    "Object": "the programme and operations policies and procedures",
+                    "Description": "Accountabilities of managers at \nthe country, regional and headquarters levels with respect to country programmes is prescribed in the Programme and Operations Policies and Procedures and Internal Control \nFramework."
+                },
+                {
+                    "Relation": "prescribed",
+                    "Object": "un",
+                    "Description": "Accountabilities of managers at \nthe country, regional and headquarters levels with respect to country programmes is prescribed in the Programme and Operations Policies and Procedures and Internal Control \nFramework."
+                }
+            ],
+            "The Harmonized Approach": [
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "united nations",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "un",
+                    "Description": "The Harmonized Approach to Cash Transfers will be used in a coordinated fashion with \nother United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the harmonized approach",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "united nations",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "un",
+                    "Description": "The Harmonized Approach will be used in \na coordinated fashion with other United Nations organizations to manage financial risks."
+                }
+            ],
+            "Government-United Nations": [
+                {
+                    "Relation": "including",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                }
+            ],
+            "the Sustainable Development Cooperation Framework Joint Steering Committee": [
+                {
+                    "Relation": "including",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "the sustainable development cooperation framework joint steering committee",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "mechanisms",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "government-united nations",
+                    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, \nincluding the Sustainable Development Cooperation Framework Joint Steering Committee."
+                }
+            ]
+        }
     }
 }

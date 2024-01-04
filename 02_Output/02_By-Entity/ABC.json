@@ -1,14 +1,20 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "ABC",
-        "relations": [
-            {
-                "Relation": "use",
-                "Subject": "networks",
-                "Object": "ABC",
-                "Description": "All new low voltage distribution networks will use all-insulated ABC with\nimmediate effect."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "ABC": [
+                {
+                    "Relation": "derground",
+                    "Object": "abc",
+                    "Description": "Considering the superior reliability, increased safety and lower interference with tree cover,\nelectricity distribution networks will be gradually placed underground in urban areas and converted\nto insulated aerial bundled conductors (ABC) in other areas."
+                },
+                {
+                    "Relation": "derground",
+                    "Object": "un",
+                    "Description": "Considering the superior reliability, increased safety and lower interference with tree cover,\nelectricity distribution networks will be gradually placed underground in urban areas and converted\nto insulated aerial bundled conductors (ABC) in other areas."
+                }
+            ]
+        }
     }
 }

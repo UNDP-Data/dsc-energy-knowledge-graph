@@ -1,194 +1,150 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "LPG",
-        "relations": [
-            {
-                "Relation": "reach",
-                "Subject": "production",
-                "Object": "t",
-                "Description": "\nLPG production has reached 47,000 t p.a \nand is expected to amount to 70,000 t p.a."
-            },
-            {
-                "Relation": "provide",
-                "Subject": "This",
-                "Object": "oppor\u0002tunities",
-                "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
-            },
-            {
-                "Relation": "be",
-                "Subject": "costs",
-                "Object": "lowest",
-                "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
-            },
-            {
-                "Relation": "take",
-                "Subject": "g.",
-                "Object": "steps",
-                "Description": "g. Take steps to ensure rapid growth of the LPG market, including \nreviewing effectiveness of NPMC as a market leader/maker;\nh. Investigate, develop and gain access to regional African gas markets;\ni. Set a suitable environment for financing of gas projects."
-            },
-            {
-                "Relation": "be",
-                "Subject": "examples",
-                "Object": "Plans",
-                "Description": "Some \nexamples could be:\n\u2022 Plans for metered electricity to host communities immediately adjacent to flare \nsites;\n\u2022 Projects which could be of significance to local regional electricity distribution \ncompanies as embedded power projects;\nCritical levers for rural economic development in the Niger Delta, which can provide \nislands of stable metered electricity or gas products, such as LPG."
-            },
-            {
-                "Relation": "be",
-                "Subject": "Gas",
-                "Object": "parts",
-                "Description": "Gas and LPG can be parts of the solution."
-            },
-            {
-                "Relation": "encourage",
-                "Subject": "policy",
-                "Object": "development",
-                "Description": "The gas policy also encourages further gas development for other \nprojects, including:\n\u2022 Petrochemical plants;\n\u2022 Fertiliser plants;\n\u2022 Village power plants;\n\u2022 Embedded power plants;\n\u2022 CNG plants;\n\u2022 LPG plants;\n"
-            },
-            {
-                "Relation": "present",
-                "Subject": "LPG",
-                "Object": "window",
-                "Description": "\nLPG presents a window of opportunity to bring about improved quality of life for the \npopulace."
-            },
-            {
-                "Relation": "induce",
-                "Subject": "market",
-                "Object": "effect",
-                "Description": "A vibrant LPG market in Nigeria will no doubt induce a positive ripple effect \nthat will translate into more jobs for the millions of unemployed Nigerians and business \nopportunities."
-            },
-            {
-                "Relation": "join",
-                "Subject": "Nigeria",
-                "Object": "rest",
-                "Description": "Fiscal and \nenvironmental benefits in the form of increased tax revenues and carbon credits for \ngovernment are very crucial even as Nigeria joins the rest of the global community to \nbenefit from the use of clean fuels like LPG."
-            },
-            {
-                "Relation": "buy",
-                "Subject": "NPMC",
-                "Object": "LPG",
-                "Description": "NPMC buys its LPG from the \nNNPC refineries and provides storage for importers."
-            },
-            {
-                "Relation": "sell",
-                "Subject": "NPMC",
-                "Object": "LPG",
-                "Description": "NPMC sells LPG to export \nmarkets, to marketers in bulk and is also allowed to retail directly to end users."
-            },
-            {
-                "Relation": "make",
-                "Subject": "product",
-                "Object": "available",
-                "Description": "As with natural gas, insufficient LPG product is being made available for the domestic \nmarket."
-            },
-            {
-                "Relation": "have",
-                "Subject": "LPG",
-                "Object": "market",
-                "Description": "In many emerging markets around the world, LPG has an unofficial, undeclared \nmarket that operates outside the official attention of the national regulatory authorities."
-            },
-            {
-                "Relation": "cover",
-                "Subject": "scope",
-                "Object": "uses",
-                "Description": "The scope of the policy for LPG in Nigeria covers its uses in the following areas:\n1."
-            },
-            {
-                "Relation": "bring",
-                "Subject": "LPG",
-                "Object": "benefits",
-                "Description": "LPG brings manifold benefits \nto human health, environment as well as economy of Nigeria."
-            },
-            {
-                "Relation": "present",
-                "Subject": "LPG",
-                "Object": "opportunities",
-                "Description": "As a domestic cooking \nfuel LPG therefore presents valuable opportunities to simultaneously combat climate \nchange, reverse deforestation and improve community health and rural economy and \nlivelihood."
-            },
-            {
-                "Relation": "have",
-                "Subject": "LPG",
-                "Object": "emissions",
-                "Description": "\nLPG has relatively low emissions when compared to other cooking fuels such as \nfirewood and kerosene."
-            },
-            {
-                "Relation": "deliver",
-                "Subject": "LPG",
-                "Object": "content",
-                "Description": "According to the World Liquefied Petroleum Gas Association \n(WLPGA), LPG delivers far higher calorific value/heat content per unit compared to \nkerosene or firewood."
-            },
-            {
-                "Relation": "have",
-                "Subject": "Nigerians",
-                "Object": "access",
-                "Description": "Many Nigerians do not have access to \ncooking gas (LPG) while for those that already use LPG suffer periodic scarcities of \nLPG."
-            },
-            {
-                "Relation": "include",
-                "Subject": "uses",
-                "Object": "pasteurization",
-                "Description": "In agriculture, several uses of LPG that would stimulate this sector include: \npasteurization of dairy products; drying of grain and crop; meat, poultry and fish \nproduct sanitization; chick hatching etc.\n\nElectric Power Applications\n"
-            },
-            {
-                "Relation": "flare",
-                "Subject": "Nigeria",
-                "Object": "tonnes",
-                "Description": "Nigeria flares annually 1.5 and 2 million tonnes of LPG in its flared gas volumes."
-            },
-            {
-                "Relation": "stimulate",
-                "Subject": "Government",
-                "Object": "side",
-                "Description": "In order to improve availability, the Government will \nstimulate the demand side to make LPG accessible."
-            },
-            {
-                "Relation": "require",
-                "Subject": "This",
-                "Object": "incentives",
-                "Description": "This will require fiscal incentives such as reduction in tariffs and \nduties on LPG equipment.\n"
-            },
-            {
-                "Relation": "contribute",
-                "Subject": "This",
-                "Object": "cylinders",
-                "Description": "This has contributed to the shortage of LPG \ncylinders with the estimated number of cylinders in circulation within the country today \nat approximately 1.5 million units as compared to a minimum a requirement of 100 million LPG cylinders in relation to the population."
-            },
-            {
-                "Relation": "rest",
-                "Subject": "responsibility",
-                "Object": "\n",
-                "Description": "Whilst ultimate responsibility for the implementation of policy for the LPG sector rests \nwith the Ministry of Petroleum Resources, it is recognised that other agencies of \nGovernment have a critical role to play in this regard."
-            },
-            {
-                "Relation": "execute",
-                "Subject": "Council",
-                "Object": "role",
-                "Description": "In order for the LPG Council to execute its role within the context of the four thematic \ntopics above, the LPG Council will be constituted into four specific task forces: \n1."
-            },
-            {
-                "Relation": "identify",
-                "Subject": "NLPGA",
-                "Object": "number",
-                "Description": "Affordability Task Force: tasked with driving the effort of reducing the cost \nof LPG equipment and accessories where the NLPGA has already identified a \nnumber of regulatory and infrastructure related costs."
-            },
-            {
-                "Relation": "ordinate",
-                "Subject": "-",
-                "Object": "activities",
-                "Description": "Co-ordinate all activities relative to the development of the domestic LPG market."
-            },
-            {
-                "Relation": "bio",
-                "Subject": "gases",
-                "Object": "products",
-                "Description": "Liquefied petroleum gases (LPG) 4.5 ;\nBitumen 22.2 ;\nMotor Gasoline excl. bio 146.7 ;\nOther oil products 3 ;\nGasoline type jet fuel 0.0 ;\nNatural Gas 1,847.4 ;\nWhite spirit & SBP 0.1 ;\nFire wood 0.0 ;\nKerosene Type Jet Fuel excl."
-            },
-            {
-                "Relation": "hybridize",
-                "Subject": "Configuration",
-                "Object": "Area",
-                "Description": "Configuration of Concentrating Solar M90 Dishes at \nNTPC- Dadri, India:\nPeak Capacity at STC 80,000 kcal/hr.;\nApplication Cooking (Baking, Boiling and Frying);\nSystem Configuration Hot Thermic Oil at 220\u00b0C;\nIntegration Hybridized with LPG Thermic Oil Heater;\nPeak Capacity at STC 80,000 kcal/hr.;\nTotal Concentrator Area 2 Nos. of M90 Dishes totaling 180 m2;\n#Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system for Rural Applications\n"
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "LPG": [
+                {
+                    "Relation": "including",
+                    "Object": "households",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "rural",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "lpg",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "west",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "niger",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "lpg",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "lpg",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "ceylon petroleum corporation",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "re",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "lpg",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "empowered",
+                    "Object": "pucsl",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "regulate",
+                    "Object": "re",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "empowered",
+                    "Object": "lpg",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "regulate",
+                    "Object": "lpg",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "households",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "rural",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "lpg",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "west",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "niger",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "are",
+                    "Object": "lpg",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "lpg",
+                    "Description": "Conditions in Niger for \nthis increased use of LPG are favourable \nas LPG costs are the lowest in the region."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "ceylon petroleum corporation",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "re",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "owned",
+                    "Object": "lpg",
+                    "Description": "\nLPG industry is owned by the private sector except for the contribution of about 15% of to the total LPG supply by\nthe state-owned Ceylon Petroleum Corporation (CEYPETCO), which is the only player at present in the petroleum refining\nbusiness."
+                },
+                {
+                    "Relation": "empowered",
+                    "Object": "pucsl",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "regulate",
+                    "Object": "re",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "empowered",
+                    "Object": "lpg",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                },
+                {
+                    "Relation": "regulate",
+                    "Object": "lpg",
+                    "Description": "The PUCSL will be empowered to regulate the energy sector including electricity and petroleum sub-sectors, to\nensure effective implementation of the pricing policy,\n* Appropriate pricing strategies will be formulated and implemented by PUCSL, which will prepare and regularly\nupdate plans to achieve a cost-reflective pricing policy for all commercial energy products (electricity, petroleum\nproducts, LPG) and implement them."
+                }
+            ]
+        }
     }
 }

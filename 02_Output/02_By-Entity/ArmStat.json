@@ -1,0 +1,35 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "ArmStat": [
+                {
+                    "Relation": "continue",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "united nations",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                }
+            ]
+        }
+    }
+}

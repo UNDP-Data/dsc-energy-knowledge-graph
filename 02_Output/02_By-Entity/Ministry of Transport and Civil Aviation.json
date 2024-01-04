@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Ministry of Transport and Civil Aviation": [
+                {
+                    "Relation": "try",
+                    "Object": "ministry of transport and civil aviation",
+                    "Description": "4l Modal share of mass transport will be enhanced by a margin of 10%compared to\nthe 2016 share by 2023 by adopting avoid, shift and improve strategies and\nintelligent multimodal transport management solutions for major cities in the\ncountry, by Ministry of Transport and Civil Aviation."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "4l Modal share of mass transport will be enhanced by a margin of 10%compared to\nthe 2016 share by 2023 by adopting avoid, shift and improve strategies and\nintelligent multimodal transport management solutions for major cities in the\ncountry, by Ministry of Transport and Civil Aviation."
+                }
+            ]
+        }
+    }
+}
