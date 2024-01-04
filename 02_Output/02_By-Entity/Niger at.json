@@ -1,14 +1,20 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "Niger at",
-        "relations": [
-            {
-                "Relation": "include",
-                "Subject": "applications",
-                "Object": "PV",
-                "Description": "Solar energy applications in use in Niger at \npresent include PV for mini-grid and stand\u0002alone applications, solar crop dryers and \nsolar water heating for homes and commu\u0002nity applications."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "Niger at": [
+                {
+                    "Relation": "include",
+                    "Object": "niger at",
+                    "Description": "Solar energy applications in use in Niger at \npresent include PV for mini-grid and stand\u0002alone applications, solar crop dryers and \nsolar water heating for homes and commu\u0002nity applications."
+                },
+                {
+                    "Relation": "include",
+                    "Object": "pv",
+                    "Description": "Solar energy applications in use in Niger at \npresent include PV for mini-grid and stand\u0002alone applications, solar crop dryers and \nsolar water heating for homes and commu\u0002nity applications."
+                }
+            ]
+        }
     }
 }

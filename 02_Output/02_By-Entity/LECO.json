@@ -1,14 +1,80 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "LECO",
-        "relations": [
-            {
-                "Relation": "encourage",
-                "Subject": "SEA",
-                "Object": "sector",
-                "Description": "SEA will encourage the private sector to set up their own charging\nstations to complement the CEB/LECO efforts, by securing fiscal incentives to\nthe industry."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "LECO": [
+                {
+                    "Relation": "promoted",
+                    "Object": "leco",
+                    "Description": "3.4.13 Virtual offices and video/teleconferencing will be promoted by making necessary changes to\norganisational working culture as a strategy to minimize physical movement."
+                },
+                {
+                    "Relation": "promoted",
+                    "Object": "ess",
+                    "Description": "3.4.13 Virtual offices and video/teleconferencing will be promoted by making necessary changes to\norganisational working culture as a strategy to minimize physical movement."
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "leco",
+                    "Description": "Specifications, status and standards of key equipment will be recorded, and a\nstandardisation programme will be launched within 2020 by the CEB and the LECO.\n"
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "un",
+                    "Description": "Specifications, status and standards of key equipment will be recorded, and a\nstandardisation programme will be launched within 2020 by the CEB and the LECO.\n"
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "leco",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "un",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "identify",
+                    "Object": "smart",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "identify",
+                    "Object": "leco",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "made",
+                    "Object": "leco",
+                    "Description": "2m At least 50% of all standard services offered by the CEB and the LECO to be\nmade optionally available through mobile and internet platforms too, including\npayments and tracking of progress, by mid-2020 so that customers are not required\nto visit utility offices to initiate such services."
+                },
+                {
+                    "Relation": "made",
+                    "Object": "ess",
+                    "Description": "2m At least 50% of all standard services offered by the CEB and the LECO to be\nmade optionally available through mobile and internet platforms too, including\npayments and tracking of progress, by mid-2020 so that customers are not required\nto visit utility offices to initiate such services."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "leco",
+                    "Description": "SEA will encourage the private sector to set up their own charging\nstations to complement the CEB/LECO efforts, by securing fiscal incentives to\nthe industry."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "sea",
+                    "Description": "SEA will encourage the private sector to set up their own charging\nstations to complement the CEB/LECO efforts, by securing fiscal incentives to\nthe industry."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "smart",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "leco",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                }
+            ]
+        }
     }
 }

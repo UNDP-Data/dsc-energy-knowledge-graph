@@ -3,19 +3,7 @@
     "knowledge graph": {
         "entities": [
             {
-                "entity": "ALB",
-                "category": "Organization"
-            },
-            {
-                "entity": "GIZ",
-                "category": "Organization"
-            },
-            {
                 "entity": "AFD",
-                "category": "Organization"
-            },
-            {
-                "entity": "ADEME",
                 "category": "Organization"
             },
             {
@@ -61,61 +49,438 @@
             {
                 "entity": "MEUR",
                 "category": "Organization"
-            },
-            {
-                "entity": "end\u00022021",
-                "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "support",
-                "Subject": "PEEB",
-                "Object": "countries",
-                "Description": "PEEB supports countries in their transition \ntowards low-carbon, energy-efficient and \nresilient building sectors."
-            },
-            {
-                "Relation": "support",
-                "Subject": "PEEB",
-                "Object": "countries",
-                "Description": "PEEB supports countries in their transition \ntowards low-carbon, energy-efficient and \nresilient building sectors."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "reform",
-                "Object": "economy",
-                "Description": "The reform should strengthen Georgia economy and embark in an energy\ntransition in full compliance with the Paris Agreement."
-            },
-            {
-                "Relation": "pay",
-                "Subject": "program",
-                "Object": "attention",
-                "Description": "The program pays a \nparticular attention to the promotion of energy efficiency both on the supply and \ndemand side."
-            },
-            {
-                "Relation": "facilitate",
-                "Subject": "program",
-                "Object": "adoption",
-                "Description": ";\n\uf0b7 the program facilitated the adoption of energy efficiency and energy \nefficiency labelling laws in compliance with EU directives."
-            },
-            {
-                "Relation": "adopt",
-                "Subject": "authorities",
-                "Object": "Plan",
-                "Description": "In the coming months, Georgian authorities should adopt the National Energy \n\uf0b7 Efficiency Action Plan (NEEAP) as well as several secondary acts to \noperationalize the reforms."
-            },
-            {
-                "Relation": "include",
-                "Subject": "financing",
-                "Object": "program",
-                "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
-            },
-            {
-                "Relation": "assess",
-                "Subject": "AFD",
-                "Object": "possibility",
-                "Description": ";\n\uf0b7 GoM request for AFD to provide complementary funding for this programme;\n\uf0b7 AFD to assess possibility to provide loan + grant package to accelerate rate of EE \nrenovation of buildings;"
-            }
-        ]
+        "relations": {
+            "AFD": [
+                {
+                    "Relation": "develop",
+                    "Object": "eu",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "afd",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "afd",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "the energy efficiency agency",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "afd",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "eu",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "ebrd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "eib",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "meur",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "afd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ],
+            "EU": [
+                {
+                    "Relation": "develop",
+                    "Object": "eu",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "afd",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "policy based loans",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "kfw",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "policy-based loan",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "eu",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "eu",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "the energy efficiency agency",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "eu",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "eu",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "afd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "latest",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "eu",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ],
+            "Policy Based Loans": [
+                {
+                    "Relation": "develop",
+                    "Object": "policy based loans",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "eu",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "policy based loans",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                }
+            ],
+            "KfW": [
+                {
+                    "Relation": "based",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "afd",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "eu",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "policy based loans",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "grant",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "grant",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "kfw",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "eu",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "policy-based loan",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "eu acquis",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "kfw",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                }
+            ],
+            "the European Union": [
+                {
+                    "Relation": "based",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "grant",
+                    "Object": "the european union",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "based",
+                    "Object": "afd",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "eu",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "co\u0002financing",
+                    "Object": "policy based loans",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                },
+                {
+                    "Relation": "grant",
+                    "Object": "kfw",
+                    "Description": "Since 2018: policy reform program to structure the electricity market in \naccordance with the EU directives, and develop the regulatory framework for \nrenewable energies and energy efficiency;\n\uf0b7 AFD support: multi-year program of Policy Based Loans to Georgia, with co\u0002financing from KfW and grant support from the European Union."
+                }
+            ],
+            "Policy-Based Loan": [
+                {
+                    "Relation": "cofinancing",
+                    "Object": "policy-based loan",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "eu",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "kfw",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "eu acquis",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                }
+            ],
+            "EU Acquis": [
+                {
+                    "Relation": "support",
+                    "Object": "eu acquis",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "eu acquis",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "kfw",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                },
+                {
+                    "Relation": "cofinancing",
+                    "Object": "policy-based loan",
+                    "Description": "Since 2019: Policy-Based Loan in cofinancing with KfW to support energy \nsector reform, in line with EU Acquis."
+                }
+            ],
+            "the Energy Efficiency Agency": [
+                {
+                    "Relation": "eur",
+                    "Object": "the energy efficiency agency",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "afd",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                },
+                {
+                    "Relation": "eur",
+                    "Object": "eu",
+                    "Description": "Total AFD financing: EUR 100M.;\n\uf0b7 EUR 1.5M Technical Assistance Package, to support reform.;\n\uf0b7 Includes: capacity-building program for the Energy Efficiency Agency (EEA), \nto improve structure, organization, performance and knowledge of the \nagency.;\n\uf0b7 Upcoming PEEB"
+                }
+            ],
+            "Latest": [
+                {
+                    "Relation": "afds",
+                    "Object": "latest",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "eu",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "ebrd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "eib",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "meur",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ],
+            "EBRD": [
+                {
+                    "Relation": "identified",
+                    "Object": "ebrd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "ebrd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "afd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "latest",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ],
+            "EIB": [
+                {
+                    "Relation": "identified",
+                    "Object": "eib",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "eib",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "afd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "latest",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ],
+            "MEUR": [
+                {
+                    "Relation": "identified",
+                    "Object": "meur",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "meur",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "afd",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                },
+                {
+                    "Relation": "afds",
+                    "Object": "latest",
+                    "Description": "\uf0b7 Latest addition to AFD\u2019s geographical scope: July 2021;\n\uf0b7 EE identified as key priority by the new government, to increase energy security by \nreducing energy consumption;\n\uf0b7 A programme for rehabilitation of public buildings is currently under \nfinalisation with support from EBRD, EIB and the EU, for 75 MEUR."
+                }
+            ]
+        }
     }
 }

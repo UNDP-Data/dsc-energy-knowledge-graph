@@ -7,23 +7,11 @@
                 "category": "Organization"
             },
             {
-                "entity": "UN Country",
-                "category": "Organization"
-            },
-            {
-                "entity": "the United Nations Sustainable Development Cooperation Framework",
-                "category": "Organization"
-            },
-            {
                 "entity": "Gender",
                 "category": "Organization"
             },
             {
                 "entity": "the European Union",
-                "category": "Organization"
-            },
-            {
-                "entity": "The National Strategy for Development and Integration",
                 "category": "Organization"
             },
             {
@@ -51,10 +39,6 @@
                 "category": "Organization"
             },
             {
-                "entity": "Government\u2019s",
-                "category": "Organization"
-            },
-            {
                 "entity": "the Western Balkan Regional Economic Area",
                 "category": "Organization"
             },
@@ -71,10 +55,6 @@
                 "category": "Organization"
             },
             {
-                "entity": "the Drini River Basin",
-                "category": "Location"
-            },
-            {
                 "entity": "the National Public Administration Reform Strategy",
                 "category": "Organization"
             },
@@ -85,277 +65,951 @@
             {
                 "entity": "the Executive Board",
                 "category": "Organization"
-            },
-            {
-                "entity": "The National Statistical Office",
-                "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "hold",
-                "Subject": "Women",
-                "Object": "half",
-                "Description": "Women hold half of senior government positions."
-            },
-            {
-                "Relation": "suffer",
-                "Subject": "38.3",
-                "Object": "deprivations",
-                "Description": "According to official figures, 38.3 per cent of \nthe population suffer severe material deprivations and 23.4 per cent are at risk of falling into \npoverty (2018)."
-            },
-            {
-                "Relation": "face",
-                "Subject": "Albania",
-                "Object": "challenges",
-                "Description": "Albania faces multiple challenges that drive vulnerabilities, including weaknesses in \nrule of law, uneven institutional capacity, service gaps, limited investments in social services,\ndegradation of natural resources and few labour opportunities."
-            },
-            {
-                "Relation": "highlight",
-                "Subject": "disease",
-                "Object": "need",
-                "Description": "The November 2019 earthquake and coronavirus disease (COVID-19) pandemic\nhighlighted the need to address disaster risk management and the socioeconomic impact of \nthese events, particularly on vulnerable groups and micro, small and medium-sized\nenterprises."
-            },
-            {
-                "Relation": "deepen",
-                "Subject": "The",
-                "Object": "inequalities",
-                "Description": "The pandemic deepened gender inequalities, disproportionately affecting \nwomen, their livelihoods and access to essential health services, and increased incidents of \ngender-based violence."
-            },
-            {
-                "Relation": "open",
-                "Subject": "Union",
-                "Object": "negotiations",
-                "Description": "In March 2020, the European Union opened accession negotiations."
-            },
-            {
-                "Relation": "reflect",
-                "Subject": "programme",
-                "Object": "advantages",
-                "Description": "This country programme reflects the comparative advantages of UNDP in supporting \nnational reforms and upholding values of justice, human rights, equity and gender equality,\nthrough coordinated multisectoral approaches that facilitate systemic reforms."
-            },
-            {
-                "Relation": "include",
-                "Subject": "Those",
-                "Object": "women",
-                "Description": "Those left behind include women, children from low-income households, single parent \nhouseholds, persons with disabilities, the Roma and Egyptian communities, refugees, \nmigrants, isolated rural communities, the elderly and bisexual, transgender, queer and \nintersex persons."
-            },
-            {
-                "Relation": "target",
-                "Subject": "UNDP",
-                "Object": "groups",
-                "Description": "Through a portfolio approach, UNDP will target these \ngroups and increase social cohesion and social protection, in partnership with national and \nlocal governments, United Nations agencies and civil society."
-            },
-            {
-                "Relation": "include",
-                "Subject": "offer",
-                "Object": "innovation",
-                "Description": "The UNDP integration offer includes innovation, thematic expertise and financing for\nrenewables and energy efficiency in line with Government\u2019s plans to provide safe, affordable \nand clean energy to citizens; and for raising the national ambitions to combat climate change \nand increase resilience to natural and human-induced risks."
-            },
-            {
-                "Relation": "promote",
-                "Subject": "UNDP",
-                "Object": "solutions",
-                "Description": "UNDP will promote nature-based \nsolutions to climate change adaptation and mitigation, not only tackling the climate crisis, \ninequality, poverty and food insecurity, but also providing incentives for new jobs in the \nmaritime, blue and eco-circular economies."
-            },
-            {
-                "Relation": "implement",
-                "Subject": "\n",
-                "Object": "programmes",
-                "Description": "Partnering with United Nations agencies, UNDP \nwill implement programmes on a green circular economy and sustainable economic \ndevelopment."
-            },
-            {
-                "Relation": "promote",
-                "Subject": "UNDP",
-                "Object": "cooperation",
-                "Description": "To the \nextent possible, UNDP will promote South-South and triangular cooperation in support of \nthese efforts."
-            },
-            {
-                "Relation": "reach",
-                "Subject": "report",
-                "Object": "consensus",
-                "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
-            },
-            {
-                "Relation": "reflect",
-                "Subject": "programme",
-                "Object": "priorities",
-                "Description": "This country programme reflects the country\u2019s development priorities as articulated in \nthe NSDI and the UNSDCF 2022-2026."
-            },
-            {
-                "Relation": "assist",
-                "Subject": "UNDP",
-                "Object": "country",
-                "Description": "Specifically, \nUNDP will assist the country in the three main areas described below."
-            },
-            {
-                "Relation": "need",
-                "Subject": "Albania",
-                "Object": "functioning",
-                "Description": "Albania needs well-functioning,\nfully operational and funded social inclusion and protection policies."
-            },
-            {
-                "Relation": "ensure",
-                "Subject": "UNDP",
-                "Object": "engagement",
-                "Description": "With United Nations agencies, UNDP will ensure civic engagement and capacities for \ndialogue and implementation of social care plans."
-            },
-            {
-                "Relation": "generate",
-                "Subject": "COVID-19",
-                "Object": "sense",
-                "Description": "17. COVID-19 generated a sense of urgency to operationalize national policies, strengthen \nlocal government capacities and design and fund inclusive, gender-responsive and evidence\u0002based services."
-            },
-            {
-                "Relation": "expand",
-                "Subject": "UNDP",
-                "Object": "services",
-                "Description": "To reach those most left behind, UNDP will expand services at municipal \nand national levels in education, health, social care, employment, vocational training and \nhousing."
-            },
-            {
-                "Relation": "continue",
-                "Subject": "UNDP",
-                "Object": "investments",
-                "Description": "UNDP, with the European Union, will continue investments in the education sector\naffected by the 2019 earthquake, adopting European Union standards and expanding \ninformation and communication technology measures as a post-COVID-19 recovery \nstrategy."
-            },
-            {
-                "Relation": "lead",
-                "Subject": "UNDP",
-                "Object": "implementation",
-                "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "policies",
-                "Description": "UNDP will support policies that accelerate an inclusive, productive and sustainable \neconomy, enhance climate resilience and adaptation planning, and transition into a clean \ngreen economy, in line with the Government\u2019s national strategies."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "industries",
-                "Description": "UNDP will support industries to become more energy-efficient,\nincrease the potential of the forestry sector for removal of greenhouse gasses, and support \nthe country\u2019s green growth trajectory."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "promotion",
-                "Description": "UNDP will support promotion of nature-based tourism \nthat sustains livelihoods and protected areas, while improving ecosystem services and \nfinancial sustainability."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "entities",
-                "Description": "UNDP will support entities to have improved systems and capacities to design and \nimplement innovative policies, particularly in relation to qualitative skills development that \npromotes a digital economy, entrepreneurship and competitive green businesses."
-            },
-            {
-                "Relation": "consolidate",
-                "Subject": "UNDP",
-                "Object": "reforms",
-                "Description": "UNDP will consolidate reforms, strengthen capacities, address skills mismatch and increase \nlabour force participation especially for women and young people, persons with disabilities, \nRoma and Egyptian communities and the long-term unemployed."
-            },
-            {
-                "Relation": "assist",
-                "Subject": "UNDP",
-                "Object": "Government",
-                "Description": "To contribute to a strengthened risk and disaster management system, UNDP will assist \nthe Government in driving policies and actions that focus on prevention and reduction of \ndisaster-related risks, increasing resilience of infrastructures, ecosystems and society, and \nenabling adaptive capacities, all as a means to reduce the long-term vulnerability of the \npopulation and protect development investments, particularly in at-risk areas."
-            },
-            {
-                "Relation": "remain",
-                "Subject": "strategies",
-                "Object": "priorities",
-                "Description": "Raising the national \nambition to combat climate change, increasing resilience to natural and human-induced risk, \nand gender-responsive disaster strategies remain priorities."
-            },
-            {
-                "Relation": "broaden",
-                "Subject": "UNDP",
-                "Object": "partnerships",
-                "Description": "UNDP will broaden partnerships for a stronger good governance framework, in \nline with the National Public Administration Reform Strategy."
-            },
-            {
-                "Relation": "foster",
-                "Subject": "UNDP",
-                "Object": "approach",
-                "Description": "UNDP will foster a citizen\u0002centred, gender-sensitive, inclusive approach, while further developing institutional\ncapacities in policymaking and implementation, promoting a culture of participation and \ndialogue for development, and increasing transparency, integrity and accountability."
-            },
-            {
-                "Relation": "build",
-                "Subject": "\n",
-                "Object": "capacities",
-                "Description": "Based \non its initial successful experiences in rolling out integrity planning in municipalities, UNDP \nwill build national capacities to bring to scale and monitor this initiative."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "services",
-                "Description": "UNDP will support integrated citizen-centred services and further \nexpand municipal one-stop-shop networks to reach remote, mostly rural areas."
-            },
-            {
-                "Relation": "support",
-                "Subject": "programme",
-                "Object": "availability",
-                "Description": "The programme will support data availability and a more data-driven culture for\nstrengthened sectoral analysis, evidence-based policymaking and promotion of a culture of \naccountability and performance assessment."
-            },
-            {
-                "Relation": "include",
-                "Subject": "analysis",
-                "Object": "focus",
-                "Description": "Policy analysis and formulation will include a \ngender equality focus and gender-disaggregated data."
-            },
-            {
-                "Relation": "engage",
-                "Subject": "UNDP",
-                "Object": "champions",
-                "Description": "UNDP will engage gender champions \nand support increased civic engagement and dialogue platforms."
-            },
-            {
-                "Relation": "outline",
-                "Subject": "document",
-                "Object": "contributions",
-                "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
-            },
-            {
-                "Relation": "impact",
-                "Subject": "changes",
-                "Object": "policies",
-                "Description": "Possible changes in the process and requirements for European Union accession may impact \nnational development policies."
-            },
-            {
-                "Relation": "impact",
-                "Subject": "hazards",
-                "Object": "ability",
-                "Description": "Natural or man-made hazards, with insufficient institutional \nand local preparedness to respond, can impact the ability of UNDP to support Albania in \ndelivering its development priorities."
-            },
-            {
-                "Relation": "demonstrate",
-                "Subject": "This",
-                "Object": "linkage",
-                "Description": "This demonstrates a clear linkage between the support \nprovided by UNDP, the programme outcomes and sustainable development results."
-            },
-            {
-                "Relation": "learn",
-                "Subject": "practices",
-                "Object": "advice",
-                "Description": "Ethical practices and lessons \nlearned shape policy advice, advocacy and project design and implementation."
-            },
-            {
-                "Relation": "employ",
-                "Subject": "UNDP",
-                "Object": "systems",
-                "Description": "UNDP will employ national monitoring systems, official statistical data and reports \nfrom line ministries, development partners and research institutions to measure its \ncontribution to national results."
-            },
-            {
-                "Relation": "receive",
-                "Subject": "Office",
-                "Object": "support",
-                "Description": "The National Statistical Office and other partners will \nreceive support to continue improving data quality."
-            },
-            {
-                "Relation": "reinforce",
-                "Subject": "programme",
-                "Object": "tools",
-                "Description": "The \nprogramme will reinforce innovative tools to manage data collection and analysis at the \ncountry programme outcome and output levels."
-            }
-        ]
+        "relations": {
+            "ALB": [
+                {
+                    "Relation": "alb",
+                    "Object": "cpd",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "alb",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "undp",
+                    "Description": "The summary7 of the previous country programme\u2019s performance concluded that \nUNDP support to development remains highly relevant in Albania."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "alb",
+                    "Description": "The summary7 of the previous country programme\u2019s performance concluded that \nUNDP support to development remains highly relevant in Albania."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "the european union",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "undp",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "european union",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "the european union civil protection mechanism",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "alb",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "alb",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "Natural or man-made hazards, with insufficient institutional \nand local preparedness to respond, can impact the ability of UNDP to support Albania in \ndelivering its development priorities."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "alb",
+                    "Description": "Natural or man-made hazards, with insufficient institutional \nand local preparedness to respond, can impact the ability of UNDP to support Albania in \ndelivering its development priorities."
+                }
+            ],
+            "Gender": [
+                {
+                    "Relation": "supporting",
+                    "Object": "undp",
+                    "Description": "This country programme reflects the comparative advantages of UNDP in supporting \nnational reforms and upholding values of justice, human rights, equity and gender equality,\nthrough coordinated multisectoral approaches that facilitate systemic reforms."
+                },
+                {
+                    "Relation": "supporting",
+                    "Object": "gender",
+                    "Description": "This country programme reflects the comparative advantages of UNDP in supporting \nnational reforms and upholding values of justice, human rights, equity and gender equality,\nthrough coordinated multisectoral approaches that facilitate systemic reforms."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "alb",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "underpinned",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "underpinned",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "foster",
+                    "Object": "undp",
+                    "Description": "UNDP will foster a citizen\u0002centred, gender-sensitive, inclusive approach, while further developing institutional\ncapacities in policymaking and implementation, promoting a culture of participation and \ndialogue for development, and increasing transparency, integrity and accountability."
+                },
+                {
+                    "Relation": "foster",
+                    "Object": "gender",
+                    "Description": "UNDP will foster a citizen\u0002centred, gender-sensitive, inclusive approach, while further developing institutional\ncapacities in policymaking and implementation, promoting a culture of participation and \ndialogue for development, and increasing transparency, integrity and accountability."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP will continue to work towards ending all forms of \ndomestic, sexual and gender-based violence and unfavourable social norms and gender \nstereotypes, supporting coordinated referral mechanisms and integrated services, safe \naccommodation and accessible emergency and specialized support."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "gender",
+                    "Description": "UNDP will continue to work towards ending all forms of \ndomestic, sexual and gender-based violence and unfavourable social norms and gender \nstereotypes, supporting coordinated referral mechanisms and integrated services, safe \naccommodation and accessible emergency and specialized support."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage gender champions \nand support increased civic engagement and dialogue platforms."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "gender",
+                    "Description": "UNDP will engage gender champions \nand support increased civic engagement and dialogue platforms."
+                }
+            ],
+            "the European Union": [
+                {
+                    "Relation": "attain",
+                    "Object": "united nations",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "the european union",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "alb",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                }
+            ],
+            "United Nations": [
+                {
+                    "Relation": "trusted",
+                    "Object": "undp",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "the sustainable development goals",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "the sustainable development goal",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "united nations",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "united nations",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "united nations",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "target",
+                    "Object": "undp",
+                    "Description": "Through a portfolio approach, UNDP will target these \ngroups and increase social cohesion and social protection, in partnership with national and \nlocal governments, United Nations agencies and civil society."
+                },
+                {
+                    "Relation": "target",
+                    "Object": "united nations",
+                    "Description": "Through a portfolio approach, UNDP will target these \ngroups and increase social cohesion and social protection, in partnership with national and \nlocal governments, United Nations agencies and civil society."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nUnited Nations agencies on joint programmes related to leaving no one behind, strategic \npolicy options for Sustainable Development Goal financing and ending violence against \nwomen."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "united nations",
+                    "Description": "UNDP will partner with \nUnited Nations agencies on joint programmes related to leaving no one behind, strategic \npolicy options for Sustainable Development Goal financing and ending violence against \nwomen."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "undp",
+                    "Description": "UNDP will work on the quality of services and rule of law, in \nclose collaboration with United Nations partners."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "UNDP will work on the quality of services and rule of law, in \nclose collaboration with United Nations partners."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "undp",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "united nations",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in joint Government\u2013United Nations coordination mechanisms."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in joint Government\u2013United Nations coordination mechanisms."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "supporting",
+                    "Object": "undp",
+                    "Description": "This country programme reflects the comparative advantages of UNDP in supporting \nnational reforms and upholding values of justice, human rights, equity and gender equality,\nthrough coordinated multisectoral approaches that facilitate systemic reforms."
+                },
+                {
+                    "Relation": "supporting",
+                    "Object": "gender",
+                    "Description": "This country programme reflects the comparative advantages of UNDP in supporting \nnational reforms and upholding values of justice, human rights, equity and gender equality,\nthrough coordinated multisectoral approaches that facilitate systemic reforms."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "undp",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "united nations",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goals",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goal",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "united nations",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "undp",
+                    "Description": "The summary7 of the previous country programme\u2019s performance concluded that \nUNDP support to development remains highly relevant in Albania."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "alb",
+                    "Description": "The summary7 of the previous country programme\u2019s performance concluded that \nUNDP support to development remains highly relevant in Albania."
+                },
+                {
+                    "Relation": "target",
+                    "Object": "undp",
+                    "Description": "Through a portfolio approach, UNDP will target these \ngroups and increase social cohesion and social protection, in partnership with national and \nlocal governments, United Nations agencies and civil society."
+                },
+                {
+                    "Relation": "target",
+                    "Object": "united nations",
+                    "Description": "Through a portfolio approach, UNDP will target these \ngroups and increase social cohesion and social protection, in partnership with national and \nlocal governments, United Nations agencies and civil society."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nUnited Nations agencies on joint programmes related to leaving no one behind, strategic \npolicy options for Sustainable Development Goal financing and ending violence against \nwomen."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "united nations",
+                    "Description": "UNDP will partner with \nUnited Nations agencies on joint programmes related to leaving no one behind, strategic \npolicy options for Sustainable Development Goal financing and ending violence against \nwomen."
+                },
+                {
+                    "Relation": "focus",
+                    "Object": "the western balkan regional economic area",
+                    "Description": "UNDP \nwill focus on integrated solutions that address cross-cutting problems, i.e., identifying nature\u0002based solutions that support the transition to a clean green economy, promote ecotourism and \ncreate new jobs in competitive sectors within the Western Balkan Regional Economic Area."
+                },
+                {
+                    "Relation": "focus",
+                    "Object": "undp",
+                    "Description": "UNDP \nwill focus on integrated solutions that address cross-cutting problems, i.e., identifying nature\u0002based solutions that support the transition to a clean green economy, promote ecotourism and \ncreate new jobs in competitive sectors within the Western Balkan Regional Economic Area."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "undp",
+                    "Description": "UNDP will work on the quality of services and rule of law, in \nclose collaboration with United Nations partners."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "UNDP will work on the quality of services and rule of law, in \nclose collaboration with United Nations partners."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "undp",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "alb",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "south-south",
+                    "Description": "To the \nextent possible, UNDP will promote South-South and triangular cooperation in support of \nthese efforts."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "To the \nextent possible, UNDP will promote South-South and triangular cooperation in support of \nthese efforts."
+                },
+                {
+                    "Relation": "underpinned",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "underpinned",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "european union",
+                    "Description": "In addition, it is aligned with the UNDP Strategic \nPlan and contributes to different European Union acquis chapters.\n"
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "In addition, it is aligned with the UNDP Strategic \nPlan and contributes to different European Union acquis chapters.\n"
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "undp",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "united nations",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "the united nations",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "broaden",
+                    "Object": "the national public administration reform strategy",
+                    "Description": "UNDP will broaden partnerships for a stronger good governance framework, in \nline with the National Public Administration Reform Strategy."
+                },
+                {
+                    "Relation": "broaden",
+                    "Object": "undp",
+                    "Description": "UNDP will broaden partnerships for a stronger good governance framework, in \nline with the National Public Administration Reform Strategy."
+                },
+                {
+                    "Relation": "foster",
+                    "Object": "undp",
+                    "Description": "UNDP will foster a citizen\u0002centred, gender-sensitive, inclusive approach, while further developing institutional\ncapacities in policymaking and implementation, promoting a culture of participation and \ndialogue for development, and increasing transparency, integrity and accountability."
+                },
+                {
+                    "Relation": "foster",
+                    "Object": "gender",
+                    "Description": "UNDP will foster a citizen\u0002centred, gender-sensitive, inclusive approach, while further developing institutional\ncapacities in policymaking and implementation, promoting a culture of participation and \ndialogue for development, and increasing transparency, integrity and accountability."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP will continue to work towards ending all forms of \ndomestic, sexual and gender-based violence and unfavourable social norms and gender \nstereotypes, supporting coordinated referral mechanisms and integrated services, safe \naccommodation and accessible emergency and specialized support."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "gender",
+                    "Description": "UNDP will continue to work towards ending all forms of \ndomestic, sexual and gender-based violence and unfavourable social norms and gender \nstereotypes, supporting coordinated referral mechanisms and integrated services, safe \naccommodation and accessible emergency and specialized support."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage gender champions \nand support increased civic engagement and dialogue platforms."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "gender",
+                    "Description": "UNDP will engage gender champions \nand support increased civic engagement and dialogue platforms."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "cpd",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "undp",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in joint Government\u2013United Nations coordination mechanisms."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in joint Government\u2013United Nations coordination mechanisms."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "Natural or man-made hazards, with insufficient institutional \nand local preparedness to respond, can impact the ability of UNDP to support Albania in \ndelivering its development priorities."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "alb",
+                    "Description": "Natural or man-made hazards, with insufficient institutional \nand local preparedness to respond, can impact the ability of UNDP to support Albania in \ndelivering its development priorities."
+                }
+            ],
+            "the Sustainable Development Goals": [
+                {
+                    "Relation": "trusted",
+                    "Object": "the sustainable development goals",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goals",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "united nations",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "european union",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "the sustainable development goals",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "alb",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                }
+            ],
+            "the United Nations": [
+                {
+                    "Relation": "reached",
+                    "Object": "the united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goals",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "the united nations",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                },
+                {
+                    "Relation": "lead",
+                    "Object": "undp",
+                    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 \nsocioeconomic recovery plan."
+                }
+            ],
+            "UNSDCF": [
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                }
+            ],
+            "European Union": [
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "united nations",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "european union",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "the sustainable development goals",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "the sustainable development goal",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "european union",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "alb",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "european union",
+                    "Description": "In addition, it is aligned with the UNDP Strategic \nPlan and contributes to different European Union acquis chapters.\n"
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "In addition, it is aligned with the UNDP Strategic \nPlan and contributes to different European Union acquis chapters.\n"
+                }
+            ],
+            "the Western Balkan Regional Economic Area": [
+                {
+                    "Relation": "focus",
+                    "Object": "the western balkan regional economic area",
+                    "Description": "UNDP \nwill focus on integrated solutions that address cross-cutting problems, i.e., identifying nature\u0002based solutions that support the transition to a clean green economy, promote ecotourism and \ncreate new jobs in competitive sectors within the Western Balkan Regional Economic Area."
+                },
+                {
+                    "Relation": "focus",
+                    "Object": "undp",
+                    "Description": "UNDP \nwill focus on integrated solutions that address cross-cutting problems, i.e., identifying nature\u0002based solutions that support the transition to a clean green economy, promote ecotourism and \ncreate new jobs in competitive sectors within the Western Balkan Regional Economic Area."
+                }
+            ],
+            "the European Union Civil Protection Mechanism": [
+                {
+                    "Relation": "positioning",
+                    "Object": "the european union civil protection mechanism",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                },
+                {
+                    "Relation": "positioning",
+                    "Object": "alb",
+                    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security\nand stability, and taking the initial steps to establish the national disaster risk management \nsystem as a requirement to join the European Union Civil Protection Mechanism, UNDP will \ncontinue to promote knowledge-sharing and relevant practices across the subregion."
+                }
+            ],
+            "South-South": [
+                {
+                    "Relation": "promote",
+                    "Object": "south-south",
+                    "Description": "To the \nextent possible, UNDP will promote South-South and triangular cooperation in support of \nthese efforts."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "To the \nextent possible, UNDP will promote South-South and triangular cooperation in support of \nthese efforts."
+                }
+            ],
+            "The Sustainable Development Goal": [
+                {
+                    "Relation": "trusted",
+                    "Object": "the sustainable development goal",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goal",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "trusted",
+                    "Object": "united nations",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "Drawing on \nits reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable \nDevelopment and trusted impartial partner, UNDP will continue to liaise with the \nGovernment, donors and international institutions to mobilize financing to support economic \ntransformation and eradication of multidimensional poverty; and establish systems that \naddress risks, disasters and social injustice within the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "the sustainable development goal",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "european union",
+                    "Description": "Economic growth is too low to converge with European Union living standards and \nachieve the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "the sustainable development goal",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "alb",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "centred",
+                    "Object": "gender",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                },
+                {
+                    "Relation": "reached",
+                    "Object": "the united nations",
+                    "Description": "The report of the United Nations mainstreaming, acceleration and policy support \nmission to Albania and the United Nations country team reached consensus on three highly \neffective solutions for policy and programming to accelerate progress towards European \nUnion accession and achieve the Sustainable Development Goals: (a) human capital \ndevelopment and social inclusion; (b) sustainable, resilient and green economic growth and \nresource management; (c) effective, people-centred governance, human rights, rule of law \nand gender equality."
+                }
+            ],
+            "the National Public Administration Reform Strategy": [
+                {
+                    "Relation": "broaden",
+                    "Object": "the national public administration reform strategy",
+                    "Description": "UNDP will broaden partnerships for a stronger good governance framework, in \nline with the National Public Administration Reform Strategy."
+                },
+                {
+                    "Relation": "broaden",
+                    "Object": "undp",
+                    "Description": "UNDP will broaden partnerships for a stronger good governance framework, in \nline with the National Public Administration Reform Strategy."
+                }
+            ],
+            "CPD": [
+                {
+                    "Relation": "alb",
+                    "Object": "cpd",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "alb",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: CPD\n"
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "cpd",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "undp",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "the executive board",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                }
+            ],
+            "the Executive Board": [
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "the executive board",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "outlines",
+                    "Object": "cpd",
+                    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national \nresults and serves as the primary unit of accountability to the Executive Board for results \nalignment and resources assigned to the programme at country level."
+                }
+            ]
+        }
     }
 }

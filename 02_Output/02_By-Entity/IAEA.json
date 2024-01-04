@@ -1,14 +1,35 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "IAEA",
-        "relations": [
-            {
-                "Relation": "create",
-                "Subject": "IRENA",
-                "Object": "tool",
-                "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "IAEA": [
+                {
+                    "Relation": "created",
+                    "Object": "iaea",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "west",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "africa",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "mme",
+                    "Description": "The \nfirst phase of development of a regional \nnuclear programme is in progress and has \nthe assistance of the IAEA."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "iaea",
+                    "Description": "The \nfirst phase of development of a regional \nnuclear programme is in progress and has \nthe assistance of the IAEA."
+                }
+            ]
+        }
     }
 }

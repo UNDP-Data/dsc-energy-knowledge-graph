@@ -1,62 +1,445 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "State",
-        "relations": [
-            {
-                "Relation": "lead",
-                "Subject": "companies",
-                "Object": "finance",
-                "Description": "State-backed companies have primar\u0002ily led finance and investment in the \nenergy sector."
-            },
-            {
-                "Relation": "cost",
-                "Subject": "challenges",
-                "Object": "State",
-                "Description": "Security challenges cost the State 17 per cent and \n22.1 per cent of its budgetary resources in 2021 and 2022, respectively, severely constraining \ninvestments in the productive sector."
-            },
-            {
-                "Relation": "expand",
-                "Subject": "UNDP",
-                "Object": "offer",
-                "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
-            },
-            {
-                "Relation": "prioritize",
-                "Subject": "UNDP",
-                "Object": "security",
-                "Description": "In response to the national policy on modernization of government services for a more \neffective civil service and transformed State structure, UNDP will prioritize the security of \nterritories through a mutual security and civilian coordination mechanism and funding."
-            },
-            {
-                "Relation": "involve",
-                "Subject": "approach",
-                "Object": "States",
-                "Description": "At the European level a proactive approach involves all Member States in promoting a concerted \ninternational response to climate change."
-            },
-            {
-                "Relation": "develop",
-                "Subject": "Agency",
-                "Object": "legislation",
-                "Description": "#National Agency of Natural Resources (AKBN)\n\u25cf Develop and implement clear demarcation between agencies as to who is responsible \nfor energy sector planning and statistics if EU compliance is to be assured;\n\u25cf Develop secondary legislation for the collection of energy data in general and oil \nproducts in particular, including MOS (Monthly Oil Statistics) questionnaire;\n\u25cf Internal discussions within MIE should focus on increasing the professional expertise \nof the AKBN as the basis for the Technical Department, with contributions from the \nContract negotiations unit as well;\n#State Technical and Industry Inspectorate\n"
-            },
-            {
-                "Relation": "show",
-                "Subject": "Table",
-                "Object": "types",
-                "Description": "Table 8 shows the types of incentives that have been implemented by EU \nMember States in order to help achieve the targets set up in their various NEEAPs."
-            },
-            {
-                "Relation": "describe",
-                "Subject": "database",
-                "Object": "measures",
-                "Description": "States database describes both the measures and statistical evidence of how well the measures have \nperformed."
-            },
-            {
-                "Relation": "secure",
-                "Subject": "Fund",
-                "Object": "fund",
-                "Description": "In addition, the EE Fund will secure an initial fund from the State Budget based \non the State Budget Law."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "State": [
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "the united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "state",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "fdi",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "state",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "mme",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "state",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "rural",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "rra",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "the dutch cooperation",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "undp",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "the stabilization facility",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "un",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "un",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "state",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "southern maradi",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "the united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "state",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "fdi",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "state",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "mme",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "state",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "rural",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "rra",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "the dutch cooperation",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "undp",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "the stabilization facility",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "un",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "un",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "state",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "southern maradi",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "the united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "state",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "fdi",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "state",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "co",
+                    "Object": "mme",
+                    "Description": "During the \noperational phase, investors are \ncompletely exempt from:\n\u2022\t Licence\n\u2022\t Property tax or estate tax\n\u2022\t Tax on industrial and commercial prof\u0002its and the minimum tax\nCategory B (also known as the prior\u0002ity category) is for investments of \nUSD 200,000-1,000,000."
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "state",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "rural",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "rra",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "the dutch cooperation",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "had",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "undp",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "the stabilization facility",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "un",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "stem",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "strengthening",
+                    "Object": "state",
+                    "Description": "UNDP comparative advantages stem from its strategic positioning, trust generated during \nprevious programming cycles, and ongoing investments at the central and decentralized levels\nto strengthen systems and policies, such as the development of national and subnational SDG\nplans, reforms for the modernization of the State, and electoral reform; strengthening the peace \nand security architecture, the Stabilization Facility, and rural development; reinforcing local \ngovernment institutions; and strengthening data collection and analysis to inform decision\u0002making on inequalities, violence against women and the impact of COVID-19."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "un",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "state",
+                    "Description": "Given its decades-long experience supporting local governance in the hinterlands and key \nnational governance institutions, UNDP will expand its governance offer to help strengthen \nthe social contract between the people and the State, stabilize communities, and build\nresilience, particularly in borderlands and rural areas."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "southern maradi",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                }
+            ]
+        }
     }
 }

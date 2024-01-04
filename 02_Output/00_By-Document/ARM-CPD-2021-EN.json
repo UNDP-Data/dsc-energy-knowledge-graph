@@ -3,23 +3,7 @@
     "knowledge graph": {
         "entities": [
             {
-                "entity": "UN Country",
-                "category": "Organization"
-            },
-            {
-                "entity": "the Southern Caucasus",
-                "category": "Organization"
-            },
-            {
-                "entity": "HDI",
-                "category": "Organization"
-            },
-            {
                 "entity": "Nagorno-Karabakh",
-                "category": "Organization"
-            },
-            {
-                "entity": "Syunik",
                 "category": "Organization"
             },
             {
@@ -75,22 +59,6 @@
                 "category": "Organization"
             },
             {
-                "entity": "the Human Rights Defender",
-                "category": "Organization"
-            },
-            {
-                "entity": "The Adaptation Fund",
-                "category": "Organization"
-            },
-            {
-                "entity": "the Green Climate Fund",
-                "category": "Organization"
-            },
-            {
-                "entity": "cross\u0002practice",
-                "category": "Organization"
-            },
-            {
                 "entity": "the Executive Board",
                 "category": "Organization"
             },
@@ -99,331 +67,604 @@
                 "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "impact",
-                "Subject": "Disparities",
-                "Object": "resilience",
-                "Description": "Disparities between urban and rural areas, gender \ninequality, outward migration and high climate change exposure further impact the country\u2019s \nresilience, competitiveness and well-being."
-            },
-            {
-                "Relation": "cause",
-                "Subject": "hostilities",
-                "Object": "displacement",
-                "Description": "The recent large-scale military hostilities in the Nagorno-Karabakh conflict area caused a \nmassive displacement from Nagorno-Karabakh to Armenia."
-            },
-            {
-                "Relation": "lose",
-                "Subject": "thousands",
-                "Object": "homes",
-                "Description": "Tens of thousands of them lost \ntheir homes and productive assets."
-            },
-            {
-                "Relation": "leave",
-                "Subject": "escalation",
-                "Object": "impact",
-                "Description": "The escalation has also left a significant impact on border \ncommunities, particularly in Syunik and Tavush regions of Armenia."
-            },
-            {
-                "Relation": "undergo",
-                "Subject": "Armenia",
-                "Object": "transformation",
-                "Description": "Armenia has undergone a profound transformation since independence, including after \nthe peaceful transition of power in 2018 which triggered renewed commitments to a human\u0002centred governance system, investments in human capital and the realization of the human \nrights agenda."
-            },
-            {
-                "Relation": "play",
-                "Subject": "UNDP",
-                "Object": "role",
-                "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
-            },
-            {
-                "Relation": "undergo",
-                "Subject": "UNDP",
-                "Object": "review",
-                "Description": "UNDP underwent a sense-making review in 2020 to identify coherent cross-portfolio \nareas for action."
-            },
-            {
-                "Relation": "include",
-                "Subject": "Examples",
-                "Object": "nexus",
-                "Description": "Examples include the nexus of education, technology, inclusion and jobs, \nparticularly for women in science, technology, engineering and mathematics; innovative \napproaches to public service delivery; and participatory democracy, active citizenship, youth \nempowerment and citizen engagement."
-            },
-            {
-                "Relation": "support",
-                "Subject": "programme",
-                "Object": "pillars",
-                "Description": "The country programme will support all three pillars of the United Nations Sustainable \nDevelopment Cooperation Framework (UNSDCF): (a) people\u2019s well-being and capabilities; \n(b) green, sustainable and inclusive economic development; and (c) responsive and effective \ngovernance."
-            },
-            {
-                "Relation": "address",
-                "Subject": "UNDP",
-                "Object": "poverty",
-                "Description": "Particularly, UNDP will address multidimensional poverty by building a deeper \nand more holistic understanding of what poverty and vulnerability mean in the post\u0002COVID-19, conflict reality and work across sectors to address the deprivations that leave \npeople behind."
-            },
-            {
-                "Relation": "unpack",
-                "Subject": "snapshots",
-                "Object": "priorities",
-                "Description": "Regular human development snapshots will unpack emerging priorities, \ndrawing attention of policymakers through white papers and provoking public discourse \nthrough awareness-raising."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "planning",
-                "Description": "UNDP will support the Government\u2019s future-proof strategic \nplanning by embedding foresight and scenario design at national and subnational levels, \nincluding in crisis preparedness."
-            },
-            {
-                "Relation": "include",
-                "Subject": "advantages",
-                "Object": "ability",
-                "Description": "The comparative advantages of UNDP include the ability to collect,\nmanage and analyse data and leverage digital solutions and innovative approaches to help \nthe country transition towards risk-informed and evidence-based development."
-            },
-            {
-                "Relation": "play",
-                "Subject": "UNDP",
-                "Object": "role",
-                "Description": "UNDP plays an important role in joint programming and implementation in Armenia."
-            },
-            {
-                "Relation": "influence",
-                "Subject": "platforms",
-                "Object": "\n",
-                "Description": "The platforms have influenced the UNDP approach\nto innovation globally and efforts to scale this approach will be further explored during this \nprogramme cycle through South-South and/or triangular cooperation."
-            },
-            {
-                "Relation": "become",
-                "Subject": "Armenia",
-                "Object": "cohesive",
-                "Description": "The vision for the country programme is for Armenia to become a more cohesive, \ninclusive, just and resilient society supported by governance systems that use evidence, \ncitizen-centred innovation and partnerships to ensure social, economic and environmental \nsustainability and prosperity for all."
-            },
-            {
-                "Relation": "exacerbate",
-                "Subject": "crisis",
-                "Object": "issues",
-                "Description": "The compound crisis has exacerbated issues in Armenian society that limit potential, \ncompetitiveness and capabilities at both individual and institutional levels."
-            },
-            {
-                "Relation": "focus",
-                "Subject": "UNDP",
-                "Object": "\n",
-                "Description": "UNDP will focus \non a more future-oriented and integrated way of helping to shape and realize a new narrative \nfor Armenia."
-            },
-            {
-                "Relation": "mean",
-                "Subject": "This",
-                "Object": "focus",
-                "Description": "This means an increased focus on understanding and tackling pre-existing and \nemerging vulnerabilities and risks in the crisis setting and an upper-middle-income context, \nmany of which were revealed by the socioeconomic impact assessment of COVID-19."
-            },
-            {
-                "Relation": "support",
-                "Subject": "UNDP",
-                "Object": "Armenia",
-                "Description": "UNDP will support Armenia to reimagine and evolve its governance systems, making them \nmore agile, effective, service-oriented and shock-resilient, underpinned by a strong civic\nculture and linked to real investments in human capital development."
-            },
-            {
-                "Relation": "entail",
-                "Subject": "pathway",
-                "Object": "initiatives",
-                "Description": "The pathway to sustainable and inclusive socioeconomic development will entail \ninitiatives that promote early recovery and community resilience, including in border \ncommunities, targeting the most vulnerable groups such as war veterans, persons affected by \nconflict, women and children."
-            },
-            {
-                "Relation": "contribute",
-                "Subject": "UNDP",
-                "Object": "\n",
-                "Description": "UNDP will contribute \nto increasing competitiveness and connectivity in Armenia, thus helping to mitigate negative\nmigration trends."
-            },
-            {
-                "Relation": "expand",
-                "Subject": "UNDP",
-                "Object": "work",
-                "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
-            },
-            {
-                "Relation": "include",
-                "Subject": "Support",
-                "Object": "transition",
-                "Description": "Support will include: (a) improving preparedness for socioeconomic and environmental \nshocks in rural communities and secondary cities; (b) the transition from subsistence \nagriculture to value addition, processing and precise agriculture using climate-smart, green \nand digital technologies, including irrigation systems; (c) investments in small and medium\u0002sized enterprises, local start-up initiatives and tourism development; (d) boosting \nentrepreneurship, especially for women, and facilitation of trade, investment and exports; \n(e) income-generation and employment initiatives, including rehabilitation and integration \ninto social and economic life for war veterans, wounded and disabled during the recent \nmilitary escalation in the Nagorno-Karabakh conflict area; and (f) the development of a \nfuture-proof labour market."
-            },
-            {
-                "Relation": "comprise",
-                "Subject": "pathway",
-                "Object": "efforts",
-                "Description": "The pathway to environmental \nsustainability and resilience will comprise efforts to mainstream environmental issues into \nnational and regional development processes, thus helping the country to transition into a \nlow-carbon, resource-efficient, resilient and socially-inclusive green economy that is able to \nadapt to and mitigate the effects of climate change."
-            },
-            {
-                "Relation": "require",
-                "Subject": "This",
-                "Object": "engagement",
-                "Description": "This will require all-of-society engagement, environmental education, behavioural \nchanges, new types of economic and fiscal instruments and public-private partnerships, \nincluding tapping the potential of the country\u2019s tech sector."
-            },
-            {
-                "Relation": "address",
-                "Subject": "UNDP",
-                "Object": "poverty",
-                "Description": "UNDP will address energy\npoverty and insecurity by investing in energy infrastructure, unlocking retrofit markets for \nenergy-efficient and renewable sources and facilitate access to international climate financing mechanisms for mitigation and adaptation, including through climate budgeting \nframeworks."
-            },
-            {
-                "Relation": "pay",
-                "Subject": "UNDP",
-                "Object": "attention",
-                "Description": "UNDP will pay particular \nattention to the environment-health nexus by mainstreaming a \u2018one-health approach\u2019 into \ncross-sectoral policies, financing and actions."
-            },
-            {
-                "Relation": "include",
-                "Subject": "pathway",
-                "Object": "efforts",
-                "Description": "The pathway to democratic governance and gender equality includes efforts that will \nhelp strengthen trust in governance systems and service delivery capacity in Armenia."
-            },
-            {
-                "Relation": "promote",
-                "Subject": "UNDP",
-                "Object": "making",
-                "Description": "UNDP will promote participatory decision-making; strengthen the notion of the citizen \nas the \u2018client\u2019 of public institutions; support access to education, learning and self-realization; \nsupport ambitious future-proof strategies which build on people\u2019s collective aspirations; and \nbuild social cohesion and help to foster a new social contract."
-            },
-            {
-                "Relation": "include",
-                "Subject": "This",
-                "Object": "creation",
-                "Description": "This includes the creation of psychosocial and economic support mechanisms and \nthe provision of medical care, particularly for war veterans."
-            },
-            {
-                "Relation": "promote",
-                "Subject": "UNDP",
-                "Object": "transformation",
-                "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
-            },
-            {
-                "Relation": "play",
-                "Subject": "Parliament",
-                "Object": "role",
-                "Description": "The Parliament will play a key \nrole, serving as an important platform for evidence-based policymaking and citizen \nengagement."
-            },
-            {
-                "Relation": "include",
-                "Subject": "This",
-                "Object": "efforts",
-                "Description": "This will include efforts to dismantle structural barriers and \npromote the leadership and wide participation of women and youth in decision-making and\nhelp the Government to ensure that its strategies, plans and programmes are gender\u0002responsive."
-            },
-            {
-                "Relation": "provide",
-                "Subject": "UNDP",
-                "Object": "solutions",
-                "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
-            },
-            {
-                "Relation": "pioneer",
-                "Subject": "UNDP",
-                "Object": "approach",
-                "Description": "Specifically, UNDP will \npioneer an innovative portfolio approach to the development of the country\u2019s secondary \ncities, using innovative practices for reimagined urban development."
-            },
-            {
-                "Relation": "create",
-                "Subject": "Government",
-                "Object": "links",
-                "Description": "UNDP will also work \nclosely with the Government to create links between policies, planning and budgeting \nprocesses and the Goals, and deploy innovative mechanisms to leverage partnerships and \nmultiple sources of development finance."
-            },
-            {
-                "Relation": "prioritize",
-                "Subject": "programme",
-                "Object": "co",
-                "Description": "The programme will prioritize co-designing a road map for an integrated national \nfinancing framework to help the Government mobilize the resources needed to realize \ndevelopment priorities."
-            },
-            {
-                "Relation": "initiate",
-                "Subject": "UNDP",
-                "Object": "dialogues",
-                "Description": "UNDP will initiate dialogues between the Government, the private \nsector and investors to provide a common understanding of financing and investments for \nthe Goals; stimulate innovative solutions through the implementation of impact acceleration \nprogrammes; and provide platforms for developing and piloting innovative financing tools \nsuch as \u2018pay for success\u2019 mechanisms or impact bonds."
-            },
-            {
-                "Relation": "be",
-                "Subject": "ownership",
-                "Object": "priorities",
-                "Description": "National and local ownership, diverse partnerships and deployment of local capacities \nwill be priorities."
-            },
-            {
-                "Relation": "expand",
-                "Subject": "UNDP",
-                "Object": "collaboration",
-                "Description": "UNDP will expand its collaboration with all branches of the Government,\nincluding through exploring government co-funding modalities, and seeking to enlarge its \nnetwork of civil society and development organizations, media, innovation centres, think\ntanks, universities, the private sector, diaspora organizations and others."
-            },
-            {
-                "Relation": "remain",
-                "Subject": "Fund",
-                "Object": "partners",
-                "Description": "The Adaptation Fund, the \nGlobal Environment Facility, the Green Climate Fund and other vertical multilateral funds \nwill remain critical partners, with a vision to scale up existing and introduce new \nprogramming areas in line with government priorities."
-            },
-            {
-                "Relation": "expand",
-                "Subject": "UNDP",
-                "Object": "portfolio",
-                "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
-            },
-            {
-                "Relation": "champion",
-                "Subject": "UNDP",
-                "Object": "South",
-                "Description": "UNDP will champion South-South and \ntriangular exchange, facilitating sharing of knowledge and experience on such topics as \ndisaster risk reduction, innovation and private sector development."
-            },
-            {
-                "Relation": "underpin",
-                "Subject": "thinking",
-                "Object": "work",
-                "Description": "Systems thinking will underpin this work, ensuring holistic \napproaches to complex problems."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "UNDP",
-                "Object": "procedures",
-                "Description": "To ensure agility and an effective response to underlying programmatic risks in Armenia, \nincluding the complex regional context, socioeconomic disparities, climate change and \nvulnerability to natural disasters such as earthquakes, UNDP will strengthen its procedures \nfor risk recognition, mitigation and diversification."
-            },
-            {
-                "Relation": "enhance",
-                "Subject": "UNDP",
-                "Object": "focus",
-                "Description": "In line with global priorities, UNDP will enhance its focus on thought leadership, \nstrengthening capabilities related to data and research, digital solutions, policy analysis and\ninnovative financial tools."
-            },
-            {
-                "Relation": "tap",
-                "Subject": "UNDP",
-                "Object": "potential",
-                "Description": "UNDP will tap the potential of volunteering, local and diaspora\u0002based expert networks, the private sector and inter-office exchanges as sources of skills and \nexpertise."
-            },
-            {
-                "Relation": "outline",
-                "Subject": "document",
-                "Object": "contributions",
-                "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
-            },
-            {
-                "Relation": "strengthen",
-                "Subject": "UNDP",
-                "Object": "policies",
-                "Description": "Drawing lessons from the independent country programme evaluation and country office \nevaluations, UNDP has strengthened its learning and adaptive management policies, thus \nbecoming a more agile and effective partner of choice."
-            },
-            {
-                "Relation": "result",
-                "Subject": "framework",
-                "Object": "frameworks",
-                "Description": "In addition to the results and resources \nframework and project result frameworks to monitor outputs and outcomes, the UNDP social \nand environmental standards and accountability mechanism will be used to identify, monitor \nand mitigate risks."
-            },
-            {
-                "Relation": "enhance",
-                "Subject": "UNDP",
-                "Object": "frameworks",
-                "Description": "In line with the recommendations of the independent country programme evaluation, \nUNDP has enhanced its monitoring and evaluation frameworks and staff capabilities and will \naim for higher-quality evaluations to inform programming and decision-making and promote \nlearning."
-            },
-            {
-                "Relation": "use",
-                "Subject": "UNDP",
-                "Object": "indicators",
-                "Description": "UNDP uses specific, measurable, achievable, relevant and time-bound indicators to \nmonitor outputs and results."
-            },
-            {
-                "Relation": "ensure",
-                "Subject": "management",
-                "Object": "reporting",
-                "Description": "Stronger results-based management, together with \ncommunication and outreach, will ensure more effective reporting on impact and partnership \nachievements."
-            }
-        ]
+        "relations": {
+            "Nagorno-Karabakh": [
+                {
+                    "Relation": "agreed",
+                    "Object": "the co-chairs",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "the organization for security and cooperation in europe",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "nagorno-karabakh",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                }
+            ],
+            "the Co-Chairs": [
+                {
+                    "Relation": "agreed",
+                    "Object": "the co-chairs",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "the nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                }
+            ],
+            "the Organization for Security and Cooperation in Europe": [
+                {
+                    "Relation": "agreed",
+                    "Object": "the organization for security and cooperation in europe",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "the nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "plays",
+                    "Object": "united nations",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "plays",
+                    "Object": "the resident coordinator",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "plays",
+                    "Object": "undp",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "the global policy network",
+                    "Description": "The UNDP national innovation platforms and the UNDP global networks\n(including the Global Policy Network and the accelerator labs) serve as important venues to \nleverage innovations, know-how and international expertise to achieve development \nbreakthroughs."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "undp",
+                    "Description": "The UNDP national innovation platforms and the UNDP global networks\n(including the Global Policy Network and the accelerator labs) serve as important venues to \nleverage innovations, know-how and international expertise to achieve development \nbreakthroughs."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "united nations",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "the resident coordinator",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "undp",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "In \nthe period 2021-2025, UNDP will work to create an integrated innovation platform as part \nof shifting to the next-generation UNDP, using its innovation platforms as internal service \nproviders to United Nations agencies and for exploratory and catalytic joint programming \nwith the Government and other partners."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "undp",
+                    "Description": "In \nthe period 2021-2025, UNDP will work to create an integrated innovation platform as part \nof shifting to the next-generation UNDP, using its innovation platforms as internal service \nproviders to United Nations agencies and for exploratory and catalytic joint programming \nwith the Government and other partners."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "south-south",
+                    "Description": "The platforms have influenced the UNDP approach\nto innovation globally and efforts to scale this approach will be further explored during this \nprogramme cycle through South-South and/or triangular cooperation."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "undp",
+                    "Description": "The platforms have influenced the UNDP approach\nto innovation globally and efforts to scale this approach will be further explored during this \nprogramme cycle through South-South and/or triangular cooperation."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "united nations",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "the united nations",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "undp",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "nagorno-karabakh",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "the nagorno-karabakh",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "the resident coordinator",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "champion",
+                    "Object": "south-south",
+                    "Description": "UNDP will champion South-South and \ntriangular exchange, facilitating sharing of knowledge and experience on such topics as \ndisaster risk reduction, innovation and private sector development."
+                },
+                {
+                    "Relation": "champion",
+                    "Object": "undp",
+                    "Description": "UNDP will champion South-South and \ntriangular exchange, facilitating sharing of knowledge and experience on such topics as \ndisaster risk reduction, innovation and private sector development."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                }
+            ],
+            "United Nations": [
+                {
+                    "Relation": "plays",
+                    "Object": "united nations",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "plays",
+                    "Object": "undp",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "united nations",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "undp",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "the resident coordinator",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "In \nthe period 2021-2025, UNDP will work to create an integrated innovation platform as part \nof shifting to the next-generation UNDP, using its innovation platforms as internal service \nproviders to United Nations agencies and for exploratory and catalytic joint programming \nwith the Government and other partners."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "undp",
+                    "Description": "In \nthe period 2021-2025, UNDP will work to create an integrated innovation platform as part \nof shifting to the next-generation UNDP, using its innovation platforms as internal service \nproviders to United Nations agencies and for exploratory and catalytic joint programming \nwith the Government and other partners."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "united nations",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "undp",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "the resident coordinator",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "united nations",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "united nations",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                }
+            ],
+            "the Resident Coordinator": [
+                {
+                    "Relation": "plays",
+                    "Object": "the resident coordinator",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "plays",
+                    "Object": "undp",
+                    "Description": "UNDP plays a key role in ensuring a coherent United Nations strategy for collective \nimpact, under the overall leadership and coordination of the Resident Coordinator."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "the resident coordinator",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "the resident coordinator",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "coordinated",
+                    "Object": "undp",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "work",
+                    "Object": "united nations",
+                    "Description": "Building on the socioeconomic/early recovery efforts of the United \nNations, technically led by UNDP and coordinated by the Resident Coordinator, UNDP will \nwork hand in hand with the Government, United Nations agencies, international financial \ninstitutions (IFIs) and other development partners to bring various mandates and experiences \ninto coherent actions that will help the country\u2019s recovery to be more resilient, more people\u0002centred and greener."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "the resident coordinator",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "united nations",
+                    "Description": "In line with the reform agenda of the \nUnited Nations, UNDP will expand its portfolio of inter-agency partnerships, especially \naround the issue-based coalitions on social protection, food security and environmental \nsustainability, with a focus on supporting cohesive and integrated United Nations action, \nunder the leadership of the Resident Coordinator."
+                }
+            ],
+            "the Global Policy Network": [
+                {
+                    "Relation": "including",
+                    "Object": "the global policy network",
+                    "Description": "The UNDP national innovation platforms and the UNDP global networks\n(including the Global Policy Network and the accelerator labs) serve as important venues to \nleverage innovations, know-how and international expertise to achieve development \nbreakthroughs."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "undp",
+                    "Description": "The UNDP national innovation platforms and the UNDP global networks\n(including the Global Policy Network and the accelerator labs) serve as important venues to \nleverage innovations, know-how and international expertise to achieve development \nbreakthroughs."
+                }
+            ],
+            "UNSDCF": [
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                }
+            ],
+            "South-South": [
+                {
+                    "Relation": "scale",
+                    "Object": "south-south",
+                    "Description": "The platforms have influenced the UNDP approach\nto innovation globally and efforts to scale this approach will be further explored during this \nprogramme cycle through South-South and/or triangular cooperation."
+                },
+                {
+                    "Relation": "scale",
+                    "Object": "undp",
+                    "Description": "The platforms have influenced the UNDP approach\nto innovation globally and efforts to scale this approach will be further explored during this \nprogramme cycle through South-South and/or triangular cooperation."
+                },
+                {
+                    "Relation": "champion",
+                    "Object": "south-south",
+                    "Description": "UNDP will champion South-South and \ntriangular exchange, facilitating sharing of knowledge and experience on such topics as \ndisaster risk reduction, innovation and private sector development."
+                },
+                {
+                    "Relation": "champion",
+                    "Object": "undp",
+                    "Description": "UNDP will champion South-South and \ntriangular exchange, facilitating sharing of knowledge and experience on such topics as \ndisaster risk reduction, innovation and private sector development."
+                }
+            ],
+            "the United Nations": [
+                {
+                    "Relation": "facilitate",
+                    "Object": "the united nations",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "facilitate",
+                    "Object": "undp",
+                    "Description": "UNDP is well positioned to facilitate a stronger engagement between the United Nations \nand the private sector and to leverage the wealth of human capital in the country."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "the united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                }
+            ],
+            "State": [
+                {
+                    "Relation": "provide",
+                    "Object": "state",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "the united nations",
+                    "Description": "In \nline with the reform of the United Nations development system, UNDP will provide \nintegrated policy and programme solutions; support the development of an integrated \necosystem for collection and analysis of data on the Goals; support the development of \nevidence-based policies and frameworks aligned to the Goals using state-of-the-art tools for \ndata collection, modelling and forecasting; and transfer knowledge, behavioural insights and \ninnovation to help pioneer new ways of \u2018doing development\u2019\u201d."
+                }
+            ],
+            "the Sustainable Development Goals": [
+                {
+                    "Relation": "continue",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "united nations",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                }
+            ],
+            "the Nagorno-Karabakh": [
+                {
+                    "Relation": "agreed",
+                    "Object": "the nagorno-karabakh",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "the co-chairs",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "agreed",
+                    "Object": "the organization for security and cooperation in europe",
+                    "Description": "The negotiated, comprehensive and sustainable settlement of all remaining core\nsubstantive issues of the Nagorno-Karabakh conflict, in line with the basic principles and \nelements within the framework of the internationally agreed format of the Co-Chairs of the \nMinsk Group of the Organization for Security and Cooperation in Europe, continues to shape \nthe humanitarian-development-peace nexus for the region, including Armenia."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "the nagorno-karabakh",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                },
+                {
+                    "Relation": "expand",
+                    "Object": "undp",
+                    "Description": "UNDP will further expand its work to strengthen livelihoods, promote a predictable, fair and \ncompetitive business environment and build social cohesion and resilience in areas affected \nby the Nagorno-Karabakh conflict."
+                }
+            ],
+            "Parliament": [
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                }
+            ],
+            "the Executive Board": [
+                {
+                    "Relation": "serves",
+                    "Object": "the executive board",
+                    "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+                },
+                {
+                    "Relation": "serves",
+                    "Object": "undp",
+                    "Description": "This country programme document outlines the UNDP contributions to national results \nand serves as the primary unit of accountability to the Executive Board for results alignment \nand resources assigned to the programme at country level."
+                }
+            ],
+            "ArmStat": [
+                {
+                    "Relation": "continue",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "armstat",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "undp",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "continue",
+                    "Object": "united nations",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                },
+                {
+                    "Relation": "upgrade",
+                    "Object": "the sustainable development goals",
+                    "Description": "UNDP, in collaboration with other United Nations agencies, will continue to support the \nStatistical Committee of Armenia (ArmStat) and other counterparts to upgrade government \nstatistical capacities, support the development of evidence-based policies and strategies and \nstrengthen analysis for tracking progress towards the Sustainable Development Goals and transformative changes on the ground, with particular emphasis on gender-disaggregated \nstatistics."
+                }
+            ]
+        }
     }
 }
