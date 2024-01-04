@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Households",
+        "relations": [
+            {
+                "Relation": "rely",
+                "Subject": "Households",
+                "Object": "needs",
+                "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+            }
+        ]
+    }
+}

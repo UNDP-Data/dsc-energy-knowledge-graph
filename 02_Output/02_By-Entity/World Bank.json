@@ -1,0 +1,32 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "World Bank",
+        "relations": [
+            {
+                "Relation": "prompt",
+                "Subject": "This",
+                "Object": "%",
+                "Description": "This has \nprompted 20% of Nigerien firms to acquire \ntheir own generators (World Bank, 2010)."
+            },
+            {
+                "Relation": "provide",
+                "Subject": "organizations",
+                "Object": "instruments",
+                "Description": "Development organizations \nsuch as the World Bank, ADB, and OPIC provide these instruments, with variations for \nrequired eligibility (OPIC\u2019s mechanisms are in place to aid US businesses)."
+            },
+            {
+                "Relation": "drive",
+                "Subject": "challenges",
+                "Object": "UNDP",
+                "Description": "Development financing challenges faced by Nigeria have driven UNDP to partner with the \ngovernment, European Union, International Monetary Fund (IMF), World Bank, and other primary \nstakeholders in supporting the development of a healthy financial ecosystem through an Integrated \nNational Financial Framework (INFF) and related economic policy reforms and institutional \nchanges."
+            },
+            {
+                "Relation": "deepen",
+                "Subject": "UNDP",
+                "Object": "partnerships",
+                "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Mechanisms",
+        "relations": [
+            {
+                "Relation": "enable",
+                "Subject": "Mechanisms",
+                "Object": "rates",
+                "Description": "Mechanisms and policy measures will enable higher activation rates for women and \nfamily members providing care services."
+            }
+        ]
+    }
+}

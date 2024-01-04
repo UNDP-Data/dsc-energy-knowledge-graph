@@ -1,0 +1,26 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "MDG",
+        "relations": [
+            {
+                "Relation": "leave",
+                "Subject": "This",
+                "Object": "gap",
+                "Description": "This leaves a water-related \nMDG target gap of 32%."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "Designing",
+                "Object": "projects",
+                "Description": "g. Designing and implementing pilot and demonstration projects that support \neither new technology or innovative concepts such as the Public-Private-People\u0002partnership, women entrepreneur led REN projects, REN projects to \nsupport MDGs and Post-2015 Development Agenda, roof-top projects on \ngovernment buildings."
+            },
+            {
+                "Relation": "lead",
+                "Subject": "Designing",
+                "Object": "projects",
+                "Description": "g. Designing and implementing pilot and demonstration projects that support \neither new technology or innovative concepts such as the Public-Private-People\u0002partnership, women entrepreneur led REN projects, REN projects to \nsupport MDGs and Post-2015 Development Agenda, roof-top projects on \ngovernment buildings."
+            }
+        ]
+    }
+}

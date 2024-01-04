@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "the IPP Aggreko",
+        "relations": [
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "NIGELEC",
+                "Description": "These include NIGELEC \nand SONICHAR, self-generators such as \nSORAZ and SOMINA and the IPP Aggreko."
+            }
+        ]
+    }
+}

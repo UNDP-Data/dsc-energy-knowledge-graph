@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "United Nations Children\u2019s Fund",
+        "relations": [
+            {
+                "Relation": "support",
+                "Subject": "partners",
+                "Object": "administration",
+                "Description": "Under priority 3, UNDP, with United Nations system partners (Office of the United \nNations High Commissioner for Refugees, United Nations Children\u2019s Fund, UN-Women, \nOffice of the High Commissioner for Human Rights) will support more effective public \nadministration and transparent and accountable governance."
+            }
+        ]
+    }
+}

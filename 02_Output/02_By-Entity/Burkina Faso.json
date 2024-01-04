@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Burkina Faso",
+        "relations": [
+            {
+                "Relation": "connect",
+                "Subject": "\n",
+                "Object": "Faso",
+                "Description": "This also \nconnects Burkina Faso via its left branch \nand Benin and Togo via its right."
+            }
+        ]
+    }
+}

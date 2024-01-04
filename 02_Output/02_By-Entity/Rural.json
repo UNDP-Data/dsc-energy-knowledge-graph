@@ -1,0 +1,50 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Rural",
+        "relations": [
+            {
+                "Relation": "face",
+                "Subject": "communi\u0002ties",
+                "Object": "challenge",
+                "Description": "Rural communi\u0002ties face a particular challenge."
+            },
+            {
+                "Relation": "centre",
+                "Subject": "\n",
+                "Object": "promotion",
+                "Description": "Rural electrification \nshould centre around two main implemen\u0002tation axes: \ni) promotion of the private sector as a \nmajor player in implementing rural \nelectrification programmes and \ncreation of the enabling environment \nfor the private sector to flourish \nii) introduction of rural energy service \nconcessions that would allow an entity \n(private sector, NGO, community\u0002based organisation etc.) to exclusively \nserve one or more defined areas under \na concessionary agreement."
+            },
+            {
+                "Relation": "sustainable",
+                "Subject": "Afghanistan",
+                "Object": "Energy",
+                "Description": "Afghanistan National Development Strategy ;\nAREU Afghanistan Renewable Energy Union;\nASERD Afghanistan Sustainable Energy for Rural Development;\nASHP Air Source Heat Pump ;\nATC Aggregate Technical & Commercial;\nBMC Billing, Metering and Collection ;\nBOOM Build-Own-Operate-Maintain;\nCAPEX Capital Expenditure ;\nCBO Community Based Organization ;\nCCSAP Climate Change Strategy and Action Plan ;\n"
+            },
+            {
+                "Relation": "intend",
+                "Subject": "INDC",
+                "Object": "Contributions",
+                "Description": "\nINDC Intended Nationally Determined Contributions ;\nIPP Independent Power Producer;\nIREDA Indian Renewable Energy Development Agency Limited;\nIRENA International Renewable Energy Agency;\nISA International Solar Alliance;\nkW Kilowatt;\nkWh Kilowatt-hour;\nLFR Linear Fresnel Reflector ;\nMAIL Ministry of Agriculture, Irrigation and Livestock;\nMEW Ministry of Energy and Water;\nMFC Microbial Fuel Cells;\nMFI Microfinance Institutions ;\nMHPs Micro Hydropower Plants ;\nMJ Multi-Junction;\nMNRE Ministry of New and Renewable Energy (India);\nMRRD Ministry of Rural Rehabilitation and Development;\nMW Megawatt;\n"
+            },
+            {
+                "Relation": "be",
+                "Subject": "Program",
+                "Object": "programs",
+                "Description": "National Solidarity Program (NSP)/ NABDP and Energy for Rural Development \nin Afghanistan (ERDA) within NABDP, have been the flagship programs of MRRD for rural \nenergization."
+            },
+            {
+                "Relation": "hybridize",
+                "Subject": "Configuration",
+                "Object": "Area",
+                "Description": "Configuration of Concentrating Solar M90 Dishes at \nNTPC- Dadri, India:\nPeak Capacity at STC 80,000 kcal/hr.;\nApplication Cooking (Baking, Boiling and Frying);\nSystem Configuration Hot Thermic Oil at 220\u00b0C;\nIntegration Hybridized with LPG Thermic Oil Heater;\nPeak Capacity at STC 80,000 kcal/hr.;\nTotal Concentrator Area 2 Nos. of M90 Dishes totaling 180 m2;\n#Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system for Rural Applications\n"
+            },
+            {
+                "Relation": "give",
+                "Subject": "utility",
+                "Object": "responsibilities",
+                "Description": "l. Rural electricity utility: The rural electricity utility may be given responsibilities \nfor generation, transmission and distribution exclusively in rural areas."
+            }
+        ]
+    }
+}

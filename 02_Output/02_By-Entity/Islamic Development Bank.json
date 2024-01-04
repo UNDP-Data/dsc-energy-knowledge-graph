@@ -1,0 +1,14 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "Islamic Development Bank",
+        "relations": [
+            {
+                "Relation": "include",
+                "Subject": "These",
+                "Object": "Bank",
+                "Description": "These include the African Development Bank, Islamic Development Bank, World \nBank, West African Development Bank \nand other donors."
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entity": "CNES",
+        "relations": [
+            {
+                "Relation": "set",
+                "Subject": "Niger",
+                "Object": "\n",
+                "Description": "This dates back to the 1960s, \nwhen Niger set up the Solar Energy Office \n(Office de l\u2019Energie Solaire \u2013 ONERSOL), \nlater renamed the National Solar Energy \nCentre (Centre National d'\u00c9nergie Solaire \n\u2013 CNES)."
+            },
+            {
+                "Relation": "rename",
+                "Subject": "\n",
+                "Object": "Centre",
+                "Description": "This dates back to the 1960s, \nwhen Niger set up the Solar Energy Office \n(Office de l\u2019Energie Solaire \u2013 ONERSOL), \nlater renamed the National Solar Energy \nCentre (Centre National d'\u00c9nergie Solaire \n\u2013 CNES)."
+            },
+            {
+                "Relation": "play",
+                "Subject": "CNES",
+                "Object": "role",
+                "Description": "As part of the industry\u2019s revitalisation, \nCNES could play an important role in \nsupporting the development of renewable \nenergy technology standards and certifica\u0002tion schemes for installers."
+            },
+            {
+                "Relation": "play",
+                "Subject": "CNES",
+                "Object": "role",
+                "Description": "CNES could play a pivotal role as the data \ncentre, a role it has played in the past \nbefore the programme was discontinued."
+            },
+            {
+                "Relation": "indicate",
+                "Subject": "experience",
+                "Object": "programme",
+                "Description": "The CNES experience indicates a robust \nnational promotions programme and skills \ndevelopment is critical to mainstreaming \nthe technology."
+            },
+            {
+                "Relation": "play",
+                "Subject": "CNES",
+                "Object": "role",
+                "Description": "CNES could play an \nimportant role in supporting the develop\u0002ment of renewable energy technology stan\u0002dards and certification schemes for install\u0002ers as part of the industry\u2019s revitalisation."
+            }
+        ]
+    }
+}
