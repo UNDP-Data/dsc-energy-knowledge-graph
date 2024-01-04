@@ -1,14 +1,50 @@
 {
     "metadata": {},
     "knowledge graph": {
-        "entity": "Households",
-        "relations": [
-            {
-                "Relation": "rely",
-                "Subject": "Households",
-                "Object": "needs",
-                "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
-            }
-        ]
+        "entities": [],
+        "relations": {
+            "Households": [
+                {
+                    "Relation": "prompting",
+                    "Object": "niger",
+                    "Description": "Load shedding and blackouts are \nas commonplace in Niger as in Nigeria, \nprompting most businesses and urban \nhouseholds to invest in portable diesel \ngenerators, or \u201cgen-sets\u201d, as a standby \npower source."
+                },
+                {
+                    "Relation": "prompting",
+                    "Object": "households",
+                    "Description": "Load shedding and blackouts are \nas commonplace in Niger as in Nigeria, \nprompting most businesses and urban \nhouseholds to invest in portable diesel \ngenerators, or \u201cgen-sets\u201d, as a standby \npower source."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "biomass",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "rely",
+                    "Object": "households",
+                    "Description": "Households across Niger \nrely heavily on traditional biomass to meet \ntheir basic energy needs."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "households",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "lpg",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "ien",
+                    "Object": "niger",
+                    "Description": "However, there are \nno official data on the number of gensets \nin Nigerien households."
+                },
+                {
+                    "Relation": "ien",
+                    "Object": "households",
+                    "Description": "However, there are \nno official data on the number of gensets \nin Nigerien households."
+                }
+            ]
+        }
     }
 }

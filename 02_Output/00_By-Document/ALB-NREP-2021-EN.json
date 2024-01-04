@@ -19,23 +19,7 @@
                 "category": "Location"
             },
             {
-                "entity": "National Renewable Energy Action Plan",
-                "category": "Organization"
-            },
-            {
                 "entity": "PV",
-                "category": "Organization"
-            },
-            {
-                "entity": "The National Energy Sector Strategy",
-                "category": "Organization"
-            },
-            {
-                "entity": "A National Energy and Climate Plan",
-                "category": "Organization"
-            },
-            {
-                "entity": "NECP",
                 "category": "Organization"
             },
             {
@@ -43,16 +27,8 @@
                 "category": "Organization"
             },
             {
-                "entity": "a Contract for Differences (CfD",
-                "category": "Organization"
-            },
-            {
                 "entity": "the South-East",
                 "category": "Location"
-            },
-            {
-                "entity": "Ministry of Infrastructure and Energy",
-                "category": "Organization"
             },
             {
                 "entity": "National Agency of Natural Resources",
@@ -63,55 +39,11 @@
                 "category": "Organization"
             },
             {
-                "entity": "Ministry of Tourism and Environment Environmental",
-                "category": "Organization"
-            },
-            {
-                "entity": "National Environmental Agency Environmental",
-                "category": "Organization"
-            },
-            {
-                "entity": "Ministry of Agriculture",
-                "category": "Organization"
-            },
-            {
-                "entity": "Rural Development and Water Administration",
-                "category": "Organization"
-            },
-            {
-                "entity": "Energy Regulatory Authority",
-                "category": "Organization"
-            },
-            {
                 "entity": "ERE",
                 "category": "Organization"
             },
             {
-                "entity": "Transmission System Operator",
-                "category": "Organization"
-            },
-            {
                 "entity": "OST",
-                "category": "Organization"
-            },
-            {
-                "entity": "Albania Power Exchange",
-                "category": "Organization"
-            },
-            {
-                "entity": "ALPEX",
-                "category": "Organization"
-            },
-            {
-                "entity": "Day-Ahead",
-                "category": "Organization"
-            },
-            {
-                "entity": "Albanian Power Corporation",
-                "category": "Organization"
-            },
-            {
-                "entity": "KESH",
                 "category": "Organization"
             },
             {
@@ -123,163 +55,369 @@
                 "category": "Organization"
             },
             {
-                "entity": "CESEC",
-                "category": "Organization"
-            },
-            {
                 "entity": "South East Europe",
                 "category": "Location"
-            },
-            {
-                "entity": "UNECE Renewable Energy Status Report",
-                "category": "Organization"
-            },
-            {
-                "entity": "Deutsche Energie-Agentur GmbH",
-                "category": "Organization"
-            },
-            {
-                "entity": "German Energy Agency",
-                "category": "Organization"
-            },
-            {
-                "entity": "the Federal Ministry for Economic Affairs and Energy",
-                "category": "Organization"
-            },
-            {
-                "entity": "The United Nations Economic Commission for Europe",
-                "category": "Organization"
-            },
-            {
-                "entity": "the UNECE Secretariat",
-                "category": "Organization"
-            },
-            {
-                "entity": "Science",
-                "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "UNECE",
-                "Subject": "\n\n",
-                "Object": "Uptake",
-                "Description": "Language: EN\n------------------------------------------------\n\nUNECE Renewable Energy Uptake\n"
-            },
-            {
-                "Relation": "have",
-                "Subject": "Albania",
-                "Object": "one",
-                "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
-            },
-            {
-                "Relation": "have",
-                "Subject": "Albania",
-                "Object": "resources",
-                "Description": "In addition to hydropower resources, Albania also has \nabundant solar and wind resources, which are currently almost entirely untapped.\n"
-            },
-            {
-                "Relation": "have",
-                "Subject": "Albania",
-                "Object": "some",
-                "Description": "Within Europe, Albania has some of the highest sunshine hours per year, representing significant potential for \nsolar energy development."
-            },
-            {
-                "Relation": "hold",
-                "Subject": "south",
-                "Object": "potential",
-                "Description": "The coastal south and far north of the country also hold immense potential for wind \npower development."
-            },
-            {
-                "Relation": "complement",
-                "Subject": "solar",
-                "Object": "fleet",
-                "Description": "Both solar and wind could effectively complement the existent hydropower fleet."
-            },
-            {
-                "Relation": "set",
-                "Subject": "Plan",
-                "Object": "target",
-                "Description": "The current National Renewable Energy Action Plan (NREAP) sets a target of 38% for the renewable energy \nshare of total final energy consumption (TFEC) by 2020."
-            },
-            {
-                "Relation": "stipulate",
-                "Subject": "NREAP",
-                "Object": "targets",
-                "Description": "The NREAP also stipulates technology-specific deployment targets to achieve this goal: 7MW hydropower, \n490MW solar PV, 50MW wind and 41MW waste-to-power by 2020, which have not yet been reached."
-            },
-            {
-                "Relation": "formulate",
-                "Subject": "Strategy",
-                "Object": "target",
-                "Description": "The National Energy Sector Strategy (2018) formulates a target of 42% of renewable energy in the TPES by 2030 \nwhich has already been achieved.;"
-            },
-            {
-                "Relation": "require",
-                "Subject": "This",
-                "Object": "infrastructure",
-                "Description": "This requires more \nsophisticated network infrastructure and operation that can handle bidirectional energy flows and changing \nsupply profiles."
-            },
-            {
-                "Relation": "lack",
-                "Subject": "\n",
-                "Object": "capacity",
-                "Description": "Particularly in high-demand centres such as the capital Tirana, the Albanian distribution grid \nlacks sufficient capacity and dynamic operation to handle variable electricity injection."
-            },
-            {
-                "Relation": "hamper",
-                "Subject": "This",
-                "Object": "integration",
-                "Description": "This severely hampers \nthe successful integration of renewable energy sources in the country."
-            },
-            {
-                "Relation": "improve",
-                "Subject": "#",
-                "Object": "mechanisms",
-                "Description": "#Improving support mechanisms for renewable energy \n"
-            },
-            {
-                "Relation": "foster",
-                "Subject": "revision",
-                "Object": "deployment",
-                "Description": "Considering this, a revision of the \nexisting support landscape for RE in Albania would foster the deployment of small-scale projects in the country."
-            },
-            {
-                "Relation": "entice",
-                "Subject": "risking",
-                "Object": "investment",
-                "Description": "Further de-risking of renewable energy projects would entice private investment and accelerate development."
-            },
-            {
-                "Relation": "inspire",
-                "Subject": "instruments",
-                "Object": "confidence",
-                "Description": "Thoroughly developed planning \nand financial instruments such as Power Purchase Agreements, for example, would inspire confidence and\nstimulate international investment in renewable energy in Albania."
-            },
-            {
-                "Relation": "represent",
-                "Subject": "Association",
-                "Object": "interests",
-                "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
-            },
-            {
-                "Relation": "represent",
-                "Subject": "Association",
-                "Object": "interests",
-                "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
-            },
-            {
-                "Relation": "generate",
-                "Subject": "EBRD",
-                "Object": "price",
-                "Description": "EBRD, Albania\u2019s solar tender generates competitive price, 2020\n"
-            },
-            {
-                "Relation": "support",
-                "Subject": "dena",
-                "Object": "government",
-                "Description": "Through various projects, dena supports the German government in \nimplementing energy and climate policy goals.\n"
-            }
-        ]
+        "relations": {
+            "ALB": [
+                {
+                    "Relation": "alb",
+                    "Object": "nrep",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NREP\n"
+                },
+                {
+                    "Relation": "alb",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NREP\n"
+                },
+                {
+                    "Relation": "has",
+                    "Object": "south-east europe",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "europe",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "alb",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "ost",
+                    "Description": "In addition to hydropower resources, Albania also has \nabundant solar and wind resources, which are currently almost entirely untapped.\n"
+                },
+                {
+                    "Relation": "has",
+                    "Object": "alb",
+                    "Description": "In addition to hydropower resources, Albania also has \nabundant solar and wind resources, which are currently almost entirely untapped.\n"
+                },
+                {
+                    "Relation": "guaranteed",
+                    "Object": "dso",
+                    "Description": "Small-scale renewable assets in Albania are eligible for feed-in-tariffs guaranteed through the obligatory \npurchase of energy by the distribution system operator (DSO)."
+                },
+                {
+                    "Relation": "guaranteed",
+                    "Object": "alb",
+                    "Description": "Small-scale renewable assets in Albania are eligible for feed-in-tariffs guaranteed through the obligatory \npurchase of energy by the distribution system operator (DSO)."
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "pv",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "ere",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "alb",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "alb",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "alb",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                }
+            ],
+            "NREP": [
+                {
+                    "Relation": "alb",
+                    "Object": "nrep",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NREP\n"
+                },
+                {
+                    "Relation": "alb",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NREP\n"
+                }
+            ],
+            "South-East Europe": [
+                {
+                    "Relation": "has",
+                    "Object": "south-east europe",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "alb",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "pv",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "ere",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "south-east europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                }
+            ],
+            "Europe": [
+                {
+                    "Relation": "has",
+                    "Object": "europe",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "alb",
+                    "Description": "With 45% of the total primary energy supply (TPES), Albania has one of the largest shares of renewable energy in \nits energy mix in South-East Europe."
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "pv",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "ere",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "ost",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "europe",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                }
+            ],
+            "PV": [
+                {
+                    "Relation": "introduce",
+                    "Object": "pv",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "alb",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "south-east europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "the south-east",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                }
+            ],
+            "DSO": [
+                {
+                    "Relation": "guaranteed",
+                    "Object": "dso",
+                    "Description": "Small-scale renewable assets in Albania are eligible for feed-in-tariffs guaranteed through the obligatory \npurchase of energy by the distribution system operator (DSO)."
+                },
+                {
+                    "Relation": "guaranteed",
+                    "Object": "alb",
+                    "Description": "Small-scale renewable assets in Albania are eligible for feed-in-tariffs guaranteed through the obligatory \npurchase of energy by the distribution system operator (DSO)."
+                }
+            ],
+            "the South-East": [
+                {
+                    "Relation": "introduce",
+                    "Object": "the south-east",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "pv",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "ere",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                }
+            ],
+            "National Agency of Natural Resources": [
+                {
+                    "Relation": "deal",
+                    "Object": "energy efficiency agency",
+                    "Description": "National Agency of Natural Resources (AKBN) for Monitors economic activities that deal with natural resources;\n\uf06e Energy Efficiency Agency Policy for development, energy auditing, implementation of energy efficiency programmes;\n\uf06e"
+                },
+                {
+                    "Relation": "deal",
+                    "Object": "national agency of natural resources",
+                    "Description": "National Agency of Natural Resources (AKBN) for Monitors economic activities that deal with natural resources;\n\uf06e Energy Efficiency Agency Policy for development, energy auditing, implementation of energy efficiency programmes;\n\uf06e"
+                }
+            ],
+            "Energy Efficiency Agency": [
+                {
+                    "Relation": "deal",
+                    "Object": "energy efficiency agency",
+                    "Description": "National Agency of Natural Resources (AKBN) for Monitors economic activities that deal with natural resources;\n\uf06e Energy Efficiency Agency Policy for development, energy auditing, implementation of energy efficiency programmes;\n\uf06e"
+                },
+                {
+                    "Relation": "deal",
+                    "Object": "national agency of natural resources",
+                    "Description": "National Agency of Natural Resources (AKBN) for Monitors economic activities that deal with natural resources;\n\uf06e Energy Efficiency Agency Policy for development, energy auditing, implementation of energy efficiency programmes;\n\uf06e"
+                }
+            ],
+            "ERE": [
+                {
+                    "Relation": "introduce",
+                    "Object": "ere",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "alb",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "south-east europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "europe",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "introduce",
+                    "Object": "the south-east",
+                    "Description": "Albania was \none of the first countries in the South-East European region to introduce auctions for renewable energy\nprojects and has since successfully tendered PV projects at competitive prices.;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "alb",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "albania energy association",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "alb",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "albanian renewable energy association (area",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                }
+            ],
+            "OST": [
+                {
+                    "Relation": "has",
+                    "Object": "ost",
+                    "Description": "In addition to hydropower resources, Albania also has \nabundant solar and wind resources, which are currently almost entirely untapped.\n"
+                },
+                {
+                    "Relation": "has",
+                    "Object": "alb",
+                    "Description": "In addition to hydropower resources, Albania also has \nabundant solar and wind resources, which are currently almost entirely untapped.\n"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "ost",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "europe",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "south east europe",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                }
+            ],
+            "Albania Energy Association": [
+                {
+                    "Relation": "represents",
+                    "Object": "albania energy association",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albania Energy Association represents the interests of Albanian and international energy producers;\n\uf06e"
+                }
+            ],
+            "Albanian Renewable Energy Association (AREA": [
+                {
+                    "Relation": "represents",
+                    "Object": "albanian renewable energy association (area",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "ere",
+                    "Description": "Albanian Renewable Energy Association (AREA) represents the interests of renewable energy producers in Albania;\n#"
+                }
+            ],
+            "South East Europe": [
+                {
+                    "Relation": "-competitive",
+                    "Object": "south east europe",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                },
+                {
+                    "Relation": "-competitive",
+                    "Object": "ost",
+                    "Description": "IRENA, Cost-competitive renewable power generation: Potential across South East Europe, 2017\n"
+                }
+            ]
+        }
     }
 }
