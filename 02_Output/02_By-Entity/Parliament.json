@@ -1,0 +1,860 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Parliament": [
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "parliament",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "undp",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "un",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "parliament",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "undp",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "unama",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "justice",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "parliament",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the ministry of justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "ministry",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "parliament",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "parliament",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "undp",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "un",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "parliament",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "undp",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "unama",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "justice",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "parliament",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the ministry of justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "ministry",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "parliament",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "parliament",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "undp",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "un",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "parliament",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "undp",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "unama",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "justice",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "parliament",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the ministry of justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "ministry",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "parliament",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "parliament",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "undp",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "un",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "parliament",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "undp",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "unama",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "justice",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "parliament",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the ministry of justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "ministry",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "parliament",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "parliament",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "recognized",
+                    "Object": "undp",
+                    "Description": "In particular, UNDP was recognized \nas a valued partner in local economic development and community mobilization; natural \nresource management; enhancement of legal, policy and institutional frameworks in the \nenvironmental sector; disaster risk reduction; organization of transparent parliamentary \nelections; management of infrastructure investments and technical capacities of customs and \nother agencies; coordination of issue-based coalitions; women and youth empowerment; and \ncitizen engagement."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "parliament",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "UNDP will also promote \ntransformation (including digital) of the Parliament and other institutions to enhance checks \nand balances and ensure a \u2018whole-of-government\u2019 approach, strengthened separation of \npowers and cross-party work."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "parliament",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "continues",
+                    "Object": "undp",
+                    "Description": "UNDP continues to be a key partner to the Government and Parliament in the design, \nimplementation and promotion of open governance policies."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "parliament",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "undp",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "encourage",
+                    "Object": "un",
+                    "Description": "UNDP will encourage development dialogue with Parliament, the private sector and civil \nsociety organizations (CSOs)."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "parliament",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "increased",
+                    "Object": "undp",
+                    "Description": "Having \nsupported, effectively, all presidential and parliamentary elections, increased the \ncapacity of parliament and strengthened subnational governance at the provincial \nand district levels, UNDP will deepen its engagement in participatory approaches \nand will work closely with national partners, including the Afghanistan Independent \nHuman Rights Commission."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "undp",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "unama",
+                    "Description": "In \ncoordination with UNAMA, UNDP electoral cycle support will assist national \ninstitutions in the better management of presidential, parliamentary and local \nelection processes."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "justice",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "strengthened",
+                    "Object": "parliament",
+                    "Description": "External oversight of justice and the police will be strengthened through the \nIndependent Human Rights Commission, civil society and parliament."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "the ministry of justice",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "ministry",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "assist",
+                    "Object": "parliament",
+                    "Description": "Capacity \ndevelopment support to the parliamentary committee on finance and budgets will \nassist parliament in its oversight of the Ministry of Justice and the Ministry of \nInterior."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with the Office of \nthe Attorney General, General Inspection Services, Court of Auditors, Parliament and Public \nProcurement Services in developing standard operating procedures and tools for public \nmanagement to strengthen prevention and fight corruption."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nthe Ministry of Justice and Human Rights, Ministry of the Interior, Parliament, United Nations\n"
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "UNDP will partner with \nMASFAMU and Parliament on capacity building and advocacy for sensitive gender-budgeting \nand development of gender statistics systems."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "parliament",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "ndp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "partner",
+                    "Object": "undp",
+                    "Description": "For this, UNDP will partner with MAT, Ministry \nof Youth, Parliament, the national youth platforms, CSOs and local governments."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "undp",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                },
+                {
+                    "Relation": "engage",
+                    "Object": "parliament",
+                    "Description": "UNDP will engage key oversight institutions \nsuch as the Parliament and commissions to facilitate people\u2019s participation in governance \nprocesses and strengthen recourse to remedy grievances."
+                }
+            ]
+        }
+    }
+}

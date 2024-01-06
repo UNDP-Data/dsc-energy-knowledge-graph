@@ -1,0 +1,290 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Rural": [
+                {
+                    "Relation": "needs",
+                    "Object": "niger",
+                    "Description": "Niger needs a comprehensive energy \npolicy that puts the needs and demands \nof rural communities at centre stage and \nprovides clear guidance on how to achieve \nprogress on rural energy services."
+                },
+                {
+                    "Relation": "needs",
+                    "Object": "rural",
+                    "Description": "Niger needs a comprehensive energy \npolicy that puts the needs and demands \nof rural communities at centre stage and \nprovides clear guidance on how to achieve \nprogress on rural energy services."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "niger",
+                    "Description": "An organisation must be established to \nmanage, develop and implement Niger\u2019s \nrural renewable electrification strategy and \nprogramme."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "rural",
+                    "Description": "An organisation must be established to \nmanage, develop and implement Niger\u2019s \nrural renewable electrification strategy and \nprogramme."
+                },
+                {
+                    "Relation": "consider",
+                    "Object": "niger",
+                    "Description": "Niger could consider raising funds to \npromote rural electrification from taxes \non mineral and petroleum exploitation."
+                },
+                {
+                    "Relation": "consider",
+                    "Object": "rural",
+                    "Description": "Niger could consider raising funds to \npromote rural electrification from taxes \non mineral and petroleum exploitation."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "niger",
+                    "Description": "Niger\u2019s recent discovery of oil and gas will \nprovide much-needed relief from the coun\u0002try\u2019s energy security problems and endless \ndifficulties maintaining a healthy balance \nof trade in the short term, renewables are \nalso likely to feature as an important long\u0002term platform for closing the electricity \naccess gap, especially in rural settlements."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "rural",
+                    "Description": "Niger\u2019s recent discovery of oil and gas will \nprovide much-needed relief from the coun\u0002try\u2019s energy security problems and endless \ndifficulties maintaining a healthy balance \nof trade in the short term, renewables are \nalso likely to feature as an important long\u0002term platform for closing the electricity \naccess gap, especially in rural settlements."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "rural",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "lpg",
+                    "Description": "This will provide further oppor\u0002tunities for mainstreaming LPG use across \nthe country, including in rural households \nand businesses."
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "niger",
+                    "Description": "Niger\u2019s untapped \nrenewable energy potential provides \nopportunities for transforming urban and \nrural livelihoods."
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "rural",
+                    "Description": "Niger\u2019s untapped \nrenewable energy potential provides \nopportunities for transforming urban and \nrural livelihoods."
+                },
+                {
+                    "Relation": "electri\u0002fied",
+                    "Object": "rural",
+                    "Description": "(commune rurale de Tamou) and Banigueti \n(commune de Torodi) have been electri\u0002fied by solar PV."
+                },
+                {
+                    "Relation": "electri\u0002fied",
+                    "Object": "pv",
+                    "Description": "(commune rurale de Tamou) and Banigueti \n(commune de Torodi) have been electri\u0002fied by solar PV."
+                },
+                {
+                    "Relation": "defining",
+                    "Object": "cnedd",
+                    "Description": "CNEDD is also responsible for defining \nthe objectives of the rural energy access programme."
+                },
+                {
+                    "Relation": "defining",
+                    "Object": "rural",
+                    "Description": "CNEDD is also responsible for defining \nthe objectives of the rural energy access programme."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "mme",
+                    "Description": "National \nstrategies on domestic and renewable \nenergy, rural electrification, oil research \npromotion, and potential hydropower \nassessments would support this \nprocess (MME, 2004b)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "rural",
+                    "Description": "National \nstrategies on domestic and renewable \nenergy, rural electrification, oil research \npromotion, and potential hydropower \nassessments would support this \nprocess (MME, 2004b)."
+                },
+                {
+                    "Relation": "benefit",
+                    "Object": "mme",
+                    "Description": "At the end of PRASE, it \nis anticipated that at least 40% of the \npopulation in rural areas will benefit \nfrom modernised energy services \n(MME, 2010)."
+                },
+                {
+                    "Relation": "benefit",
+                    "Object": "rural",
+                    "Description": "At the end of PRASE, it \nis anticipated that at least 40% of the \npopulation in rural areas will benefit \nfrom modernised energy services \n(MME, 2010)."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "biomass",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "niger",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "rural",
+                    "Description": "The Nigerien government considers energy \na cross-cutting challenge, given the heavy \nreliance on traditional biomass using \nunsustainable appliances, increasing power \ndemand for economic transformation and \nless than 2% rural energy access."
+                },
+                {
+                    "Relation": "acquiring",
+                    "Object": "rural",
+                    "Description": "Clearly, this \nhas major implications for rural communi\u0002ties in acquiring finance for PV systems."
+                },
+                {
+                    "Relation": "acquiring",
+                    "Object": "pv",
+                    "Description": "Clearly, this \nhas major implications for rural communi\u0002ties in acquiring finance for PV systems."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "niger",
+                    "Description": "As indicated \nin section 2, the favourable wind regime \nacross Niger can provide much needed \npower for rural communities, especially in \nthe northern part of the country."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "rural",
+                    "Description": "As indicated \nin section 2, the favourable wind regime \nacross Niger can provide much needed \npower for rural communities, especially in \nthe northern part of the country."
+                },
+                {
+                    "Relation": "tend",
+                    "Object": "rural",
+                    "Description": "The northern regions tend to enjoy fairly \ngood windy conditions and thus hybrid \nsystems may not offer better answers for \nrural electrification."
+                },
+                {
+                    "Relation": "tend",
+                    "Object": "north",
+                    "Description": "The northern regions tend to enjoy fairly \ngood windy conditions and thus hybrid \nsystems may not offer better answers for \nrural electrification."
+                },
+                {
+                    "Relation": "improve",
+                    "Object": "niger",
+                    "Description": "There are \nongoing and upcoming projects in Niger to \nimprove access to rural water services, and \ndevelopment partners and international \ninstitutions provide significant support to \nthe government\u2019s efforts."
+                },
+                {
+                    "Relation": "improve",
+                    "Object": "ngo",
+                    "Description": "There are \nongoing and upcoming projects in Niger to \nimprove access to rural water services, and \ndevelopment partners and international \ninstitutions provide significant support to \nthe government\u2019s efforts."
+                },
+                {
+                    "Relation": "improve",
+                    "Object": "rural",
+                    "Description": "There are \nongoing and upcoming projects in Niger to \nimprove access to rural water services, and \ndevelopment partners and international \ninstitutions provide significant support to \nthe government\u2019s efforts."
+                },
+                {
+                    "Relation": "needs",
+                    "Object": "niger",
+                    "Description": "Niger needs a comprehensive energy policy \nthat puts the needs and demands of rural \ncommunities centre stage and provides \nclear guidance on how to make progress."
+                },
+                {
+                    "Relation": "needs",
+                    "Object": "rural",
+                    "Description": "Niger needs a comprehensive energy policy \nthat puts the needs and demands of rural \ncommunities centre stage and provides \nclear guidance on how to make progress."
+                },
+                {
+                    "Relation": "underscored",
+                    "Object": "rural",
+                    "Description": "The RRA underscored that institutional and \nfinancial support efforts need to clearly \ndistinguish not only between grid-based \nand off-grid but also between urban and \nrural electrification."
+                },
+                {
+                    "Relation": "underscored",
+                    "Object": "rra",
+                    "Description": "The RRA underscored that institutional and \nfinancial support efforts need to clearly \ndistinguish not only between grid-based \nand off-grid but also between urban and \nrural electrification."
+                },
+                {
+                    "Relation": "centre",
+                    "Object": "mme",
+                    "Description": "Rural electrification \nshould centre around two main implemen\u0002tation axes: \ni) promotion of the private sector as a \nmajor player in implementing rural \nelectrification programmes and \ncreation of the enabling environment \nfor the private sector to flourish \nii) introduction of rural energy service \nconcessions that would allow an entity \n(private sector, NGO, community\u0002based organisation etc.) to exclusively \nserve one or more defined areas under \na concessionary agreement."
+                },
+                {
+                    "Relation": "centre",
+                    "Object": "ngo",
+                    "Description": "Rural electrification \nshould centre around two main implemen\u0002tation axes: \ni) promotion of the private sector as a \nmajor player in implementing rural \nelectrification programmes and \ncreation of the enabling environment \nfor the private sector to flourish \nii) introduction of rural energy service \nconcessions that would allow an entity \n(private sector, NGO, community\u0002based organisation etc.) to exclusively \nserve one or more defined areas under \na concessionary agreement."
+                },
+                {
+                    "Relation": "centre",
+                    "Object": "rural",
+                    "Description": "Rural electrification \nshould centre around two main implemen\u0002tation axes: \ni) promotion of the private sector as a \nmajor player in implementing rural \nelectrification programmes and \ncreation of the enabling environment \nfor the private sector to flourish \nii) introduction of rural energy service \nconcessions that would allow an entity \n(private sector, NGO, community\u0002based organisation etc.) to exclusively \nserve one or more defined areas under \na concessionary agreement."
+                },
+                {
+                    "Relation": "guide",
+                    "Object": "rural",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "guide",
+                    "Object": "west",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "guide",
+                    "Object": "mme",
+                    "Description": "For \nexample, it could: \ni) stimulate the supply and demand of \nrural electrification services through \ncommunications with potential part\u0002ners (both public and private); \nii) guide operators towards lowest cost \ninnovative solutions; \niii) establish the annual rural electrifica\u0002tion programme and ensure effective \nfollow-up; \niv) manage relationships with donors and \npotential investors; \nv) ensure effective implementation in \naccordance to enforced norms and \nstandards."
+                },
+                {
+                    "Relation": "consider",
+                    "Object": "niger",
+                    "Description": "Niger could \nconsider following this example to raise \nfunding from taxes collected from mineral \nand petroleum exploitation to promote \nrural electrification."
+                },
+                {
+                    "Relation": "consider",
+                    "Object": "rural",
+                    "Description": "Niger could \nconsider following this example to raise \nfunding from taxes collected from mineral \nand petroleum exploitation to promote \nrural electrification."
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "mme",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "state",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "sold",
+                    "Object": "rural",
+                    "Description": "This could include: \ni) taxes on electricity concessions \nii) a rural electrification levy on electricity \nsold to end-users \niii) taxes on bulk electricity consumers \niv) taxes on oil and mining exploration \nv) taxes related to the transport and \nmarketing of petroleum products \nvi) taxes on commercial licences \nvii) annual budgetary allocation by the \nstate \nviii) funding obtained from development \npartners \nix) personal contributions from the opera\u0002tors and other donors.\n\n#Energy master plan\n"
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "biomass",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "delivered",
+                    "Object": "rural",
+                    "Description": "This biomass sector has delivered excellent \nresults and supported rural development \nin various parts of Asia."
+                },
+                {
+                    "Relation": "motivated",
+                    "Object": "mme",
+                    "Description": "Furthermore, the Nepal \nprogramme successfully motivated the \nexternal and domestic banks to sculpt a \nwell-structured loan and grant programme \nfor small-scale farmers and medium-sized \nrural enterprises."
+                },
+                {
+                    "Relation": "motivated",
+                    "Object": "rural",
+                    "Description": "Furthermore, the Nepal \nprogramme successfully motivated the \nexternal and domestic banks to sculpt a \nwell-structured loan and grant programme \nfor small-scale farmers and medium-sized \nrural enterprises."
+                },
+                {
+                    "Relation": "have",
+                    "Object": "rural",
+                    "Description": "It is also \nimportant to consider the effect WAPP will \nhave on rural areas, as most will continue \nto rely on decentralised systems."
+                },
+                {
+                    "Relation": "have",
+                    "Object": "wapp",
+                    "Description": "It is also \nimportant to consider the effect WAPP will \nhave on rural areas, as most will continue \nto rely on decentralised systems."
+                },
+                {
+                    "Relation": "demonstrates",
+                    "Object": "niger",
+                    "Description": "#Decentralisation\nExperience in Niger demonstrates that off\u0002grid energy systems can play a significant \nrole in rural energy programmes."
+                },
+                {
+                    "Relation": "demonstrates",
+                    "Object": "rural",
+                    "Description": "#Decentralisation\nExperience in Niger demonstrates that off\u0002grid energy systems can play a significant \nrole in rural energy programmes."
+                }
+            ]
+        }
+    }
+}

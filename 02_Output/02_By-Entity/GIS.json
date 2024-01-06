@@ -1,0 +1,55 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "GIS": [
+                {
+                    "Relation": "improved",
+                    "Object": "smart",
+                    "Description": "3.4.15 Economic activities will be developed in dense clusters to benefit from lower logistic costs and\nimproved synergies in special zones identified as smart cities, served by smart grids."
+                },
+                {
+                    "Relation": "improved",
+                    "Object": "gis",
+                    "Description": "3.4.15 Economic activities will be developed in dense clusters to benefit from lower logistic costs and\nimproved synergies in special zones identified as smart cities, served by smart grids."
+                },
+                {
+                    "Relation": "derground",
+                    "Object": "gis",
+                    "Description": "3.9.5 All existing and future underground utility infrastructure including electricity, water, communication,\ntown gas and petroleum would be made available in a common mandatory geographic information\nsystem (GIS) to facilitate optimal location of future underground cable routes and pipe transport\ntraces."
+                },
+                {
+                    "Relation": "derground",
+                    "Object": "un",
+                    "Description": "3.9.5 All existing and future underground utility infrastructure including electricity, water, communication,\ntown gas and petroleum would be made available in a common mandatory geographic information\nsystem (GIS) to facilitate optimal location of future underground cable routes and pipe transport\ntraces."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "gis",
+                    "Description": "8a Ministry in charge of the function of petroleum resource development shall ensure\nthat necessary legislation for upstream petroleum development are enacted by\nmid-2020, including necessary legislation to establish an upstream petroleum\ndevelopment regulatory mechanism."
+                },
+                {
+                    "Relation": "ensure",
+                    "Object": "un",
+                    "Description": "8a Ministry in charge of the function of petroleum resource development shall ensure\nthat necessary legislation for upstream petroleum development are enacted by\nmid-2020, including necessary legislation to establish an upstream petroleum\ndevelopment regulatory mechanism."
+                },
+                {
+                    "Relation": "depicting",
+                    "Object": "gis",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                },
+                {
+                    "Relation": "depicting",
+                    "Object": "un",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                },
+                {
+                    "Relation": "depicting",
+                    "Object": "ceb",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                }
+            ]
+        }
+    }
+}

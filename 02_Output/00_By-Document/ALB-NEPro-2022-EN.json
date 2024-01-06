@@ -11,23 +11,7 @@
                 "category": "Organization"
             },
             {
-                "entity": "Albania First Solar PV Auction",
-                "category": "Organization"
-            },
-            {
-                "entity": "Biomass",
-                "category": "Organization"
-            },
-            {
                 "entity": "PV",
-                "category": "Organization"
-            },
-            {
-                "entity": "NPP",
-                "category": "Organization"
-            },
-            {
-                "entity": "Abu Dhabi",
                 "category": "Organization"
             },
             {
@@ -61,43 +45,376 @@
             {
                 "entity": "World Bank Global Solar Atlas",
                 "category": "Organization"
-            },
-            {
-                "entity": "HS",
-                "category": "Organization"
             }
         ],
-        "relations": [
-            {
-                "Relation": "avoid",
-                "Subject": "RE",
-                "Object": "CO2",
-                "Description": "Mt CO2 Emissions\nEmitted CO2 RE Avoided CO2\n+11%\n0.0\n 100\n 200\n 300\n 400\n 500\n 600\n2015 2016 2017 2018 2019 2020\ntCO2 /GWh"
-            },
-            {
-                "Relation": "show",
-                "Subject": "chart",
-                "Object": "proportion",
-                "Description": "The bar chart shows the proportion of a country's land \narea in each of these classes and the global distribution of land area \nacross the classes (for comparison)."
-            },
-            {
-                "Relation": "show",
-                "Subject": "chart",
-                "Object": "distribution",
-                "Description": "The bar chart \nshows the distribution of the country's land area in each of these classes \ncompared to the global distribution of wind resources."
-            },
-            {
-                "Relation": "show",
-                "Subject": "chart",
-                "Object": "NPP",
-                "Description": "The chart shows the average NPP in the country \n"
-            },
-            {
-                "Relation": "include",
-                "Subject": "trade",
-                "Object": "commodities",
-                "Description": "Energy trade includes all \ncommodities in Chapter 27 of the Harmonised System (HS)."
-            }
-        ]
+        "relations": {
+            "ALB": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NEPro\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NEPro\n"
+                }
+            ],
+            "MW": [
+                {
+                    "Relation": "installed",
+                    "Object": "un",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "installed",
+                    "Object": "mw",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                }
+            ],
+            "PV": [
+                {
+                    "Relation": "installed",
+                    "Object": "un",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "installed",
+                    "Object": "pv",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "divided",
+                    "Object": "un",
+                    "Description": "Solar PV: Solar resource potential has been divided into seven classes, \neach representing a range of annual PV output per unit of capacity \n(kWh/kWp/yr)."
+                },
+                {
+                    "Relation": "divided",
+                    "Object": "pv",
+                    "Description": "Solar PV: Solar resource potential has been divided into seven classes, \neach representing a range of annual PV output per unit of capacity \n(kWh/kWp/yr)."
+                }
+            ],
+            "UN": [
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NEPro\n"
+                },
+                {
+                    "Relation": "try",
+                    "Object": "alb",
+                    "Description": "Country Name: Albania\nCountry Code: ALB\nCategory: NEPro\n"
+                },
+                {
+                    "Relation": "installed",
+                    "Object": "un",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "installed",
+                    "Object": "mw",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "installed",
+                    "Object": "pv",
+                    "Description": "Annual generation per unit of installed PV capacity (MWh/kWp)\n"
+                },
+                {
+                    "Relation": "divided",
+                    "Object": "un",
+                    "Description": "Solar PV: Solar resource potential has been divided into seven classes, \neach representing a range of annual PV output per unit of capacity \n(kWh/kWp/yr)."
+                },
+                {
+                    "Relation": "divided",
+                    "Object": "pv",
+                    "Description": "Solar PV: Solar resource potential has been divided into seven classes, \neach representing a range of annual PV output per unit of capacity \n(kWh/kWp/yr)."
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "World Bank": [
+                {
+                    "Relation": "un",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "IEA": [
+                {
+                    "Relation": "un",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "iea",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "UNSD": [
+                {
+                    "Relation": "un",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "UNSD Energy Balances": [
+                {
+                    "Relation": "un",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "iea",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "UN COMTRADE": [
+                {
+                    "Relation": "un",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "iea",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "EDGAR": [
+                {
+                    "Relation": "un",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "iea",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ],
+            "World Bank Global Solar Atlas": [
+                {
+                    "Relation": "un",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "world bank global solar atlas",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "un",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "world bank",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "iea",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "un",
+                    "Object": "unsd",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "comtrade",
+                    "Object": "unsd energy balances",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "un comtrade",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                },
+                {
+                    "Relation": "ren21",
+                    "Object": "edgar",
+                    "Description": "Sources: IRENA statistics, plus data from the following sources: UN SDG Database \n(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population \nProspects; UNSD Energy Balances; UN COMTRADE; World Bank World Development \nIndicators; EDGAR; REN21 Global Status Report; IEA-IRENA Joint Policies and \nMeasures Database; IRENA Global Atlas; and World Bank Global Solar Atlas and"
+                }
+            ]
+        }
     }
 }

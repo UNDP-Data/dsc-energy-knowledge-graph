@@ -1,0 +1,385 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "South": [
+                {
+                    "Relation": "chad",
+                    "Object": "north",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "south",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "north",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "south",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "sdg",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "un",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "south",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "africa",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "south",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "un",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "south",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the regional service centre",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "north",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "south",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "north",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "south",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "sdg",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "un",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "south",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "africa",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "south",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "un",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "south",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the regional service centre",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "north",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "south",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "north",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "rises",
+                    "Object": "south",
+                    "Description": "Wind speed is moderate in the southeast \nof the country at less than 4 m/s, but rises \nto an average of over 5 m/s towards the \nnorthern part of the country (Figure 12)."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "south",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "undp",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "including",
+                    "Object": "sdg",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "provide",
+                    "Object": "un",
+                    "Description": "UNDP will provide thought leadership, advisory and technical support in other areas by: \n(a) creating integrated platforms to accelerate SDG achievement, including establishing an \nintegrated SDG database with UN-Info 2.0; (b) mobilizing SDG-financing innovative modes \nthrough the integrated national financing framework; (c) promoting data-driven integrated \ndevelopment solutions and strengthening national statistical systems and capabilities; \n(d) facilitating knowledge and technology transfer through South-South and triangular \ncooperation, including the accelerated community development programme (PADC); \n(e) providing a combination of high-level strategic advice and programmatic interventions,\nincluding to address the lingering effects of COVID-19; (f) continuing to mainstream conflict \nsensitivity, gender and human rights; and (g) managing knowledge and innovation and \ndeveloping strategic communication to mobilize and administer domestic, international, public \nand private resources."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "south",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support South-South cooperation initiatives to \nencourage knowledge and best practice sharing."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "south",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "strengthen",
+                    "Object": "state",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "laid",
+                    "Object": "lake-chad-basin",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "un",
+                    "Description": "Pilot projects such as the \nStabilization Facility for Liptako-Gourma and the Lake-Chad-Basin, have laid the foundation \nto develop a national reintegration strategy for former members of non-state armed groups to \nstrengthen community resilience in Southern Maradi."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "africa",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "south",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "undp",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "promote",
+                    "Object": "un",
+                    "Description": "Furthermore, UNDP will \npromote South-South and triangular cooperation with stakeholders from Kenya, Germany, and \nChina in governance thematic areas like police reform and elections to deepen best practices and \nexchange knowledge with ECOWAS."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "south",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                },
+                {
+                    "Relation": "used",
+                    "Object": "the regional service centre",
+                    "Description": "Extensive \ncollaboration with the Regional Service Centre will be used to collect and disseminate global best \npractices for South\u2013South cooperation, innovation, knowledge management and thought \nleadership."
+                }
+            ]
+        }
+    }
+}

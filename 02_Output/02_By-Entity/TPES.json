@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "TPES": [
+                {
+                    "Relation": "remains",
+                    "Object": "tpes",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                },
+                {
+                    "Relation": "remains",
+                    "Object": "biomass",
+                    "Description": "The share of renewables \nas a proportion of TPES remains negligible \nat less than 1%, assuming that all biomass is \nnon-renewable - which is not the case."
+                }
+            ]
+        }
+    }
+}

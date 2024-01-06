@@ -1,0 +1,125 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "RRA": [
+                {
+                    "Relation": "ia",
+                    "Object": "niger",
+                    "Description": "There \nare occasional power-supply interruptions \nfrom Nigeria due to technical problems, \nand these highlight Niger\u2019s vulnerability in \nthe arrangement between the two coun\u0002tries."
+                },
+                {
+                    "Relation": "ia",
+                    "Object": "rra",
+                    "Description": "There \nare occasional power-supply interruptions \nfrom Nigeria due to technical problems, \nand these highlight Niger\u2019s vulnerability in \nthe arrangement between the two coun\u0002tries."
+                },
+                {
+                    "Relation": "agreeing",
+                    "Object": "transmission",
+                    "Description": "This phase includes formalising trad\u0002ing arrangements, agreeing transmission \npricing and strengthening the role of the \nregional regulator."
+                },
+                {
+                    "Relation": "agreeing",
+                    "Object": "rra",
+                    "Description": "This phase includes formalising trad\u0002ing arrangements, agreeing transmission \npricing and strengthening the role of the \nregional regulator."
+                },
+                {
+                    "Relation": "nded",
+                    "Object": "mme",
+                    "Description": "This is \nfollowed by the problems that need to be solved and concludes with a \nlist of action points recommended by the RRA."
+                },
+                {
+                    "Relation": "nded",
+                    "Object": "rra",
+                    "Description": "This is \nfollowed by the problems that need to be solved and concludes with a \nlist of action points recommended by the RRA."
+                },
+                {
+                    "Relation": "highlighted",
+                    "Object": "niger",
+                    "Description": "The RRA has highlighted several techni\u0002cal opportunities and barriers facing Niger \nrenewable energy generation and trans\u0002mission infrastructure."
+                },
+                {
+                    "Relation": "highlighted",
+                    "Object": "rra",
+                    "Description": "The RRA has highlighted several techni\u0002cal opportunities and barriers facing Niger \nrenewable energy generation and trans\u0002mission infrastructure."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "mme",
+                    "Description": "The \nRRA has recommended a set of steps the \ngovernment of Niger should take."
+                },
+                {
+                    "Relation": "recommended",
+                    "Object": "niger",
+                    "Description": "The \nRRA has recommended a set of steps the \ngovernment of Niger should take."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "rra",
+                    "Description": "The \nRRA has recommended a set of steps the \ngovernment of Niger should take."
+                },
+                {
+                    "Relation": "recommended",
+                    "Object": "rra",
+                    "Description": "The \nRRA has recommended a set of steps the \ngovernment of Niger should take."
+                },
+                {
+                    "Relation": "highlighted",
+                    "Object": "niger",
+                    "Description": "The RRA has highlighted that the contri\u0002bution of off-grid renewable systems to \nthe energy mix in Niger is growing."
+                },
+                {
+                    "Relation": "highlighted",
+                    "Object": "rra",
+                    "Description": "The RRA has highlighted that the contri\u0002bution of off-grid renewable systems to \nthe energy mix in Niger is growing."
+                },
+                {
+                    "Relation": "underscored",
+                    "Object": "rural",
+                    "Description": "The RRA underscored that institutional and \nfinancial support efforts need to clearly \ndistinguish not only between grid-based \nand off-grid but also between urban and \nrural electrification."
+                },
+                {
+                    "Relation": "underscored",
+                    "Object": "rra",
+                    "Description": "The RRA underscored that institutional and \nfinancial support efforts need to clearly \ndistinguish not only between grid-based \nand off-grid but also between urban and \nrural electrification."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "mme",
+                    "Description": "The \nRRA has identified capacity development \nfor planning, financing and implementing \noff-grid and on-grid programmes as a top \npolicy priority."
+                },
+                {
+                    "Relation": "identified",
+                    "Object": "rra",
+                    "Description": "The \nRRA has identified capacity development \nfor planning, financing and implementing \noff-grid and on-grid programmes as a top \npolicy priority."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "state",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "the dutch cooperation",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "planned",
+                    "Object": "rra",
+                    "Description": "The following financial \narrangement was planned: a grant of 40% \nfrom the Dutch Cooperation, 55% from \nrecipients who had to be engaged with a \nmicrofinance institution and 5% from the \nstate."
+                },
+                {
+                    "Relation": "recog\u0002nised",
+                    "Object": "niger",
+                    "Description": "The RRA recog\u0002nised the potential of biogas in Niger, and \nthe Niger biogas feasibility study has been \nconclusive."
+                },
+                {
+                    "Relation": "recog\u0002nised",
+                    "Object": "rra",
+                    "Description": "The RRA recog\u0002nised the potential of biogas in Niger, and \nthe Niger biogas feasibility study has been \nconclusive."
+                }
+            ]
+        }
+    }
+}

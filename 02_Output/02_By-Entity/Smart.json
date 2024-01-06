@@ -1,0 +1,120 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Smart": [
+                {
+                    "Relation": "introduced",
+                    "Object": "smart",
+                    "Description": "3.2.10 Smart grid technologies will be introduced, and smart metering will be deployed for enhanced\ncustomer experience, and to automate power system management, reducing manual intervention\nwhere such interventions are uneconomical.\n"
+                },
+                {
+                    "Relation": "introduced",
+                    "Object": "un",
+                    "Description": "3.2.10 Smart grid technologies will be introduced, and smart metering will be deployed for enhanced\ncustomer experience, and to automate power system management, reducing manual intervention\nwhere such interventions are uneconomical.\n"
+                },
+                {
+                    "Relation": "improved",
+                    "Object": "smart",
+                    "Description": "3.4.15 Economic activities will be developed in dense clusters to benefit from lower logistic costs and\nimproved synergies in special zones identified as smart cities, served by smart grids."
+                },
+                {
+                    "Relation": "improved",
+                    "Object": "gis",
+                    "Description": "3.4.15 Economic activities will be developed in dense clusters to benefit from lower logistic costs and\nimproved synergies in special zones identified as smart cities, served by smart grids."
+                },
+                {
+                    "Relation": "allows",
+                    "Object": "smart",
+                    "Description": "\n3.8.4 Digitalisation of the energy sector entities using an enterprise resource planning platform will be\ntaken as a priority, spanning the whole length of the value chain from smart meters, addressable\nappliances and smart grids that allows further adoption of new technologies such as artificial\nintelligence (AI), internet of things (IoT) and distributed ledgers to drive efficiency, transparency\nand optimisation of asset utilisation."
+                },
+                {
+                    "Relation": "allows",
+                    "Object": "iot",
+                    "Description": "\n3.8.4 Digitalisation of the energy sector entities using an enterprise resource planning platform will be\ntaken as a priority, spanning the whole length of the value chain from smart meters, addressable\nappliances and smart grids that allows further adoption of new technologies such as artificial\nintelligence (AI), internet of things (IoT) and distributed ledgers to drive efficiency, transparency\nand optimisation of asset utilisation."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "the energy sector",
+                    "Description": "\n3.8.4 Digitalisation of the energy sector entities using an enterprise resource planning platform will be\ntaken as a priority, spanning the whole length of the value chain from smart meters, addressable\nappliances and smart grids that allows further adoption of new technologies such as artificial\nintelligence (AI), internet of things (IoT) and distributed ledgers to drive efficiency, transparency\nand optimisation of asset utilisation."
+                },
+                {
+                    "Relation": "using",
+                    "Object": "smart",
+                    "Description": "\n3.8.4 Digitalisation of the energy sector entities using an enterprise resource planning platform will be\ntaken as a priority, spanning the whole length of the value chain from smart meters, addressable\nappliances and smart grids that allows further adoption of new technologies such as artificial\nintelligence (AI), internet of things (IoT) and distributed ledgers to drive efficiency, transparency\nand optimisation of asset utilisation."
+                },
+                {
+                    "Relation": "distributed",
+                    "Object": "smart",
+                    "Description": "3.10.2 Development of novel information and communications technology (ICT) applications such\nasforpower system automation, remote control, distributed real time event and data acquisition\nsystems, and smart metering will be encouraged."
+                },
+                {
+                    "Relation": "distributed",
+                    "Object": "un",
+                    "Description": "3.10.2 Development of novel information and communications technology (ICT) applications such\nasforpower system automation, remote control, distributed real time event and data acquisition\nsystems, and smart metering will be encouraged."
+                },
+                {
+                    "Relation": "distributed",
+                    "Object": "ict",
+                    "Description": "3.10.2 Development of novel information and communications technology (ICT) applications such\nasforpower system automation, remote control, distributed real time event and data acquisition\nsystems, and smart metering will be encouraged."
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "smart",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "identify",
+                    "Object": "smart",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "ched",
+                    "Object": "un",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "identify",
+                    "Object": "ceb",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "identify",
+                    "Object": "leco",
+                    "Description": "2k Five pilot projects, covering the five distribution licensees will be launched by\nthe CEB and the LECO within 2020 to identify smart grid and smart metering\ntechnologies which can deliver value to the country."
+                },
+                {
+                    "Relation": "driven",
+                    "Object": "uda",
+                    "Description": "4p Incorporation of building management systems with a focus on energy management\nand future opportunities in smart grid driven automated demand response will be\nmade a mandatory planning criterion for all commercial developments by 2020by\nthe UDA."
+                },
+                {
+                    "Relation": "driven",
+                    "Object": "smart",
+                    "Description": "4p Incorporation of building management systems with a focus on energy management\nand future opportunities in smart grid driven automated demand response will be\nmade a mandatory planning criterion for all commercial developments by 2020by\nthe UDA."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "smart",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "ict",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "ceb",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "leco",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                }
+            ]
+        }
+    }
+}

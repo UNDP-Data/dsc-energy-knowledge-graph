@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "MoPE": [
+                {
+                    "Relation": "decide",
+                    "Object": "mope",
+                    "Description": "A study will be conducted by MoPE in 2020 to\ndecide other target groups of energy users that deserve special consideration,\nthe subsidy amount and the source of funds."
+                },
+                {
+                    "Relation": "decide",
+                    "Object": "un",
+                    "Description": "A study will be conducted by MoPE in 2020 to\ndecide other target groups of energy users that deserve special consideration,\nthe subsidy amount and the source of funds."
+                }
+            ]
+        }
+    }
+}
