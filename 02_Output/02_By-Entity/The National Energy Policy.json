@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "The National Energy Policy": [
+                {
+                    "Relation": "present",
+                    "Object": "the energy sector",
+                    "Description": "The National Energy Policy and Strategies present how Sri Lanka plans to meet the challenge of developing and\nmanaging the energy sector to ensure delivery of reliable, cost-effective, and competitively priced energy\nservices from diverse sources to fuel the social market economy."
+                },
+                {
+                    "Relation": "present",
+                    "Object": "the national energy policy",
+                    "Description": "The National Energy Policy and Strategies present how Sri Lanka plans to meet the challenge of developing and\nmanaging the energy sector to ensure delivery of reliable, cost-effective, and competitively priced energy\nservices from diverse sources to fuel the social market economy."
+                },
+                {
+                    "Relation": "detailed",
+                    "Object": "un",
+                    "Description": "The broad strategies to implement the national energy policy are detailed in this chapter, aligned with the\naforementioned ten pillars:\n3.1 Assuring Energy Security\nPrimary and secondary energy resources and supplies used in the country will be secured to maximise the\ncountry\u2019s energy supply reliability, continuity and adequacy, and strategic independence by employing the\nstrategies:\n3.1.1 Diversity in energy resources used in electricity generation will be ensured subject to economic,\nenvironmental, technological and operational requirements.\n"
+                },
+                {
+                    "Relation": "detailed",
+                    "Object": "the national energy policy",
+                    "Description": "The broad strategies to implement the national energy policy are detailed in this chapter, aligned with the\naforementioned ten pillars:\n3.1 Assuring Energy Security\nPrimary and secondary energy resources and supplies used in the country will be secured to maximise the\ncountry\u2019s energy supply reliability, continuity and adequacy, and strategic independence by employing the\nstrategies:\n3.1.1 Diversity in energy resources used in electricity generation will be ensured subject to economic,\nenvironmental, technological and operational requirements.\n"
+                }
+            ]
+        }
+    }
+}

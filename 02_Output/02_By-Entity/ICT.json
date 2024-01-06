@@ -1,0 +1,55 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "ICT": [
+                {
+                    "Relation": "ve",
+                    "Object": "ess",
+                    "Description": "As a nation embarking on a\nprogressive social market economy after a three decade-long conflict, a holistic approach to development is\ndesirable, compared with an incremental approach."
+                },
+                {
+                    "Relation": "ve",
+                    "Object": "ict",
+                    "Description": "As a nation embarking on a\nprogressive social market economy after a three decade-long conflict, a holistic approach to development is\ndesirable, compared with an incremental approach."
+                },
+                {
+                    "Relation": "distributed",
+                    "Object": "smart",
+                    "Description": "3.10.2 Development of novel information and communications technology (ICT) applications such\nasforpower system automation, remote control, distributed real time event and data acquisition\nsystems, and smart metering will be encouraged."
+                },
+                {
+                    "Relation": "distributed",
+                    "Object": "ict",
+                    "Description": "3.10.2 Development of novel information and communications technology (ICT) applications such\nasforpower system automation, remote control, distributed real time event and data acquisition\nsystems, and smart metering will be encouraged."
+                },
+                {
+                    "Relation": "ing",
+                    "Object": "ict",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                },
+                {
+                    "Relation": "ing",
+                    "Object": "un",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                },
+                {
+                    "Relation": "ing",
+                    "Object": "ceb",
+                    "Description": "9d Based on already available GIS elements, a national GIS database\ndepicting existing and future underground utility infrastructure\nincluding electrical, water, communication and petroleum will\nbe established by 2020 by the CEB."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "smart",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                },
+                {
+                    "Relation": "deployed",
+                    "Object": "ict",
+                    "Description": "\n10c Smart grid pilot projects will be deployed in five identified locations to\ndemonstrate the possibilities of better management of generation, transmission\nand distribution assets, to allow new and present customers to use electricity in\nthe most efficient manner and to allow large scale/deep penetrated deployment\nof dispersed renewable energy generators using advanced ICT in measurement,\ncontrol and management of electrical grids by end 2020 bythe CEB/LECO."
+                }
+            ]
+        }
+    }
+}

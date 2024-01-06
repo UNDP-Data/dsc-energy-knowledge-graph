@@ -1,0 +1,60 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Transmission": [
+                {
+                    "Relation": "develop",
+                    "Object": "niger",
+                    "Description": "Additionally, work is about to begin in Niger \nto develop a master plan for the produc\u0002tion and transmission of electricity, part \nof determining the country\u2019s medium- to \nlong-term investment priorities for devel\u0002oping the power sector (up to 2035)."
+                },
+                {
+                    "Relation": "develop",
+                    "Object": "transmission",
+                    "Description": "Additionally, work is about to begin in Niger \nto develop a master plan for the produc\u0002tion and transmission of electricity, part \nof determining the country\u2019s medium- to \nlong-term investment priorities for devel\u0002oping the power sector (up to 2035)."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "transmission",
+                    "Description": "In \n2006, the WAPP secretariat was created \nand mandated to ensure the promotion \nand development of power generation and \ntransmission facilities (www.ecowapp.org)."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "wapp",
+                    "Description": "In \n2006, the WAPP secretariat was created \nand mandated to ensure the promotion \nand development of power generation and \ntransmission facilities (www.ecowapp.org)."
+                },
+                {
+                    "Relation": "looking",
+                    "Object": "transmission",
+                    "Description": "WAPP is looking at developing a regional \nelectricity market through successive \nphases:\nPhase 1 will last from 2012 to around 2015, \nwhen most regional transmission infra\u0002structure is expected to be commissioned."
+                },
+                {
+                    "Relation": "looking",
+                    "Object": "wapp",
+                    "Description": "WAPP is looking at developing a regional \nelectricity market through successive \nphases:\nPhase 1 will last from 2012 to around 2015, \nwhen most regional transmission infra\u0002structure is expected to be commissioned."
+                },
+                {
+                    "Relation": "agreeing",
+                    "Object": "transmission",
+                    "Description": "This phase includes formalising trad\u0002ing arrangements, agreeing transmission \npricing and strengthening the role of the \nregional regulator."
+                },
+                {
+                    "Relation": "agreeing",
+                    "Object": "rra",
+                    "Description": "This phase includes formalising trad\u0002ing arrangements, agreeing transmission \npricing and strengthening the role of the \nregional regulator."
+                },
+                {
+                    "Relation": "ien",
+                    "Object": "niger",
+                    "Description": "The Soci\u00e9t\u00e9 \nNig\u00e9rienne d'Electricit\u00e9 - NIGELEC - the \nNigerien Electricity Company, is the util\u0002ity responsible for electric power genera\u0002tion, transmission and distribution in Niger."
+                },
+                {
+                    "Relation": "ien",
+                    "Object": "transmission",
+                    "Description": "The Soci\u00e9t\u00e9 \nNig\u00e9rienne d'Electricit\u00e9 - NIGELEC - the \nNigerien Electricity Company, is the util\u0002ity responsible for electric power genera\u0002tion, transmission and distribution in Niger."
+                }
+            ]
+        }
+    }
+}

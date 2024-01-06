@@ -1,0 +1,20 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "FDI": [
+                {
+                    "Relation": "s",
+                    "Object": "state",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                },
+                {
+                    "Relation": "s",
+                    "Object": "fdi",
+                    "Description": "AfDB states that flows of Foreign Direct \nInvestment (FDI) exceeded USD 1 billion \n(bn) in 2011 and remained high in 2012 at \nabout USD 830m."
+                }
+            ]
+        }
+    }
+}

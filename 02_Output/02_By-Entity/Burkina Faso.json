@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Burkina Faso": [
+                {
+                    "Relation": "benin",
+                    "Object": "burkina faso",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "burkina faso",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "benin",
+                    "Object": "west",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                },
+                {
+                    "Relation": "chad",
+                    "Object": "north",
+                    "Description": "It has a surface \nare of 1,267,000 square kilometres (km2), bordering Mali, Burkina Faso \nand Benin to the West, Nigeria to the South, Chad to the East and \nAlgeria and Libya to the North."
+                }
+            ]
+        }
+    }
+}

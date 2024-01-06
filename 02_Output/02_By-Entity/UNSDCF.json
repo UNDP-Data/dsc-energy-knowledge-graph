@@ -1,0 +1,1510 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "UNSDCF": [
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "the united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "the united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "un",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "unsdcf",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "the 2030 agenda for sustainable development",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "unsdcf",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "undp",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "unsdcf",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "unsdcf",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "sdg",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "the office of the",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national climate change council of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ncccn",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ministry of finance",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "budget",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national planning (mfbnp",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "office of the security advisor",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "federal ministry of environment",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "development bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "infrastructure bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "bank of industry",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "unsdcf",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "cpd",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "unsdcf",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "the united nations info",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "the united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "the united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "un",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "unsdcf",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "the 2030 agenda for sustainable development",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "unsdcf",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "undp",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "unsdcf",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "unsdcf",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "sdg",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "the office of the",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national climate change council of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ncccn",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ministry of finance",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "budget",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national planning (mfbnp",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "office of the security advisor",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "federal ministry of environment",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "development bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "infrastructure bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "bank of industry",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "unsdcf",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "cpd",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "unsdcf",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "the united nations info",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "the united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "the united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "un",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "unsdcf",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "the 2030 agenda for sustainable development",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "unsdcf",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "undp",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "unsdcf",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "unsdcf",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "sdg",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "the office of the",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national climate change council of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ncccn",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ministry of finance",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "budget",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national planning (mfbnp",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "office of the security advisor",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "federal ministry of environment",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "development bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "infrastructure bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "bank of industry",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "unsdcf",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "cpd",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "unsdcf",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "the united nations info",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "the united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "the united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "un",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "unsdcf",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "the 2030 agenda for sustainable development",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "unsdcf",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "undp",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "unsdcf",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "unsdcf",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "sdg",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "the office of the",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national climate change council of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ncccn",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ministry of finance",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "budget",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national planning (mfbnp",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "office of the security advisor",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "federal ministry of environment",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "development bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "infrastructure bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "bank of industry",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "unsdcf",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "cpd",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "unsdcf",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "the united nations info",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to annual reviews of the \nUNSDCF and the joint evaluation of outcomes to validate progress in relation to envisaged \nshort-term and long-term results."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "the european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "attain",
+                    "Object": "european union",
+                    "Description": "UNDP well to support aspirations to join the European Union and attain the outcomes of the \nUnited Nations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "unsdcf",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "gender",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "undp",
+                    "Description": "These are translated into four UNSDCF outcomes, fully adopted by \nUNDP and underpinned by five cross-cutting principles of human rights; gender equality;\ninclusion and equality; transparent civic participation; and innovation."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "These areas also form the backbone of the United \nNations Sustainable Development Cooperation Framework (UNSDCF)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "the united nations",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will support the United Nations system in achieving UNSDCF outcomes through \na two-pronged approach centred on the resilience of people and institutions."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "the united nations",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "be",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "The strength of the United Nations system in Niger will be leveraged \nin the UNSDCF through which UNDP will deliver on shared outcomes with other United \nNations organizations in the two programme pillars."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "un",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "dertaken",
+                    "Object": "unsdcf",
+                    "Description": "Regular joint monitoring across outcomes will be undertaken as part of the UNSDCF joint \nworkplan through UNSDCF results groups\u2019 meetings, and through institutions responsible for\nimplementing the programme as well as beneficiary representatives."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in United \nNations system-wide evaluations as part of UNSDCF obligations."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "the 2030 agenda for sustainable development",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "reinforcing",
+                    "Object": "unsdcf",
+                    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with\nits four mutually reinforcing strategic priorities and six outcome areas, responds to the policy \npriorities of the Government and the 2030 Agenda for Sustainable Development, and focuses\non equity and \u2018leaving no-one behind\u2019."
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "undp",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "contribute",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will contribute to all six UNSDCF outcomes, \nprimarily to No. 2, Inclusive, green-led recovery and growth; No. 3, Climate resilience and \nenvironmental sustainability; No. 4, Governance, justice and rule of law; and"
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "undp",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "brings",
+                    "Object": "unsdcf",
+                    "Description": "As a development partner in Sri Lanka for 55 years, UNDP brings five key comparative \nadvantages to support its development priorities through the UNSDCF: (a) Partnerships and\nconvening power, allowing for a multidimensional approach to policy and programming, with \nstrong links to both civil society and private sector stakeholders."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "unsdcf",
+                    "Description": "The country programme will build on the comparative advantages of UNDP as it \ncontributes to the UNSDCF within three broad priority areas: Social inclusion and \nmacroeconomic stability; Green development and Inclusive governance and justice, peace and \nsocial cohesion."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "sdg",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "un",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "places",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "ited",
+                    "Object": "unsdcf",
+                    "Description": "To meet the ambitious national targets of generating 21 million full-time jobs and \nlifting 35 million people out of poverty by 2025 the United Nations Sustainable Development \nCooperation Framework (UNSDCF) for Nigeria 2023\u20132027 places people at the centre of \ndevelopment through an inclusive, rights-based, gender-sensitive approach to achieve the \nSustainable Development Goals (SDGs)."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "the office of the",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national climate change council of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ncccn",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "ministry of finance",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "budget",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "national planning (mfbnp",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "office of the security advisor",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "federal ministry of environment",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "development bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "infrastructure bank of nigeria",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "bank of industry",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "look",
+                    "Object": "unsdcf",
+                    "Description": "UNDP, as the \nlead agency on clean energy and climate action under Priority Area 2 of the UNSDCF, will look to \nmitigate climate change and empower communities by focusing on strengthening the nexus \nbetween economic growth, environmental protection, and security, relying on strategic partnerships \nwith the Office of the Vice President, National Climate Change Council of Nigeria (NCCCN), \nMinistry of Finance, Budget, and National Planning (MFBNP), Office of the Security Advisor\n(OSA), Federal Ministry of Environment (FME), Development Bank of Nigeria (DBN), \nInfrastructure Bank of Nigeria, and Bank of Industry."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "cpd",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "aligned",
+                    "Object": "unsdcf",
+                    "Description": "CPD monitoring and evaluation will be aligned with the UNSDCF."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "undp",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "united nations",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "un",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "the united nations info",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "participate",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                },
+                {
+                    "Relation": "results",
+                    "Object": "unsdcf",
+                    "Description": "UNDP will participate in UNSDCF Results Area Groups to track outcome indicators, \nincluding using the United Nations INFO online tool for planning, monitoring, and reporting on \nnational United Nations development action."
+                }
+            ]
+        }
+    }
+}

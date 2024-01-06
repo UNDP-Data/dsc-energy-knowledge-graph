@@ -1,0 +1,710 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Africa": [
+                {
+                    "Relation": "represents",
+                    "Object": "niger",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "africa",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "mme",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "africa",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "africa",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "ecreee",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "iaea",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "pay",
+                    "Object": "niger",
+                    "Description": "However, at USD 0.158/kWh, \nNiger\u2019s consumers pay approximately \nUSD 0.07/kWh more than citizens in the \naverage African country that rely heavily \non thermal power systems (Eberhard, et \n"
+                },
+                {
+                    "Relation": "pay",
+                    "Object": "africa",
+                    "Description": "However, at USD 0.158/kWh, \nNiger\u2019s consumers pay approximately \nUSD 0.07/kWh more than citizens in the \naverage African country that rely heavily \non thermal power systems (Eberhard, et \n"
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "mdg",
+                    "Description": "According to African Ministers\u2019 Council On \nWater (AMCOW) (2011), Niger is still a long \nway from achieving the MDG targets for \nwater supply."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "africa",
+                    "Description": "According to African Ministers\u2019 Council On \nWater (AMCOW) (2011), Niger is still a long \nway from achieving the MDG targets for \nwater supply."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "mme",
+                    "Description": "In Africa, Rwanda \nnow has a promising programme."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "africa",
+                    "Description": "In Africa, Rwanda \nnow has a promising programme."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Nigeria has the largest economy ($429 billion US dollars in 2020)\nand is the most populous(211 million in 2021)\ncountry in Africa."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "africa",
+                    "Description": "Nigeria has the largest economy ($429 billion US dollars in 2020)\nand is the most populous(211 million in 2021)\ncountry in Africa."
+                },
+                {
+                    "Relation": "tries",
+                    "Object": "un",
+                    "Description": "Governance, peace, and security deficits (102 out of 104 countries in the Chandler Good \nGovernment Index, 34 out of 54 countries in the Mo Ibrahim Index of African Governance, 154 \nout 180 countries in the 2021 Transparency International Corruption Perception Index, and 143 out \nof 163 on the 2022 Global Peace Index) constitute direct threats to development and citizen trust \nin Nigerian public institutions and policies."
+                },
+                {
+                    "Relation": "tries",
+                    "Object": "africa",
+                    "Description": "Governance, peace, and security deficits (102 out of 104 countries in the Chandler Good \nGovernment Index, 34 out of 54 countries in the Mo Ibrahim Index of African Governance, 154 \nout 180 countries in the 2021 Transparency International Corruption Perception Index, and 143 out \nof 163 on the 2022 Global Peace Index) constitute direct threats to development and citizen trust \nin Nigerian public institutions and policies."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "cpd",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "government of nigeria",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "undscf",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "undp",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "unds",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "africa",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "cpd",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "undscf",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "the undp cpd",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "united nations",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "unds",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "un",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "africa",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "africa",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undscf",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "united nations",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unds",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undscf priority area 1",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "guided",
+                    "Object": "sdg",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "kingdom knowledge transfer network",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "ktn",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "guided",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "inff",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south-south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "un",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "africa",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "undp",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "united nations",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "sdg",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "iif",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "german development agency",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "giz",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "unido",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "un",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "africa",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "africa",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "undp",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "un",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "africa",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "undp",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "european union",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "un",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "the european union",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "global environmental facility",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "gef",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "africa",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "africa",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "niger",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "represents",
+                    "Object": "africa",
+                    "Description": "The West African Power Pool (WAPP) \nrepresents an opportunity for Niger."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "mme",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "achieve",
+                    "Object": "africa",
+                    "Description": "Yet this ambitious and promising \nprogramme did not achieve its intended \ngoal of creating a strong renewable energy \ntechnical capability for the West African \nregion."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "africa",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "ecreee",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "created",
+                    "Object": "iaea",
+                    "Description": "In cooperation with ECREEE and the \nInternational Atomic Energy Agency \n(IAEA), IRENA has created an energy \nsystem modelling tool for West African \ncountries called energy system that meets \nvarious system requirements including \nreliability."
+                },
+                {
+                    "Relation": "pay",
+                    "Object": "niger",
+                    "Description": "However, at USD 0.158/kWh, \nNiger\u2019s consumers pay approximately \nUSD 0.07/kWh more than citizens in the \naverage African country that rely heavily \non thermal power systems (Eberhard, et \n"
+                },
+                {
+                    "Relation": "pay",
+                    "Object": "africa",
+                    "Description": "However, at USD 0.158/kWh, \nNiger\u2019s consumers pay approximately \nUSD 0.07/kWh more than citizens in the \naverage African country that rely heavily \non thermal power systems (Eberhard, et \n"
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "mdg",
+                    "Description": "According to African Ministers\u2019 Council On \nWater (AMCOW) (2011), Niger is still a long \nway from achieving the MDG targets for \nwater supply."
+                },
+                {
+                    "Relation": "achieving",
+                    "Object": "africa",
+                    "Description": "According to African Ministers\u2019 Council On \nWater (AMCOW) (2011), Niger is still a long \nway from achieving the MDG targets for \nwater supply."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "mme",
+                    "Description": "In Africa, Rwanda \nnow has a promising programme."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "africa",
+                    "Description": "In Africa, Rwanda \nnow has a promising programme."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "un",
+                    "Description": "Nigeria has the largest economy ($429 billion US dollars in 2020)\nand is the most populous(211 million in 2021)\ncountry in Africa."
+                },
+                {
+                    "Relation": "try",
+                    "Object": "africa",
+                    "Description": "Nigeria has the largest economy ($429 billion US dollars in 2020)\nand is the most populous(211 million in 2021)\ncountry in Africa."
+                },
+                {
+                    "Relation": "tries",
+                    "Object": "un",
+                    "Description": "Governance, peace, and security deficits (102 out of 104 countries in the Chandler Good \nGovernment Index, 34 out of 54 countries in the Mo Ibrahim Index of African Governance, 154 \nout 180 countries in the 2021 Transparency International Corruption Perception Index, and 143 out \nof 163 on the 2022 Global Peace Index) constitute direct threats to development and citizen trust \nin Nigerian public institutions and policies."
+                },
+                {
+                    "Relation": "tries",
+                    "Object": "africa",
+                    "Description": "Governance, peace, and security deficits (102 out of 104 countries in the Chandler Good \nGovernment Index, 34 out of 54 countries in the Mo Ibrahim Index of African Governance, 154 \nout 180 countries in the 2021 Transparency International Corruption Perception Index, and 143 out \nof 163 on the 2022 Global Peace Index) constitute direct threats to development and citizen trust \nin Nigerian public institutions and policies."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "cpd",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "government of nigeria",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "undscf",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "undp",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "unds",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "drawing",
+                    "Object": "africa",
+                    "Description": "Anchored in the 2030 Agenda and African Union Agenda 2063, and drawing lessons from the \nmid-term review of the 2018-2022 Country Programme Document (CPD), the new CPD for 2023\u2013\n2027 represents UNDP contributions to Government of Nigeria development efforts and UNDSCF."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "cpd",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "undscf",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "undp",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "the undp cpd",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "united nations",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "unds",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "un",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "contributes",
+                    "Object": "africa",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "africa",
+                    "Description": "The UNDP CPD for 2023 to 2027 contributes to the United Nations development system\n(UNDS) overall objective in the UNDSCF that promotes inclusive human-rights based and gender\u0002sensitive development in Nigeria for the acceleration and achievement of the 2030 Agenda and \nAfrican Union Agenda 2063."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undscf",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undp",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "united nations",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "unds",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "undscf priority area 1",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "guided",
+                    "Object": "sdg",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "kingdom knowledge transfer network",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "ktn",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "un",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "support",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "innovate",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "guided",
+                    "Object": "africa",
+                    "Description": "To contribute to UNDSCF Priority Area 1 on sustainable and \ninclusive growth, UNDP will support development planning; SDG mainstreaming and \nimplementation in strategic plans and policies at federal and state levels; policy reforms guided by \ninternational best practices, economic analyses, and forecasting; data generation; inclusive finance \nand impact investments; leveraging the African Continental Free Trade Area (AfCFTA) agreement, \nentrepreneurship development and employment creation through the SDG innovation Hub, Office \nof the Senior Special Assistant to the President on SDGs (OSSAP-SDGs), Innovate United \nKingdom Knowledge Transfer Network (KTN), the United Nations Children\u2019s Fund (UNICEF), \nUnited Nations Entity for Gender Equality and the Empowerment of Women (UN Women) and the\nprivate sector, and the Accelerator Lab on agriculture and value chain development (especially \ninvolving women and youth)."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "inff",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south-south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "un",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "south",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "see",
+                    "Object": "africa",
+                    "Description": "The launch of the INFF, partly through South-South cooperation, will see Nigeria\nexchange lessons learned with other African countries on its successful INFF process."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "undp",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "united nations",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "sdg",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "iif",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "german development agency",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "giz",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "unido",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "un",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "prioritize",
+                    "Object": "africa",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "deepening",
+                    "Object": "africa",
+                    "Description": "In addition, \nUNDP will prioritize SDG impact investments in partnership with the national advisory board, \nImpact Investment Foundation (IIF), German Development Agency (GIZ), United Nations \nIndustrial Development Organization (UNIDO) and global investors, as well as insurance risk \nfinancers in collaboration with the Financial Sector Deepening Africa (FSD Africa) and Insurance \nDevelopment Forum (IDF)."
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "undp",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "un",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "collaborate",
+                    "Object": "africa",
+                    "Description": "To address cross border governance challenges, including the proliferation of small arms, violent extremism, organised crime, and illegal migration UNDP will collaborate on joint programming with neighbouring country offices, Economic Community of West African States \n"
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "undp",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "european union",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "un",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "the european union",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "global environmental facility",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "gef",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "deepen",
+                    "Object": "africa",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                },
+                {
+                    "Relation": "establish",
+                    "Object": "africa",
+                    "Description": "UNDP will deepen partnerships with development partners, namely the European Union, \ngovernments of Germany, Japan, Norway, Sweden, the Netherlands, Korea, Canada, the United \nKingdom, United States, and Global Environmental Facility (GEF) and establish new ones with \ninternational financial institutions like the World Bank, African Development Bank (AfDB), and \nthe Islamic Development Bank."
+                }
+            ]
+        }
+    }
+}

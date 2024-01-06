@@ -1,0 +1,40 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "the Sri Lanka Sustainable Energy Fund": [
+                {
+                    "Relation": "channelled",
+                    "Object": "the sri lanka sustainable energy fund",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                },
+                {
+                    "Relation": "channelled",
+                    "Object": "un",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                },
+                {
+                    "Relation": "operated",
+                    "Object": "sea",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                },
+                {
+                    "Relation": "operated",
+                    "Object": "the sea act",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                },
+                {
+                    "Relation": "operated",
+                    "Object": "ess",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                },
+                {
+                    "Relation": "operated",
+                    "Object": "the sri lanka sustainable energy fund",
+                    "Description": "A sizable fund will be channelled to the Sri Lanka Sustainable Energy Fund operated by the SEA by\nevoking provisions in the SEA Act for charging a cess on fossil fuel imports and a resource royalty\nfrom renewable resources."
+                }
+            ]
+        }
+    }
+}
