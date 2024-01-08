@@ -131,6 +131,92 @@
             }
         ],
         "relations": {
+            "United Nations": [
+                {
+                    "Relation": "PROPOSED",
+                    "Object": "Afghanistan",
+                    "Description": "Based on an analysis of development needs and guided by national development policies, as reflected in the United Nations Development Assistance Framework, the Tokyo Mutual Accountability Framework, the national priority programmes and the emerging ‘New Deal’ agenda, as well as the lessons learned reflected in the assessment of development results and the United Nations common country assessment, the United Nations family and partners have agreed to five outcomes to address fragility in its many dimensions and the root causes of conflict."
+                },
+                {
+                    "Relation": "HAS_PARTNERSHIP_WITH",
+                    "Object": "Afghanistan",
+                    "Description": "The United Nations has been working with the Afghan government to develop renewable energy projects."
+                },
+                {
+                    "Relation": "CONTAINS",
+                    "Object": "UNDP",
+                    "Description": "UNDP will continue to adapt to a changing national context in four of the five United Nations Development Assistance Framework outcomes outlined below, and will take on leadership or facilitation roles in those areas as requested."
+                },
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "Afghanistan",
+                    "Description": "National climate change policies, as well as five disaster-prone provinces, will be identified, in collaboration with the Afghanistan National Disaster Management Authority and the United Nations Office for the Coordination of Humanitarian Affairs, to strengthen the humanitarian-development nexus."
+                }
+            ],
+            "Government": [
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "UNDP",
+                    "Description": "UNDP will support the Government in implementing legal commitments, both national and international, that affect the lives of women."
+                },
+                {
+                    "Relation": "HAS_PROPERTY",
+                    "Object": "Afghanistan",
+                    "Description": "Over 30 per cent of central government employees are women, and 28 per cent of the seats in the national parliament are reserved for women."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "UNDP",
+                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Afghanistan Renewable Energy Union",
+                    "Description": "The costs for applicable RE technologies and projects in Afghanistan have been collected through primary research by directly consulting with project developers, mainly members of Afghanistan Renewable Energy Union (AREU) and a few NGOs and donors."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Private Sector",
+                    "Description": "The role of Government is to provide a policy and regulatory framework that encourages and facilitates participation of the private sector and civil society in rural electrification."
+                },
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "Asian Development Bank",
+                    "Description": "The Asian Development Bank through a Technical Assistance (TA) has addressed these challenges by way of developing the Roadmap for Renewable Energy in Afghanistan."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "PARTICIPATED_IN",
+                    "Object": "Afghanistan",
+                    "Description": "UNDP has been an active player in accountable governance since 2002. Having supported, effectively, all presidential and parliamentary elections, increased the capacity of parliament and strengthened subnational governance at the provincial and district levels, UNDP will deepen its engagement in participatory approaches and will work closely with national partners, including the Afghanistan Independent Human Rights Commission."
+                },
+                {
+                    "Relation": "IS_USED_IN",
+                    "Object": "Ministry of Interior",
+                    "Description": "The largest UNDP programme in the world, the Law and Order Trust Fund for Afghanistan, involves supporting the police, through payroll and the Ministry of Interior, in making the transition from a paramilitary force to a civilian police service."
+                },
+                {
+                    "Relation": "RELATED_TO",
+                    "Object": "Government",
+                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
+                },
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "UNAMA",
+                    "Description": "In coordination with UNAMA, UNDP electoral cycle support will assist national institutions in the better management of presidential, parliamentary and local election processes."
+                },
+                {
+                    "Relation": "RELATED_TO",
+                    "Object": "Afghanistan",
+                    "Description": "This will involve a greater use of state and non-state actors in Afghanistan, and at the regional and global levels through South-South cooperation, to ensure that the best national and international comparative experience can be integrated into the country programme outcome areas of work."
+                },
+                {
+                    "Relation": "PARTICIPATED_IN",
+                    "Object": "World Bank",
+                    "Description": "Key partners will include the Civil Service Commission, the World Bank and the United Nations country team, to ensure harmonization of efforts."
+                }
+            ],
             "Afghanistan": [
                 {
                     "Relation": "HAS_ENERGY_RESOURCE",
@@ -201,92 +287,6 @@
                     "Relation": "RELATED_TO",
                     "Object": "UNDP",
                     "Description": "As Afghanistan enters its Transformation Decade, UNDP should also transition to meet emerging priorities and operational challenges, guided by the United Nations Development Assistance Framework and the new strategic plan, 2014-2017."
-                }
-            ],
-            "Government": [
-                {
-                    "Relation": "SUPPORTED_BY",
-                    "Object": "UNDP",
-                    "Description": "UNDP will support the Government in implementing legal commitments, both national and international, that affect the lives of women."
-                },
-                {
-                    "Relation": "HAS_PROPERTY",
-                    "Object": "Afghanistan",
-                    "Description": "Over 30 per cent of central government employees are women, and 28 per cent of the seats in the national parliament are reserved for women."
-                },
-                {
-                    "Relation": "HAS_RELATIONSHIP_WITH",
-                    "Object": "UNDP",
-                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
-                },
-                {
-                    "Relation": "HAS_RELATIONSHIP_WITH",
-                    "Object": "Afghanistan Renewable Energy Union",
-                    "Description": "The costs for applicable RE technologies and projects in Afghanistan have been collected through primary research by directly consulting with project developers, mainly members of Afghanistan Renewable Energy Union (AREU) and a few NGOs and donors."
-                },
-                {
-                    "Relation": "HAS_RELATIONSHIP_WITH",
-                    "Object": "Private Sector",
-                    "Description": "The role of Government is to provide a policy and regulatory framework that encourages and facilitates participation of the private sector and civil society in rural electrification."
-                },
-                {
-                    "Relation": "SUPPORTED_BY",
-                    "Object": "Asian Development Bank",
-                    "Description": "The Asian Development Bank through a Technical Assistance (TA) has addressed these challenges by way of developing the Roadmap for Renewable Energy in Afghanistan."
-                }
-            ],
-            "United Nations": [
-                {
-                    "Relation": "PROPOSED",
-                    "Object": "Afghanistan",
-                    "Description": "Based on an analysis of development needs and guided by national development policies, as reflected in the United Nations Development Assistance Framework, the Tokyo Mutual Accountability Framework, the national priority programmes and the emerging ‘New Deal’ agenda, as well as the lessons learned reflected in the assessment of development results and the United Nations common country assessment, the United Nations family and partners have agreed to five outcomes to address fragility in its many dimensions and the root causes of conflict."
-                },
-                {
-                    "Relation": "HAS_PARTNERSHIP_WITH",
-                    "Object": "Afghanistan",
-                    "Description": "The United Nations has been working with the Afghan government to develop renewable energy projects."
-                },
-                {
-                    "Relation": "CONTAINS",
-                    "Object": "UNDP",
-                    "Description": "UNDP will continue to adapt to a changing national context in four of the five United Nations Development Assistance Framework outcomes outlined below, and will take on leadership or facilitation roles in those areas as requested."
-                },
-                {
-                    "Relation": "COLLABORATE_WITH",
-                    "Object": "Afghanistan",
-                    "Description": "National climate change policies, as well as five disaster-prone provinces, will be identified, in collaboration with the Afghanistan National Disaster Management Authority and the United Nations Office for the Coordination of Humanitarian Affairs, to strengthen the humanitarian-development nexus."
-                }
-            ],
-            "UNDP": [
-                {
-                    "Relation": "PARTICIPATED_IN",
-                    "Object": "Afghanistan",
-                    "Description": "UNDP has been an active player in accountable governance since 2002. Having supported, effectively, all presidential and parliamentary elections, increased the capacity of parliament and strengthened subnational governance at the provincial and district levels, UNDP will deepen its engagement in participatory approaches and will work closely with national partners, including the Afghanistan Independent Human Rights Commission."
-                },
-                {
-                    "Relation": "IS_USED_IN",
-                    "Object": "Ministry of Interior",
-                    "Description": "The largest UNDP programme in the world, the Law and Order Trust Fund for Afghanistan, involves supporting the police, through payroll and the Ministry of Interior, in making the transition from a paramilitary force to a civilian police service."
-                },
-                {
-                    "Relation": "RELATED_TO",
-                    "Object": "Government",
-                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
-                },
-                {
-                    "Relation": "COLLABORATE_WITH",
-                    "Object": "UNAMA",
-                    "Description": "In coordination with UNAMA, UNDP electoral cycle support will assist national institutions in the better management of presidential, parliamentary and local election processes."
-                },
-                {
-                    "Relation": "RELATED_TO",
-                    "Object": "Afghanistan",
-                    "Description": "This will involve a greater use of state and non-state actors in Afghanistan, and at the regional and global levels through South-South cooperation, to ensure that the best national and international comparative experience can be integrated into the country programme outcome areas of work."
-                },
-                {
-                    "Relation": "PARTICIPATED_IN",
-                    "Object": "World Bank",
-                    "Description": "Key partners will include the Civil Service Commission, the World Bank and the United Nations country team, to ensure harmonization of efforts."
                 }
             ],
             "Ministry of Interior": [
