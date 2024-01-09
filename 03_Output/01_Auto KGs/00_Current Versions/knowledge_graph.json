@@ -1,0 +1,1504 @@
+{
+    "sustainable energy": {
+        "relations": [],
+        "subgraph": {}
+    },
+    "Renewable energy": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "S",
+            "o",
+            "l",
+            "a",
+            "r",
+            "e",
+            "n",
+            "g",
+            "y",
+            "c",
+            "m",
+            "p",
+            "i",
+            "s",
+            "\n",
+            "2",
+            "W",
+            "d",
+            "3",
+            "G",
+            "t",
+            "h",
+            "4",
+            "H",
+            "w",
+            "5",
+            "B",
+            "6",
+            "T",
+            "7",
+            "E",
+            "8",
+            "R",
+            "b",
+            "u",
+            "9",
+            "z",
+            "0",
+            "f"
+        ],
+        "subgraph": {
+            "entities": "1. Solar energy companies\n2. Wind energy companies\n3. Geothermal energy companies\n4. Hydroelectric power plants\n5. Biomass energy companies\n6. Tidal energy companies\n7. Energy storage companies\n8. Renewable energy research institutions\n9. Renewable energy policy organizations\n10. Renewable energy consulting firms",
+            "relations": "1. Solar energy companies\n2. Wind energy companies\n3. Geothermal energy companies\n4. Hydroelectric power plants\n5. Biomass energy companies\n6. Tidal energy companies\n7. Energy storage companies\n8. Renewable energy research institutions\n9. Renewable energy policy organizations\n10. Renewable energy consulting firms"
+        }
+    },
+    "1": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    ".": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    " ": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "S": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "o": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "l": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "a": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "r": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "e": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "n": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "g": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "y": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "c": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "m": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "p": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "i": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "s": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "\n": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "2": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "W": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "d": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "3": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "G": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "t": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "h": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "4": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "H": {
+        "relations": [
+            "Renewable energy",
+            "Clean energy",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "w": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "5": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "B": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Climate change mitigation",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "6": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "T": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "7": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "E": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "8": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "R": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "b": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "u": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "9": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "z": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "0": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "f": {
+        "relations": [
+            "Renewable energy",
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "Green technology": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "S",
+            "o",
+            "l",
+            "a",
+            "r",
+            "e",
+            "n",
+            "g",
+            "y",
+            "c",
+            "m",
+            "p",
+            "i",
+            "s",
+            ":",
+            "T",
+            "h",
+            "f",
+            "u",
+            "t",
+            "w",
+            ",",
+            "C",
+            "P",
+            "\n",
+            "2",
+            "W",
+            "d",
+            "b",
+            "k",
+            "V",
+            "G",
+            "E",
+            "v",
+            "3",
+            "N",
+            "4",
+            "'",
+            "L",
+            "5",
+            "z",
+            "D",
+            "(",
+            ")",
+            "B",
+            "R",
+            "A",
+            "M",
+            "-",
+            "6",
+            "7",
+            "O",
+            "I",
+            "F",
+            "8",
+            "X",
+            "9",
+            "0"
+        ],
+        "subgraph": {
+            "entities": "1. Solar energy companies: These companies focus on harnessing the power of the sun to generate electricity, such as SolarCity or SunPower.\n\n2. Wind turbine manufacturers: Companies like Vestas or General Electric produce wind turbines that convert wind energy into electricity.\n\n3. Electric vehicle manufacturers: Companies like Tesla or Nissan produce electric cars that reduce reliance on fossil fuels.\n\n4. Energy storage companies: Entities like Tesla's Powerwall or LG Chem develop advanced batteries to store renewable energy for later use.\n\n5. Green building certification organizations: LEED (Leadership in Energy and Environmental Design) or BREEAM (Building Research Establishment Environmental Assessment Method) provide certifications for sustainable and energy-efficient buildings.\n\n6. Recycling companies: Entities like Waste Management or Veolia focus on recycling and waste management to reduce environmental impact.\n\n7. Sustainable agriculture companies: Organizations like Beyond Meat or Impossible Foods develop plant-based alternatives to meat, reducing the environmental impact of livestock farming.\n\n8. Water purification companies: Entities like Xylem or Suez provide technologies for purifying and conserving water resources.\n\n9. Green energy research institutions: Organizations like the National Renewable Energy Laboratory (NREL) or the International Renewable Energy Agency (IRENA) conduct research and development in renewable energy technologies.\n\n10. Environmental non-profit organizations: Entities like Greenpeace or the Sierra Club work towards promoting green technologies and advocating for sustainable practices.",
+            "relations": "1. Solar energy companies: These companies focus on harnessing the power of the sun to generate electricity, such as SolarCity or SunPower.\n\n2. Wind turbine manufacturers: Companies like Vestas or General Electric produce wind turbines that convert wind energy into electricity.\n\n3. Electric vehicle manufacturers: Companies like Tesla or Nissan produce electric cars that reduce reliance on fossil fuels.\n\n4. Energy storage companies: Entities like Tesla's Powerwall or LG Chem develop advanced batteries to store renewable energy for later use.\n\n5. Green building certification organizations: LEED (Leadership in Energy and Environmental Design) or BREEAM (Building Research Establishment Environmental Assessment Method) provide certifications for sustainable and energy-efficient buildings.\n\n6. Recycling companies: Entities like Waste Management or Veolia focus on recycling and waste management to reduce environmental impact.\n\n7. Sustainable agriculture companies: Organizations like Beyond Meat or Impossible Foods develop plant-based alternatives to meat, reducing the environmental impact of livestock farming.\n\n8. Water purification companies: Entities like Xylem or Suez provide technologies for purifying and conserving water resources.\n\n9. Green energy research institutions: Organizations like the National Renewable Energy Laboratory (NREL) or the International Renewable Energy Agency (IRENA) conduct research and development in renewable energy technologies.\n\n10. Environmental non-profit organizations: Entities like Greenpeace or the Sierra Club work towards promoting green technologies and advocating for sustainable practices."
+        }
+    },
+    ":": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    ",": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "C": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "P": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "k": {
+        "relations": [
+            "Green technology",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "V": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Circular economy",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "v": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "N": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "'": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Circular economy"
+        ],
+        "subgraph": {}
+    },
+    "L": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Climate change mitigation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "D": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "(": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Climate change mitigation",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    ")": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Climate change mitigation",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "A": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation"
+        ],
+        "subgraph": {}
+    },
+    "M": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Circular economy",
+            "Climate change mitigation",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "-": {
+        "relations": [
+            "Green technology",
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Eco-friendly practices",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "O": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Eco-friendly practices",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "I": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "F": {
+        "relations": [
+            "Green technology",
+            "Clean energy",
+            "Circular economy",
+            "Climate change mitigation",
+            "Carbon footprint reduction"
+        ],
+        "subgraph": {}
+    },
+    "X": {
+        "relations": [
+            "Green technology"
+        ],
+        "subgraph": {}
+    },
+    "Clean energy": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "S",
+            "o",
+            "l",
+            "a",
+            "r",
+            "e",
+            "n",
+            "g",
+            "y",
+            "c",
+            "m",
+            "p",
+            "i",
+            "s",
+            ":",
+            "T",
+            "h",
+            "z",
+            "t",
+            "w",
+            "f",
+            "u",
+            ",",
+            "P",
+            "C",
+            "d",
+            "F",
+            "\n",
+            "2",
+            "W",
+            "b",
+            "V",
+            "G",
+            "R",
+            "E",
+            "3",
+            "H",
+            "v",
+            "D",
+            "U",
+            "4",
+            "'",
+            "O",
+            "5",
+            "B",
+            "x",
+            "K",
+            "6",
+            "N",
+            "M",
+            "7",
+            "L",
+            "8",
+            "9",
+            "(",
+            ")",
+            "0",
+            "I",
+            "A"
+        ],
+        "subgraph": {
+            "entities": "1. Solar energy companies: These companies specialize in harnessing the power of the sun to generate electricity, such as SunPower Corporation and First Solar.\n\n2. Wind energy companies: These companies focus on generating electricity through wind turbines, such as Vestas Wind Systems and Siemens Gamesa Renewable Energy.\n\n3. Hydroelectric power plants: These entities utilize the power of flowing or falling water to generate electricity, such as the Hoover Dam in the United States or the Three Gorges Dam in China.\n\n4. Geothermal energy companies: These companies tap into the Earth's natural heat to generate electricity, such as Ormat Technologies and Calpine Corporation.\n\n5. Biomass energy facilities: These entities convert organic materials, such as agricultural waste or wood pellets, into energy, such as Drax Group in the UK or Enviva in the United States.\n\n6. Electric vehicle manufacturers: These companies produce vehicles that run on electricity, reducing reliance on fossil fuels, such as Tesla, Nissan, and General Motors.\n\n7. Energy storage companies: These entities develop technologies to store excess energy generated from renewable sources, such as Tesla's Powerwall or LG Chem's batteries.\n\n8. Energy efficiency consulting firms: These organizations provide expertise and guidance on how to optimize energy usage and reduce waste, such as Schneider Electric or Siemens Energy.\n\n9. Clean energy research institutions: These entities focus on advancing clean energy technologies through research and development, such as the National Renewable Energy Laboratory (NREL) in the United States or the Fraunhofer Society in Germany.\n\n10. Government agencies promoting clean energy: These entities play a crucial role in setting policies, providing incentives, and regulating the clean energy sector, such as the United States Department of Energy or the International Renewable Energy Agency (IRENA).",
+            "relations": "1. Solar energy companies: These companies specialize in harnessing the power of the sun to generate electricity, such as SunPower Corporation and First Solar.\n\n2. Wind energy companies: These companies focus on generating electricity through wind turbines, such as Vestas Wind Systems and Siemens Gamesa Renewable Energy.\n\n3. Hydroelectric power plants: These entities utilize the power of flowing or falling water to generate electricity, such as the Hoover Dam in the United States or the Three Gorges Dam in China.\n\n4. Geothermal energy companies: These companies tap into the Earth's natural heat to generate electricity, such as Ormat Technologies and Calpine Corporation.\n\n5. Biomass energy facilities: These entities convert organic materials, such as agricultural waste or wood pellets, into energy, such as Drax Group in the UK or Enviva in the United States.\n\n6. Electric vehicle manufacturers: These companies produce vehicles that run on electricity, reducing reliance on fossil fuels, such as Tesla, Nissan, and General Motors.\n\n7. Energy storage companies: These entities develop technologies to store excess energy generated from renewable sources, such as Tesla's Powerwall or LG Chem's batteries.\n\n8. Energy efficiency consulting firms: These organizations provide expertise and guidance on how to optimize energy usage and reduce waste, such as Schneider Electric or Siemens Energy.\n\n9. Clean energy research institutions: These entities focus on advancing clean energy technologies through research and development, such as the National Renewable Energy Laboratory (NREL) in the United States or the Fraunhofer Society in Germany.\n\n10. Government agencies promoting clean energy: These entities play a crucial role in setting policies, providing incentives, and regulating the clean energy sector, such as the United States Department of Energy or the International Renewable Energy Agency (IRENA)."
+        }
+    },
+    "U": {
+        "relations": [
+            "Clean energy",
+            "Energy efficiency",
+            "Circular economy",
+            "Climate change mitigation",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "x": {
+        "relations": [
+            "Clean energy",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Sustainable transportation",
+            "Waste management"
+        ],
+        "subgraph": {}
+    },
+    "K": {
+        "relations": [
+            "Clean energy"
+        ],
+        "subgraph": {}
+    },
+    "Energy efficiency": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "E",
+            "n",
+            "e",
+            "r",
+            "g",
+            "y",
+            "S",
+            "t",
+            "a",
+            ":",
+            "A",
+            "v",
+            "o",
+            "l",
+            "u",
+            "p",
+            "m",
+            "b",
+            "h",
+            "U",
+            "i",
+            "P",
+            "c",
+            "(",
+            ")",
+            "s",
+            "f",
+            "d",
+            ",",
+            "\n",
+            "2",
+            "I",
+            "w",
+            "k",
+            "3",
+            "z",
+            "4",
+            "R",
+            "D",
+            "O",
+            "5",
+            "C",
+            "-",
+            "6",
+            "7",
+            "N",
+            "L",
+            "8",
+            "j",
+            "9",
+            "G",
+            "B",
+            "W",
+            "0"
+        ],
+        "subgraph": {
+            "entities": "1. Energy Star: A voluntary program by the U.S. Environmental Protection Agency (EPA) that promotes energy efficiency in products, buildings, and homes.\n\n2. International Energy Agency (IEA): An autonomous agency that works to promote energy security, economic growth, and environmental sustainability worldwide, including energy efficiency initiatives.\n\n3. Alliance to Save Energy: A nonprofit organization that advocates for energy efficiency policies, programs, and technologies to achieve a sustainable future.\n\n4. Energy Efficiency and Renewable Energy (EERE): A division of the U.S. Department of Energy (DOE) that focuses on developing and promoting energy efficiency and renewable energy technologies.\n\n5. American Council for an Energy-Efficient Economy (ACEEE): A nonprofit organization that conducts research and advocates for policies and programs to promote energy efficiency in the United States.\n\n6. Energy Efficiency Directive (EED): A European Union directive that sets binding measures to help EU countries achieve their energy efficiency targets and reduce energy consumption.\n\n7. National Renewable Energy Laboratory (NREL): A U.S. DOE research laboratory that focuses on advancing renewable energy and energy efficiency technologies.\n\n8. Energy Efficiency Services Limited (EESL): A government-owned energy service company in India that implements energy efficiency projects and promotes energy conservation.\n\n9. Green Building Councils: Organizations such as the U.S. Green Building Council (USGBC) and the World Green Building Council (WGBC) that promote sustainable building practices, including energy-efficient design and construction.\n\n10. Energy Efficiency Alberta: A government agency in Alberta, Canada, that offers programs, incentives, and information to help residents and businesses save energy and reduce greenhouse gas emissions.",
+            "relations": "1. Energy Star: A voluntary program by the U.S. Environmental Protection Agency (EPA) that promotes energy efficiency in products, buildings, and homes.\n\n2. International Energy Agency (IEA): An autonomous agency that works to promote energy security, economic growth, and environmental sustainability worldwide, including energy efficiency initiatives.\n\n3. Alliance to Save Energy: A nonprofit organization that advocates for energy efficiency policies, programs, and technologies to achieve a sustainable future.\n\n4. Energy Efficiency and Renewable Energy (EERE): A division of the U.S. Department of Energy (DOE) that focuses on developing and promoting energy efficiency and renewable energy technologies.\n\n5. American Council for an Energy-Efficient Economy (ACEEE): A nonprofit organization that conducts research and advocates for policies and programs to promote energy efficiency in the United States.\n\n6. Energy Efficiency Directive (EED): A European Union directive that sets binding measures to help EU countries achieve their energy efficiency targets and reduce energy consumption.\n\n7. National Renewable Energy Laboratory (NREL): A U.S. DOE research laboratory that focuses on advancing renewable energy and energy efficiency technologies.\n\n8. Energy Efficiency Services Limited (EESL): A government-owned energy service company in India that implements energy efficiency projects and promotes energy conservation.\n\n9. Green Building Councils: Organizations such as the U.S. Green Building Council (USGBC) and the World Green Building Council (WGBC) that promote sustainable building practices, including energy-efficient design and construction.\n\n10. Energy Efficiency Alberta: A government agency in Alberta, Canada, that offers programs, incentives, and information to help residents and businesses save energy and reduce greenhouse gas emissions."
+        }
+    },
+    "j": {
+        "relations": [
+            "Energy efficiency",
+            "Circular economy",
+            "Carbon footprint reduction",
+            "Sustainable transportation"
+        ],
+        "subgraph": {}
+    },
+    "Circular economy": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "C",
+            "o",
+            "m",
+            "p",
+            "a",
+            "n",
+            "i",
+            "e",
+            "s",
+            ":",
+            "M",
+            "y",
+            "c",
+            "r",
+            "d",
+            "t",
+            "g",
+            "u",
+            "l",
+            ",",
+            "h",
+            "P",
+            "U",
+            "v",
+            "I",
+            "f",
+            "w",
+            "b",
+            "\n",
+            "2",
+            "G",
+            "F",
+            "x",
+            "E",
+            "3",
+            "N",
+            "-",
+            "z",
+            "V",
+            "k",
+            "A",
+            "W",
+            "4",
+            "5",
+            "6",
+            "7",
+            "R",
+            "8",
+            "S",
+            "9",
+            "j",
+            "0",
+            "'"
+        ],
+        "subgraph": {
+            "entities": "1. Companies: Many companies are adopting circular economy principles and practices, such as Patagonia, Unilever, and Interface, to reduce waste, promote recycling, and create sustainable products.\n\n2. Governments: Governments play a crucial role in promoting and implementing circular economy policies and regulations. For example, the European Union has set ambitious targets for waste reduction and recycling.\n\n3. Non-profit organizations: Various non-profit organizations, like the Ellen MacArthur Foundation and the World Wildlife Fund, work towards promoting and advancing the circular economy concept through research, advocacy, and collaboration.\n\n4. Academia: Universities and research institutions contribute to the development of circular economy knowledge and innovation through research, education, and training programs.\n\n5. Consumers: Consumers have a significant impact on the circular economy by making sustainable choices, such as buying second-hand products, repairing items instead of replacing them, and recycling properly.\n\n6. Waste management companies: Waste management companies play a crucial role in the circular economy by collecting, sorting, and processing waste materials for recycling or repurposing.\n\n7. Recycling facilities: Recycling facilities are essential entities in the circular economy as they transform waste materials into new products or raw materials, reducing the need for virgin resources.\n\n8. Startups and entrepreneurs: Many startups and entrepreneurs are driving innovation in the circular economy by developing new business models, technologies, and products that promote resource efficiency and waste reduction.\n\n9. Investors: Investors play a vital role in supporting circular economy initiatives by providing funding and financial support to companies and projects that align with circular economy principles.\n\n10. Consumers' cooperatives: Consumer cooperatives, such as food cooperatives or energy cooperatives, promote the circular economy by encouraging local production, reducing waste, and fostering community engagement.",
+            "relations": "1. Companies: Many companies are adopting circular economy principles and practices, such as Patagonia, Unilever, and Interface, to reduce waste, promote recycling, and create sustainable products.\n\n2. Governments: Governments play a crucial role in promoting and implementing circular economy policies and regulations. For example, the European Union has set ambitious targets for waste reduction and recycling.\n\n3. Non-profit organizations: Various non-profit organizations, like the Ellen MacArthur Foundation and the World Wildlife Fund, work towards promoting and advancing the circular economy concept through research, advocacy, and collaboration.\n\n4. Academia: Universities and research institutions contribute to the development of circular economy knowledge and innovation through research, education, and training programs.\n\n5. Consumers: Consumers have a significant impact on the circular economy by making sustainable choices, such as buying second-hand products, repairing items instead of replacing them, and recycling properly.\n\n6. Waste management companies: Waste management companies play a crucial role in the circular economy by collecting, sorting, and processing waste materials for recycling or repurposing.\n\n7. Recycling facilities: Recycling facilities are essential entities in the circular economy as they transform waste materials into new products or raw materials, reducing the need for virgin resources.\n\n8. Startups and entrepreneurs: Many startups and entrepreneurs are driving innovation in the circular economy by developing new business models, technologies, and products that promote resource efficiency and waste reduction.\n\n9. Investors: Investors play a vital role in supporting circular economy initiatives by providing funding and financial support to companies and projects that align with circular economy principles.\n\n10. Consumers' cooperatives: Consumer cooperatives, such as food cooperatives or energy cooperatives, promote the circular economy by encouraging local production, reducing waste, and fostering community engagement."
+        }
+    },
+    "Climate change mitigation": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "U",
+            "n",
+            "i",
+            "t",
+            "e",
+            "d",
+            "N",
+            "a",
+            "o",
+            "s",
+            "F",
+            "r",
+            "m",
+            "w",
+            "k",
+            "C",
+            "v",
+            "l",
+            "h",
+            "g",
+            "(",
+            ")",
+            "\n",
+            "2",
+            "I",
+            "P",
+            "3",
+            "G",
+            "u",
+            "4",
+            "W",
+            "B",
+            "5",
+            "b",
+            "E",
+            "c",
+            "y",
+            "6",
+            "D",
+            "p",
+            "M",
+            "7",
+            "R",
+            "A",
+            "8",
+            "L",
+            "9",
+            "0",
+            "f",
+            "&"
+        ],
+        "subgraph": {
+            "entities": "1. United Nations Framework Convention on Climate Change (UNFCCC)\n2. Intergovernmental Panel on Climate Change (IPCC)\n3. Green Climate Fund (GCF)\n4. World Bank\n5. Global Environment Facility (GEF)\n6. Clean Development Mechanism (CDM)\n7. Renewable Energy Agency (IRENA)\n8. Carbon Pricing Leadership Coalition (CPLC)\n9. Climate and Clean Air Coalition (CCAC)\n10. Global Covenant of Mayors for Climate & Energy",
+            "relations": "1. United Nations Framework Convention on Climate Change (UNFCCC)\n2. Intergovernmental Panel on Climate Change (IPCC)\n3. Green Climate Fund (GCF)\n4. World Bank\n5. Global Environment Facility (GEF)\n6. Clean Development Mechanism (CDM)\n7. Renewable Energy Agency (IRENA)\n8. Carbon Pricing Leadership Coalition (CPLC)\n9. Climate and Clean Air Coalition (CCAC)\n10. Global Covenant of Mayors for Climate & Energy"
+        }
+    },
+    "&": {
+        "relations": [
+            "Climate change mitigation"
+        ],
+        "subgraph": {}
+    },
+    "Carbon footprint reduction": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "R",
+            "e",
+            "n",
+            "w",
+            "a",
+            "b",
+            "l",
+            "r",
+            "g",
+            "y",
+            "s",
+            "o",
+            "u",
+            "c",
+            ":",
+            "T",
+            "i",
+            "t",
+            "h",
+            ",",
+            "d",
+            "p",
+            "f",
+            "m",
+            "\n",
+            "2",
+            "E",
+            "-",
+            "C",
+            "3",
+            "S",
+            "P",
+            "v",
+            "/",
+            "k",
+            "4",
+            "W",
+            "I",
+            "5",
+            "F",
+            "x",
+            "6",
+            "7",
+            "D",
+            "8",
+            "G",
+            "j",
+            "9",
+            "0",
+            "z"
+        ],
+        "subgraph": {
+            "entities": "1. Renewable energy sources: Transitioning to renewable energy sources such as solar, wind, and hydro power can significantly reduce carbon emissions.\n2. Energy-efficient buildings: Constructing and retrofitting buildings with energy-efficient technologies and materials can reduce energy consumption and carbon emissions.\n3. Sustainable transportation: Promoting public transportation, electric vehicles, and cycling/walking infrastructure can help reduce carbon emissions from transportation.\n4. Waste management: Implementing effective waste management practices, including recycling, composting, and reducing waste generation, can reduce methane emissions from landfills.\n5. Forest conservation: Protecting and restoring forests helps absorb carbon dioxide from the atmosphere, mitigating climate change.\n6. Sustainable agriculture: Promoting sustainable farming practices, such as organic farming and agroforestry, can reduce carbon emissions from agriculture and improve soil health.\n7. Carbon capture and storage: Developing technologies to capture and store carbon dioxide emissions from industrial processes can help reduce their impact on the atmosphere.\n8. Green finance and investment: Encouraging investments in low-carbon technologies and sustainable projects can accelerate carbon footprint reduction.\n9. Education and awareness: Raising awareness about the importance of carbon footprint reduction and providing education on sustainable practices can drive behavioral change.\n10. Government policies and regulations: Implementing policies and regulations that incentivize carbon reduction, such as carbon pricing and emissions standards, can drive systemic change across industries.",
+            "relations": "1. Renewable energy sources: Transitioning to renewable energy sources such as solar, wind, and hydro power can significantly reduce carbon emissions.\n2. Energy-efficient buildings: Constructing and retrofitting buildings with energy-efficient technologies and materials can reduce energy consumption and carbon emissions.\n3. Sustainable transportation: Promoting public transportation, electric vehicles, and cycling/walking infrastructure can help reduce carbon emissions from transportation.\n4. Waste management: Implementing effective waste management practices, including recycling, composting, and reducing waste generation, can reduce methane emissions from landfills.\n5. Forest conservation: Protecting and restoring forests helps absorb carbon dioxide from the atmosphere, mitigating climate change.\n6. Sustainable agriculture: Promoting sustainable farming practices, such as organic farming and agroforestry, can reduce carbon emissions from agriculture and improve soil health.\n7. Carbon capture and storage: Developing technologies to capture and store carbon dioxide emissions from industrial processes can help reduce their impact on the atmosphere.\n8. Green finance and investment: Encouraging investments in low-carbon technologies and sustainable projects can accelerate carbon footprint reduction.\n9. Education and awareness: Raising awareness about the importance of carbon footprint reduction and providing education on sustainable practices can drive behavioral change.\n10. Government policies and regulations: Implementing policies and regulations that incentivize carbon reduction, such as carbon pricing and emissions standards, can drive systemic change across industries."
+        }
+    },
+    "/": {
+        "relations": [
+            "Carbon footprint reduction"
+        ],
+        "subgraph": {}
+    },
+    "Eco-friendly practices": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "R",
+            "e",
+            "n",
+            "w",
+            "a",
+            "b",
+            "l",
+            "r",
+            "g",
+            "y",
+            "c",
+            "o",
+            "m",
+            "p",
+            "i",
+            "s",
+            ":",
+            "T",
+            "h",
+            "t",
+            "f",
+            "u",
+            ",",
+            "d",
+            "\n",
+            "2",
+            "S",
+            "z",
+            "v",
+            "3",
+            "O",
+            "(",
+            "G",
+            "M",
+            ")",
+            "4",
+            "5",
+            "-",
+            "6",
+            "E",
+            "k",
+            "7",
+            "8",
+            "9",
+            "0",
+            "W"
+        ],
+        "subgraph": {
+            "entities": "1. Renewable energy companies: These entities focus on generating electricity from renewable sources such as solar, wind, hydro, or geothermal power, reducing reliance on fossil fuels.\n\n2. Sustainable fashion brands: These companies prioritize ethical sourcing, fair trade, and environmentally friendly production methods to reduce the negative impact of the fashion industry on the environment.\n\n3. Organic food producers: These entities grow and produce food without the use of synthetic pesticides, fertilizers, or genetically modified organisms (GMOs), promoting healthier ecosystems and reducing chemical pollution.\n\n4. Recycling centers: These facilities collect, sort, and process recyclable materials, diverting waste from landfills and conserving natural resources.\n\n5. Green building organizations: These entities promote sustainable construction practices, including energy-efficient designs, use of recycled materials, and implementation of renewable energy systems.\n\n6. Environmental non-profit organizations: These groups work towards protecting and preserving the environment through advocacy, education, and conservation efforts.\n\n7. Electric vehicle manufacturers: These companies produce electric cars and other vehicles that run on clean energy, reducing greenhouse gas emissions and air pollution.\n\n8. Eco-friendly cleaning product companies: These entities develop and sell cleaning products made from natural, biodegradable ingredients, minimizing the use of harmful chemicals and reducing water pollution.\n\n9. Sustainable agriculture initiatives: These programs promote farming practices that prioritize soil health, biodiversity, and water conservation, aiming to reduce the environmental impact of agriculture.\n\n10. Waste management companies: These organizations focus on efficient waste disposal, recycling, and composting, aiming to minimize the amount of waste sent to landfills and promote a circular economy.",
+            "relations": "1. Renewable energy companies: These entities focus on generating electricity from renewable sources such as solar, wind, hydro, or geothermal power, reducing reliance on fossil fuels.\n\n2. Sustainable fashion brands: These companies prioritize ethical sourcing, fair trade, and environmentally friendly production methods to reduce the negative impact of the fashion industry on the environment.\n\n3. Organic food producers: These entities grow and produce food without the use of synthetic pesticides, fertilizers, or genetically modified organisms (GMOs), promoting healthier ecosystems and reducing chemical pollution.\n\n4. Recycling centers: These facilities collect, sort, and process recyclable materials, diverting waste from landfills and conserving natural resources.\n\n5. Green building organizations: These entities promote sustainable construction practices, including energy-efficient designs, use of recycled materials, and implementation of renewable energy systems.\n\n6. Environmental non-profit organizations: These groups work towards protecting and preserving the environment through advocacy, education, and conservation efforts.\n\n7. Electric vehicle manufacturers: These companies produce electric cars and other vehicles that run on clean energy, reducing greenhouse gas emissions and air pollution.\n\n8. Eco-friendly cleaning product companies: These entities develop and sell cleaning products made from natural, biodegradable ingredients, minimizing the use of harmful chemicals and reducing water pollution.\n\n9. Sustainable agriculture initiatives: These programs promote farming practices that prioritize soil health, biodiversity, and water conservation, aiming to reduce the environmental impact of agriculture.\n\n10. Waste management companies: These organizations focus on efficient waste disposal, recycling, and composting, aiming to minimize the amount of waste sent to landfills and promote a circular economy."
+        }
+    },
+    "Sustainable transportation": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "E",
+            "l",
+            "e",
+            "c",
+            "t",
+            "r",
+            "i",
+            "v",
+            "h",
+            "s",
+            ":",
+            "a",
+            ",",
+            "b",
+            "u",
+            "n",
+            "d",
+            "k",
+            "o",
+            "g",
+            "-",
+            "p",
+            "w",
+            "y",
+            "z",
+            "m",
+            "f",
+            "\n",
+            "2",
+            "P",
+            "3",
+            "B",
+            "4",
+            "C",
+            "5",
+            "I",
+            "D",
+            "6",
+            "H",
+            "x",
+            "j",
+            "7",
+            "S",
+            "T",
+            "8",
+            "9",
+            "U",
+            "0"
+        ],
+        "subgraph": {
+            "entities": "1. Electric vehicles: Electric cars, buses, and bikes are a sustainable alternative to traditional gasoline-powered vehicles, as they produce zero tailpipe emissions and reduce dependence on fossil fuels.\n\n2. Public transportation systems: Efficient and well-connected public transportation networks, such as buses, trains, and trams, encourage people to use shared modes of transportation, reducing the number of individual vehicles on the road.\n\n3. Bike-sharing programs: Bike-sharing initiatives provide access to bicycles for short-distance trips, promoting active transportation and reducing the need for motorized vehicles.\n\n4. Carpooling and ridesharing platforms: Carpooling and ridesharing services connect individuals traveling in the same direction, reducing the number of cars on the road and decreasing traffic congestion.\n\n5. Infrastructure for pedestrians: Designing cities and towns with pedestrian-friendly infrastructure, such as sidewalks, crosswalks, and pedestrian-only zones, encourages walking as a sustainable mode of transportation.\n\n6. High-speed rail systems: Developing efficient and extensive high-speed rail networks offers an eco-friendly alternative to air travel for long-distance journeys, reducing greenhouse gas emissions.\n\n7. Sustainable aviation fuels: The development and use of sustainable aviation fuels, derived from renewable sources, can significantly reduce the carbon footprint of air travel.\n\n8. Smart traffic management systems: Implementing intelligent traffic management systems, including real-time traffic monitoring, adaptive traffic signals, and smart parking solutions, can optimize traffic flow and reduce congestion.\n\n9. Urban planning and mixed-use development: Designing cities with mixed-use developments, where residential, commercial, and recreational areas are in close proximity, reduces the need for long-distance travel and promotes sustainable transportation options.\n\n10. Transportation demand management: Policies and strategies that aim to reduce the demand for private vehicle use, such as congestion pricing, car-free zones, and incentives for using sustainable modes of transportation, encourage people to choose more sustainable transportation options.",
+            "relations": "1. Electric vehicles: Electric cars, buses, and bikes are a sustainable alternative to traditional gasoline-powered vehicles, as they produce zero tailpipe emissions and reduce dependence on fossil fuels.\n\n2. Public transportation systems: Efficient and well-connected public transportation networks, such as buses, trains, and trams, encourage people to use shared modes of transportation, reducing the number of individual vehicles on the road.\n\n3. Bike-sharing programs: Bike-sharing initiatives provide access to bicycles for short-distance trips, promoting active transportation and reducing the need for motorized vehicles.\n\n4. Carpooling and ridesharing platforms: Carpooling and ridesharing services connect individuals traveling in the same direction, reducing the number of cars on the road and decreasing traffic congestion.\n\n5. Infrastructure for pedestrians: Designing cities and towns with pedestrian-friendly infrastructure, such as sidewalks, crosswalks, and pedestrian-only zones, encourages walking as a sustainable mode of transportation.\n\n6. High-speed rail systems: Developing efficient and extensive high-speed rail networks offers an eco-friendly alternative to air travel for long-distance journeys, reducing greenhouse gas emissions.\n\n7. Sustainable aviation fuels: The development and use of sustainable aviation fuels, derived from renewable sources, can significantly reduce the carbon footprint of air travel.\n\n8. Smart traffic management systems: Implementing intelligent traffic management systems, including real-time traffic monitoring, adaptive traffic signals, and smart parking solutions, can optimize traffic flow and reduce congestion.\n\n9. Urban planning and mixed-use development: Designing cities with mixed-use developments, where residential, commercial, and recreational areas are in close proximity, reduces the need for long-distance travel and promotes sustainable transportation options.\n\n10. Transportation demand management: Policies and strategies that aim to reduce the demand for private vehicle use, such as congestion pricing, car-free zones, and incentives for using sustainable modes of transportation, encourage people to choose more sustainable transportation options."
+        }
+    },
+    "Waste management": {
+        "relations": [
+            "1",
+            ".",
+            " ",
+            "W",
+            "a",
+            "s",
+            "t",
+            "e",
+            "m",
+            "n",
+            "g",
+            "c",
+            "o",
+            "p",
+            "i",
+            ":",
+            "T",
+            "h",
+            "r",
+            "l",
+            "z",
+            ",",
+            "d",
+            "f",
+            "w",
+            "E",
+            "x",
+            "u",
+            "M",
+            "I",
+            "R",
+            "b",
+            "S",
+            "v",
+            "V",
+            "\n",
+            "2",
+            "y",
+            "3",
+            "L",
+            "4",
+            "-",
+            "5",
+            "C",
+            "6",
+            "H",
+            "7",
+            "8",
+            "N",
+            "(",
+            "G",
+            "O",
+            ")",
+            "9",
+            "0"
+        ],
+        "subgraph": {
+            "entities": "1. Waste management companies: These are companies that specialize in the collection, transportation, treatment, and disposal of waste materials. Examples include Waste Management Inc., Republic Services, and Veolia.\n\n2. Recycling facilities: These facilities are responsible for sorting, processing, and recycling various types of waste materials, such as paper, plastic, glass, and metal.\n\n3. Landfills: Landfills are designated areas where waste materials are disposed of and buried. They are carefully engineered to minimize environmental impact and prevent contamination of soil and water.\n\n4. Waste-to-energy plants: These facilities convert waste materials into energy through various processes, such as incineration or anaerobic digestion. The energy generated can be used to produce electricity or heat.\n\n5. Composting facilities: Composting facilities process organic waste, such as food scraps and yard trimmings, into nutrient-rich compost that can be used as a soil amendment in agriculture and landscaping.\n\n6. Hazardous waste treatment facilities: These facilities handle and treat hazardous waste materials, such as chemicals, solvents, and medical waste, to ensure their safe disposal and prevent harm to human health and the environment.\n\n7. Environmental regulatory agencies: These government entities are responsible for developing and enforcing regulations and policies related to waste management, ensuring compliance and protecting public health and the environment.\n\n8. Non-governmental organizations (NGOs): NGOs play a crucial role in waste management by raising awareness, advocating for sustainable practices, and implementing community-based waste reduction and recycling programs.\n\n9. Waste management consultants: These professionals provide expertise and guidance to businesses and organizations on waste management strategies, waste reduction, recycling programs, and compliance with regulations.\n\n10. Waste generators: Waste generators refer to individuals, households, businesses, industries, and institutions that produce waste. They have a responsibility to manage their waste properly, follow waste management guidelines, and adopt sustainable practices to minimize waste generation.",
+            "relations": "1. Waste management companies: These are companies that specialize in the collection, transportation, treatment, and disposal of waste materials. Examples include Waste Management Inc., Republic Services, and Veolia.\n\n2. Recycling facilities: These facilities are responsible for sorting, processing, and recycling various types of waste materials, such as paper, plastic, glass, and metal.\n\n3. Landfills: Landfills are designated areas where waste materials are disposed of and buried. They are carefully engineered to minimize environmental impact and prevent contamination of soil and water.\n\n4. Waste-to-energy plants: These facilities convert waste materials into energy through various processes, such as incineration or anaerobic digestion. The energy generated can be used to produce electricity or heat.\n\n5. Composting facilities: Composting facilities process organic waste, such as food scraps and yard trimmings, into nutrient-rich compost that can be used as a soil amendment in agriculture and landscaping.\n\n6. Hazardous waste treatment facilities: These facilities handle and treat hazardous waste materials, such as chemicals, solvents, and medical waste, to ensure their safe disposal and prevent harm to human health and the environment.\n\n7. Environmental regulatory agencies: These government entities are responsible for developing and enforcing regulations and policies related to waste management, ensuring compliance and protecting public health and the environment.\n\n8. Non-governmental organizations (NGOs): NGOs play a crucial role in waste management by raising awareness, advocating for sustainable practices, and implementing community-based waste reduction and recycling programs.\n\n9. Waste management consultants: These professionals provide expertise and guidance to businesses and organizations on waste management strategies, waste reduction, recycling programs, and compliance with regulations.\n\n10. Waste generators: Waste generators refer to individuals, households, businesses, industries, and institutions that produce waste. They have a responsibility to manage their waste properly, follow waste management guidelines, and adopt sustainable practices to minimize waste generation."
+        }
+    }
+}
