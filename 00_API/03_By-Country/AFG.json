@@ -1,0 +1,416 @@
+{
+    "metadata": {
+        "Country": "Afganistan",
+        "Country Code": "AFG"
+    },
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "World Bank Global Solar Atlas",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "Afghanistan",
+                "category": "Location"
+            },
+            {
+                "entity": "Government",
+                "category": "Organization"
+            },
+            {
+                "entity": "Central Statistics Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNAMA",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Interior",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Justice",
+                "category": "Organization"
+            },
+            {
+                "entity": "Attorney General’s Office",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Women’s Affairs",
+                "category": "Organization"
+            },
+            {
+                "entity": "National Police Programmes",
+                "category": "Organization"
+            },
+            {
+                "entity": "Ministry of Energy and Water (MEW)",
+                "category": "Organization"
+            },
+            {
+                "entity": "Da Afghanistan Breshna Sherkat (DABS)",
+                "category": "Organization"
+            },
+            {
+                "entity": "Africa",
+                "category": "Location"
+            },
+            {
+                "entity": "Anou-Araren",
+                "category": "Location"
+            },
+            {
+                "entity": "Statistical Committee of Armenia (ArmStat)",
+                "category": "Organization"
+            },
+            {
+                "entity": "Biomass",
+                "category": "Resource"
+            },
+            {
+                "entity": "Burkina Faso",
+                "category": "Location"
+            },
+            {
+                "entity": "Energy Storage Systems (ESS)",
+                "category": "Technology"
+            },
+            {
+                "entity": "Foreign Direct Investment (FDI)",
+                "category": "Economics"
+            },
+            {
+                "entity": "Geographic Information System (GIS)",
+                "category": "Technology"
+            },
+            {
+                "entity": "Human Development Index (HDI)",
+                "category": "Index"
+            },
+            {
+                "entity": "Households",
+                "category": "Social"
+            },
+            {
+                "entity": "International Atomic Energy Agency (IAEA)",
+                "category": "Organization"
+            },
+            {
+                "entity": "LECO",
+                "category": "Organization"
+            },
+            {
+                "entity": "LPG",
+                "category": "Technology"
+            },
+            {
+                "entity": "Ministry of Transport and Civil Aviation(MTCA)",
+                "category": "Organization"
+            },
+            {
+                "entity": "The West African Power Pool (WAPP)",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Sustainable Development Cooperation Framework (UNSDCF)",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            }
+        ],
+        "relations": {
+            "United Nations": [
+                {
+                    "Relation": "PROPOSED",
+                    "Object": "Afghanistan",
+                    "Description": "Based on an analysis of development needs and guided by national development policies, as reflected in the United Nations Development Assistance Framework, the Tokyo Mutual Accountability Framework, the national priority programmes and the emerging ‘New Deal’ agenda, as well as the lessons learned reflected in the assessment of development results and the United Nations common country assessment, the United Nations family and partners have agreed to five outcomes to address fragility in its many dimensions and the root causes of conflict."
+                },
+                {
+                    "Relation": "HAS_PARTNERSHIP_WITH",
+                    "Object": "Afghanistan",
+                    "Description": "The United Nations has been working with the Afghan government to develop renewable energy projects."
+                },
+                {
+                    "Relation": "CONTAINS",
+                    "Object": "UNDP",
+                    "Description": "UNDP will continue to adapt to a changing national context in four of the five United Nations Development Assistance Framework outcomes outlined below, and will take on leadership or facilitation roles in those areas as requested."
+                },
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "Afghanistan",
+                    "Description": "National climate change policies, as well as five disaster-prone provinces, will be identified, in collaboration with the Afghanistan National Disaster Management Authority and the United Nations Office for the Coordination of Humanitarian Affairs, to strengthen the humanitarian-development nexus."
+                }
+            ],
+            "Government": [
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "UNDP",
+                    "Description": "UNDP will support the Government in implementing legal commitments, both national and international, that affect the lives of women."
+                },
+                {
+                    "Relation": "HAS_PROPERTY",
+                    "Object": "Afghanistan",
+                    "Description": "Over 30 per cent of central government employees are women, and 28 per cent of the seats in the national parliament are reserved for women."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "UNDP",
+                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Afghanistan Renewable Energy Union",
+                    "Description": "The costs for applicable RE technologies and projects in Afghanistan have been collected through primary research by directly consulting with project developers, mainly members of Afghanistan Renewable Energy Union (AREU) and a few NGOs and donors."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Private Sector",
+                    "Description": "The role of Government is to provide a policy and regulatory framework that encourages and facilitates participation of the private sector and civil society in rural electrification."
+                },
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "Asian Development Bank",
+                    "Description": "The Asian Development Bank through a Technical Assistance (TA) has addressed these challenges by way of developing the Roadmap for Renewable Energy in Afghanistan."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "PARTICIPATED_IN",
+                    "Object": "Afghanistan",
+                    "Description": "UNDP has been an active player in accountable governance since 2002. Having supported, effectively, all presidential and parliamentary elections, increased the capacity of parliament and strengthened subnational governance at the provincial and district levels, UNDP will deepen its engagement in participatory approaches and will work closely with national partners, including the Afghanistan Independent Human Rights Commission."
+                },
+                {
+                    "Relation": "IS_USED_IN",
+                    "Object": "Ministry of Interior",
+                    "Description": "The largest UNDP programme in the world, the Law and Order Trust Fund for Afghanistan, involves supporting the police, through payroll and the Ministry of Interior, in making the transition from a paramilitary force to a civilian police service."
+                },
+                {
+                    "Relation": "RELATED_TO",
+                    "Object": "Government",
+                    "Description": "For each country programme outcome, UNDP will prepare an outcome strategy document, in consultation with all partners and the new Government and in the light of the evolving UNAMA mandate after 2015."
+                },
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "UNAMA",
+                    "Description": "In coordination with UNAMA, UNDP electoral cycle support will assist national institutions in the better management of presidential, parliamentary and local election processes."
+                },
+                {
+                    "Relation": "RELATED_TO",
+                    "Object": "Afghanistan",
+                    "Description": "This will involve a greater use of state and non-state actors in Afghanistan, and at the regional and global levels through South-South cooperation, to ensure that the best national and international comparative experience can be integrated into the country programme outcome areas of work."
+                },
+                {
+                    "Relation": "PARTICIPATED_IN",
+                    "Object": "World Bank",
+                    "Description": "Key partners will include the Civil Service Commission, the World Bank and the United Nations country team, to ensure harmonization of efforts."
+                }
+            ],
+            "Afghanistan": [
+                {
+                    "Relation": "HAS_ENERGY_RESOURCE",
+                    "Object": "Biomass",
+                    "Description": "Afghanistan has 222 GW of solar potential, 67 GW of wind and 23 GW of hydro potential. In addition, biomass and geo-thermal resources are also available in the Country."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Ministry of Energy and Water (MEW)",
+                    "Description": "The Ministry of Energy and Water (MEW), as one of the Key ministries to plan and direct the development of energy sector in Afghanistan, has now prepared the Afghanistan Renewable Energy Policy (AREP) which aims to provide a thrust and direction to the REN sector."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Da Afghanistan Breshna Sherkat (DABS)",
+                    "Description": "Da Afghanistan Breshna Sherkat (DABS) is a joint stock government company in the field of power which is iblthrough existed facilities, its transmission, dispatching, distribution and provision throughout the country."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "United Nations",
+                    "Description": "The document 'Energy Profile Afghanistan IRENA' contains data from the United Nations Sustainable Development Goals (UN SDG) Database, indicating a relationship between Afghanistan and the United Nations."
+                },
+                {
+                    "Relation": "IS_SUPPORTED_BY",
+                    "Object": "United Nations",
+                    "Description": "The international community and the United Nations will continue to support Afghanistan, as exemplified in the Tokyo Mutual Accountability Framework and the Chicago commitments on development and security."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "World Bank",
+                    "Description": "The document 'Energy Profile Afghanistan IRENA' contains data from the World Bank, indicating a relationship between Afghanistan and the World Bank."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Biomass",
+                    "Description": "The document 'Energy Profile Afghanistan IRENA' mentions the potential of biomass in Afghanistan, indicating a relationship between Afghanistan and Biomass."
+                },
+                {
+                    "Relation": "HAS_PROPERTY",
+                    "Object": "Poverty",
+                    "Description": "About 36 per cent of the Afghan population live below the national poverty line, a situation that has remained unchanged in over six years."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Ministry of Urban development",
+                    "Description": "Most of the rural population in Afghanistan is active in agriculture and livestock sector, however bio-energy technologies are still in a nascent stage. Only a limited number of family type biogas plants have been installed in eastern provinces and central parts of the country through MRRD, BORDA Afghanistan and a couple of NGOs. Recently, some studies are under process for biomass energy projects in Kabul city and Balkh province under supervision of Kabul Municipality, Ministry of Urban development."
+                },
+                {
+                    "Relation": "HAS_PROPERTY",
+                    "Object": "Gender Inequality",
+                    "Description": "In 2012, the Gender Inequality Index listed Afghanistan 147th out of 148 countries."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Sustainable Energy for All (SE4All)",
+                    "Description": "Afghanistan is developing a country level plan of action to ensure access to energy for all in sync with the Sustainable Energy for All (SE4All) target for energy access for all by 2030."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Climate Change Strategy and Action Plan for Afghanistan (CCSAP, 2015)",
+                    "Description": "Afghanistan has set targets within the Climate Change Strategy and Action Plan for Afghanistan (CCSAP, 2015) for 100 percent electricity coverage by 2100."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Asian Development Bank",
+                    "Description": "The Asian Development Bank is one of the donors and international organisations supporting the development of renewable energy sector in Afghanistan."
+                },
+                {
+                    "Relation": "RELATED_TO",
+                    "Object": "UNDP",
+                    "Description": "As Afghanistan enters its Transformation Decade, UNDP should also transition to meet emerging priorities and operational challenges, guided by the United Nations Development Assistance Framework and the new strategic plan, 2014-2017."
+                }
+            ],
+            "Ministry of Interior": [
+                {
+                    "Relation": "SUPPORTS",
+                    "Object": "Afghanistan",
+                    "Description": "The largest UNDP programme in the world, the Law and Order Trust Fund for Afghanistan, involves supporting the police, through payroll and the Ministry of Interior, in making the transition from a paramilitary force to a civilian police service."
+                }
+            ],
+            "UNAMA": [
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "UNDP",
+                    "Description": "In coordination with UNAMA, UNDP electoral cycle support will assist national institutions in the better management of presidential, parliamentary and local election processes."
+                }
+            ],
+            "World Bank": [
+                {
+                    "Relation": "HAS_PARTNERSHIP_WITH",
+                    "Object": "UNDP",
+                    "Description": "Key partners will include the Civil Service Commission, the World Bank and the United Nations country team, to ensure harmonization of efforts."
+                },
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "REN",
+                    "Description": "World Bank will provide customized financial support to all REN projects to private sector, local enterprises, NGOs, women led REN businesses and others"
+                },
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "Afghanistan",
+                    "Description": "The largest solar thermal system (20m3/day) has been installed in Kabul University’s women’s dormitory funded by the World Bank."
+                }
+            ],
+            "Ministry of Energy and Water (MEW)": [
+                {
+                    "Relation": "DEVELOPED",
+                    "Object": "Renewable Energy Policy",
+                    "Description": "The Ministry of Energy and Water (MEW) has developed the Renewable Energy Policy Afghanistan, and which envisage main streaming of renewable energy projects in the development and growth of REN sector particularly in the PPP mode."
+                },
+                {
+                    "Relation": "HAS_PARTNERSHIP_WITH",
+                    "Object": "Da Afghanistan Breshna Sherkat (DABS)",
+                    "Description": "The Ministry of Energy and Water (MEW) is the nodal Ministry to plan and direct the development of energy sector in Afghanistan. Promotion and use of renewable energy is an integral component of this mandate. The MRRD coordinates with the MEW in deploying renewable energy for rural development within a specified capacity framework . The first draft of the Rural Renewable Energy Policy (RREP) has been developed by MRRD and will be finalized in coordination with MEW and other relevant stakeholders to guide their efforts in this direction. Da Afghanistan Breshna Sherkat (DABS) is a joint stock government company in the field of power which is iblthrough existed facilities, its transmission, dispatching, distribution and provision throughout the country."
+                },
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "Government",
+                    "Description": "Renewable energy sector development is one of the priority areas for the Government of Islamic Republic of Afghanistan (GoIRA) for immediate purpose of providing access to modern energy to remote and rural population and for medium to long term purpose of providing energy security to the country."
+                },
+                {
+                    "Relation": "COLLABORATE_WITH",
+                    "Object": "Da Afghanistan Breshna Sherkat (DABS)",
+                    "Description": "The Ministry of Energy and Water (MEW) has jointly implemented/ under implementation renewable energy projects with Da Afghanistan Breshna Sherkat (DABS) and other developers."
+                }
+            ],
+            "Da Afghanistan Breshna Sherkat (DABS)": [
+                {
+                    "Relation": "PARTICIPATED_IN",
+                    "Object": "Renewable Energy Policy",
+                    "Description": "Da Afghanistan Breshna Sherkat (DABS) is a joint stock government company in the field of power which is iblthrough existed facilities, its transmission, dispatching, distribution and provision throughout the country."
+                },
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Afghanistan",
+                    "Description": "Da Afghanistan Breshna Sherkat (DABS) operates on a cost-plus pricing basis in Afghanistan and its finances are affected by foreign exchange movements."
+                }
+            ],
+            "Asian Development Bank": [
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "REN",
+                    "Description": "Asian Development Bank will provide customized financial support to all REN projects to private sector, local enterprises, NGOs, women led REN businesses and others"
+                },
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "REN",
+                    "Description": "Asian Development Bank will provide funds for setting up a dedicated REN financing institution"
+                }
+            ],
+            "Islamic Development Bank": [
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "REN",
+                    "Description": "Islamic Development Bank will provide customized financial support to all REN projects to private sector, local enterprises, NGOs, women led REN businesses and others"
+                },
+                {
+                    "Relation": "PROVIDE_SUPPORT",
+                    "Object": "REN",
+                    "Description": "Islamic Development Bank will provide funds for setting up a dedicated REN financing institution"
+                }
+            ],
+            "Biomass": [
+                {
+                    "Relation": "IS_USED_IN",
+                    "Object": "Afghanistan",
+                    "Description": "Biomass: energy obtained from renewable organic matter such as agricultural crops and residue, wood and wood waste, animal waste, aquatic plants and organic components of municipal and industrial wastes."
+                },
+                {
+                    "Relation": "IS_USED_IN",
+                    "Object": "Energy Storage Systems (ESS)",
+                    "Description": "The system, comprises a 15 kW (~5 TR) vapor absorption machine (VAM) coupled with a 50 kWe biomass gasifier system and a field of solar concentrating collectors."
+                }
+            ],
+            "Ministry of Rural Rehabilitation and Development (MRRD)": [
+                {
+                    "Relation": "HAS_RELATIONSHIP_WITH",
+                    "Object": "Government",
+                    "Description": "MRRD has general oversight of delivery of all non-farm programmes in rural Afghanistan. Part of its responsibility includes supporting energy infrastructure in rural areas."
+                }
+            ],
+            "Renewable Energy Policy Afghanistan": [
+                {
+                    "Relation": "SUPPORTED_BY",
+                    "Object": "German Cooperation (GIZ)",
+                    "Description": "I wish to express my sincere gratitude to energy policy department by virtue of consideration their responsibilities with the support of German Cooperation (GIZ) has taken the initiative of developing Afghanistan Renewable Energy Policy through a process of wide stakeholder consultations at different stages, from formulation till finalization of the policy."
+                }
+            ],
+            "Energy Storage Systems (ESS)": [
+                {
+                    "Relation": "IS_USED_IN",
+                    "Object": "Afghanistan",
+                    "Description": "Renewable energy sources are intermittent in nature, producing energy when the sun is shining and the wind is blowing, and therefore energy storage becomes important for supplying uninterrupted energy. Energy storage technologies absorb energy when production is more than the demand and store it for a period before releasing it to supply energy."
+                }
+            ]
+        }
+    }
+}
