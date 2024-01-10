@@ -1,0 +1,2870 @@
+{
+    "metadata": {
+        "Data": "Knowledge Graph"
+    },
+    "knowledge graph": {
+        "entities": [
+            {
+                "entity": "sustainable energy",
+                "category": ""
+            },
+            {
+                "entity": "UNDP",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNESCO",
+                "category": "Organization"
+            },
+            {
+                "entity": "Solar power",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Wind power",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Hydropower",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Geothermal energy",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Biomass energy",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Tidal power",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Nuclear power",
+                "category": "Low-carbon energy"
+            },
+            {
+                "entity": "Energy efficiency",
+                "category": "Sustainable practices"
+            },
+            {
+                "entity": "Smart grid",
+                "category": "Energy infrastructure"
+            },
+            {
+                "entity": "Electric vehicles",
+                "category": "Transportation"
+            },
+            {
+                "entity": "Photovoltaic cells",
+                "category": "Technology"
+            },
+            {
+                "entity": "Solar panels",
+                "category": "Technology"
+            },
+            {
+                "entity": "Inverter",
+                "category": "Technology"
+            },
+            {
+                "entity": "Battery storage",
+                "category": "Technology"
+            },
+            {
+                "entity": "Solar thermal power",
+                "category": "Technology"
+            },
+            {
+                "entity": "Renewable energy",
+                "category": "Concept"
+            },
+            {
+                "entity": "Grid integration",
+                "category": "Concept"
+            },
+            {
+                "entity": "Net metering",
+                "category": "Policy"
+            },
+            {
+                "entity": "Solar irradiance",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Solar farm",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Wind turbine",
+                "category": "Equipment"
+            },
+            {
+                "entity": "Wind farm",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Wind energy",
+                "category": "Renewable energy"
+            },
+            {
+                "entity": "Wind speed",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Wind direction",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Wind resource assessment",
+                "category": "Process"
+            },
+            {
+                "entity": "Wind power capacity",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Wind power generation",
+                "category": "Process"
+            },
+            {
+                "entity": "Wind power plant",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Wind power industry",
+                "category": "Industry"
+            },
+            {
+                "entity": "Water",
+                "category": "Natural Resource"
+            },
+            {
+                "entity": "Dams",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Turbines",
+                "category": "Machinery"
+            },
+            {
+                "entity": "Electricity",
+                "category": "Energy"
+            },
+            {
+                "entity": "Renewable Energy",
+                "category": "Energy"
+            },
+            {
+                "entity": "Reservoirs",
+                "category": "Water Storage"
+            },
+            {
+                "entity": "Environmental Impact",
+                "category": "Concern"
+            },
+            {
+                "entity": "Hydroelectric Power Plants",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Waterfall",
+                "category": "Natural Phenomenon"
+            },
+            {
+                "entity": "Sustainable Development",
+                "category": "Goal"
+            },
+            {
+                "entity": "Geothermal power plant",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Geothermal heat pump",
+                "category": "Technology"
+            },
+            {
+                "entity": "Geothermal reservoir",
+                "category": "Geology"
+            },
+            {
+                "entity": "Geothermal gradient",
+                "category": "Geophysics"
+            },
+            {
+                "entity": "Geothermal drilling",
+                "category": "Engineering"
+            },
+            {
+                "entity": "Geothermal resource assessment",
+                "category": "Research"
+            },
+            {
+                "entity": "Geothermal direct use",
+                "category": "Applications"
+            },
+            {
+                "entity": "Geothermal electricity generation",
+                "category": "Energy"
+            },
+            {
+                "entity": "Geothermal heating",
+                "category": "Applications"
+            },
+            {
+                "entity": "Geothermal cooling",
+                "category": "Applications"
+            },
+            {
+                "entity": "Biomass energy",
+                "category": "Energy"
+            },
+            {
+                "entity": "Renewable energy",
+                "category": "Energy"
+            },
+            {
+                "entity": "Carbon dioxide",
+                "category": "Chemical compound"
+            },
+            {
+                "entity": "Biofuel",
+                "category": "Fuel"
+            },
+            {
+                "entity": "Waste management",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Sustainable development",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Power generation",
+                "category": "Energy"
+            },
+            {
+                "entity": "Biomass feedstock",
+                "category": "Material"
+            },
+            {
+                "entity": "Renewable resources",
+                "category": "Natural resources"
+            },
+            {
+                "entity": "Carbon neutral",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Tidal barrages",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Tidal turbines",
+                "category": "Technology"
+            },
+            {
+                "entity": "Tidal lagoons",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Tidal stream generators",
+                "category": "Technology"
+            },
+            {
+                "entity": "Tidal range",
+                "category": "Physical phenomenon"
+            },
+            {
+                "entity": "Marine life",
+                "category": "Environmental impact"
+            },
+            {
+                "entity": "Tidal energy conversion",
+                "category": "Process"
+            },
+            {
+                "entity": "Tidal power plants",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Tidal energy potential",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Nuclear power",
+                "category": "Energy"
+            },
+            {
+                "entity": "Nuclear reactor",
+                "category": "Technology"
+            },
+            {
+                "entity": "Nuclear waste",
+                "category": "Waste management"
+            },
+            {
+                "entity": "Nuclear fission",
+                "category": "Physics"
+            },
+            {
+                "entity": "Nuclear fusion",
+                "category": "Physics"
+            },
+            {
+                "entity": "Nuclear plant",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Nuclear safety",
+                "category": "Safety"
+            },
+            {
+                "entity": "Nuclear disarmament",
+                "category": "Policy"
+            },
+            {
+                "entity": "Nuclear energy agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Nuclear power plant accidents",
+                "category": "Disasters"
+            },
+            {
+                "entity": "Lighting",
+                "category": "Technology"
+            },
+            {
+                "entity": "Insulation",
+                "category": "Material"
+            },
+            {
+                "entity": "Appliances",
+                "category": "Technology"
+            },
+            {
+                "entity": "HVAC systems",
+                "category": "Technology"
+            },
+            {
+                "entity": "Renewable energy",
+                "category": "Technology"
+            },
+            {
+                "entity": "Building design",
+                "category": "Architecture"
+            },
+            {
+                "entity": "Smart thermostats",
+                "category": "Technology"
+            },
+            {
+                "entity": "Energy audits",
+                "category": "Service"
+            },
+            {
+                "entity": "Windows",
+                "category": "Material"
+            },
+            {
+                "entity": "Energy management systems",
+                "category": "Technology"
+            },
+            {
+                "entity": "Renewable energy sources",
+                "category": "Energy"
+            },
+            {
+                "entity": "Electricity grid",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Energy storage",
+                "category": "Technology"
+            },
+            {
+                "entity": "Demand response",
+                "category": "Strategy"
+            },
+            {
+                "entity": "Smart meters",
+                "category": "Technology"
+            },
+            {
+                "entity": "Distributed generation",
+                "category": "Energy"
+            },
+            {
+                "entity": "Microgrids",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Data analytics",
+                "category": "Technology"
+            },
+            {
+                "entity": "Cybersecurity",
+                "category": "Security"
+            },
+            {
+                "entity": "Grid optimization",
+                "category": "Strategy"
+            },
+            {
+                "entity": "Battery",
+                "category": "Component"
+            },
+            {
+                "entity": "Charging station",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Range anxiety",
+                "category": "Concern"
+            },
+            {
+                "entity": "Electric motor",
+                "category": "Component"
+            },
+            {
+                "entity": "Plug-in hybrid",
+                "category": "Vehicle type"
+            },
+            {
+                "entity": "Regenerative braking",
+                "category": "Technology"
+            },
+            {
+                "entity": "Electric vehicle charging network",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Lithium-ion battery",
+                "category": "Component"
+            },
+            {
+                "entity": "Electric vehicle manufacturer",
+                "category": "Industry"
+            },
+            {
+                "entity": "Carbon emissions",
+                "category": "Environmental impact"
+            },
+            {
+                "entity": "World Bank",
+                "category": "International Financial Institution"
+            },
+            {
+                "entity": "UNESCO",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "WHO",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "UNICEF",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "FAO",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "UNHCR",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "ILO",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "UN Women",
+                "category": "United Nations Entity"
+            },
+            {
+                "entity": "UNEP",
+                "category": "United Nations Agency"
+            },
+            {
+                "entity": "UNODC",
+                "category": "United Nations Office"
+            },
+            {
+                "entity": "International Monetary Fund",
+                "category": "International Financial Institution"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Intergovernmental Organization"
+            },
+            {
+                "entity": "African Development Bank",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "Asian Development Bank",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "European Bank for Reconstruction and Development",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "Inter-American Development Bank",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "International Finance Corporation",
+                "category": "Member of World Bank Group"
+            },
+            {
+                "entity": "International Development Association",
+                "category": "Member of World Bank Group"
+            },
+            {
+                "entity": "Multilateral Investment Guarantee Agency",
+                "category": "Member of World Bank Group"
+            },
+            {
+                "entity": "International Centre for Settlement of Investment Disputes",
+                "category": "Member of World Bank Group"
+            },
+            {
+                "entity": "World Heritage Sites",
+                "category": "Cultural and Natural Heritage"
+            },
+            {
+                "entity": "Intangible Cultural Heritage",
+                "category": "Cultural Heritage"
+            },
+            {
+                "entity": "Biosphere Reserves",
+                "category": "Ecological Conservation"
+            },
+            {
+                "entity": "Memory of the World",
+                "category": "Documentary Heritage"
+            },
+            {
+                "entity": "Creative Cities",
+                "category": "Creative Economy"
+            },
+            {
+                "entity": "Global Geoparks",
+                "category": "Earth Sciences"
+            },
+            {
+                "entity": "Education for Sustainable Development",
+                "category": "Education"
+            },
+            {
+                "entity": "UNESCO Chairs",
+                "category": "Higher Education"
+            },
+            {
+                "entity": "UNESCO Goodwill Ambassadors",
+                "category": "Advocacy"
+            },
+            {
+                "entity": "UNESCO World Book Capital",
+                "category": "Literature"
+            },
+            {
+                "entity": "World Health Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "COVID-19",
+                "category": "Disease"
+            },
+            {
+                "entity": "Ebola",
+                "category": "Disease"
+            },
+            {
+                "entity": "Malaria",
+                "category": "Disease"
+            },
+            {
+                "entity": "Polio",
+                "category": "Disease"
+            },
+            {
+                "entity": "Smallpox",
+                "category": "Disease"
+            },
+            {
+                "entity": "Tuberculosis",
+                "category": "Disease"
+            },
+            {
+                "entity": "Immunization",
+                "category": "Healthcare"
+            },
+            {
+                "entity": "Health Emergency",
+                "category": "Event"
+            },
+            {
+                "entity": "Healthcare Workers",
+                "category": "Profession"
+            },
+            {
+                "entity": "World Health Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "Save the Children",
+                "category": "Non-governmental organization"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Intergovernmental organization"
+            },
+            {
+                "entity": "World Food Programme",
+                "category": "Humanitarian organization"
+            },
+            {
+                "entity": "United Nations Development Programme",
+                "category": "International organization"
+            },
+            {
+                "entity": "United Nations Population Fund",
+                "category": "International organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Financial institution"
+            },
+            {
+                "entity": "United Nations Children's Fund",
+                "category": "International organization"
+            },
+            {
+                "entity": "Red Cross",
+                "category": "Humanitarian organization"
+            },
+            {
+                "entity": "Doctors Without Borders",
+                "category": "Non-governmental organization"
+            },
+            {
+                "entity": "UN",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "WTO",
+                "category": "Organization"
+            },
+            {
+                "entity": "WHO",
+                "category": "Organization"
+            },
+            {
+                "entity": "IFAD",
+                "category": "Organization"
+            },
+            {
+                "entity": "ILO",
+                "category": "Organization"
+            },
+            {
+                "entity": "IMF",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Food Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNICEF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Refugees",
+                "category": "Population"
+            },
+            {
+                "entity": "Asylum seekers",
+                "category": "Population"
+            },
+            {
+                "entity": "Internally displaced persons",
+                "category": "Population"
+            },
+            {
+                "entity": "Stateless persons",
+                "category": "Population"
+            },
+            {
+                "entity": "Host countries",
+                "category": "Countries"
+            },
+            {
+                "entity": "Donor countries",
+                "category": "Countries"
+            },
+            {
+                "entity": "NGOs",
+                "category": "Organizations"
+            },
+            {
+                "entity": "Government agencies",
+                "category": "Organizations"
+            },
+            {
+                "entity": "Humanitarian workers",
+                "category": "Professionals"
+            },
+            {
+                "entity": "Advocacy groups",
+                "category": "Organizations"
+            },
+            {
+                "entity": "International Labour Organization",
+                "category": "United Nations agency"
+            },
+            {
+                "entity": "Workers",
+                "category": "Labor force"
+            },
+            {
+                "entity": "Employers",
+                "category": "Business owners"
+            },
+            {
+                "entity": "Governments",
+                "category": "Political entities"
+            },
+            {
+                "entity": "Trade Unions",
+                "category": "Labor organizations"
+            },
+            {
+                "entity": "Decent Work",
+                "category": "Work conditions"
+            },
+            {
+                "entity": "Social Justice",
+                "category": "Fairness in society"
+            },
+            {
+                "entity": "Labor Standards",
+                "category": "Work regulations"
+            },
+            {
+                "entity": "Employment Opportunities",
+                "category": "Job availability"
+            },
+            {
+                "entity": "Poverty Reduction",
+                "category": "Economic improvement"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "Gender Equality",
+                "category": "Concept"
+            },
+            {
+                "entity": "Women's Rights",
+                "category": "Concept"
+            },
+            {
+                "entity": "Gender-based Violence",
+                "category": "Issue"
+            },
+            {
+                "entity": "Empowerment",
+                "category": "Concept"
+            },
+            {
+                "entity": "Sustainable Development Goals",
+                "category": "Initiative"
+            },
+            {
+                "entity": "Advocacy",
+                "category": "Activity"
+            },
+            {
+                "entity": "Gender Mainstreaming",
+                "category": "Approach"
+            },
+            {
+                "entity": "Capacity Building",
+                "category": "Activity"
+            },
+            {
+                "entity": "Partnerships",
+                "category": "Collaboration"
+            },
+            {
+                "entity": "WWF",
+                "category": "Organization"
+            },
+            {
+                "entity": "Greenpeace",
+                "category": "Organization"
+            },
+            {
+                "entity": "IPCC",
+                "category": "Organization"
+            },
+            {
+                "entity": "CBD",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNFCCC",
+                "category": "Organization"
+            },
+            {
+                "entity": "IUCN",
+                "category": "Organization"
+            },
+            {
+                "entity": "CITES",
+                "category": "Organization"
+            },
+            {
+                "entity": "WMO",
+                "category": "Organization"
+            },
+            {
+                "entity": "Interpol",
+                "category": "Organization"
+            },
+            {
+                "entity": "European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Criminal Court",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Development Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Monetary Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Trade Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Children's Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "Great Barrier Reef",
+                "category": "Natural"
+            },
+            {
+                "entity": "Machu Picchu",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Taj Mahal",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Pyramids of Giza",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Galapagos Islands",
+                "category": "Natural"
+            },
+            {
+                "entity": "Angkor Wat",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Acropolis of Athens",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Serengeti National Park",
+                "category": "Natural"
+            },
+            {
+                "entity": "Stonehenge",
+                "category": "Cultural"
+            },
+            {
+                "entity": "Grand Canyon National Park",
+                "category": "Natural"
+            },
+            {
+                "entity": "Music",
+                "category": "Performing Arts"
+            },
+            {
+                "entity": "Dance",
+                "category": "Performing Arts"
+            },
+            {
+                "entity": "Folklore",
+                "category": "Traditions"
+            },
+            {
+                "entity": "Oral traditions",
+                "category": "Traditions"
+            },
+            {
+                "entity": "Craftsmanship",
+                "category": "Artisanal Skills"
+            },
+            {
+                "entity": "Cuisine",
+                "category": "Food and Drink"
+            },
+            {
+                "entity": "Festivals",
+                "category": "Celebrations"
+            },
+            {
+                "entity": "Language",
+                "category": "Communication"
+            },
+            {
+                "entity": "Storytelling",
+                "category": "Oral Traditions"
+            },
+            {
+                "entity": "Traditional Medicine",
+                "category": "Healthcare"
+            },
+            {
+                "entity": "Biodiversity",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Conservation",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Ecology",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Sustainable Development",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Endangered Species",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Ecosystem",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Protected Areas",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Wildlife",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Climate Change",
+                "category": "Environmental"
+            },
+            {
+                "entity": "Community Engagement",
+                "category": "Social"
+            },
+            {
+                "entity": "Gutenberg Bible",
+                "category": "Document"
+            },
+            {
+                "entity": "Mona Lisa",
+                "category": "Artwork"
+            },
+            {
+                "entity": "Declaration of Independence",
+                "category": "Document"
+            },
+            {
+                "entity": "Beethoven's Symphony No. 9",
+                "category": "Composition"
+            },
+            {
+                "entity": "The Great Gatsby",
+                "category": "Book"
+            },
+            {
+                "entity": "Leonardo da Vinci",
+                "category": "Artist"
+            },
+            {
+                "entity": "The Beatles",
+                "category": "Band"
+            },
+            {
+                "entity": "The Scream",
+                "category": "Artwork"
+            },
+            {
+                "entity": "The Odyssey",
+                "category": "Epic"
+            },
+            {
+                "entity": "City",
+                "category": "Geography"
+            },
+            {
+                "entity": "Artists",
+                "category": "Profession"
+            },
+            {
+                "entity": "Cultural Institutions",
+                "category": "Organizations"
+            },
+            {
+                "entity": "Tourism",
+                "category": "Industry"
+            },
+            {
+                "entity": "Education",
+                "category": "Sector"
+            },
+            {
+                "entity": "Technology",
+                "category": "Sector"
+            },
+            {
+                "entity": "Government",
+                "category": "Organization"
+            },
+            {
+                "entity": "Economy",
+                "category": "Sector"
+            },
+            {
+                "entity": "Heritage",
+                "category": "Culture"
+            },
+            {
+                "entity": "Sustainability",
+                "category": "Concept"
+            },
+            {
+                "entity": "Geology",
+                "category": "Science"
+            },
+            {
+                "entity": "Conservation",
+                "category": "Practice"
+            },
+            {
+                "entity": "Education",
+                "category": "Field"
+            },
+            {
+                "entity": "Sustainable Development",
+                "category": "Concept"
+            },
+            {
+                "entity": "Biodiversity",
+                "category": "Ecology"
+            },
+            {
+                "entity": "Cultural Heritage",
+                "category": "History"
+            },
+            {
+                "entity": "Community Engagement",
+                "category": "Involvement"
+            },
+            {
+                "entity": "Geotourism",
+                "category": "Travel"
+            },
+            {
+                "entity": "Sustainable Development Goals",
+                "category": "Global Initiative"
+            },
+            {
+                "entity": "Environmental Education",
+                "category": "Educational Approach"
+            },
+            {
+                "entity": "Climate Change",
+                "category": "Global Issue"
+            },
+            {
+                "entity": "Biodiversity Conservation",
+                "category": "Environmental Protection"
+            },
+            {
+                "entity": "Renewable Energy",
+                "category": "Energy Source"
+            },
+            {
+                "entity": "Social Justice",
+                "category": "Equity"
+            },
+            {
+                "entity": "Circular Economy",
+                "category": "Economic Model"
+            },
+            {
+                "entity": "Sustainable Agriculture",
+                "category": "Food Production"
+            },
+            {
+                "entity": "Water Conservation",
+                "category": "Resource Management"
+            },
+            {
+                "entity": "Gender Equality",
+                "category": "Social Equity"
+            },
+            {
+                "entity": "University of ABC",
+                "category": "University"
+            },
+            {
+                "entity": "Professor XYZ",
+                "category": "Academic"
+            },
+            {
+                "entity": "Research Institute ABC",
+                "category": "Institute"
+            },
+            {
+                "entity": "Country XYZ",
+                "category": "Country"
+            },
+            {
+                "entity": "Subject A",
+                "category": "Subject"
+            },
+            {
+                "entity": "Subject B",
+                "category": "Subject"
+            },
+            {
+                "entity": "Subject C",
+                "category": "Subject"
+            },
+            {
+                "entity": "Subject D",
+                "category": "Subject"
+            },
+            {
+                "entity": "Subject E",
+                "category": "Subject"
+            },
+            {
+                "entity": "Goodwill Ambassadors",
+                "category": "Role"
+            },
+            {
+                "entity": "Audrey Azoulay",
+                "category": "Person"
+            },
+            {
+                "entity": "Irina Bokova",
+                "category": "Person"
+            },
+            {
+                "entity": "Forest Whitaker",
+                "category": "Person"
+            },
+            {
+                "entity": "Herbie Hancock",
+                "category": "Person"
+            },
+            {
+                "entity": "Irina Bukova Foundation",
+                "category": "Organization"
+            },
+            {
+                "entity": "UNESCO Artist for Peace",
+                "category": "Title"
+            },
+            {
+                "entity": "UNESCO Special Envoy for Peace and Reconciliation",
+                "category": "Title"
+            },
+            {
+                "entity": "UNESCO Goodwill Ambassador for Intercultural Dialogue",
+                "category": "Title"
+            },
+            {
+                "entity": "World Book Capital",
+                "category": "Title"
+            },
+            {
+                "entity": "Books",
+                "category": "Topic"
+            },
+            {
+                "entity": "Authors",
+                "category": "Topic"
+            },
+            {
+                "entity": "Libraries",
+                "category": "Topic"
+            },
+            {
+                "entity": "Literature",
+                "category": "Topic"
+            },
+            {
+                "entity": "Reading",
+                "category": "Activity"
+            },
+            {
+                "entity": "Education",
+                "category": "Topic"
+            },
+            {
+                "entity": "Culture",
+                "category": "Topic"
+            },
+            {
+                "entity": "Publishing",
+                "category": "Industry"
+            }
+        ],
+        "relations": {
+            "sustainable energy": [
+                {
+                    "Relation": "is a form of",
+                    "Object": "Solar power",
+                    "Description": "Solar power is a form of sustainable energy that harnesses the power of the sun to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Wind power",
+                    "Description": "Wind power is a form of sustainable energy that converts the kinetic energy of wind into electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Hydropower",
+                    "Description": "Hydropower is a form of sustainable energy that uses the gravitational force of flowing or falling water to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Geothermal energy",
+                    "Description": "Geothermal energy is a form of sustainable energy that utilizes heat from the Earth's core to generate electricity or heat buildings."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Biomass energy",
+                    "Description": "Biomass energy is a form of sustainable energy that derives from organic materials such as plants or animal waste, which can be burned to produce heat or electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Tidal power",
+                    "Description": "Tidal power is a form of sustainable energy that harnesses the energy from the rise and fall of tides to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Nuclear power",
+                    "Description": "Nuclear power is a form of low-carbon energy that generates electricity through nuclear reactions, providing a sustainable alternative to fossil fuels."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Energy efficiency",
+                    "Description": "Sustainable energy involves the practice of energy efficiency, which aims to reduce energy consumption and waste by using technology and design strategies."
+                },
+                {
+                    "Relation": "relies on",
+                    "Object": "Smart grid",
+                    "Description": "Sustainable energy relies on the implementation of a smart grid, which enables efficient distribution and management of electricity from renewable sources."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Electric vehicles",
+                    "Description": "Sustainable energy promotes the use of electric vehicles, which reduce greenhouse gas emissions and dependence on fossil fuels in transportation."
+                }
+            ],
+            "Solar power": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Photovoltaic cells",
+                    "Description": "Solar power utilizes photovoltaic cells to convert sunlight into electricity."
+                },
+                {
+                    "Relation": "uses",
+                    "Object": "Solar panels",
+                    "Description": "Solar power uses solar panels to capture sunlight and convert it into usable energy."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Inverter",
+                    "Description": "Solar power requires an inverter to convert the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity."
+                },
+                {
+                    "Relation": "stores",
+                    "Object": "Battery storage",
+                    "Description": "Solar power can store excess electricity in battery storage systems for later use when sunlight is not available."
+                },
+                {
+                    "Relation": "generates",
+                    "Object": "Solar thermal power",
+                    "Description": "Solar power can generate electricity using solar thermal power plants that concentrate sunlight to produce heat and drive a turbine."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Renewable energy",
+                    "Description": "Solar power is a major contributor to the production of renewable energy, reducing reliance on fossil fuels."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Grid integration",
+                    "Description": "Solar power can be integrated into the electrical grid to provide clean energy to homes and businesses."
+                },
+                {
+                    "Relation": "benefits from",
+                    "Object": "Net metering",
+                    "Description": "Solar power systems can benefit from net metering policies, allowing excess electricity to be fed back into the grid and credited to the owner."
+                },
+                {
+                    "Relation": "depends on",
+                    "Object": "Solar irradiance",
+                    "Description": "Solar power generation depends on the amount of solar irradiance received, which varies based on location and weather conditions."
+                },
+                {
+                    "Relation": "enables",
+                    "Object": "Solar farm",
+                    "Description": "Solar power enables the establishment of solar farms, large-scale installations that generate electricity from sunlight."
+                }
+            ],
+            "Wind power": [
+                {
+                    "Relation": "involves",
+                    "Object": "Wind turbine",
+                    "Description": "Wind power involves the use of wind turbines to generate electricity."
+                },
+                {
+                    "Relation": "found in",
+                    "Object": "Wind farm",
+                    "Description": "Wind power is commonly found in wind farms, which consist of multiple wind turbines."
+                },
+                {
+                    "Relation": "source of",
+                    "Object": "Wind energy",
+                    "Description": "Wind power is a major source of renewable energy, with wind turbines converting wind energy into electricity."
+                },
+                {
+                    "Relation": "measured by",
+                    "Object": "Wind speed",
+                    "Description": "Wind power generation is influenced by the speed of the wind, which is measured using anemometers."
+                },
+                {
+                    "Relation": "affected by",
+                    "Object": "Wind direction",
+                    "Description": "The direction of the wind plays a role in the efficiency and performance of wind power systems."
+                },
+                {
+                    "Relation": "evaluated through",
+                    "Object": "Wind resource assessment",
+                    "Description": "Before constructing a wind power plant, a thorough assessment of the wind resource is conducted."
+                },
+                {
+                    "Relation": "measured in terms of",
+                    "Object": "Wind power capacity",
+                    "Description": "The capacity of a wind power plant is measured in terms of the maximum power it can generate under ideal conditions."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Wind power generation",
+                    "Description": "Wind power involves the process of converting wind energy into electrical power."
+                },
+                {
+                    "Relation": "consists of",
+                    "Object": "Wind power plant",
+                    "Description": "A wind power plant consists of multiple wind turbines and associated infrastructure for power generation."
+                },
+                {
+                    "Relation": "part of",
+                    "Object": "Wind power industry",
+                    "Description": "Wind power is a significant part of the renewable energy industry, contributing to the global energy transition."
+                }
+            ],
+            "Hydropower": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Water",
+                    "Description": "Hydropower harnesses the power of flowing water to generate electricity."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Dams",
+                    "Description": "Hydropower plants are built with dams to control the flow of water and create a reservoir."
+                },
+                {
+                    "Relation": "uses",
+                    "Object": "Turbines",
+                    "Description": "Hydropower plants use turbines to convert the energy of flowing water into mechanical energy."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Electricity",
+                    "Description": "Hydropower plants generate electricity from the mechanical energy of flowing water."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable Energy",
+                    "Description": "Hydropower is a clean and renewable source of energy."
+                },
+                {
+                    "Relation": "creates",
+                    "Object": "Reservoirs",
+                    "Description": "Hydropower plants create reservoirs by storing water behind dams."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "Environmental Impact",
+                    "Description": "Hydropower projects can have both positive and negative environmental impacts."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Hydroelectric Power Plants",
+                    "Description": "Hydropower is generated in hydroelectric power plants."
+                },
+                {
+                    "Relation": "occurs in",
+                    "Object": "Waterfall",
+                    "Description": "Hydropower can be harnessed from natural waterfalls."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable Development",
+                    "Description": "Hydropower is considered a sustainable energy source that supports economic and social development."
+                }
+            ],
+            "Geothermal energy": [
+                {
+                    "Relation": "is produced by",
+                    "Object": "Geothermal power plant",
+                    "Description": "Geothermal energy is produced by geothermal power plants that harness heat from the Earth's interior."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Geothermal heat pump",
+                    "Description": "Geothermal energy utilizes geothermal heat pumps for heating and cooling purposes."
+                },
+                {
+                    "Relation": "is stored in",
+                    "Object": "Geothermal reservoir",
+                    "Description": "Geothermal energy is stored in underground geothermal reservoirs."
+                },
+                {
+                    "Relation": "is influenced by",
+                    "Object": "Geothermal gradient",
+                    "Description": "The geothermal gradient affects the availability and quality of geothermal energy."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Geothermal drilling",
+                    "Description": "Geothermal energy requires drilling to access the underground heat sources."
+                },
+                {
+                    "Relation": "is assessed through",
+                    "Object": "Geothermal resource assessment",
+                    "Description": "Geothermal energy resources are assessed through geothermal resource assessments."
+                },
+                {
+                    "Relation": "is used for",
+                    "Object": "Geothermal direct use",
+                    "Description": "Geothermal energy is used directly for various applications such as heating and agriculture."
+                },
+                {
+                    "Relation": "is converted into",
+                    "Object": "Geothermal electricity generation",
+                    "Description": "Geothermal energy is converted into electricity through geothermal power plants."
+                },
+                {
+                    "Relation": "is utilized for",
+                    "Object": "Geothermal heating",
+                    "Description": "Geothermal energy is utilized for heating purposes in residential, commercial, and industrial settings."
+                },
+                {
+                    "Relation": "is utilized for",
+                    "Object": "Geothermal cooling",
+                    "Description": "Geothermal energy is utilized for cooling purposes in residential, commercial, and industrial settings."
+                }
+            ],
+            "Biomass energy": [
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable energy",
+                    "Description": "Biomass energy is a form of renewable energy that is derived from organic matter."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Carbon dioxide",
+                    "Description": "The combustion of biomass energy produces carbon dioxide as a byproduct."
+                },
+                {
+                    "Relation": "can be used as",
+                    "Object": "Biofuel",
+                    "Description": "Biomass energy can be converted into biofuel for use in transportation and heating."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Waste management",
+                    "Description": "The production of biomass energy requires effective waste management practices to ensure a sustainable supply of feedstock."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable development",
+                    "Description": "The use of biomass energy contributes to sustainable development by reducing reliance on fossil fuels and promoting environmental stewardship."
+                },
+                {
+                    "Relation": "is used for",
+                    "Object": "Power generation",
+                    "Description": "Biomass energy is used for power generation through the combustion of organic materials."
+                },
+                {
+                    "Relation": "is derived from",
+                    "Object": "Biomass feedstock",
+                    "Description": "Biomass energy is derived from various types of biomass feedstock, such as agricultural residues, wood pellets, and dedicated energy crops."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Renewable resources",
+                    "Description": "Biomass energy utilizes renewable resources, such as plants and organic waste, to generate heat and electricity."
+                },
+                {
+                    "Relation": "is considered",
+                    "Object": "Carbon neutral",
+                    "Description": "Biomass energy is considered carbon neutral because the carbon dioxide released during combustion is offset by the carbon dioxide absorbed by the biomass feedstock during growth."
+                }
+            ],
+            "Tidal power": [
+                {
+                    "Relation": "is generated by",
+                    "Object": "Tidal barrages",
+                    "Description": "Tidal power is generated by tidal barrages, which are large dams built across estuaries or bays."
+                },
+                {
+                    "Relation": "is harnessed using",
+                    "Object": "Tidal turbines",
+                    "Description": "Tidal power is harnessed using tidal turbines, which are similar to wind turbines but operate underwater."
+                },
+                {
+                    "Relation": "can be generated by",
+                    "Object": "Tidal lagoons",
+                    "Description": "Tidal power can also be generated by tidal lagoons, which are enclosed areas connected to the sea by a narrow channel."
+                },
+                {
+                    "Relation": "is produced by",
+                    "Object": "Tidal stream generators",
+                    "Description": "Tidal power is produced by tidal stream generators, which use underwater turbines to convert the kinetic energy of moving tides into electricity."
+                },
+                {
+                    "Relation": "is influenced by",
+                    "Object": "Tidal range",
+                    "Description": "Tidal power generation is influenced by the tidal range, which is the difference in water level between high tide and low tide."
+                },
+                {
+                    "Relation": "affects",
+                    "Object": "Marine life",
+                    "Description": "Tidal power generation can have an impact on marine life, including fish, mammals, and seabirds, due to changes in water flow and underwater noise."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Tidal energy conversion",
+                    "Description": "Tidal power generation involves the conversion of tidal energy into usable electricity through various technologies and processes."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Tidal power plants",
+                    "Description": "Tidal power generation requires the construction of specialized power plants that can harness the energy of tides and convert it into electricity."
+                },
+                {
+                    "Relation": "is measured by",
+                    "Object": "Tidal energy potential",
+                    "Description": "Tidal power potential is measured to assess the feasibility and capacity of a specific location for tidal energy generation."
+                }
+            ],
+            "Nuclear power": [
+                {
+                    "Relation": "uses",
+                    "Object": "Nuclear reactor",
+                    "Description": "Nuclear power is generated using nuclear reactors."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Nuclear waste",
+                    "Description": "Nuclear power production results in the generation of nuclear waste."
+                },
+                {
+                    "Relation": "relies on",
+                    "Object": "Nuclear fission",
+                    "Description": "Nuclear power relies on the process of nuclear fission to generate energy."
+                },
+                {
+                    "Relation": "explores",
+                    "Object": "Nuclear fusion",
+                    "Description": "Nuclear power research explores the possibility of nuclear fusion as a future energy source."
+                },
+                {
+                    "Relation": "operates",
+                    "Object": "Nuclear plant",
+                    "Description": "Nuclear power plants operate to generate electricity."
+                },
+                {
+                    "Relation": "prioritizes",
+                    "Object": "Nuclear safety",
+                    "Description": "Nuclear power industry prioritizes safety measures to prevent accidents."
+                },
+                {
+                    "Relation": "advocates for",
+                    "Object": "Nuclear disarmament",
+                    "Description": "Nuclear power advocates for nuclear disarmament to reduce global nuclear threats."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "Nuclear energy agency",
+                    "Description": "Nuclear power industry collaborates with nuclear energy agencies for research and regulation."
+                },
+                {
+                    "Relation": "faces risks from",
+                    "Object": "Nuclear power plant accidents",
+                    "Description": "Nuclear power plants face the risk of accidents that can have severe consequences."
+                }
+            ],
+            "Energy efficiency": [
+                {
+                    "Relation": "improves",
+                    "Object": "Lighting",
+                    "Description": "Using energy-efficient lighting can improve energy efficiency in buildings."
+                },
+                {
+                    "Relation": "enhances",
+                    "Object": "Insulation",
+                    "Description": "Proper insulation enhances energy efficiency by reducing heat transfer."
+                },
+                {
+                    "Relation": "optimizes",
+                    "Object": "Appliances",
+                    "Description": "Using energy-efficient appliances optimizes energy consumption and improves energy efficiency."
+                },
+                {
+                    "Relation": "affects",
+                    "Object": "HVAC systems",
+                    "Description": "Efficient HVAC systems can significantly affect energy efficiency in buildings."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Renewable energy",
+                    "Description": "Integrating renewable energy sources improves overall energy efficiency."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "Building design",
+                    "Description": "Energy-efficient building design considers various factors to maximize energy efficiency."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Smart thermostats",
+                    "Description": "Smart thermostats utilize advanced technology to optimize energy usage and improve energy efficiency."
+                },
+                {
+                    "Relation": "assesses",
+                    "Object": "Energy audits",
+                    "Description": "Energy audits assess energy usage and identify areas for improvement in energy efficiency."
+                },
+                {
+                    "Relation": "improves",
+                    "Object": "Windows",
+                    "Description": "Energy-efficient windows improve insulation and contribute to energy efficiency."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Energy management systems",
+                    "Description": "Energy management systems integrate various components to optimize energy usage and improve energy efficiency."
+                }
+            ],
+            "Smart grid": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Renewable energy sources",
+                    "Description": "Smart grid integrates renewable energy sources into the electricity grid."
+                },
+                {
+                    "Relation": "connects to",
+                    "Object": "Electricity grid",
+                    "Description": "Smart grid connects to the existing electricity grid infrastructure."
+                },
+                {
+                    "Relation": "enables",
+                    "Object": "Energy storage",
+                    "Description": "Smart grid enables the integration and management of energy storage systems."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Demand response",
+                    "Description": "Smart grid supports demand response programs to optimize energy consumption."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Smart meters",
+                    "Description": "Smart grid utilizes smart meters for real-time monitoring and control of energy usage."
+                },
+                {
+                    "Relation": "integrates",
+                    "Object": "Distributed generation",
+                    "Description": "Smart grid integrates distributed generation sources, such as solar panels and wind turbines."
+                },
+                {
+                    "Relation": "enables",
+                    "Object": "Microgrids",
+                    "Description": "Smart grid enables the creation and management of microgrids for localized energy distribution."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Data analytics",
+                    "Description": "Smart grid utilizes data analytics to optimize energy distribution and consumption."
+                },
+                {
+                    "Relation": "ensures",
+                    "Object": "Cybersecurity",
+                    "Description": "Smart grid ensures the security and protection of the electricity grid against cyber threats."
+                },
+                {
+                    "Relation": "optimizes",
+                    "Object": "Grid optimization",
+                    "Description": "Smart grid optimizes the operation and efficiency of the electricity grid."
+                }
+            ],
+            "Electric vehicles": [
+                {
+                    "Relation": "uses",
+                    "Object": "Battery",
+                    "Description": "Electric vehicles use batteries as their primary source of power."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Charging station",
+                    "Description": "Electric vehicles require charging stations to recharge their batteries."
+                },
+                {
+                    "Relation": "causes",
+                    "Object": "Range anxiety",
+                    "Description": "The limited range of electric vehicles can cause range anxiety among drivers."
+                },
+                {
+                    "Relation": "powered by",
+                    "Object": "Electric motor",
+                    "Description": "Electric vehicles are powered by electric motors instead of internal combustion engines."
+                },
+                {
+                    "Relation": "includes",
+                    "Object": "Plug-in hybrid",
+                    "Description": "Plug-in hybrids are a type of electric vehicle that combines an internal combustion engine with an electric motor and battery."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Regenerative braking",
+                    "Description": "Electric vehicles utilize regenerative braking technology to convert kinetic energy into electric energy and recharge the battery."
+                },
+                {
+                    "Relation": "relies on",
+                    "Object": "Electric vehicle charging network",
+                    "Description": "The widespread adoption of electric vehicles relies on the development of a robust electric vehicle charging network."
+                },
+                {
+                    "Relation": "employs",
+                    "Object": "Lithium-ion battery",
+                    "Description": "Electric vehicles commonly employ lithium-ion batteries due to their high energy density and long cycle life."
+                },
+                {
+                    "Relation": "manufactured by",
+                    "Object": "Electric vehicle manufacturer",
+                    "Description": "Electric vehicles are manufactured by companies specializing in the production of electric vehicles."
+                },
+                {
+                    "Relation": "reduces",
+                    "Object": "Carbon emissions",
+                    "Description": "The use of electric vehicles helps reduce carbon emissions and mitigate climate change."
+                }
+            ],
+            "UNDP": [
+                {
+                    "Relation": "Partner",
+                    "Object": "World Bank",
+                    "Description": "UNDP and World Bank collaborate on various development projects."
+                },
+                {
+                    "Relation": "Collaborator",
+                    "Object": "UNESCO",
+                    "Description": "UNDP and UNESCO work together to promote education and cultural heritage."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "WHO",
+                    "Description": "UNDP and WHO collaborate on health-related initiatives."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "UNICEF",
+                    "Description": "UNDP and UNICEF work together to support children's rights and well-being."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "FAO",
+                    "Description": "UNDP and FAO collaborate on projects related to agriculture and food security."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "UNHCR",
+                    "Description": "UNDP and UNHCR work together to support refugees and displaced persons."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "ILO",
+                    "Description": "UNDP and ILO collaborate on projects related to labor rights and employment."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "UN Women",
+                    "Description": "UNDP and UN Women work together to promote gender equality and women's empowerment."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "UNEP",
+                    "Description": "UNDP and UNEP collaborate on environmental sustainability projects."
+                },
+                {
+                    "Relation": "Partner",
+                    "Object": "UNODC",
+                    "Description": "UNDP and UNODC work together to combat drugs and crime."
+                }
+            ],
+            "World Bank": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "International Monetary Fund",
+                    "Description": "The World Bank collaborates with the International Monetary Fund on various global economic issues."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "United Nations",
+                    "Description": "The World Bank partners with the United Nations to achieve common development goals."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "African Development Bank",
+                    "Description": "The World Bank cooperates with the African Development Bank to support development projects in Africa."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "Asian Development Bank",
+                    "Description": "The World Bank cooperates with the Asian Development Bank to support development projects in Asia."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "European Bank for Reconstruction and Development",
+                    "Description": "The World Bank cooperates with the European Bank for Reconstruction and Development to support development projects in Europe."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "Inter-American Development Bank",
+                    "Description": "The World Bank cooperates with the Inter-American Development Bank to support development projects in the Americas."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "International Finance Corporation",
+                    "Description": "The International Finance Corporation is a member of the World Bank Group."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "International Development Association",
+                    "Description": "The International Development Association is a member of the World Bank Group."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Multilateral Investment Guarantee Agency",
+                    "Description": "The Multilateral Investment Guarantee Agency is a member of the World Bank Group."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "International Centre for Settlement of Investment Disputes",
+                    "Description": "The International Centre for Settlement of Investment Disputes is a member of the World Bank Group."
+                }
+            ],
+            "UNESCO": [
+                {
+                    "Relation": "protects",
+                    "Object": "World Heritage Sites",
+                    "Description": "UNESCO protects and preserves cultural and natural heritage sites around the world."
+                },
+                {
+                    "Relation": "safeguards",
+                    "Object": "Intangible Cultural Heritage",
+                    "Description": "UNESCO safeguards intangible cultural heritage, including traditions, rituals, and oral expressions."
+                },
+                {
+                    "Relation": "designates",
+                    "Object": "Biosphere Reserves",
+                    "Description": "UNESCO designates biosphere reserves to promote the conservation of ecosystems and biodiversity."
+                },
+                {
+                    "Relation": "preserves",
+                    "Object": "Memory of the World",
+                    "Description": "UNESCO preserves documentary heritage through the Memory of the World program."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Creative Cities",
+                    "Description": "UNESCO promotes creative cities that leverage culture and creativity for sustainable urban development."
+                },
+                {
+                    "Relation": "recognizes",
+                    "Object": "Global Geoparks",
+                    "Description": "UNESCO recognizes global geoparks for their geological significance and sustainable development practices."
+                },
+                {
+                    "Relation": "advocates for",
+                    "Object": "Education for Sustainable Development",
+                    "Description": "UNESCO advocates for education that promotes sustainable development and global citizenship."
+                },
+                {
+                    "Relation": "establishes",
+                    "Object": "UNESCO Chairs",
+                    "Description": "UNESCO establishes chairs in higher education institutions to promote interdisciplinary research and knowledge sharing."
+                },
+                {
+                    "Relation": "appoints",
+                    "Object": "UNESCO Goodwill Ambassadors",
+                    "Description": "UNESCO appoints goodwill ambassadors to advocate for its mission and values."
+                },
+                {
+                    "Relation": "designates",
+                    "Object": "UNESCO World Book Capital",
+                    "Description": "UNESCO designates a city as the World Book Capital to promote books, reading, and literacy."
+                },
+                {
+                    "Relation": "advocates",
+                    "Object": "Education for Sustainable Development",
+                    "Description": "UNESCO advocates for education that promotes sustainable development and global citizenship."
+                }
+            ],
+            "World Health Organization": [
+                {
+                    "Relation": "is responsible for",
+                    "Object": "COVID-19",
+                    "Description": "The World Health Organization is responsible for monitoring and coordinating the global response to the COVID-19 pandemic."
+                },
+                {
+                    "Relation": "has expertise in",
+                    "Object": "Ebola",
+                    "Description": "The World Health Organization has expertise in managing and controlling Ebola outbreaks."
+                },
+                {
+                    "Relation": "works to eliminate",
+                    "Object": "Malaria",
+                    "Description": "The World Health Organization works to eliminate malaria through various prevention and control measures."
+                },
+                {
+                    "Relation": "aims to eradicate",
+                    "Object": "Polio",
+                    "Description": "The World Health Organization aims to eradicate polio through vaccination campaigns and surveillance."
+                },
+                {
+                    "Relation": "played a key role in eradicating",
+                    "Object": "Smallpox",
+                    "Description": "The World Health Organization played a key role in the successful global eradication of smallpox."
+                },
+                {
+                    "Relation": "works to control",
+                    "Object": "Tuberculosis",
+                    "Description": "The World Health Organization works to control the spread of tuberculosis through prevention, diagnosis, and treatment."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Immunization",
+                    "Description": "The World Health Organization promotes immunization as a key strategy to prevent and control vaccine-preventable diseases."
+                },
+                {
+                    "Relation": "responds to",
+                    "Object": "Health Emergency",
+                    "Description": "The World Health Organization responds to health emergencies and provides guidance and support to affected countries."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Healthcare Workers",
+                    "Description": "The World Health Organization supports healthcare workers by providing training, guidelines, and resources."
+                }
+            ],
+            "UNICEF": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "World Health Organization",
+                    "Description": "UNICEF collaborates with the World Health Organization on various health programs."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "Save the Children",
+                    "Description": "UNICEF and Save the Children work together to improve the lives of children worldwide."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "United Nations",
+                    "Description": "UNICEF is a member of the United Nations."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "World Food Programme",
+                    "Description": "UNICEF and the World Food Programme collaborate to provide food assistance to children in need."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "United Nations Development Programme",
+                    "Description": "UNICEF collaborates with the United Nations Development Programme on various development projects."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "United Nations Population Fund",
+                    "Description": "UNICEF collaborates with the United Nations Population Fund on various programs related to reproductive health and family planning."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "World Bank",
+                    "Description": "UNICEF collaborates with the World Bank on various projects related to child development and poverty reduction."
+                },
+                {
+                    "Relation": "Affiliation",
+                    "Object": "United Nations Children's Fund",
+                    "Description": "UNICEF is the United Nations Children's Fund."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "Red Cross",
+                    "Description": "UNICEF and the Red Cross work together to provide humanitarian assistance to children affected by emergencies and disasters."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "Doctors Without Borders",
+                    "Description": "UNICEF collaborates with Doctors Without Borders on various emergency medical projects."
+                }
+            ],
+            "FAO": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "UN",
+                    "Description": "FAO collaborates with the United Nations on various global initiatives."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "World Bank",
+                    "Description": "FAO and the World Bank partner to address food security and agricultural development."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "WTO",
+                    "Description": "FAO and the World Trade Organization cooperate to ensure fair trade practices in agriculture."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "WHO",
+                    "Description": "FAO collaborates with the World Health Organization on issues related to food safety and nutrition."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "UNESCO",
+                    "Description": "FAO and UNESCO partner to promote sustainable agricultural practices and preserve cultural heritage."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "IFAD",
+                    "Description": "FAO collaborates with the International Fund for Agricultural Development to support smallholder farmers."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "ILO",
+                    "Description": "FAO and the International Labour Organization cooperate to improve working conditions in the agricultural sector."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "IMF",
+                    "Description": "FAO collaborates with the International Monetary Fund on issues related to food security and economic stability."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "World Food Programme",
+                    "Description": "FAO and the World Food Programme work together to provide emergency food assistance in crisis situations."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "UNICEF",
+                    "Description": "FAO collaborates with UNICEF to address malnutrition and improve child nutrition worldwide."
+                }
+            ],
+            "UNHCR": [
+                {
+                    "Relation": "provides assistance to",
+                    "Object": "Refugees",
+                    "Description": "UNHCR provides assistance to refugees by ensuring their protection, providing shelter, and delivering essential services."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Asylum seekers",
+                    "Description": "UNHCR supports asylum seekers by processing their claims, providing legal assistance, and advocating for their rights."
+                },
+                {
+                    "Relation": "assists",
+                    "Object": "Internally displaced persons",
+                    "Description": "UNHCR assists internally displaced persons by providing emergency relief, promoting durable solutions, and supporting their return or integration."
+                },
+                {
+                    "Relation": "works to find solutions for",
+                    "Object": "Stateless persons",
+                    "Description": "UNHCR works to find solutions for stateless persons by advocating for their rights, facilitating their access to nationality, and preventing statelessness."
+                },
+                {
+                    "Relation": "cooperates with",
+                    "Object": "Host countries",
+                    "Description": "UNHCR cooperates with host countries by supporting their efforts in providing protection, ensuring access to basic services, and promoting social cohesion."
+                },
+                {
+                    "Relation": "receives funding from",
+                    "Object": "Donor countries",
+                    "Description": "UNHCR receives funding from donor countries to support its operations, provide humanitarian assistance, and implement programs for refugees and displaced persons."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "NGOs",
+                    "Description": "UNHCR collaborates with NGOs to enhance the delivery of humanitarian aid, strengthen protection mechanisms, and promote the rights of refugees and displaced persons."
+                },
+                {
+                    "Relation": "coordinates with",
+                    "Object": "Government agencies",
+                    "Description": "UNHCR coordinates with government agencies to ensure effective response, develop national asylum systems, and strengthen legal frameworks for refugee protection."
+                },
+                {
+                    "Relation": "employs",
+                    "Object": "Humanitarian workers",
+                    "Description": "UNHCR employs humanitarian workers who provide direct assistance, conduct assessments, and implement programs to address the needs of refugees and displaced persons."
+                },
+                {
+                    "Relation": "partners with",
+                    "Object": "Advocacy groups",
+                    "Description": "UNHCR partners with advocacy groups to raise awareness, advocate for policy changes, and mobilize support for the rights and well-being of refugees and displaced persons."
+                }
+            ],
+            "ILO": [
+                {
+                    "Relation": "works with",
+                    "Object": "Workers",
+                    "Description": "The ILO collaborates with workers to improve labor conditions and protect their rights."
+                },
+                {
+                    "Relation": "works with",
+                    "Object": "Employers",
+                    "Description": "The ILO engages with employers to promote decent work and ensure fair treatment of employees."
+                },
+                {
+                    "Relation": "cooperates with",
+                    "Object": "Governments",
+                    "Description": "The ILO cooperates with governments to develop and implement labor policies and regulations."
+                },
+                {
+                    "Relation": "partners with",
+                    "Object": "Trade Unions",
+                    "Description": "The ILO partners with trade unions to advocate for workers' rights and improve labor conditions."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Decent Work",
+                    "Description": "The ILO promotes the concept of decent work, which encompasses fair wages, safe working conditions, and social protection."
+                },
+                {
+                    "Relation": "advocates for",
+                    "Object": "Social Justice",
+                    "Description": "The ILO advocates for social justice by promoting equal opportunities, fair treatment, and non-discrimination in the workplace."
+                },
+                {
+                    "Relation": "sets",
+                    "Object": "Labor Standards",
+                    "Description": "The ILO sets international labor standards to ensure basic rights and protections for workers worldwide."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Employment Opportunities",
+                    "Description": "The ILO supports the creation of employment opportunities through various programs and initiatives."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Poverty Reduction",
+                    "Description": "The ILO contributes to poverty reduction by promoting decent work and sustainable economic growth."
+                }
+            ],
+            "UN Women": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "UN Women is an entity within the United Nations."
+                },
+                {
+                    "Relation": "works towards",
+                    "Object": "Gender Equality",
+                    "Description": "UN Women works towards achieving gender equality and empowering women."
+                },
+                {
+                    "Relation": "advocates for",
+                    "Object": "Women's Rights",
+                    "Description": "UN Women advocates for the rights of women and girls globally."
+                },
+                {
+                    "Relation": "addresses",
+                    "Object": "Gender-based Violence",
+                    "Description": "UN Women addresses gender-based violence and supports survivors."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Empowerment",
+                    "Description": "UN Women promotes the empowerment of women and girls."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Sustainable Development Goals",
+                    "Description": "UN Women supports the achievement of the Sustainable Development Goals, particularly Goal 5 on gender equality."
+                },
+                {
+                    "Relation": "engages in",
+                    "Object": "Advocacy",
+                    "Description": "UN Women engages in advocacy efforts to promote gender equality and women's rights."
+                },
+                {
+                    "Relation": "implements",
+                    "Object": "Gender Mainstreaming",
+                    "Description": "UN Women implements gender mainstreaming strategies to integrate gender perspectives into policies and programs."
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "Capacity Building",
+                    "Description": "UN Women provides capacity building support to strengthen gender equality efforts."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "Partnerships",
+                    "Description": "UN Women collaborates with various partners to advance gender equality and women's empowerment."
+                }
+            ],
+            "UNEP": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "UNESCO",
+                    "Description": "UNEP and UNESCO collaborate on various environmental projects."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "WWF",
+                    "Description": "UNEP and WWF have a partnership to promote conservation and sustainable development."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "Greenpeace",
+                    "Description": "UNEP cooperates with Greenpeace on environmental campaigns and initiatives."
+                },
+                {
+                    "Relation": "Scientific collaboration",
+                    "Object": "IPCC",
+                    "Description": "UNEP collaborates with IPCC to provide scientific assessments on climate change."
+                },
+                {
+                    "Relation": "Convention",
+                    "Object": "CBD",
+                    "Description": "UNEP supports the implementation of the CBD (Convention on Biological Diversity)."
+                },
+                {
+                    "Relation": "Framework",
+                    "Object": "UNFCCC",
+                    "Description": "UNEP works within the framework of the UNFCCC (United Nations Framework Convention on Climate Change)."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "UNDP",
+                    "Description": "UNEP and UNDP have a partnership to promote sustainable development and environmental protection."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "IUCN",
+                    "Description": "UNEP collaborates with IUCN on biodiversity conservation and environmental governance."
+                },
+                {
+                    "Relation": "Convention",
+                    "Object": "CITES",
+                    "Description": "UNEP supports the implementation of CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "WMO",
+                    "Description": "UNEP collaborates with WMO on meteorology and climate-related issues."
+                }
+            ],
+            "UNODC": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "United Nations",
+                    "Description": "UNODC collaborates with the United Nations on various initiatives."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "World Health Organization",
+                    "Description": "UNODC and WHO have a partnership to address drug-related health issues."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "Interpol",
+                    "Description": "UNODC cooperates with Interpol to combat transnational organized crime."
+                },
+                {
+                    "Relation": "Coordination",
+                    "Object": "European Union",
+                    "Description": "UNODC coordinates with the European Union on crime prevention and criminal justice matters."
+                },
+                {
+                    "Relation": "Support",
+                    "Object": "International Criminal Court",
+                    "Description": "UNODC provides support to the International Criminal Court in investigating and prosecuting international crimes."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "United Nations Development Programme",
+                    "Description": "UNODC and UNDP have a partnership to promote sustainable development and rule of law."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "World Bank",
+                    "Description": "UNODC collaborates with the World Bank on projects related to crime prevention and criminal justice."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "International Monetary Fund",
+                    "Description": "UNODC cooperates with the IMF to address money laundering and illicit financial flows."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "World Trade Organization",
+                    "Description": "UNODC and WTO have a partnership to combat illicit trade and promote legal trade."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "United Nations Children's Fund",
+                    "Description": "UNODC collaborates with UNICEF on initiatives to protect children from drugs and crime."
+                }
+            ],
+            "World Heritage Sites": [
+                {
+                    "Relation": "Located in",
+                    "Object": "Great Barrier Reef",
+                    "Description": "The Great Barrier Reef is located in Australia."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Machu Picchu",
+                    "Description": "Machu Picchu is located in Peru."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Taj Mahal",
+                    "Description": "The Taj Mahal is located in India."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Pyramids of Giza",
+                    "Description": "The Pyramids of Giza are located in Egypt."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Galapagos Islands",
+                    "Description": "The Galapagos Islands are located in Ecuador."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Angkor Wat",
+                    "Description": "Angkor Wat is located in Cambodia."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Acropolis of Athens",
+                    "Description": "The Acropolis of Athens is located in Greece."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Serengeti National Park",
+                    "Description": "Serengeti National Park is located in Tanzania."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Stonehenge",
+                    "Description": "Stonehenge is located in England."
+                },
+                {
+                    "Relation": "Located in",
+                    "Object": "Grand Canyon National Park",
+                    "Description": "Grand Canyon National Park is located in the United States."
+                }
+            ],
+            "Intangible Cultural Heritage": [
+                {
+                    "Relation": "Preserves",
+                    "Object": "Music",
+                    "Description": "Music preserves cultural traditions and expressions."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Dance",
+                    "Description": "Dance preserves cultural traditions and expressions."
+                },
+                {
+                    "Relation": "Transmits",
+                    "Object": "Folklore",
+                    "Description": "Folklore transmits cultural knowledge and values."
+                },
+                {
+                    "Relation": "Transmits",
+                    "Object": "Oral traditions",
+                    "Description": "Oral traditions transmit cultural knowledge and history."
+                },
+                {
+                    "Relation": "Showcases",
+                    "Object": "Craftsmanship",
+                    "Description": "Craftsmanship showcases traditional artisanal skills."
+                },
+                {
+                    "Relation": "Represents",
+                    "Object": "Cuisine",
+                    "Description": "Cuisine represents cultural identity and heritage."
+                },
+                {
+                    "Relation": "Celebrates",
+                    "Object": "Festivals",
+                    "Description": "Festivals celebrate cultural traditions and customs."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Language",
+                    "Description": "Language preserves cultural heritage and communication."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Storytelling",
+                    "Description": "Storytelling preserves cultural history and traditions."
+                },
+                {
+                    "Relation": "Practices",
+                    "Object": "Traditional Medicine",
+                    "Description": "Traditional medicine practices preserve cultural healing practices."
+                }
+            ],
+            "Biosphere Reserves": [
+                {
+                    "Relation": "Promote",
+                    "Object": "Biodiversity",
+                    "Description": "Biosphere Reserves promote the conservation of biodiversity."
+                },
+                {
+                    "Relation": "Contribute to",
+                    "Object": "Conservation",
+                    "Description": "Biosphere Reserves contribute to the conservation of natural resources."
+                },
+                {
+                    "Relation": "Study",
+                    "Object": "Ecology",
+                    "Description": "Biosphere Reserves provide opportunities to study ecological processes."
+                },
+                {
+                    "Relation": "Support",
+                    "Object": "Sustainable Development",
+                    "Description": "Biosphere Reserves support sustainable development practices."
+                },
+                {
+                    "Relation": "Protect",
+                    "Object": "Endangered Species",
+                    "Description": "Biosphere Reserves protect endangered species and their habitats."
+                },
+                {
+                    "Relation": "Preserve",
+                    "Object": "Ecosystem",
+                    "Description": "Biosphere Reserves preserve diverse ecosystems."
+                },
+                {
+                    "Relation": "Designate as",
+                    "Object": "Protected Areas",
+                    "Description": "Biosphere Reserves are designated as protected areas."
+                },
+                {
+                    "Relation": "Promote",
+                    "Object": "Wildlife",
+                    "Description": "Biosphere Reserves promote the conservation of wildlife."
+                },
+                {
+                    "Relation": "Address",
+                    "Object": "Climate Change",
+                    "Description": "Biosphere Reserves address the impacts of climate change on ecosystems."
+                },
+                {
+                    "Relation": "Engage in",
+                    "Object": "Community Engagement",
+                    "Description": "Biosphere Reserves engage local communities in conservation efforts."
+                }
+            ],
+            "Memory of the World": [
+                {
+                    "Relation": "Preservation",
+                    "Object": "UNESCO",
+                    "Description": "UNESCO works to preserve and protect the world's documentary heritage through the Memory of the World program."
+                },
+                {
+                    "Relation": "Inclusion",
+                    "Object": "Gutenberg Bible",
+                    "Description": "The Gutenberg Bible is included in the Memory of the World register due to its historical significance as the first major book printed using mass-produced movable type."
+                },
+                {
+                    "Relation": "Recognition",
+                    "Object": "Mona Lisa",
+                    "Description": "Although not a document, the Mona Lisa is recognized as a cultural icon and is considered a part of the world's collective memory."
+                },
+                {
+                    "Relation": "Inscription",
+                    "Object": "Declaration of Independence",
+                    "Description": "The Declaration of Independence is inscribed in the Memory of the World register as a significant document that symbolizes the birth of a nation."
+                },
+                {
+                    "Relation": "Appreciation",
+                    "Object": "Beethoven's Symphony No. 9",
+                    "Description": "Beethoven's Symphony No. 9 is appreciated as a masterpiece of musical composition and is recognized as part of the world's cultural heritage."
+                },
+                {
+                    "Relation": "Preservation",
+                    "Object": "The Great Gatsby",
+                    "Description": "The Great Gatsby is preserved in the Memory of the World as a classic novel that captures the essence of the Jazz Age in America."
+                },
+                {
+                    "Relation": "Inspiration",
+                    "Object": "Leonardo da Vinci",
+                    "Description": "Leonardo da Vinci's works and ideas continue to inspire generations and are considered part of the world's collective memory."
+                },
+                {
+                    "Relation": "Influence",
+                    "Object": "The Beatles",
+                    "Description": "The Beatles' music and cultural impact have influenced and shaped the world's popular music history, making them a part of the collective memory."
+                },
+                {
+                    "Relation": "Recognition",
+                    "Object": "The Scream",
+                    "Description": "The Scream by Edvard Munch is recognized as an iconic artwork that represents the human condition and is part of the world's artistic memory."
+                },
+                {
+                    "Relation": "Preservation",
+                    "Object": "The Odyssey",
+                    "Description": "The Odyssey, an ancient Greek epic, is preserved in the Memory of the World as a significant literary work that has shaped Western literature and storytelling."
+                }
+            ],
+            "Creative Cities": [
+                {
+                    "Relation": "Promotes",
+                    "Object": "City",
+                    "Description": "Creative Cities promote the development of creative industries in cities."
+                },
+                {
+                    "Relation": "Collaborates with",
+                    "Object": "Artists",
+                    "Description": "Creative Cities collaborate with local artists to enhance the cultural scene."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "Cultural Institutions",
+                    "Description": "Creative Cities support cultural institutions to preserve and promote local heritage."
+                },
+                {
+                    "Relation": "Boosts",
+                    "Object": "Tourism",
+                    "Description": "Creative Cities boost tourism by showcasing their cultural and artistic offerings."
+                },
+                {
+                    "Relation": "Integrates with",
+                    "Object": "Education",
+                    "Description": "Creative Cities integrate creative education programs to nurture local talent."
+                },
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Technology",
+                    "Description": "Creative Cities utilize technology to innovate and enhance creative industries."
+                },
+                {
+                    "Relation": "Collaborates with",
+                    "Object": "Government",
+                    "Description": "Creative Cities collaborate with government bodies to implement policies supporting the creative sector."
+                },
+                {
+                    "Relation": "Contributes to",
+                    "Object": "Economy",
+                    "Description": "Creative Cities contribute to the local economy through the creative industries."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Heritage",
+                    "Description": "Creative Cities preserve and promote local heritage through cultural initiatives."
+                },
+                {
+                    "Relation": "Embraces",
+                    "Object": "Sustainability",
+                    "Description": "Creative Cities embrace sustainability in their cultural and creative practices."
+                }
+            ],
+            "Global Geoparks": [
+                {
+                    "Relation": "is recognized by",
+                    "Object": "UNESCO",
+                    "Description": "Global Geoparks are recognized by UNESCO for their geological significance and sustainable development practices."
+                },
+                {
+                    "Relation": "focuses on",
+                    "Object": "Geology",
+                    "Description": "Global Geoparks focus on the geological heritage of an area and promote its conservation and understanding."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Tourism",
+                    "Description": "Global Geoparks promote geotourism, attracting visitors to explore and appreciate the geological features of an area."
+                },
+                {
+                    "Relation": "integrates",
+                    "Object": "Conservation",
+                    "Description": "Global Geoparks integrate conservation efforts to protect the geological and natural resources of an area."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Education",
+                    "Description": "Global Geoparks support educational initiatives to raise awareness and understanding of geology and Earth sciences."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable Development",
+                    "Description": "Global Geoparks contribute to sustainable development by balancing conservation, tourism, and community involvement."
+                },
+                {
+                    "Relation": "preserves",
+                    "Object": "Biodiversity",
+                    "Description": "Global Geoparks preserve and promote biodiversity, recognizing the interconnectedness of geology and ecology."
+                },
+                {
+                    "Relation": "celebrates",
+                    "Object": "Cultural Heritage",
+                    "Description": "Global Geoparks celebrate the cultural heritage associated with geological landscapes, promoting cultural tourism."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Community Engagement",
+                    "Description": "Global Geoparks involve local communities in decision-making and management, fostering a sense of ownership and pride."
+                },
+                {
+                    "Relation": "encourages",
+                    "Object": "Geotourism",
+                    "Description": "Global Geoparks encourage geotourism, a form of sustainable travel that focuses on geological and cultural experiences."
+                }
+            ],
+            "Education for Sustainable Development": [
+                {
+                    "Relation": "Promotes",
+                    "Object": "Sustainable Development Goals",
+                    "Description": "Education for Sustainable Development promotes the achievement of the Sustainable Development Goals through learning and action."
+                },
+                {
+                    "Relation": "Incorporates",
+                    "Object": "Environmental Education",
+                    "Description": "Education for Sustainable Development incorporates environmental education principles and practices to foster environmental awareness and responsibility."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Climate Change",
+                    "Description": "Education for Sustainable Development addresses the challenges and impacts of climate change, promoting climate action and resilience."
+                },
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Biodiversity Conservation",
+                    "Description": "Education for Sustainable Development advocates for the conservation and protection of biodiversity, promoting the understanding of its importance for sustainable development."
+                },
+                {
+                    "Relation": "Encourages the use of",
+                    "Object": "Renewable Energy",
+                    "Description": "Education for Sustainable Development encourages the use of renewable energy sources and promotes the understanding of their benefits for sustainable development."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Social Justice",
+                    "Description": "Education for Sustainable Development promotes social justice by addressing inequalities and promoting inclusive and equitable societies."
+                },
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Circular Economy",
+                    "Description": "Education for Sustainable Development advocates for the transition to a circular economy, promoting sustainable consumption and production patterns."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Sustainable Agriculture",
+                    "Description": "Education for Sustainable Development promotes sustainable agricultural practices that ensure food security, protect ecosystems, and support rural development."
+                },
+                {
+                    "Relation": "Encourages",
+                    "Object": "Water Conservation",
+                    "Description": "Education for Sustainable Development encourages the conservation and responsible management of water resources, promoting water security and sustainability."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Gender Equality",
+                    "Description": "Education for Sustainable Development promotes gender equality and empowers women and girls, recognizing their crucial role in sustainable development."
+                }
+            ],
+            "UNESCO Chairs": [
+                {
+                    "Relation": "holds",
+                    "Object": "University of ABC",
+                    "Description": "UNESCO Chairs holds a partnership with University of ABC"
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "Professor XYZ",
+                    "Description": "UNESCO Chairs collaborates with Professor XYZ"
+                },
+                {
+                    "Relation": "funds",
+                    "Object": "Research Institute ABC",
+                    "Description": "UNESCO Chairs funds Research Institute ABC"
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Country XYZ",
+                    "Description": "UNESCO Chairs supports initiatives in Country XYZ"
+                },
+                {
+                    "Relation": "focuses on",
+                    "Object": "Subject A",
+                    "Description": "UNESCO Chairs focuses on research and education in Subject A"
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Subject B",
+                    "Description": "UNESCO Chairs promotes research and education in Subject B"
+                },
+                {
+                    "Relation": "develops",
+                    "Object": "Subject C",
+                    "Description": "UNESCO Chairs develops programs and initiatives in Subject C"
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "Subject D",
+                    "Description": "UNESCO Chairs collaborates with experts in Subject D"
+                },
+                {
+                    "Relation": "organizes events on",
+                    "Object": "Subject E",
+                    "Description": "UNESCO Chairs organizes events and conferences on Subject E"
+                }
+            ],
+            "UNESCO Goodwill Ambassadors": [
+                {
+                    "Relation": "is appointed as",
+                    "Object": "Audrey Azoulay",
+                    "Description": "Audrey Azoulay is appointed as a UNESCO Goodwill Ambassador."
+                },
+                {
+                    "Relation": "is appointed as",
+                    "Object": "Irina Bokova",
+                    "Description": "Irina Bokova is appointed as a UNESCO Goodwill Ambassador."
+                },
+                {
+                    "Relation": "is appointed as",
+                    "Object": "Forest Whitaker",
+                    "Description": "Forest Whitaker is appointed as a UNESCO Goodwill Ambassador."
+                },
+                {
+                    "Relation": "is appointed as",
+                    "Object": "Herbie Hancock",
+                    "Description": "Herbie Hancock is appointed as a UNESCO Goodwill Ambassador."
+                },
+                {
+                    "Relation": "is associated with",
+                    "Object": "Irina Bukova Foundation",
+                    "Description": "UNESCO Goodwill Ambassadors are associated with the Irina Bukova Foundation."
+                },
+                {
+                    "Relation": "holds the title of",
+                    "Object": "UNESCO Artist for Peace",
+                    "Description": "UNESCO Goodwill Ambassadors hold the title of UNESCO Artist for Peace."
+                },
+                {
+                    "Relation": "holds the title of",
+                    "Object": "UNESCO Special Envoy for Peace and Reconciliation",
+                    "Description": "UNESCO Goodwill Ambassadors hold the title of UNESCO Special Envoy for Peace and Reconciliation."
+                },
+                {
+                    "Relation": "holds the title of",
+                    "Object": "UNESCO Goodwill Ambassador for Intercultural Dialogue",
+                    "Description": "UNESCO Goodwill Ambassadors hold the title of UNESCO Goodwill Ambassador for Intercultural Dialogue."
+                }
+            ],
+            "UNESCO World Book Capital": [
+                {
+                    "Relation": "Promotes",
+                    "Object": "Books",
+                    "Description": "UNESCO World Book Capital promotes the importance of books."
+                },
+                {
+                    "Relation": "Celebrates",
+                    "Object": "Authors",
+                    "Description": "UNESCO World Book Capital celebrates the work of authors."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "Libraries",
+                    "Description": "UNESCO World Book Capital supports the development of libraries."
+                },
+                {
+                    "Relation": "Showcases",
+                    "Object": "Literature",
+                    "Description": "UNESCO World Book Capital showcases various forms of literature."
+                },
+                {
+                    "Relation": "Encourages",
+                    "Object": "Reading",
+                    "Description": "UNESCO World Book Capital encourages reading among people of all ages."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Education",
+                    "Description": "UNESCO World Book Capital promotes education through books and reading."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Culture",
+                    "Description": "UNESCO World Book Capital contributes to the preservation of cultural heritage through books."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "Publishing",
+                    "Description": "UNESCO World Book Capital supports the publishing industry."
+                }
+            ]
+        }
+    }
+}
