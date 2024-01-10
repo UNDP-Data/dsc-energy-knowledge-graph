@@ -1,0 +1,100 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Biomass energy": [
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable energy",
+                    "Description": "Biomass energy is a form of renewable energy that is derived from organic matter."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Carbon dioxide",
+                    "Description": "The combustion of biomass energy produces carbon dioxide as a byproduct."
+                },
+                {
+                    "Relation": "can be used as",
+                    "Object": "Biofuel",
+                    "Description": "Biomass energy can be converted into biofuel for use in transportation and heating."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Waste management",
+                    "Description": "The production of biomass energy requires effective waste management practices to ensure a sustainable supply of feedstock."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable development",
+                    "Description": "The use of biomass energy contributes to sustainable development by reducing reliance on fossil fuels and promoting environmental stewardship."
+                },
+                {
+                    "Relation": "is used for",
+                    "Object": "Power generation",
+                    "Description": "Biomass energy is used for power generation through the combustion of organic materials."
+                },
+                {
+                    "Relation": "is derived from",
+                    "Object": "Biomass feedstock",
+                    "Description": "Biomass energy is derived from various types of biomass feedstock, such as agricultural residues, wood pellets, and dedicated energy crops."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Renewable resources",
+                    "Description": "Biomass energy utilizes renewable resources, such as plants and organic waste, to generate heat and electricity."
+                },
+                {
+                    "Relation": "is considered",
+                    "Object": "Carbon neutral",
+                    "Description": "Biomass energy is considered carbon neutral because the carbon dioxide released during combustion is offset by the carbon dioxide absorbed by the biomass feedstock during growth."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable energy",
+                    "Description": "Biomass energy is a form of renewable energy that is derived from organic matter."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Carbon dioxide",
+                    "Description": "The combustion of biomass energy produces carbon dioxide as a byproduct."
+                },
+                {
+                    "Relation": "can be used as",
+                    "Object": "Biofuel",
+                    "Description": "Biomass energy can be converted into biofuel for use in transportation and heating."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Waste management",
+                    "Description": "The production of biomass energy requires effective waste management practices to ensure a sustainable supply of feedstock."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable development",
+                    "Description": "The use of biomass energy contributes to sustainable development by reducing reliance on fossil fuels and promoting environmental stewardship."
+                },
+                {
+                    "Relation": "is used for",
+                    "Object": "Power generation",
+                    "Description": "Biomass energy is used for power generation through the combustion of organic materials."
+                },
+                {
+                    "Relation": "is derived from",
+                    "Object": "Biomass feedstock",
+                    "Description": "Biomass energy is derived from various types of biomass feedstock, such as agricultural residues, wood pellets, and dedicated energy crops."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Renewable resources",
+                    "Description": "Biomass energy utilizes renewable resources, such as plants and organic waste, to generate heat and electricity."
+                },
+                {
+                    "Relation": "is considered",
+                    "Object": "Carbon neutral",
+                    "Description": "Biomass energy is considered carbon neutral because the carbon dioxide released during combustion is offset by the carbon dioxide absorbed by the biomass feedstock during growth."
+                }
+            ]
+        }
+    }
+}
