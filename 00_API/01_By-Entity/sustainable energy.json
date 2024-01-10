@@ -1,0 +1,60 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "sustainable energy": [
+                {
+                    "Relation": "is a form of",
+                    "Object": "Solar power",
+                    "Description": "Solar power is a form of sustainable energy that harnesses the power of the sun to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Wind power",
+                    "Description": "Wind power is a form of sustainable energy that converts the kinetic energy of wind into electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Hydropower",
+                    "Description": "Hydropower is a form of sustainable energy that uses the force of flowing or falling water to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Geothermal energy",
+                    "Description": "Geothermal energy is a form of sustainable energy that utilizes heat from the Earth's core to generate electricity or heat buildings."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Biomass energy",
+                    "Description": "Biomass energy is a form of sustainable energy that derives from organic materials, such as wood, crops, or waste, and can be used for heating or electricity generation."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Tidal power",
+                    "Description": "Tidal power is a form of sustainable energy that harnesses the energy from the rise and fall of tides to generate electricity."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Nuclear power",
+                    "Description": "Nuclear power is a form of low-carbon energy that generates electricity through nuclear reactions, providing a sustainable alternative to fossil fuels."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Energy efficiency",
+                    "Description": "Sustainable energy involves the practice of energy efficiency, which aims to reduce energy consumption and waste by using technology and design strategies."
+                },
+                {
+                    "Relation": "relies on",
+                    "Object": "Smart grid",
+                    "Description": "Sustainable energy relies on the implementation of a smart grid, which enables efficient distribution and management of electricity from renewable sources."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Electric vehicles",
+                    "Description": "Sustainable energy promotes the use of electric vehicles, which reduce greenhouse gas emissions and dependence on fossil fuels in transportation."
+                }
+            ]
+        }
+    }
+}
