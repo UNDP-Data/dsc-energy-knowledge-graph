@@ -1,0 +1,60 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Energy efficiency": [
+                {
+                    "Relation": "improves",
+                    "Object": "Lighting",
+                    "Description": "Using energy-efficient lighting can improve energy efficiency in buildings."
+                },
+                {
+                    "Relation": "enhances",
+                    "Object": "Insulation",
+                    "Description": "Proper insulation enhances energy efficiency by reducing heat transfer."
+                },
+                {
+                    "Relation": "optimizes",
+                    "Object": "Appliances",
+                    "Description": "Using energy-efficient appliances optimizes energy consumption and improves energy efficiency."
+                },
+                {
+                    "Relation": "affects",
+                    "Object": "HVAC systems",
+                    "Description": "Efficient HVAC systems can significantly affect energy efficiency in buildings."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Renewable energy",
+                    "Description": "Integrating renewable energy sources improves overall energy efficiency."
+                },
+                {
+                    "Relation": "considers",
+                    "Object": "Building design",
+                    "Description": "Energy-efficient building design considers various factors to maximize energy efficiency."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Smart thermostats",
+                    "Description": "Smart thermostats utilize advanced technology to optimize energy usage and improve energy efficiency."
+                },
+                {
+                    "Relation": "assesses",
+                    "Object": "Energy audits",
+                    "Description": "Energy audits assess energy usage and identify areas for improvement in energy efficiency."
+                },
+                {
+                    "Relation": "improves",
+                    "Object": "Windows",
+                    "Description": "Energy-efficient windows improve insulation and contribute to energy efficiency."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Energy management systems",
+                    "Description": "Energy management systems integrate various components to optimize energy usage and improve energy efficiency."
+                }
+            ]
+        }
+    }
+}
