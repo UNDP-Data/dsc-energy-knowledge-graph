@@ -9,6 +9,14 @@
                 "category": "Organization"
             },
             {
+                "entity": "UN Policies",
+                "category": "Organization"
+            },
+            {
+                "entity": "UN Regulations",
+                "category": "Organization"
+            },
+            {
                 "entity": "Solar power",
                 "category": "Renewable energy"
             },
@@ -49,44 +57,44 @@
                 "category": "Transportation"
             },
             {
-                "entity": "Solar panel",
+                "entity": "Photovoltaic cells",
                 "category": "Technology"
             },
             {
-                "entity": "Photovoltaic cell",
+                "entity": "Solar panels",
                 "category": "Technology"
-            },
-            {
-                "entity": "Solar energy",
-                "category": "Energy"
-            },
-            {
-                "entity": "Renewable energy",
-                "category": "Energy"
-            },
-            {
-                "entity": "Sun",
-                "category": "Celestial body"
             },
             {
                 "entity": "Inverter",
                 "category": "Technology"
             },
             {
-                "entity": "Solar farm",
-                "category": "Infrastructure"
+                "entity": "Battery storage",
+                "category": "Technology"
             },
             {
-                "entity": "Solar radiation",
-                "category": "Physical phenomenon"
+                "entity": "Solar thermal power",
+                "category": "Technology"
+            },
+            {
+                "entity": "Renewable energy",
+                "category": "Concept"
+            },
+            {
+                "entity": "Grid integration",
+                "category": "Concept"
             },
             {
                 "entity": "Net metering",
                 "category": "Policy"
             },
             {
-                "entity": "Solar battery",
-                "category": "Technology"
+                "entity": "Solar irradiance",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Solar farm",
+                "category": "Infrastructure"
             },
             {
                 "entity": "Wind turbine",
@@ -138,35 +146,35 @@
             },
             {
                 "entity": "Turbines",
-                "category": "Equipment"
+                "category": "Machinery"
             },
             {
                 "entity": "Electricity",
-                "category": "Output"
+                "category": "Energy"
             },
             {
                 "entity": "Renewable Energy",
-                "category": "Concept"
+                "category": "Energy"
             },
             {
                 "entity": "Reservoirs",
-                "category": "Storage"
+                "category": "Water Storage"
             },
             {
-                "entity": "Fish",
-                "category": "Ecology"
-            },
-            {
-                "entity": "Flood Control",
-                "category": "Benefit"
-            },
-            {
-                "entity": "Sedimentation",
-                "category": "Environmental Impact"
+                "entity": "Environmental Impact",
+                "category": "Concern"
             },
             {
                 "entity": "Hydroelectric Power Plants",
                 "category": "Infrastructure"
+            },
+            {
+                "entity": "Waterfall",
+                "category": "Natural Phenomenon"
+            },
+            {
+                "entity": "Sustainable Development",
+                "category": "Goal"
             },
             {
                 "entity": "Geothermal power plant",
@@ -213,6 +221,10 @@
                 "category": "Energy"
             },
             {
+                "entity": "Renewable energy",
+                "category": "Energy"
+            },
+            {
                 "entity": "Carbon dioxide",
                 "category": "Chemical compound"
             },
@@ -229,20 +241,20 @@
                 "category": "Environmental"
             },
             {
-                "entity": "Biomass power plant",
-                "category": "Infrastructure"
+                "entity": "Power generation",
+                "category": "Energy"
             },
             {
-                "entity": "Biomass feedstock",
-                "category": "Raw material"
+                "entity": "Climate change",
+                "category": "Environmental"
             },
             {
-                "entity": "Biomass conversion",
-                "category": "Process"
+                "entity": "Renewable resources",
+                "category": "Natural resources"
             },
             {
-                "entity": "Biomass gasification",
-                "category": "Process"
+                "entity": "Carbon neutral",
+                "category": "Environmental"
             },
             {
                 "entity": "Tidal barrages",
@@ -306,7 +318,7 @@
             },
             {
                 "entity": "Nuclear radiation",
-                "category": "Health"
+                "category": "Health effects"
             },
             {
                 "entity": "Nuclear disarmament",
@@ -439,6 +451,826 @@
             {
                 "entity": "Carbon emissions",
                 "category": "Environmental impact"
+            },
+            {
+                "entity": "Human Rights",
+                "category": "Policy"
+            },
+            {
+                "entity": "Peacekeeping",
+                "category": "Policy"
+            },
+            {
+                "entity": "Sustainable Development Goals",
+                "category": "Policy"
+            },
+            {
+                "entity": "Climate Change",
+                "category": "Issue"
+            },
+            {
+                "entity": "Refugees",
+                "category": "Issue"
+            },
+            {
+                "entity": "Arms Control",
+                "category": "Policy"
+            },
+            {
+                "entity": "Gender Equality",
+                "category": "Policy"
+            },
+            {
+                "entity": "International Law",
+                "category": "Policy"
+            },
+            {
+                "entity": "Poverty Eradication",
+                "category": "Policy"
+            },
+            {
+                "entity": "Disarmament",
+                "category": "Policy"
+            },
+            {
+                "entity": "Freedom of Speech",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Education",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Privacy",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Life",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Equality",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Fair Trial",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Health",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Freedom of Religion",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Vote",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "Right to Housing",
+                "category": "Basic Human Right"
+            },
+            {
+                "entity": "United Nations",
+                "category": "International Organization"
+            },
+            {
+                "entity": "Blue Helmets",
+                "category": "Peacekeeping Force"
+            },
+            {
+                "entity": "Conflict Resolution",
+                "category": "Process"
+            },
+            {
+                "entity": "Humanitarian Aid",
+                "category": "Assistance"
+            },
+            {
+                "entity": "Ceasefire",
+                "category": "Agreement"
+            },
+            {
+                "entity": "Security Council",
+                "category": "UN Body"
+            },
+            {
+                "entity": "Peace Agreement",
+                "category": "Treaty"
+            },
+            {
+                "entity": "Disarmament",
+                "category": "Process"
+            },
+            {
+                "entity": "Civilian Protection",
+                "category": "Responsibility"
+            },
+            {
+                "entity": "Conflict Prevention",
+                "category": "Strategy"
+            },
+            {
+                "entity": "Clean Water and Sanitation",
+                "category": "Water"
+            },
+            {
+                "entity": "Zero Hunger",
+                "category": "Food"
+            },
+            {
+                "entity": "Quality Education",
+                "category": "Education"
+            },
+            {
+                "entity": "Gender Equality",
+                "category": "Equality"
+            },
+            {
+                "entity": "Decent Work and Economic Growth",
+                "category": "Economy"
+            },
+            {
+                "entity": "Industry, Innovation, and Infrastructure",
+                "category": "Infrastructure"
+            },
+            {
+                "entity": "Reduced Inequalities",
+                "category": "Equality"
+            },
+            {
+                "entity": "Sustainable Cities and Communities",
+                "category": "Urbanization"
+            },
+            {
+                "entity": "Climate Action",
+                "category": "Environment"
+            },
+            {
+                "entity": "Greenhouse gases",
+                "category": "Environmental factors"
+            },
+            {
+                "entity": "Deforestation",
+                "category": "Human activities"
+            },
+            {
+                "entity": "Renewable energy",
+                "category": "Solutions"
+            },
+            {
+                "entity": "Global temperature rise",
+                "category": "Climate impact"
+            },
+            {
+                "entity": "Ocean acidification",
+                "category": "Environmental consequences"
+            },
+            {
+                "entity": "Extreme weather events",
+                "category": "Climate impact"
+            },
+            {
+                "entity": "Melting ice caps",
+                "category": "Environmental consequences"
+            },
+            {
+                "entity": "Carbon footprint",
+                "category": "Measurement"
+            },
+            {
+                "entity": "Mitigation",
+                "category": "Actions"
+            },
+            {
+                "entity": "Adaptation",
+                "category": "Actions"
+            },
+            {
+                "entity": "Refugee Camps",
+                "category": "Location"
+            },
+            {
+                "entity": "Asylum Seekers",
+                "category": "People"
+            },
+            {
+                "entity": "Immigration Policies",
+                "category": "Government"
+            },
+            {
+                "entity": "Resettlement Programs",
+                "category": "Initiative"
+            },
+            {
+                "entity": "War",
+                "category": "Cause"
+            },
+            {
+                "entity": "Displacement",
+                "category": "Situation"
+            },
+            {
+                "entity": "Integration",
+                "category": "Process"
+            },
+            {
+                "entity": "Refugee Rights",
+                "category": "Legal"
+            },
+            {
+                "entity": "Non-Governmental Organizations",
+                "category": "Organizations"
+            },
+            {
+                "entity": "Nuclear Weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Chemical Weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Biological Weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Missiles",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Non-Proliferation",
+                "category": "Policy"
+            },
+            {
+                "entity": "Verification",
+                "category": "Process"
+            },
+            {
+                "entity": "Treaties",
+                "category": "Agreements"
+            },
+            {
+                "entity": "International Organizations",
+                "category": "Institutions"
+            },
+            {
+                "entity": "Arms Race",
+                "category": "Phenomenon"
+            },
+            {
+                "entity": "Women",
+                "category": "Gender"
+            },
+            {
+                "entity": "Men",
+                "category": "Gender"
+            },
+            {
+                "entity": "LGBTQ+",
+                "category": "Gender"
+            },
+            {
+                "entity": "Feminism",
+                "category": "Movement"
+            },
+            {
+                "entity": "Equal Pay",
+                "category": "Issue"
+            },
+            {
+                "entity": "Sexual Harassment",
+                "category": "Issue"
+            },
+            {
+                "entity": "Gender Stereotypes",
+                "category": "Issue"
+            },
+            {
+                "entity": "Transgender Rights",
+                "category": "Issue"
+            },
+            {
+                "entity": "Gender-based Violence",
+                "category": "Issue"
+            },
+            {
+                "entity": "Gender-neutral Pronouns",
+                "category": "Language"
+            },
+            {
+                "entity": "World Trade Organization",
+                "category": "International Organization"
+            },
+            {
+                "entity": "European Union",
+                "category": "Regional Organization"
+            },
+            {
+                "entity": "International Court of Justice",
+                "category": "Judicial Body"
+            },
+            {
+                "entity": "International Criminal Court",
+                "category": "Judicial Body"
+            },
+            {
+                "entity": "United Nations Security Council",
+                "category": "International Organization"
+            },
+            {
+                "entity": "International Human Rights Law",
+                "category": "Legal Framework"
+            },
+            {
+                "entity": "International Environmental Law",
+                "category": "Legal Framework"
+            },
+            {
+                "entity": "International Trade Law",
+                "category": "Legal Framework"
+            },
+            {
+                "entity": "International Humanitarian Law",
+                "category": "Legal Framework"
+            },
+            {
+                "entity": "Education",
+                "category": "Social"
+            },
+            {
+                "entity": "Employment",
+                "category": "Economic"
+            },
+            {
+                "entity": "Healthcare",
+                "category": "Social"
+            },
+            {
+                "entity": "Infrastructure",
+                "category": "Development"
+            },
+            {
+                "entity": "Microfinance",
+                "category": "Economic"
+            },
+            {
+                "entity": "Agriculture",
+                "category": "Economic"
+            },
+            {
+                "entity": "Gender Equality",
+                "category": "Social"
+            },
+            {
+                "entity": "Clean Water",
+                "category": "Social"
+            },
+            {
+                "entity": "Technology",
+                "category": "Development"
+            },
+            {
+                "entity": "Governance",
+                "category": "Political"
+            },
+            {
+                "entity": "Nuclear weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Chemical weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Biological weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Conventional weapons",
+                "category": "Weapons"
+            },
+            {
+                "entity": "Arms control",
+                "category": "Policy"
+            },
+            {
+                "entity": "Non-proliferation",
+                "category": "Policy"
+            },
+            {
+                "entity": "Arms trade",
+                "category": "Policy"
+            },
+            {
+                "entity": "Disarmament treaties",
+                "category": "Agreements"
+            },
+            {
+                "entity": "International Atomic Energy Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Health Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Maritime Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Civil Aviation Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Telecommunication Union",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Atomic Energy Agency",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Labour Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "World Trade Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "United Nations Environment Programme",
+                "category": "International organization"
+            },
+            {
+                "entity": "International Monetary Fund",
+                "category": "International organization"
+            },
+            {
+                "entity": "United Nations Educational, Scientific and Cultural Organization",
+                "category": "International organization"
+            },
+            {
+                "entity": "World Health Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "COVID-19",
+                "category": "Disease"
+            },
+            {
+                "entity": "Ebola",
+                "category": "Disease"
+            },
+            {
+                "entity": "Polio",
+                "category": "Disease"
+            },
+            {
+                "entity": "Malaria",
+                "category": "Disease"
+            },
+            {
+                "entity": "Vaccination",
+                "category": "Medical Procedure"
+            },
+            {
+                "entity": "Healthcare",
+                "category": "Industry"
+            },
+            {
+                "entity": "Pandemic",
+                "category": "Event"
+            },
+            {
+                "entity": "Public Health",
+                "category": "Field"
+            },
+            {
+                "entity": "Global Health",
+                "category": "Field"
+            },
+            {
+                "entity": "United Nations",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Maritime Law Institute",
+                "category": "Institution"
+            },
+            {
+                "entity": "International Convention for the Safety of Life at Sea",
+                "category": "Treaty"
+            },
+            {
+                "entity": "International Ship and Port Facility Security Code",
+                "category": "Regulation"
+            },
+            {
+                "entity": "International Convention on Standards of Training, Certification and Watchkeeping for Seafarers",
+                "category": "Treaty"
+            },
+            {
+                "entity": "International Maritime Satellite Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Maritime Bureau",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Maritime Solid Bulk Cargoes Code",
+                "category": "Regulation"
+            },
+            {
+                "entity": "International Maritime Dangerous Goods Code",
+                "category": "Regulation"
+            },
+            {
+                "entity": "International Maritime Prize",
+                "category": "Award"
+            },
+            {
+                "entity": "International Civil Aviation Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Air Transport Association",
+                "category": "Organization"
+            },
+            {
+                "entity": "Federal Aviation Administration",
+                "category": "Organization"
+            },
+            {
+                "entity": "European Aviation Safety Agency",
+                "category": "Organization"
+            },
+            {
+                "entity": "Airports Council International",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Federation of Air Line Pilots' Associations",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Civil Aviation Organization Council",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Civil Aviation Organization Assembly",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Telecommunication Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "ITU-T",
+                "category": "Standardization Sector"
+            },
+            {
+                "entity": "ITU-R",
+                "category": "Radiocommunication Sector"
+            },
+            {
+                "entity": "ITU-D",
+                "category": "Development Sector"
+            },
+            {
+                "entity": "ITU-R SG",
+                "category": "Study Group"
+            },
+            {
+                "entity": "ITU-T SG",
+                "category": "Study Group"
+            },
+            {
+                "entity": "ITU-D SG",
+                "category": "Study Group"
+            },
+            {
+                "entity": "ITU Plenipotentiary Conference",
+                "category": "Conference"
+            },
+            {
+                "entity": "ITU Council",
+                "category": "Council"
+            },
+            {
+                "entity": "Nuclear Non-Proliferation Treaty",
+                "category": "Treaty"
+            },
+            {
+                "entity": "Nuclear Energy",
+                "category": "Topic"
+            },
+            {
+                "entity": "Nuclear Safety",
+                "category": "Topic"
+            },
+            {
+                "entity": "Nuclear Security",
+                "category": "Topic"
+            },
+            {
+                "entity": "Nuclear Technology",
+                "category": "Topic"
+            },
+            {
+                "entity": "Nuclear Waste Management",
+                "category": "Topic"
+            },
+            {
+                "entity": "Nuclear Power Plants",
+                "category": "Facility"
+            },
+            {
+                "entity": "Nuclear Inspections",
+                "category": "Activity"
+            },
+            {
+                "entity": "Nuclear Research",
+                "category": "Activity"
+            },
+            {
+                "entity": "United Nations Development Programme",
+                "category": "Organization"
+            },
+            {
+                "entity": "International Monetary Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Trade Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Children's Fund",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Organization"
+            },
+            {
+                "entity": "United Nations Educational, Scientific and Cultural Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Intellectual Property Organization",
+                "category": "Organization"
+            },
+            {
+                "entity": "United States",
+                "category": "Country"
+            },
+            {
+                "entity": "China",
+                "category": "Country"
+            },
+            {
+                "entity": "European Union",
+                "category": "Organization"
+            },
+            {
+                "entity": "India",
+                "category": "Country"
+            },
+            {
+                "entity": "Brazil",
+                "category": "Country"
+            },
+            {
+                "entity": "Japan",
+                "category": "Country"
+            },
+            {
+                "entity": "Canada",
+                "category": "Country"
+            },
+            {
+                "entity": "Mexico",
+                "category": "Country"
+            },
+            {
+                "entity": "Australia",
+                "category": "Country"
+            },
+            {
+                "entity": "South Korea",
+                "category": "Country"
+            },
+            {
+                "entity": "Environment",
+                "category": "Concept"
+            },
+            {
+                "entity": "Programme",
+                "category": "Program"
+            },
+            {
+                "entity": "Sustainable Development Goals",
+                "category": "Initiative"
+            },
+            {
+                "entity": "Biodiversity",
+                "category": "Issue"
+            },
+            {
+                "entity": "Pollution",
+                "category": "Issue"
+            },
+            {
+                "entity": "Ecosystem",
+                "category": "Concept"
+            },
+            {
+                "entity": "Renewable Energy",
+                "category": "Initiative"
+            },
+            {
+                "entity": "Environmental Conservation",
+                "category": "Initiative"
+            },
+            {
+                "entity": "World Bank",
+                "category": "Financial Institution"
+            },
+            {
+                "entity": "European Union",
+                "category": "Political and Economic Union"
+            },
+            {
+                "entity": "World Trade Organization",
+                "category": "International Trade Organization"
+            },
+            {
+                "entity": "Asian Development Bank",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "Organization for Economic Cooperation and Development",
+                "category": "International Economic Organization"
+            },
+            {
+                "entity": "G20",
+                "category": "International Forum for Economic Cooperation"
+            },
+            {
+                "entity": "United Nations Development Programme",
+                "category": "UN Agency for Development"
+            },
+            {
+                "entity": "Bank for International Settlements",
+                "category": "International Financial Institution"
+            },
+            {
+                "entity": "African Development Bank",
+                "category": "Regional Development Bank"
+            },
+            {
+                "entity": "UNESCO",
+                "category": "Organization"
+            },
+            {
+                "entity": "World Heritage Sites",
+                "category": "Program"
+            },
+            {
+                "entity": "Intangible Cultural Heritage",
+                "category": "Program"
+            },
+            {
+                "entity": "Education for All",
+                "category": "Program"
+            },
+            {
+                "entity": "UNESCO Goodwill Ambassadors",
+                "category": "Initiative"
+            },
+            {
+                "entity": "UNESCO World Book Capital",
+                "category": "Program"
+            },
+            {
+                "entity": "UNESCO Creative Cities Network",
+                "category": "Network"
+            },
+            {
+                "entity": "UNESCO Global Geoparks",
+                "category": "Program"
+            },
+            {
+                "entity": "UNESCO Memory of the World",
+                "category": "Program"
+            },
+            {
+                "entity": "UNESCO World Heritage Committee",
+                "category": "Committee"
             }
         ],
         "relations": {
@@ -456,131 +1288,131 @@
                 {
                     "Relation": "is a form of",
                     "Object": "Hydropower",
-                    "Description": "Hydropower is a form of sustainable energy that uses the gravitational force of flowing or falling water to generate electricity."
+                    "Description": "Hydropower is a form of sustainable energy that uses the force of moving water to generate electricity."
                 },
                 {
                     "Relation": "is a form of",
                     "Object": "Geothermal energy",
-                    "Description": "Geothermal energy is a form of sustainable energy that utilizes heat from the Earth's core to generate electricity or heat buildings."
+                    "Description": "Geothermal energy is a form of sustainable energy that utilizes heat from the Earth's core to generate electricity."
                 },
                 {
                     "Relation": "is a form of",
                     "Object": "Biomass energy",
-                    "Description": "Biomass energy is a form of sustainable energy that derives from organic materials, such as wood, crops, or waste, and can be used for heating or electricity generation."
+                    "Description": "Biomass energy is a form of sustainable energy that derives power from organic materials such as plants and waste."
                 },
                 {
                     "Relation": "is a form of",
                     "Object": "Tidal power",
-                    "Description": "Tidal power is a form of sustainable energy that harnesses the energy from the rise and fall of tides to generate electricity."
+                    "Description": "Tidal power is a form of sustainable energy that harnesses the energy of tides to generate electricity."
                 },
                 {
                     "Relation": "is a form of",
                     "Object": "Nuclear power",
-                    "Description": "Nuclear power is a form of low-carbon energy that generates electricity through nuclear reactions, providing a sustainable alternative to fossil fuels."
+                    "Description": "Nuclear power is a form of low-carbon energy that generates electricity through nuclear reactions."
                 },
                 {
-                    "Relation": "involves",
+                    "Relation": "is a practice for",
                     "Object": "Energy efficiency",
-                    "Description": "Sustainable energy involves the practice of energy efficiency, which aims to reduce energy consumption and waste by using technology and design strategies."
+                    "Description": "Energy efficiency is a sustainable practice that aims to reduce energy consumption and waste."
                 },
                 {
-                    "Relation": "relies on",
+                    "Relation": "is a component of",
                     "Object": "Smart grid",
-                    "Description": "Sustainable energy relies on the implementation of a smart grid, which enables efficient distribution and management of electricity from renewable sources."
+                    "Description": "Smart grid is an advanced energy infrastructure that incorporates sustainable energy sources for efficient power distribution."
                 },
                 {
-                    "Relation": "promotes",
+                    "Relation": "is used in",
                     "Object": "Electric vehicles",
-                    "Description": "Sustainable energy promotes the use of electric vehicles, which reduce greenhouse gas emissions and dependence on fossil fuels in transportation."
+                    "Description": "Electric vehicles utilize sustainable energy sources, such as electricity, to power their engines."
                 }
             ],
             "Solar power": [
                 {
-                    "Relation": "consists of",
-                    "Object": "Solar panel",
-                    "Description": "Solar power consists of solar panels that convert sunlight into electricity."
-                },
-                {
                     "Relation": "utilizes",
-                    "Object": "Photovoltaic cell",
+                    "Object": "Photovoltaic cells",
                     "Description": "Solar power utilizes photovoltaic cells to convert sunlight into electricity."
                 },
                 {
-                    "Relation": "derives from",
-                    "Object": "Solar energy",
-                    "Description": "Solar power derives from solar energy, which is harnessed from the sun."
-                },
-                {
-                    "Relation": "is a form of",
-                    "Object": "Renewable energy",
-                    "Description": "Solar power is a form of renewable energy that is sustainable and environmentally friendly."
-                },
-                {
-                    "Relation": "is powered by",
-                    "Object": "Sun",
-                    "Description": "Solar power is powered by the sun, which provides the necessary sunlight for energy generation."
+                    "Relation": "uses",
+                    "Object": "Solar panels",
+                    "Description": "Solar power uses solar panels to capture sunlight and convert it into usable energy."
                 },
                 {
                     "Relation": "requires",
                     "Object": "Inverter",
-                    "Description": "Solar power requires an inverter to convert the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity for use."
+                    "Description": "Solar power requires an inverter to convert the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity."
                 },
                 {
-                    "Relation": "is generated by",
-                    "Object": "Solar farm",
-                    "Description": "Solar power is generated by large-scale solar farms that consist of numerous solar panels."
+                    "Relation": "stores",
+                    "Object": "Battery storage",
+                    "Description": "Solar power can store excess electricity in battery storage systems for later use when sunlight is not available."
                 },
                 {
-                    "Relation": "is harnessed from",
-                    "Object": "Solar radiation",
-                    "Description": "Solar power is harnessed from solar radiation, which is the electromagnetic radiation emitted by the sun."
+                    "Relation": "generates",
+                    "Object": "Solar thermal power",
+                    "Description": "Solar power can generate electricity using solar thermal power plants that concentrate sunlight to produce heat and drive a turbine."
                 },
                 {
-                    "Relation": "can be regulated by",
+                    "Relation": "contributes to",
+                    "Object": "Renewable energy",
+                    "Description": "Solar power is a major contributor to the production of renewable energy, reducing reliance on fossil fuels."
+                },
+                {
+                    "Relation": "integrates with",
+                    "Object": "Grid integration",
+                    "Description": "Solar power can be integrated into the electrical grid to supply electricity to homes and businesses."
+                },
+                {
+                    "Relation": "benefits from",
                     "Object": "Net metering",
-                    "Description": "Solar power can be regulated by net metering, a policy that allows solar energy system owners to receive credit for the excess electricity they generate and feed back into the grid."
+                    "Description": "Solar power systems can benefit from net metering policies, allowing excess electricity to be fed back into the grid and credited to the owner."
                 },
                 {
-                    "Relation": "can be stored in",
-                    "Object": "Solar battery",
-                    "Description": "Solar power can be stored in solar batteries, which store excess electricity generated by solar panels for later use."
+                    "Relation": "depends on",
+                    "Object": "Solar irradiance",
+                    "Description": "Solar power generation depends on the availability and intensity of solar irradiance, which is the amount of solar energy received per unit area."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Solar farm",
+                    "Description": "Solar power can be generated on a large scale through solar farms, which consist of multiple solar panels or solar thermal power plants."
                 }
             ],
             "Wind power": [
                 {
-                    "Relation": "involves",
+                    "Relation": "utilizes",
                     "Object": "Wind turbine",
-                    "Description": "Wind power involves the use of wind turbines to generate electricity."
+                    "Description": "Wind power utilizes wind turbines to generate electricity."
                 },
                 {
-                    "Relation": "found in",
+                    "Relation": "is generated by",
                     "Object": "Wind farm",
-                    "Description": "Wind power is commonly found in wind farms, which consist of multiple wind turbines."
+                    "Description": "Wind power is generated by wind farms, which consist of multiple wind turbines."
                 },
                 {
-                    "Relation": "source of",
+                    "Relation": "is a form of",
                     "Object": "Wind energy",
-                    "Description": "Wind power is a major source of renewable energy, with wind turbines converting wind energy into electricity."
+                    "Description": "Wind power is a form of renewable energy that harnesses the power of wind."
                 },
                 {
-                    "Relation": "measured by",
+                    "Relation": "depends on",
                     "Object": "Wind speed",
-                    "Description": "Wind power generation is influenced by the speed of the wind, which is measured using anemometers."
+                    "Description": "Wind power generation depends on the speed of the wind."
                 },
                 {
-                    "Relation": "affected by",
+                    "Relation": "is influenced by",
                     "Object": "Wind direction",
-                    "Description": "The direction of the wind plays a role in the efficiency and performance of wind power systems."
+                    "Description": "Wind power generation is influenced by the direction of the wind."
                 },
                 {
-                    "Relation": "evaluated through",
+                    "Relation": "requires",
                     "Object": "Wind resource assessment",
-                    "Description": "Before constructing a wind power plant, a thorough assessment of the wind resource is conducted."
+                    "Description": "Wind power projects require wind resource assessment to determine the viability of the location."
                 },
                 {
-                    "Relation": "measured in terms of",
+                    "Relation": "is measured in terms of",
                     "Object": "Wind power capacity",
-                    "Description": "The capacity of a wind power plant is measured in terms of the maximum power it can generate under ideal conditions."
+                    "Description": "Wind power is measured in terms of its capacity to generate electricity."
                 },
                 {
                     "Relation": "involves",
@@ -588,78 +1420,78 @@
                     "Description": "Wind power involves the process of converting wind energy into electrical power."
                 },
                 {
-                    "Relation": "consists of",
+                    "Relation": "is implemented through",
                     "Object": "Wind power plant",
-                    "Description": "A wind power plant consists of multiple wind turbines and associated infrastructure for power generation."
+                    "Description": "Wind power is implemented through the construction and operation of wind power plants."
                 },
                 {
-                    "Relation": "part of",
+                    "Relation": "is part of",
                     "Object": "Wind power industry",
-                    "Description": "Wind power is a significant part of the renewable energy industry, contributing to the global energy transition."
+                    "Description": "Wind power is part of the renewable energy industry, specifically the wind power industry."
                 }
             ],
             "Hydropower": [
                 {
                     "Relation": "utilizes",
                     "Object": "Water",
-                    "Description": "Hydropower harnesses the energy of flowing water to generate electricity."
+                    "Description": "Hydropower harnesses the power of flowing water to generate electricity."
                 },
                 {
                     "Relation": "requires",
                     "Object": "Dams",
-                    "Description": "Dams are built to store water and create a height difference for hydropower generation."
+                    "Description": "Hydropower plants are built with dams to control the flow of water and create a reservoir."
                 },
                 {
                     "Relation": "uses",
                     "Object": "Turbines",
-                    "Description": "Turbines are used to convert the kinetic energy of water into mechanical energy, which is then used to generate electricity."
+                    "Description": "Hydropower plants use turbines to convert the energy of flowing water into mechanical energy."
                 },
                 {
                     "Relation": "produces",
                     "Object": "Electricity",
-                    "Description": "Hydropower plants produce electricity as their primary output."
+                    "Description": "Hydropower plants generate electricity from the mechanical energy of flowing water."
                 },
                 {
-                    "Relation": "falls under",
+                    "Relation": "is a form of",
                     "Object": "Renewable Energy",
-                    "Description": "Hydropower is considered a renewable energy source as it relies on the continuous water cycle."
+                    "Description": "Hydropower is a clean and renewable source of energy."
+                },
+                {
+                    "Relation": "creates",
+                    "Object": "Reservoirs",
+                    "Description": "Hydropower plants create reservoirs by storing water behind dams."
+                },
+                {
+                    "Relation": "has",
+                    "Object": "Environmental Impact",
+                    "Description": "Hydropower projects can have both positive and negative environmental effects."
                 },
                 {
                     "Relation": "requires",
-                    "Object": "Reservoirs",
-                    "Description": "Reservoirs are used to store water for hydropower generation, ensuring a constant supply."
-                },
-                {
-                    "Relation": "impacts",
-                    "Object": "Fish",
-                    "Description": "Hydropower projects can affect fish populations due to changes in water flow and habitat disruption."
-                },
-                {
-                    "Relation": "provides",
-                    "Object": "Flood Control",
-                    "Description": "Hydropower dams can help regulate water flow and prevent flooding in downstream areas."
-                },
-                {
-                    "Relation": "causes",
-                    "Object": "Sedimentation",
-                    "Description": "The construction of dams can lead to sedimentation, affecting downstream ecosystems and water quality."
-                },
-                {
-                    "Relation": "built in",
                     "Object": "Hydroelectric Power Plants",
-                    "Description": "Hydropower is generated in hydroelectric power plants, which are specifically designed for this purpose."
+                    "Description": "Hydropower is generated in hydroelectric power plants."
+                },
+                {
+                    "Relation": "occurs in",
+                    "Object": "Waterfall",
+                    "Description": "Hydropower can be harnessed from natural waterfalls."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Sustainable Development",
+                    "Description": "Hydropower is considered a sustainable energy source that supports economic and social development."
                 }
             ],
             "Geothermal energy": [
                 {
                     "Relation": "is produced by",
                     "Object": "Geothermal power plant",
-                    "Description": "Geothermal power plants harness the heat from the Earth's core to generate electricity."
+                    "Description": "A geothermal power plant harnesses the heat from the Earth's core to generate electricity."
                 },
                 {
                     "Relation": "utilizes",
                     "Object": "Geothermal heat pump",
-                    "Description": "Geothermal heat pumps use the constant temperature of the Earth to provide heating and cooling for buildings."
+                    "Description": "A geothermal heat pump uses the constant temperature of the Earth to provide heating and cooling for buildings."
                 },
                 {
                     "Relation": "is stored in",
@@ -684,29 +1516,29 @@
                 {
                     "Relation": "is used for",
                     "Object": "Geothermal direct use",
-                    "Description": "Geothermal energy can be directly used for heating purposes in residential, commercial, and industrial applications."
+                    "Description": "Geothermal energy can be directly used for heating, such as in geothermal district heating systems."
                 },
                 {
                     "Relation": "is converted into",
                     "Object": "Geothermal electricity generation",
-                    "Description": "Geothermal energy can be converted into electricity through various technologies."
+                    "Description": "Geothermal energy can be converted into electricity through geothermal power plants."
                 },
                 {
                     "Relation": "provides",
                     "Object": "Geothermal heating",
-                    "Description": "Geothermal energy provides a renewable and sustainable source of heating for buildings."
+                    "Description": "Geothermal energy provides a renewable and sustainable source of heating for residential and commercial buildings."
                 },
                 {
                     "Relation": "provides",
                     "Object": "Geothermal cooling",
-                    "Description": "Geothermal energy can be used for cooling purposes through geothermal heat pumps."
+                    "Description": "Geothermal energy can be used for cooling purposes, such as in geothermal cooling systems."
                 }
             ],
             "Biomass energy": [
                 {
-                    "Relation": "is a type of",
+                    "Relation": "is a form of",
                     "Object": "Renewable energy",
-                    "Description": "Biomass energy is a type of renewable energy that is derived from organic matter."
+                    "Description": "Biomass energy is a form of renewable energy that is derived from organic matter."
                 },
                 {
                     "Relation": "produces",
@@ -714,91 +1546,91 @@
                     "Description": "The combustion of biomass energy produces carbon dioxide as a byproduct."
                 },
                 {
-                    "Relation": "is used as",
+                    "Relation": "can be used as",
                     "Object": "Biofuel",
-                    "Description": "Biomass energy is used as a biofuel for various applications."
-                },
-                {
-                    "Relation": "requires",
-                    "Object": "Waste management",
-                    "Description": "The production of biomass energy requires effective waste management practices."
+                    "Description": "Biomass energy can be converted into biofuel for use in transportation and heating."
                 },
                 {
                     "Relation": "contributes to",
+                    "Object": "Waste management",
+                    "Description": "Biomass energy contributes to waste management by utilizing organic waste materials as a fuel source."
+                },
+                {
+                    "Relation": "supports",
                     "Object": "Sustainable development",
-                    "Description": "The use of biomass energy contributes to sustainable development goals."
+                    "Description": "The use of biomass energy supports sustainable development by reducing reliance on fossil fuels."
                 },
                 {
-                    "Relation": "is generated by",
-                    "Object": "Biomass power plant",
-                    "Description": "Biomass energy is generated by specialized biomass power plants."
+                    "Relation": "is used for",
+                    "Object": "Power generation",
+                    "Description": "Biomass energy is used for power generation through the combustion of organic materials."
                 },
                 {
-                    "Relation": "is derived from",
-                    "Object": "Biomass feedstock",
-                    "Description": "Biomass energy is derived from various biomass feedstock sources."
+                    "Relation": "affects",
+                    "Object": "Climate change",
+                    "Description": "The use of biomass energy can affect climate change by reducing greenhouse gas emissions compared to fossil fuels."
                 },
                 {
-                    "Relation": "involves",
-                    "Object": "Biomass conversion",
-                    "Description": "The production of biomass energy involves the conversion of biomass feedstock."
+                    "Relation": "utilizes",
+                    "Object": "Renewable resources",
+                    "Description": "Biomass energy utilizes renewable resources such as agricultural waste, wood pellets, and energy crops."
                 },
                 {
-                    "Relation": "can be produced through",
-                    "Object": "Biomass gasification",
-                    "Description": "Biomass energy can be produced through the process of biomass gasification."
+                    "Relation": "is considered",
+                    "Object": "Carbon neutral",
+                    "Description": "Biomass energy is considered carbon neutral because the carbon dioxide released during combustion is offset by the carbon absorbed during the growth of biomass feedstocks."
                 }
             ],
             "Tidal power": [
                 {
                     "Relation": "is a type of",
                     "Object": "Renewable energy",
-                    "Description": "Tidal power is a type of renewable energy that harnesses the energy from tides."
+                    "Description": "Tidal power is a type of renewable energy that harnesses the energy from the tides."
                 },
                 {
                     "Relation": "utilizes",
                     "Object": "Tidal barrages",
-                    "Description": "Tidal power utilizes tidal barrages, which are structures built across estuaries or bays to capture and store tidal energy."
+                    "Description": "Tidal power utilizes tidal barrages, which are large dams built across estuaries or bays to capture the energy of the tides."
                 },
                 {
                     "Relation": "uses",
                     "Object": "Tidal turbines",
-                    "Description": "Tidal power uses tidal turbines, which are similar to wind turbines but operate underwater to generate electricity from tidal currents."
+                    "Description": "Tidal power uses tidal turbines, which are similar to wind turbines but are placed underwater to capture the kinetic energy of the tides."
                 },
                 {
                     "Relation": "employs",
                     "Object": "Tidal lagoons",
-                    "Description": "Tidal power employs tidal lagoons, which are enclosed areas of the sea that capture and store tidal energy."
+                    "Description": "Tidal power employs tidal lagoons, which are enclosed areas of the sea or estuary that use the rise and fall of the tides to generate electricity."
                 },
                 {
                     "Relation": "harnesses",
                     "Object": "Tidal stream generators",
-                    "Description": "Tidal power harnesses tidal stream generators, which are underwater turbines that generate electricity from the flow of tidal currents."
+                    "Description": "Tidal power harnesses tidal stream generators, which are underwater turbines that capture the energy from the continuous flow of tidal currents."
                 },
                 {
                     "Relation": "depends on",
                     "Object": "Tidal range",
-                    "Description": "Tidal power depends on the tidal range, which is the vertical difference between high tide and low tide."
+                    "Description": "Tidal power depends on the tidal range, which is the difference in height between high tide and low tide."
                 },
                 {
                     "Relation": "affects",
                     "Object": "Marine life",
-                    "Description": "Tidal power can have an impact on marine life due to the construction and operation of tidal power plants."
+                    "Description": "Tidal power can have an impact on marine life, as the installation and operation of tidal power devices may disrupt habitats and affect the behavior of marine organisms."
                 },
                 {
                     "Relation": "involves",
                     "Object": "Tidal energy conversion",
-                    "Description": "Tidal power involves the conversion of tidal energy into usable electricity through various technologies."
+                    "Description": "Tidal power involves the conversion of tidal energy into electricity through various technologies and processes."
                 },
                 {
                     "Relation": "requires",
                     "Object": "Tidal power plants",
-                    "Description": "Tidal power requires the construction of specialized power plants to harness and convert tidal energy."
+                    "Description": "Tidal power requires the construction of tidal power plants, which are facilities that house the equipment and infrastructure needed to generate electricity from tidal energy."
                 },
                 {
                     "Relation": "measures",
                     "Object": "Tidal energy potential",
-                    "Description": "Tidal power measures the potential energy that can be extracted from tides in a given area."
+                    "Description": "Tidal power measures the tidal energy potential of a specific location to determine its suitability for tidal power generation."
                 }
             ],
             "Nuclear power": [
@@ -830,7 +1662,7 @@
                 {
                     "Relation": "emits",
                     "Object": "Nuclear radiation",
-                    "Description": "Nuclear power plants emit nuclear radiation during operation."
+                    "Description": "Nuclear power plants emit nuclear radiation as a byproduct."
                 },
                 {
                     "Relation": "impacts",
@@ -845,7 +1677,7 @@
                 {
                     "Relation": "requires",
                     "Object": "Nuclear safety",
-                    "Description": "Nuclear power plants require strict safety regulations to ensure safe operation."
+                    "Description": "Nuclear power plants require strict safety regulations to prevent accidents."
                 }
             ],
             "Energy efficiency": [
@@ -924,17 +1756,17 @@
                 {
                     "Relation": "utilizes",
                     "Object": "Smart meters",
-                    "Description": "Smart grid utilizes smart meters for real-time monitoring and control of energy usage."
+                    "Description": "Smart grid utilizes smart meters for real-time monitoring and control of electricity usage."
                 },
                 {
                     "Relation": "integrates",
                     "Object": "Distributed generation",
-                    "Description": "Smart grid integrates distributed generation sources, such as solar panels and wind turbines."
+                    "Description": "Smart grid integrates distributed generation systems, such as solar panels and wind turbines."
                 },
                 {
                     "Relation": "enables",
                     "Object": "Microgrids",
-                    "Description": "Smart grid enables the creation and management of microgrids for localized energy distribution."
+                    "Description": "Smart grid enables the creation and management of microgrids for localized power generation and distribution."
                 },
                 {
                     "Relation": "utilizes",
@@ -1002,6 +1834,1125 @@
                     "Relation": "reduces",
                     "Object": "Carbon emissions",
                     "Description": "The use of electric vehicles helps reduce carbon emissions and mitigate climate change."
+                }
+            ],
+            "UN Policies": [
+                {
+                    "Relation": "Promotes",
+                    "Object": "Human Rights",
+                    "Description": "The UN promotes and protects human rights through various policies and mechanisms."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "Peacekeeping",
+                    "Description": "The UN supports peacekeeping operations to maintain international peace and security."
+                },
+                {
+                    "Relation": "Guides",
+                    "Object": "Sustainable Development Goals",
+                    "Description": "The UN provides guidance and sets targets for sustainable development through the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Climate Change",
+                    "Description": "The UN addresses the issue of climate change through international agreements and policies."
+                },
+                {
+                    "Relation": "Assists",
+                    "Object": "Refugees",
+                    "Description": "The UN provides assistance and protection to refugees through various policies and programs."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Arms Control",
+                    "Description": "The UN promotes arms control and disarmament to prevent the proliferation of weapons."
+                },
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Gender Equality",
+                    "Description": "The UN advocates for gender equality and women's empowerment through policies and initiatives."
+                },
+                {
+                    "Relation": "Upholds",
+                    "Object": "International Law",
+                    "Description": "The UN upholds and promotes international law to maintain peace and resolve conflicts."
+                },
+                {
+                    "Relation": "Works towards",
+                    "Object": "Poverty Eradication",
+                    "Description": "The UN works towards eradicating poverty through policies and programs aimed at sustainable development."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Disarmament",
+                    "Description": "The UN promotes disarmament and non-proliferation of weapons to enhance global security."
+                }
+            ],
+            "Human Rights": [
+                {
+                    "Relation": "Protects",
+                    "Object": "Freedom of Speech",
+                    "Description": "Human rights protect the freedom of speech, allowing individuals to express their opinions without censorship or punishment."
+                },
+                {
+                    "Relation": "Guarantees",
+                    "Object": "Right to Education",
+                    "Description": "Human rights guarantee the right to education, ensuring that everyone has access to quality education without discrimination."
+                },
+                {
+                    "Relation": "Ensures",
+                    "Object": "Right to Privacy",
+                    "Description": "Human rights ensure the right to privacy, protecting individuals from unwarranted intrusion into their personal lives."
+                },
+                {
+                    "Relation": "Preserves",
+                    "Object": "Right to Life",
+                    "Description": "Human rights preserve the right to life, prohibiting arbitrary deprivation of life and protecting individuals from violence or harm."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Right to Equality",
+                    "Description": "Human rights promote the right to equality, ensuring that all individuals are treated equally before the law and have equal opportunities."
+                },
+                {
+                    "Relation": "Guarantees",
+                    "Object": "Right to Fair Trial",
+                    "Description": "Human rights guarantee the right to a fair trial, ensuring that individuals are treated justly and have access to legal representation."
+                },
+                {
+                    "Relation": "Protects",
+                    "Object": "Right to Health",
+                    "Description": "Human rights protect the right to health, ensuring access to healthcare services and promoting well-being for all individuals."
+                },
+                {
+                    "Relation": "Respects",
+                    "Object": "Right to Freedom of Religion",
+                    "Description": "Human rights respect the right to freedom of religion, allowing individuals to practice their chosen religion or belief without interference."
+                },
+                {
+                    "Relation": "Ensures",
+                    "Object": "Right to Vote",
+                    "Description": "Human rights ensure the right to vote, allowing individuals to participate in democratic processes and have a say in governance."
+                },
+                {
+                    "Relation": "Guarantees",
+                    "Object": "Right to Housing",
+                    "Description": "Human rights guarantee the right to housing, ensuring that everyone has access to adequate and affordable housing without discrimination."
+                }
+            ],
+            "Peacekeeping": [
+                {
+                    "Relation": "is conducted by",
+                    "Object": "United Nations",
+                    "Description": "The United Nations conducts peacekeeping operations worldwide."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Blue Helmets",
+                    "Description": "Blue Helmets are the peacekeeping forces deployed in conflict zones."
+                },
+                {
+                    "Relation": "aims at",
+                    "Object": "Conflict Resolution",
+                    "Description": "Peacekeeping aims at resolving conflicts and promoting stability."
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "Humanitarian Aid",
+                    "Description": "Peacekeeping missions often provide humanitarian aid to affected populations."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Ceasefire",
+                    "Description": "Peacekeeping missions support the implementation and monitoring of ceasefires."
+                },
+                {
+                    "Relation": "authorized by",
+                    "Object": "Security Council",
+                    "Description": "Peacekeeping missions are authorized by the UN Security Council."
+                },
+                {
+                    "Relation": "facilitates",
+                    "Object": "Peace Agreement",
+                    "Description": "Peacekeeping facilitates the negotiation and implementation of peace agreements."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Disarmament",
+                    "Description": "Peacekeeping promotes the disarmament of armed groups in conflict zones."
+                },
+                {
+                    "Relation": "ensures",
+                    "Object": "Civilian Protection",
+                    "Description": "Peacekeeping missions ensure the protection of civilians in conflict areas."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Conflict Prevention",
+                    "Description": "Peacekeeping contributes to the prevention of conflicts and the maintenance of peace."
+                }
+            ],
+            "Sustainable Development Goals": [
+                {
+                    "Relation": "Contributes to",
+                    "Object": "Renewable Energy",
+                    "Description": "Promoting the use of renewable energy sources to combat climate change and achieve sustainable development."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Clean Water and Sanitation",
+                    "Description": "Ensuring access to clean water and sanitation for all, which is essential for sustainable development."
+                },
+                {
+                    "Relation": "Aims to achieve",
+                    "Object": "Zero Hunger",
+                    "Description": "Working towards ending hunger, achieving food security, improving nutrition, and promoting sustainable agriculture."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Quality Education",
+                    "Description": "Ensuring inclusive and equitable quality education for all, promoting lifelong learning opportunities, and fostering sustainable development."
+                },
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Gender Equality",
+                    "Description": "Promoting gender equality and empowering women and girls, which is crucial for sustainable development."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "Decent Work and Economic Growth",
+                    "Description": "Promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all."
+                },
+                {
+                    "Relation": "Invests in",
+                    "Object": "Industry, Innovation, and Infrastructure",
+                    "Description": "Building resilient infrastructure, promoting inclusive and sustainable industrialization, and fostering innovation for sustainable development."
+                },
+                {
+                    "Relation": "Works towards",
+                    "Object": "Reduced Inequalities",
+                    "Description": "Reducing inequalities within and among countries, promoting social, economic, and political inclusion for all."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Sustainable Cities and Communities",
+                    "Description": "Making cities and human settlements inclusive, safe, resilient, and sustainable."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Climate Action",
+                    "Description": "Taking urgent action to combat climate change and its impacts, as it is one of the greatest challenges to sustainable development."
+                }
+            ],
+            "Climate Change": [
+                {
+                    "Relation": "Causes",
+                    "Object": "Greenhouse gases",
+                    "Description": "Greenhouse gases contribute to climate change by trapping heat in the atmosphere."
+                },
+                {
+                    "Relation": "Causes",
+                    "Object": "Deforestation",
+                    "Description": "Deforestation leads to increased carbon dioxide levels, contributing to climate change."
+                },
+                {
+                    "Relation": "Solutions",
+                    "Object": "Renewable energy",
+                    "Description": "Using renewable energy sources helps reduce greenhouse gas emissions and mitigate climate change."
+                },
+                {
+                    "Relation": "Effects",
+                    "Object": "Global temperature rise",
+                    "Description": "Climate change causes an increase in global temperatures, leading to various impacts."
+                },
+                {
+                    "Relation": "Consequences",
+                    "Object": "Ocean acidification",
+                    "Description": "Climate change results in increased carbon dioxide absorption by oceans, leading to acidification."
+                },
+                {
+                    "Relation": "Effects",
+                    "Object": "Extreme weather events",
+                    "Description": "Climate change intensifies extreme weather events such as hurricanes, droughts, and heatwaves."
+                },
+                {
+                    "Relation": "Consequences",
+                    "Object": "Melting ice caps",
+                    "Description": "Climate change causes the melting of ice caps and glaciers, contributing to sea-level rise."
+                },
+                {
+                    "Relation": "Measurement",
+                    "Object": "Carbon footprint",
+                    "Description": "Calculating carbon footprint helps individuals and organizations understand their contribution to climate change."
+                },
+                {
+                    "Relation": "Actions",
+                    "Object": "Mitigation",
+                    "Description": "Mitigation involves reducing greenhouse gas emissions to lessen the impacts of climate change."
+                },
+                {
+                    "Relation": "Actions",
+                    "Object": "Adaptation",
+                    "Description": "Adaptation involves adjusting to the changing climate conditions and minimizing the negative effects."
+                }
+            ],
+            "Refugees": [
+                {
+                    "Relation": "are housed in",
+                    "Object": "Refugee Camps",
+                    "Description": "Refugees often live in temporary shelters in refugee camps."
+                },
+                {
+                    "Relation": "seek protection as",
+                    "Object": "Asylum Seekers",
+                    "Description": "Refugees may initially seek asylum in another country."
+                },
+                {
+                    "Relation": "receive",
+                    "Object": "Humanitarian Aid",
+                    "Description": "Refugees rely on humanitarian aid for basic necessities."
+                },
+                {
+                    "Relation": "are affected by",
+                    "Object": "Immigration Policies",
+                    "Description": "Refugees' ability to seek asylum is influenced by immigration policies."
+                },
+                {
+                    "Relation": "are supported by",
+                    "Object": "Resettlement Programs",
+                    "Description": "Refugees may be resettled in a third country through resettlement programs."
+                },
+                {
+                    "Relation": "are often forced to flee due to",
+                    "Object": "War",
+                    "Description": "Refugees flee their home countries due to armed conflicts and wars."
+                },
+                {
+                    "Relation": "experience",
+                    "Object": "Displacement",
+                    "Description": "Refugees face forced displacement from their homes."
+                },
+                {
+                    "Relation": "go through the process of",
+                    "Object": "Integration",
+                    "Description": "Refugees integrate into their host communities."
+                },
+                {
+                    "Relation": "are entitled to",
+                    "Object": "Refugee Rights",
+                    "Description": "Refugees have legal rights and protections under international law."
+                },
+                {
+                    "Relation": "are supported by",
+                    "Object": "Non-Governmental Organizations",
+                    "Description": "Refugees receive assistance from various non-governmental organizations."
+                }
+            ],
+            "Arms Control": [
+                {
+                    "Relation": "Addresses",
+                    "Object": "Nuclear Weapons",
+                    "Description": "Arms Control aims to regulate the development, possession, and use of nuclear weapons."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Chemical Weapons",
+                    "Description": "Arms Control aims to regulate the development, possession, and use of chemical weapons."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Biological Weapons",
+                    "Description": "Arms Control aims to regulate the development, possession, and use of biological weapons."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Missiles",
+                    "Description": "Arms Control aims to regulate the development, possession, and use of missiles."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Disarmament",
+                    "Description": "Arms Control promotes the reduction or elimination of weapons."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Non-Proliferation",
+                    "Description": "Arms Control promotes the prevention of the spread of weapons."
+                },
+                {
+                    "Relation": "Involves",
+                    "Object": "Verification",
+                    "Description": "Arms Control involves the process of verifying compliance with arms control agreements."
+                },
+                {
+                    "Relation": "Establishes",
+                    "Object": "Treaties",
+                    "Description": "Arms Control establishes international agreements and treaties to regulate weapons."
+                },
+                {
+                    "Relation": "Collaborates with",
+                    "Object": "International Organizations",
+                    "Description": "Arms Control collaborates with international organizations to implement and enforce arms control measures."
+                },
+                {
+                    "Relation": "Aims to prevent",
+                    "Object": "Arms Race",
+                    "Description": "Arms Control aims to prevent an arms race by regulating the development and proliferation of weapons."
+                }
+            ],
+            "Gender Equality": [
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Women",
+                    "Description": "Gender equality aims to ensure equal rights and opportunities for women."
+                },
+                {
+                    "Relation": "Challenges",
+                    "Object": "Gender Stereotypes",
+                    "Description": "Gender equality challenges societal expectations and norms that limit individuals based on their gender."
+                },
+                {
+                    "Relation": "Addresses",
+                    "Object": "Equal Pay",
+                    "Description": "Gender equality advocates for equal pay for equal work, regardless of gender."
+                },
+                {
+                    "Relation": "Fights against",
+                    "Object": "Sexual Harassment",
+                    "Description": "Gender equality works to eliminate sexual harassment and create safe environments for all genders."
+                },
+                {
+                    "Relation": "Supports",
+                    "Object": "LGBTQ+",
+                    "Description": "Gender equality supports the rights and inclusion of LGBTQ+ individuals."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Feminism",
+                    "Description": "Gender equality promotes the feminist movement and its goals of gender equality."
+                },
+                {
+                    "Relation": "Advocates for",
+                    "Object": "Transgender Rights",
+                    "Description": "Gender equality advocates for the rights and recognition of transgender individuals."
+                },
+                {
+                    "Relation": "Works towards",
+                    "Object": "Gender-based Violence",
+                    "Description": "Gender equality aims to eliminate gender-based violence and create a society free from violence and discrimination."
+                },
+                {
+                    "Relation": "Influences",
+                    "Object": "Gender-neutral Pronouns",
+                    "Description": "Gender equality influences the adoption and acceptance of gender-neutral pronouns to promote inclusivity."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Men",
+                    "Description": "Gender equality promotes positive masculinity and challenges harmful stereotypes that affect men."
+                }
+            ],
+            "International Law": [
+                {
+                    "Relation": "governs",
+                    "Object": "United Nations",
+                    "Description": "The United Nations plays a significant role in the development and enforcement of international law."
+                },
+                {
+                    "Relation": "regulates",
+                    "Object": "World Trade Organization",
+                    "Description": "The World Trade Organization establishes rules and resolves disputes related to international trade law."
+                },
+                {
+                    "Relation": "influences",
+                    "Object": "European Union",
+                    "Description": "The European Union incorporates international law into its legal framework and contributes to its development."
+                },
+                {
+                    "Relation": "adjudicates",
+                    "Object": "International Court of Justice",
+                    "Description": "The International Court of Justice is the principal judicial organ of the United Nations and settles legal disputes between states."
+                },
+                {
+                    "Relation": "prosecutes",
+                    "Object": "International Criminal Court",
+                    "Description": "The International Criminal Court investigates and prosecutes individuals for serious international crimes."
+                },
+                {
+                    "Relation": "authorizes",
+                    "Object": "United Nations Security Council",
+                    "Description": "The United Nations Security Council has the authority to impose sanctions and authorize the use of force in accordance with international law."
+                },
+                {
+                    "Relation": "complies with",
+                    "Object": "International Human Rights Law",
+                    "Description": "States are expected to comply with international human rights law, which protects the rights and freedoms of individuals."
+                },
+                {
+                    "Relation": "addresses",
+                    "Object": "International Environmental Law",
+                    "Description": "International environmental law addresses global environmental issues and promotes sustainable development."
+                },
+                {
+                    "Relation": "governs",
+                    "Object": "International Trade Law",
+                    "Description": "International trade law governs the conduct of states and businesses in international trade relations."
+                },
+                {
+                    "Relation": "regulates",
+                    "Object": "International Humanitarian Law",
+                    "Description": "International humanitarian law regulates the conduct of armed conflicts and protects victims of war."
+                }
+            ],
+            "Poverty Eradication": [
+                {
+                    "Relation": "requires",
+                    "Object": "Education",
+                    "Description": "Access to quality education is essential for poverty eradication."
+                },
+                {
+                    "Relation": "creates",
+                    "Object": "Employment",
+                    "Description": "Creating employment opportunities helps in poverty eradication."
+                },
+                {
+                    "Relation": "improves",
+                    "Object": "Healthcare",
+                    "Description": "Access to healthcare services improves the well-being of individuals and contributes to poverty eradication."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Infrastructure",
+                    "Description": "Developing infrastructure is crucial for poverty eradication as it enables economic growth and improves living conditions."
+                },
+                {
+                    "Relation": "facilitates",
+                    "Object": "Microfinance",
+                    "Description": "Microfinance initiatives provide financial services to the poor, helping them start businesses and escape poverty."
+                },
+                {
+                    "Relation": "enhances",
+                    "Object": "Agriculture",
+                    "Description": "Investing in agriculture and improving farming techniques can increase productivity and reduce poverty."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Gender Equality",
+                    "Description": "Promoting gender equality empowers women and reduces poverty by providing equal opportunities."
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "Clean Water",
+                    "Description": "Access to clean water is essential for poverty eradication as it improves health and sanitation."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Technology",
+                    "Description": "Utilizing technology can enhance productivity, create new opportunities, and contribute to poverty eradication."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Governance",
+                    "Description": "Good governance and effective institutions are necessary for poverty eradication and sustainable development."
+                }
+            ],
+            "Disarmament": [
+                {
+                    "Relation": "involves",
+                    "Object": "Nuclear weapons",
+                    "Description": "Disarmament involves the reduction or elimination of nuclear weapons."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Chemical weapons",
+                    "Description": "Disarmament involves the reduction or elimination of chemical weapons."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Biological weapons",
+                    "Description": "Disarmament involves the reduction or elimination of biological weapons."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Conventional weapons",
+                    "Description": "Disarmament involves the reduction or limitation of conventional weapons."
+                },
+                {
+                    "Relation": "involves",
+                    "Object": "Missiles",
+                    "Description": "Disarmament involves the reduction or elimination of missiles."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Arms control",
+                    "Description": "Disarmament promotes the implementation of arms control measures."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Non-proliferation",
+                    "Description": "Disarmament promotes non-proliferation efforts to prevent the spread of weapons."
+                },
+                {
+                    "Relation": "addresses",
+                    "Object": "Arms trade",
+                    "Description": "Disarmament addresses the regulation and control of arms trade."
+                },
+                {
+                    "Relation": "establishes",
+                    "Object": "Disarmament treaties",
+                    "Description": "Disarmament establishes international treaties for the reduction of weapons."
+                },
+                {
+                    "Relation": "works with",
+                    "Object": "International Atomic Energy Agency",
+                    "Description": "Disarmament works with the International Atomic Energy Agency to ensure the peaceful use of nuclear energy."
+                }
+            ],
+            "UN Regulations": [
+                {
+                    "Relation": "develops",
+                    "Object": "World Health Organization",
+                    "Description": "Develops regulations related to health and safety standards"
+                },
+                {
+                    "Relation": "establishes",
+                    "Object": "International Maritime Organization",
+                    "Description": "Establishes regulations for maritime safety and pollution prevention"
+                },
+                {
+                    "Relation": "sets",
+                    "Object": "International Civil Aviation Organization",
+                    "Description": "Sets regulations for international air navigation and aviation safety"
+                },
+                {
+                    "Relation": "coordinates",
+                    "Object": "International Telecommunication Union",
+                    "Description": "Coordinates regulations for global telecommunications networks and services"
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "International Atomic Energy Agency",
+                    "Description": "Promotes regulations for peaceful use of nuclear energy and nuclear safety"
+                },
+                {
+                    "Relation": "establishes",
+                    "Object": "International Labour Organization",
+                    "Description": "Establishes regulations for labor standards and social protection"
+                },
+                {
+                    "Relation": "administers",
+                    "Object": "World Trade Organization",
+                    "Description": "Administers regulations for international trade and resolving trade disputes"
+                },
+                {
+                    "Relation": "develops",
+                    "Object": "United Nations Environment Programme",
+                    "Description": "Develops regulations for environmental protection and sustainable development"
+                },
+                {
+                    "Relation": "provides",
+                    "Object": "International Monetary Fund",
+                    "Description": "Provides regulations for international monetary cooperation and financial stability"
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "United Nations Educational, Scientific and Cultural Organization",
+                    "Description": "Promotes regulations for education, science, culture, and communication"
+                }
+            ],
+            "World Health Organization": [
+                {
+                    "Relation": "is responsible for",
+                    "Object": "COVID-19",
+                    "Description": "The World Health Organization is responsible for monitoring and responding to the COVID-19 pandemic."
+                },
+                {
+                    "Relation": "has expertise in",
+                    "Object": "Ebola",
+                    "Description": "The World Health Organization has expertise in managing and controlling the Ebola virus disease."
+                },
+                {
+                    "Relation": "works towards eradication of",
+                    "Object": "Polio",
+                    "Description": "The World Health Organization works towards the global eradication of polio through vaccination campaigns."
+                },
+                {
+                    "Relation": "provides guidance on prevention and treatment of",
+                    "Object": "Malaria",
+                    "Description": "The World Health Organization provides guidance on the prevention and treatment of malaria, a mosquito-borne disease."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Vaccination",
+                    "Description": "The World Health Organization promotes vaccination as a crucial medical procedure for preventing infectious diseases."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "Healthcare",
+                    "Description": "The World Health Organization collaborates with the healthcare industry to improve global health outcomes."
+                },
+                {
+                    "Relation": "responds to",
+                    "Object": "Pandemic",
+                    "Description": "The World Health Organization responds to pandemics by coordinating international efforts and providing guidance to member states."
+                },
+                {
+                    "Relation": "advances the field of",
+                    "Object": "Public Health",
+                    "Description": "The World Health Organization advances the field of public health through research, policy development, and capacity building."
+                },
+                {
+                    "Relation": "addresses challenges in",
+                    "Object": "Global Health",
+                    "Description": "The World Health Organization addresses challenges in global health, including inequalities, access to healthcare, and emerging diseases."
+                }
+            ],
+            "International Maritime Organization": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "The International Maritime Organization is a specialized agency of the United Nations."
+                },
+                {
+                    "Relation": "established",
+                    "Object": "International Maritime Law Institute",
+                    "Description": "The International Maritime Organization established the International Maritime Law Institute to promote the understanding and knowledge of international maritime law."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "International Convention for the Safety of Life at Sea",
+                    "Description": "The International Maritime Organization developed the International Convention for the Safety of Life at Sea to establish minimum safety standards for the construction, equipment, and operation of ships."
+                },
+                {
+                    "Relation": "implemented",
+                    "Object": "International Ship and Port Facility Security Code",
+                    "Description": "The International Maritime Organization implemented the International Ship and Port Facility Security Code to enhance the security of ships and port facilities."
+                },
+                {
+                    "Relation": "adopted",
+                    "Object": "International Convention on Standards of Training, Certification and Watchkeeping for Seafarers",
+                    "Description": "The International Maritime Organization adopted the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers to establish minimum training, certification, and watchkeeping standards for seafarers."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "International Maritime Satellite Organization",
+                    "Description": "The International Maritime Organization collaborates with the International Maritime Satellite Organization to provide reliable and efficient communication services to the maritime community."
+                },
+                {
+                    "Relation": "works closely with",
+                    "Object": "International Maritime Bureau",
+                    "Description": "The International Maritime Organization works closely with the International Maritime Bureau to combat maritime piracy and armed robbery against ships."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "International Maritime Solid Bulk Cargoes Code",
+                    "Description": "The International Maritime Organization developed the International Maritime Solid Bulk Cargoes Code to provide guidelines for the safe transportation of solid bulk cargoes by sea."
+                },
+                {
+                    "Relation": "developed",
+                    "Object": "International Maritime Dangerous Goods Code",
+                    "Description": "The International Maritime Organization developed the International Maritime Dangerous Goods Code to provide guidelines for the safe transportation of dangerous goods by sea."
+                },
+                {
+                    "Relation": "awards",
+                    "Object": "International Maritime Prize",
+                    "Description": "The International Maritime Organization awards the International Maritime Prize annually to individuals or organizations that have made significant contributions to the maritime industry."
+                }
+            ],
+            "International Civil Aviation Organization": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "The International Civil Aviation Organization is a specialized agency of the United Nations."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "International Air Transport Association",
+                    "Description": "The International Civil Aviation Organization collaborates with the International Air Transport Association to promote safe and efficient air transportation."
+                },
+                {
+                    "Relation": "works closely with",
+                    "Object": "Federal Aviation Administration",
+                    "Description": "The International Civil Aviation Organization works closely with the Federal Aviation Administration to ensure aviation safety and security."
+                },
+                {
+                    "Relation": "coordinates with",
+                    "Object": "European Aviation Safety Agency",
+                    "Description": "The International Civil Aviation Organization coordinates with the European Aviation Safety Agency to harmonize aviation regulations and standards."
+                },
+                {
+                    "Relation": "partners with",
+                    "Object": "Airports Council International",
+                    "Description": "The International Civil Aviation Organization partners with the Airports Council International to enhance airport operations and infrastructure."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "International Federation of Air Line Pilots' Associations",
+                    "Description": "The International Civil Aviation Organization collaborates with the International Federation of Air Line Pilots' Associations to address pilot-related safety issues."
+                },
+                {
+                    "Relation": "organizes",
+                    "Object": "International Civil Aviation Organization Council",
+                    "Description": "The International Civil Aviation Organization organizes the International Civil Aviation Organization Council, which is its governing body."
+                },
+                {
+                    "Relation": "convenes",
+                    "Object": "International Civil Aviation Organization Assembly",
+                    "Description": "The International Civil Aviation Organization convenes the International Civil Aviation Organization Assembly, which is its highest decision-making body."
+                }
+            ],
+            "International Telecommunication Union": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "The International Telecommunication Union is a specialized agency of the United Nations."
+                },
+                {
+                    "Relation": "has sectors",
+                    "Object": "ITU-T",
+                    "Description": "The International Telecommunication Union has a Standardization Sector (ITU-T)."
+                },
+                {
+                    "Relation": "has sectors",
+                    "Object": "ITU-R",
+                    "Description": "The International Telecommunication Union has a Radiocommunication Sector (ITU-R)."
+                },
+                {
+                    "Relation": "has sectors",
+                    "Object": "ITU-D",
+                    "Description": "The International Telecommunication Union has a Development Sector (ITU-D)."
+                },
+                {
+                    "Relation": "has study groups",
+                    "Object": "ITU-R SG",
+                    "Description": "The International Telecommunication Union has a Study Group (ITU-R SG) within the Radiocommunication Sector."
+                },
+                {
+                    "Relation": "has study groups",
+                    "Object": "ITU-T SG",
+                    "Description": "The International Telecommunication Union has a Study Group (ITU-T SG) within the Standardization Sector."
+                },
+                {
+                    "Relation": "has study groups",
+                    "Object": "ITU-D SG",
+                    "Description": "The International Telecommunication Union has a Study Group (ITU-D SG) within the Development Sector."
+                },
+                {
+                    "Relation": "organizes",
+                    "Object": "ITU Plenipotentiary Conference",
+                    "Description": "The International Telecommunication Union organizes the ITU Plenipotentiary Conference."
+                },
+                {
+                    "Relation": "has a council",
+                    "Object": "ITU Council",
+                    "Description": "The International Telecommunication Union has a Council."
+                }
+            ],
+            "International Atomic Energy Agency": [
+                {
+                    "Relation": "is a member of",
+                    "Object": "United Nations",
+                    "Description": "The International Atomic Energy Agency is a specialized agency of the United Nations."
+                },
+                {
+                    "Relation": "oversees",
+                    "Object": "Nuclear Non-Proliferation Treaty",
+                    "Description": "The International Atomic Energy Agency oversees the implementation of the Nuclear Non-Proliferation Treaty."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Nuclear Energy",
+                    "Description": "The International Atomic Energy Agency promotes the peaceful use of nuclear energy."
+                },
+                {
+                    "Relation": "ensures",
+                    "Object": "Nuclear Safety",
+                    "Description": "The International Atomic Energy Agency ensures the safety of nuclear installations and activities."
+                },
+                {
+                    "Relation": "enhances",
+                    "Object": "Nuclear Security",
+                    "Description": "The International Atomic Energy Agency enhances nuclear security worldwide."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Nuclear Technology",
+                    "Description": "The International Atomic Energy Agency supports the development and application of nuclear technology."
+                },
+                {
+                    "Relation": "provides guidance on",
+                    "Object": "Nuclear Waste Management",
+                    "Description": "The International Atomic Energy Agency provides guidance on the safe management of nuclear waste."
+                },
+                {
+                    "Relation": "provides assistance to",
+                    "Object": "Nuclear Power Plants",
+                    "Description": "The International Atomic Energy Agency provides assistance to member states in the safe operation of nuclear power plants."
+                },
+                {
+                    "Relation": "conducts",
+                    "Object": "Nuclear Inspections",
+                    "Description": "The International Atomic Energy Agency conducts inspections to verify compliance with safeguards agreements."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Nuclear Research",
+                    "Description": "The International Atomic Energy Agency supports research and development in the field of nuclear science and technology."
+                }
+            ],
+            "International Labour Organization": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "The International Labour Organization is a specialized agency of the United Nations."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "World Health Organization",
+                    "Description": "The International Labour Organization collaborates with the World Health Organization on various health-related issues in the workplace."
+                },
+                {
+                    "Relation": "works closely with",
+                    "Object": "United Nations Development Programme",
+                    "Description": "The International Labour Organization works closely with the United Nations Development Programme to promote sustainable development and decent work for all."
+                },
+                {
+                    "Relation": "coordinates with",
+                    "Object": "International Monetary Fund",
+                    "Description": "The International Labour Organization coordinates with the International Monetary Fund to address labor market challenges and promote economic stability."
+                },
+                {
+                    "Relation": "engages in dialogue with",
+                    "Object": "World Trade Organization",
+                    "Description": "The International Labour Organization engages in dialogue with the World Trade Organization to ensure that trade policies are compatible with labor standards."
+                },
+                {
+                    "Relation": "partners with",
+                    "Object": "United Nations Children's Fund",
+                    "Description": "The International Labour Organization partners with the United Nations Children's Fund to combat child labor and protect the rights of children."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "World Bank",
+                    "Description": "The International Labour Organization collaborates with the World Bank on projects related to labor market development and social protection."
+                },
+                {
+                    "Relation": "works closely with",
+                    "Object": "International Atomic Energy Agency",
+                    "Description": "The International Labour Organization works closely with the International Atomic Energy Agency to ensure the safety and health of workers in the nuclear industry."
+                },
+                {
+                    "Relation": "collaborates with",
+                    "Object": "United Nations Educational, Scientific and Cultural Organization",
+                    "Description": "The International Labour Organization collaborates with the United Nations Educational, Scientific and Cultural Organization on initiatives related to education and skills development."
+                },
+                {
+                    "Relation": "works in partnership with",
+                    "Object": "World Intellectual Property Organization",
+                    "Description": "The International Labour Organization works in partnership with the World Intellectual Property Organization to promote intellectual property rights and innovation in the workplace."
+                }
+            ],
+            "World Trade Organization": [
+                {
+                    "Relation": "Member",
+                    "Object": "United States",
+                    "Description": "The United States is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "China",
+                    "Description": "China is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "European Union",
+                    "Description": "The European Union is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "India",
+                    "Description": "India is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Brazil",
+                    "Description": "Brazil is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Japan",
+                    "Description": "Japan is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Canada",
+                    "Description": "Canada is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Mexico",
+                    "Description": "Mexico is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "Australia",
+                    "Description": "Australia is a member of the World Trade Organization."
+                },
+                {
+                    "Relation": "Member",
+                    "Object": "South Korea",
+                    "Description": "South Korea is a member of the World Trade Organization."
+                }
+            ],
+            "United Nations Environment Programme": [
+                {
+                    "Relation": "is a part of",
+                    "Object": "United Nations",
+                    "Description": "The United Nations Environment Programme is a part of the United Nations."
+                },
+                {
+                    "Relation": "focuses on",
+                    "Object": "Environment",
+                    "Description": "The United Nations Environment Programme focuses on environmental issues."
+                },
+                {
+                    "Relation": "implements",
+                    "Object": "Sustainable Development Goals",
+                    "Description": "The United Nations Environment Programme implements the Sustainable Development Goals."
+                },
+                {
+                    "Relation": "addresses",
+                    "Object": "Climate Change",
+                    "Description": "The United Nations Environment Programme addresses the issue of climate change."
+                },
+                {
+                    "Relation": "works towards",
+                    "Object": "Biodiversity",
+                    "Description": "The United Nations Environment Programme works towards the conservation of biodiversity."
+                },
+                {
+                    "Relation": "tackles",
+                    "Object": "Pollution",
+                    "Description": "The United Nations Environment Programme tackles the issue of pollution."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Ecosystem",
+                    "Description": "The United Nations Environment Programme promotes the conservation and sustainable use of ecosystems."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Renewable Energy",
+                    "Description": "The United Nations Environment Programme supports the development and use of renewable energy sources."
+                },
+                {
+                    "Relation": "advocates for",
+                    "Object": "Environmental Conservation",
+                    "Description": "The United Nations Environment Programme advocates for the conservation of the environment."
+                }
+            ],
+            "International Monetary Fund": [
+                {
+                    "Relation": "Collaboration",
+                    "Object": "World Bank",
+                    "Description": "The International Monetary Fund collaborates with the World Bank on various global financial and economic issues."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "United Nations",
+                    "Description": "The International Monetary Fund partners with the United Nations to promote global economic stability and development."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "European Union",
+                    "Description": "The International Monetary Fund cooperates with the European Union on matters related to financial assistance and economic policies."
+                },
+                {
+                    "Relation": "Consultation",
+                    "Object": "World Trade Organization",
+                    "Description": "The International Monetary Fund consults with the World Trade Organization on trade-related issues that impact global economic stability."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "Asian Development Bank",
+                    "Description": "The International Monetary Fund collaborates with the Asian Development Bank to support economic development in the Asia-Pacific region."
+                },
+                {
+                    "Relation": "Partnership",
+                    "Object": "Organization for Economic Cooperation and Development",
+                    "Description": "The International Monetary Fund partners with the Organization for Economic Cooperation and Development to promote international economic cooperation and policy coordination."
+                },
+                {
+                    "Relation": "Membership",
+                    "Object": "G20",
+                    "Description": "The International Monetary Fund is a member of the G20, which is a forum for international economic cooperation and decision-making."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "United Nations Development Programme",
+                    "Description": "The International Monetary Fund collaborates with the United Nations Development Programme to support sustainable development and poverty reduction efforts."
+                },
+                {
+                    "Relation": "Cooperation",
+                    "Object": "Bank for International Settlements",
+                    "Description": "The International Monetary Fund cooperates with the Bank for International Settlements on matters related to global financial stability and regulation."
+                },
+                {
+                    "Relation": "Collaboration",
+                    "Object": "African Development Bank",
+                    "Description": "The International Monetary Fund collaborates with the African Development Bank to support economic development in Africa."
+                }
+            ],
+            "United Nations Educational, Scientific and Cultural Organization": [
+                {
+                    "Relation": "is a",
+                    "Object": "UNESCO",
+                    "Description": "UNESCO is the abbreviation for United Nations Educational, Scientific and Cultural Organization"
+                },
+                {
+                    "Relation": "manages",
+                    "Object": "World Heritage Sites",
+                    "Description": "UNESCO manages the World Heritage Sites program"
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Intangible Cultural Heritage",
+                    "Description": "UNESCO supports the Intangible Cultural Heritage program"
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Education for All",
+                    "Description": "UNESCO promotes the Education for All program"
+                },
+                {
+                    "Relation": "appoints",
+                    "Object": "UNESCO Goodwill Ambassadors",
+                    "Description": "UNESCO appoints Goodwill Ambassadors to promote its mission"
+                },
+                {
+                    "Relation": "designates",
+                    "Object": "UNESCO World Book Capital",
+                    "Description": "UNESCO designates a city as the World Book Capital each year"
+                },
+                {
+                    "Relation": "coordinates",
+                    "Object": "UNESCO Creative Cities Network",
+                    "Description": "UNESCO coordinates the Creative Cities Network"
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "UNESCO Global Geoparks",
+                    "Description": "UNESCO supports the Global Geoparks program"
+                },
+                {
+                    "Relation": "preserves",
+                    "Object": "UNESCO Memory of the World",
+                    "Description": "UNESCO preserves the Memory of the World program"
+                },
+                {
+                    "Relation": "oversees",
+                    "Object": "UNESCO World Heritage Committee",
+                    "Description": "UNESCO oversees the World Heritage Committee"
                 }
             ]
         }
