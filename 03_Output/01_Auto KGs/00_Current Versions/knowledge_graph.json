@@ -5,101 +5,43 @@
     "knowledge graph": {
         "entities": [
             {
-                "entity": "sustainable energy",
-                "category": "concept"
+                "entity": "Geothermal power plant",
+                "category": "Infrastructure"
             },
             {
-                "entity": "Solar power",
-                "category": "Renewable energy"
-            },
-            {
-                "entity": "Wind power",
-                "category": "Renewable energy"
-            },
-            {
-                "entity": "Hydropower",
-                "category": "Renewable energy"
+                "entity": "Geothermal heat pump",
+                "category": "Technology"
             },
             {
                 "entity": "Geothermal energy",
                 "category": "Renewable energy"
             },
             {
-                "entity": "Biomass energy",
-                "category": "Renewable energy"
-            },
-            {
-                "entity": "Tidal power",
-                "category": "Renewable energy"
-            },
-            {
-                "entity": "Nuclear power",
-                "category": "Low-carbon energy"
-            },
-            {
-                "entity": "Energy efficiency",
-                "category": "Sustainable practices"
-            },
-            {
-                "entity": "Smart grid",
-                "category": "Energy infrastructure"
-            },
-            {
-                "entity": "Electric vehicles",
-                "category": "Transportation"
+                "entity": "Geothermal gradient",
+                "category": "Geology"
             }
         ],
         "relations": {
-            "sustainable energy": [
+            "Geothermal reservoir": [
                 {
-                    "Relation": "is a form of",
-                    "Object": "Solar power",
-                    "Description": "Solar power is a form of sustainable energy that harnesses the power of the sun to generate electricity."
+                    "Relation": "is utilized by",
+                    "Object": "Geothermal power plant",
+                    "Description": "Geothermal reservoirs are used as a source of heat for geothermal power plants, where the heat is converted into electricity."
                 },
                 {
-                    "Relation": "is a form of",
-                    "Object": "Wind power",
-                    "Description": "Wind power is a form of sustainable energy that converts the kinetic energy of wind into electricity."
+                    "Relation": "is used by",
+                    "Object": "Geothermal heat pump",
+                    "Description": "Geothermal reservoirs are used as a heat source for geothermal heat pumps, which provide heating and cooling for buildings."
                 },
                 {
-                    "Relation": "is a form of",
-                    "Object": "Hydropower",
-                    "Description": "Hydropower is a form of sustainable energy that uses the force of moving water to generate electricity."
-                },
-                {
-                    "Relation": "is a form of",
+                    "Relation": "is a source of",
                     "Object": "Geothermal energy",
-                    "Description": "Geothermal energy is a form of sustainable energy that utilizes heat from the Earth's core to generate electricity."
+                    "Description": "Geothermal reservoirs are natural sources of geothermal energy, which can be harnessed for various applications."
                 },
                 {
-                    "Relation": "is a form of",
-                    "Object": "Biomass energy",
-                    "Description": "Biomass energy is a form of sustainable energy that derives power from organic materials such as plants and waste."
-                },
-                {
-                    "Relation": "is a form of",
-                    "Object": "Tidal power",
-                    "Description": "Tidal power is a form of sustainable energy that harnesses the energy of tides to generate electricity."
-                },
-                {
-                    "Relation": "is a form of",
-                    "Object": "Nuclear power",
-                    "Description": "Nuclear power is a form of low-carbon energy that generates electricity through nuclear reactions."
-                },
-                {
-                    "Relation": "is a practice for",
-                    "Object": "Energy efficiency",
-                    "Description": "Energy efficiency is a sustainable practice that aims to reduce energy consumption and waste."
-                },
-                {
-                    "Relation": "is a component of",
-                    "Object": "Smart grid",
-                    "Description": "Smart grid is an advanced energy infrastructure that incorporates sustainable energy sources for efficient power distribution."
-                },
-                {
-                    "Relation": "is a solution for",
-                    "Object": "Electric vehicles",
-                    "Description": "Electric vehicles are a sustainable transportation solution that relies on electricity as an alternative to fossil fuels."
+                    "Relation": "is influenced by",
+                    "Object": "Geothermal gradient",
+                    "Description": "The temperature of a geothermal reservoir is influenced by the geothermal gradient, which is the rate of increase in temperature with depth in the Earth's crust."
                 }
             ]
         }
