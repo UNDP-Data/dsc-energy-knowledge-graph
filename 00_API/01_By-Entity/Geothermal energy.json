@@ -7,52 +7,42 @@
                 {
                     "Relation": "is produced by",
                     "Object": "Geothermal power plant",
-                    "Description": "Geothermal energy is produced by geothermal power plants that harness heat from the Earth's interior."
+                    "Description": "Geothermal energy is produced by geothermal power plants that harness heat from the Earth's core."
                 },
                 {
-                    "Relation": "utilizes",
+                    "Relation": "is utilized by",
                     "Object": "Geothermal heat pump",
-                    "Description": "Geothermal energy utilizes geothermal heat pumps for heating and cooling purposes."
+                    "Description": "Geothermal energy is utilized by geothermal heat pumps for heating and cooling buildings."
                 },
                 {
-                    "Relation": "is stored in",
+                    "Relation": "is extracted from",
                     "Object": "Geothermal reservoir",
-                    "Description": "Geothermal energy is stored in underground geothermal reservoirs."
+                    "Description": "Geothermal energy is extracted from underground geothermal reservoirs that contain hot water or steam."
                 },
                 {
-                    "Relation": "is influenced by",
-                    "Object": "Geothermal gradient",
-                    "Description": "The geothermal gradient affects the availability and quality of geothermal energy."
+                    "Relation": "is supported by",
+                    "Object": "Geothermal energy association",
+                    "Description": "Geothermal energy is supported by organizations like the Geothermal Energy Association that promote its development and use."
                 },
                 {
-                    "Relation": "requires",
-                    "Object": "Geothermal drilling",
-                    "Description": "Geothermal energy requires drilling to access the underground heat sources."
+                    "Relation": "is produced by",
+                    "Object": "Geothermal power plant",
+                    "Description": "Geothermal energy is produced by geothermal power plants that harness heat from the Earth's core."
                 },
                 {
-                    "Relation": "is assessed through",
-                    "Object": "Geothermal resource assessment",
-                    "Description": "Geothermal energy resources are assessed through geothermal resource assessments."
+                    "Relation": "is utilized by",
+                    "Object": "Geothermal heat pump",
+                    "Description": "Geothermal energy is utilized by geothermal heat pumps for heating and cooling buildings."
                 },
                 {
-                    "Relation": "is used for",
-                    "Object": "Geothermal direct use",
-                    "Description": "Geothermal energy is used directly for various applications such as heating and agriculture."
+                    "Relation": "is extracted from",
+                    "Object": "Geothermal reservoir",
+                    "Description": "Geothermal energy is extracted from underground geothermal reservoirs that contain hot water or steam."
                 },
                 {
-                    "Relation": "is converted into",
-                    "Object": "Geothermal electricity generation",
-                    "Description": "Geothermal energy is converted into electricity through geothermal power plants."
-                },
-                {
-                    "Relation": "is utilized for",
-                    "Object": "Geothermal heating",
-                    "Description": "Geothermal energy is utilized for heating purposes in residential, commercial, and industrial settings."
-                },
-                {
-                    "Relation": "is utilized for",
-                    "Object": "Geothermal cooling",
-                    "Description": "Geothermal energy is utilized for cooling purposes in residential, commercial, and industrial settings."
+                    "Relation": "is supported by",
+                    "Object": "Geothermal energy association",
+                    "Description": "Geothermal energy is supported by organizations like the Geothermal Energy Association that promote its development and use."
                 }
             ]
         }

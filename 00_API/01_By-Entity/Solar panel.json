@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar panel": [
+                {
+                    "Relation": "provides power to",
+                    "Object": "Battery",
+                    "Description": "Solar panels generate electricity that can be stored in batteries for later use."
+                },
+                {
+                    "Relation": "converts DC power to AC power using",
+                    "Object": "Inverter",
+                    "Description": "Solar panels produce direct current (DC) electricity, which needs to be converted to alternating current (AC) electricity for use in homes and businesses. Inverters are used for this purpose."
+                },
+                {
+                    "Relation": "consists of",
+                    "Object": "Photovoltaic Cell",
+                    "Description": "Solar panels are made up of multiple photovoltaic cells that convert sunlight into electricity."
+                },
+                {
+                    "Relation": "is mounted on",
+                    "Object": "Mounting System",
+                    "Description": "Solar panels are installed on mounting systems, which securely hold them in place and allow for optimal sunlight exposure."
+                }
+            ]
+        }
+    }
+}

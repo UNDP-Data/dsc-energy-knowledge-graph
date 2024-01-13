@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar radiation": [
+                {
+                    "Relation": "emits",
+                    "Object": "Sun",
+                    "Description": "The Sun emits solar radiation, which includes visible light, ultraviolet (UV) radiation, and infrared (IR) radiation."
+                },
+                {
+                    "Relation": "travels through",
+                    "Object": "Atmosphere",
+                    "Description": "Solar radiation travels through the Earth's atmosphere, where it can be absorbed, scattered, or reflected."
+                },
+                {
+                    "Relation": "interacts with",
+                    "Object": "Clouds",
+                    "Description": "Solar radiation interacts with clouds, affecting their formation, movement, and properties."
+                },
+                {
+                    "Relation": "reaches",
+                    "Object": "Earth",
+                    "Description": "Solar radiation reaches the Earth's surface, providing energy for various processes such as photosynthesis and heating the planet."
+                }
+            ]
+        }
+    }
+}

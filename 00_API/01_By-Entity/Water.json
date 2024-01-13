@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Water": [
+                {
+                    "Relation": "Chemical Composition",
+                    "Object": "Hydrogen",
+                    "Description": "Water is composed of two hydrogen atoms."
+                },
+                {
+                    "Relation": "Habitat",
+                    "Object": "Fish",
+                    "Description": "Fish live in water."
+                },
+                {
+                    "Relation": "Transportation",
+                    "Object": "Boat",
+                    "Description": "Boats are used to travel on water."
+                },
+                {
+                    "Relation": "Solid State",
+                    "Object": "Ice",
+                    "Description": "Water freezes and becomes ice at low temperatures."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar farm": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Solar panel",
+                    "Description": "Solar farms use solar panels to generate electricity."
+                },
+                {
+                    "Relation": "connects to",
+                    "Object": "Electricity grid",
+                    "Description": "Solar farms are connected to the electricity grid to distribute the generated electricity."
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Renewable energy",
+                    "Description": "Solar farms contribute to the generation of renewable energy."
+                },
+                {
+                    "Relation": "addresses",
+                    "Object": "Environmental impact",
+                    "Description": "Solar farms help address environmental impact by reducing reliance on fossil fuels."
+                }
+            ]
+        }
+    }
+}

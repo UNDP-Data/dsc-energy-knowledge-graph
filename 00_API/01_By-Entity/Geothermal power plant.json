@@ -1,0 +1,40 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Geothermal power plant": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Geothermal energy",
+                    "Description": "A geothermal power plant utilizes geothermal energy to generate electricity."
+                },
+                {
+                    "Relation": "uses",
+                    "Object": "Heat exchanger",
+                    "Description": "A geothermal power plant uses a heat exchanger to transfer heat from the geothermal fluid to the working fluid."
+                },
+                {
+                    "Relation": "extracts",
+                    "Object": "Geothermal reservoir",
+                    "Description": "A geothermal power plant extracts hot water or steam from a geothermal reservoir to generate electricity."
+                },
+                {
+                    "Relation": "utilizes",
+                    "Object": "Geothermal energy",
+                    "Description": "A geothermal power plant utilizes geothermal energy to generate electricity."
+                },
+                {
+                    "Relation": "uses",
+                    "Object": "Heat exchanger",
+                    "Description": "A geothermal power plant uses a heat exchanger to transfer heat from the geothermal fluid to the working fluid."
+                },
+                {
+                    "Relation": "extracts",
+                    "Object": "Geothermal reservoir",
+                    "Description": "A geothermal power plant extracts hot water or steam from a geothermal reservoir to generate electricity."
+                }
+            ]
+        }
+    }
+}
