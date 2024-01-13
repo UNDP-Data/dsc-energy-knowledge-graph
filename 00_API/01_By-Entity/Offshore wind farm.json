@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Offshore wind farm": [
+                {
+                    "Relation": "consists of",
+                    "Object": "Wind turbine",
+                    "Description": "Offshore wind farms consist of multiple wind turbines that generate electricity from wind energy."
+                },
+                {
+                    "Relation": "connected to",
+                    "Object": "Underwater cable",
+                    "Description": "Offshore wind farms are connected to the mainland power grid through underwater cables to transmit the generated electricity."
+                },
+                {
+                    "Relation": "impacts",
+                    "Object": "Marine life",
+                    "Description": "Offshore wind farms can have impacts on marine life due to construction activities, noise, and changes in habitat."
+                },
+                {
+                    "Relation": "connected to",
+                    "Object": "Power grid",
+                    "Description": "Offshore wind farms are connected to the power grid to distribute the generated electricity to consumers."
+                }
+            ]
+        }
+    }
+}

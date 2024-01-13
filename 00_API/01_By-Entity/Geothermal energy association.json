@@ -1,0 +1,25 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Geothermal energy association": [
+                {
+                    "Relation": "is associated with",
+                    "Object": "Geothermal power plant",
+                    "Description": "The Geothermal energy association promotes the development and utilization of geothermal power plants."
+                },
+                {
+                    "Relation": "supports",
+                    "Object": "Renewable energy",
+                    "Description": "The Geothermal energy association advocates for the use of renewable energy sources, including geothermal energy."
+                },
+                {
+                    "Relation": "promotes",
+                    "Object": "Geothermal heat pump",
+                    "Description": "The Geothermal energy association encourages the adoption of geothermal heat pumps for heating and cooling purposes."
+                }
+            ]
+        }
+    }
+}

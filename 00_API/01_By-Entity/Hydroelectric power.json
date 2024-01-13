@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Hydroelectric power": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Water",
+                    "Description": "Hydroelectric power utilizes the force of flowing water to generate electricity."
+                },
+                {
+                    "Relation": "drives",
+                    "Object": "Turbine",
+                    "Description": "The force of flowing water drives the turbine in a hydroelectric power plant."
+                },
+                {
+                    "Relation": "requires",
+                    "Object": "Dam",
+                    "Description": "A dam is required to create a reservoir and control the flow of water for hydroelectric power generation."
+                },
+                {
+                    "Relation": "converts",
+                    "Object": "Generator",
+                    "Description": "The turbine converts the mechanical energy of flowing water into electrical energy using a generator in a hydroelectric power plant."
+                }
+            ]
+        }
+    }
+}
