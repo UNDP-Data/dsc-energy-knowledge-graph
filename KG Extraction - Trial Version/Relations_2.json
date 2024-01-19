@@ -1,0 +1,75 @@
+{
+    "Subject": "AREP",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "AREP is a project that aims to develop and grow the REN sector in Afghanistan, particularly in the PPP mode. It will facilitate a transition from donor supported to private investment driven REN sector with an objective of deploying REN in full commercialization mode during its TERM 2 (2021-2032)."
+  },
+  {
+    "Subject": "Renewable Energy Law for Afghanistan",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The proper AREP implementation will lead to formation of Renewable Energy Law for Afghanistan by 2032, clearly defining the energy share from renewable energy to keep that growing as per Afghanistan National Strategy and other related policies."
+  },
+  {
+    "Subject": "AREP",
+    "Relation": "Supports",
+    "Object": "Renewable Energy Law"
+  },
+  
+  {
+    "Subject": "Renewable Energy Coordination committee",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Renewable Energy Coordination committee which will be established under MEW and work under the Deputy Minister for Energy the mandate of the RECC is to coordinate with all relevant gov/non gov entities for the implementation of this policy."
+  },
+  {
+    "Subject": "Renewable Energy Coordination committee",
+    "Relation": "Implemented By",
+    "Object": "Renewable Energy Department",
+    "Description": "Renewable energy department is responsible for the RECC."
+  },
+ 
+  {
+    "Subject": "Renewable Energy Department",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Renewable Energy Department (RED) of MEW will be the main technical body responsible for, but not limited to the following: Assessing REN potential and preparing detailed resource maps."
+  },
+  
+  {
+    "Subject": "REN sector",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "A strong local industry for manufacture, assembly, installation and servicing would be required to sustain the REN sector in Afghanistan in future."
+  },
+
+  {
+    "Subject": "Renewable Energy Resources",
+    "Relation": "Located In",
+    "Object": "Afghanistan",
+    "Description": "Afghanistan has enormous Renewable Energy Resources with excellent to fairly good generation potential."
+  },
+  {
+    "Subject": "Renewable Energy Policy Afghanistan",
+    "Relation": "Implemented By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "The Ministry of Energy and Water (MEW) has developed the Renewable Energy Policy Afghanistan, and which envisage main streaming of renewable energy projects in the development and growth of REN sector particularly in the PPP mode."
+  },
+  {
+    "Subject": "Renewable Energy Policy Afghanistan",
+    "Relation": "Aims To Achieve",
+    "Object": "Renewable Energy Resources",
+    "Description": "The Policy will be implemented in two terms 2013 TERM 1 (2015- 2020) will create and support an atmosphere and activities for the development and growth of REN sector particularly in the PPP mode, and will take remarkable tendency of private sector to invest in renewable energy sector and TERM 2 (2021-2032) will deploy REN in full commercialization mode, based on the experience gained under the short term, the policy for the next phases will be consolidated and elements of competition will be introduced."
+  },
+  {
+    "Subject": "Independent power projects",
+    "Relation": "Is An Instance Of",
+    "Object": "Renewable Energy Policy Afghanistan",
+    "Description": "It invites investment from the private sector under the following categories of proposals: Independent power projects (IPPs) for sale of power to the grid only."
+  },
+  {
+    "Subject": "Renewable Energy Policy Afghanistan",
+    "Relation": "Collaborates With",
+    "Object": "Government of Afghanistan",
+    "Description": "Rapid deployment of renewable energy projects in Afghanistan will bring significant socio-economic benefit, employment opportunity and access to energy, energy security, overall growth and possibilities for International Climate Change Mitigation support. The Government of Afghanistan would like to be a partner of international of more than percent of energy supply."
+  },

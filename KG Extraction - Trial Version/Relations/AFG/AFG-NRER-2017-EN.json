@@ -1,0 +1,2609 @@
+[
+  {
+    "Subject": "Renewable Energy Development",
+    "Relation": "Funded By",
+    "Object": "Asian Development Bank",
+    "Description": "The Asian Development Bank (ADB) supported the project 'Renewable Energy Development in Afghanistan' from September 2015 to June 2017."
+  },
+  {
+    "Subject": "Renewable Energy Development",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "IT Power Consulting Private Limited",
+    "Relation": "Located In",
+    "Object": "Ansal Tower"
+  },
+  {
+    "Subject": "IT Power Consulting Private Limited",
+    "Relation": "Located In",
+    "Object": "Nehru Place New Delhi"
+  },
+  {
+    "Subject": "Afghanistan Renewable Energy Policy",
+    "Relation": "Implemented By",
+    "Object": "Government of Afghanistan",
+    "Description": "The development of renewable energy sector is a priority area for the Government of Afghanistan and all its supporting partners."
+  },
+  {
+    "Subject": "National Energy Supply Programme",
+    "Relation": "Implemented By",
+    "Object": "Government of Afghanistan",
+    "Description": "The Roadmap is designed to increase the supply of energy from domestic resources; improve energy supply to load centers, provincial capitals, and rural population; and increase the capacity within the Government to plan and implement renewable energy projects."
+  },
+  {
+    "Subject": "Assistance",
+    "Relation": "Implemented By",
+    "Object": "Asian Development Bank",
+    "Description": "The Asian Development Bank through a Technical Assistance (TA) has addressed these challenges by way of developing the Roadmap for Renewable Energy in Afghanistan."
+  },
+  {
+    "Subject": "FAO Food and Agriculture Organization of the United Nations",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "GoI Government of India",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "GoIRA Government of Islamic Republic of Afghanistan",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "MAIL Ministry of Agriculture, Irrigation and Livestock",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "MEW Ministry of Energy and Water",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "MNRE Ministry of New and Renewable Energy",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "MRRD Ministry of Rural Rehabilitation and Development",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "NISE National Institute of Solar Energy",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "CPSU Central Public - Sector Undertaking",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "CSO Central Statistics Office",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "CSO Civil Society Organizations",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "NGO Non - Governmental Organizations",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "CPV Concentrating PV",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "CSH Concentrating Solar Heat",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "CSP Concentrating Solar Power",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "HPP Hydro Power Plant",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "IPP Independent Power Producer",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "ISA International Solar Alliance",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "CTCN Climate Technology Centre and Network",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "GCF Green Climate Fund",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "ICT Information and Communications Technology",
+    "Relation": "Is An Instance Of",
+    "Object": "Skill"
+  },
+  {
+    "Subject": "NRVA National Risk and Vulnerability Assessment",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "O & M Operation and maintenance",
+    "Relation": "Is An Instance Of",
+    "Object": "Skill"
+  },
+  {
+    "Subject": "DABS Da Afghanistan Breshna Sherkat",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "ERDA Energy for Rural Development in Afghanistan",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "DC Direct Current",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "DNI Direct Normal Irradiance",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "DF Distribution Franchisee",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "DPR Detailed Project Report",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "DRE Decentralised Renewable Energy",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "ESCO Energy Service Companies",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "IREDA Indian Renewable Energy Development Agency Limited",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "IRENA International Renewable Energy Agency",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "NESP National Energy Supply Programme",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "ECO Economic Cooperation Organization",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "IDCOL Infrastructure Development Company Limited",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "ESIA Environmental - Social Impacts Assessment",
+    "Relation": "Is An Instance Of",
+    "Object": "Project"
+  },
+  {
+    "Subject": "ETC Evacuated tube collectors",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "FiT Feed - in - Tariffs",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "FPC Flat - plate collectors",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "MJ Multi - Junction",
+    "Relation": "Is An Instance Of",
+    "Object": "Product"
+  },
+  {
+    "Subject": "GEF Global Environment Facility",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "GIZ Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "NZAID New Zealand Aid Programme",
+    "Relation": "Is An Instance Of",
+    "Object": "Organization"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan",
+    "Description": "The Renewable Energy Roadmap for Afghanistan is developed to realize the vision and intent of the Renewable Energy Policy (RENP) for Afghanistan that sets a target of deploying 4500 \u2013 5000 MW of renewable energy (RE) capacity by 2032 and envisions a transition from donor grant-funded RE projects to a fully-private sector led industry by 2032."
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Aims To Achieve",
+    "Object": "Renewable Energy PolicyNP",
+    "Description": "The Renewable Energy Roadmap for Afghanistan is developed to realize the vision and intent of the Renewable Energy Policy (RENP) for Afghanistan that sets a target of deploying 4500 \u2013 5000 MW of renewable energy (RE) capacity by 2032 and envisions a transition from donor grant-funded RE projects to a fully-private sector led industry by 2032."
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Contains",
+    "Object": "Thermal Energy Storage",
+    "Description": "The available RE resources in Afghanistan and their technical potential include solar, wind, hydro (small, mini and micro), biomass (including waste-to-energy) and geothermal. These resources can be harnessed through a variety of technologies and systems addressing electrical and thermal energy needs."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Roadmap recommends business models that identify the roles of the government, DABS, private sector (already present and likely to be present), MFIs, NGOs and communities for the development of RE markets in Afghanistan."
+  },
+  {
+    "Subject": "Renewable Energy Service Company",
+    "Relation": "Linked To",
+    "Object": "Roadmap",
+    "Description": "RESCO (Renewable Energy Service Company) is one of the business models selected for RE projects in Afghanistan as recommended by the Roadmap."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan Renewable Energy Union",
+    "Description": "The costs for applicable RE technologies and projects in Afghanistan have been collected through primary research by directly consulting with project developers, mainly members of Afghanistan Renewable Energy Union (AREU) and a few NGOs and donors."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Stage - Gate",
+    "Relation": "Linked To",
+    "Object": "Roadmap",
+    "Description": "Subsequently, the Roadmap focuses on enablers and actions required for achieving the targets and milestones using the Stage-Gate model customised for market categories and business models."
+  },
+  {
+    "Subject": "Afghanistan Renewable Energy Policy",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Roadmap for renewable energy for Afghanistan identifies pathways for reaching about 5,000 MW of renewable energy based generation capacity by 2032, in line with the Afghanistan Renewable Energy Policy targets and vision."
+  },
+  {
+    "Subject": "Afghanistan National Development Strategy",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The foundation of the RE development is based on the Afghanistan National Development Strategy (ANDS, 2008) which provides the overall vision and goals of the energy sector."
+  },
+  {
+    "Subject": "Power Sector Master Plan",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Power Sector Master Plan, (PSMP, 2013) that provides the overall status and priorities of power sector network planning and expansion, including identification of regions where network expansion in not economically viable."
+  },
+  {
+    "Subject": "National Energy Supply Program",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The NESP has set the short-term (by 2015) and long-term (up to 2022) targets for electricity supply, energy efficiency and renewable energy sector, energy institutions and private sector participation, as well as capacity and regulatory framework development."
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Recently approved Renewable Energy Policy (RENP, 2015), as an overarching policy instrument, has set ambitious targets for RE development in the country."
+  },
+  {
+    "Subject": "Integrated Energy Policy",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Afghanistan Integrated Energy Policy is proposing to put the RE sector development as one of its strategic intents."
+  },
+  {
+    "Subject": "Sustainable Energy for All",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The above is broadly in sync with the Sustainable Energy for All (SE4All) target for energy access for all by 2030, which is developed as a country level plan of action to ensure access to energy for all."
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Funded By",
+    "Object": "Asian Development Bank",
+    "Description": "The Asian Development Bank is supporting the development of renewable energy sector in Afghanistan."
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Funded By",
+    "Object": "GIZ",
+    "Description": "GIZ is supporting the development of renewable energy sector in Afghanistan."
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Funded By",
+    "Object": "DFID",
+    "Description": "DFID is supporting the development of renewable energy sector in Afghanistan."
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Funded By",
+    "Object": "Islamic Development Bank",
+    "Description": "The Islamic Development Bank is supporting the development of renewable energy sector in Afghanistan."
+  },
+  {
+    "Subject": "RE Projects",
+    "Relation": "Implemented By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "About 5100 RE Projects have been jointly implemented/ under implementation by MEW/MRRD/DABS and other developers."
+  },
+  {
+    "Subject": "Da Afghanistan Breshna Sherkat",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The tariff regime is largely dominated by Da Afghanistan Breshna Sherkat (DABS), the national utility."
+  },
+  {
+    "Subject": "Total Total No of Renewable Energy Projects Completed",
+    "Relation": "Monitored By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "According to the Ministry of Energy and Water (MEW), about 5100 RE Projects have been jointly implemented/ under implementation by MEW/MRRD/DABS and other developers."
+  },
+  {
+    "Subject": "Total No of Renewable Energy Projects Under Construction",
+    "Relation": "Monitored By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "According to the Ministry of Energy and Water (MEW), about 5100 RE Projects have been jointly implemented/ under implementation by MEW/MRRD/DABS and other developers."
+  },
+  {
+    "Subject": "Total Capacity of Renewable Energy Projects",
+    "Relation": "Monitored By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "According to the Ministry of Energy and Water (MEW), about 5100 RE Projects have been jointly implemented/ under implementation by MEW/MRRD/DABS and other developers."
+  },
+  {
+    "Subject": "National Rural Water Supply, Sanitation and Irrigation Programme",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Some experience has been generated recently on the use of solar PV pumps both for drinking water and for irrigation by the MRRD\u2019s National Rural Water Supply, Sanitation and Irrigation Programme (Ru-WatSIP), and also on large scale (between 500 kWp to 1 MWp) of solar PV based mini-grids."
+  },
+  {
+    "Subject": "FAO",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Apart from the MRRD and MEW programmes, there are efforts by FAO, NZAID and GiZ at a smaller scale which are also supporting village electrification."
+  },
+  {
+    "Subject": "NZAID",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Apart from the MRRD and MEW programmes, there are efforts by FAO, NZAID and GiZ at a smaller scale which are also supporting village electrification."
+  },
+  {
+    "Subject": "GiZ",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Apart from the MRRD and MEW programmes, there are efforts by FAO, NZAID and GiZ at a smaller scale which are also supporting village electrification."
+  },
+  {
+    "Subject": "COAM",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "There are also small-scale efforts by NGOs such as COAM and Geres targeting thermal energy issues."
+  },
+  {
+    "Subject": "Geres",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "There are also small-scale efforts by NGOs such as COAM and Geres targeting thermal energy issues."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Mapping the road to RE development (The Roadmap), is important not only for meeting the internal objectives of energy access and energy security, but also to keep Afghanistan aligned with international initiatives on climate change adaptation and mitigation; sustainable development goals, and regional energy trade."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Aims To Achieve",
+    "Object": "Afghanistan",
+    "Description": "At the macro level, the Roadmap shall contribute to achievement of sustainable development goals (SDGs), especially towards reduction of poverty (SDG 1), affordable and clean energy (SDG 7) and industry, innovation and infrastructure (SDG 9). It also addresses concerns in good health and wellbeing (SDG 3) and quality education (SDG 4) through provision of energy security for better service delivery in social sectors."
+  },
+  {
+    "Subject": "renewable energy sector",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The vision of this Roadmap is to guide policy makers, the private sector, developers and other key stakeholders in shaping the renewable energy sector in Afghanistan."
+  },
+  {
+    "Subject": "RE capacity",
+    "Relation": "Aims To Achieve",
+    "Object": "Afghanistan",
+    "Description": "As discussed, the target for 2032 is to achieve around 5,000 MW of RE capacity to be realised as the RE market traverses three stages- Seeding, Creation and Transformation."
+  },
+  {
+    "Subject": "RE resource potential",
+    "Relation": "Located In",
+    "Object": "Afghanistan",
+    "Description": "Afghanistan\u2019s renewable energy potential is estimated to be over 300,000 MW6, consisting of solar (222,849 MW), wind (66,726 MW), hydro (23,310 MW) and biomass (4,000 MW)."
+  },
+  {
+    "Subject": "RE technologies",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The RE resource potential available in Afghanistan can be harnessed using various technologies, some of them are already available and used in Afghanistan, while some others are yet to be introduced."
+  },
+  {
+    "Subject": "Solar photovoltaics (PV)",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Afghanistan has a good solar resource that can be harnessed for electricity generation and for thermal applications."
+  },
+  {
+    "Subject": "1MW solar PV off grid system",
+    "Relation": "Funded By",
+    "Object": "New Zealand Government",
+    "Description": "The largest one is 1MW solar PV off grid system, which is installed in Bamyan province, supported by New Zealand Government."
+  },
+  {
+    "Subject": "250KW solar PV off-grid system",
+    "Relation": "Located In",
+    "Object": "Kabul",
+    "Description": "Some other important installations are: a 250KW solar PV off-grid system installed near the Kabul airport by the Japan Embassy."
+  },
+  {
+    "Subject": "100kW solar PV off-grid system",
+    "Relation": "Located In",
+    "Object": "Gardiz province"
+  },
+  {
+    "Subject": "Solar PV systems",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Solar PV systems have a significant role to play in overall development of electricity sector in Afghanistan."
+  },
+  {
+    "Subject": "Solar thermal systems",
+    "Relation": "Contains",
+    "Object": "multi junction",
+    "Description": "Solar thermal systems convert solar radiation into heat. These systems are used to raise the temperature of a heat transfer fluid which can be air, water or a specially designed fluid."
+  },
+  {
+    "Subject": "Kabul University",
+    "Relation": "Funded By",
+    "Object": "World Bank",
+    "Description": "The largest solar thermal system (20m3/day) has been installed in Kabul University\u2019s women\u2019s dormitory funded by the World Bank."
+  },
+  {
+    "Subject": "solar hot water system",
+    "Relation": "Imported From",
+    "Object": "China",
+    "Description": "Currently, advance solar hot water system (SHWS) are imported from China and India and are being used in the houses and for commercial purposes."
+  },
+  {
+    "Subject": "solar hot water system",
+    "Relation": "Imported From",
+    "Object": "India",
+    "Description": "Currently, advance solar hot water system (SHWS) are imported from China and India and are being used in the houses and for commercial purposes."
+  },
+  {
+    "Subject": "Solar Thermal- LPG Hybrid Smart Cooking system",
+    "Relation": "Located In",
+    "Object": "Dadri",
+    "Description": "Solar Thermal- LPG Hybrid Smart Cooking system has been commissioned at NTPC- Dadri, India."
+  },
+  {
+    "Subject": "Solar Thermal- LPG Hybrid Smart Cooking system",
+    "Relation": "Implemented By",
+    "Object": "NTPC",
+    "Description": "Solar Thermal- LPG Hybrid Smart Cooking system has been commissioned at NTPC- Dadri, India."
+  },
+  {
+    "Subject": "Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system",
+    "Relation": "Implemented By",
+    "Object": "National Institute of Solar Energy",
+    "Description": "A new concept whereby available biomass and solar resource could be used to operate a small, decentralized cold storage right at the village level is implemented in National Institute of Solar Energy (NISE), India and is now operational."
+  },
+  {
+    "Subject": "vapor absorption machine",
+    "Relation": "Part Of",
+    "Object": "Solar\u2013Biomass Hybrid Cold Storage-cum-Power Generation system",
+    "Description": "The system, comprises a 15 kW (~5 TR) vapor absorption machine (VAM) coupled with a 50 kWe biomass gasifier system and a field of solar concentrating collectors."
+  },
+  {
+    "Subject": "Hydropower",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, hydropower plants are classified as pico-hydro (0 to 5 kW), micro-hydro (5 to 100 kW), mini-hydro (101kW to 1000 kW), small-hydro (1001Kw to 10,000 kW) and large-hydro (above 10,001 kW)."
+  },
+  {
+    "Subject": "micro hydropower plants",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, micro hydropower plants (MHPs) are commissioned and working in different provinces."
+  },
+  {
+    "Subject": "micro hydropower plants",
+    "Relation": "Operates In",
+    "Object": "Badakhshan",
+    "Description": "In 2014, 7 MHP systems ranging from (200 kW to 500 kW) were commissioned in Badakhshan province."
+  },
+  {
+    "Subject": "micro hydropower plants",
+    "Relation": "Implemented By",
+    "Object": "DABS",
+    "Description": "These MHPs were later handed over to DABS and are currently run by DABS."
+  },
+  {
+    "Subject": "Salma Hydro Power Plant",
+    "Relation": "Funded By",
+    "Object": "Indian",
+    "Description": "42 MW Salma Hydro Power Plant (HPP) is in the final stage of completion by Indian government support."
+  },
+  {
+    "Subject": "Kajaki I HPP",
+    "Relation": "Funded By",
+    "Object": "USAID",
+    "Description": "Kajaki I HPP is expanding to a capacity of 18.5 MW with funding support from USAID."
+  },
+  {
+    "Subject": "Micro Hydro Kinetic Turbine Tata Power",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "Tata Power in India has successfully commissioned and tested a 10-kW low-head micro-hydro turbine."
+  },
+  {
+    "Subject": "Micro Hydro Kinetic Turbine Tata Power",
+    "Relation": "Implemented By",
+    "Object": "Casmir Group",
+    "Description": "The micro turbine generator was indigenously manufactured in Mumbai by Casmir Group."
+  },
+  {
+    "Subject": "Micro Hydro Kinetic Turbine Tata Power",
+    "Relation": "Linked To",
+    "Object": "University of Southampton",
+    "Description": "The micro turbine generator was based on the patented technology licensed from the University of Southampton."
+  },
+  {
+    "Subject": "Bhira hydro power",
+    "Relation": "Located In",
+    "Object": "Maharashtra",
+    "Description": "The 10-kW low-head micro-hydro turbine was installed in the tailrace of the 150 MW Bhira hydro power plant in Maharashtra."
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "China",
+    "Description": "Globally, 487 GW of wind power technology has been installed by the end of 2015 of which, the largest capacity exists in China."
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "United States"
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "Germany"
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "India"
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Afghanistan has a good wind resource potential especially in South East part of the country. Sixteen wind monitoring stations have been installed in different parts of the country."
+  },
+  {
+    "Subject": "Wind power technology",
+    "Relation": "Operates In",
+    "Object": "South East",
+    "Description": "Afghanistan has a good wind resource potential especially in South East part of the country."
+  },
+  {
+    "Subject": "Wind mechanical pumps",
+    "Relation": "Operates In",
+    "Object": "Farah"
+  },
+  {
+    "Subject": "Wind mechanical pumps",
+    "Relation": "Operates In",
+    "Object": "Nimroz"
+  },
+  {
+    "Subject": "Wind mechanical pumps",
+    "Relation": "Operates In",
+    "Object": "Herat"
+  },
+  {
+    "Subject": "United States",
+    "Relation": "Operates In",
+    "Object": "biomass sources",
+    "Description": "The United States is the largest producer of electricity from biomass sources."
+  },
+  {
+    "Subject": "European Union",
+    "Relation": "Operates In",
+    "Object": "bio-power generation and capacity",
+    "Description": "European Union leads both the bio-power generation and capacity."
+  },
+  {
+    "Subject": "biogas plants",
+    "Relation": "Located In",
+    "Object": "Afghanistan",
+    "Description": "Only a limited number of family type biogas plants have been installed in eastern provinces and central parts of the country."
+  },
+  {
+    "Subject": "biomass energy projects",
+    "Relation": "Implemented By",
+    "Object": "Kabul Municipality",
+    "Description": "Some studies are under process for biomass energy projects in Kabul city and Balkh province under supervision of Kabul Municipality, Ministry of Urban development."
+  },
+  {
+    "Subject": "geothermal power",
+    "Relation": "Operates In",
+    "Object": "USA",
+    "Description": "Top five leading countries in the geothermal power generation are USA, Philippines, Indonesia, Mexico and New Zealand."
+  },
+  {
+    "Subject": "geothermal energy",
+    "Relation": "Located In",
+    "Object": "Afghanistan",
+    "Description": "Geothermal energy is a highly valuable, clean and reliable heat and power source in Afghanistan, which is still untapped."
+  },
+  {
+    "Subject": "air source heat pump",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Air source heat pump is a significant technology for Renewable Energy development in Afghanistan."
+  },
+  {
+    "Subject": "air source heat pump",
+    "Relation": "Contains",
+    "Object": "coefficient of performance",
+    "Description": "The performance of air source heat pumps is measured by the coefficient of performance (COP). A COP of 3 means the heat pump generates 3 units of heat energy for every 1 unit of electricity it consumes."
+  },
+  {
+    "Subject": "Renewable energy technologies",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "This chapter has discussed and provided a long list of technologies that are to be harnessed in Afghanistan."
+  },
+  {
+    "Subject": "STEM industrial model plant",
+    "Relation": "Located In",
+    "Object": "San Filippo del Mela",
+    "Description": "On 30th June 2016, the first STEM industrial model plant started operations in San Filippo del Mela (Sicily)."
+  },
+  {
+    "Subject": "small-scale biogas digesters",
+    "Relation": "Operates In",
+    "Object": "Asia",
+    "Description": "Asia has the highest number of small-scale biogas digesters, with more than 100 million people in rural China and 4.83 million people in India have access to digesters to produce gas for cooking and space heating."
+  },
+  {
+    "Subject": "small-scale biogas digesters",
+    "Relation": "Operates In",
+    "Object": "China",
+    "Description": "Asia has the highest number of small-scale biogas digesters, with more than 100 million people in rural China and 4.83 million people in India have access to digesters to produce gas for cooking and space heating."
+  },
+  {
+    "Subject": "small-scale biogas digesters",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "Asia has the highest number of small-scale biogas digesters, with more than 100 million people in rural China and 4.83 million people in India have access to digesters to produce gas for cooking and space heating."
+  },
+  {
+    "Subject": "lithium ion battery storage projects",
+    "Relation": "Located In",
+    "Object": "Southern California",
+    "Description": "Two lithium ion battery storage projects totalling 37.5 MW & 150 MWh is under construction phase in Southern California."
+  },
+  {
+    "Subject": "Powerwall 2",
+    "Relation": "Is An Instance Of",
+    "Object": "home battery unit",
+    "Description": "In October 2016, the Powerwall 2 (an upgrade to its previous version), a home battery unit, was unveiled by Tesla Company."
+  },
+  {
+    "Subject": "Afghanistan National Grid Plan",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Afghanistan National Grid Plan map has been referred to at this level."
+  },
+  {
+    "Subject": "Decision Tool",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Decision Tool helps in conducting site specific studies and analysis for all types of stand- alone projects in Afghanistan."
+  },
+  {
+    "Subject": "Solar Power Parks",
+    "Relation": "Implemented By",
+    "Object": "Independent Power Producers",
+    "Description": "The Decision Tool points at setting up a total of 800 MW of solar utility scale PV through Solar Power Parks (SPPs) and Independent Power Producers (IPPs), with an optimum capacity of 100 MW for SPPs and 10 MW for IPPs."
+  },
+  {
+    "Subject": "Solar Power Parks",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The proposed 100 MW SPP at Naghlu and 10 MW IPP at Kandahar will be trailblazers in this segment."
+  },
+  {
+    "Subject": "Independent Power Producers",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The proposed 100 MW SPP at Naghlu and 10 MW IPP at Kandahar will be trailblazers in this segment."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Roadmap recommends more such projects, totalling to about 56 MW aggregated installed capacity in Afghanistan."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Kabul",
+    "Description": "The first proposed pilot project for 6.0 MW in Kabul municipality is an encouraging initiative."
+  },
+  {
+    "Subject": "FPV projects",
+    "Relation": "Operates In",
+    "Object": "Japan",
+    "Description": "There are already 70 FPV projects currently operational, most of these in Japan."
+  },
+  {
+    "Subject": "FPV plants",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Considering the fact that Afghanistan has significant numbers of reservoirs and dams for irrigational and electricity generation purposes, this Roadmap recommends setting up of 10.5 MWp of floating PV plants of varying capacities."
+  },
+  {
+    "Subject": "Environmental-Social Impacts Assessment",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan",
+    "Description": "This Roadmap recommends setting up of 10.5 MWp of floating PV plants of varying capacities on the basis of detailed feasibility studies, including Environmental-Social Impacts Assessment (ESIA) studies."
+  },
+  {
+    "Subject": "Large hydro projects",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Large hydro projects are now being considered as renewable energy projects. Their contribution to Afghanistan\u2019s total energy mix is significant."
+  },
+  {
+    "Subject": "power purchase agreement",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The power purchase agreement (PPA) assumes primary importance for large scale, MW scale power plants in Afghanistan."
+  },
+  {
+    "Subject": "Solar Power Parks",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Solar Power Parks is a dedicated and demarcated zone for development of solar PV power projects in Afghanistan."
+  },
+  {
+    "Subject": "Solar Power Park Developer",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The solar park in Afghanistan is typically developed and operated by a Special Purpose Vehicle or a service provider, usually called the Solar Power Park Developer."
+  },
+  {
+    "Subject": "Solar Power Parks",
+    "Relation": "Implemented By",
+    "Object": "Solar Power Park Developer",
+    "Description": "The solar park is typically developed and operated by a Special Purpose Vehicle or a service provider, usually called the Solar Power Park Developer."
+  },
+  {
+    "Subject": "power purchase agreement",
+    "Relation": "Linked To",
+    "Object": "Solar Power Parks",
+    "Description": "The park provides project developers with proper infrastructure and access to facilities for power generation and export to the grid against a firm Power Purchase Agreement (PPA)."
+  },
+  {
+    "Subject": "Build-Own-Operate Maintain",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, project developers are invited to invest in setting up solar PV projects through a bidding process. Projects are set up through Build-Own-Operate-Maintain (BOOM) process."
+  },
+  {
+    "Subject": "Special Purpose Vehicle",
+    "Relation": "Implemented By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "Govt. may set up a Special Purpose Vehicle (SPV) in the PPP mode for setting up and managing SPPs, like a Solar Power Park Developer (SPPD)."
+  },
+  {
+    "Subject": "Preparation of Detailed Project Report",
+    "Relation": "Is An Instance Of",
+    "Object": "Special Purpose Vehicle",
+    "Description": "This agency shall be entrusted with the task of setting up and managing the SPPs, and shall execute the following activities: Preparation of Detailed Project Report (DPR) for each SPP."
+  },
+  {
+    "Subject": "Project Developer",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The project developer shall set up its solar PV project and operate and maintain the same throughout the life of the PPA."
+  },
+  {
+    "Subject": "Da Afghanistan Breshna Sherkat",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "DABS shall, as the transmission and distribution utility, shall finalize tariff rates for procurement of power from SPPs and procure the power."
+  },
+  {
+    "Subject": "Special Purpose Vehicle",
+    "Relation": "Collaborates With",
+    "Object": "Project Developer",
+    "Description": "Investments made by this agency can be realized from lease rentals and other fees against services that are paid by project developers."
+  },
+  {
+    "Subject": "Charanka Solar Park",
+    "Relation": "Located In",
+    "Object": "Gujarat"
+  },
+  {
+    "Subject": "Charanka Solar Park",
+    "Relation": "Implemented By",
+    "Object": "Gujarat Power Corporation Limited",
+    "Description": "The Charanka Solar Park with an installed capacity of 590 MW was set up in the Indian state of Gujarat, by the Gujarat Power Corporation Limited."
+  },
+  {
+    "Subject": "Solar Energy Corporation of India",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "Under the aegis of the Solar Energy Corporation of India (SECI), as many as 33 SPPs, with a cumulative capacity of 19,900 MW are either operational or under implementation."
+  },
+  {
+    "Subject": "Solar Energy Corporation of India",
+    "Relation": "Collaborates With",
+    "Object": "Gujarat Power Corporation Limited",
+    "Description": "SECI has identified nodal agencies in prominent Indian states where solar power parks are planned. These nodal agencies form joint ventures with SECI and act as the SPPD."
+  },
+  {
+    "Subject": "Jawaharlal Nehru National Solar Mission",
+    "Relation": "Implemented By",
+    "Object": "Government of India",
+    "Description": "Policy support for solar power parks in India was derived from the Jawaharlal Nehru National Solar Mission (JNNSM), which laid down the broad objectives and guidelines."
+  },
+  {
+    "Subject": "Solar Energy Corporation of India",
+    "Relation": "Implemented By",
+    "Object": "Ministry of New and Renewable Energy",
+    "Description": "Subsequently, the Solar Energy Corporation of India (SECI) was set up by the Ministry of New and Renewable Energy (Ministry of New and Renewable Energy), Government of India."
+  },
+  {
+    "Subject": "Charanka Solar Park",
+    "Relation": "Implemented By",
+    "Object": "Solar Power Park Developer",
+    "Description": "The SPPD is responsible for setting up the solar park with the required infrastructure. For Charanka, the Gujarat Power Corporation Limited acted as the SPPD."
+  },
+  {
+    "Subject": "Aggregate Technical & Commercial",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, the Aggregate Technical & Commercial (ATC) model is used to improve technical performance and reduce losses, providing 24x7 quality power."
+  },
+  {
+    "Subject": "Billing, Metering and Collection",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, the Billing, Metering and Collection (BMC) activities are undertaken by the Distribution Franchisee (DF) as part of their contractual agreement with the utility."
+  },
+  {
+    "Subject": "DF Scheme",
+    "Relation": "Implemented By",
+    "Object": "Ministry of Energy and Water",
+    "Description": "Ministry of Energy and Water (MEW) designs the DF Scheme in Pan-Afghanistan context along the above guidelines and provides policy support for its roll- out."
+  },
+  {
+    "Subject": "DF Scheme",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Da Afghanistan Breshna Sherkat",
+    "Relation": "Collaborates With",
+    "Object": "DF Scheme",
+    "Description": "Da Afghanistan Breshna Sherkat (DABS) identifies areas where power distribution can be licensed to DF. Enters into contract for sale of power and for the maintenance of DABS\u2019s distribution infrastructure in the area now under the franchisee\u2019s operations."
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "In the neighbouring country, India for example, Torrent Power Limited (TPL) launched one of the first input based distribution franchisee operations in Bhiwandi circle of Maharashtra in western India."
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "Operates In",
+    "Object": "Maharashtra"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Operates In",
+    "Object": "Feed-in-Tariffs",
+    "Description": "Afghanistan in currently establishing its net metering policy, which will catalyse the roof-top market."
+  },
+  {
+    "Subject": "Germany",
+    "Relation": "Belongs To",
+    "Object": "European Union"
+  },
+  {
+    "Subject": "Germany",
+    "Relation": "Operates In",
+    "Object": "Feed-in-Tariffs",
+    "Description": "Behind this significant success lies the Renewable Energy Guarantee Act that guarantees priority grid access to all electricity generated by renewables. In addition, policies significantly incentivize owners to mount solar roof-top systems, through Feed-in-Tariffs (FiT)."
+  },
+  {
+    "Subject": "India",
+    "Relation": "Operates In",
+    "Object": "Feed-in-Tariffs",
+    "Description": "In terms of regional success stories, roof-top solar PV schemes are popular in India and Sri Lanka within the South Asian region."
+  },
+  {
+    "Subject": "Sri Lanka",
+    "Relation": "Operates In",
+    "Object": "Feed-in-Tariffs",
+    "Description": "In Sri Lanka, the net metering policy is open to all generators of renewable energy (hydropower, solar etc.) with a cap of 1,000 kW per user."
+  },
+  {
+    "Subject": "Renewable   Rural   Energy Service Company",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "RESCO is an entity that provides energy services to consumers in a particular area by setting up a mini-utility, usually in an off-grid location in Afghanistan."
+  },
+  {
+    "Subject": "Renewable  Rural  Energy Service Company",
+    "Relation": "Collaborates With",
+    "Object": "Civil Society Organizations",
+    "Description": "RESCOs are assisted by local entities such as Civil Society Organizations (CSO) and other community based organizations. These entities play important roles in project identification, community mobilization, load development and tariff fixation."
+  },
+  {
+    "Subject": "RESCO",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The RESCO business model has strong potential in Afghanistan, mostly because decentralised energy is expected to contribute significantly in the country\u2019s overall energy sector."
+  },
+  {
+    "Subject": "Regulator",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The regulator shall demarcate regions within Afghanistan where grid may not reach in a certain foreseeable future. These shall ring-fence zones where RESCO can operate. It would also open up the market for private sector players to act as potential RESCOs."
+  },
+  {
+    "Subject": "Ministry of Energy and Water",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "MEW will set up guidelines for technical design, safety and quality of power delivered for RESCO projects. MEW shall also carry out capacity building activities for RESCOs."
+  },
+  {
+    "Subject": "Ministry of Rural Rehabilitation & Development",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "MRRD would play an important role in institutionalizing the RESCO business model in all its energy programmes. MRRD can empanel potential RESCO organizations and work in tandem with relevant Community Development Councils and other grassroots organizations to identify RESCO project opportunities."
+  },
+  {
+    "Subject": "Community Development Councils",
+    "Relation": "Collaborates With",
+    "Object": "Ministry of Rural Rehabilitation & Development",
+    "Description": "MRRD can empanel potential RESCO organizations and work in tandem with relevant Community Development Councils and other grassroots organizations to identify RESCO project opportunities."
+  },
+  {
+    "Subject": "Da Afghanistan Breshna Sherkat",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "DABS shall, as the transmission utility, lay down guidelines for interconnection of distribution networks for mini-utilities projects with the grid, so as to facilitate seamless transition in the event of grid interface. DABS shall build capacities of RESCOs on technical and commercial aspects of the distribution business including billing, metering and collection activities."
+  },
+  {
+    "Subject": "RESCO",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In Afghanistan, RESCO projects are assumed to be in the 100 kW \u2013 1,000 kW range, in terms of installed capacity. A typical RESCO project is expected to cover 3 \u2013 7 villages, thereby connecting between 1,000 - 2,000 households or roughly 6,000 \u2013 15,000 individuals."
+  },
+  {
+    "Subject": "Rockefeller Foundation",
+    "Relation": "Implemented By",
+    "Object": "SPEED Story Smart Power for Environmentally - sound Economic",
+    "Description": "The SPEED model is structured around empowering enterprises, and is built around the concept of anchor loads. Anchor loads allow a generating station to perform at higher levels of capacity utilization."
+  },
+  {
+    "Subject": "Rockefeller Foundation",
+    "Relation": "Implemented By",
+    "Object": "Smart Power for Rural Development",
+    "Description": "Over the past 6 years since 2010, the SPEED programme (and now its successor the Smart Power for Rural Development) has worked with over 50 ESCO organisations, contributing to its goal to energize 1,000 Indian villages with \u2018smart power\u2019."
+  },
+  {
+    "Subject": "Energy Service Companies",
+    "Relation": "Collaborates With",
+    "Object": "Indian"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Provided As",
+    "Object": "one-time outright purchase"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Provided As",
+    "Object": "hire-to-purchase"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Provided As",
+    "Object": "pay-as-you-go"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Comprised Of",
+    "Object": "technical entity"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Comprised Of",
+    "Object": "implementation partner"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Comprised Of",
+    "Object": "financial intermediary"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Characterized By",
+    "Object": "ICT enabled"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Characterized By",
+    "Object": "smart features"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Exhibit",
+    "Object": "optimal and efficient energy use devices"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Exhibit",
+    "Object": "LED lights"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Exhibit",
+    "Object": "energy efficient fans"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Exhibit",
+    "Object": "multi-function devices"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Involve",
+    "Object": "NGO - community based organization (CBO) route"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Involve",
+    "Object": "existing distribution channels for petroleum products"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Involve",
+    "Object": "linking with education programmes"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Involve",
+    "Object": "selling energy coupled to other infrastructure services"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Involve",
+    "Object": "own dealer-distributor networks"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Require",
+    "Object": "financing partner"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Replace",
+    "Object": "fossil fuels"
+  },
+  {
+    "Subject": "stand-alone systems",
+    "Relation": "Tuned To",
+    "Object": "ensure that financial savings from avoided fuel expenses are utilized to pay monthly lease rentals"
+  },
+  {
+    "Subject": "Ministry of Energy and Water",
+    "Relation": "Provides Support To",
+    "Object": "Implementing Agency",
+    "Description": "MEW can set up guidelines for household scale systems, specifying technical design, safety and power delivered from a given system. MEW can also carry out capacity building activities for implementing agencies and provide support to technical partners."
+  },
+  {
+    "Subject": "Microfinance",
+    "Relation": "Finances",
+    "Object": "Implementing Agency",
+    "Description": "The financing entity often holds the key to any large-scale programme. The role of the MF entity is typically to ensure that cash flows are positive for the implementing entity (typically the intermediary who as the implementing agency is the interface between the manufacturer and user). At the same time, by providing upfront cash for the systems on behalf of the seller, the MF enters into a financing agreement with the end user, allowing him to make small repayments every month. In pay-as-you-go systems, the financing entity may finance the implementing agency with a debt-equity combination, which de-risks the implementer from delayed payments. The user, who is not financed, pays off for the system every month through user charges. These charges typically run for 60 \u2013 84 months, following which the user owns the asset."
+  },
+  {
+    "Subject": "Implementing Agency",
+    "Relation": "Interacts With",
+    "Object": "Financial Institutions",
+    "Description": "At the sourcing end, it interacts with financial institutions to ensure microfinance and other financial tie-ups."
+  },
+  {
+    "Subject": "Implementing Agency",
+    "Relation": "Works Closely With",
+    "Object": "Manufacturers",
+    "Description": "At the same time, it works closely with manufacturers to ensure that devices being sold cater to the needs of the consumers."
+  },
+  {
+    "Subject": "Implementing Agency",
+    "Relation": "Controls",
+    "Object": "Operational Aspects",
+    "Description": "Finally, it controls the operational aspects of the programme to ensure smooth performance, absence of leakages (systems being sold to wrong end-users, stolen, or traded internally for arbitrage etc.)."
+  },
+  {
+    "Subject": "implementing agency",
+    "Relation": "Responsible For",
+    "Object": "after-sales service and maintenance performance of the programme"
+  },
+  {
+    "Subject": "implementing agency",
+    "Relation": "Involves",
+    "Object": "two or three levels"
+  },
+  {
+    "Subject": "large programmes",
+    "Relation": "Require",
+    "Object": "an apex entity"
+  },
+  {
+    "Subject": "large programmes",
+    "Relation": "Supported By",
+    "Object": "entities at the provincial level such as NGOs or CSOs"
+  },
+  {
+    "Subject": "Consumers",
+    "Relation": "Can Be",
+    "Object": "simple end-users"
+  },
+  {
+    "Subject": "Consumers",
+    "Relation": "Can Participate In",
+    "Object": "the programme under a deferred payment or a pay-as-you-go model"
+  },
+  {
+    "Subject": "stand-alone solar PV",
+    "Relation": "Has Been Widely Used",
+    "Object": "across rural areas in Afghanistan"
+  },
+  {
+    "Subject": "stand-alone solar PV",
+    "Relation": "Driven By",
+    "Object": "lack of options for electricity supply"
+  },
+  {
+    "Subject": "stand-alone devices",
+    "Relation": "Expected To Have",
+    "Object": "significant impact in Afghanistan in the years to come"
+  },
+  {
+    "Subject": "stand-alone devices",
+    "Relation": "Expected To Have",
+    "Object": "participation from microfinance agencies"
+  },
+  {
+    "Subject": "business models for stand-alone systems",
+    "Relation": "Could Have",
+    "Object": "far-reaching impacts"
+  },
+  {
+    "Subject": "business models for stand-alone systems",
+    "Relation": "Implemented By",
+    "Object": "various agencies"
+  },
+  {
+    "Subject": "business models for stand-alone systems",
+    "Relation": "Implemented Through",
+    "Object": "a financial intermediary"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Called",
+    "Object": "Indigo Duo solar home system"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Consists Of",
+    "Object": "a 2.5 Wp PV module, a 3,300 mAh battery, two LED lights, and the Indigo controller"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Works Through",
+    "Object": "distribution channels"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Sold To",
+    "Object": "distribution partners"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Trained In",
+    "Object": "the Azuri system"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Stores Details Of",
+    "Object": "all distributors and consumers"
+  },
+  {
+    "Subject": "Azuri model",
+    "Relation": "Provides",
+    "Object": "each consumer with a unique ID"
+  },
+  {
+    "Subject": "user",
+    "Relation": "Makes",
+    "Object": "instalment payments",
+    "Description": "For the user, there are eighty instalment payments after purchase of his system."
+  },
+  {
+    "Subject": "instalment payments",
+    "Relation": "Contributes To",
+    "Object": "cost of the system",
+    "Description": "Each of the payments contributes something towards the cost of the system."
+  },
+  {
+    "Subject": "instalment payments",
+    "Relation": "Expires",
+    "Object": "system",
+    "Description": "After expiry of the installments, the system becomes free at the hands of the user."
+  },
+  {
+    "Subject": "RE market",
+    "Relation": "Follows",
+    "Object": "Stage-Gate model",
+    "Description": "The RE market in Afghanistan would follow three (3) stages: market seeding to market creation and then to market transformation, with each stage being built on certain enablers (technical, regulatory/ policy, financial/ economical and institutional or related to capacities) that are put in place."
+  },
+  {
+    "Subject": "Stage-Gate model",
+    "Relation": "Explained By",
+    "Object": "management technique",
+    "Description": "The stage-gate model is technically understood as a management technique in which an initiative or a project is divided into stages, separated by gates."
+  },
+  {
+    "Subject": "Stage-Gate model",
+    "Relation": "Follows",
+    "Object": "Stage-Gate model",
+    "Description": "The continuation of the initiative is contingent upon certain conditions to be met, review to be done, risks to be assessed at each gate, and then an informed decision to be taken to move ahead to the next stage."
+  },
+  {
+    "Subject": "RE market",
+    "Relation": "Follows",
+    "Object": "market seeding",
+    "Description": "The Stage- Gate 1 is the successful completion of the first stage representing seeding of the RE market."
+  },
+  {
+    "Subject": "RE market",
+    "Relation": "Characterized By",
+    "Object": "existing experience",
+    "Description": "This stage builds upon existing experience in the country on renewable energy and proof of concept for some RE technologies that have not been tried at all or at the scale that the Roadmap suggests."
+  },
+  {
+    "Subject": "RE market",
+    "Relation": "Characterized By",
+    "Object": "proof of concept",
+    "Description": "This stage builds upon existing experience in the country on renewable energy and proof of concept for some RE technologies that have not been tried at all or at the scale that the Roadmap suggests."
+  },
+  {
+    "Subject": "RE market",
+    "Relation": "Characterized By",
+    "Object": "policies and guidelines",
+    "Description": "The thematic focus remains on identifying tried-and-tested technologies, together with the processes, in terms of policies and guidelines and initiating a few pilots to seed the markets."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Increase in installed capacities for",
+    "Object": "solar PV"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Increase in installed capacities for",
+    "Object": "mini and micro hydro technologies"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Increase in installed capacities for",
+    "Object": "wind power"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Highest focus remains on",
+    "Object": "utility scale power projects"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Important contributions from",
+    "Object": "mini-grids"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Important contributions from",
+    "Object": "stand-alone solar PV"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "New technologies to be piloted include",
+    "Object": "waste to energy"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "New technologies to be piloted include",
+    "Object": "roof-top solar"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "New technologies to be piloted include",
+    "Object": "stand-alone solar for strategic applications such as telecom tower and pumping"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "New technologies to be piloted include",
+    "Object": "solar thermal applications"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "New technologies to be piloted include",
+    "Object": "domestic cooking using improved cookstoves and biogas"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Market creation stage represents demonstration of",
+    "Object": "techno-commercial viability"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Market creation stage represents demonstration of",
+    "Object": "confidence building of private sector"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Focus shifts to setting up more projects in order to create",
+    "Object": "markets"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Various business models are implemented and customized to achieve success in",
+    "Object": "Afghan context"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 introduces new technologies such as",
+    "Object": "CSP"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 introduces new technologies such as",
+    "Object": "Floatovoltaics"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 introduces new technologies such as",
+    "Object": "CPV"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 introduces new technologies such as",
+    "Object": "Biomass power generation"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 introduces new technologies such as",
+    "Object": "geothermal energy particularly for heating applications"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 is still supported by",
+    "Object": "grants and government support"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 is still supported by",
+    "Object": "promoter\u2019s equity"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "SG2 is still supported by",
+    "Object": "low cost debt"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Market maturity and expansion, led by",
+    "Object": "private initiative"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Stakeholders are fully familiar with the ground rules vis-\u00e0-vis RE markets in",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Government inputs and support are strategic in nature, focusing on newer technologies, newer policies and newer initiatives"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Grants may still exist for a few sunrise applications, but overall forms a small share of the pool of funds"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Belongs To",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Belongs To",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Policy readiness and programmatic support"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Policy readiness and programmatic support"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Programmatic guidelines (or Schemes) for promoting specific business models"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Programmatic guidelines (or Schemes) for promoting specific business models"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Policy on mini-grids"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Policy on mini-grids"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Regulatory guidance on power distribution and grid integration for off-grid systems"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Regulatory guidance on power distribution and grid integration for off-grid systems"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Demarcation of areas for electrification through decentralised (localized) generation"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Demarcation of areas for electrification through decentralised (localized) generation"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Greening of strategic sectors"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Greening of strategic sectors"
+  },
+  {
+    "Subject": "Renewable Energy Policy",
+    "Relation": "Contributes To",
+    "Object": "Incentives for use of solar hot water systems"
+  },
+  {
+    "Subject": "Feed in Tariff Policy",
+    "Relation": "Contributes To",
+    "Object": "Incentives for use of solar hot water systems"
+  },
+  {
+    "Subject": "Afghanistan National Standards Authority",
+    "Relation": "Provides Aid To",
+    "Object": "MEW",
+    "Description": "Existing efforts in this direction taken by the Afghanistan National Standards Authority (ANSA) may be complemented."
+  },
+  {
+    "Subject": "Vocational Training Centre",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "A specialist organisation may also be set up, or existing institutions such as the Vocational Training Centre (VTC) strengthened, so as to meet this challenge in a systematic manner."
+  },
+  {
+    "Subject": "Solar Power Park Developer",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "For instance, the Solar Power Park Developer (SPPD) may be entrusted with the task of setting up and managing solar PV parks."
+  },
+  {
+    "Subject": "rural utility",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "A dedicated rural utility shall provide greater focus on meeting the rural power shortage scenario."
+  },
+  {
+    "Subject": "financial institution",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "As the sector grows and enters the market creation stage, it would require a dedicated institution to generate and manage funds for the implementation of RE projects."
+  },
+  {
+    "Subject": "coordination mechanism",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Coordination between institutions responsible for electricity generation, distribution, and application is important for realizing the potential of RE in Afghanistan."
+  },
+  {
+    "Subject": "institutional capacities",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Building and strengthening of institutions is a prerequisite for developing the RE sector in Afghanistan."
+  },
+  {
+    "Subject": "awareness generation",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "An all-encompassing and multi-stakeholder targeted national level campaign on RE is expected to help catalyze the growth of the sector."
+  },
+  {
+    "Subject": "access to finance",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Access to finance is one of the key enablers for the RE sector in Afghanistan."
+  },
+  {
+    "Subject": "Bank (Debt) Finance",
+    "Relation": "Provides Aid To",
+    "Object": "renewable energy sector",
+    "Description": "Bank finance for large and medium scale projects in the renewable energy sector shall in-turn mobilize both private and public capital."
+  },
+  {
+    "Subject": "Bank (Debt) Finance",
+    "Relation": "Collaborates With",
+    "Object": "Afghan banks",
+    "Description": "Currently Afghan banks are more focused on retail operations, however donor or government guaranteed debt instruments can leverage additional capital."
+  },
+  {
+    "Subject": "Microfinance",
+    "Relation": "Provides Aid To",
+    "Object": "renewable energy projects",
+    "Description": "Primarily for micro scale projects at the user level, microfinance supported renewable energy projects has had significant success in ecosystems similar to Afghanistan, across Asia and Africa."
+  },
+  {
+    "Subject": "Working capital finance",
+    "Relation": "Provides Aid To",
+    "Object": "RE market",
+    "Description": "In addition, working capital finance, which is currently available from Afghan banks for large businesses and industrial groups, is a potential enabler for easing the capital constraints of the RE market."
+  },
+  {
+    "Subject": "Enterprise development",
+    "Relation": "Supports",
+    "Object": "rural economy",
+    "Description": "In a rural economy, enterprises form the backbone, supporting the economy with employment, trade and commerce."
+  },
+  {
+    "Subject": "Enterprise development",
+    "Relation": "Supports",
+    "Object": "energy security",
+    "Description": "From an energy security perspective, enterprises are a key enabler as they are able to utilise energy for productive applications, thereby generating incomes to sustain both the enterprise as well as the energy generation unit."
+  },
+  {
+    "Subject": "Support programme for local RE industry",
+    "Relation": "Supports",
+    "Object": "local manufacturers, system assemblers and others",
+    "Description": "since local industry is expected to provide the back-bone of RE sector in Afghanistan, it is important to design and implement a support programme for local manufacturers, system assemblers and others by way of enhancing their capacities, providing networking opportunities"
+  },
+  {
+    "Subject": "Private   Public   Partnerships",
+    "Relation": "Collaborates With",
+    "Object": "DABS",
+    "Description": "The PPP model works on the premise of getting the best out of public and private sectors to work together for a common goal. While the public sector brings socially responsive pro-poor approach to project design, the private sector focuses on financial viability of the project. The PPP model also helps in developing the confidence of the private sector through risk sharing mechanism. With spatially distributed communities, PPP projects are especially an enabler in unlocking private capital for financing renewable energy projects in rural sector. This model is particularly pertinent in mini-grid sector where DABS along with a local RESCO can work together to build, operate and maintain (or transfer) mini-grids, and in the process, builds the capacities of local enterprises to undertake such projects in future."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Located In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Private   Public   Partnerships",
+    "Relation": "Collaborates With",
+    "Object": "RESCO (Renewable Energy Service Company)",
+    "Description": "PPP projects are especially an enabler in unlocking private capital for financing renewable energy projects in rural sector. This model is particularly pertinent in mini-grid sector where DABS along with a local RESCO can work together to build, operate and maintain (or transfer) mini-grids, and in the process, builds the capacities of local enterprises to undertake such projects in future."
+  },
+  {
+    "Subject": "Solar Power Parks",
+    "Relation": "Enablers for",
+    "Object": "Roadmap"
+  },
+  {
+    "Subject": "Distribution Franchisee",
+    "Relation": "Enablers for",
+    "Object": "Roadmap",
+    "Description": "It is expected that Distribution Franchisee projects shall be implemented in urban and industrial areas of Afghanistan, although a modified version could be equally applicable for RESCO projects. Success factors and visibility of DF projects shall lead to greater proliferation of DF projects."
+  },
+  {
+    "Subject": "Roof-top solar",
+    "Relation": "Enablers for",
+    "Object": "Roadmap"
+  },
+  {
+    "Subject": "mini-grid and RESCO business model",
+    "Relation": "Enablers for",
+    "Object": "Roadmap"
+  },
+  {
+    "Subject": "microfinance supported stand-alone PV market",
+    "Relation": "Enablers for",
+    "Object": "Roadmap"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "COSTING AND FINANCING"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "Stage-Gate I"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "RE technologies"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "financial instruments"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "market type"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "mechanism"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "framework"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "technology"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "market"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "costs"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "Stage-Gate I"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "RE technologies"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "financial instruments"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "market type"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "mechanism"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "framework"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "technology"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "market"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "costs"
+  },
+  {
+    "Subject": "Middle East",
+    "Relation": "Located In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "India",
+    "Relation": "Is Similar To",
+    "Object": "Afghanistan",
+    "Description": "The logistics, market, and tax regime in India are similar to Afghanistan."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Integration into international RE market",
+    "Description": "Rapid progress towards integration into international RE market enabling country to benefit from regional economies of scale will lead to rapid cost reductions in the future."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Improved infrastructure",
+    "Description": "Rapid improvement in logistics costs due to improved infrastructure particularly towards sites for large utility-scale projects will lead to rapid cost reductions in the future."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Positive regulatory environment",
+    "Description": "Positive regulatory environment, established track record and significantly reduced Afghanistan risk premium will lead to rapid cost reductions in the future."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Reduction in taxes",
+    "Description": "A reduction in taxes, other supportive policies and an expanded market has the potential to drive costs down across both equipment and labour costs."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Expanded market",
+    "Description": "A reduction in taxes, other supportive policies and an expanded market has the potential to drive costs down across both equipment and labour costs."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Improved infrastructure",
+    "Description": "Rapid improvement in logistics costs due to improved infrastructure particularly towards sites for large utility-scale projects will lead to rapid cost reductions in the future."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Can Benefit From",
+    "Object": "Positive regulatory environment",
+    "Description": "Positive regulatory environment, established track record and significantly reduced Afghanistan risk premium will lead to rapid cost reductions in the future."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "Stage-Gate I target",
+    "Description": "The table below provides an indication of what costs might be based upon international benchmarks provided above to give an indication of the scale of investments required to reach the roadmap targets in Stage-Gate I."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Contains",
+    "Object": "Financing of Roadmap",
+    "Description": "This section outlines a framework to judge and put in place financing instruments appropriate to the roadmap targets."
+  },
+  {
+    "Subject": "Citizens Charter Program",
+    "Relation": "Funded By",
+    "Object": "Grants"
+  },
+  {
+    "Subject": "World Bank Group",
+    "Relation": "Funded By",
+    "Object": "Risk mitigating instruments"
+  },
+  {
+    "Subject": "Asian Development Bank",
+    "Relation": "Funded By",
+    "Object": "Risk mitigating instruments"
+  },
+  {
+    "Subject": "Green Climate Fund",
+    "Relation": "Funded By",
+    "Object": "Climate funds"
+  },
+  {
+    "Subject": "GCF",
+    "Relation": "Funded By",
+    "Object": "Climate funds"
+  },
+  {
+    "Subject": "Technology Centre and Network",
+    "Relation": "Provides Aid To",
+    "Object": "Climate funds",
+    "Description": "The Climate Technology Centre and Network (CTCN) and Poznan Technology Transfer mechanisms are designed for this purpose."
+  },
+  {
+    "Subject": "World Bank",
+    "Relation": "Provides Aid To",
+    "Object": "Afghanistan",
+    "Description": "Development organizations such as the World Bank provide risk mitigation instruments to reduce the subsidy demanded by the market and entice more private sector entrants."
+  },
+  {
+    "Subject": "ADB",
+    "Relation": "Provides Aid To",
+    "Object": "Afghanistan",
+    "Description": "Development organizations such as the ADB provide risk mitigation instruments to reduce the subsidy demanded by the market and entice more private sector entrants."
+  },
+  {
+    "Subject": "OPIC",
+    "Relation": "Provides Aid To",
+    "Object": "US",
+    "Description": "Development organizations such as OPIC provide risk mitigation instruments to reduce the subsidy demanded by the market and entice more private sector entrants. OPIC's mechanisms are in place to aid US businesses."
+  },
+  {
+    "Subject": "Global Environment Facility",
+    "Relation": "Provides Aid To",
+    "Object": "Afghanistan",
+    "Description": "Climate funds at this stage of market evolution should be targeted towards programs rather than individual projects. Larger funding packages such as those available from the GCF can build upon the proof points and lessons from the pilot programs commissioned during the market seeding stage to propose programmatic interventions."
+  },
+  {
+    "Subject": "Climate Investment Funds",
+    "Relation": "Provides Aid To",
+    "Object": "Afghanistan",
+    "Description": "Conceivably, the results from one climate-funded initiative can be used to apply for funding from another source; using a CTCN intervention for initial technology transfer and assistance, Global Environment Facility (GEF) or Climate Investment Funds (CIF) funds to build upon CTCN, and using these results to form the basis for a GCF proposal."
+  },
+  {
+    "Subject": "India",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "In mature markets, government mechanisms are formed (such as IREDA in India) that allow concessional finance funds (from government funds and institutions such as the ADB, World Bank and KfW) to be pooled and accessed by project developers."
+  },
+  {
+    "Subject": "Islamic Finance",
+    "Relation": "Aims To Achieve",
+    "Object": "Afghanistan",
+    "Description": "In the case of Afghanistan, it will also be necessary to align these instruments with Islamic Finance principles where required."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "During the market seeding stage, private sector developers face the risk of unknown natural resource potential at the site (which in turn can affect generation and revenue) as well as technical risks including the ability to connect and inject power into the grid."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Funded By",
+    "Object": "Grant Funding",
+    "Description": "At this stage, grant funding is useful to help locate suitable sites with natural resource potential and required infrastructure, and fund resource assessments, as well as for studies that demonstrate that generated power can be evacuated by the grid."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Funded By",
+    "Object": "Public Monies",
+    "Description": "During the market creation stage, initial technical viability has been established and the focus is on sustaining operations and revenue. In many instances, the cost of generating power is higher than that of other sources of grid supply (such as imported power from Central Asia) and the regulated prevailing user tariff. Public monies will then be required to fill this 'viability gap' between the unit cost of generating renewable energy for the developer and a per-unit revenue (tariff) realized by the utility."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Funded By",
+    "Object": "Public Monies",
+    "Description": "To reduce the overhead costs of development and limit the developers' risk to the extent possible to technical generation of power, public monies are also useful to develop 'Renewable Energy Parks' wherein suitable site selection, ancillary infrastructure and security are arranged for by the government."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Provides Aid To",
+    "Object": "Government",
+    "Description": "Technical assistance to the government to effectively manage private sector participants (such as the structuring of contracts and tariff mechanisms) is also useful to safeguard the interests of the government and consumers."
+  },
+  {
+    "Subject": "Utility Scale",
+    "Relation": "Funded By",
+    "Object": "Public Monies",
+    "Description": "Since the electricity is sold to one customer (the utility), the risks a private sector investor faces include default or non-payment on the part of the utility/government. As mentioned previously, instruments exist to insure the developer against non-payment by the government or defined political risks."
+  },
+  {
+    "Subject": "Central Asia",
+    "Relation": "Located In",
+    "Object": "Central Asia"
+  },
+  {
+    "Subject": "Islamic Finance",
+    "Relation": "Belongs To",
+    "Object": "Financing framework applied to the Stand-Alone market segment"
+  },
+  {
+    "Subject": "technology providers",
+    "Relation": "Collaborates With",
+    "Object": "microfinance / commercial finance institutions"
+  },
+  {
+    "Subject": "technology providers",
+    "Relation": "Collaborates With",
+    "Object": "government / multilateral development agencies"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Focuses On",
+    "Object": "developing standardized designs and business models"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "grant funding"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "technology transfer"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "community engagement and demand assessment"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "feasibility studies"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "certification and measurements of benefits"
+  },
+  {
+    "Subject": "market seeding stage",
+    "Relation": "Uses",
+    "Object": "capacity building"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "integration between government / international development partners, commercial banks, and technology providers"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "public funds"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "certification of equipment and vendors"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "concessional finance for microfinance / banking institutions"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "subsidies for affordable systems"
+  },
+  {
+    "Subject": "market creation stage",
+    "Relation": "Requires",
+    "Object": "stand-alone PV systems integration with finance"
+  },
+  {
+    "Subject": "market expansion stage",
+    "Relation": "Involves",
+    "Object": "local banks"
+  },
+  {
+    "Subject": "market expansion stage",
+    "Relation": "Involves",
+    "Object": "credit extension to systems providers"
+  },
+  {
+    "Subject": "market expansion stage",
+    "Relation": "Involves",
+    "Object": "credit facilities to consumers"
+  },
+  {
+    "Subject": "market expansion stage",
+    "Relation": "Requires",
+    "Object": "capacity building and concessional funding for commercial banks"
+  },
+  {
+    "Subject": "market expansion stage",
+    "Relation": "Requires",
+    "Object": "awareness building and funding subsidies"
+  },
+  {
+    "Subject": "Risk mitigation mechanisms",
+    "Relation": "Are Useful",
+    "Object": "in the later stage of market development"
+  },
+  {
+    "Subject": "Risk mitigation mechanisms",
+    "Relation": "Are Useful",
+    "Object": "for large private sector players seeking international commercial funding or insurance"
+  },
+  {
+    "Subject": "Risk mitigation mechanisms",
+    "Relation": "Are Useful",
+    "Object": "for political risk / expropriation guarantees"
+  },
+  {
+    "Subject": "financing strategy",
+    "Relation": "Incentivizes",
+    "Object": "private sector participation and investment"
+  },
+  {
+    "Subject": "financing strategy",
+    "Relation": "Assists",
+    "Object": "transition from a purely donor grant-driven reality to a vibrant competitive sector dominated by private sector led growth"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Implemented By",
+    "Object": "Afghanistan",
+    "Description": "The Renewable Energy Roadmap -RER2032- an output of this work, is a high level strategic plan that sets the pathways to achieve the intended objectives of RE sector development in Afghanistan. The RER2032 has set milestones, outlined tasks and prioritised actions."
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Monitors",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Updated By",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Contains",
+    "Object": "Roadmap tasks and priorities"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Contains",
+    "Object": "milestones, outlined tasks and prioritised actions"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Implemented By",
+    "Object": "Proponents",
+    "Description": "The 4Ps - Proponents, Projects and People- are considered at the core of the Roadmap implementation plan."
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Collaborates With",
+    "Object": "Proponents"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Collaborates With",
+    "Object": "legislative and regulatory authorities"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Collaborates With",
+    "Object": "private sector players"
+  },
+  {
+    "Subject": "Renewable Energy Roadmap",
+    "Relation": "Collaborates With",
+    "Object": "development partners, donors and civil society organisations"
+  },
+  {
+    "Subject": "Renewables energy project development organisation",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Renewables energy project development organisation is set up along the lines of AISA with overlapping functions to DABS to catalyse and foster growth of RET (solar and wind) based power parks, and IPPs in collaboration with private sector."
+  },
+  {
+    "Subject": "Renewables energy project development organisation",
+    "Relation": "Collaborates With",
+    "Object": "private sector",
+    "Description": "Renewables energy project development organisation would act as a single-window clearance for future IPPs."
+  },
+  {
+    "Subject": "Rural electrification agency",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Rural electrification agency is set up along the lines of DABS, but would set up generation and distribution of electricity in rural areas only. It shall support local enterprises as RESCO as distribution franchisees of DABS and serve to minimize risk to private sector\u2019s engagement in rural electrification."
+  },
+  {
+    "Subject": "Rural electrification agency",
+    "Relation": "Collaborates With",
+    "Object": "ministries and departments",
+    "Description": "Rural electrification agency shall work in close collaboration with ministries and departments serving rural population and requiring energy services."
+  },
+  {
+    "Subject": "Financing institution for clean energy sector",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Financing institution for clean energy sector is a dedicated and empowered institution to finance renewable energy and energy efficiency projects. It shall provide debt and equity to project promoters and developers and can also extend financial support by way of conditional grants and last-stage equity that can provide viability-gap financing."
+  },
+  {
+    "Subject": "Financing institution for clean energy sector",
+    "Relation": "Collaborates With",
+    "Object": "government Ministries"
+  },
+  {
+    "Subject": "Infrastructure Development Company Limited",
+    "Relation": "Operates In",
+    "Object": "Bangladesh",
+    "Description": "Infrastructure Development Company Limited (IDCOL) is a good example from the region that has served the purposes as described above."
+  },
+  {
+    "Subject": "Indian Renewable Energy Development Agency",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "Indian Renewable Energy Development Agency (IREDA) is a good example from the region that has served the purposes as described above."
+  },
+  {
+    "Subject": "Solar Energy Corporation of India",
+    "Relation": "Operates In",
+    "Object": "India",
+    "Description": "Solar Energy Corporation of India (SECI) is a good example from the region that has served the purposes as described above."
+  },
+  {
+    "Subject": "Alternate Energy Promotion Centre",
+    "Relation": "Operates In",
+    "Object": "Nepal",
+    "Description": "Alternate Energy Promotion Centre (AEPC) is a good example from the region that has served the purposes as described above."
+  },
+  {
+    "Subject": "Renewables energy project development organisation",
+    "Relation": "Collaborates With",
+    "Object": "private sector"
+  },
+  {
+    "Subject": "Energy Development Agency",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Kabul roof-top solar",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Kabul roof-top solar pilot project will seed this market for Afghanistan"
+  },
+  {
+    "Subject": "RE atlas",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "A national-level initiative that could build upon the RE database and provide both a national strategic overview of RE deployment and link to project-level monitoring; thus, providing insights on new development opportunities and overall RE roadmap progress."
+  },
+  {
+    "Subject": "Pilot scale Geothermal",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Geothermal resource assessment linked where viable to pilot geothermal projects (either direct heat or electricity) to catalyze activity"
+  },
+  {
+    "Subject": "Pilot scale REEEP project",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "This pilot scale project to integrate RE with energy efficiency measures in the commercial and industrial sector shall improve the viability and acceptance of RETs"
+  },
+  {
+    "Subject": "Daikundi Mini-grid",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "This project will help in standardizing mini-grid designs and business models"
+  },
+  {
+    "Subject": "Hisar-e-Shahi industrial park solar project",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Strategically important project for industrial development that forms the backbone of Afghan economy"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Aims To Achieve",
+    "Object": "energy security"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Aims To Achieve",
+    "Object": "energy access"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Aims To Achieve",
+    "Object": "socio-economic growth"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Has Broader Impacts"
+  },
+  {
+    "Subject": "Wei",
+    "Relation": "Provides Employment To",
+    "Object": "RE sector"
+  },
+  {
+    "Subject": "RE sector",
+    "Relation": "Creates",
+    "Object": "jobs"
+  },
+  {
+    "Subject": "RE sector",
+    "Relation": "Creates",
+    "Object": "livelihood opportunities"
+  },
+  {
+    "Subject": "RE sector",
+    "Relation": "Creates",
+    "Object": "infrastructure"
+  },
+  {
+    "Subject": "RE sector",
+    "Relation": "Strengthens",
+    "Object": "existing infrastructure"
+  },
+  {
+    "Subject": "RE projects",
+    "Relation": "Facilitates",
+    "Object": "movement of industries"
+  },
+  {
+    "Subject": "Afghanistan Chambers of Commerce",
+    "Relation": "Indicated",
+    "Object": "energy shortage",
+    "Description": "Afghanistan Chambers of Commerce in their Business Monitor indicated energy shortage as the major bottleneck (88%) in the development of industries."
+  },
+  {
+    "Subject": "Industrial parks",
+    "Relation": "Would Benefit From",
+    "Object": "reliable electricity supply",
+    "Description": "Industrial parks such as the ones in Hisar-e-Shahi would also benefit greatly from reliable electricity supply, as having such a source would help them lower their overhead costs and hence create goods at a lower price."
+  },
+  {
+    "Subject": "Energy access",
+    "Relation": "Would Catalyze",
+    "Object": "setting up Rural Economic Zones",
+    "Description": "Finally, energy access would catalyze setting up Rural Economic Zones \u2013 or rural business hubs including a market for agri produce and inputs, repair and maintenance services and farm based enterprises such as processing plants and units."
+  },
+  {
+    "Subject": "Hospitals and schools",
+    "Relation": "Dependent Upon",
+    "Object": "provision of electricity and thermal energy",
+    "Description": "On the social side, creation and operation of hospitals and schools are strongly dependent upon provision of electricity and thermal energy."
+  },
+  {
+    "Subject": "Improved electricity access",
+    "Relation": "Would Impact",
+    "Object": "farming structure, cropping patterns and behavior",
+    "Description": "Improved electricity access would impact the farming structure, cropping patterns and behavior, due to better irrigation. This would lead to better farm incomes, and better agricultural services."
+  },
+  {
+    "Subject": "Financial services",
+    "Relation": "Could Be Developed",
+    "Object": "more easily",
+    "Description": "Financial services, especially microfinances, could be developed more easily. They would be both a giver and a recipient of the benefits provided by energy access."
+  },
+  {
+    "Subject": "Labour markets",
+    "Relation": "Would Improve",
+    "Object": "employment by sector and gender",
+    "Description": "Labour markets: The employment by sector and gender would also improve with expansion in the farming and services sectors."
+  },
+  {
+    "Subject": "RE projects",
+    "Relation": "Require",
+    "Object": "local manufacturing of auxiliary as well as main components and equipment",
+    "Description": "Setting up RE projects would require local manufacturing of auxiliary as well as main components and equipment in Afghanistan."
+  },
+  {
+    "Subject": "RE supply chain",
+    "Relation": "Would Benefit",
+    "Object": "other sectors",
+    "Description": "RE supply chain, once created, will benefit other sectors as well."
+  },
+  {
+    "Subject": "Co-ordinated planning and budgeting",
+    "Relation": "Is A Requisite For",
+    "Object": "implementing the Roadmap",
+    "Description": "One of the re-requisites for implementing the Roadmap is to inculcate a practice of co-ordinated planning and budgeting across various government departments."
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "Coordinated Planning and Budgeting With",
+    "Object": "Other Ministries",
+    "Description": "Coordinated planning and budgeting of resources across various departments within the MEW and also with other Ministries"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Ranked As",
+    "Object": "Most Vulnerable Country",
+    "Description": "Afghanistan is ranked as the most vulnerable country in the world according to the Global Adaptation Index 2012"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Dependence On",
+    "Object": "Subsistence Agriculture",
+    "Description": "The negative effects of climate change are likely to be most severely felt by the poor and marginalized in Afghanistan due to their high dependence on subsistence agriculture"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Dependence On",
+    "Object": "Conventional Fuels",
+    "Description": "The deployment of RE as per the Roadmap will reduce the dependence of communities in Afghanistan on conventional fuels such as kerosene, diesel, and biomass"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Has One Of The Lowest",
+    "Object": "Per-Capita Carbon Emissions",
+    "Description": "Afghanistan currently has one of the lowest per-capita carbon emissions in the world"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Power Generation Capacity Would Reach",
+    "Object": "850 MW",
+    "Description": "According to the Roadmap, Afghanistan's power generation capacity from domestic RE resources would reach 850 MW by the end of Stage 1"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Could Potentially Replace",
+    "Object": "40% of Imports",
+    "Description": "Afghanistan's power generation capacity from domestic RE resources would potentially replace around 40% of imports at the current levels"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "Could Be",
+    "Object": "Net Energy Supplier",
+    "Description": "The decreasing prices of renewables and their increased generation could be an opportunity for Afghanistan to be a net energy supplier in the long term"
+  },
+  {
+    "Subject": "government",
+    "Relation": "Provides Aid To",
+    "Object": "private sector developers",
+    "Description": "The government can provide finance to private sector developers for renewable energy development."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Provides Aid To",
+    "Object": "project developers",
+    "Description": "The government can provide finance to project developers for renewable energy development."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Provides Aid To",
+    "Object": "development agencies",
+    "Description": "The government can accept concessional finance from development agencies and lend it to project developers."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Provides Aid To",
+    "Object": "project developers",
+    "Description": "The government can take an equity stake in project developers instead of providing debt finance."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Supports",
+    "Object": "renewable energy targets",
+    "Description": "The government can commit to renewable energy targets through mechanisms such as renewable purchase obligations."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Supports",
+    "Object": "renewable energy targets",
+    "Description": "Renewable purchase obligations compel government agencies and large consumers to source a certain percentage of their power from renewable sources."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Supports",
+    "Object": "risk guarantee instruments",
+    "Description": "The government can use risk guarantee instruments to insure against political risk or non-performance by utilities."
+  },
+  {
+    "Subject": "government",
+    "Relation": "Supports",
+    "Object": "risk guarantee instruments",
+    "Description": "International development agencies can facilitate access to commercial insurance for risk guarantee instruments."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "The Roadmap recommends business models for renewable energy projects in Afghanistan."
+  },
+  {
+    "Subject": "Renewable Energy Service Company",
+    "Relation": "Linked To",
+    "Object": "Roadmap",
+    "Description": "RESCO (Renewable Energy Service Company) is one of the business models recommended by the Roadmap for renewable energy projects in Afghanistan."
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Central Asian"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "West Asian"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "South Asian"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Tajikistan"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Turkmenistan"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "India"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Pakistan"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Nepal"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "ECO"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "SAARC"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Green Climate Funds"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Global Environment Facility"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Scaling up Renewable Energy Programme"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "International Renewable Energy Agency"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "IRENA"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "ISA"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "GoIRA"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "International Solar Alliance"
+  },
+  {
+    "Subject": "Roadmap",
+    "Relation": "Operates In",
+    "Object": "Afghanistan"
+  }
+]

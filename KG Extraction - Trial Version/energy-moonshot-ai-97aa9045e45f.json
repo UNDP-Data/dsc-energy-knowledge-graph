@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "energy-moonshot-ai",
+  "private_key_id": "97aa9045e45f7550430bf84013c2018501fa867d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC66ziZJRu59I5p\nKvvWyprnMyyh7TLj61Q5VqynsOvJHEEW8nrYhXiSyM4pvR08/V8/gL+tZIjFXTuR\nQTfg6tiaOwM7c7AbEVXzfY6Lmn2sYy1nzj1KJCCkqgCgTqXQ7qt93Bpjt1pGFqqT\nuBpOh8pN9K5Owt/1QDUH/FrWuDH1Ur1SqUB3R6RJSp+nETEUfmWWZM0StNkuFxHu\nsSeqGcAzkrr+VDbI8egE03UwIUUhEZu1m6x/KBw+2vuLH2XhKD/PSJJLGelD9PHu\nBgXcBr3du+FMu7HsD5vtHQNMiMBE0KJMsForW0sWo3V2DA+9a6If0hK0o2F3pp5v\nvREfmCOrAgMBAAECggEAA2q1WCdTgGy2BbohbGW7uyo2UKdzXLM6kOnCsjYLuVto\n3TCFilu2PoipLB4m4KyJBzIlTtgdn+36XsdgbB4e44LcpkORHo2Mkqzi5C5oybPu\nao1clXRfnGL3K/cEFPOn8t8JJHV/kvRrHdQptvHIgvBMF2h8i5Em5wR37KDlWOSo\nTRSuBvuKREPLjw642kLEQv1KiUR45pIM3onBq0l58TbRU5Ds6KWPYw+sXPeB49yU\ngeKyf6RswEnBDiFzXtwHeSUvlTWHNbFsOjdfuID5XXSmA758TJO0we9kjgenlJFA\nUHl4jZZ4WEe7AR/yfdqv0P9aRV4mfyiVMOQZvTB8AQKBgQDhP9TZJKqyoEHY++Bm\nR7ZWv8ES6JqfmdRwADOttmbBGbNZUoZOxLBYFMFhvXmUOvHzgnsZDR97mVWJFpK4\nAmVYpaJFA2lx14gajzOc67AcVpGkEEacgPs9ufcUsJhMjPVHEcxlgkQAXhnD49D/\neHap901DoQGy/Ua+KbYgy4JcqwKBgQDUb8no5AOs5NqoJIGWBbRJcQTX9iyQ+BBS\nUDnn/iOP1cHG4L7YuO/s+T8S4jqGuSX9JgxoNSYIWOmYFthujUKeQd6PcHr0YnXV\nT4V+wuNERH2w+NMZCaLTzkEt/A4GQwE0Zayar0h0cZOtHVpYHIgO4Hgk029HoJui\naoF2P/NVAQKBgQCpgibEjmJi8FT9XHc/oUHnwIAkoaUS7GnBK3W4iWaEdLnSQ1dN\nWZk3f88TpcojscQ4s329mXGSyw5ijvk0vqDT+DnIY8vrXv5Otmtp8Lfka4VIiPMK\nfcoUZqk5CbhjC0TeCdfeoAxalnYfQ4cZaecq+y9K8JRdxVqCatNjlKLy5wKBgET6\nh3U3lHnvVZCDShCMiZ3PNONq682mvqX7ptHNk36Aygrprw5v/nfT9scK7jYQqGUq\nlZzApTjQpgjcYiqDc74vZTTuMP5pehlpWM9wOJtSIf30zZazqktcDY4A6gzedOWu\nnf0cLUqiFnF/tnYlzYgHGvvaK6f2XpK+QotC+KABAoGAZQ7p+eiGPWuq1QR7MZhq\nkAhUhmf+dEsI/W/HFFTinrJsMArWewWE+3xkkgeqUMjDyLvvju/trgZI0+yCaMp0\nsmm+bw/iz7vAAe7zRcW72NZV4UnVrNZq9DPqUb3mysgFxVulk7t/dfBC1df3Qxnu\njkHWno1SVlGzEnnR4gBlhD0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kg-relations@energy-moonshot-ai.iam.gserviceaccount.com",
+  "client_id": "114768605207343612691",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kg-relations%40energy-moonshot-ai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
