@@ -1,0 +1,1275 @@
+[
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "The Energy Sector Strategy addresses the energy sector in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "employs",
+    "Object": "AKBN",
+    "Description": "The Energy Sector Strategy employs AKBN.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "employs",
+    "Object": "KESH",
+    "Description": "The Energy Sector Strategy employs KESH.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "employs",
+    "Object": "ALBPETROL",
+    "Description": "The Energy Sector Strategy employs ALBPETROL.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "employs",
+    "Object": "ARMO",
+    "Description": "The Energy Sector Strategy employs ARMO.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Sector Strategy",
+    "Relation": "employs",
+    "Object": "ALBGAS",
+    "Description": "The Energy Sector Strategy employs ALBGAS.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "OSHEE",
+    "Description": "The Ministry of Infrastructure and Energy partners with OSHEE.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "OST",
+    "Description": "The Ministry of Infrastructure and Energy partners with OST.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "ALBGAS",
+    "Description": "The Ministry of Infrastructure and Energy partners with ALBGAS.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "ALBPETROL",
+    "Description": "The Ministry of Infrastructure and Energy partners with ALBPETROL.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "ARMO",
+    "Description": "The Ministry of Infrastructure and Energy partners with ARMO.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "KESH",
+    "Description": "The Ministry of Infrastructure and Energy partners with KESH.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "AKBN",
+    "Description": "The Ministry of Infrastructure and Energy partners with AKBN.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albanian Government",
+    "Object": "Electricity Market Model",
+    "Description": "For the Power Sector, the discussions included the Electricity Market Model, creating an Agency for Energy Efficiency, developing an Energy Efficiency Fund in accordance with the Energy Efficiency Law, and other priorities such as the development of secondary legislation for implementing the Power Sector, Oil & Natural Gas, RES and EPB Laws.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albanian Government",
+    "Object": "Agency for Energy Efficiency",
+    "Description": "For the Power Sector, the discussions included the Electricity Market Model, creating an Agency for Energy Efficiency, developing an Energy Efficiency Fund in accordance with the Energy Efficiency Law, and other priorities such as the development of secondary legislation for implementing the Power Sector, Oil & Natural Gas, RES and EPB Laws.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albanian Government",
+    "Object": "Energy Efficiency Fund",
+    "Description": "For the Power Sector, the discussions included the Electricity Market Model, creating an Agency for Energy Efficiency, developing an Energy Efficiency Fund in accordance with the Energy Efficiency Law, and other priorities such as the development of secondary legislation for implementing the Power Sector, Oil & Natural Gas, RES and EPB Laws.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "in",
+    "Subject": "Berlin Process",
+    "Object": "Western Balkans",
+    "Description": "The Berlin Process is an intergovernmental cooperation initiative aimed at revitalizing the multilateral ties between the Western Balkans and selected EU member states, and at improving regional cooperation in the Western Balkans on the issues of",
+    "Relevance": 7
+  },
+  {
+    "Subject": "KESh",
+    "Relation": "administers",
+    "Object": "Albania",
+    "Description": "The assessment of the potential for integration into the regional/EU energy market was based on research into regional market plans and discussions with local experts regarding the Albania\u2019s competitive position in these markets.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Energy Efficiency Law No. 124 / 2015",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Law No. 68 / 2012 \u201c On Information of the Consumption of Energy and Other Resources by Energy - Related Products \u201d",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "EU Acquis",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Natural Gas Sector Law No. 102 / 2015",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Law on Energy Performance of Buildings No. 116",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Power Sector Law No. 43 / 2015",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "National Action Plans for Energy Efficiency",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Renewable Energy Sources Law No. 8 / 2017",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "EU",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "ERE",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "Albanian Government",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "EC Treaty",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Third Energy Package",
+    "Description": "working to fulfill their commitments to implement the Third Energy Package",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "Eastern European",
+    "Description": "Albania is located in Eastern European region.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "Central",
+    "Description": "Albania is located in Central region.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "aligns_with",
+    "Subject": "Energy Strategy",
+    "Object": "EU",
+    "Description": "In line with its obligations under the Energy Community and as part of Albania\u2019s strategic objective to accede to the EU, the Government has worked to align its legislation with the legal framework of the EU",
+    "Relevance": 8
+  },
+  {
+    "Relation": "aligns_with",
+    "Subject": "Power Sector Law",
+    "Object": "EU",
+    "Description": "In line with the EU legislation and the EC Treaty, the Albanian Government has developed and adopted the respective National Action Plans for Energy Efficiency and RES",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Energy Strategy",
+    "Relation": "implements",
+    "Object": "Energy Sector Strategy",
+    "Description": "The Energy Strategy for Albania 2017-2030 is the core strategic document for the country\u2019s energy sector.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Natural Gas Promotion",
+    "Description": "Assumes maximum possible penetration of natural gas in line with the Gas Master Plan.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Baseline",
+    "Object": "Albania",
+    "Description": "The recommended development scenario has the potential to achieve the following results, which in many cases exceed the commitments made by the country"
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Baseline",
+    "Object": "Kosovo",
+    "Description": "The recommended development scenario has the potential to achieve the following results, which in many cases exceed the commitments made by the country"
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "signed the Paris Agreement on the 22nd of April 2016 in New York",
+    "Object": "Paris Agreement",
+    "Description": "Albania has signed the Paris Agreement on the 22nd of April 2016 in New York",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "joined the Kyoto Protocol in 2005",
+    "Object": "Kyoto Protocol",
+    "Description": "Albania joined the Kyoto Protocol in 2005",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "submitted its National Determined Contribution within the Paris Agreement process in September 2015",
+    "Object": "National Determined Contribution",
+    "Description": "Albania has submitted its National Determined Contribution within the Paris Agreement process in September 2015",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Determined Contribution",
+    "Relation": "reviewed and further elaborated upon in the Integrated Energy and Climate Plan",
+    "Object": "Integrated Energy and Climate Plan",
+    "Description": "The level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018",
+    "Relevance": 8
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Baseline",
+    "Object": "Albania",
+    "Description": "The Baseline scenario serves as the reference for comparing each of the energy strategy scenarios that will look to accomplish specific policy goals.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Baseline",
+    "Object": "Baseline EE Gas Promotion RES Albania",
+    "Description": "The Baseline scenario supports the Baseline EE Gas Promotion RES Albania project.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "Gas Promotion",
+    "Object": "Albania",
+    "Description": "The Gas Promotion strategy focuses on promoting gas usage in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "increase",
+    "Subject": "Final Energy Consumption",
+    "Object": "Baseline scenario",
+    "Description": "The Baseline scenario shows that the Final Energy Consumption will increase to 3,868 ktoe.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Energy Sector Strategy",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Energy Sector Strategy is supported by the Ministry of Infrastructure and Energy.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "collaborates_with",
+    "Subject": "KESh",
+    "Object": "USAID",
+    "Description": "This Working Group coordinated the process for drafting the National Strategy for the Energy Sector and was closely supported by USAID with technical expertise from USAID\u2019s strategic team, composed of leading experts in the fields of electricity, oil and gas, renewables, energy efficiency and strategic energy planning.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "USAID",
+    "Object": "EC-LEDS",
+    "Description": "The USAID\u2019s technical assistance was provided in the framework of the regional program \u201cEnhancing Capacity for Low Emissions Development Strategies (EC-LEDS)",
+    "Relevance": 7
+  },
+  {
+    "Relation": "aligns_with",
+    "Subject": "National Strategy for Development and Integration",
+    "Object": "Energy Strategy",
+    "Description": "The principles guiding the development of this strategy are fully in line with the principles of the Second National Strategy for Development and Integration, and their goals are to increase the security of energy supply while ensuring sustainable development and providing affordable energy costs for Albanian citizens and the economy.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Third Energy Package",
+    "Description": "working to fulfill their commitments to implement the Third Energy Package",
+    "Relevance": 8
+  },
+  {
+    "Relation": "certified",
+    "Subject": "Albania",
+    "Object": "TAP AG",
+    "Description": "certified under Third Energy Package procedures",
+    "Relevance": 7
+  },
+  {
+    "Relation": "certified",
+    "Subject": "ERE",
+    "Object": "Albgaz",
+    "Description": "certified the second gas transmission system operator",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "Power Sector Priorities and Actions - 2 Authority",
+    "Object": "Albania",
+    "Description": "The Power Sector Priorities and Actions - 2 Authority is in Albania.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "National Energy Efficiency Action Plan",
+    "Object": "Albania",
+    "Description": "The National Energy Efficiency Action Plan is in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "RES Law",
+    "Object": "Albania",
+    "Description": "The RES Law is in Albania.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "in",
+    "Subject": "Agency of Efficiency",
+    "Object": "Albania",
+    "Description": "The Agency of Efficiency is in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "OST",
+    "Object": "Albania",
+    "Description": "The OST is in Albania.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "in",
+    "Subject": "ERE",
+    "Object": "Albania",
+    "Description": "The ERE is in Albania.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "National Environment Agency",
+    "Object": "Law on Energy Performance of Buildings",
+    "Description": "developing secondary legislation and regulations for implementing the Law on Energy Performance of Buildings",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "National Environment Agency",
+    "Object": "Law on Energy Efficiency",
+    "Description": "developing secondary legislation and regulations for implementing the Law on Energy Efficiency",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "National Territorial Planning Agency",
+    "Object": "Power Sector Law",
+    "Description": "amending the Power Sector Law",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "Law on Energy Efficiency"
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "Law on Energy Performance in Buildings"
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "Albanian National Renewable Energy Action Plan"
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "European Union"
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Albania",
+    "Object": "Energy Strategy",
+    "Description": "The Energy Strategy addresses new laws, regulations and institutional reforms currently underway in Albania, including incentives for EE and RES, electricity tariff reform, market development and integration with EU and regional markets.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "signed",
+    "Subject": "Albania",
+    "Object": "Paris Agreement",
+    "Description": "signed the Paris Agreement on the 22nd of April 2016 in New York",
+    "Relevance": 10
+  },
+  {
+    "Relation": "joined",
+    "Subject": "Albania",
+    "Object": "Kyoto Protocol",
+    "Description": "joined the Kyoto Protocol in 2005",
+    "Relevance": 8
+  },
+  {
+    "Relation": "submitted",
+    "Subject": "Albania",
+    "Object": "National Determined Contribution",
+    "Description": "submitted its National Determined Contribution within the Paris Agreement process in September 2015",
+    "Relevance": 9
+  },
+  {
+    "Relation": "reviewed",
+    "Subject": "National Determined Contribution",
+    "Object": "Integrated Energy and Climate Plan",
+    "Description": "level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018",
+    "Relevance": 8
+  },
+  {
+    "Relation": "contributes_to",
+    "Subject": "National Determined Contribution",
+    "Object": "Integrated Energy and Climate Plan",
+    "Description": "The level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "shows",
+    "Subject": "Final Energy Consumption",
+    "Object": "Albania",
+    "Description": "The Baseline scenario shows that the Final Energy Consumption will increase to 3,868 ktoe",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "EU",
+    "Description": "candidate country in accession to the EU",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albanian Government",
+    "Object": "Market Model",
+    "Description": "A new Electricity Market Model (\u201cMarket Model\u201d) for Albania was approved by the Council of Ministers in July 2016 and sets out changes to the electricity sector that would see a move away from the regulated market arrangements that have until now been in place, towards more liberalized trading arrangements.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "in",
+    "Subject": "KESh",
+    "Object": "OShEE",
+    "Description": "There is currently a bilateral agreement in place between KESh and OShEE that governs supply of power to OShEE.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "KESh",
+    "Object": "OShEE",
+    "Description": "Once implemented successfully and accompanied by cost-reflective network and market access tariffs, the new Market Model should facilitate improved competition, first in the wholesale market, and then in the retail market.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "KESh",
+    "Object": "OShEE",
+    "Description": "An overview of the commercial relationships in place on implementation of the Market Model is presented in the schematic in Figure 11.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "employs",
+    "Subject": "KESh",
+    "Object": "OShEE",
+    "Description": "The implications of the Market Model are taken into account in setting out the roles of key power sector institutions.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "supports",
+    "Subject": "KESh",
+    "Object": "OShEE",
+    "Description": "The most important actions and reforms that are required to implement the Market Model can be summarized as follows: OST, in consultation with other market participants including ERE, is to continue work to finalize the market rules for implementing the new Market Model.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Market Model",
+    "Object": "APE"
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "Board of Trustees",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law sets out clearly the types of projects that the Fund can be used to finance:",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The EE Law mandates the setting up of an Energy Efficiency Fund that shall be managed by a Board of Trustees composed by representatives of different public institutions.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "funds",
+    "Subject": "Energy Efficiency Fund",
+    "Object": "EE Law",
+    "Description": "The Energy Efficiency Fund shall be financed through agreements with donors, and shall be established and operated as an independent public entity.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Agency of Efficiency",
+    "Object": "National Energy Efficiency Action Plan",
+    "Description": "Ensure approval of the updated National Energy Efficiency Action Plan, and update this document every three years.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "AKBN",
+    "Object": "RESAP",
+    "Description": "Specifically, responsibility for preparing plans for the implementation and monitoring of the NEEAP is likely to move to the Agency for EE and AKBN will be focus more towards RESAP.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "AKBN",
+    "Object": "RESAP",
+    "Description": "AKBN will be focus more towards RESAP.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "monitors",
+    "Subject": "AKPT",
+    "Object": "MUD",
+    "Description": "AKPT is responsible for preparation and coordination of the national planning instruments.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "KESH",
+    "Object": "Albania",
+    "Description": "KESH was established as a state-owned company in Albania",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "OST",
+    "Object": "Albania",
+    "Description": "OST is the Transmission System Operator in Albania",
+    "Relevance": 9
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "Greece",
+    "Description": "Albania is connected to Greece",
+    "Relevance": 8
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "Italy",
+    "Description": "Albania is connected to Italy",
+    "Relevance": 8
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "ALBPETROL",
+    "Object": "Government",
+    "Description": "ALBPETROL holds Production Sharing Agreements (PSA) with the Government",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "ALBPETROL",
+    "Object": "Albania",
+    "Description": "ALBPETROL operates in Albania",
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Bankers Petroleum",
+    "Object": "Government",
+    "Description": "Bankers Petroleum partners with the Government",
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Continental Oil and Gas",
+    "Object": "Government",
+    "Description": "Continental Oil and Gas partners with the Government",
+    "Relevance": 5
+  },
+  {
+    "Relation": "employs",
+    "Subject": "ALBPETROL",
+    "Object": "Albanian Government",
+    "Description": "ALBPETROL employs the Albanian Government",
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albgaz Sh.a",
+    "Object": "Government",
+    "Description": "Albgaz Sh.a is a joint stock company that has been incorporated, stocks fully owned by the Albanian State, with the functions of a combined gas transmission and distribution system operator in the Republic of Albania.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Government",
+    "Object": "OST",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Government",
+    "Object": "OSHEE",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Government",
+    "Object": "KESH",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "EU",
+    "Description": "As part of the transition required to join the EU",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "ERE",
+    "Object": "TAP AG",
+    "Description": "certified TAP AG pursuant to the tailor-made independent Transmission Operator (ITO) model elaborated under the Final Joint Opinion of the Energy Regulators on TAP\u2019s exemption application in February 2016.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "ERE",
+    "Object": "AlbGaz",
+    "Description": "certified AlbGaz as a Combined Operator of natural gas",
+    "Relevance": 7
+  },
+  {
+    "Subject": "MIE",
+    "Relation": "administers",
+    "Object": "Directorate of Policies and Strategies of Industry and Energy",
+    "Description": "MIE, through the Directorate of Policies and Strategies of Industry and Energy and the Directorate of Development Programs of Industry and Energy needs to develop and consolidate the specific roles and functions of oil and gas sector organization complying with the international best practices.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "MIE",
+    "Relation": "administers",
+    "Object": "Directorate of Development Programs of Industry and Energy",
+    "Description": "MIE, through the Directorate of Policies and Strategies of Industry and Energy and the Directorate of Development Programs of Industry and Energy needs to develop and consolidate the specific roles and functions of oil and gas sector organization complying with the international best practices.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Directorate of Policies and Strategies of Industry and Energy",
+    "Relation": "provides_direction_and_supervision_to",
+    "Object": "ALBPETROL",
+    "Description": "The Directorate of Policies and Strategies of Industry and Energy should in addition, provide direction and supervision to the management of two public companies, ALBPETROL and ARMO.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directorate of Policies and Strategies of Industry and Energy",
+    "Relation": "provides_direction_and_supervision_to",
+    "Object": "ARMO",
+    "Description": "The Directorate of Policies and Strategies of Industry and Energy should in addition, provide direction and supervision to the management of two public companies, ALBPETROL and ARMO.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Object": "AKBN",
+    "Description": "based on the declared figures of Ministry of Infrastructure and Energy as well as AKBN",
+    "Relevance": 8
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "ALBGAZ Company",
+    "Object": "TAP AG",
+    "Description": "ALBGAZ Company includes the possibility of cooperation with foreign companies currently operating in Albania, such as TAP AG",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "ARMO sh.a.",
+    "Object": "Albania",
+    "Description": null,
+    "Relevance": 5
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "MIE",
+    "Object": "AKBN",
+    "Description": "Internal discussions within MIE should focus on increasing the professional expertise of the AKBN as the basis for the Technical Department, with contributions from the Contract negotiations unit as well",
+    "Relevance": 8
+  },
+  {
+    "Relation": "funds",
+    "Subject": "EE Fund",
+    "Object": "Government",
+    "Description": "Government will try to get loans on favorable terms from IFIs like the World Bank, foreign financial institutions such as Climate Change Fund, WB, KfW, EBRD and the EIB, and bilateral donors for securing the initial EE Fund budget.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "funds",
+    "Subject": "EE Fund",
+    "Object": "State Budget",
+    "Description": "The EE Fund will secure an initial fund from the State Budget based on the State Budget Law.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "employs",
+    "Subject": "EE Fund",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "Ministry of Infrastructure and Energy will carry out a feasibility study for defining the amount of the expenses for the yearly operation of the fund and also covering the pilot projects carried out in the different sectors.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "administers",
+    "Subject": "EE Fund",
+    "Object": "Energy Efficiency Law",
+    "Description": "Based on the new Energy Efficiency Law, the Government plans to establish soon an Energy Efficiency Fund, which shall function as a legal entity, having the status of a non-profit organization.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "governed_by",
+    "Subject": "EE Fund",
+    "Object": "Board of Trustees",
+    "Description": "The Energy Efficiency Fund shall be governed by a Board of Trustees with members representing MIE and other Ministries engaged in the improvement of energy efficiency in the areas under their responsibility.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Fund",
+    "Relation": "promotes",
+    "Object": "Fund",
+    "Description": "Prepare promotion of the Fund among target groups to bring together all potential partner organizations (commercial banks, project developers, clients-investors) that may wish to cooperate with or capitalize the Fund in future.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Government",
+    "Object": "ESCOs",
+    "Description": "and the Government support to ESCOs",
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "ERE",
+    "Object": "Government",
+    "Description": "The Government will work with ERE to develop a joint plan to carry out the reforms.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Government",
+    "Object": "ERE",
+    "Description": "At present Government and ERE do not have a comprehensive financial model to help inform decisions regarding the entire electricity sector. Government should create one interconnected model that connects the accounting structures of the three publicly owned utilities so that the overall financial implications of tariff and other regulatory and financial decisions can be evaluated quickly and easily.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Greece",
+    "Object": "Coordinated Auction Office of South East Europe",
+    "Description": "The Government will seek to define the criteria in a transparent manner."
+  },
+  {
+    "Relation": "in",
+    "Subject": "Macedonia",
+    "Object": "Coordinated Auction Office of South East Europe",
+    "Description": "The Government will seek to define the criteria in a transparent manner."
+  },
+  {
+    "Relation": "in",
+    "Subject": "Kosovo",
+    "Object": "Coordinated Auction Office of South East Europe",
+    "Description": "The Government will seek to define the criteria in a transparent manner."
+  },
+  {
+    "Relation": "in",
+    "Subject": "Bulgaria",
+    "Object": "Coordinated Auction Office of South East Europe",
+    "Description": "The Government will seek to define the criteria in a transparent manner."
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WB 6 Memorandum of Understanding",
+    "Object": "Turkey",
+    "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WB 6 Memorandum of Understanding",
+    "Object": "Macedonia",
+    "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WB 6 Memorandum of Understanding",
+    "Object": "Kosovo",
+    "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WB 6 Memorandum of Understanding",
+    "Object": "Bulgaria",
+    "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WB 6 Memorandum of Understanding",
+    "Object": "Greece",
+    "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "develop",
+    "Object": "OSHEE",
+    "Description": "Requirement from ERE and government for OSHEE to develop performance improvement plan to reduce losses and increase cash collection",
+    "Relevance": 8
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "permit",
+    "Object": "KESH",
+    "Description": "Permit higher returns for KESH",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Government",
+    "Relation": "reschedule",
+    "Object": "ERE",
+    "Description": "Reschedule submissions to regulator",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Government",
+    "Relation": "jointly",
+    "Object": "ERE",
+    "Description": "Reschedule submissions to regulator",
+    "Relevance": 5
+  },
+  {
+    "Subject": "RES Law",
+    "Relation": "requires",
+    "Object": "Council of Ministers",
+    "Description": "The new RES Law requires the Council of Ministers to approve, based on the proposal of ERE, the methodology for establishing the support schemes for Priority Producers of SHPPs, PvPPs, WPPs, BioGas PPs.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Albania",
+    "Object": "SHPPs",
+    "Description": "Support schemes for SHPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Albania",
+    "Object": "WPPs",
+    "Description": "Support schemes for WPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "WPPs",
+    "Object": "Albania",
+    "Description": "Support schemes for WPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "WACC",
+    "Relation": "consider in the calculation of FiT for RES",
+    "Object": "Weighted Average Capital Cost",
+    "Description": "WACC should be at least 15-16%.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "aligns_with",
+    "Object": "EU",
+    "Description": "In line with its commitments under the Energy Community acquis and as part of its strategic objective to accede to the EU, the Government of Albania has worked to align its legislation with the legal framework of the EU.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "EU",
+    "Description": "In line with its commitments under the Energy Community acquis and as part of its strategic objective to accede to the EU, the Government of Albania has worked to align its legislation with the legal framework of the EU.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Government of Albania",
+    "Description": "In line with its commitments under the Energy Community acquis and as part of its strategic objective to accede to the EU, the Government of Albania has worked to align its legislation with the legal framework of the EU.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Government of Albania",
+    "Description": "In line with its commitments under the Energy Community acquis and as part of its strategic objective to accede to the EU, the Government of Albania has worked to align its legislation with the legal framework of the EU.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "in",
+    "Subject": "Government",
+    "Object": "Council of Ministers",
+    "Description": "The Decision of the Council of Ministers (DCM) no. 519, dated 13.07.2016 \u201cOn the approval of the Market Model of the Power Sector\u201d, was approved by the Government in July 2016.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "Albanian Power Exchange",
+    "Description": "the establishment of the Albanian Power Exchange"
+  },
+  {
+    "Relation": "in",
+    "Subject": "KESH",
+    "Object": "OShEE",
+    "Description": "transferring the right to establish the selling price",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "PEEREA",
+    "Description": "In 1997, Albania ratified the Energy Charter Treaty and the Protocol on Energy Efficiency and Related Environmental Aspects (PEEREA), which committed the government to draft and implement policies for improving energy efficiency and reducing the negative environmental effects of the energy system.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Energy Community Treaty",
+    "Description": "Being a contracting party to the ECT, Albania has made binding commitments to implement the relevant EU Acquis on energy, environment, RES and competition and to promotion of investments, statistics, and social policy.",
+    "Relevance": 10
+  },
+  {
+    "Relation": "aligns_with",
+    "Subject": "National Strategy of Energy",
+    "Object": "EU",
+    "Description": "The National Strategy of Energy aligns with the EU.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Albania",
+    "Object": "Paris Agreement",
+    "Description": "Albania has signed the Paris Agreement on the 22nd of April 2016 in New York, and the agreement will enter into force after 55 countries that account for at least 55% of global emissions have deposited their instruments of ratification.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "achieves_transposition_of",
+    "Object": "Third Energy Package",
+    "Description": "Albania is one of the earlier Contracting Parties to have successfully achieved transposition of the Third Energy Package in 2015.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "between",
+    "Subject": "Albania",
+    "Object": "Kosovo",
+    "Description": "400KV interconnection line between Tirana2 (Albania) and Kosova B (Kosovo)",
+    "Relevance": 9
+  },
+  {
+    "Relation": "between",
+    "Subject": "Albania",
+    "Object": "Macedonia",
+    "Description": "400 KV interconnection line between Elbasan (Albania) and Bitola (Macedonia)",
+    "Relevance": 8
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Council",
+    "Description": "Memorandum of Understanding on regional capacity coordination initiative",
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "AKBN",
+    "Description": "Memorandum of Understanding on regional capacity coordination initiative",
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Council of Table",
+    "Description": "Memorandum of Understanding on regional capacity coordination initiative",
+    "Relevance": 7
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Greece",
+    "Description": "Participation in the Coordinated Auction Office of South East Europe",
+    "Relevance": 6
+  },
+  {
+    "Relation": "collaborates_with",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "WB 6",
+    "Description": "Signing of the WB 6 Memorandum of Understanding on regional electricity market development and establishing a framework for other future collaboration",
+    "Relevance": 9
+  }
+]

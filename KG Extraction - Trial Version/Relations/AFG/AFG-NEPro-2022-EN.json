@@ -1,0 +1,94 @@
+[
+  {
+    "Subject": "Total Energy Supply",
+    "Relation": "Operates In",
+    "Object": "Afghanistan",
+    "Description": "Total Energy Supply (TES) in Afghanistan for the years 2014 and 2019 is provided in the text."
+  },
+  {
+    "Subject": "Non-renewable",
+    "Relation": "Is An Instance Of",
+    "Object": "Total Energy Supply",
+    "Description": "Non-renewable energy supply is a part of the Total Energy Supply (TES) in Afghanistan for the years 2014 and 2019."
+  },
+  {
+    "Subject": "Air particulate matter",
+    "Relation": "Monitors",
+    "Object": "Afghanistan",
+    "Description": "Air particulate matter (PM2.5) levels are monitored in Afghanistan for the years 2014 to 2019."
+  },
+  {
+    "Subject": "Net capacity change",
+    "Relation": "Monitors",
+    "Object": "Afghanistan",
+    "Description": "Net capacity change in gigawatts (GW) is monitored in Afghanistan for the years 2016 to 2021."
+  },
+  {
+    "Subject": "Petajoules",
+    "Relation": "Monitors",
+    "Object": "Afghanistan",
+    "Description": "Energy consumption in petajoules (PJ) is monitored in Afghanistan for the years 2014 to 2019."
+  },
+  {
+    "Subject": "IRENA Joint Policies and Measures Database",
+    "Relation": "Implemented By",
+    "Object": "IRENA"
+  },
+  {
+    "Subject": "IRENA Global Atlas",
+    "Relation": "Implemented By",
+    "Object": "IRENA"
+  },
+  {
+    "Subject": "UN SDG Database",
+    "Relation": "Collaborates With",
+    "Object": "IRENA",
+    "Description": "UN SDG Database uses data from IRENA among other sources."
+  },
+  {
+    "Subject": "UN SDG Database",
+    "Relation": "Collaborates With",
+    "Object": "WHO",
+    "Description": "UN SDG Database uses data from WHO among other sources."
+  },
+  {
+    "Subject": "UN SDG Database",
+    "Relation": "Collaborates With",
+    "Object": "World Bank",
+    "Description": "UN SDG Database uses data from World Bank among other sources."
+  },
+  {
+    "Subject": "UN SDG Database",
+    "Relation": "Collaborates With",
+    "Object": "IEA",
+    "Description": "UN SDG Database uses data from IEA among other sources."
+  },
+  {
+    "Subject": "World Bank Global Solar Atlas",
+    "Relation": "Implemented By",
+    "Object": "World Bank"
+  },
+  {
+    "Subject": "Global Wind Atlas",
+    "Relation": "Implemented By",
+    "Object": "World Bank"
+  },
+  {
+    "Subject": "UNSD Energy Balances",
+    "Relation": "Collaborates With",
+    "Object": "IRENA",
+    "Description": "UNSD Energy Balances uses data from IRENA among other sources."
+  },
+  {
+    "Subject": "REN21 Global Status Report",
+    "Relation": "Collaborates With",
+    "Object": "IRENA",
+    "Description": "REN21 Global Status Report uses data from IRENA among other sources."
+  },
+  {
+    "Subject": "Harmonised System",
+    "Relation": "Contains",
+    "Object": "Energy trade",
+    "Description": "Energy trade includes all commodities in Chapter 27 of the Harmonised System (HS)."
+  }
+]
