@@ -1,0 +1,452 @@
+[
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "ERE-E",
+    "Description": "In order for ERE consumption National Objective of 38% in 2020, it is necessary that the amount of 29% of EGFC, used in energy sector, ERE-E, in the Albanian territory is consumed.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "Drin",
+    "Description": "The hydropower stations established and linked on the cascade on the river Drin represent about 80% of the total energy production.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "has_a_considerable_potential_of",
+    "Object": "RER",
+    "Description": "Albania has a considerable potential of RER.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "EU Directive 2009",
+    "Description": "Albania is compelled to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Law 138 / 2013 \u201c On Energy Renewable Resources \u201d",
+    "Description": "Albania is compelled to transpose and be in compliance with Law 138/2013 \u201cOn Energy Renewable Resources\u201d",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Directives",
+    "Description": "Albania is compelled to transpose and be in compliance with Directives 2001/77/EC and 2003/30/EC",
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Object": "Contractual Parties of Energy Community Treaty",
+    "Description": "Albania is one of the Contractual Parties of Energy Community Treaty",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Community",
+    "Relation": "administers",
+    "Object": "Directive of RES",
+    "Description": "The objective of 38% from RES has been adopted in the Decision of the Council of Ministers 2012/04/MC-EnC, when the Directive of RES was approved for the Energy Community.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "an_instance_of",
+    "Object": "Objective",
+    "Description": "Exactly for Albania, there is an Objective of 38% and the specific obligation within this Objective to fulfill 10% of the energy used in transport by renewable resources.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "of",
+    "Subject": "Albania",
+    "Object": "Directive 2009 / 28 / EC 4",
+    "Description": "According to the provision in Article (2)f of the Directive 2009/28/EC.",
+    "Relevance": 4
+  },
+  {
+    "Relation": "aligns_with",
+    "Subject": "EU Directive",
+    "Object": "Albania",
+    "Description": "It was prepared in line with the EU Directive.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Albanian Government",
+    "Object": "Albania",
+    "Description": "The Albanian Government has been trying to improve the legal and regulatory framework for energy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "implements",
+    "Object": "Directive 2009 / 28 / EC",
+    "Description": "The establishment of one-stop-shop office for the licenses is a big step ahead made by the Albanian Government from 2009.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Directive 2009 / 28 / EC",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "Pursuant to article 4 (1) of the Directive 2009/28/EC, the Contractual Parties in the EC Treaty were asked to have the following indicating objectives with regard to the part of the energy with renewable resources in 2020.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Directive 2009 / 28 / EC",
+    "Relation": "addresses",
+    "Object": "EU Directives",
+    "Description": "Albania has undertaken a series of steps for the inclusion of in its policies for energy, the requests of the EU Directives about the common rules for the creation and the development of internal energy market and the enhancement of production and energy consumption from renewable resources.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "General National Objective",
+    "Relation": "aligns_with",
+    "Object": "Directive 2009 / 28 / EC",
+    "Description": "General National Objective for energy from renewable resources in the final energy gross production in 2009 and 2020 (data taken from Appendix 1, Part A of Directive 2009/28/EC) has been presented in Table 2.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "Renewable Resources",
+    "Description": "Albania is undertaking a review of its supporting tools for renewable energy production.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Council of Ministers",
+    "Relation": "administers",
+    "Object": "Decision of the Council of Ministers",
+    "Description": "The abovementioned formula, pursuant to the Decision of the Council of Ministers, shall be for 2015-2016 for the existing HPPs.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Supporting Scheme Contract for Difference",
+    "Relation": "supports",
+    "Object": "renewable energy",
+    "Description": "The Supporting Scheme Contract for Difference supports renewable energy.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "ERE-E",
+    "Description": "In order for ERE consumption National Objective of 38% in 2020, it is necessary that the amount of 29% of EGFC, used in energy sector, ERE-E, in the Albanian territory is consumed.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "renewable energy"
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Directive 2009/28/EC"
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Ministry of Urban Development",
+    "Object": "National Agency of Territorial Planning",
+    "Description": "The Ministry of Urban Development administers the National Agency of Territorial Planning.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Council of Ministers",
+    "Object": "Ministry of Urban Development",
+    "Description": "The Council of Ministers addresses the Ministry of Urban Development.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "EU Directive 2009",
+    "Description": "Albania is obliged to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "targets",
+    "Object": "National Objective",
+    "Description": "The year 2009 will be the starting point in the National Objective for ERE.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "National Agency of Natural Resources",
+    "Object": "renewable energy",
+    "Description": "In the recent years, the Albanian Government has been trying to improve the legal and the regulatory framework for energy.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Ministry of Agriculture, Rural Development and Water Administration",
+    "Description": "The Ministry of Energy and Industry in corporation with the Ministry of Agriculture, Rural Development and Water Administration will identify the most suitable projects based on their financial realization and the influence to fulfill the objective of RES in the sector of agriculture.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "Ministry of Finances",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the Ministry of Finances",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "General Directorate of Taxes",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the General Directorate of Taxes",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Energy and Industry",
+    "Object": "General Customs Directorate",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the General Customs Directorate",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Finances",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the Ministry of Finances",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Finances",
+    "Object": "General Directorate of Taxes",
+    "Description": "The executive bodies of this scheme are the Ministry of Finances and the General Directorate of Taxes",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Ministry of Finances",
+    "Object": "General Customs Directorate",
+    "Description": "The executive bodies of this scheme are the Ministry of Finances and the General Customs Directorate",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Directorate of Taxes",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the General Directorate of Taxes",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Directorate of Taxes",
+    "Object": "Ministry of Finances",
+    "Description": "The executive bodies of this scheme are the Ministry of Finances and the General Directorate of Taxes",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Directorate of Taxes",
+    "Object": "General Customs Directorate",
+    "Description": "The executive bodies of this scheme are the General Directorate of Taxes and the General Customs Directorate",
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Customs Directorate",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "The executive bodies of this scheme are the Ministry of Energy and Industry and the General Customs Directorate",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Customs Directorate",
+    "Object": "Ministry of Finances",
+    "Description": "The executive bodies of this scheme are the Ministry of Finances and the General Customs Directorate",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "General Customs Directorate",
+    "Object": "General Directorate of Taxes",
+    "Description": "The executive bodies of this scheme are the General Directorate of Taxes and the General Customs Directorate",
+    "Relevance": 6
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Law",
+    "Object": "National Licensing Center",
+    "Description": "No specific support for bio-fuels, which fulfill the criteria of article 21 (2) of the Directive 2009/28/EC, has been provided.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Law",
+    "Object": "Energy Regulatory Entity",
+    "Description": "No specific support for bio-fuels, which fulfill the criteria of article 21 (2) of the Directive 2009/28/EC, has been provided.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Law",
+    "Object": "National Environmental Agency",
+    "Description": "No specific support for bio-fuels, which fulfill the criteria of article 21 (2) of the Directive 2009/28/EC, has been provided.",
+    "Relevance": 5
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Albania",
+    "Object": "Law on RES",
+    "Description": "The supportive measures will be provided with the review of Law on RES.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Council of Ministers",
+    "Description": "The supportive measures will be provided with the review of Law on RES.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "MEI",
+    "Description": "The supportive measures will be provided with the review of Law on RES.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "Official Journal",
+    "Description": "The supportive measures will be provided with the review of Law on RES.",
+    "Relevance": 5
+  },
+  {
+    "Relation": "implements",
+    "Subject": "Albania",
+    "Object": "ERE",
+    "Description": "The supportive measures will be provided with the review of Law on RES.",
+    "Relevance": 4
+  },
+  {
+    "Relation": "in",
+    "Subject": "Official Journal",
+    "Object": "Albanian",
+    "Description": "Law no.138/2013, dated 2.05.2013 \u201cOn renewable energy resources\u201d with special provisions for the connection of RESoperated plants to the transmission and/or distribution network.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "in",
+    "Subject": "Official Journal",
+    "Object": "Albanian",
+    "Description": "Law no. 9876, dated 14.02.2008 \u201cOn production, transport and trade of bio-fuels and other renewable fuels for transport\u201d, as amended, sets out the legal framework for granting permits for the production, wholesale and retail of bio-fuels and other renewable fuels, for the purpose of",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "Official Journal",
+    "Object": "Albanian",
+    "Description": "Law no. 107/ , dated 31.07.2014\u201cOn territory planning and development\u201d, as amended, is the key legislation governing the territory planning and development in Albania, with the aim to define the general principles, rules and procedures, including the responsibilities and powers of the central and local government institutions for territory planning and development.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Ministry responsible for energy",
+    "Object": "National Territorial Council",
+    "Description": "Construction permits for each power plant are issued by the National Territorial Council.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "National Agency of Territorial Planning",
+    "Object": "National Tourism Council",
+    "Description": "This decision sets out the duties and responsibilities of the National Agency of Territorial Planning acting as Technical Secretariat of the National Tourism Council.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "Power Sector Law",
+    "Object": "National Agency of Natural Resources",
+    "Description": "The National Agency of Natural Resources focuses on the development and supervision of rational use of natural resources based on governmental policies and monitoring of the phase after their use in mining, hydrocarbons, and energy.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "National Action Plan for Renewable Energy",
+    "Object": "National Agency of Natural Resources",
+    "Description": "The National Agency of Natural Resources administers the National Action Plan for Renewable Energy as the body responsible for RES development.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "monitors",
+    "Subject": "National Agency of Natural Resources",
+    "Object": "State Technical and Industrial Inspectorate",
+    "Description": "The State Technical and Industrial Inspectorate has the authority to oversee the safety of electrical equipment and installations, including the safety of power generation facilities, transmission, and distribution of electricity.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "in",
+    "Subject": "NTC",
+    "Object": "Albania",
+    "Description": "NTC is a collegial body attached to the Council of Ministers."
+  },
+  {
+    "Relation": "administers",
+    "Subject": "EC",
+    "Object": "Albania",
+    "Description": "the creation of the National Licensing Center, according to Law no. 10081 dated 23.02.2009",
+    "Relevance": 8
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "EC",
+    "Object": "Albania",
+    "Description": "the new law on renewable energy sources (Law 138/2013)",
+    "Relevance": 7
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "EC",
+    "Object": "Albania",
+    "Description": "the law on energy sector",
+    "Relevance": 6
+  },
+  {
+    "Relation": "supports",
+    "Subject": "EC",
+    "Object": "Albania",
+    "Description": "the issuance of construction permit necessary for RES producers",
+    "Relevance": 9
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Decision of Council of Ministers",
+    "Object": "renewable energy",
+    "Description": "Both laws, the one for the power sector and on renewable energy, lay down provisions requiring the Council of Ministers and ERE to adopt procedures and simpler requirements for providing licenses and permits to producers of eligible renewable energy and small producers.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Ministry of Agriculture, Rural Development and Water Administration",
+    "Object": "DLAP",
+    "Description": "The Ministry of Agriculture, Rural Development and Water Administration administers DLAP.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Ministry of Agriculture, Rural Development and Water Administration",
+    "Object": "State Entity for Seeds and Saplings",
+    "Description": "The Ministry of Agriculture, Rural Development and Water Administration administers the State Entity for Seeds and Saplings.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "administers",
+    "Subject": "Ministry of Agriculture, Rural Development and Water Administration",
+    "Object": "SESS",
+    "Description": "The Ministry of Agriculture, Rural Development and Water Administration administers SESS.",
+    "Relevance": 6
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "South - East Europe",
+    "Description": "Albania has one of the largest shares of renewable energy in its energy mix in South-East Europe.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "Policy Landscape and Targets",
+    "Object": "Albania",
+    "Description": "The Policy Landscape and Targets focus on renewable energy in Albania.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "Europe",
+    "Description": "Albania is located in Europe.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "hydropower",
+    "Description": "The NREAP also stipulates technology-specific deployment targets to achieve this goal: 7MW hydropower",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "solar PV",
+    "Description": "The NREAP also stipulates technology-specific deployment targets to achieve this goal: 490MW solar PV",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "wind",
+    "Description": "The NREAP also stipulates technology-specific deployment targets to achieve this goal: 50MW wind",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "waste-to-power",
+    "Description": "The NREAP also stipulates technology-specific deployment targets to achieve this goal: 41MW waste-to-power",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "employs",
+    "Object": "Contract for Differences",
+    "Description": "Utility-sale projects are auctioned and financed through a Contract for Differences (CfD) scheme",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "tendered",
+    "Object": "PV projects",
+    "Description": "Albania has since successfully tendered PV projects at competitive prices",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "is eligible for",
+    "Object": "Net-metering",
+    "Description": "Net-metering is eligible for small to medium-size solar and wind systems of up to 500 kW",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "applies",
+    "Object": "customs duty exemptions",
+    "Description": "Certain customs duty exemptions apply for machinery and equipment used in the construction of all power plants, including both renewable and conventional power plants",
+    "Relevance": 7
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Renewable Energy",
+    "Object": "Albania",
+    "Description": "A revision of the existing support landscape for RE in Albania would foster the deployment of small-scale projects in the country.",
+    "Relevance": 8
+  },
+  {
+    "Relation": "supports",
+    "Subject": "Renewable Energy",
+    "Object": "Power Purchase Agreements",
+    "Description": "Thoroughly developed planning and financial instruments such as Power Purchase Agreements would inspire confidence and stimulate international investment in renewable energy in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "contributes_to",
+    "Subject": "German Energy Agency",
+    "Object": "UNECE",
+    "Description": "All activities relating to the Hard Talks are implemented in close cooperation with the UNECE Secretariat.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "German Energy Agency",
+    "Object": "UNECE",
+    "Description": "All activities relating to the Hard Talks are implemented in close cooperation with the UNECE Secretariat.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "collaborates_with",
+    "Subject": "UNECE",
+    "Object": "German Energy Agency",
+    "Description": "All activities relating to the Hard Talks are implemented in close cooperation with the UNECE Secretariat.",
+    "Relevance": 6
+  },
+  {
+    "Relation": "partners_with",
+    "Subject": "UNECE",
+    "Object": "German Energy Agency",
+    "Description": "All activities relating to the Hard Talks are implemented in close cooperation with the UNECE Secretariat.",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "Albania",
+    "Object": "hydropower",
+    "Description": "Hydropower accounts for 95% of all generating capacity in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Relation": "reliant on",
+    "Subject": "Albania",
+    "Object": "hydropower",
+    "Description": "Being heavily reliant on hydropower, renewable generation in Albania is sensitive to rainfall.",
+    "Relevance": 8
+  }
+]
