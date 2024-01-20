@@ -995,13 +995,7 @@
     "Description": "The Energy Efficiency Fund shall be governed by a Board of Trustees with members representing MIE and other Ministries engaged in the improvement of energy efficiency in the areas under their responsibility.",
     "Relevance": 7
   },
-  {
-    "Subject": "Fund",
-    "Relation": "promotes",
-    "Object": "Fund",
-    "Description": "Prepare promotion of the Fund among target groups to bring together all potential partner organizations (commercial banks, project developers, clients-investors) that may wish to cooperate with or capitalize the Fund in future.",
-    "Relevance": 6
-  },
+
   {
     "Relation": "supports",
     "Subject": "Government",
@@ -1119,13 +1113,7 @@
     "Description": "Support schemes for SHPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
     "Relevance": 8
   },
-  {
-    "Relation": "supports",
-    "Subject": "Albania",
-    "Object": "WPPs",
-    "Description": "Support schemes for WPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
-    "Relevance": 8
-  },
+
   {
     "Relation": "supports",
     "Subject": "WPPs",

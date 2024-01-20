@@ -3,19 +3,19 @@
     "entity": "Stated Agency for International DevelopmentT",
     "category": "Organization",
     "summary": null,
-    "Information": "The Stated Agency for International DevelopmentT administers the Strategy."
+    "information": "The Stated Agency for International DevelopmentT administers the Strategy."
   },
   {
     "entity": "Ministry of Infrastructure and Energy",
     "category": "Organization",
     "summary": null,
-    "Information": "The Ministry of Infrastructure and Energy partners with the Energy Community."
+    "information": "The Ministry of Infrastructure and Energy partners with the Energy Community."
   },
   {
     "entity": "Albania",
     "category": "Location",
     "summary": "Albania (/\u00e6l\u02c8be\u026ani\u0259, \u0254\u02d0l-/ a(w)l-BAY-nee-\u0259; Albanian: Shqip\u00ebri or Shqip\u00ebria), officially the Republic of Albania (Albanian: Republika e Shqip\u00ebris\u00eb), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Seas within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durr\u00ebs, Vlor\u00eb, and Shkod\u00ebr. Albania displays varied climatic, geological, hydrological, and morphological conditions, defined in an area of 28,748 km2 (11,100 sq mi). It possesses significant diversity with the landscape ranging from the snow-capped mountains in the Albanian Alps as well as the Korab, Skanderbeg, Pindus and Ceraunian Mountains to the hot and sunny coasts of the Albanian Adriatic and Ionian Sea along the Mediterranean Sea. Albania has been inhabited by different civilisations over time, such as the Illyrians, Thracians, Greeks, Romans, Byzantines, Venetians, and Ottomans. The Albanians established the autonomous Principality of Arb\u00ebr in the 12th century. The Kingdom of Albania and Principality of Albania formed between the 13th and 14th centuries. Prior to the Ottoman conquest of Albania in the 15th century, the Albanian resistance to Ottoman expansion into Europe led by Skanderbeg won them acclaim over most of Europe. Albania remained under Ottoman rule for nearly five centuries, during which many Albanians (known as Arnauts) attained high-ranking offices in the empire, especially in the Southern Balkans and Egypt. Between the 18th and 19th centuries, cultural developments, widely attributed to Albanians having gathered both spiritual and intellectual strength, conclusively led to the Albanian Renaissance. After the defeat of the Ottomans in the Balkan Wars, the modern nation state of Albania declared independence in 1912. In the 20th century, the Kingdom of Albania was invaded by Italy, which formed Greater Albania before becoming a protectorate of Nazi Germany. Enver Hoxha formed the People's Socialist Republic of Albania after World War II, modeled under the terms of Hoxhaism. The Revolutions of 1991 concluded the fall of communism in Albania and eventually the establishment of the current Republic of Albania. Albania is a unitary parliamentary constitutional republic. It is a developing country, ranking 67th in the Human Development Index, with an upper-middle income economy dominated by the service sector, followed by manufacturing. It went through a process of transition following the end of communism in 1990, from centralised planning to a market-based economy. Albania provides universal health care and free primary and secondary education to its citizens. Albania is a member of the United Nations, World Bank, UNESCO, NATO, WTO, COE, OSCE, and OIC. It has been an official candidate for membership in the European Union since 2014. It is one of the founding members of the Energy Community, including the Organization of the Black Sea Economic Cooperation and Union for the Mediterranean.",
-    "Information": "Adoption of new power sector Law in transposition of the Third Energy Package"
+    "information": "Adoption of new power sector Law in transposition of the Third Energy Package"
   },
   {
     "entity": "Albanian Power Corporation",
@@ -72,25 +72,21 @@
     "entity": "Second National Strategy for Development and Integration",
     "category": "Strategy",
     "summary": null,
-    "Information": "The principles guiding the development of this strategy are fully in line with the principles of the Second National Strategy for Development and Integration."
+    "information": "The principles guiding the development of this strategy are fully in line with the principles of the Second National Strategy for Development and Integration."
   },
-  {
-    "entity": "Communication",
-    "category": "Event",
-    "summary": "Communication (from Latin: communicare, meaning \"to share\" or \"to be in relation with\") is usually defined as the transmission of information. The term may also refer to the message communicated through such transmissions or the field of inquiry studying them. There are many disagreements about its precise definition. John Peters argues that the difficulty of defining communication emerges from the fact that communication is both a universal phenomenon and a specific discipline of institutional academic study. One definitional strategy involves limiting what can be included in the category of communication (for example, requiring a \"conscious intent\" to persuade). By this logic, one possible definition of communication is the act of developing meaning among entities or groups through the use of sufficiently mutually understood signs, symbols, and semiotic conventions. An important distinction is between verbal communication, which happens through the use of a language, and non-verbal communication, for example, through gestures or facial expressions. Models of communication try to provide a detailed explanation of the different steps and entities involved. An influential model is given by Claude Shannon and Warren Weaver, who argue that communicative motivation prompts the sender to compose a message, which is then encoded and transmitted. Once it has reached its destination, it is decoded and interpreted by the receiver. Communication is studied in various fields. Information theory investigates the quantification, storage, and communication of information in general. Communication studies is concerned with human communication, while the science of biocommunication is interested in any form of communication between living organisms. Communication can be realized visually (through images and written language) and through auditory, tactile/haptic (e.g. Braille or other physical means), olfactory, electromagnetic, or biochemical means (or any combination thereof). Human communication is unique in its extensive use of abstract language."
-  },
+
   {
     "entity": "Energy Community Ministerial Council",
     "category": "Organization",
     "summary": null,
-    "Information": "as announced at the Energy Community Ministerial Council meeting on 14 December 2017"
+    "information": "as announced at the Energy Community Ministerial Council meeting on 14 December 2017"
   },
   {
     "entity": "Integrated Energy and Climate Plan",
     "category": "Strategy",
     "acronym": "IECP",
     "summary": null,
-    "Information": "will address the five mutually reinforcing and interrelated dimensions, adapted in the context of Albania, to bring greater energy security, sustainability and competitiveness."
+    "information": "will address the five mutually reinforcing and interrelated dimensions, adapted in the context of Albania, to bring greater energy security, sustainability and competitiveness."
   },
   {
     "entity": "United States Agency for International Development",
@@ -113,22 +109,18 @@
     "category": "Event",
     "summary": null
   },
-  {
-    "entity": "Oil",
-    "category": "Product",
-    "summary": "An oil is any nonpolar chemical substance that is composed primarily of hydrocarbons and is hydrophobic (does not mix with water) & lipophilic (mixes with other oils). Oils are usually flammable and surface active. Most oils are unsaturated lipids that are liquid at room temperature. The general definition of oil includes classes of chemical compounds that may be otherwise unrelated in structure, properties, and uses. Oils may be animal, vegetable, or petrochemical in origin, and may be volatile or non-volatile. They are used for food (e.g., olive oil), fuel (e.g., heating oil), medical purposes (e.g., mineral oil), lubrication (e.g. motor oil), and the manufacture of many types of paints, plastics, and other materials. Specially prepared oils are used in some religious ceremonies and rituals as purifying agents."
-  },
+
   {
     "entity": "Agency for Energy Efficiency",
     "category": "Organization",
     "summary": null,
-    "Information": "The Agency for Energy Efficiency partners with Organizations."
+    "information": "The Agency for Energy Efficiency partners with Organizations."
   },
   {
     "entity": "Albanian Government",
     "category": "Organization",
     "summary": null,
-    "Information": "The development and approval of the Albanian Market Model (AMM) is the final step towards the development of the Albanian Electricity Market into a fully competitive power market in line with the Energy Community obligations."
+    "information": "The development and approval of the Albanian Market Model (AMM) is the final step towards the development of the Albanian Electricity Market into a fully competitive power market in line with the Energy Community obligations."
   },
   {
     "entity": "Berlin",
@@ -145,20 +137,20 @@
     "category": "Organization",
     "acronym": "EE Fund",
     "summary": null,
-    "Information": "Energy Efficiency Fund having an energy tax as a source of income"
+    "information": "Energy Efficiency Fund having an energy tax as a source of income"
   },
   {
     "entity": "Contract for Difference",
     "category": "Strategy",
     "summary": null,
-    "Information": "The chapters on incentives for energy efficiency investment and introducing Contract for Difference (as support scheme) for RES electricity generation were based on a comparative assessment of best practices in the old and new EU Member States."
+    "information": "The chapters on incentives for energy efficiency investment and introducing Contract for Difference (as support scheme) for RES electricity generation were based on a comparative assessment of best practices in the old and new EU Member States."
   },
   {
     "entity": "Energy Community Secretariat",
     "category": "Organization",
     "acronym": "ECS",
     "summary": null,
-    "Information": "Annual Implementation Report is prepared by Energy Community Secretariat."
+    "information": "Annual Implementation Report is prepared by Energy Community Secretariat."
   },
   {
     "entity": "Western Balkans",
@@ -166,16 +158,12 @@
     "acronym": "Balkans",
     "summary": null
   },
-  {
-    "entity": "Long - range Energy Alternatives Planning SystemAP",
-    "category": "Project",
-    "summary": null
-  },
+
   {
     "entity": "Berlin Process",
     "category": "Event",
     "summary": "The Berlin Process is a diplomatic initiative linked to the future enlargement of the European Union. It started with the 2014 Berlin Conference, which was followed by the 2015 Vienna Summit, the 2016 Paris Summit, the 2017 Trieste Summit, the 2018 London Summit and the 2019 Pozna\u0144 Summit. The Berlin Process was initiated in order to consolidate and maintain the dynamics of the EU integration process in light of increased euroscepticism and the five-year moratorium on enlargement announced by Commission President Jean Claude Juncker. The Berlin Process is an intergovernmental cooperation initiative aimed at revitalizing the multilateral ties between the Western Balkans and selected EU member states, and at improving regional cooperation in the Western Balkans on the issues of infrastructure and economic development. It is one of the flagship diplomatic initiatives on South-east Europe of the third Merkel cabinet. It is complemented by initiatives relating to specific South-east European countries (e.g., the German-British diplomatic initiative for Bosnia and Herzegovina's EU accession). The initiative includes six Western Balkan countries that are candidates for EU membership (Montenegro, Serbia, North Macedonia, Albania) or potential candidates (Bosnia and Herzegovina, Kosovo), some EU members, i.e.: Austria, Bulgaria, Croatia, France, Greece, Germany, Italy, Poland, and Slovenia and one third country, the United Kingdom. The 2020 presidency is jointly held by Bulgaria and North Macedonia.",
-    "Information": "The Berlin Process is a diplomatic initiative linked to the future enlargement of the European Union."
+    "information": "The Berlin Process is a diplomatic initiative linked to the future enlargement of the European Union."
   },
   {
     "entity": "European Union",
@@ -197,7 +185,7 @@
     "entity": "OshEE",
     "category": "Organization",
     "summary": null,
-    "Information": "supplies to OshEE the electricity needed for captive customers under regulated 'full supply' condition"
+    "information": "supplies to OshEE the electricity needed for captive customers under regulated 'full supply' condition"
   },
   {
     "entity": "Trans Adriatic Pipeline",
@@ -209,7 +197,7 @@
     "entity": "Ministry of Energy and Industry",
     "category": "Organization",
     "summary": null,
-    "Information": "Adoption of a set laws including"
+    "information": "Adoption of a set laws including"
   },
   {
     "entity": "Vjosa",
@@ -236,7 +224,7 @@
     "category": "Organization",
     "acronym": "CoM",
     "summary": "Council of Ministers is a traditional name given to the supreme executive organ in some governments. It is usually equivalent to the term cabinet. The term Council of State is a similar name that also may refer to a cabinet, but the terms are not equal in certain countries (for example, in Spain and India). Councils of Ministers are usually composed of those government ministers who are responsible for a ministry. They are usually led by a President of the Council of Ministers, a term that is commonly translated, or used synonymously, as prime minister or premier.",
-    "Information": "The DCM no.16, dated 11.01.2017\n\n\u201cOn the approval of the procedure for authorization of building new interconnectors\u201d, was approved by the Albanian Council of Ministers in January 2017."
+    "information": "The DCM no.16, dated 11.01.2017\n\n\u201cOn the approval of the procedure for authorization of building new interconnectors\u201d, was approved by the Albanian Council of Ministers in January 2017."
   },
   {
     "entity": "Energy Regulatory Entity",
@@ -255,7 +243,7 @@
     "category": "Organization",
     "acronym": "PSL",
     "summary": null,
-    "Information": "Near-term priorities for the future include amending the Power Sector Law"
+    "information": "Near-term priorities for the future include amending the Power Sector Law"
   },
   {
     "entity": "Trans Adriatic Pipeline AG",
@@ -272,30 +260,26 @@
     "entity": "Kosovo",
     "category": "Location",
     "summary": null,
-    "Information": "Kosovo has thermal capacities"
+    "information": "Kosovo has thermal capacities"
   },
   {
     "entity": "Third Energy Package",
     "category": "Strategy",
     "summary": "The European Union's Third Energy Package is a legislative package for an internal gas and electricity market in the European Union. Its purpose is to further open up the gas and electricity markets in the European Union. The package was proposed by the European Commission in September 2007, and adopted by the European Parliament and the Council of the European Union in July 2009. It entered into force on 3 September 2009. Core elements of the third package include ownership unbundling, which stipulates the separation of companies' generation and sale operations from their transmission networks, and the establishment of a National regulatory authority (NRA) for each Member State, and the Agency for the Cooperation of Energy Regulators (ACER) which provides a forum for NRAs to work together.",
-    "Information": "transposing the Third Energy Package in the electricity sector"
+    "information": "transposing the Third Energy Package in the electricity sector"
   },
   {
     "entity": "Western Balkans Six",
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "WB6",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Albanian Power Exchange",
     "category": "Organization",
     "acronym": "APE",
     "summary": null,
-    "Information": "being approved in the Parliament, which will create the legal basis for the establishment of the Albanian Power Exchange"
+    "information": "being approved in the Parliament, which will create the legal basis for the establishment of the Albanian Power Exchange"
   },
   {
     "entity": "Regulation ( EC ) Implementation",
@@ -318,12 +302,7 @@
     "category": "Organization",
     "summary": null
   },
-  {
-    "entity": "Council",
-    "category": "Organization",
-    "summary": "A council is a group of people who come together to consult, deliberate, or make decisions. A council may function as a legislature, especially at a town, city or county/shire level, but most legislative bodies at the state/provincial or national level are not considered councils. At such levels, there may be no separate executive branch, and the council may effectively represent the entire government. A board of directors might also be denoted as a council. A committee might also be denoted as a council, though a committee is generally a subordinate body composed of members of a larger body, while a council may not be. Because many schools have a student council, the council is the form of governance with which many people are likely to have their first experience as electors or participants. A member of a council may be referred to as a councillor or councilperson, or by the gender-specific titles of councilman and councilwoman.",
-    "Information": "adopted a plan to enable all market participants to freely trade on the market"
-  },
+
   {
     "entity": "Power Sector Law of 2015",
     "category": "Organization",
@@ -335,7 +314,7 @@
     "summary": null
   },
   {
-    "entity": "Law No. 68 / 2012 \u201c On Information of the Consumption of Energy and Other Resources by Energy - Related Products \u201d",
+    "entity": "Law No. 68 / 2012 \u201c On information of the Consumption of Energy and Other Resources by Energy - Related Products \u201d",
     "category": "Strategy",
     "summary": null
   },
@@ -398,7 +377,7 @@
     "entity": "Ministry of Tourism and Environment",
     "category": "Organization",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "Law on Climate Change",
@@ -424,18 +403,14 @@
     "entity": "Energy Strategy",
     "category": "Strategy",
     "summary": null,
-    "Information": "energy policy objectives and energy action plans"
+    "information": "energy policy objectives and energy action plans"
   },
   {
     "entity": "Energy Strategy for Albania",
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "The Energy Sector Strategy",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "National Energy Sector Strategy",
     "category": "Strategy",
@@ -469,11 +444,7 @@
     "acronym": "NREAP",
     "summary": "A National Renewable Energy Action Plan (NREAP) is a detailed report submitted by countries outlining commitments and initiatives to develop renewable energy that all member states of the European Union were obliged to notify to the European Commission by 30 June 2010. The plan provides a detailed road map of how the member state expects to reach its legally binding 2020 target for the share of renewable energy in their total energy consumption, as required by article 4 of the Renewable Energy Directive 2009/28/EC. In the plan, the member state sets out sectoral targets, the technology mix they expect to use, the trajectory they will follow, and the measures and reforms they will undertake to overcome the barriers to developing renewable energy. Each NREAP report provides details of the expected share of energy provided by renewable sources up to and including 2020. The overall target for EU countries is to use 20% of their energy use from renewable energy sources although targets for each country vary considerably. In addition targets are broken down further by energy use sector including transport, electricity and the heating and cooling sectors."
   },
-  {
-    "entity": "Law on Energy Performance in Buildings",
-    "category": "Law",
-    "summary": null
-  },
+
   {
     "entity": "Albanian National Renewable Energy Action Plan",
     "category": "Project",
@@ -511,12 +482,7 @@
     "category": "Project",
     "summary": null
   },
-  {
-    "entity": "Combined",
-    "category": "Skill",
-    "summary": null,
-    "Information": "for the same reason, but the RES share is greater because of the reduced electricity demand produced by the EE measures"
-  },
+
   {
     "entity": "Long - range Energy Alternatives Planning System",
     "category": "Project",
@@ -550,12 +516,7 @@
     "acronym": "EE",
     "summary": null
   },
-  {
-    "entity": "Baseline",
-    "category": "",
-    "summary": null,
-    "Information": "minimizing adverse impacts to the environment"
-  },
+
   {
     "entity": "United Nations Framework Convention on Climate Change",
     "category": "Organization",
@@ -593,26 +554,13 @@
     "category": "Product",
     "summary": null
   },
-  {
-    "entity": "BaselineEAPEAP",
-    "category": "Project",
-    "summary": null
-  },
-  {
-    "entity": "Analysis Report",
-    "category": "Product",
-    "summary": null
-  },
+
   {
     "entity": "National Renewable Energy Plan",
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "Report",
-    "category": "Event",
-    "summary": "A report is a document that presents information in an organized format for a specific audience and purpose. Although summaries of reports may be delivered orally, complete reports are almost always in the form of written documents."
-  },
+
   {
     "entity": "EU Directives",
     "category": "Strategy",
@@ -633,11 +581,7 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "Renewable Energy",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Adriatic Natural Gas",
     "category": "Strategy",
@@ -652,13 +596,13 @@
     "entity": "Final Energy Consumption",
     "category": "Strategy",
     "summary": null,
-    "Information": "All the other scenarios, except Natural Gas promotion show reduced Final Energy Consumption in comparison to Baseline scenario, while supporting the Albanian GDP growth."
+    "information": "All the other scenarios, except Natural Gas promotion show reduced Final Energy Consumption in comparison to Baseline scenario, while supporting the Albanian GDP growth."
   },
   {
     "entity": "Gas Promotion",
     "category": "Strategy",
     "summary": null,
-    "Information": "by 16% compared to the Baseline scenario because it replaces hydropower used for space heating with natural gas"
+    "information": "by 16% compared to the Baseline scenario because it replaces hydropower used for space heating with natural gas"
   },
   {
     "entity": "Baseline EE Gas Promotion RES Albania",
@@ -675,26 +619,7 @@
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "EU /",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Breakdown of Net Annual Savings from Albania - Kosovo Coupling",
-    "category": "Project",
-    "summary": null
-  },
-  {
-    "entity": "NetNet Savings of Integrated Cumulative Savings of Non - integrated Systems Figure",
-    "category": "Product",
-    "summary": null
-  },
-  {
-    "entity": "Additional Variable O & M Costs",
-    "category": "Product",
-    "summary": null
-  },
+
   {
     "entity": "Energy Community Contracting Parties",
     "category": "Organization",
@@ -715,71 +640,12 @@
     "category": "Event",
     "summary": null
   },
-  {
-    "entity": "Day Ahead Market",
-    "category": "Product",
-    "summary": null
-  },
-  {
-    "entity": "Technical Annex",
-    "category": "Product",
-    "summary": null
-  },
-  {
-    "entity": "\u201c On Power Sector \u201d",
-    "category": "Event",
-    "summary": null
-  },
-  {
-    "entity": "New Market Model for the Albanian",
-    "category": "Project",
-    "summary": null
-  },
-  {
-    "entity": "\u201c Market Model \u201d",
-    "category": "Event",
-    "summary": null
-  },
-  {
-    "entity": "Internal Energy Market",
-    "category": "Product",
-    "summary": null
-  },
-  {
-    "entity": "2017 \u201c On Renewable Energy Sources \u201d",
-    "category": "Event",
-    "summary": null
-  },
-  {
-    "entity": "Electricity Market Model",
-    "category": "Product",
-    "summary": null
-  },
-  {
-    "entity": "Albanian Electricity Market Rules",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Albanian Electricity Market Rules and Participation Agreement in the Day Ahead Market \u201d",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "EUx",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Balancing Market",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Market Model",
     "category": "Strategy",
     "summary": null,
-    "Information": "With regard to RES electricity producers, the Market Model is expected to support schemes in compliance with the relevant Energy Community acquis in the form of contracts for difference (CfDs) that will replace their current Power Purchase Agreements (PPA)"
+    "information": "With regard to RES electricity producers, the Market Model is expected to support schemes in compliance with the relevant Energy Community acquis in the form of contracts for difference (CfDs) that will replace their current Power Purchase Agreements (PPA)"
   },
   {
     "entity": "Power Purchase Agreements",
@@ -792,11 +658,7 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "bilateral Contract for Difference",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Market Maker Obligation",
     "category": "Strategy",
@@ -823,23 +685,19 @@
     "entity": "Energy Efficiency Directives",
     "category": "Strategy",
     "summary": null,
-    "Information": "The Energy Efficiency Directives implement the Strategy."
+    "information": "The Energy Efficiency Directives implement the Strategy."
   },
   {
     "entity": "National Energy Saving Indicative Target",
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "new Market Model",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Albanian Power",
     "category": "Organization",
     "summary": null,
-    "Information": "Albanian Power partners with Organizations."
+    "information": "Albanian Power partners with Organizations."
   },
   {
     "entity": "Market Rules",
@@ -850,7 +708,7 @@
     "entity": "RES Law",
     "category": "Strategy",
     "summary": null,
-    "Information": "The new RES Law specifies that the support will be given under a contract for differences (CfD) that provides a variable premium calculated as the difference payment between an administratively prefixed price (the strike price) and a measure of the market price for electricity (the reference price)."
+    "information": "The new RES Law specifies that the support will be given under a contract for differences (CfD) that provides a variable premium calculated as the difference payment between an administratively prefixed price (the strike price) and a measure of the market price for electricity (the reference price)."
   },
   {
     "entity": "Ministry of Economic Development",
@@ -867,7 +725,7 @@
     "entity": "Energy Regulatory Authority",
     "category": "Organization",
     "summary": null,
-    "Information": "Regulation of electricity and the natural gas sector"
+    "information": "Regulation of electricity and the natural gas sector"
   },
   {
     "entity": "Ministry of Energy",
@@ -885,7 +743,7 @@
     "category": "Organization",
     "acronym": "EE Agency",
     "summary": null,
-    "Information": "The establishment of the EE Agency envisaged by the Energy Efficiency Law No. 124/2015, is of importance, because such agency will verify and supervise the implementation of the energy performance of buildings"
+    "information": "The establishment of the EE Agency envisaged by the Energy Efficiency Law No. 124/2015, is of importance, because such agency will verify and supervise the implementation of the energy performance of buildings"
   },
   {
     "entity": "Ministry of Tourism",
@@ -956,35 +814,26 @@
     "entity": "Agency of Energy Efficiency",
     "category": "Organization",
     "summary": null,
-    "Information": "The Agency of Energy Efficiency verifies the accuracy of data from energy audits, if deemed necessary."
+    "information": "The Agency of Energy Efficiency verifies the accuracy of data from energy audits, if deemed necessary."
   },
   {
     "entity": "Agency for EE",
     "category": "Organization",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "National Agency of Natural Resources",
     "category": "Organization",
     "summary": null
   },
-  {
-    "entity": "Board",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Board of Trustees",
     "category": "Organization",
     "summary": null
   },
-  {
-    "entity": "Fund",
-    "category": "Organization",
-    "summary": null,
-    "Information": "Evaluate cooperation alternatives with external financiers and identify how the Fund, partner institutions and clients can benefit from such cooperation."
-  },
+
   {
     "entity": "Power Sector Priorities and Actions - 2 Authority",
     "category": "Organization",
@@ -1025,13 +874,13 @@
     "entity": "National Territory Council",
     "category": "Organization",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "Albania Power Corporation",
     "category": "Organization",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "National Territorial Planning Agency and National Territory Council",
@@ -1043,38 +892,34 @@
     "entity": "MUD",
     "category": "Organization",
     "summary": "A MUD (/m\u028cd/; originally multi-user dungeon, with later variants multi-user dimension and multi-user domain) is a multiplayer real-time virtual world, usually text-based or storyboarded. MUDs combine elements of role-playing games, hack and slash, player versus player, interactive fiction, and online chat. Players can read or view descriptions of rooms, objects, other players, non-player characters, and actions performed in the virtual world. Players typically interact with each other and the world by typing commands that resemble a natural language. Traditional MUDs implement a role-playing video game set in a fantasy world populated by fictional races and monsters, with players choosing classes in order to gain specific skills or powers. The objective of this sort of game is to slay monsters, explore a fantasy world, complete quests, go on adventures, create a story by roleplaying, and advance the created character. Many MUDs were fashioned around the dice-rolling rules of the Dungeons & Dragons series of games. Such fantasy settings for MUDs are common, while many others have science fiction settings or are based on popular books, movies, animations, periods of history, worlds populated by anthropomorphic animals, and so on. Not all MUDs are games; some are designed for purposes, while others are purely , and the flexible nature of many MUD servers leads to their occasional use in areas ranging from computer science research to geoinformatics to medical informatics to analytical chemistry. MUDs have attracted the interest of academic scholars from many fields, including communications, sociology, law, and economics. At one time, there was interest from the United States military in using them for teleconferencing. Most MUDs are run as hobbies and are free to play; some may accept donations or allow players to purchase virtual items, while others charge a monthly subscription fee. MUDs can be accessed via standard telnet clients, or specialized MUD clients, which are designed to improve the user experience. Numerous games are listed at various web portals, such as The Mud Connector. The history of modern massively multiplayer online role-playing games (MMORPGs) like EverQuest and Ultima Online, and related virtual world genres such as the social virtual worlds exemplified by Second Life, can be traced directly back to the MUD genre. Indeed, before the invention of the term MMORPG, games of this style were simply called . A number of influential MMORPG designers began as MUD developers and/or players (such as Raph Koster, Brad McQuaid, Matt Firor, and Brian Green) or were involved with early MUDs (like Mark Jacobs and J. Todd Coleman).",
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "National Agency of Development",
     "category": "Organization",
     "acronym": "AZHT",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "National Environment Agency",
     "category": "Organization",
     "acronym": "AKM",
     "summary": "National Environment Agency (NEA) is a statutory board under the Ministry of Sustainability and the Environment of the Government of Singapore. NEA is responsible for improving and sustaining clean and green environment in Singapore. Its role is to fight pollution, maintain public health and provide meteorological information. On 1 April 2019, NEA's food related duties were absorbed by its successor Singapore Food Agency (SFA) which also absorbed the food related duties of two other statutory boards namely Agri-Food and Veterinary Authority of Singapore (AVA) and Health Sciences Authority (HSA). SFA is a statutory board under the Ministry of Sustainability and the Environment.",
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "National Territorial Planning Agency",
     "category": "Organization",
     "summary": null,
-    "Information": "developing and adoption of the secondary legislation for implementation of the RES law"
+    "information": "developing and adoption of the secondary legislation for implementation of the RES law"
   },
   {
     "entity": "Distribution Company",
     "category": "Organization",
     "summary": null
   },
-  {
-    "entity": "Kh",
-    "category": "Skill",
-    "summary": null
-  },
+
   {
     "entity": "Distribution System Operator",
     "category": "Organization",
@@ -1096,7 +941,7 @@
     "entity": "Greece",
     "category": "Location",
     "summary": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. It is situated on the southern tip of the Balkans, and is located at the crossroads of Europe, Asia, and Africa. Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country consists of nine traditional geographic regions, and has a population of approximately 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras. Greece is considered the cradle of Western civilization, being the birthplace of democracy, Western philosophy, Western literature, historiography, political science, major scientific and mathematical principles, theatre and the Olympic Games. From the eighth century BC, the Greeks were organised into various independent city-states, known as poleis (singular polis), which spanned the Mediterranean and the Black Sea. Philip II of Macedon united most of present-day Greece in the fourth century BC, with his son Alexander the Great rapidly conquering much of the ancient world, from the eastern Mediterranean to India. The subsequent Hellenistic period saw the height of Greek culture and influence in antiquity. Greece was annexed by Rome in the second century BC, becoming an integral part of the Roman Empire and its continuation, the Byzantine Empire, which was culturally and linguistically predominantly Greek. The Greek Orthodox Church, which emerged in the first century AD, helped shape modern Greek identity and transmitted Greek traditions to the wider Orthodox world. After falling under Ottoman rule in the mid-15th century, Greece emerged as a modern nation state in 1830 following a war of independence. After European powers initiated prolonged periods of monarchial rule by a foreign family, the country fell to a military junta in 1967. Subsequently, the junta collapsed in 1974 and Greece returned to democratic governance, which has continued to this day. The country's rich historical legacy is reflected in part by its 18 UNESCO World Heritage Sites. Greece is a unitary parliamentary republic, and a developed country, with an advanced high-income economy, and a high quality of life, ranking 32nd in the Human Development Index. Its economy is among the largest in the Balkans, where it is an important regional investor. A founding member of the United Nations, Greece was the tenth member to join the European Communities (precursor to the European Union) and has been part of the Eurozone since 2001. It is also a member of numerous other international institutions, including the Council of Europe, NATO, the OECD, the WTO, and the OSCE. Greece's unique cultural heritage, large tourism industry, prominent shipping sector and geostrategic importance classify it as a middle power.",
-    "Information": "These sorts of interventions serve only to entrench mismanagement in the sector and have no role in a commercial power sector."
+    "information": "These sorts of interventions serve only to entrench mismanagement in the sector and have no role in a commercial power sector."
   },
   {
     "entity": "Community acquis",
@@ -1255,22 +1100,8 @@
     "acronym": "EITI",
     "summary": "The Extractive Industries Transparency Initiative (EITI) is a global standard for the good governance of oil, gas and mineral resources. It seeks to address the key governance issues in the extractive sectors. The EITI Standard requires information along the extractive industry value chain from the point of extraction, to how the revenue makes its way through the government and its contribution to the economy. This includes how licenses and contracts are allocated and registered, who the beneficial owners of those operations are, what the fiscal and legal arrangements are, how much is produced, how much is paid, where the revenue is allocated, and its contributions to the economy, including employment. The EITI Standard is implemented in 55 countries around the world. Each of these countries is required to publish an annual EITI Report to disclosing information on: contracts and licenses, production, revenue collection, revenue allocation, and social and economic spending. Every country goes through a quality-assurance mechanism, called Validation, at least every three years. Validation serves to assess performance towards meeting the EITI Standard and promote dialogue and learning at the country level. It also safeguards the integrity of the EITI by holding all EITI implementing countries to the same global standard. Each implementing country has its own national secretariat and multi-stakeholder group made up of representatives from the country's government, extractive companies and civil society. The multi-stakeholder group takes decisions on how the EITI process is carried out in the country. The EITI Standard is developed and overseen by an international multi-stakeholder Board, consisting of representatives from governments, extractives companies, civil society organisations, financial institutions and international organisations. The current Chair of the EITI Board is Helen Clark, Former\u202fPrime Minister of New Zealand and former UNDP Administrator. The previous chairs have been Fredrik Reinfeldt, former Prime Minister of Sweden, Clare Short (2011-2016), former UK Secretary of State for International Development and Peter Eigen (2009-2011). The EITI International Secretariat is located in Oslo, Norway and is headed by Mark Robinson."
   },
-  {
-    "entity": "New public company, ALBGAZ, was established with the functions and responsibilities of a combined transmission and distribution system operator of natural gas.",
-    "category": "Organization",
-    "acronym": "ALBGAZ",
-    "summary": null
-  },
-  {
-    "entity": "Directorate for Strategies and Policies of Industry and Energy of MIE",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Regulations",
-    "category": "Strategy",
-    "summary": null
-  },
+
+
   {
     "entity": "The Energy Regulatory Authority",
     "category": "Organization",
@@ -1280,7 +1111,7 @@
     "entity": "Oil Stocks Directive",
     "category": "Strategy",
     "summary": null,
-    "Information": "Consolidating the legal framework for the implementation of the Oil Stocks Directive"
+    "information": "Consolidating the legal framework for the implementation of the Oil Stocks Directive"
   },
   {
     "entity": "EU Directive",
@@ -1302,11 +1133,7 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "AlbGaz",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Directorate of Development Programs of Industry and Energy",
     "category": "Organization",
@@ -1326,13 +1153,9 @@
     "entity": "Regulatory Authority",
     "category": "Organization",
     "summary": null,
-    "Information": "Improve the administrative structure of the MIE by strengthening and consolidating the Directorate of Policies and Strategies of Industry and Energy in oil and gas sector3.8.4 ALBPETROL"
+    "information": "Improve the administrative structure of the MIE by strengthening and consolidating the Directorate of Policies and Strategies of Industry and Energy in oil and gas sector3.8.4 ALBPETROL"
   },
-  {
-    "entity": "Third Energy Packageill",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Directorate of Policies and Strategies of Industry and EnergyETROLBPETROL",
     "category": "Organization",
@@ -1347,7 +1170,7 @@
     "entity": "Directorate of Programs of Industry",
     "category": "Organization",
     "summary": null,
-    "Information": "Utilization of the industry to bring foreign direct investment funds, enhance technology transfer, infrastructure development, job creation, training and utilization of domestic goods and services"
+    "information": "Utilization of the industry to bring foreign direct investment funds, enhance technology transfer, infrastructure development, job creation, training and utilization of domestic goods and services"
   },
   {
     "entity": "Oil & Gas Sector Priorities and Actions - 2 of Policies and Industry",
@@ -1359,11 +1182,7 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "Control",
-    "category": "Skill",
-    "summary": null
-  },
+
   {
     "entity": "Tirana",
     "category": "Location",
@@ -1373,7 +1192,7 @@
     "entity": "Oil & Gas Summit",
     "category": "Event",
     "summary": null,
-    "Information": "the organization for the first time of the Oil & Gas Summit held in 2015 in Tirana"
+    "information": "the organization for the first time of the Oil & Gas Summit held in 2015 in Tirana"
   },
   {
     "entity": "SHELL",
@@ -1385,11 +1204,7 @@
     "category": "Product",
     "summary": null
   },
-  {
-    "entity": "BP",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Exxon Mobil",
     "category": "Organization",
@@ -1404,7 +1219,7 @@
     "entity": "ALBGAZ Company",
     "category": "Organization",
     "summary": null,
-    "Information": "ALBGAZ Company includes the possibility of cooperation with foreign companies currently operating in Albania, such as TAP AG, but also with other companies that may be present in the future."
+    "information": "ALBGAZ Company includes the possibility of cooperation with foreign companies currently operating in Albania, such as TAP AG, but also with other companies that may be present in the future."
   },
   {
     "entity": "Ballsh",
@@ -1441,23 +1256,13 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "Table 6 : Oil & Gas Sector Priorities and Actions \u2013 3 Upstream \u25cf Reform",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Natural Gas Investment Plan",
     "category": "Project",
     "summary": null
   },
-  {
-    "entity": "National Agency of Environment",
-    "category": "Organization",
-    "acronym": "NAE",
-    "summary": null,
-    "Information": "Continues monitoring for"
-  },
+
   {
     "entity": "Environmental Mitigation and Management Plan",
     "category": "Project",
@@ -1474,16 +1279,7 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "Contract negotiations",
-    "category": "Event",
-    "summary": null
-  },
-  {
-    "entity": "Inspectorates",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "State Technical and Industry",
     "category": "Organization",
@@ -1514,26 +1310,7 @@
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "Second NEEAP",
-    "category": "Project",
-    "summary": null
-  },
-  {
-    "entity": "Financial Mechanisms and Incentives Financial",
-    "category": "Strategy",
-    "summary": null
-  },
-  {
-    "entity": "Member 10 Energy Efficiency Policy Recommendations",
-    "category": "Strategy",
-    "summary": null
-  },
-  {
-    "entity": "White",
-    "category": "Organization",
-    "summary": "White is the lightest color and is achromatic (having no hue). It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide. In ancient Egypt and ancient Rome, priestesses wore white as a symbol of purity, and Romans wore white togas as symbols of citizenship. In the Middle Ages and Renaissance a white unicorn symbolized chastity, and a white lamb sacrifice and purity. It was the royal color of the kings of France, and of the monarchist movement that opposed the Bolsheviks during the Russian Civil War (1917\u20131922). Greek and Roman temples were faced with white marble, and beginning in the 18th century, with the advent of neoclassical architecture, white became the most common color of new churches, capitols and other government buildings, especially in the United States. It was also widely used in 20th century modern architecture as a symbol of modernity and simplicity. According to surveys in Europe and the United States, white is the color most often associated with perfection, the good, honesty, cleanliness, the beginning, the new, neutrality, and exactitude. White is an important color for almost all world religions. The pope, the head of the Roman Catholic Church, has worn white since 1566, as a symbol of purity and sacrifice. In Islam, and in the Shinto religion of Japan, it is worn by pilgrims. In Western cultures and in Japan, white is the most common color for wedding dresses, symbolizing purity and virginity. In many Asian cultures, white is also the color of mourning."
-  },
+
   {
     "entity": "EE Scenario",
     "category": "Strategy",
@@ -1547,13 +1324,10 @@
   {
     "entity": "Global Environment Facility",
     "category": "Organization",
+    "acronym": "GEF",
     "summary": "The Global Environment Facility (GEF) is a multilateral environmental fund that provides grants and blended finance for projects related to biodiversity, climate change, international waters, land degradation, persistent organic pollutants (POPs), mercury, sustainable forest management, food security, and sustainable cities in developing countries. It is the largest source of multilateral funding for biodiversity globally, and distributes more than $1 billion a year on average to address inter-related environmental challenges. The GEF was established ahead of the 1992 Rio Earth Summit and includes 184 countries in partnership with international institutions, civil society organizations, and the private sector. It supports country-driven sustainable development initiatives in developing countries that generate global environmental benefits. To date, the GEF has provided more than $22 billion in grants and mobilized another $120 billion in co-financing for more than 5,200 projects and programs. Through its Small Grants Programme (SGP), the GEF has provided support to nearly 27,000 civil society and community initiatives in 136 countries. In June 2022, donors to the GEF pledged a record $5.33 billion in support for its latest four-year replenishment cycle, which runs until June 2026. In addition to funding projects through grants and blended finance, the GEF also serves as financial mechanism for the following conventions: \n* Convention on Biological Diversity (CBD) \n* United Nations Framework Convention on Climate Change (UNFCCC) \n* United Nations Convention to Combat Desertification (UNCCD) \n* Stockholm Convention on Persistent Organic Pollutants \n* Minamata Convention on Mercury The GEF also supports implementation of the Montreal Protocol on Substances that Deplete the Ozone Layer (MP)."
   },
-  {
-    "entity": "GEF",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "World Bank",
     "category": "Organization",
@@ -1561,10 +1335,10 @@
     "summary": null
   },
   {
-    "entity": "Energy Efficiency (",
+    "entity": "Energy Efficiency",
     "category": "Strategy",
     "summary": null,
-    "Information": "This should be available once the Market Model has been fully implemented."
+    "information": "This should be available once the Market Model has been fully implemented."
   },
   {
     "entity": "Climate Change Fund",
@@ -1594,22 +1368,13 @@
     "acronym": "KfW",
     "summary": null
   },
-  {
-    "entity": "State Budget",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "IF",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Energy Efficiency Law",
     "category": "Strategy",
     "acronym": "EE Law",
     "summary": null,
-    "Information": "This should be available once the Market Model has been fully implemented."
+    "information": "This should be available once the Market Model has been fully implemented."
   },
   {
     "entity": "State Budget Law",
@@ -1620,23 +1385,9 @@
     "entity": "Energy Community Countries",
     "category": "Organization",
     "summary": null,
-    "Information": null
+    "information": null
   },
-  {
-    "entity": "Advantages and Drawbacks of Energy Efficiency Fund Models Advantage Drawback",
-    "category": "Strategy",
-    "summary": null
-  },
-  {
-    "entity": "Development Fund",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Guarantee Fund",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "EBRD Sustainable Energy Fund",
     "category": "Organization",
@@ -1676,31 +1427,12 @@
     "acronym": "WeBSEDFF",
     "summary": null
   },
-  {
-    "entity": "Participating Banks",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Require Vehicle Technical Centers",
-    "category": "Skill",
-    "summary": null
-  },
-  {
-    "entity": "French",
-    "category": "Location",
-    "summary": null
-  },
-  {
-    "entity": "German",
-    "category": "Location",
-    "summary": null
-  },
+
   {
     "entity": "Albanian Criminal Code",
     "category": "Organization",
     "summary": null,
-    "Information": "Specifically, the amendments of the Albanian Criminal Code (Law n. 7895), in full force since September 2014 increased the legal responsibilities of any individual and/or legal entity unlawfully stealing electricity."
+    "information": "Specifically, the amendments of the Albanian Criminal Code (Law n. 7895), in full force since September 2014 increased the legal responsibilities of any individual and/or legal entity unlawfully stealing electricity."
   },
   {
     "entity": "Albanian Electricity Sector",
@@ -1717,7 +1449,7 @@
     "entity": "Electricity Sector",
     "category": "Organization",
     "summary": null,
-    "Information": "Finalizing the move from the vertical integrated structure of the Electricity Sector towards a structure with legally, functionally and financially separate Supply, Generation, Transmission and Distribution entities allowing for competition in wholesale and retail markets"
+    "information": "Finalizing the move from the vertical integrated structure of the Electricity Sector towards a structure with legally, functionally and financially separate Supply, Generation, Transmission and Distribution entities allowing for competition in wholesale and retail markets"
   },
   {
     "entity": "Council of Ministers Decisions for Small Hydro Power Plans",
@@ -1739,16 +1471,7 @@
     "category": "Project",
     "summary": null
   },
-  {
-    "entity": "E&E",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Steps Requires to Improve Power Sector Financial Solvency Item Timing Responsibility",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Decision of Council of Ministers",
     "category": "Organization",
@@ -1759,36 +1482,7 @@
     "category": "Project",
     "summary": null
   },
-  {
-    "entity": "Main Technical and Financial Parameters",
-    "category": "Skill",
-    "summary": null
-  },
-  {
-    "entity": "into Consideration for the RES Support Scheme SOLAR PHOTOVOLTAIC",
-    "category": "Project",
-    "summary": null
-  },
-  {
-    "entity": "ARMO sh.a.",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "AlbaniaS",
-    "category": "Location",
-    "summary": null
-  },
-  {
-    "entity": "Public SupplierEE",
-    "category": "Organization",
-    "summary": null
-  },
-  {
-    "entity": "Financial InstitutionsT",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Concession Law",
     "category": "Strategy",
@@ -1819,16 +1513,8 @@
     "category": "Event",
     "summary": null
   },
-  {
-    "entity": "Power Sector LawM",
-    "category": "Law",
-    "summary": null
-  },
-  {
-    "entity": "On Information of the Consumption of Energy and Other Resources by Energy - Related Products \u201d",
-    "category": "Law",
-    "summary": null
-  },
+
+
   {
     "entity": "Power Exchange",
     "category": "Organization",
@@ -1845,7 +1531,7 @@
     "entity": "Albanian Council of Ministers",
     "category": "Organization",
     "summary": null,
-    "Information": "On approval of the regulation for procedures of granting permits/authorizations for the construction of new power generation plants/facilities not subject to concession"
+    "information": "On approval of the regulation for procedures of granting permits/authorizations for the construction of new power generation plants/facilities not subject to concession"
   },
   {
     "entity": "Law on biofuels in The Albanian",
@@ -1856,25 +1542,21 @@
     "entity": "Ministry of Economic Development, Tourism and Trade",
     "category": "Organization",
     "summary": null,
-    "Information": "the entity that represent the state stakeholder\u2019s rights in the share capital of OST"
+    "information": "the entity that represent the state stakeholder\u2019s rights in the share capital of OST"
   },
-  {
-    "entity": "Ministry of Economic Development, Tourism and TradeHEE",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Shareholder \u2019 s Assembly of KESH",
     "category": "Organization",
     "summary": null
   },
   {
-    "entity": "ALBPETROL Sh. A",
+    "entity": "ALBPETROL ",
     "category": "Organization",
     "summary": null
   },
   {
-    "entity": "ALBGAZ Sh. A",
+    "entity": "ALBGAZ ",
     "category": "Organization",
     "summary": null
   },
@@ -1897,7 +1579,7 @@
     "entity": "Ministry of Economy, Tourism, Trade and Entrepreneurship",
     "category": "Organization",
     "summary": null,
-    "Information": "Ministry of Economy, Tourism, Trade and Entrepreneurship represents the state stakeholder's rights in the share capital of ALBGAZ Sh.A."
+    "information": "Ministry of Economy, Tourism, Trade and Entrepreneurship represents the state stakeholder's rights in the share capital of ALBGAZ Sh.A."
   },
   {
     "entity": "Law on Renewable Energy Sources",
@@ -1915,11 +1597,7 @@
     "acronym": "PEEREA",
     "summary": null
   },
-  {
-    "entity": "Directive",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "Natural Gas Sector Law Directive 2009 / 73 / ECealing Directive",
     "category": "Strategy",
@@ -1929,18 +1607,9 @@
     "entity": "Albanian Energy Sector",
     "category": "Organization",
     "summary": null,
-    "Information": "Ensure that the climate change targets are met, including the renewable energy resource (RES) and energy efficiency targets"
+    "information": "Ensure that the climate change targets are met, including the renewable energy resource (RES) and energy efficiency targets"
   },
-  {
-    "entity": "Status of Albanian Energy Sector Alignment with EU Directives Applicable EU directive Status",
-    "category": "Strategy",
-    "summary": null
-  },
-  {
-    "entity": "alignment Power Sector Directive 2009",
-    "category": "Strategy",
-    "summary": null
-  },
+
   {
     "entity": "\u201c Rio Earth Summit \u201d",
     "category": "Event",
@@ -1962,16 +1631,12 @@
     "category": "Strategy",
     "summary": null
   },
-  {
-    "entity": "EUulation",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Vlora",
     "category": "Location",
     "summary": null,
-    "Information": "Enable a better performance of air safety functions, as well as strengthening the administrative and\ntechnical capacity in this sector."
+    "information": "Enable a better performance of air safety functions, as well as strengthening the administrative and\ntechnical capacity in this sector."
   },
   {
     "entity": "Albanian Railway Authority",
@@ -2009,24 +1674,20 @@
     "entity": "EU Low Carbon Economy Roadmap",
     "category": "Strategy",
     "summary": null,
-    "Information": "The EU Low Carbon Economy Roadmap calls for actions in all main sectors responsible for Europe's emissions \u2013 power generation, industry, transport, buildings, construction and agriculture - and significant investments need to be made in: New low-carbon technologies and Energy efficiency."
+    "information": "The EU Low Carbon Economy Roadmap calls for actions in all main sectors responsible for Europe's emissions \u2013 power generation, industry, transport, buildings, construction and agriculture - and significant investments need to be made in: New low-carbon technologies and Energy efficiency."
   },
-  {
-    "entity": "\u201c Low - carbon Economy Roadmap14",
-    "category": "Project",
-    "summary": null
-  },
+
   {
     "entity": "2014",
     "category": "Event",
     "summary": "2014 (MMXIV) was a common year starting on Wednesday of the Gregorian calendar, the 2014th year of the Common Era (CE) and Anno Domini (AD) designations, the 14th year of the 3rd millennium and the 21st century, and the 5th year of the 2010s decade. 2014 was designated as: \n* International Year of Crystallography \n* International Year of Family Farming \n* International Year of Small Island Developing States \n* International Year of Solidarity with the Palestinian People",
-    "Information": "Energy consumption increased significantly in 2014, driven primarily by the iron and steel industrial sectors."
+    "information": "Energy consumption increased significantly in 2014, driven primarily by the iron and steel industrial sectors."
   },
   {
     "entity": "Baseline scenario",
     "category": "Strategy",
     "summary": null,
-    "Information": "The Baseline scenario follows economic development objectives of the second National Strategy for Development and Integration (NSDI-II)."
+    "information": "The Baseline scenario follows economic development objectives of the second National Strategy for Development and Integration (NSDI-II)."
   },
   {
     "entity": "Albanian Ministries",
@@ -2059,26 +1720,7 @@
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "Bitola Ss",
-    "category": "Location",
-    "summary": null
-  },
-  {
-    "entity": "Tirana2 Ss",
-    "category": "Location",
-    "summary": null
-  },
-  {
-    "entity": "Zemblak Ss",
-    "category": "Location",
-    "summary": null
-  },
-  {
-    "entity": "Elbasan2 Ss",
-    "category": "Location",
-    "summary": null
-  },
+
   {
     "entity": "Burrel \u2013",
     "category": "Location",
@@ -2090,12 +1732,12 @@
     "summary": null
   },
   {
-    "entity": "Peshkopi SsA",
+    "entity": "Peshkopi ",
     "category": "Location",
     "summary": null
   },
   {
-    "entity": "Fier Ss",
+    "entity": "Fier",
     "category": "Location",
     "summary": null
   },
@@ -2105,7 +1747,7 @@
     "summary": "Peshkopi (definite Albanian form: Peshkopia, Latin: Penestae) is a town in Dib\u00ebr County, northeastern Albania. At the 2015 local government reform it became a subdivision of the municipality Dib\u00ebr. The population at the 2011 census was 13,251. The town is located 187 kilometres (116 mi) away from Tirana, the capital of Albania, and 20 kilometres (12 mi) from Macedonian border, and it sits 651 metres (2,136 ft) above sea level. It is the capital of both the county (Albanian: qark) and district (Albanian: rreth) of Dib\u00ebr. It is the only county capital in Albania that does not share its name with its county. Peshkopi lies east of the Black Drin river. The Drin valley is the lowest part of the district. Mineral ores such as chromium, sulphur, and marble have been discovered in the district. It is also an important industrial center in Albania, particularly in relation to the food industry."
   },
   {
-    "entity": "Rashbull Ss",
+    "entity": "Rashbull ",
     "category": "Location",
     "summary": null
   },
@@ -2119,7 +1761,7 @@
     "category": "Product",
     "acronym": "AMM",
     "summary": null,
-    "Information": "Its implementation will also enable Albania to comply with the commitments already undertaken or may undertake in the framework of international and regional cooperation"
+    "information": "Its implementation will also enable Albania to comply with the commitments already undertaken or may undertake in the framework of international and regional cooperation"
   },
   {
     "entity": "Day - Ahead and Intraday Market",
@@ -2172,7 +1814,7 @@
     "summary": null
   },
   {
-    "entity": "Kosova B",
+    "entity": "Kosova ",
     "category": "Location",
     "summary": null
   },
@@ -2195,7 +1837,7 @@
     "entity": "WB 6 Memorandum of Understanding",
     "category": "Project",
     "summary": null,
-    "Information": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
+    "information": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
   },
   {
     "entity": "Turkey",
@@ -2233,11 +1875,7 @@
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "of Energy and Industry",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "COM METODI S. P. A.",
     "category": "Organization",
@@ -2257,7 +1895,7 @@
     "entity": "Gas Sector Law",
     "category": "Organization",
     "summary": null,
-    "Information": null
+    "information": null
   },
   {
     "entity": "Directive 2009 / 73 / EC",
@@ -2440,11 +2078,7 @@
     "category": "Organization",
     "summary": null
   },
-  {
-    "entity": "of County",
-    "category": "Location",
-    "summary": null
-  },
+
   {
     "entity": "France",
     "category": "Location",
@@ -2494,7 +2128,7 @@
     "entity": "Natural Gas CC",
     "category": "Product",
     "summary": null,
-    "Information": "The implementation of the natural gas sector law will facilitate the development and construction of the domestic gas infrastructure necessary for the gasification of the country\u2019s economy."
+    "information": "The implementation of the natural gas sector law will facilitate the development and construction of the domestic gas infrastructure necessary for the gasification of the country\u2019s economy."
   },
   {
     "entity": "IBRD",
@@ -2657,6 +2291,6 @@
     "entity": "Energy Sector Strategy",
     "category": "Strategy",
     "summary": null,
-    "Information": "The Energy Sector Strategy employs the expertise and involvement of various entities."
+    "information": "The Energy Sector Strategy employs the expertise and involvement of various entities."
   }
 ]
