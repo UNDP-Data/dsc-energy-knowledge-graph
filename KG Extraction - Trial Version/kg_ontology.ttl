@@ -1,0 +1,150 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix sust: <http://example.org/sustainability#> .
+
+# Classes with Labels and Comments
+sust:Person rdf:type owl:Class ;
+    rdfs:label "Person" ;
+    rdfs:comment "An individual human being." .
+
+sust:Location rdf:type owl:Class ;
+    rdfs:label "Location" ;
+    rdfs:comment "A specific place or position." .
+
+sust:Organization rdf:type owl:Class ;
+    rdfs:label "Organization" ;
+    rdfs:comment "A group with a particular purpose, such as a business or government department." .
+
+sust:Event rdf:type owl:Class ;
+    rdfs:label "Event" ;
+    rdfs:comment "An occurrence at a particular time and place." .
+
+sust:Product rdf:type owl:Class ;
+    rdfs:label "Product" ;
+    rdfs:comment "An article or substance that is manufactured or refined for sale." .
+
+sust:Project rdf:type owl:Class ;
+    rdfs:label "Project" ;
+    rdfs:comment "A planned set of interrelated tasks to be executed over a fixed period and within certain cost and other limitations." .
+
+sust:Strategy rdf:type owl:Class ;
+    rdfs:label "Strategy" ;
+    rdfs:comment "A plan of action designed to achieve a long-term or overall aim." .
+    
+# Define the union of all sust: classes
+sust:AllSustClasses rdf:type owl:Class ;
+    owl:unionOf ( 
+        sust:Person 
+        sust:Location 
+        sust:Organization 
+        sust:Event 
+        sust:Product 
+        sust:Project
+        sust:Strategy 
+    ) .
+
+    sust:ProductOrProject rdf:type owl:Class ;
+        owl:unionOf (
+            sust:Product
+            sust:Project
+        ) .
+
+    sust:EventOrOrganization rdf:type owl:Class ;
+            owl:unionOf (
+                sust:Event
+                sust:Organization
+         ) .
+
+# Properties with Descriptions
+sust:implements rdf:type owl:ObjectProperty ;
+    rdfs:label "implements" ;
+    rdfs:comment "Indicates that a strategy is put into action by a project." ;
+    rdfs:domain sust:ProductOrProject ;
+    rdfs:range sust:Strategy .
+
+sust:funds rdf:type owl:ObjectProperty ;
+    rdfs:label "funds" ;
+    rdfs:comment "Connects an organization with the projects it financially supports." ;
+    rdfs:domain sust:Organization ;
+    rdfs:range sust:ProductOrProject .
+
+sust:focuses_on rdf:type owl:ObjectProperty ;
+    rdfs:label "focuses on" ;
+    rdfs:comment "Describes the main area or subject an entity is concerned with." ;
+    rdfs:domain sust:AllSustClasses ;  # Assuming a broad domain for simplicity
+    rdfs:range sust:AllSustClasses .
+
+sust:in rdf:type owl:ObjectProperty ;
+    rdfs:label "in" ;
+    rdfs:comment "Specifies the location associated with an event." ;
+    rdfs:domain sust:EventOrOrganization ;
+    rdfs:range sust:Location .
+
+sust:partners_with rdf:type owl:ObjectProperty ;
+    rdfs:label "partners with" ;
+    rdfs:comment "Indicates a cooperative relationship between organizations." ;
+    rdfs:domain sust:Organization ;
+    rdfs:range sust:Organization .
+
+sust:contributes_to rdf:type owl:ObjectProperty ;
+    rdfs:label "contributes to" ;
+    rdfs:comment "Indicates how an individual or organization aids in the advancement or completion of a project." ;
+    rdfs:domain sust:AllSustClasses ;  # Broad domain for flexibility
+    rdfs:range sust:Project .
+
+sust:monitors rdf:type owl:ObjectProperty ;
+    rdfs:label "monitors" ;
+    rdfs:comment "Relates an organization to the strategies or projects it oversees or tracks progress of." ;
+    rdfs:domain sust:Organization ;
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+sust:targets rdf:type owl:ObjectProperty ;
+    rdfs:label "targets" ;
+    rdfs:comment "Specifies the aim or goal of a strategy or project." ;
+    rdfs:domain sust:AllSustClasses ;  # Broad domain for flexibility
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+sust:addresses rdf:type owl:ObjectProperty ;
+    rdfs:label "addresses" ;
+    rdfs:comment "Indicates how a strategy or project is directed towards tackling a specific issue or goal." ;
+    rdfs:domain sust:Strategy ;
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+
+sust:collaborates_with rdf:type owl:ObjectProperty ;
+    rdfs:label "collaborates with" ;
+    rdfs:comment "Describes a working partnership between individuals or organizations." ;
+    rdfs:domain sust:AllSustClasses ;  # Broad domain for flexibility
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+sust:supports rdf:type owl:ObjectProperty ;
+    rdfs:label "supports" ;
+    rdfs:comment "Indicates backing or endorsement of a project, strategy, or product by an organization or individual." ;
+    rdfs:domain sust:AllSustClasses ;  # Broad domain for flexibility
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+sust:administers rdf:type owl:ObjectProperty ;
+    rdfs:label "administers" ;
+    rdfs:comment "Relates to the management or execution of operations for an event by an organization." ;
+    rdfs:domain sust:Organization ;
+    rdfs:range sust:Event .
+
+sust:measures rdf:type owl:ObjectProperty ;
+    rdfs:label "measures" ;
+    rdfs:comment "Relates an organization to the sustainability metrics it measures." ;
+    rdfs:domain sust:Organization ;
+    rdfs:range sust:Strategy .
+
+sust:aligns_with rdf:type owl:ObjectProperty ;
+    rdfs:label "aligns with" ;
+    rdfs:comment "Indicates conformity or agreement with established strategies, goals, or policies." ;
+    rdfs:domain sust:Strategy ;
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility
+
+sust:an_instance_of rdf:type owl:ObjectProperty ;
+    rdfs:label "an instance of" ;
+    rdfs:comment "Denotes that a particular entity exemplifies a general category or class." ;
+    rdfs:domain sust:AllSustClasses ;  # Broad domain for flexibility
+    rdfs:range sust:AllSustClasses .  # Broad range for flexibility

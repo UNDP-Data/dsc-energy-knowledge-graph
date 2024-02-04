@@ -1,226 +1,318 @@
 [
   {
-    "Relation": "partners_with",
-    "Subject": "UNDP",
-    "Object": "United Nations Population Fund",
-    "Description": "The UNDP partners with the United Nations Population Fund.",
-    "Relevance": 8
-  },
-  {
-    "Relation": "in",
-    "Subject": "UNDP",
+    "Subject": "Gender Development Index",
+    "Relation": "focuses on",
     "Object": "Albania",
-    "Description": "The UNDP operates in Albania.",
-    "Relevance": 7
-  },
-  {
-    "Relation": "focuses_on",
-    "Subject": "UNDP",
-    "Object": "Gender Development Index",
-    "Description": "The UNDP focuses on the Gender Development Index.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "focuses_on",
-    "Subject": "UNDP",
-    "Object": "Gender Inequality Index",
-    "Description": "The UNDP focuses on the Gender Inequality Index.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "administers",
-    "Subject": "UNDP",
-    "Object": "United Nations Office for Project Services",
-    "Description": "The UNDP administers the United Nations Office for Project Services.",
+    "Description": "Albania has a Gender Development Index of 0.967.",
     "Relevance": 8
   },
   {
-    "Relation": "implements",
-    "Subject": "UNDP",
-    "Object": "European Union",
-    "Description": "The UNDP implements projects for the European Union.",
-    "Relevance": 7
+    "Subject": "United Nations Population Fund",
+    "Relation": "partners with",
+    "Object": "United Nations Development Programme",
+    "Description": "The United Nations Population Fund partners with the United Nations Development Programme.",
+    "Relevance": 9
   },
+
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "European Union",
-    "Description": "UNDP supports the European Union",
+    "Subject": "Gender Inequality Index",
+    "Relation": "focuses on",
+    "Object": "Albania",
+    "Description": "Albania has a Gender Inequality Index of 0.181.",
     "Relevance": 8
   },
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "National Strategy for Development and Integration",
-    "Description": "UNDP supports the National Strategy for Development and Integration",
-    "Relevance": 7
-  },
-  {
-    "Relation": "supports",
-    "Subject": "UNDP",
+    "Subject": "United Nations Development Programme",
+    "Relation": "focuses on",
     "Object": "United Nations Sustainable Development Cooperation Framework",
-    "Description": "UNDP supports the United Nations Sustainable Development Cooperation Framework",
+    "Description": "The United Nations Development Programme focuses on the United Nations Sustainable Development Cooperation Framework.",
     "Relevance": 9
   },
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "Sustainable Development Goals",
-    "Description": "UNDP supports the Sustainable Development Goals",
-    "Relevance": 9
-  },
-  {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "Agenda for Sustainable Development",
-    "Description": "UNDP supports the Agenda for Sustainable Development",
+    "Subject": "Human Development Index",
+    "Relation": "focuses on",
+    "Object": "Albania",
+    "Description": "Albania has a Human Development Index of 0.791.",
     "Relevance": 8
   },
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "Albania",
-    "Description": "UNDP supports Albania",
-    "Relevance": 6
+    "Subject": "United Nations Office for Project Services",
+    "Relation": "partners with",
+    "Object": "United Nations Development Programme",
+    "Description": "The United Nations Office for Project Services partners with the United Nations Development Programme.",
+    "Relevance": 9
   },
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "United Nations",
-    "Description": "UNDP supports the United Nations",
+    "Subject": "Albania",
+    "Relation": "accession to the European Union",
+    "Object": "European Union",
+    "Description": "In March 2020, the European Union opened accession negotiations.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "sustainable economic growth",
+    "Object": "2030 Agenda for Sustainable Development",
+    "Description": "The country\u2019s vision of sustainable development, the key drivers for reforms and political and public priorities, are accession to the European Union, sustainable economic growth and inclusive prosperity.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "inclusive prosperity",
+    "Object": "2030 Agenda for Sustainable Development",
+    "Description": "The country\u2019s vision of sustainable development, the key drivers for reforms and political and public priorities, are accession to the European Union, sustainable economic growth and inclusive prosperity.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "National Strategy for Development and Integration (NSDI) III",
+    "Object": "2030 Agenda for Sustainable Development",
+    "Description": "The National Strategy for Development and Integration (NSDI) III is under preparation with interim nationalized Sustainable Development Goal indicators and targets.",
     "Relevance": 7
   },
   {
-    "Relation": "partners_with",
     "Subject": "UNDP",
-    "Object": "United Nations",
-    "Description": "UNDP will partner with United Nations agencies on joint programmes related to leaving no one behind, strategic policy options for Sustainable Development Goal financing and ending violence against 9.",
+    "Relation": "supporting national reforms",
+    "Object": "Albania",
+    "Description": "This country programme reflects the comparative advantages of UNDP in supporting national reforms and upholding values of justice, human rights, equity and gender equality, through coordinated multisectoral approaches that facilitate systemic reforms.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "2030 Agenda for Sustainable Development",
+    "Object": "Albania",
+    "Description": "Drawing on its reputation as a United Nations system \u201cintegrator\u201d for the 2030 Agenda for Sustainable Development and trusted impartial partner, UNDP will continue to liaise with the Government, donors and international institutions to mobilize financing to support economic transformation and eradication of multidimensional poverty; and establish systems that address risks, disasters and social injustice within the Sustainable Development Goals.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "join the European Union",
+    "Object": "Albania",
+    "Description": "Work at the local level and partnerships within the United Nations and across society position UNDP well to support aspirations to join the European Union and attain the outcomes of the United Nations Sustainable Development Cooperation Framework (UNSDCF).",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "highly relevant",
+    "Object": "Albania",
+    "Description": "The summary of the previous country programme\u2019s performance concluded that UNDP support to development remains highly relevant in Albania.",
     "Relevance": 8
   },
   {
-    "Relation": "partners_with",
+    "Subject": "Albania",
+    "Relation": "focuses on",
+    "Object": "2030 Agenda",
+    "Description": "UNDP support to development remains highly relevant in Albania."
+  },
+  {
     "Subject": "UNDP",
-    "Object": "United Nations",
+    "Relation": "partners with",
+    "Object": "Sustainable Development Goals",
+    "Description": "UNDP has established multi-stakeholder partnerships on priorities for the Sustainable Development Goals."
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "partners with",
+    "Object": "United Nations agencies",
+    "Description": "Through a portfolio approach, UNDP will target these groups and increase social cohesion and social protection, in partnership with national and local governments, United Nations agencies and civil society.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "partners with",
+    "Object": "United Nations agencies",
+    "Description": "UNDP will partner with United Nations agencies on joint programmes related to leaving no one behind, strategic policy options for Sustainable Development Goal financing and ending violence against 9.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "partners with",
+    "Object": "United Nations agencies",
     "Description": "Partnering with United Nations agencies, UNDP will implement programmes on a green circular economy and sustainable economic 10.",
     "Relevance": 7
   },
   {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "Government",
-    "Description": "Through a portfolio approach, UNDP will target these groups and increase social cohesion and social protection, in partnership with national and local governments, United Nations agencies and civil society.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "supports",
-    "Subject": "UNDP",
-    "Object": "Government",
-    "Description": "With United Nations agencies, UNDP will support employment measures for vulnerable groups, integrate small and medium-sized enterprises in global value chains, and support civil society to increase women\u2019s access to careers in science, technology, engineering and mathematics.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "contributes_to",
-    "Subject": "UNDP",
-    "Object": "Sustainable Development Goals",
-    "Description": "Through a portfolio approach, UNDP will target these groups and increase social cohesion and social protection, in partnership with national and local governments, United Nations agencies and civil society.",
+    "Subject": "Sustainable Development Goals",
+    "Relation": "focuses on",
+    "Object": "Western Balkan Regional Economic Area",
+    "Description": "UNDP will focus on integrated solutions that address cross-cutting problems, i.e., identifying nature-based solutions that support the transition to a clean green economy, promote ecotourism and create new jobs in competitive sectors within the Western Balkan Regional Economic Area.",
     "Relevance": 8
   },
   {
-    "Relation": "contributes_to",
-    "Subject": "UNDP",
-    "Object": "Sustainable Development Goals",
-    "Description": "With United Nations agencies, UNDP will support employment measures for vulnerable groups, integrate small and medium-sized enterprises in global value chains, and support civil society to increase women\u2019s access to careers in science, technology, engineering and mathematics.",
-    "Relevance": 8
-  },
-  {
-    "Relation": "aligns_with",
-    "Subject": "UNDP",
+    "Subject": "Albania",
+    "Relation": "partners with",
     "Object": "European Union",
-    "Description": "Economic growth is too low to converge with European Union living standards and achieve the Sustainable Development Goals.",
+    "Description": "With Albania positioning itself as a unifying actor for regional cooperation, security and stability, and taking the initial steps to establish the national disaster risk management system as a requirement to join the European Union Civil Protection Mechanism, UNDP will continue to promote knowledge-sharing and relevant practices across the subregion.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "United Nations",
+    "Relation": "partners with",
+    "Object": "UNDP",
+    "Description": "Building on previous successes, UNDP will work with civil society and the government to improve human capacities and data systems for performance, transparency and planning. UNDP will work on the quality of services and rule of law, in close collaboration with United Nations partners.",
     "Relevance": 7
   },
   {
-    "Relation": "achieves",
-    "Subject": "UNDP",
-    "Object": "Sustainable Development Goals",
-    "Description": "achieve the Sustainable Development Goals",
-    "Relevance": 9
-  },
-  {
-    "Relation": "contributes_to",
-    "Subject": "UNDP",
-    "Object": "Sustainable Development",
-    "Description": "UNDP will contribute to these priorities, and application of its six signature solutions will help the country accelerate structural transformations.",
+    "Subject": "Albania",
+    "Relation": "contributes to",
+    "Object": "UNDP",
+    "Description": "Albania will contribute to the priorities of UNDP.",
     "Relevance": 8
   },
   {
-    "Relation": "partners_with",
+    "Subject": "European Union",
+    "Relation": "contributes to",
+    "Object": "UNDP",
+    "Description": "The European Union will contribute to the priorities of UNDP.",
+    "Relevance": 7
+  },
+  {
     "Subject": "UNDP",
+    "Relation": "partners with",
+    "Object": "United Nations agencies",
+    "Description": "UNDP partners with United Nations agencies to achieve its goals.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "partners with",
     "Object": "United Nations",
     "Description": "With United Nations agencies, UNDP will ensure civic engagement and capacities for dialogue and implementation of social care plans.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "partners_with",
-    "Subject": "UNDP",
-    "Object": "European Union",
-    "Description": "In addition, it is aligned with the UNDP Strategic Plan and contributes to different European Union acquis chapters.",
-    "Relevance": 7
-  },
-  {
-    "Relation": "addresses",
-    "Subject": "UNDP",
-    "Object": "Albania",
-    "Description": "UNDP will work with national partners to promote social cohesion and strengthen social protection systems, services and financing mechanisms to increase coverage and quality for vulnerable groups.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "partners_with",
-    "Subject": "UNDP",
-    "Object": "European Union",
-    "Description": "UNDP, with the European Union, will continue investments in the education sector affected by the 2019 earthquake, adopting European Union standards and expanding information and communication technology measures as a post-COVID-19 recovery strategy.",
     "Relevance": 8
   },
   {
-    "Relation": "implements",
     "Subject": "UNDP",
-    "Object": "United Nations",
-    "Description": "UNDP will technically lead implementation of the United Nations COVID-19 socioeconomic recovery plan.",
-    "Relevance": 9
+    "Relation": "partners with",
+    "Object": "Government",
+    "Description": "UNDP will assist the Government in driving policies and actions that focus on prevention and reduction of disaster-related risks, increasing resilience of infrastructures, ecosystems and society, and enabling adaptive capacities, all as a means to reduce the long-term vulnerability of the population and protect development investments, particularly in at-risk areas.",
+    "Relevance": 8
   },
   {
-    "Relation": "addresses",
     "Subject": "UNDP",
-    "Object": "Drini River Basin",
-    "Description": "UNDP will support policies that accelerate an inclusive, productive and sustainable economy, enhance climate resilience and adaptation planning, and transition into a clean green economy, in line with the Government\u2019s national strategies. This will be done through promoting a \u201csource-to-sea\u201d approach, and strengthen transboundary cooperation for water resources management in the Drini River Basin.",
+    "Relation": "supports",
+    "Object": "National Public Administration Reform Strategy",
+    "Description": "UNDP will broaden partnerships for a stronger good governance framework, in line with the National Public Administration Reform Strategy.",
     "Relevance": 7
   },
   {
+    "Subject": "People\u2019s Advocate",
     "Relation": "supports",
+    "Object": "UNDP",
+    "Description": "UNDP will continue to support the People\u2019s Advocate."
+  },
+  {
     "Subject": "UNDP",
+    "Relation": "supports",
     "Object": "People\u2019s Advocate",
-    "Description": "UNDP will continue to support the People\u2019s Advocate, and the Commissioners for Information and Data Protection and Protection from Discrimination.",
-    "Relevance": 7
+    "Description": "UNDP will continue to support the People\u2019s Advocate."
   },
   {
-    "Relation": "supports",
     "Subject": "UNDP",
-    "Object": "Commissioners for Information and Data Protection and Protection from Discrimination",
-    "Description": "UNDP will continue to support the People\u2019s Advocate, and the Commissioners for Information and Data Protection and Protection from Discrimination.",
-    "Relevance": 7
+    "Relation": "supports",
+    "Object": "Government",
+    "Description": "UNDP will continue to support the Government."
   },
   {
-    "Relation": "supports",
     "Subject": "UNDP",
-    "Object": "Albania",
-    "Description": "Natural or man-made hazards, with insufficient institutional and local preparedness to respond, can impact the ability of UNDP to support Albania",
+    "Relation": "supports",
+    "Object": "Government",
+    "Description": "UNDP will continue to support the Government to generate quality gender-disaggregated data for targeted, informed investments and quantifying of results."
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "supports",
+    "Object": "Government",
+    "Description": "UNDP will continue to support the Government to address structural and systemic barriers to gender equality and women\u2019s empowerment in policy formulation and implementation."
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "partners with",
+    "Object": "United Nations",
+    "Description": "UNDP will participate in joint Government\u2013United Nations coordination mechanisms.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "monitors",
+    "Object": "Executive Board",
+    "Description": "This country programme document (CPD) outlines UNDP\u2019s contributions to national results and serves as the primary unit of accountability to the Executive Board for results alignment and resources assigned to the programme at country level.",
     "Relevance": 9
   },
   {
-    "Relation": "monitors",
     "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Albania",
+    "Description": "Risks will be managed through coordination and partnerships; advocacy and policy dialogue; regular monitoring of risks, project and results; and updating of contingency plans for the country office and national emergencies.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Albania",
+    "Description": "The main risk to the programme relates to the ongoing impact of COVID-19 and an unforeseen impact on the capacity to implement the programme or achieve its results.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Albania",
+    "Description": "Possible changes in the process and requirements for European Union accession may impact national development policies.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Albania",
+    "Description": "Natural or man-made hazards, with insufficient institutional and local preparedness to respond, can impact the ability of UNDP to support Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Albania",
+    "Description": "Risks will be managed through coordination and partnerships; advocacy and policy dialogue; regular monitoring of risks, project and results; and updating of contingency plans for the country office and national emergencies.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "monitors",
     "Object": "Executive Board",
     "Description": "The monitoring and evaluation plan will be implemented following endorsement of the CPD by the Executive Board.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "monitors",
+    "Object": "Sustainable Development Goals",
+    "Description": "The results framework is aligned with indicators related to European Union accession, the NSDI and the national indicator framework for the Sustainable Development Goals.",
     "Relevance": 8
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "Sustainable Development Goals",
+    "Description": "The results framework is aligned with indicators related to European Union accession, the NSDI and the national indicator framework for the Sustainable Development Goals.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "monitors",
+    "Object": "National Statistical Office",
+    "Description": "UNDP will employ national monitoring systems, official statistical data and reports from line ministries, development partners and research institutions to measure its contribution to national results.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "contributes to",
+    "Object": "National Statistical Office",
+    "Description": "UNDP will employ national monitoring systems, official statistical data and reports from line ministries, development partners and research institutions to measure its contribution to national results.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "UNDP",
+    "Relation": "supports",
+    "Object": "European Union",
+    "Description": "The monitoring and evaluation plan will be implemented following endorsement of the CPD by the Executive Board.",
+    "Relevance": 7
   }
 ]
