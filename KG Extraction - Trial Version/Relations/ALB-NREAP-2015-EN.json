@@ -1,0 +1,479 @@
+[
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "National Action Plan for Renewable Energy",
+    "Description": "One of the requests of the law 138/2013 \u201cOn Renewable Energy Resources\u201d and of this Directive is the preparation and the approval of the National Action Plan for Renewable Energy (NREAP), which establishes national objectives of renewable energies in the final total domestic consumption as well as the supporting measures to achieve them.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "supports",
+    "Object": "National Action Plan for Renewable Energy",
+    "Description": "Albanian Government considers the promotion of renewable energies implementation as an important means of energy policies to increase the security for energy supply, economic development, energy sector sustainability",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "Implementing the approach determined in the Directive, pursuant to technologies, the basic data are provided for ERE promotion.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "Renewable energy for ERE-T transport sector: In order for the ERE consumption National Objective of 38% to be accomplished in 2020, the consumption of 3% for the Albanian territory of EGFC has been predicted.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "This amount of the renewable part in biofuels takes into consideration the increase with 60 ktoe in 2020 compared to 2014.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "Renewable energy for heating and cooling sector ERE-H&C: in order for the ERE consumption National Objective of 38% to be accomplished in 2020, it is necessary that the consumption of 10% of EGFC in the Albanian territory, which has to be consumed in the Heating and Cooling system, ERE-H&C, is consumed.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Drin",
+    "Relation": "in",
+    "Object": "Albanian",
+    "Description": "The hydropower stations established and linked on the cascade on the river Drin represent about 80% of the total energy production.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Adriatic",
+    "Description": "Albania is located along the Adriatic coastline.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "supports",
+    "Object": "Albania",
+    "Description": "The Albanian Government supports the energy sector in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "partners_with",
+    "Object": "Albanian Agency of Investment Developments",
+    "Description": "The Albanian Government collaborates with the Albanian Agency of Investment Developments.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Agency of Investment Developments",
+    "Relation": "partners_with",
+    "Object": "Albanian Government",
+    "Description": "The Albanian Agency of Investment Developments collaborates with the Albanian Government.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Mat",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The river Mat is located in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Vjosa",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The river Vjosa is located in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Devoll",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The river Devoll is located in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Bistrica",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The river Bistrica is located in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "contributes_to",
+    "Object": "Directive",
+    "Description": "Albania is compelled to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "contributes_to",
+    "Object": "EU Directive",
+    "Description": "Albania is compelled to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Durres",
+    "Relation": "in",
+    "Object": "Porto Romano"
+  },
+  {
+    "Subject": "Porto Romano",
+    "Relation": "in",
+    "Object": "Durres"
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "funds",
+    "Object": "Albanian Government",
+    "Description": "The Albanian Government and ERE are reviewing bylaws, with the aim of meeting the requirements of the new law on energy sector, including a number of bylaws provided below.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "monitors",
+    "Object": "Albanian Government",
+    "Description": "The Albanian Government and ERE are reviewing bylaws, with the aim of meeting the requirements of the new law on energy sector, including a number of bylaws provided below.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "National Territorial Council",
+    "Description": "The National Territorial Council is associated with Albania."
+  },
+  {
+    "Subject": "National Territory Council",
+    "Relation": "partners_with",
+    "Object": "National Territorial Council",
+    "Description": "The National Territory Council collaborates with the National Territorial Council."
+  },
+  {
+    "Subject": "Agency for Treatment of Concessions",
+    "Relation": "partners_with",
+    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
+    "Description": "ATC collaborates with the Ministry of Economic Development, Trade, Entrepreneurship and Tourism in evaluating and negotiating concessions in all fields of concessions, including the construction of hydropower plants.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Licensing Centre",
+    "Relation": "administers",
+    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
+    "Description": "The National Licensing Centre, under the subordination of the Ministry of Economic Development, Trade, Entrepreneurship and Tourism, facilitates licensing procedures, authorizations, and permits issued by public authorities.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Agency of Territorial Planning",
+    "Relation": "supports",
+    "Object": "Ministry of Urban Development",
+    "Description": "supports the horizontal coordination between the national authorities in the field of territory planning, with a view of harmonizing issues of national importance addressed in different fields and sectors, bringing together the responsible authorities and interested stakeholders and helping to resolve the conflicts between them",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Republic of Albania",
+    "Relation": "in",
+    "Object": "Energy Regulatory Entity",
+    "Description": "Authorizations for the construction of installations of renewable energy are granted by the Council of Ministers or by the requirements of the law on concessions for hydropower plants, or as required by law for the energy sector to other types of producers of electricity using renewable energy, or the law on bio-fuels for bio-fuel producers.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "addresses",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Republic of Albania",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Environmental Impact Assessment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Regulatory Entity",
+    "Relation": "in",
+    "Object": "Ministry of Environment",
+    "Description": "Any project which envisages the power generation from RESor for any producer of bio-fuels is required to perform the procedure of preliminary or in-depth Environmental Impact Assessment (depending on the project), and then if the installation is listed in Annex 1 the law in force for environmental permits, and should be supplied with an environmental Permit of type A, B or C. Environmental protection law and the law on environmental impact assessment require the Ministry of Environment and its subordinate institutions and local authorities to cooperate throughout the process, ensuring public participation in any potential decision making process.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Law",
+    "Relation": "addresses",
+    "Object": "National Licensing Center",
+    "Description": "The establishment of the National Licensing Center has been a positive step forward in creating a 'one-stop shop' service for all licenses and permits required for a project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "ERE",
+    "Description": "The authorization procedures of Albania take into account the specificities of different technologies of renewable energies, because they are governed by different legislations.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Official Journal",
+    "Description": "Tariffs for the authorization of new RES plants are published in the Official Journal and in MEI website together with the relevant government decision containing the criteria and procedures for reviewing and granting authorizations.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Urban Development",
+    "Relation": "partners_with",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "Energy issues in buildings are divided between the Ministry of Urban Development and the Ministry of Energy and Industry."
+  },
+  {
+    "Subject": "UNDP Program on Climate Changes",
+    "Relation": "partners_with",
+    "Object": "Tirana",
+    "Description": "a proposal is made by virtue of a decision of the municipal council of Tirana for installation within minimum surfaces of NUED into different categories of buildings, including buildings with households, apartment blocks, private offices, hotels and restaurants, sports facilities.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Agency of Natural Resources",
+    "Relation": "partners_with",
+    "Object": "Albanian",
+    "Description": "The National Agency of Natural Resources collaborates with Albanian."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Montenegro",
+    "Description": "Albanian operator of the transmission system has already completed a new 400 kV interconnection line with Montenegro (Tirana 2 - Podgorica), which increased the capacity of the Albanian system interconnection up to 1000 MW.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": "Currently, OST is working to build a new 400 kV line with Kosovo (Tirana 2 - Pristina), which is expected to be completed in 2016.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Macedonian",
+    "Description": "In addition, a Memorandum of Understanding is signed between the Albanian and Macedonian transmission system operators for the construction of a new 400 kV line (Elbasan-Bitola).",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Italy",
+    "Description": "Private investors have also shown interest to build an underwater cable system linking Albania to Italy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "National Action Plan for Renewable Energy",
+    "Description": "One of the requests of the law 138/2013 \u201cOn Renewable Energy Resources\u201d and of this Directive is the preparation and the approval of the National Action Plan for Renewable Energy (NREAP), which establishes national objectives of renewable energies in the final total domestic consumption as well as the supporting measures to achieve them.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "supports",
+    "Object": "National Action Plan for Renewable Energy",
+    "Description": "Albanian Government considers the promotion of renewable energies implementation as an important means of energy policies to increase the security for energy supply, economic development, energy sector sustainability",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "Implementing the approach determined in the Directive, pursuant to technologies, the basic data are provided for ERE promotion.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "In order for the ERE consumption National Objective of 38% to be accomplished in 2020, the consumption of 3% for the Albanian territory of EGFC has been predicted.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "This amount of the renewable part in biofuels takes into consideration the increase with 60 ktoe in 2020 compared to 2014.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Drin",
+    "Relation": "in",
+    "Object": "Albanian",
+    "Description": "The hydropower stations established and linked on the cascade on the river Drin represent about 80% of the total energy production.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Directive",
+    "Description": "Albania is compelled to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "EU Directive",
+    "Description": "Albania is compelled to transpose and be in compliance with the EU Directive 2009/28/EC",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "EU Directives",
+    "Description": "Albania has undertaken a series of steps for the inclusion of in its policies for energy, the requests of the EU Directives about the common rules for the creation and the development of internal energy market and the enhancement of production and energy consumption from renewable resources.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Durres",
+    "Relation": "in",
+    "Object": "Porto Romano"
+  },
+  {
+    "Subject": "Porto Romano",
+    "Relation": "in",
+    "Object": "Durres"
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "National Territorial Council",
+    "Description": "The National Territorial Council is associated with Albania."
+  },
+  {
+    "Subject": "National Tourism Council",
+    "Relation": "administers",
+    "Object": "National Territorial Council",
+    "Description": "The National Tourism Council administers the National Territorial Council.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Agency for Treatment of Concessions",
+    "Relation": "partners_with",
+    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
+    "Description": "ATC collaborates with the Ministry of Economic Development, Trade, Entrepreneurship and Tourism in evaluating and negotiating concessions.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Licensing Centre",
+    "Relation": "partners_with",
+    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
+    "Description": "NLC collaborates with the Ministry of Economic Development, Trade, Entrepreneurship and Tourism in facilitating licensing procedures.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Licensing Centre",
+    "Relation": "administers",
+    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
+    "Description": "NLC administers licenses, authorizations, and permits issued by public authorities under the Ministry of Economic Development, Trade, Entrepreneurship and Tourism.",
+    "Relevance": 9
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "Subject": "Kabul",
+    "Relation": "in",
+    "Object": "Afghanistan",
+    "Description": "Kabul is located in Afghanistan.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "addresses",
+    "Object": "Roadmap",
+    "Description": "The Roadmap includes an estimation of technology specific achievable targets based on RE potential that has already been mapped and segregated region-wise."
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "Roadmap",
+    "Description": "The Roadmap develops a strategy for achieving these goals.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Kabul",
+    "Relation": "in",
+    "Object": "Afghanistan"
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "administers",
+    "Object": "SPPD",
+    "Description": "A corporate body is needed to act as the SPPD."
+  },
+  {
+    "Subject": "Charanka",
+    "Relation": "in",
+    "Object": "Gujarat Power Corporation Limited",
+    "Description": "For Charanka, the Gujarat Power Corporation Limited acted as the SPPD.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "partners_with",
+    "Object": "Bhiwandi",
+    "Description": "Torrent Power Limited launched one of the first input based distribution franchisee operations in Bhiwandi circle of Maharashtra in western India.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "contributes_to",
+    "Object": "Bhiwandi",
+    "Description": "Torrent Power Limited contributes to the development and improvement of the distribution franchisee operations in Bhiwandi circle of Maharashtra in western India.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "supports",
+    "Object": "Bhiwandi",
+    "Description": "Torrent Power Limited provides backing and endorsement to the distribution franchisee operations in Bhiwandi circle of Maharashtra in western India.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Bhiwandi",
+    "Relation": "in",
+    "Object": "Maharashtra",
+    "Description": "Bhiwandi is located in the state of Maharashtra in western India.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Bhiwandi",
+    "Relation": "in",
+    "Object": "India",
+    "Description": "Bhiwandi is located in the country of India.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Bhiwandi",
+    "Relation": "in",
+    "Object": "Afghanistan",
+    "Description": "Bhiwandi is not located in Afghanistan.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "partners_with",
+    "Object": "India",
+    "Description": "Torrent Power Limited has partnerships and collaborations in India.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "contributes_to",
+    "Object": "India",
+    "Description": "Torrent Power Limited contributes to the development and improvement of the power sector in India.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Torrent Power Limited",
+    "Relation": "supports",
+    "Object": "India",
+    "Description": "Torrent Power Limited provides backing and endorsement to the power sector in India.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "India",
+    "Relation": "in",
+    "Object": "Afghanistan",
+    "Description": "India is not located in Afghanistan.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "India",
+    "Relation": "in",
+    "Object": "Maharashtra",
+    "Description": "India is not located in Maharashtra.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "India",
+    "Relation": "in",
+    "Object": "Bhiwandi",
+    "Description": "India is not located in Bhiwandi.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "India",
+    "Relation": "partners_with",
+    "Object": "Afghanistan",
+    "Description": "India has partnerships and collaborations with Afghanistan.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "India",
+    "Relation": "contributes_to",
+    "Object": "Afghanistan",
+    "Description": "India contributes to the development and improvement of various sectors in Afghanistan.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "India",
+    "Relation": "supports",
+    "Object": "Afghanistan",
+    "Description": "India provides backing and endorsement to various initiatives and projects in Afghanistan.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "in",
+    "Object": "India",
+    "Description": "Afghanistan is not located in India.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "in",
+    "Object": "Maharashtra",
+    "Description": "Afghanistan is not located in Maharashtra.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "in",
+    "Object": "Bhiwandi",
+    "Description": "Afghanistan is not located in Bhiwandi.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "India",
+    "Description": "Afghanistan has partnerships and collaborations with India.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "contributes_to",
+    "Object": "India",
+    "Description": "Afghanistan contributes to the development and improvement of various sectors in India.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "supports",
+    "Object": "India",
+    "Description": "Afghanistan provides backing and endorsement to various initiatives and projects in India.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "in",
+    "Object": "India",
+    "Description": "Maharashtra is located in the country of India.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "in",
+    "Object": "Afghanistan",
+    "Description": "Maharashtra is not located in Afghanistan.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "in",
+    "Object": "Bhiwandi",
+    "Description": "Maharashtra is not located in Bhiwandi.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "partners_with",
+    "Object": "India",
+    "Description": "Maharashtra has partnerships and collaborations with India.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "contributes_to",
+    "Object": "India",
+    "Description": "Maharashtra contributes to the development and improvement of various sectors in India.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Maharashtra",
+    "Relation": "supports",
+    "Object": "India",
+    "Description": "Maharashtra provides backing and endorsement to various initiatives and projects in India.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Kabul",
+    "Relation": "in",
+    "Object": "Afghanistan",
+    "Description": "Kabul is located in Afghanistan.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "addresses",
+    "Object": "Roadmap",
+    "Description": "The Roadmap includes an estimation of technology specific achievable targets based on RE potential that has already been mapped and segregated region-wise.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Stage-Gate",
+    "Relation": "implements",
+    "Object": "Roadmap",
+    "Description": "The Roadmap uses a Stage-Gate model to discuss the enablers that are required for development of RE markets across several technologies and business models.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "addresses",
+    "Object": "Roadmap",
+    "Description": "The Roadmap develops a strategy for achieving these goals.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "administers",
+    "Object": "SPPD",
+    "Description": "A corporate body is needed to act as the SPPD."
+  }
+]

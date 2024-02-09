@@ -1,0 +1,68 @@
+[
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "funds",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation provides financial support to the Results Delivery Framework.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "partners_with",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation collaborates with the Results Delivery Framework.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "administers",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation administers the operations of the Results Delivery Framework.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "contributes_to",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation contributes to the advancement of the Results Delivery Framework.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "supports",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation supports the Results Delivery Framework.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ceylon Petroleum Corporation",
+    "Relation": "monitors",
+    "Object": "Results Delivery Framework",
+    "Description": "The Ceylon Petroleum Corporation monitors the progress of the Results Delivery Framework.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Colombo",
+    "Relation": "in",
+    "Object": "Airport",
+    "Description": "The most widely used suburban rail corridors between Colombo and the Airport will be upgraded and electrified by mid-2023."
+  },
+  {
+    "Subject": "Colombo",
+    "Relation": "in",
+    "Object": "Avissawella",
+    "Description": "The most widely used suburban rail corridors between Colombo and Avissawella will be upgraded and electrified by mid-2023."
+  },
+  {
+    "Subject": "Colombo",
+    "Relation": "in",
+    "Object": "Negombo",
+    "Description": "The most widely used suburban rail corridors between Colombo and Negombo will be upgraded and electrified by mid-2023."
+  },
+  {
+    "Subject": "Colombo",
+    "Relation": "in",
+    "Object": "Panadura",
+    "Description": "The most widely used suburban rail corridors between Colombo and Panadura will be upgraded and electrified by mid-2023."
+  }
+]

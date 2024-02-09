@@ -14,13 +14,6 @@
     "Relevance": 8
   },
   {
-    "Subject": "Albania",
-    "Relation": "has_a_considerable_potential_of",
-    "Object": "RER",
-    "Description": "Albania has a considerable potential of RER.",
-    "Relevance": 8
-  },
-  {
     "Relation": "implements",
     "Subject": "Albania",
     "Object": "EU Directive 2009",
@@ -61,13 +54,6 @@
     "Object": "Objective",
     "Description": "Exactly for Albania, there is an Objective of 38% and the specific obligation within this Objective to fulfill 10% of the energy used in transport by renewable resources.",
     "Relevance": 6
-  },
-  {
-    "Relation": "of",
-    "Subject": "Albania",
-    "Object": "Directive 2009 / 28 / EC 4",
-    "Description": "According to the provision in Article (2)f of the Directive 2009/28/EC.",
-    "Relevance": 4
   },
   {
     "Relation": "aligns_with",

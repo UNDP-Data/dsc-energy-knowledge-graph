@@ -1,0 +1,29 @@
+[
+  {
+    "Subject": "Climate Risk Index",
+    "Relation": "addresses",
+    "Object": "Sri Lanka",
+    "Description": "Sri Lanka ranks among the top 10 most climate-vulnerable countries on the Climate Risk Index.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Nationally Determined Contributions",
+    "Relation": "targets",
+    "Object": "Sri Lanka",
+    "Description": "In 2021, Sri Lanka updated its Nationally Determined Contributions, renewing commitments to increase forest cover up to 32 per cent, reduce greenhouse gas emissions by 14.5 per cent by 2030, and achieve carbon neutrality in electricity generation with no capacity addition of coal power plants by 2050.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "2030 Agenda for Sustainable Development",
+    "Relation": "focuses_on",
+    "Object": "Sri Lanka",
+    "Description": "The United Nations Sustainable Development Cooperation Framework (UNSDCF), with its four mutually reinforcing strategic priorities and six outcome areas, responds to the policy priorities of the Government and the 2030 Agenda for Sustainable Development, and focuses on equity and \u2018leaving no-one behind\u2019.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Citra Lab",
+    "Relation": "an_instance_of",
+    "Object": "South Asia",
+    "Description": "the first dedicated social innovation facility in South Asia"
+  }
+]

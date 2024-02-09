@@ -1,0 +1,58 @@
+[
+  {
+    "Subject": "Argentina",
+    "Relation": "focuses_on",
+    "Object": "World Bank",
+    "Description": "Argentina is classified by the World Bank as an upper-middle-income country",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Federal Sustainable Development Goals Network",
+    "Relation": "partners_with",
+    "Object": "Environment and Sustainable Development",
+    "Description": "The Federal Sustainable Development Goals Network partners with the Environment and Sustainable Development.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Social Policy Coordination Council",
+    "Relation": "contributes_to",
+    "Object": "Secretariat of Human Rights of the Nation",
+    "Description": "The National Social Policy Coordination Council contributes to the Secretariat of Human Rights of the Nation.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "International Trade and Worship",
+    "Relation": "partners_with",
+    "Object": "Ministry of Foreign Affairs",
+    "Description": "International Trade and Worship partners with the Ministry of Foreign Affairs.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Secretariat for Strategic Affairs of the Presidency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Foreign Affairs",
+    "Description": "The Secretariat for Strategic Affairs of the Presidency partners with the Ministry of Foreign Affairs.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Environment",
+    "Relation": "supports",
+    "Object": "Paris Agreement on Climate Change",
+    "Description": "The Ministry of Environment supports the Paris Agreement on Climate Change.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Environment",
+    "Relation": "partners_with",
+    "Object": "United Nations Environment Programme",
+    "Description": "The Ministry of Environment partners with the United Nations Environment Programme.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "United Nations",
+    "Relation": "partners_with",
+    "Object": "Global Compact",
+    "Description": "The local Global Compact network in Argentina",
+    "Relevance": 7
+  }
+]

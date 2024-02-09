@@ -1,0 +1,16 @@
+[
+  {
+    "Subject": "United Arab Emirates",
+    "Relation": "in",
+    "Object": "Masdar City",
+    "Description": null,
+    "Relevance": 5
+  },
+  {
+    "Subject": "Masdar City",
+    "Relation": "in",
+    "Object": "United Arab Emirates",
+    "Description": null,
+    "Relevance": 5
+  }
+]

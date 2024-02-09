@@ -1,0 +1,476 @@
+[
+  {
+    "Subject": "Federal Government",
+    "Relation": "addresses",
+    "Object": "Nigeria",
+    "Description": "Government will leverage its large gas portfolio to ensure that gas development is undertaken in accordance with Nigeria\u2019s Gas Legislation"
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "administers",
+    "Object": "National Petroleum Policy Directorate",
+    "Description": "A National Petroleum Policy Directorate will be established within the Ministry to act as a technical back office of the Minister in his policy making role."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "monitors",
+    "Object": "National Petroleum Policy Directorate",
+    "Description": "The Ministry oversees or tracks the progress of the National Petroleum Policy Directorate."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "employs",
+    "Object": "Gas Policy Division",
+    "Description": "The Ministry employs the Gas Policy Division for policy implementation in the gas sector."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "employs",
+    "Object": "Oil Policy Division",
+    "Description": "The Ministry employs the Oil Policy Division for policy implementation in the oil sector."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "employs",
+    "Object": "Strategic Planning and Policy Research Centre",
+    "Description": "The Ministry employs the Strategic Planning and Policy Research Centre for keeping track of local and international developments."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "partners_with",
+    "Object": "Consumer Protection",
+    "Description": "The Ministry collaborates with Consumer Protection to establish a consumer representation and protection body."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "partners_with",
+    "Object": "Regulator",
+    "Description": "The Ministry collaborates with the Regulator to prescribe and communicate a consumer protection standard for the gas sector."
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "partners_with",
+    "Object": "Niger Delta",
+    "Description": "The Ministry collaborates with Niger Delta to resolve the Niger Delta militancy issues."
+  },
+  {
+    "Subject": "Investment Promotion Office",
+    "Relation": "partners_with",
+    "Object": "Ministry",
+    "Description": "The Investment Promotion Office will work with the Ministry to promote investment opportunities in Nigeria.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry",
+    "Relation": "partners_with",
+    "Object": "Investment Promotion Office",
+    "Description": "The Ministry partners with the Investment Promotion Office to promote investment opportunities in Nigeria.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Gas Focal Point",
+    "Relation": "administers",
+    "Object": "Ministry",
+    "Description": "The National Gas Focal Point shall be a Senior person in the Ministry charged with oversight on the practical implementation of the gas policy, overcoming any obstacles and ensuring consensus and a coordinated development among all the participants.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Oil and Gas Policy Divisions",
+    "Relation": "partners_with",
+    "Object": "Government",
+    "Description": "The dedicated \u201cProject Desks\u201d within the Oil and Gas Policy Divisions will serve as Interface between project developers and Government. The Project desks will not duplicate the activities of other departments or agencies of the Government or the regulator. Instead, their role essentially will be to lobby and push projects or programmes provided for or relevant to the Gas Policy through Government. Their job will be to engage and fully involve other parts of Government and the private sector to ensure that projects or programmes are implemented.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Oben",
+    "Relation": "addresses",
+    "Object": "Nigeria",
+    "Description": "Oben addresses the issue of gas market operation in Nigeria.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "addresses",
+    "Object": "Oben",
+    "Description": "Nigeria addresses the issue of gas market operation in Oben.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "addresses",
+    "Object": "National Petroleum Fiscal Policy",
+    "Description": "This is embedded in a separate and complementary National Petroleum Fiscal Policy document issued by the Government.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "addresses",
+    "Object": "Nigeria",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Tax on Rent",
+    "Relation": "addresses",
+    "Object": "Nigeria",
+    "Description": "Enabling gas exploitation in Nigeria through policy regulatory and fiscal interventions",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "employs",
+    "Object": "Nigerian Petroleum Investment Management Services Limited",
+    "Description": "NNPC employs Nigerian Petroleum Investment Management Services Limited.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "partners_with",
+    "Object": "Nigerian Petroleum Development Company Limited",
+    "Description": "NNPC partners with Nigerian Petroleum Development Company Limited.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Processing & Transportation Company",
+    "Description": "NNPC partners with Nigerian Gas Processing & Transportation Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Marketing Company",
+    "Description": "NNPC partners with Nigerian Gas Marketing Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "NNPC is located in Nigeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Petroleum Investment Management Services Limited",
+    "Relation": "partners_with",
+    "Object": "Nigerian Petroleum Development Company Limited",
+    "Description": "Nigerian Petroleum Investment Management Services Limited partners with Nigerian Petroleum Development Company Limited.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Investment Management Services Limited",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Processing & Transportation Company",
+    "Description": "Nigerian Petroleum Investment Management Services Limited partners with Nigerian Gas Processing & Transportation Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Investment Management Services Limited",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Marketing Company",
+    "Description": "Nigerian Petroleum Investment Management Services Limited partners with Nigerian Gas Marketing Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Investment Management Services Limited",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Nigerian Petroleum Investment Management Services Limited is located in Nigeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Petroleum Development Company Limited",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Processing & Transportation Company",
+    "Description": "Nigerian Petroleum Development Company Limited partners with Nigerian Gas Processing & Transportation Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Development Company Limited",
+    "Relation": "partners_with",
+    "Object": "Nigerian Gas Marketing Company",
+    "Description": "Nigerian Petroleum Development Company Limited partners with Nigerian Gas Marketing Company.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Development Company Limited",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Nigerian Petroleum Development Company Limited is located in Nigeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Processing & Transportation Company",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Nigerian Gas Processing & Transportation Company is located in Nigeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Nigerian Gas Marketing Company is located in Nigeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "NNPC",
+    "Description": "Nigerian Gas Marketing Company is a part of NNPC.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "Nigerian National Petroleum Corporation",
+    "Description": "Nigerian Gas Marketing Company is a part of Nigerian National Petroleum Corporation.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "Nigerian Petroleum Investment Management Services Limited",
+    "Description": "Nigerian Gas Marketing Company is a part of Nigerian Petroleum Investment Management Services Limited.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "Nigerian Petroleum Development Company Limited",
+    "Description": "Nigerian Gas Marketing Company is a part of Nigerian Petroleum Development Company Limited.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "in",
+    "Object": "Nigerian Gas Processing & Transportation Company",
+    "Description": "Nigerian Gas Marketing Company is a part of Nigerian Gas Processing & Transportation Company.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigerian National Petroleum Corporation",
+    "Relation": "partners_with",
+    "Object": "Equatorial Guinea",
+    "Description": "NNPC partners with Equatorial Guinea.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Development Company Limited",
+    "Relation": "partners_with",
+    "Object": "Equatorial Guinea",
+    "Description": "Nigerian Petroleum Development Company Limited partners with Equatorial Guinea.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Petroleum Investment Management Services Limited",
+    "Relation": "partners_with",
+    "Object": "Equatorial Guinea",
+    "Description": "Nigerian Petroleum Investment Management Services Limited partners with Equatorial Guinea.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Gas Processing & Transportation Company",
+    "Relation": "partners_with",
+    "Object": "Equatorial Guinea",
+    "Description": "Nigerian Gas Processing & Transportation Company partners with Equatorial Guinea.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigerian Gas Marketing Company",
+    "Relation": "partners_with",
+    "Object": "Equatorial Guinea",
+    "Description": "Nigerian Gas Marketing Company partners with Equatorial Guinea.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Eligible Suppliers",
+    "Relation": "partners_with",
+    "Object": "Eligible Offtaker",
+    "Description": "The downstream segment will be open for wholesale gas supply by Eligible Suppliers to any Eligible Offtaker who may commercially bypass distribution licensees consistent with the open access rules.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "addresses",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government prefers the utilisation of flared gas into markets, utilised by different downstream sectors, rather than flared or re-injected with no valid technical reason.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "targets",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Government",
+    "Relation": "contributes_to",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Government",
+    "Relation": "supports",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "addresses",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "contributes_to",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "supports",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Niger Delta",
+    "Relation": "addresses",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Niger Delta",
+    "Relation": "contributes_to",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Niger Delta",
+    "Relation": "supports",
+    "Object": "Gas Utilisation Projects",
+    "Description": "the government intends to maximise utilisation of associated gas to be treated for supply to power generation or industry.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "New Flare Capture Technologies",
+    "Relation": "addresses",
+    "Object": "Government",
+    "Description": "The government plans to open an industry consultation mechanism to ensure flaring targets are feasible and regulations are realistic.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "supports",
+    "Object": "New Flare Capture Technologies",
+    "Description": "The government will work collaboratively with industry, development partners, providers of flare-capture technologies, and third-party investors to develop flare capture and utilization projects.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "addresses",
+    "Object": "Gas Resource Management Plan",
+    "Description": "Gas development must be undertaken in accordance with Nigeria\u2019s national socio-economic development priorities. Accordingly, the government through the MPR and with support from NNPC and industry will produce a Gas Resource Management Plan.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "National Gas Infrastructure Blueprint",
+    "Relation": "addresses",
+    "Object": "Gas Resource Management Plan",
+    "Description": "The government will identify the key gas infrastructure needs and make appropriate recommendations for upgrading the design of the existing National Gas Infrastructure Blueprint to support the Gas Resource Management Plan.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Gas Master Plan Infrastructure Blueprint",
+    "Relation": "aligns_with",
+    "Object": "Gas Resource Management Plan",
+    "Description": "The Gas Master Plan Infrastructure Blueprint will be reviewed to ensure alignment with the Gas Resource Management Plan.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Strategic Gas Reserve",
+    "Relation": "targets",
+    "Object": "Gas Resource Management Plan",
+    "Description": "The National Strategic Gas Reserve will be reserved for future development and will be part of the Gas Resource Management Plan.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Nigerian LNG Company",
+    "Relation": "targets",
+    "Object": "Europe",
+    "Description": "Europe is one of the main destinations for Nigerian LNG exports.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Nigerian LNG Company",
+    "Relation": "targets",
+    "Object": "South America",
+    "Description": "South America is one of the main destinations for Nigerian LNG exports.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Russian Gazprom",
+    "Relation": "supports",
+    "Object": "UK-Belgium Gas Interconnector",
+    "Description": "As an example of the concept, Russian Gazprom has an equity shareholding in the UK-Belgium Gas Interconnector.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Niger",
+    "Relation": "partners_with",
+    "Object": "Nigeria",
+    "Description": "Initial feasibility studies have been carried out and MOUs have been signed amongst the governments of Nigeria, Niger and Algeria.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Nigeria",
+    "Relation": "partners_with",
+    "Object": "Algeria",
+    "Description": "MOUs have been signed amongst the governments of Nigeria, Niger and Algeria.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Apapa",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "The only functioning import jetties currently are at Apapa, Lagos.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Hyson",
+    "Relation": "partners_with",
+    "Object": "NNPC",
+    "Description": "Hyson is a JV of NNPC and VITOL.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "NNPC",
+    "Relation": "partners_with",
+    "Object": "Hyson",
+    "Description": "Hyson is a JV of NNPC and VITOL.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Calabar",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Two new terminals are under construction at Calabar and Port Harcourt.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Port Harcourt",
+    "Relation": "in",
+    "Object": "Nigeria",
+    "Description": "Two new terminals are under construction at Calabar and Port Harcourt.",
+    "Relevance": 8
+  }
+]

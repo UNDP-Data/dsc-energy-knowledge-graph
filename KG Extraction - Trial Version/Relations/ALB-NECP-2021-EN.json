@@ -1,0 +1,2377 @@
+[
+  {
+    "Subject": "Energy Community",
+    "Relation": "supports",
+    "Object": "Ministry of Infrastructure and Energy of Albania",
+    "Description": "The Energy Community supports the Ministry of Infrastructure and Energy of Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "International Climate Initiative",
+    "Relation": "supports",
+    "Object": "Ministry of Infrastructure and Energy of Albania",
+    "Description": "The International Climate Initiative supports the Ministry of Infrastructure and Energy of Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "German Bundestag",
+    "Relation": "supports",
+    "Object": "International Climate Initiative",
+    "Description": "The German Bundestag supports the International Climate Initiative.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "Gross Inland Consumption",
+    "Description": "In terms of Gross inland consumption (to be confirmed) 2019, the Albanian energy system has been dominated and still continues to be dominated by oil by products for transport use (appr. 53.3%), followed by electricity produced from hydropower (appr. 28.17%), and in the third place is biomass (fuelwood, appr. 6.8%) used for heating, cooking and domestic hot water.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Vlora thermal power plant (built with financing from the EBRD of EUR 40 million, EIB financing of EUR 40 million, and WB* financing of EUR 20.5 million) has never been put into operation since its completion in 2011. This is due to a failure in the plant\u2019s cooling system that has not been repaired.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "addresses",
+    "Object": "Strategy",
+    "Description": "The conversion of the Vlora power plant from oil use to gas use once it is connected to the TAP is encouraged. This would contribute to stabilizing the generation of electricity during droughts in the southern part of Albania. However, this will increase gas consumption and thus also CO2 emissions and must be taken into account accordingly in strategic planning.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "Strategy",
+    "Description": "The system must rely on domestic production and being affordable for consumers by creating an impact on poverty reduction.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Strategy",
+    "Description": "towards a diversified energy system using alternative energy resources like gas and renewables with less GHG emissions, and implementation of energy efficiency measures - based on cost effectiveness.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "supports",
+    "Object": "Strategy",
+    "Description": "The share of import in percentage of the Gross Inland Consumption is high, thus affecting the security of supply.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Albanian Energy Balance",
+    "Relation": "in",
+    "Object": "Transmission and Distribution",
+    "Description": "Based on the energy policy documents, sectors which are considered having a big potential for energy savings are the transport sector, public and private buildings, and industry.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Transmission and Distribution",
+    "Relation": "monitors",
+    "Object": "Albanian Energy Balance",
+    "Description": "A key issue for the performance of Transmission and Distribution companies as a very important aspect of energy supply is the phenomena of transmission and distribution losses.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Description": "Albania has prepared and adopted a number of policy documents, strategies and action plans aligned with the Energy and Climate Acquis of the Energy Community."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "European Green Deal",
+    "Description": "The Energy Strategy for Albania 2018-2030 is fully coherent with the objectives of the European Green Deal.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "aligns_with",
+    "Object": "EU",
+    "Description": "Given the current status of Albania as a candidate country in accession to the EU, it is likely during the period covered by this strategy Albania will accede to the EU.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Renewable Energy Source Action Plan",
+    "Relation": "addresses",
+    "Object": "Climate Change",
+    "Description": "The Albanian Renewable Energy Source Action Plan addresses the issue of Climate Change.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Strategy for the Climate Change",
+    "Relation": "aligns_with",
+    "Object": "European Parliament",
+    "Description": "The National Strategy for the Climate Change aligns with the goals and policies of the European Parliament.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Determined Contribution",
+    "Relation": "contributes_to",
+    "Object": "Climate Change",
+    "Description": "The National Determined Contribution contributes to the global efforts in tackling Climate Change.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian",
+    "Relation": "addresses",
+    "Object": "Directive",
+    "Description": "The draft law 2019 \u201dOn production, transportation and trade of biofuels and other renewable fuels for transport\u201d applies to the activities of production and use of biofuels and other renewable fuels used for internal combustion engines in transport, where the biodiesel and bioethanol levels are in accordance with Albanian standards.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "partners_with",
+    "Object": "ERE",
+    "Description": null,
+    "Relevance": 5
+  },
+  {
+    "Subject": "Energy Community",
+    "Relation": "partners_with",
+    "Object": "Renewable Energy Operator",
+    "Description": "The Energy Community collaborates with the Renewable Energy Operator to promote renewable energy."
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "The Energy Strategy addresses new laws, regulations and institutional reforms currently underway in Albania, including incentives for EE and RES, electricity tariff reform, market development and integration with EU and regional markets.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Energy Strategy",
+    "Relation": "targets",
+    "Object": "Directive 2010/31/EU",
+    "Description": "The Albanian Energy Strategy targets the implementation of Directive 2010/31/EU.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Eco-design Directive",
+    "Description": "Law on \u201cEnergy consumption Information and on other products related to the energy\" No. 68/2012 Needs to be recast according to the new EU Eco-design and Labelling Policy (Eco-design Directive 2009/125/EC and Energy Labelling framework Regulation EU 2017/1369)"
+  },
+  {
+    "Subject": "Sustainable Transport Plan",
+    "Relation": "targets",
+    "Object": "Sectorial Strategy of Transports",
+    "Description": "The Sustainable Transport Plan targets the Sectorial Strategy of Transports.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Sectorial Strategy of Transports",
+    "Relation": "addresses",
+    "Object": "Sustainable Transport Plan",
+    "Description": "The Sectorial Strategy of Transports addresses the Sustainable Transport Plan.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Directive 2012/27/EU",
+    "Relation": "contributes_to",
+    "Object": "Sustainable Transport Plan",
+    "Description": "Directive 2012/27/EU contributes to the Sustainable Transport Plan.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Action Plan",
+    "Relation": "addresses",
+    "Object": "Sustainable Transport Plan",
+    "Description": "The Action Plan addresses the Sustainable Transport Plan.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Methodology",
+    "Relation": "administers",
+    "Object": "Sustainable Transport Plan",
+    "Description": "The National Methodology administers the Sustainable Transport Plan.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "NEEAP",
+    "Description": "The National Energy Efficiency Action Plan 2017 \u2013 2020 will be updated for the period 2021-2030 as an integral part of the National Energy and Climate Plan (NECP) 2021 \u2013 2030.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian",
+    "Relation": "partners_with",
+    "Object": "ERE",
+    "Description": "According to ERE annual report, OST has been undertaking some investments resulting in an improvement from 2.3% losses in 2013 to 2.12% losses in 2019",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Porto Romano",
+    "Relation": "in",
+    "Object": "Durres",
+    "Description": "Porto Romano is located in Durres.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Relation": "addresses",
+    "Object": "Dimension Energy Security",
+    "Description": "The Strategic Plan for Reform in Energy Sector in Albania focuses on addressing Dimension Energy Security.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Master Plan of Natural Gas for Albania",
+    "Relation": "an_instance_of",
+    "Object": "Albania",
+    "Description": "The Master Plan of Natural Gas for Albania is an instance of Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Petrolifera",
+    "Relation": "in",
+    "Object": "Vlora",
+    "Description": "Petrolifera is located in Vlora.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Sector Strategy for Energy",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "The National Sector Strategy for Energy targets Albania.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Policy-Based Loan",
+    "Relation": "supports",
+    "Object": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Description": "The Policy-Based Loan supports the Strategic Plan for Reform in Energy Sector in Albania.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Energy Community Secretariat",
+    "Description": "The figure below shows the implementation by oil indicators as calculated and compiled by the Energy Community Secretariat.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "administers",
+    "Object": "Energy Community Secretariat",
+    "Description": "The implementation of performance for each area of work indicators is summarised in the figure below and was calculated and compiled by the Energy Community Secretariat.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albgaz SA",
+    "Relation": "partners_with",
+    "Object": "European Network of Transmission System Operators for Gas",
+    "Description": "Albgaz SA was admitted as an observer at the European Network of Transmission System Operators for Gas.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "European Network of Transmission System Operators for Gas",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "Internal Energy Market",
+    "Description": "Albania has adopted legislation on gas and electricity in line with the EU\u2019s Third energy package.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "EU",
+    "Description": "Albania has a partnership with the EU in the field of energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Council",
+    "Relation": "partners_with",
+    "Object": "Energy Community",
+    "Description": "The Law and the Market Model support the possibility for the transmission system operator to exchange balancing services, under market-based conditions, across the borders.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Council",
+    "Relation": "partners_with",
+    "Object": "EU",
+    "Description": "The Law and the Market Model support the possibility for the transmission system operator to exchange balancing services, under market-based conditions, across the borders.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "administers",
+    "Object": "Market Model",
+    "Description": "The Market Rules for operation of the electricity market following the Market Model and including organized day-ahead and intraday functions were adopted by ERE in December 2017, their full implementation being conditioned by the establishment of APEX.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "monitors",
+    "Object": "Market Model",
+    "Description": "The Market Rules for operation of the electricity market following the Market Model and including organized day-ahead and intraday functions were adopted by ERE in December 2017, their full implementation being conditioned by the establishment of APEX.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "In October 2018, Albania adopted the Natural Gas Market Model.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "contributes_to",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "The establishment of the market requires a decision of the Ministry of Energy and Industry in consultation with ERE and other stakeholders.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "contributes_to",
+    "Object": "Exemption Decision",
+    "Description": "The TAP Code contains all specific points and operationalizes some other requirements from the Exemption Decision.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "TAP",
+    "Relation": "contributes_to",
+    "Object": "Exemption Decision",
+    "Description": "The TAP Code contains all specific points and operationalizes some other requirements from the Exemption Decision.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Law on Natural Gas",
+    "Relation": "addresses",
+    "Object": "Third Energy Package",
+    "Description": "The Law on Natural Gas set the eligibility provision for all customers in line with the Third Energy Package.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Government",
+    "Relation": "administers",
+    "Object": "Natural Gas Emergency Plan",
+    "Description": "The Natural Gas Emergency Plan was adopted by the Government with the Energy Community Secretariat\u2019s assistance.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "contributes_to",
+    "Object": "Third Energy Package",
+    "Description": "General rules on procedures for switching of the natural gas supplier and general conditions for the supply of natural gas were adopted by the ERE in July 2018 in line with the Third Energy Package.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "addresses",
+    "Object": "Gas Master Plan",
+    "Description": "The Ministry of Infrastructure and Energy adopted in December 2018 an act on designation of service areas for transmission and distribution of natural gas."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Gas Master Plan",
+    "Description": "The construction of gas interconnections in Albania is elaborated in details in the Gas Master Plan (GMP) for Albania adopted by the DCM No 87 of 14.02.2018 \u201cOn the approval of the Plan for the development of the natural gas sector in Albania and the identification of the priority projects\u201d as well as by the National Territory Council (NTC) with its Decision No 2 of 26 July 2018."
+  },
+  {
+    "Subject": "National Territory Council",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "The construction of gas interconnections in Albania is elaborated in details in the Gas Master Plan (GMP) for Albania adopted by the DCM No 87 of 14.02.2018 \u201cOn the approval of the Plan for the development of the natural gas sector in Albania and the identification of the priority projects\u201d as well as by the National Territory Council (NTC) with its Decision No 2 of 26 July 2018."
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Market Test",
+    "Description": "During 2019, the Trans Adriatic Pipeline organised a new Market Test"
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "addresses",
+    "Object": "Ionian Adriatic Gas Pipeline",
+    "Description": "Preliminary design is being prepared under the WB15-REG-ENE-02 \u201cPreliminary design of the Ionian Adriatic Gas Pipeline \u2013 Montenegro and Albania sections\u201d."
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "partners_with",
+    "Object": "Albanian Regulatory Authority",
+    "Description": "TAP AG applied to Albanian Regulatory Authority (ERE) to be licensed as a transmission operator."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "EU",
+    "Description": "Albania has adopted legislation on gas and electricity in line with the EU\u2019s third energy package.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "partners_with",
+    "Object": "Energy Community Secretariat",
+    "Description": "The Albanian Energy Regulator Entity (ERE) approved the certification of OST SA as the transmission system operator, following a positive opinion from the Energy Community Secretariat.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Adriatic",
+    "Description": "Albania participates in the EU\u2019s macro-regional strategy for the Adriatic and Ionian region (EUSAIR), for which the improvement of connectivity (transport and energy networks) is a main priority.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": "Albania has a power interconnection line with Kosovo.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Montenegro",
+    "Description": "Albania's electricity system has been interconnected with the neighboring systems of Greece and Montenegro since 2014.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Greece",
+    "Description": "Albania's electricity system has been interconnected with the neighboring systems of Greece and Montenegro since 2014.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Durres",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Durres is a location in Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "EU",
+    "Description": "Albania has a partnership with the EU.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Tirana",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Tirana is a location in Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Erasmus+ Office",
+    "Relation": "supports",
+    "Object": "Higher Education Institutions",
+    "Description": "The Erasmus+ Office supports the mobility of students and staff and the collaboration of Higher Education Institutions."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "aligns_with",
+    "Object": "European",
+    "Description": "Albania is partially aligned with the Acquis on a single European railway area, railway system interoperability and rail freight corridors for competitive freight."
+  },
+  {
+    "Subject": "National Sector Strategy for Transport",
+    "Relation": "aligns_with",
+    "Object": "National Strategy for Development and Integration",
+    "Description": "The present \u201cNational Sector Strategy for Transport 2016-2020\u201d has been aligned with the National Strategy for Development and Integration which defines Albania\u2019s vision for its national social, democratic and economic development over the period 2015-2020.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Sector Strategy for Transport",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "The aim has been to significantly contribute to overall economic growth and development of the economy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Sector Strategy for Transport",
+    "Relation": "addresses",
+    "Object": "EU",
+    "Description": "The quality of transport related public works is still not yet up to EU standards.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Bosnia and Herzegovina",
+    "Description": "Albania partners with Bosnia and Herzegovina in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Kosovo",
+    "Description": "Albania partners with Kosovo in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Albania partners with Montenegro in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Serbia",
+    "Description": "Albania partners with Serbia in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Kosovo",
+    "Description": "Albania partners with Kosovo in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Bosnia and Herzegovina",
+    "Description": "Albania partners with Bosnia and Herzegovina in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Albania partners with Montenegro in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Serbia",
+    "Description": "Albania partners with Serbia in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Bosnia and Herzegovina partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Kosovo partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Montenegro",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Montenegro partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Serbia",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Serbia partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Kosovo partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Bosnia and Herzegovina partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Montenegro",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Montenegro partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Serbia",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Serbia partners with Albania in transport infrastructure coordination",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "ENTSO-G",
+    "Description": "Albania collaborates with ENTSO-G in the European energy market",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Energy Community Secretariat collaborates with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry for Europe and Foreign Affairs",
+    "Description": "The Energy Community Secretariat collaborates with the Ministry for Europe and Foreign Affairs."
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Finance and Economy",
+    "Description": "The Energy Community Secretariat collaborates with the Ministry of Finance and Economy."
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Tourism and Environment",
+    "Description": "The Energy Community Secretariat collaborates with the Ministry of Tourism and Environment."
+  },
+  {
+    "Subject": "Technical Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Technical Secretariat collaborates with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Finance and Economy",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Tourism and Environment",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Agency of Energy Efficiency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Public Procurement Agency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Albanian Business Association",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Albanian Association of Constructors",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Territory Planning Agency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Territorial Council",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "monitors",
+    "Object": "Report on Analysis",
+    "Description": "The Energy Community Secretariat monitors the Report on Analysis.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Bosnia and Herzegovina partners with Montenegro."
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Serbia",
+    "Description": "Bosnia and Herzegovina partners with Serbia."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "European Union",
+    "Description": "Albania partners with the European Union."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Montenegro"
+  },
+  {
+    "Subject": "National Energy Strategy",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "The Renewable Energy scenario presented in the National Energy Strategy incorporates Albania\u2019s National Renewable Energy Action Plan (NREAP) 2019.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "Directive 2012/27/EU",
+    "Description": "Based on Article 4 of Directive 2012/27/EU on energy efficiency in building renovation, Albania has not yet completed the strategy for supporting and encouraging cost effective investments in the renovation of the national building stock.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Longterm",
+    "Relation": "addresses",
+    "Object": "Directive",
+    "Description": "the requirements of article 2a Directive 2010/31/EU on the Longterm renovation strategy",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "addresses",
+    "Object": "Energy Performance of Buildings",
+    "Description": "the law on Energy Performance of Buildings (transposing Directive 2010/31/EU)",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "supports",
+    "Object": "National Energy Strategy",
+    "Description": "The Albanian Government supports the implementation of the National Energy Strategy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Elbasan",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Albania intends to develop an underground natural gas storage site in Dumre, near Elbasan",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Vlora TPP",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ionian Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Gas Master Plan defines the main lines for the development of the gas market and services in Albania based on natural gas supplied through the Ionian Adriatic Pipeline (IAP Project)",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Fier Compressor Station",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Gas Master Plan defines the main lines for the development of the gas market and services in Albania based on natural gas supplied through the Trans Adriatic Pipeline (TAP Project)",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Dumre",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Albania intends to develop an underground natural gas storage site in Dumre, near Elbasan",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Feasibility Study",
+    "Relation": "implements",
+    "Object": "Strategy",
+    "Description": "implementation of \"Feasibility Study\"",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "The integration of the Albanian electricity market with Kosovo also shall increase the diversification of electricity sources and supply.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albanian",
+    "Description": "The Master Plan of Natural Gas for Albania aims to develop a sustainable natural gas system that enables a balanced contribution to the energy system, ensuring gas supply through competition and environmental protection.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The Master Plan of Natural Gas for Albania was approved by DCM No. 87 of 14.02.2018 and aims to develop a sustainable natural gas system that enables a balanced contribution to the energy system, ensuring gas supply through competition and environmental protection.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": "Albania has interconnectivity infrastructure with Kosovo",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Montenegro",
+    "Description": "Albania has interconnectivity infrastructure with Montenegro",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Greece",
+    "Description": "Albania has interconnectivity infrastructure with Greece",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Third Energy Package",
+    "Description": "Albania is aligning its electricity sector's legal and regulatory framework with the EU Acquis and meeting the obligations of the Third Energy Package",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Fier",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Fier is located in Albania",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Elbasan",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Elbasan is located in Albania",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Manastir",
+    "Relation": "in",
+    "Object": "North Macedonia",
+    "Description": "Manastir is located in North Macedonia",
+    "Relevance": 6
+  },
+  {
+    "Subject": "North Macedonia",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "North Macedonia has interconnectivity infrastructure with Albania",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Elbasan",
+    "Relation": "in",
+    "Object": "Ohrid",
+    "Description": "Elbasan is located in Ohrid",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albanian Transmission System Operator",
+    "Description": "Albanian Transmission System Operator and Kosovo\u2019s power transmission system operator KOSTT have signed an agreement to set up a common energy market as two neighboring countries.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Energy Sector Strategy",
+    "Relation": "aligns_with",
+    "Object": "Second National Strategy for Development and Integration",
+    "Description": "The principles guiding the development of the Albanian Energy Sector Strategy are fully in line with the principles of the Second National Strategy for Development and Integration",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Customs",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "Albanian Customs collaborates with the Ministry of Infrastructure and Energy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Customs",
+    "Relation": "monitors",
+    "Object": "Albanian Seaports",
+    "Description": "Albanian Customs monitors the activities of Albanian Seaports.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Customs",
+    "Relation": "monitors",
+    "Object": "Albanian Railways Authority",
+    "Description": "Albanian Customs monitors the activities of Albanian Railways Authority.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "Albanian Customs",
+    "Description": "The Ministry of Infrastructure and Energy collaborates with Albanian Customs.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Albanian Seaports",
+    "Description": "The Ministry of Infrastructure and Energy monitors the activities of Albanian Seaports.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Albanian Railways Authority",
+    "Description": "The Ministry of Infrastructure and Energy monitors the activities of Albanian Railways Authority.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Seaports",
+    "Relation": "partners_with",
+    "Object": "Albanian Customs",
+    "Description": "Albanian Seaports collaborates with Albanian Customs.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Seaports",
+    "Relation": "monitors",
+    "Object": "Albanian Railways Authority",
+    "Description": "Albanian Seaports monitors the activities of Albanian Railways Authority.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Railways Authority",
+    "Relation": "partners_with",
+    "Object": "Albanian Customs",
+    "Description": "Albanian Railways Authority collaborates with Albanian Customs.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Railways Authority",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "Albanian Railways Authority collaborates with the Ministry of Infrastructure and Energy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Railways Authority",
+    "Relation": "monitors",
+    "Object": "Albanian Seaports",
+    "Description": "Albanian Railways Authority monitors the activities of Albanian Seaports.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "General Directorate of Transport",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The General Directorate of Transport collaborates with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "Ministry of Tourism and Environment",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Ministry of Tourism and Environment collaborates with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "Customs Authority",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Customs Authority collaborates with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "Local Government Units",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Local Government Units collaborate with the Ministry of Infrastructure and Energy."
+  },
+  {
+    "Subject": "EU",
+    "Relation": "funds",
+    "Object": "Ministry of Tourism and Environment",
+    "Description": "The EU provides funding to the Ministry of Tourism and Environment.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Agriculture and Rural Development",
+    "Relation": "partners_with",
+    "Object": "National Environmental Agency",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Agriculture and Rural Development",
+    "Relation": "partners_with",
+    "Object": "Regional Environmental Agency",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Agriculture and Rural Development",
+    "Relation": "partners_with",
+    "Object": "Code Best Practice in Agriculture",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Waste Integrated Management Plan",
+    "Description": null,
+    "Relevance": 7
+  },
+  {
+    "Subject": "Fier",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Fier is a location in Albania",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Elbasan",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Elbasan is a location in Albania",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Tirana",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Tirana is a location in Albania",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "EU",
+    "Description": "Albania focuses on EU",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Agency for Water Supply and Sewerage and Waste Infrastructure",
+    "Relation": "addresses",
+    "Object": "Environmental Treatment of Waste Water"
+  },
+  {
+    "Subject": "National Agency for the Rural and Agricultural Development",
+    "Relation": "partners_with",
+    "Object": "National Agency of Forests",
+    "Description": "The National Agency for the Rural and Agricultural Development partners with the National Agency of Forests.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Determined Contribution",
+    "Relation": "targets",
+    "Object": "Strategy",
+    "Description": "Main Objective of PaM Improved sustainable forest management to enhance carbon sequestration and protect biodiversity.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Agency of Protected Areas",
+    "Relation": "monitors",
+    "Object": "Strategy",
+    "Description": "The National Agency of Protected Areas monitors the implementation of the Strategy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Agency for the National Agency of Forests",
+    "Relation": "partners_with",
+    "Object": "National Agency of Protected Areas",
+    "Description": "The National Agency for the National Agency of Forests partners with the National Agency of Protected Areas.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Agency of Forests",
+    "Relation": "partners_with",
+    "Object": "National Agency of Protected Areas",
+    "Description": "The National Agency of Forests partners with the National Agency of Protected Areas.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Agency of Forests",
+    "Relation": "funds",
+    "Object": "Strategy",
+    "Description": "The National Agency of Forests provides funding for the implementation of the Strategy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Climate Change",
+    "Relation": "addresses",
+    "Object": "Strategy",
+    "Description": "The Strategy addresses the issue of Climate Change.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Spitalla",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Operator",
+    "Description": "Spitalla is addressed by the Renewable Energy Operator."
+  },
+  {
+    "Subject": "Gross Final Energy",
+    "Relation": "contributes_to",
+    "Object": "Republic of Albania",
+    "Description": "Gross Final Energy contributes to the Republic of Albania."
+  },
+  {
+    "Subject": "Karavasta",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Operator",
+    "Description": "Karavasta is addressed by the Renewable Energy Operator."
+  },
+  {
+    "Subject": "Renewable Energy Operator",
+    "Relation": "funds",
+    "Object": "Renewable Energy Obligation",
+    "Description": "A special entity, called Renewable Energy Operator, would be charged to pay the sliding premium to the selected bidders.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Renewable Energy Operator",
+    "Relation": "monitors",
+    "Object": "Energy Regulatory Entity",
+    "Description": "This entity would be financed by a charge to all electricity suppliers.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Gross Final Energy Consumption",
+    "Relation": "contributes_to",
+    "Object": "Republic of Albania",
+    "Description": "Increase of energy production from renewable sources to ensure a sustainable development in the Republic of Albania, in accordance with the obligations under the Energy Community Treaty"
+  },
+  {
+    "Subject": "Technical State Inspectorate",
+    "Relation": "monitors",
+    "Object": "Draft Law",
+    "Description": "The Technical State Inspectorate monitors the implementation of the Draft Law."
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "addresses",
+    "Object": "Draft Law",
+    "Description": "The Ministry of Infrastructure and Energy directs the Draft Law towards tackling specific issues or goals."
+  },
+  {
+    "Subject": "Republic of Albania",
+    "Relation": "in",
+    "Object": "Draft Law",
+    "Description": "The Draft Law is associated with the Republic of Albania."
+  },
+  {
+    "Subject": "Technical State Inspectorate",
+    "Relation": "monitors",
+    "Object": "Offices",
+    "Description": "The Technical State Inspectorate monitors the progress of the Offices."
+  },
+  {
+    "Subject": "Republic of Albania",
+    "Relation": "in",
+    "Object": "Republic of Albania",
+    "Description": "Each company holding a license for \"Wholesale trade of oil, gas, by-products, including bio, as well as fuels, with code VIII.1.A\" for wholesale trade in the market must take measures to ensure the placement on the market of the minimum quantity of biofuels and other renewable fuels."
+  },
+  {
+    "Subject": "Energy Efficiency",
+    "Relation": "addresses",
+    "Object": "Strategy",
+    "Description": "Energy efficiency is a strategy that is directed towards tackling a specific issue or goal."
+  },
+  {
+    "Subject": "Approval of the National Energy Strategy 2018 \u2013 2030",
+    "Relation": "targets",
+    "Object": "Strategy",
+    "Description": "The approval of the national energy strategy 2018 \u2013 2030 aims to achieve a long-term or overall goal."
+  },
+  {
+    "Subject": "Power Sector",
+    "Relation": "focuses_on",
+    "Object": "Strategy",
+    "Description": "The power sector is the main area or subject that a strategy is concerned with."
+  },
+  {
+    "Subject": "National Methodology",
+    "Relation": "addresses",
+    "Object": "Energy Performance in Buildings",
+    "Description": "Implementation of the DCM No.1049, of 24.12.2020 \u201cOn the National Methodology of calculating energy performance in buildings\" through the approved software.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Methodology",
+    "Relation": "addresses",
+    "Object": "Minimum Energy Performance Requirements",
+    "Description": "Implementation of the DCM No.1049, of 24.12.2020 \u201cOn the National Methodology of calculating energy performance in buildings\" through the approved software.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Energy Performance in Buildings",
+    "Relation": "addresses",
+    "Object": "Minimum Energy Performance Requirements",
+    "Description": "Implementation of the DCM No.1049, of 24.12.2020 \u201cOn the National Methodology of calculating energy performance in buildings\" through the approved software.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Energy Efficiency Agency",
+    "Relation": "monitors",
+    "Object": "Tirana",
+    "Description": "The Albanian Energy Efficiency Agency monitors the energy efficiency in Tirana.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Albanian Energy Efficiency Agency",
+    "Description": "The Ministry of Infrastructure and Energy monitors the Albanian Energy Efficiency Agency.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Energy Agency",
+    "Relation": "monitors",
+    "Object": "Albanian Energy Efficiency Agency",
+    "Description": "The National Energy Agency monitors the Albanian Energy Efficiency Agency.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Albanian Energy Efficiency Agency",
+    "Description": "The Ministry of Infrastructure and Energy monitors the Albanian Energy Efficiency Agency.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Energy Agency",
+    "Relation": "monitors",
+    "Object": "SLED Study",
+    "Description": "The National Energy Agency monitors the SLED Study on the typology of the public building stock."
+  },
+  {
+    "Subject": "National Energy Agency",
+    "Relation": "contributes_to",
+    "Object": "Albanian",
+    "Description": "The National Energy Agency contributes to the thermal efficiency retrofitting of Albanian public buildings."
+  },
+  {
+    "Subject": "Energy Efficiency",
+    "Relation": "contributes_to",
+    "Object": "Decarbonisation",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "Ministry of Finance and Economy",
+    "Description": "The Ministry of Infrastructure and Energy partners with the Ministry of Finance and Economy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "Albanian Energy Efficiency Agency",
+    "Description": "The Ministry of Infrastructure and Energy monitors the Albanian Energy Efficiency Agency.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "monitors",
+    "Object": "General Directorate of Customs",
+    "Description": "The Ministry of Infrastructure and Energy monitors the General Directorate of Customs.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "contributes_to",
+    "Object": "National Agency of Natural Resources",
+    "Description": "The Ministry of Infrastructure and Energy contributes to the National Agency of Natural Resources.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "addresses",
+    "Object": "Decarbonisation",
+    "Description": "The Ministry of Infrastructure and Energy addresses the issue of decarbonisation.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "supports",
+    "Object": "Energy Efficiency",
+    "Description": "The Ministry of Infrastructure and Energy supports measures for increasing energy efficiency in the transport sector.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Road Authority",
+    "Relation": "partners_with",
+    "Object": "General Directorate of Road Transport Services",
+    "Description": "The National Road Authority collaborates with the General Directorate of Road Transport Services to improve road infrastructure.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Road Authority",
+    "Relation": "partners_with",
+    "Object": "General Maritime Directorate",
+    "Description": "The National Road Authority collaborates with the General Maritime Directorate to enhance maritime transportation.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "Albanian Energy Efficiency Agency",
+    "Description": "The Ministry of Infrastructure and Energy partners with the Albanian Energy Efficiency Agency to promote energy efficiency in the country.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "ERE"
+  },
+  {
+    "Relation": "focuses_on",
+    "Subject": "Energy Efficiency",
+    "Object": "Strategy",
+    "Description": "Dimension Energy Efficiency",
+    "Relevance": 7
+  },
+  {
+    "Relation": "addresses",
+    "Subject": "Energy Efficiency",
+    "Object": "Strategy",
+    "Description": "Dimension Energy Efficiency",
+    "Relevance": 7
+  },
+  {
+    "Relation": "targets",
+    "Subject": "Energy Efficiency",
+    "Object": "Strategy",
+    "Description": "Dimension Energy Efficiency",
+    "Relevance": 7
+  },
+  {
+    "Relation": "in",
+    "Subject": "National Territorial Planning Agency",
+    "Object": "MIE",
+    "Description": "The National Territorial Planning Agency is a public institution subordinated to MIE.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Energy Community",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy of Albania",
+    "Description": "The Energy Community collaborates with the Ministry of Infrastructure and Energy of Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "International Climate Initiative",
+    "Relation": "supports",
+    "Object": "German Bundestag",
+    "Description": "The German Bundestag supports the International Climate Initiative.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "Gross Inland Consumption",
+    "Description": "In terms of Gross inland consumption (to be confirmed) 2019, the Albanian energy system has been dominated and still continues to be dominated by oil by products for transport use (appr. 53.3%), followed by electricity produced from hydropower (appr. 28.17%), and in the third place is biomass (fuelwood, appr. 6.8%) used for heating, cooking and domestic hot water.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Vlora thermal power plant (built with financing from the EBRD of EUR 40 million, EIB financing of EUR 40 million, and WB* financing of EUR 20.5 million) has never been put into operation since its completion in 2011. This is due to a failure in the plant\u2019s cooling system that has not been repaired.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "The conversion of the Vlora power plant from oil use to gas use once it is connected to the TAP is encouraged. This would contribute to stabilizing the generation of electricity during droughts in the southern part of Albania. However, this will increase gas consumption and thus also CO2 emissions and must be taken into account accordingly in strategic planning.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "Gross Inland Consumption",
+    "Description": "In terms of Gross inland consumption (to be confirmed) 2019, the Albanian energy system has been dominated and still continues to be dominated by oil by products for transport use (appr. 53.3%), followed by electricity produced from hydropower (appr. 28.17%), and in the third place is biomass (fuelwood, appr. 6.8%) used for heating, cooking and domestic hot water.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Gross Inland Consumption",
+    "Description": "In terms of Gross inland consumption (to be confirmed) 2019, the Albanian energy system has been dominated and still continues to be dominated by oil by products for transport use (appr. 53.3%), followed by electricity produced from hydropower (appr. 28.17%), and in the third place is biomass (fuelwood, appr. 6.8%) used for heating, cooking and domestic hot water.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "supports",
+    "Object": "Gross Inland Consumption",
+    "Description": "In terms of Gross inland consumption (to be confirmed) 2019, the Albanian energy system has been dominated and still continues to be dominated by oil by products for transport use (appr. 53.3%), followed by electricity produced from hydropower (appr. 28.17%), and in the third place is biomass (fuelwood, appr. 6.8%) used for heating, cooking and domestic hot water.",
+    "Relevance": 5
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "Vlora",
+    "Description": "The conversion of the Vlora power plant from oil use to gas use once it is connected to the TAP is encouraged. This would contribute to stabilizing the generation of electricity during droughts in the southern part of Albania. However, this will increase gas consumption and thus also CO2 emissions and must be taken into account accordingly in strategic planning.",
+    "Relevance": 4
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Vlora thermal power plant (built with financing from the EBRD of EUR 40 million, EIB financing of EUR 40 million, and WB* financing of EUR 20.5 million) has never been put into operation since its completion in 2011. This is due to a failure in the plant\u2019s cooling system that has not been repaired.",
+    "Relevance": 3
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "The conversion of the Vlora power plant from oil use to gas use once it is connected to the TAP is encouraged. This would contribute to stabilizing the generation of electricity during droughts in the southern part of Albania. However, this will increase gas consumption and thus also CO2 emissions and must be taken into account accordingly in strategic planning.",
+    "Relevance": 2
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "Vlora",
+    "Description": "The Vlora thermal power plant (built with financing from the EBRD of EUR 40 million, EIB financing of EUR 40 million, and WB* financing of EUR 20.5 million) has never been put into operation since its completion in 2011. This is due to a failure in the plant\u2019s cooling system that has not been repaired.",
+    "Relevance": 1
+  },
+  {
+    "Subject": "Albanian Energy Balance",
+    "Relation": "in",
+    "Object": "Transmission and Distribution",
+    "Description": "The Albanian Energy Balance includes information about the Transmission and Distribution sector.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Description": "Albania has prepared and adopted a number of policy documents, strategies and action plans aligned with the Energy and Climate Acquis of the Energy Community."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "focuses_on",
+    "Object": "European Green Deal",
+    "Description": "The Energy Strategy for Albania 2018-2030 is fully coherent with the objectives of the European Green Deal.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "aligns_with",
+    "Object": "EU",
+    "Description": "Given the current status of Albania as a candidate country in accession to the EU, it is likely during the period covered by this strategy Albania will accede to the EU.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "New Climate Institute",
+    "Relation": "partners_with",
+    "Object": "Albanian Energy Strategy",
+    "Description": "The New Climate Institute partners with the Albanian Energy Strategy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Energy Regulatory Authority",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Energy Regulatory Authority partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albanian Renewable Energy Source Action Plan",
+    "Relation": "addresses",
+    "Object": "Climate Change",
+    "Description": "The Albanian Renewable Energy Source Action Plan addresses the issue of Climate Change.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Strategy for the Climate Change",
+    "Relation": "aligns_with",
+    "Object": "European Parliament",
+    "Description": "The National Strategy for the Climate Change aligns with the goals of the European Parliament.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Determined Contribution",
+    "Relation": "contributes_to",
+    "Object": "Climate Change",
+    "Description": "The National Determined Contribution contributes to the global efforts in addressing Climate Change.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian",
+    "Relation": "addresses",
+    "Object": "Directive",
+    "Description": "The draft law 2019 \u201dOn production, transportation and trade of biofuels and other renewable fuels for transport\u201d applies to the activities of production and use of biofuels and other renewable fuels used for internal combustion engines in transport, where the biodiesel and bioethanol levels are in accordance with Albanian standards.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "partners_with",
+    "Object": "ERE",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Community",
+    "Relation": "partners_with",
+    "Object": "Renewable Energy Operator",
+    "Description": "The Energy Community collaborates with the Renewable Energy Operator to promote renewable energy."
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "The Energy Strategy addresses new laws, regulations and institutional reforms currently underway in Albania, including incentives for EE and RES, electricity tariff reform, market development and integration with EU and regional markets.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Energy Strategy",
+    "Relation": "targets",
+    "Object": "Directive 2010/31/EU",
+    "Description": "The Albanian Energy Strategy targets the implementation of Directive 2010/31/EU.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Eco-design Directive",
+    "Description": "Law on \u201cEnergy consumption Information and on other products related to the energy\" No. 68/2012 Needs to be recast according to the new EU Eco-design and Labelling Policy (Eco-design Directive 2009/125/EC and Energy Labelling framework Regulation EU 2017/1369)",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Sustainable Transport Plan",
+    "Relation": "aligns_with",
+    "Object": "Sectorial Strategy of Transports",
+    "Description": "The Sustainable Transport Plan aligns with the Sectorial Strategy of Transports.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Sectorial Strategy of Transports",
+    "Relation": "addresses",
+    "Object": "Directive 2012/27/EU",
+    "Description": "The Sectorial Strategy of Transports addresses the Directive 2012/27/EU.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Action Plan",
+    "Relation": "contributes_to",
+    "Object": "Directive 2012/27/EU",
+    "Description": "The Action Plan contributes to the implementation of Directive 2012/27/EU.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "National Methodology",
+    "Relation": "an_instance_of",
+    "Object": "Directive 2012/27/EU",
+    "Description": "The National Methodology is an instance of Directive 2012/27/EU.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "NEEAP",
+    "Description": "The National Energy Efficiency Action Plan 2017 \u2013 2020 will be updated for the period 2021-2030 as an integral part of the National Energy and Climate Plan (NECP) 2021 \u2013 2030.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "University \u201cMarin Barleti\u201d",
+    "Relation": "partners_with",
+    "Object": "Regional Center for Energy Efficiency",
+    "Description": "Under the REEHUB project, the University \u201cMarin Barleti\u201d partners with the Regional Center for Energy Efficiency.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Porto Romano",
+    "Relation": "in",
+    "Object": "Durres",
+    "Description": "Porto Romano is located in Durres.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Relation": "addresses",
+    "Object": "Dimension Energy Security",
+    "Description": "The Strategic Plan for Reform in Energy Sector in Albania focuses on addressing the Dimension Energy Security.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Master Plan of Natural Gas for Albania",
+    "Relation": "an_instance_of",
+    "Object": "National Sector Strategy for Energy",
+    "Description": "The Master Plan of Natural Gas for Albania is an instance of the National Sector Strategy for Energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Petrolifera",
+    "Relation": "in",
+    "Object": "Vlora",
+    "Description": "Petrolifera is located in Vlora.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Sector Strategy for Energy",
+    "Relation": "targets",
+    "Object": "Dimension Energy Security",
+    "Description": "The National Sector Strategy for Energy targets the Dimension Energy Security.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Policy-Based Loan",
+    "Relation": "supports",
+    "Object": "Strategic Plan for Reform in Energy Sector in Albania",
+    "Description": "The Policy-Based Loan supports the Strategic Plan for Reform in Energy Sector in Albania.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Energy Community Secretariat",
+    "Description": "The implementation of performance for each area of work indicators is summarised in the figure below and was calculated and compiled by the Energy Community Secretariat.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Republic of Albania"
+  },
+  {
+    "Subject": "Albgaz SA",
+    "Relation": "partners_with",
+    "Object": "European Network of Transmission System Operators for Gas",
+    "Description": "Albgaz SA was admitted as an observer at the European Network of Transmission System Operators for Gas.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "European Network of Transmission System Operators for Gas",
+    "Description": null,
+    "Relevance": 5
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "EU",
+    "Description": "Albania has adopted legislation on gas and electricity in line with the EU\u2019s Third energy package."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "contributes_to",
+    "Object": "Internal Energy Market",
+    "Description": "Albania has made progress in the legal unbundling of the distribution-system operator OSHEE SA from its supply activity."
+  },
+  {
+    "Subject": "Council",
+    "Relation": "partners_with",
+    "Object": "Energy Community",
+    "Description": "The Law and the Market Model support the possibility for the transmission system operator to exchange balancing services, under market-based conditions, across the borders.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Council",
+    "Relation": "partners_with",
+    "Object": "EU",
+    "Description": "The Law and the Market Model support the possibility for the transmission system operator to exchange balancing services, under market-based conditions, across the borders.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "monitors",
+    "Object": "Market Model",
+    "Description": "The Market Rules for operation of the electricity market following the Market Model and including organized day-ahead and intraday functions were adopted by ERE in December 2017, their full implementation being conditioned by the establishment of APEX.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "partners_with",
+    "Object": "Ministry of Social Affairs",
+    "Description": null,
+    "Relevance": 5
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "addresses",
+    "Object": "Albania",
+    "Description": "In October 2018, Albania adopted the Natural Gas Market Model.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "contributes_to",
+    "Object": "Ministry of Energy and Industry",
+    "Description": "The establishment of the market requires a decision of the Ministry of Energy and Industry in consultation with ERE and other stakeholders.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Natural Gas Market Model",
+    "Relation": "contributes_to",
+    "Object": "Exemption Decision",
+    "Description": "The TAP Code contains all specific points and operationalizes some other requirements from the Exemption Decision.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Infrastructure and Energy",
+    "Relation": "addresses",
+    "Object": "Gas Master Plan",
+    "Description": "The Ministry of Infrastructure and Energy adopted in December 2018 an act on designation of service areas for transmission and distribution of natural gas."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Gas Master Plan",
+    "Description": "The construction of gas interconnections in Albania is elaborated in details in the Gas Master Plan (GMP) for Albania adopted by the DCM No 87 of 14.02.2018 \u201cOn the approval of the Plan for the development of the natural gas sector in Albania and the identification of the priority projects\u201d as well as by the National Territory Council (NTC) with its Decision No 2 of 26 July 2018."
+  },
+  {
+    "Subject": "National Territory Council",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "The construction of gas interconnections in Albania is elaborated in details in the Gas Master Plan (GMP) for Albania adopted by the DCM No 87 of 14.02.2018 \u201cOn the approval of the Plan for the development of the natural gas sector in Albania and the identification of the priority projects\u201d as well as by the National Territory Council (NTC) with its Decision No 2 of 26 July 2018."
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Market Test",
+    "Description": "During 2019, the Trans Adriatic Pipeline organized a new Market Test.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albanian",
+    "Relation": "in",
+    "Object": "NTC",
+    "Description": "The Albanian gas sector plan was approved by the National Territory Council (NTC).",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Finance",
+    "Relation": "partners_with",
+    "Object": "Ministry for Energy",
+    "Description": "The Ministry of Finance collaborates with the Ministry for Energy in the energy sector.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Social Affairs",
+    "Relation": "collaborates_with",
+    "Object": "Energy Regulatory Entity",
+    "Description": "The Ministry of Social Affairs collaborates with the Energy Regulatory Entity to determine vulnerability criteria for electricity supply.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "implements",
+    "Object": "EU",
+    "Description": "Albania has adopted legislation on gas and electricity in line with the EU's third energy package.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "ERE",
+    "Relation": "monitors",
+    "Object": "Energy Community Secretariat",
+    "Description": "ERE approved the certification of OST SA as the transmission system operator, following a positive opinion from the Energy Community Secretariat.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Adriatic",
+    "Description": "Albania participates in the EU\u2019s macro-regional strategy for the Adriatic and Ionian region (EUSAIR), for which the improvement of connectivity (transport and energy networks) is a main priority.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": "Albania has a power interconnection line with Kosovo.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Montenegro",
+    "Description": "Albania has been interconnected with the neighboring systems of Greece and Montenegro since 2014.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Greece",
+    "Description": "Albania has been interconnected with the neighboring systems of Greece and Montenegro since 2014.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Durres",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Durres is a location in Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "EU",
+    "Description": "Albania has a partnership with the EU.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Tirana",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Tirana is a location in Albania.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Erasmus+ Office",
+    "Relation": "supports",
+    "Object": "Higher Education Institutions",
+    "Description": "The Erasmus+ Office supports the mobility of students and staff and the collaboration of Higher Education Institutions."
+  },
+  {
+    "Subject": "Higher Education Institutions",
+    "Relation": "focuses_on",
+    "Object": "European",
+    "Description": null
+  },
+  {
+    "Subject": "National Sector Strategy for Transport",
+    "Relation": "aligns_with",
+    "Object": "National Strategy for Development and Integration",
+    "Description": "The present \u201cNational Sector Strategy for Transport 2016-2020\u201d has been aligned with the National Strategy for Development and Integration which defines Albania\u2019s vision for its national social, democratic and economic development over the period 2015-2020.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Sector Strategy for Transport",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "The aim has been to significantly contribute to overall economic growth and development of the economy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Bosnia and Herzegovina",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Kosovo",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Serbia",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry for Europe and Foreign Affairs",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Ministry for Europe and Foreign Affairs partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Energy Community Secretariat partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Finance and Economy",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Ministry of Finance and Economy partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Tourism and Environment",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Ministry of Tourism and Environment partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Technical Secretariat",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Technical Secretariat partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Energy Community",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "The Energy Community partners with the Ministry of Infrastructure and Energy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Infrastructure and Energy",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Finance and Economy",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Ministry of Tourism and Environment",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Agency of Energy Efficiency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Public Procurement Agency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Albanian Business Association",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "Albanian Association of Constructors",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Territory Planning Agency",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Albanian Investment Development Agency",
+    "Relation": "partners_with",
+    "Object": "National Territorial Council",
+    "Description": "They are involved in the process of energy policies compilation"
+  },
+  {
+    "Subject": "Energy Community Secretariat",
+    "Relation": "partners_with",
+    "Object": "Report on Analysis",
+    "Description": "The Energy Community Secretariat partners with the Report on Analysis."
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "Bosnia and Herzegovina",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "Croatia",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "Albanian Parliament",
+    "Description": "The Greece-Albania-Italy (Intergovernmental Agreement - IGA) tripartite agreement has been signed in the natural gas sector, ratified by the Albanian Parliament with Law No. 104/2013, dated 25.03.2013, \u201cOn the ratification of the Agreement between the Republic of Albania, the Republic of Greece and the Republic of Italy on the Trans Adriatic Pipeline Project (TAP Project)\u201d. (Entered into force on 19 February 2014).",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "European Network of Transmission System Operators for Electricity",
+    "Description": "TSO signed the Synchronous Area Framework Agreement (SAFA) for Regional Group Continental as a member of the European Network of Transmission System Operators for Electricity (ENTSO-E) on 6th March 2019, which entered into force for unlimited duration on 14.04.2019.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "TSO",
+    "Description": "TSO signed the Synchronous Area Framework Agreement (SAFA) for Regional Group Continental as a member of the European Network of Transmission System Operators for Electricity (ENTSO-E) on 6th March 2019, which entered into force for unlimited duration on 14.04.2019.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Intergovernmental Agreement",
+    "Relation": "partners_with",
+    "Object": "TAP Project",
+    "Description": "The Greece-Albania-Italy (Intergovernmental Agreement - IGA) tripartite agreement has been signed in the natural gas sector, ratified by the Albanian Parliament with Law No. 104/2013, dated 25.03.2013, \u201cOn the ratification of the Agreement between the Republic of Albania, the Republic of Greece and the Republic of Italy on the Trans Adriatic Pipeline Project (TAP Project)\u201d. (Entered into force on 19 February 2014).",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "Bosnia and Herzegovina",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "Croatia",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Inter-ministerial cooperation has already been established between Albania, Montenegro, Bosnia and Herzegovina and Croatia on the IAP (Ionian Adreatic Pipeline) project.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "European Network of Transmission System Operators for Electricity",
+    "Description": "TSO signed the Synchronous Area Framework Agreement (SAFA) for Regional Group Continental as a member of the European Network of Transmission System Operators for Electricity (ENTSO-E) on 6th March 2019, which entered into force for unlimited duration on 14.04.2019.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "TSO",
+    "Description": "TSO signed the Synchronous Area Framework Agreement (SAFA) for Regional Group Continental as a member of the European Network of Transmission System Operators for Electricity (ENTSO-E) on 6th March 2019, which entered into force for unlimited duration on 14.04.2019.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albanian Parliament",
+    "Relation": "partners_with",
+    "Object": "TAP Project",
+    "Description": "The Greece-Albania-Italy (Intergovernmental Agreement - IGA) tripartite agreement has been signed in the natural gas sector, ratified by the Albanian Parliament with Law No. 104/2013, dated 25.03.2013, \u201cOn the ratification of the Agreement between the Republic of Albania, the Republic of Greece and the Republic of Italy on the Trans Adriatic Pipeline Project (TAP Project)\u201d. (Entered into force on 19 February 2014).",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albanian Parliament",
+    "Description": "There is also an established cooperation with Kosovo for the ALKOGAP project.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Montenegro",
+    "Description": "Bosnia and Herzegovina partners with Montenegro."
+  },
+  {
+    "Subject": "Bosnia and Herzegovina",
+    "Relation": "partners_with",
+    "Object": "Serbia",
+    "Description": "Bosnia and Herzegovina partners with Serbia."
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "European Union",
+    "Description": "Albania partners with the European Union."
+  },
+  {
+    "Subject": "National Energy Strategy",
+    "Relation": "targets",
+    "Object": "Dimensions"
+  },
+  {
+    "Subject": "National Energy Strategy",
+    "Relation": "supports",
+    "Object": "EE"
+  },
+  {
+    "Subject": "National Energy Strategy",
+    "Relation": "targets",
+    "Object": "Albania",
+    "Description": "The Renewable Energy scenario presented in the National Energy Strategy incorporates Albania\u2019s National Renewable Energy Action Plan (NREAP) 2019.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "targets",
+    "Object": "Directive 2012/27/EU",
+    "Description": "Based on Article 4 of Directive 2012/27/EU on energy efficiency in building renovation, Albania has not yet completed the strategy for supporting and encouraging cost effective investments in the renovation of the national building stock.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Longterm",
+    "Relation": "addresses",
+    "Object": "Directive",
+    "Description": "The Longterm strategy addresses the requirements of the Directive."
+  },
+  {
+    "Subject": "Directive",
+    "Relation": "targets",
+    "Object": "Energy Performance of Buildings",
+    "Description": "The Directive targets the Energy Performance of Buildings."
+  },
+  {
+    "Subject": "Albanian Government",
+    "Relation": "supports",
+    "Object": "National Energy Strategy",
+    "Description": "The Albanian Government supports the implementation of the National Energy Strategy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Elbasan",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Albania intends to develop an underground natural gas storage site in Dumre, near Elbasan",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Vlora TPP",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ionian Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Gas Master Plan defines the main lines for the development of the gas market and services in Albania based on natural gas supplied through the Trans Adriatic Pipeline (TAP Project), as well as potential gas sources discovered and concretized in the country, or even through natural gas pipelines such as the Ionian Adriatic Pipeline (IAP Project) and the Albania - Kosovo Pipeline (ALKOGAP Project)",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Fier Compressor Station",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Trans Adriatic Pipeline",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The Gas Master Plan defines the main lines for the development of the gas market and services in Albania based on natural gas supplied through the Trans Adriatic Pipeline (TAP Project), as well as potential gas sources discovered and concretized in the country, or even through natural gas pipelines such as the Ionian Adriatic Pipeline (IAP Project) and the Albania - Kosovo Pipeline (ALKOGAP Project)",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Dumre",
+    "Relation": "in",
+    "Object": "Albania",
+    "Description": "Albania intends to develop an underground natural gas storage site in Dumre, near Elbasan",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Vlora",
+    "Relation": "contributes_to",
+    "Object": "Albania",
+    "Description": "The construction of the pipeline that will link the TAP project near the Fier Compressor Station area to the Vlora TPP and the entire Vlora region, will make it possible to restore the Vlora TPP by using natural gas",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Feasibility Study",
+    "Relation": "implements",
+    "Object": "Strategy",
+    "Description": "implementation of \"Feasibility Study\" and detailed design",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Acquis Communitaire",
+    "Relation": "aligns_with",
+    "Object": "Strategy",
+    "Description": "Harmonization of national legislation in accordance with the Acquis Communitaire",
+    "Relevance": 6
+  },
+  {
+    "Subject": "EU",
+    "Relation": "aligns_with",
+    "Object": "Albanian Government",
+    "Description": "Integration into the regional and EU energy markets is a strategic objective of the Albanian Government to meet its growing demand for energy, diversity of energy sources, efficiency and flexibility of the national energy system.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": "Albania has interconnectivity infrastructure with Kosovo",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Montenegro",
+    "Description": "Albania has interconnectivity infrastructure with Montenegro",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Greece",
+    "Description": "Albania has interconnectivity infrastructure with Greece",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Third Energy Package",
+    "Description": "Albania's National Strategy of Energy 2018\u20132030 aims to align with the Third Energy Package",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "contributes_to",
+    "Object": "Third Energy Package",
+    "Description": "Albania's energy sector transformation aligns with the objectives of the Third Energy Package",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "North Macedonia",
+    "Description": "Albania has interconnectivity infrastructure with North Macedonia",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Elbasan",
+    "Description": "Albania has interconnectivity infrastructure with Elbasan",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Manastir",
+    "Description": "Albania has interconnectivity infrastructure with Manastir",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "in",
+    "Object": "Ohrid",
+    "Description": "Albania has interconnectivity infrastructure with Ohrid",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "partners_with",
+    "Object": "Kosovo",
+    "Description": "Albanian Transmission System Operator and Kosovo\u2019s power transmission system operator KOSTT have signed an agreement to set up a common energy market as two neighboring countries",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "partners_with",
+    "Object": "Albania",
+    "Description": "Albanian Transmission System Operator and Kosovo\u2019s power transmission system operator KOSTT have signed an agreement to set up a common energy market as two neighboring countries",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "in",
+    "Object": "Albanian Transmission System Operator",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Kosovo",
+    "Relation": "in",
+    "Object": "Drin River Cascade",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albanian Transmission System Operator",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albanian Transmission System Operator",
+    "Relation": "in",
+    "Object": "Drin River Cascade",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Drin River Cascade",
+    "Relation": "in",
+    "Object": "Kosovo",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Drin River Cascade",
+    "Relation": "in",
+    "Object": "Albanian Transmission System Operator",
+    "Description": null,
+    "Relevance": 6
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Albanian Energy Sector Strategy",
+    "Description": "Integration into the regional and EU energy markets is one of the main objectives of the Albanian Energy Sector Strategy which underline that energy security has to be achieved based on energy sources diversification, solidarity and trust.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Albania",
+    "Relation": "addresses",
+    "Object": "Second National Strategy for Development and Integration",
+    "Description": "The principles guiding the development of the Albanian Energy Sector Strategy are fully in line with the principles of the Second National Strategy for Development and Integration.",
+    "Relevance": 7
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "Subject": "United Nations",
+    "Relation": "supports",
+    "Object": "Afghanistan",
+    "Description": "The United Nations supports Afghanistan.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "Kabul Conference",
+    "Relation": "partners_with",
+    "Object": "United Nations",
+    "Description": "Responding to the Kabul Conference request for a unified United Nations system, the United Nations country team has committed to increasing the effectiveness of the system.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Finance",
+    "Relation": "supports",
+    "Object": "New Deal",
+    "Description": "Furthermore, UNDP is supporting the implementation of the New Deal for Engagement in Fragile States principles with the Ministry of Finance.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "an_instance_of",
+    "Object": "Gender Inequality Index",
+    "Description": "In 2012, the Gender Inequality Index listed Afghanistan 147th out of 148 countries.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "Millennium Development Goals",
+    "Description": "The Millennium Declaration acknowledged that gender equality is both a goal in itself and a condition for achieving the other Millennium Development Goals.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "National Risk and Vulnerability Assessment",
+    "Description": "The National Risk and Vulnerability Assessment, 2011-2012, noted that only 19 per cent of the working-age women are currently active in the labour market, compared to 80 per cent of men.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "Security Council",
+    "Description": "UNDP will select critical ministries and certain key provinces to advocate for Security Council resolutions 1325 and 2122 and to promote women\u2019s empowerment and the monitoring mechanism to ensure that national and international legislation and rights are protected, with special attention to gender-based violence.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "Millennium Declaration",
+    "Description": "Building on the foundations of a gender equality project and gender mainstreaming across its entire portfolio during recent years, UNDP will select critical ministries and certain key provinces to advocate for Security Council resolutions 1325 and 2122 and to promote women\u2019s empowerment and the monitoring mechanism to ensure that national and international legislation and rights are protected, with special attention to gender-based violence.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "Global Environment Facility",
+    "Description": "UNDP will seek to diversify its funding partners, focusing initially on the Global Environment Facility",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Interior",
+    "Relation": "partners_with",
+    "Object": "Ministry of Justice",
+    "Description": "Linkages between the Ministry of Interior and the Ministry of Justice will ensure policy harmonization",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Interior",
+    "Relation": "partners_with",
+    "Object": "Ministry of Women\u2019s Affairs",
+    "Description": "Linkages between the Ministry of Interior and the Ministry of Women\u2019s Affairs will ensure policy harmonization",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Interior",
+    "Relation": "partners_with",
+    "Object": "Attorney General\u2019s Office",
+    "Description": "Linkages between the Ministry of Interior and the Attorney General\u2019s Office will ensure policy harmonization",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Justice",
+    "Relation": "partners_with",
+    "Object": "Ministry of Women\u2019s Affairs",
+    "Description": "Linkages between the Ministry of Justice and the Ministry of Women\u2019s Affairs will ensure policy harmonization",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Justice",
+    "Relation": "partners_with",
+    "Object": "Attorney General\u2019s Office",
+    "Description": "Linkages between the Ministry of Justice and the Attorney General\u2019s Office will ensure policy harmonization",
+    "Relevance": 7
+  },
+  {
+    "Subject": "United Nations Working Group",
+    "Relation": "collaborates_with",
+    "Object": "United Nations Country Team",
+    "Description": "UNDP will work with the United Nations Country Team and the programme management team to implement United Nations Development Assistance Framework integrated work plans.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "United Nations Development Assistance Framework",
+    "Relation": "addresses",
+    "Object": "United Nations Country Team",
+    "Description": "UNDP will work with the United Nations Country Team and the programme management team to implement United Nations Development Assistance Framework integrated work plans.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Kuala Lumpur",
+    "Relation": "in",
+    "Object": "United Nations Operations Management Team",
+    "Description": "Operational changes will be made following the UNDP global clustering strategy, with key functions shifting to consolidated service centres in various regions \u2014 in the case of Afghanistan, to Kuala Lumpur and Bangkok.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "United Nations Operations Management Team",
+    "Relation": "in",
+    "Object": "Kuala Lumpur",
+    "Description": "Operational changes will be made following the UNDP global clustering strategy, with key functions shifting to consolidated service centres in various regions \u2014 in the case of Afghanistan, to Kuala Lumpur and Bangkok.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "United Nations Operations Management Team",
+    "Relation": "in",
+    "Object": "Bangkok",
+    "Description": "Operational changes will be made following the UNDP global clustering strategy, with key functions shifting to consolidated service centres in various regions \u2014 in the case of Afghanistan, to Kuala Lumpur and Bangkok.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "United Nations Country Team",
+    "Relation": "collaborates_with",
+    "Object": "United Nations Working Group",
+    "Description": "A United Nations Working Group is already active in this area.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "United Nations Country Team",
+    "Relation": "collaborates_with",
+    "Object": "United Nations Development Assistance Framework",
+    "Description": "UNDP will work with the United Nations Country Team and the programme management team to implement United Nations Development Assistance Framework integrated work plans.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "United Nations Country Team",
+    "Relation": "collaborates_with",
+    "Object": "United Nations Operations Management Team",
+    "Description": "Operational changes will be made following the UNDP global clustering strategy, with key functions shifting to consolidated service centres in various regions \u2014 in the case of Afghanistan, to Kuala Lumpur and Bangkok.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Bangkok",
+    "Relation": "in",
+    "Object": "United Nations Operations Management Team",
+    "Description": "Operational changes will be made following the UNDP global clustering strategy, with key functions shifting to consolidated service centres in various regions \u2014 in the case of Afghanistan, to Kuala Lumpur and Bangkok.",
+    "Relevance": 7
+  }
+]

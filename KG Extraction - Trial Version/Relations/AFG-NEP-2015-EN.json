@@ -1,0 +1,133 @@
+[
+  {
+    "Subject": "Renewable Energy Department",
+    "Relation": "administers",
+    "Object": "National Renewable Energy Policy",
+    "Description": "The National Renewable Energy Policy was administered by the Renewable Energy Department.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "German Development Cooperation",
+    "Relation": "supports",
+    "Object": "Renewable Energy Policy",
+    "Description": "The Renewable Energy Policy was supported by the German Development Cooperation.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Energy Policy Department",
+    "Relation": "contributes_to",
+    "Object": "National Renewable Energy Policy",
+    "Description": "The Energy Policy Department contributed to the development of the National Renewable Energy Policy.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Energy and Water",
+    "Relation": "funds",
+    "Object": "National Renewable Energy Policy",
+    "Description": "The Ministry of Energy and Water provided funding for the National Renewable Energy Policy.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Inter-Ministerial Commission for Energy Secretariat Team",
+    "Relation": "collaborates_with",
+    "Object": "German Development Cooperation",
+    "Description": "The Inter-Ministerial Commission for Energy Secretariat Team collaborates with the German Development Cooperation.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Renewable Energy Policy",
+    "Relation": "supports",
+    "Object": "Inter-Ministerial Commission for Energy Secretariat Team",
+    "Description": "The National Renewable Energy Policy is supported by the Inter-Ministerial Commission for Energy Secretariat Team.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Renewable Energy Coordination Committee",
+    "Relation": "partners_with",
+    "Object": "National Renewable Energy Policy",
+    "Description": "The Renewable Energy Coordination Committee partners with the National Renewable Energy Policy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Renewable Energy Coordination Committee",
+    "Relation": "partners_with",
+    "Object": "Inter-Ministerial Commission for Energy Secretariat Team",
+    "Description": "The Renewable Energy Coordination Committee partners with the Inter-Ministerial Commission for Energy Secretariat Team.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "NEPA",
+    "Relation": "partners_with",
+    "Object": "USAID",
+    "Description": "National Environmental Protection Agency (NEPA) partners with United States Assistance International Development (USAID).",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Policy",
+    "Description": "The Afghanistan Renewable Energy Policy (AREP) aims to provide a thrust and direction to the REN sector.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "in",
+    "Object": "MEW",
+    "Description": "The Renewable Energy Coordination Committee (RECC) will be set up within the MEW.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "partners_with",
+    "Object": "RECC",
+    "Description": "MEW will collaborate with RECC for the implementation of AREP.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry Of Energy and Water",
+    "Relation": "partners_with",
+    "Object": "Renewable Energy Department",
+    "Description": "The Ministry Of Energy and Water partners with the Renewable Energy Department.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "administers",
+    "Object": "Ministry of Energy and Water",
+    "Description": "The Ministry of Energy and Water administers the development of the energy sector in Afghanistan.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "addresses",
+    "Object": "Vision of Afghanistan",
+    "Description": "The Vision of AREP is enshrined in the Vision of Afghanistan- A society of hope and prosperity based on strong, private sector led economy, social equity and environmental sustainability \u2013 and its overall objective is to optimally deploy and utilize renewable energy resources in all possible manner to realize this Vision.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "MRRD",
+    "Description": "MRRD will support the implementation of rural REN projects of upto one (1MW) MW capacity for providing energy services to various rural development related applications including domestic, productive, health, education, water pumping etc. and will coordinate with other Ministries such as MAIL and MPH.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "partners_with",
+    "Object": "MRRD",
+    "Description": "For O&M of rural REN projects below the capacity of 100 kW, utilities will coordinate with MRRD.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "in",
+    "Object": "MEW",
+    "Description": "A strong local industry for manufacture, assembly, installation and servicing would be required to sustain the REN sector in Afghanistan in future."
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "employs",
+    "Object": "VTC",
+    "Description": "On one hand, a cadre of entrepreneurs would be created through technical and vocational training given by Vocational Training Centre (VTC) of MEW to support the REN sector."
+  }
+]

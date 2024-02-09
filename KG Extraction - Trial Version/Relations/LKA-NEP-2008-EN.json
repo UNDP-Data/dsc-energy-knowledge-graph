@@ -1,0 +1,93 @@
+[
+  {
+    "Subject": "Enhancing Energy Sector Management Capacity",
+    "Relation": "contributes_to",
+    "Object": "Energy Policy",
+    "Description": "The Energy Policy includes necessary initiatives to vigorously implement the country\u2019s oil and gas exploration programme.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Appropriate Pricing Policy",
+    "Relation": "addresses",
+    "Object": "Energy Policy",
+    "Description": "An appropriate pricing policy for the energy sector will be adopted considering important factors such as cost reflectivity, need for targeted subsidies, and competitiveness of locally produced goods and services in the regional and world markets.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Appropriate Pricing Policy",
+    "Relation": "addresses",
+    "Object": "Enhancing Energy Sector Management Capacity",
+    "Description": "An appropriate pricing policy for the energy sector will be adopted considering important factors such as cost reflectivity, need for targeted subsidies, and competitiveness of locally produced goods and services in the regional and world markets.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Enhancing Energy Sector Management Capacity",
+    "Relation": "contributes_to",
+    "Object": "Appropriate Pricing Policy",
+    "Description": "All measures will be taken to continually enhance the local capacity to develop and manage the energy sector effectively, giving due emphasis to the technological developments and goods governance in the energy sector.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Petroleum and Petroleum Resources Development",
+    "Relation": "administers",
+    "Object": "Gulf of Mannar Basin",
+    "Description": "Comprehensive seismic acquisition in the Gulf of Mannar Basin were carried out in mid 2005.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Petroleum and Petroleum Resources Development",
+    "Relation": "aligns_with",
+    "Object": "South Asia",
+    "Description": "The Strategic geographical location of Sri Lanka places it in a very favourable situation to become a leader in the bunkering business in South Asia.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Petroleum and Petroleum Resources Development",
+    "Relation": "contributes_to",
+    "Object": "Cauvery basin",
+    "Description": "More detailed 2D seismic and 3D seismic investigations will be carried out in the Cauvery basin and in the southern area in 2006/2007.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Petroleum and Petroleum Resources Development",
+    "Relation": "funds",
+    "Object": "Treasury",
+    "Description": "Petroleum distributors shall prepare the product pricing proposals according to the agreed formula for the approval of the PUCSL which will seek concurrence of the Treasury on the Government subsidy.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "Ministry of Petroleum and Petroleum Resources Development",
+    "Relation": "supports",
+    "Object": "Sri Lanka",
+    "Description": "Institutional responsibility to implement all steps to ensure that exploration and exploitation of petroleum resources are carried out with appropriate investor participation adopting internationally recognised practices and proven technology lies with the Ministry of Petroleum and Petroleum Resources Development.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Ministry of Power and Energy",
+    "Relation": "administers",
+    "Object": "National Energy Database",
+    "Description": "The Ministry of Power and Energy administers the National Energy Database.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Power and Energy",
+    "Relation": "administers",
+    "Object": "Rural Electrification",
+    "Description": "The Ministry of Power and Energy administers the Rural Electrification program.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Ministry of Power and Energy",
+    "Relation": "administers",
+    "Object": "National Energy Planning Team",
+    "Description": "The Ministry of Power and Energy administers the National Energy Planning Team.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Ministry of Power and Energy",
+    "Relation": "partners_with",
+    "Object": "Ministry of Finance",
+    "Description": "The Ministry of Power and Energy partners with the Ministry of Finance.",
+    "Relevance": 6
+  }
+]

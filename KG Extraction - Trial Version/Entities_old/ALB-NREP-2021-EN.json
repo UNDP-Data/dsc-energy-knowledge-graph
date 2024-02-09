@@ -56,12 +56,6 @@
     "summary": null
   },
 
-  {
-    "entity": "Core Challenges",
-    "category": "Skill",
-    "summary": null,
-    "information": "Power generation from renewable energy sources fluctuates and is naturally variable. This requires more sophisticated network infrastructure and operation that can handle bidirectional energy flows and changing supply profiles. Particularly in high-demand centres such as the capital Tirana, the Albanian distribution grid lacks sufficient capacity and dynamic operation to handle variable electricity injection. This severely hampers the successful integration of renewable energy sources in the country"
-  },
 
   {
     "entity": "Tirana",
@@ -73,11 +67,7 @@
     "category": "Product",
     "summary": null
   },
-  {
-    "entity": "renewable energy sources",
-    "category": "Product",
-    "summary": null
-  },
+
   {
     "entity": "South - East Europe",
     "category": "Location",
@@ -98,11 +88,7 @@
     "category": "Location",
     "summary": null
   },
-  {
-    "entity": "National",
-    "category": "Organization",
-    "summary": null
-  },
+
   {
     "entity": "Renewable Energy",
     "category": "Strategy",
@@ -127,11 +113,7 @@
     "acronym": "UNECE",
     "summary": "The United Nations Economic Commission for Europe (ECE or UNECE) is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe. Its transcontinental Eurasian or non-European member states include: Armenia, Azerbaijan, Canada, Cyprus, Georgia, Israel, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkey, Turkmenistan, the United States of America and Uzbekistan."
   },
-  {
-    "entity": "German",
-    "category": "Person",
-    "summary": null
-  },
+
   {
     "entity": "UNECE SecretariatN",
     "category": "Organization",

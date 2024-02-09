@@ -1,0 +1,34 @@
+[
+  {
+    "Subject": "Southern Caucasus",
+    "Relation": "in",
+    "Object": "Republic of Armenia",
+    "Description": "The Republic of Armenia is a landlocked country in the Southern Caucasus"
+  },
+  {
+    "Subject": "Tavush",
+    "Relation": "in",
+    "Object": "Armenia",
+    "Description": "particularly in Syunik and Tavush regions of Armenia"
+  },
+  {
+    "Subject": "Syunik",
+    "Relation": "in",
+    "Object": "Armenia",
+    "Description": "particularly in Syunik and Tavush regions of Armenia"
+  },
+  {
+    "Subject": "Tavush",
+    "Relation": "in",
+    "Object": "Armenia",
+    "Description": "particularly in Syunik and Tavush regions of Armenia.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Syunik",
+    "Relation": "in",
+    "Object": "Armenia",
+    "Description": "particularly in Syunik and Tavush regions of Armenia.",
+    "Relevance": 8
+  }
+]
