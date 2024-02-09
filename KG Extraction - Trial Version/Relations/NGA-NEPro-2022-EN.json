@@ -1,0 +1,28 @@
+[
+  {
+    "Subject": "Total Energy Supply",
+    "Relation": "an_instance_of",
+    "Object": "Total Energy Supply"
+  },
+  {
+    "Subject": "United Arab Emirates",
+    "Relation": "in",
+    "Object": "Masdar City",
+    "Description": "United Arab Emirates is located in Masdar City",
+    "Relevance": 9
+  },
+  {
+    "Subject": "World Bank Global Solar Atlas",
+    "Relation": "addresses",
+    "Object": "Harmonised System",
+    "Description": "World Bank Global Solar Atlas addresses Harmonised System",
+    "Relevance": 6
+  },
+  {
+    "Subject": "World Bank",
+    "Relation": "funds",
+    "Object": "UN World Population Prospects",
+    "Description": "World Bank funds UN World Population Prospects",
+    "Relevance": 8
+  }
+]

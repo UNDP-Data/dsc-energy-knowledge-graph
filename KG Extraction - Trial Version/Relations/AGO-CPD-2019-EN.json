@@ -1,0 +1,23 @@
+[
+  {
+    "Subject": "Sustainable Development Goals",
+    "Relation": "addresses",
+    "Object": "Angola",
+    "Description": "Angola aims to eradicate poverty",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Angola",
+    "Relation": "contributes_to",
+    "Object": "Sustainable Development Goals",
+    "Description": "Angola's efforts contribute to the achievement of the Sustainable Development Goals",
+    "Relevance": 7
+  },
+  {
+    "Subject": "UNDP Strategic Plan",
+    "Relation": "supports",
+    "Object": "Bureau of External Relations and Advocacy",
+    "Description": "The country office is developing a country programme action plan (CPAP), which includes a partnerships strategy and action plan for resource mobilization, with Bureau of External Relations and Advocacy (BERA) support, and a communication strategy.",
+    "Relevance": 8
+  }
+]

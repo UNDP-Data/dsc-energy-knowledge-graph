@@ -1,33 +1,5 @@
 [
   {
-    "Relation": "in",
-    "Subject": "Energetic Matrix",
-    "Object": "Municipality",
-    "Description": "The municipal energy matrix details the energetic profile of the Municipality",
-    "Relevance": 8
-  },
-  {
-    "Relation": "extends",
-    "Subject": "Municipality of Tirana",
-    "Object": "STO",
-    "Description": "The Municipality of Tirana shall extend the scope of this STO to non\u2010public buildings through a governmental order to be published by the Municipality of Tirana/the Ministry responsible for Energy.",
-    "Relevance": 8
-  },
-  {
-    "Relation": "administers",
-    "Subject": "Municipality of Tirana",
-    "Object": "STO",
-    "Description": "as administrator of this STO and owner of the buildings in which the SWH systems will be installed and working",
-    "Relevance": 8
-  },
-  {
-    "Relation": "implements",
-    "Subject": "Municipality of Tirana",
-    "Object": "STO",
-    "Description": "shall start implementing this STO in 2013",
-    "Relevance": 9
-  },
-  {
     "Relation": "focuses_on",
     "Subject": "EU",
     "Object": "European Solar Thermal Industry Federation",
@@ -38,12 +10,6 @@
     "Subject": "EU",
     "Object": "Associa\u00e7\u00e3o para a Certifica\u00e7\u00e3o",
     "Description": "The EU supports Associa\u00e7\u00e3o para a Certifica\u00e7\u00e3o."
-  },
-  {
-    "Relation": "employs",
-    "Subject": "EU",
-    "Object": "qualification of installers",
-    "Description": "The EU employs qualification of installers."
   },
   {
     "Relation": "partners_with",
@@ -104,96 +70,5 @@
     "Subject": "EU",
     "Object": "Ag\u00eancia para a Energia",
     "Description": "The EU partners with Ag\u00eancia para a Energia."
-  },
-  {
-    "Subject": "Fundamentals of hydraulic circuits",
-    "Relation": "implements",
-    "Object": "Materials of SWH systems",
-    "Description": "Fundamentals of hydraulic circuits implement Materials of SWH systems",
-    "Relevance": 8
-  },
-  {
-    "Subject": "Sequence of activities needed for having a SWH system constructed",
-    "Relation": "implements",
-    "Object": "Means and tools needed and respective function",
-    "Description": "Sequence of activities needed for having a SWH system constructed implement Means and tools needed and respective function",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Washing and filling up the primary circuit",
-    "Relation": "implements",
-    "Object": "Means and tools needed and respective function",
-    "Description": "Washing and filling up the primary circuit implement Means and tools needed and respective function",
-    "Relevance": 6
-  },
-  {
-    "Subject": "Preparing the commissioning \u2013 development of a check\u2010list",
-    "Relation": "implements",
-    "Object": "Means and tools needed and respective function",
-    "Description": "Preparing the commissioning \u2013 development of a check\u2010list implement Means and tools needed and respective function",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Maintenance and monitoring of SWH systems",
-    "Relation": "monitors",
-    "Object": "Failure modes of a SWH system",
-    "Description": "Maintenance and monitoring of SWH systems monitors Failure modes of a SWH system",
-    "Relevance": 9
-  },
-  {
-    "Subject": "Maintenance and monitoring of SWH systems",
-    "Relation": "monitors",
-    "Object": "Security related with SWH systems operation and installation",
-    "Description": "Maintenance and monitoring of SWH systems monitors Security related with SWH systems operation and installation",
-    "Relevance": 9
-  },
-  {
-    "Subject": "ANNEX VII \u2013 GUIDELINES FOR DEVELOPING THE SWH SYSTEMS MONITORING PLAN",
-    "Relation": "monitors",
-    "Object": "Object of Monitoring KPI Periodicity",
-    "Description": "ANNEX VII \u2013 GUIDELINES FOR DEVELOPING THE SWH SYSTEMS MONITORING PLAN monitors Object of Monitoring KPI Periodicity",
-    "Relevance": 8
-  },
-  {
-    "Subject": "Thermal fluid temperature at the exit of each autonomous group of collectors",
-    "Relation": "monitors",
-    "Object": "Differences larger than 5 \u00baC",
-    "Description": "Thermal fluid temperature at the exit of each autonomous group of collectors monitors Differences larger than 5 \u00baC",
-    "Relevance": 9
-  },
-  {
-    "Subject": "Fuel or electricity that is used by the backup system",
-    "Relation": "monitors",
-    "Object": "Kg or kWh",
-    "Description": "Fuel or electricity that is used by the backup system monitors Kg or kWh",
-    "Relevance": 8
-  },
-  {
-    "Subject": "Annual solar energy collected \u2013 Productivity (kWh/m2)",
-    "Relation": "monitors",
-    "Object": "Consuming profiles",
-    "Description": "Annual solar energy collected \u2013 Productivity (kWh/m2) monitors Consuming profiles",
-    "Relevance": 9
-  },
-  {
-    "Subject": "Regulation derived According with Tirana SWH Standards",
-    "Relation": "aligns_with",
-    "Object": "See the decree",
-    "Description": "Regulation derived According with Tirana SWH Standards aligns with See the decree",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Regulation derived According with Tirana SWH Standards",
-    "Relation": "aligns_with",
-    "Object": "Other for details",
-    "Description": "Regulation derived According with Tirana SWH Standards aligns with Other for details",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Other hot water requirements Washing machines Machines receive pre-heated water",
-    "Relation": "employs",
-    "Object": "It must be defined an extra hot water demand for this",
-    "Description": "Other hot water requirements Washing machines Machines receive pre-heated water employs It must be defined an extra hot water demand for this",
-    "Relevance": 6
   }
 ]

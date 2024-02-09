@@ -271,34 +271,6 @@
     "Description": "The recommended development scenario has the potential to achieve the following results, which in many cases exceed the commitments made by the country"
   },
   {
-    "Subject": "Albania",
-    "Relation": "signed the Paris Agreement on the 22nd of April 2016 in New York",
-    "Object": "Paris Agreement",
-    "Description": "Albania has signed the Paris Agreement on the 22nd of April 2016 in New York",
-    "Relevance": 8
-  },
-  {
-    "Subject": "Albania",
-    "Relation": "joined the Kyoto Protocol in 2005",
-    "Object": "Kyoto Protocol",
-    "Description": "Albania joined the Kyoto Protocol in 2005",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Albania",
-    "Relation": "submitted its National Determined Contribution within the Paris Agreement process in September 2015",
-    "Object": "National Determined Contribution",
-    "Description": "Albania has submitted its National Determined Contribution within the Paris Agreement process in September 2015",
-    "Relevance": 9
-  },
-  {
-    "Subject": "National Determined Contribution",
-    "Relation": "reviewed and further elaborated upon in the Integrated Energy and Climate Plan",
-    "Object": "Integrated Energy and Climate Plan",
-    "Description": "The level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018",
-    "Relevance": 8
-  },
-  {
     "Relation": "addresses",
     "Subject": "Baseline",
     "Object": "Albania",
@@ -318,13 +290,6 @@
     "Object": "Albania",
     "Description": "The Gas Promotion strategy focuses on promoting gas usage in Albania.",
     "Relevance": 9
-  },
-  {
-    "Relation": "increase",
-    "Subject": "Final Energy Consumption",
-    "Object": "Baseline scenario",
-    "Description": "The Baseline scenario shows that the Final Energy Consumption will increase to 3,868 ktoe.",
-    "Relevance": 8
   },
   {
     "Relation": "supports",
@@ -360,20 +325,6 @@
     "Object": "Third Energy Package",
     "Description": "working to fulfill their commitments to implement the Third Energy Package",
     "Relevance": 8
-  },
-  {
-    "Relation": "certified",
-    "Subject": "Albania",
-    "Object": "TAP AG",
-    "Description": "certified under Third Energy Package procedures",
-    "Relevance": 7
-  },
-  {
-    "Relation": "certified",
-    "Subject": "ERE",
-    "Object": "Albgaz",
-    "Description": "certified the second gas transmission system operator",
-    "Relevance": 7
   },
   {
     "Relation": "in",
@@ -466,45 +417,10 @@
     "Relevance": 8
   },
   {
-    "Relation": "signed",
-    "Subject": "Albania",
-    "Object": "Paris Agreement",
-    "Description": "signed the Paris Agreement on the 22nd of April 2016 in New York",
-    "Relevance": 10
-  },
-  {
-    "Relation": "joined",
-    "Subject": "Albania",
-    "Object": "Kyoto Protocol",
-    "Description": "joined the Kyoto Protocol in 2005",
-    "Relevance": 8
-  },
-  {
-    "Relation": "submitted",
-    "Subject": "Albania",
-    "Object": "National Determined Contribution",
-    "Description": "submitted its National Determined Contribution within the Paris Agreement process in September 2015",
-    "Relevance": 9
-  },
-  {
-    "Relation": "reviewed",
-    "Subject": "National Determined Contribution",
-    "Object": "Integrated Energy and Climate Plan",
-    "Description": "level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018",
-    "Relevance": 8
-  },
-  {
     "Relation": "contributes_to",
     "Subject": "National Determined Contribution",
     "Object": "Integrated Energy and Climate Plan",
     "Description": "The level of National Determined Contribution will be reviewed and further elaborated upon in the Integrated Energy and Climate Plan to be developed and adopted in 2018.",
-    "Relevance": 8
-  },
-  {
-    "Relation": "shows",
-    "Subject": "Final Energy Consumption",
-    "Object": "Albania",
-    "Description": "The Baseline scenario shows that the Final Energy Consumption will increase to 3,868 ktoe",
     "Relevance": 8
   },
   {
@@ -919,20 +835,6 @@
     "Relevance": 8
   },
   {
-    "Subject": "Directorate of Policies and Strategies of Industry and Energy",
-    "Relation": "provides_direction_and_supervision_to",
-    "Object": "ALBPETROL",
-    "Description": "The Directorate of Policies and Strategies of Industry and Energy should in addition, provide direction and supervision to the management of two public companies, ALBPETROL and ARMO.",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Directorate of Policies and Strategies of Industry and Energy",
-    "Relation": "provides_direction_and_supervision_to",
-    "Object": "ARMO",
-    "Description": "The Directorate of Policies and Strategies of Industry and Energy should in addition, provide direction and supervision to the management of two public companies, ALBPETROL and ARMO.",
-    "Relevance": 7
-  },
-  {
     "Relation": "in",
     "Subject": "Ministry of Infrastructure and Energy",
     "Object": "AKBN",
@@ -988,14 +890,6 @@
     "Description": "Based on the new Energy Efficiency Law, the Government plans to establish soon an Energy Efficiency Fund, which shall function as a legal entity, having the status of a non-profit organization.",
     "Relevance": 9
   },
-  {
-    "Relation": "governed_by",
-    "Subject": "EE Fund",
-    "Object": "Board of Trustees",
-    "Description": "The Energy Efficiency Fund shall be governed by a Board of Trustees with members representing MIE and other Ministries engaged in the improvement of energy efficiency in the areas under their responsibility.",
-    "Relevance": 7
-  },
-
   {
     "Relation": "supports",
     "Subject": "Government",
@@ -1072,60 +966,17 @@
     "Description": "At some point a substantial sector financial restructuring is likely to be required to place all power companies on a sustainable basis."
   },
   {
-    "Subject": "ERE",
-    "Relation": "develop",
-    "Object": "OSHEE",
-    "Description": "Requirement from ERE and government for OSHEE to develop performance improvement plan to reduce losses and increase cash collection",
-    "Relevance": 8
-  },
-  {
-    "Subject": "ERE",
-    "Relation": "permit",
-    "Object": "KESH",
-    "Description": "Permit higher returns for KESH",
-    "Relevance": 7
-  },
-  {
-    "Subject": "Government",
-    "Relation": "reschedule",
-    "Object": "ERE",
-    "Description": "Reschedule submissions to regulator",
-    "Relevance": 6
-  },
-  {
-    "Subject": "Government",
-    "Relation": "jointly",
-    "Object": "ERE",
-    "Description": "Reschedule submissions to regulator",
-    "Relevance": 5
-  },
-  {
-    "Subject": "RES Law",
-    "Relation": "requires",
-    "Object": "Council of Ministers",
-    "Description": "The new RES Law requires the Council of Ministers to approve, based on the proposal of ERE, the methodology for establishing the support schemes for Priority Producers of SHPPs, PvPPs, WPPs, BioGas PPs.",
-    "Relevance": 9
-  },
-  {
     "Relation": "supports",
     "Subject": "Albania",
     "Object": "SHPPs",
     "Description": "Support schemes for SHPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
     "Relevance": 8
   },
-
   {
     "Relation": "supports",
     "Subject": "WPPs",
     "Object": "Albania",
     "Description": "Support schemes for WPPs defined for Albania should not be lower than all countries and especially lower compare with border countries.",
-    "Relevance": 8
-  },
-  {
-    "Subject": "WACC",
-    "Relation": "consider in the calculation of FiT for RES",
-    "Object": "Weighted Average Capital Cost",
-    "Description": "WACC should be at least 15-16%.",
     "Relevance": 8
   },
   {
@@ -1203,27 +1054,6 @@
     "Object": "Paris Agreement",
     "Description": "Albania has signed the Paris Agreement on the 22nd of April 2016 in New York, and the agreement will enter into force after 55 countries that account for at least 55% of global emissions have deposited their instruments of ratification.",
     "Relevance": 7
-  },
-  {
-    "Subject": "Albania",
-    "Relation": "achieves_transposition_of",
-    "Object": "Third Energy Package",
-    "Description": "Albania is one of the earlier Contracting Parties to have successfully achieved transposition of the Third Energy Package in 2015.",
-    "Relevance": 9
-  },
-  {
-    "Relation": "between",
-    "Subject": "Albania",
-    "Object": "Kosovo",
-    "Description": "400KV interconnection line between Tirana2 (Albania) and Kosova B (Kosovo)",
-    "Relevance": 9
-  },
-  {
-    "Relation": "between",
-    "Subject": "Albania",
-    "Object": "Macedonia",
-    "Description": "400 KV interconnection line between Elbasan (Albania) and Bitola (Macedonia)",
-    "Relevance": 8
   },
   {
     "Relation": "partners_with",

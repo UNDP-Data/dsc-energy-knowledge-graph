@@ -1,0 +1,93 @@
+[
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "Ministry of Energy and Water",
+    "Description": "In November 2012, the Ministry of Energy and Water (MEW) estimated that 28% of the household was connected to the power supply systems, the vast majority of whom live in urban centres.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "Gross Domestic Product",
+    "Description": "More than 75% of Afghans live in rural areas and 67 per cent of the national Gross Domestic Product (GDP) comes from rural areas.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "Afghanistan",
+    "Relation": "focuses_on",
+    "Object": "Afghan Government",
+    "Description": "The Afghan Government needs to initiate a sustained, long-term expansion of rural energy, as identified in the Afghanistan National Development Strategy (ANDS), which emphasizes that the overall policy focus for rural areas should be the expansion of rural energy and electricity services.",
+    "Relevance": 10
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "partners_with",
+    "Object": "Da Afghanistan Breshna Sherkat",
+    "Description": "The legal and regulatory frameworks will be developed in collaboration with existing frameworks for the overall development of energy sector, mainly coordinated through MEW and Da Afghanistan Breshna Sherkat.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "contributes_to",
+    "Object": "National Proirity Program",
+    "Description": "MEW launched National Energy Supply Program (NESP) as a National Proirity Program (NPP) under infrastructure development cluster to develop larger sized generation and expansion of transmission and distribution networks.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "partners_with",
+    "Object": "Asian Development Bank",
+    "Description": "MEW is supported by Asian Development Bank (ADB).",
+    "Relevance": 7
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Department",
+    "Description": "The Renewable Energy Department of MEW is engaged in coordination of promotion of renewable energy technologies.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "addresses",
+    "Object": "Energy Policy Department",
+    "Description": "Energy Policy Department of the ministry is engaged with other stakeholders to develop enabling policy and strategy for overall energy sector of the country.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "National Solidarity Program",
+    "Relation": "supports",
+    "Object": "Energy for Rural Development in Afghanistan",
+    "Description": "NSP has supported energy access to rural areas through the installation of micro-hydropower plants, solar home systems and diesel generators.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "National Solidarity Program",
+    "Relation": "supports",
+    "Object": "National Area-Based Development Programme",
+    "Description": "NSP launched Energy for Rural Development in Afghanistan (ERDA) under the National Area-Based Development Programme (NABDP) in 2008 to address sustainability issues related to rural energy projects.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "partners_with",
+    "Object": "Policy Oversight Committee",
+    "Description": "MEW partners with the Policy Oversight Committee to implement government policies and plans on rural energy.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "MEW",
+    "Relation": "supports",
+    "Object": "Provincial Reconstruction Teams",
+    "Description": "MEW supports Provincial Reconstruction Teams in rural electrification projects.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "Renewable Energy Department",
+    "Relation": "contributes_to",
+    "Object": "MRRD Rural Energy and Enterprise Directorate",
+    "Description": "In case, MRRD is implementing projects above 100 kW capacity, it will be coordinated with MEW and the MEW when implementing projects below 100 kW in the rural area will be coordinated with MRRD.",
+    "Relevance": 7
+  }
+]

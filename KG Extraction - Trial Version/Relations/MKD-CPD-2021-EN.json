@@ -1,0 +1,37 @@
+[
+  {
+    "Subject": "Republic of North Macedonia",
+    "Relation": "in",
+    "Object": "European Union",
+    "Description": "The country is about to open accession negotiations with the European Union.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "European Union",
+    "Relation": "targets",
+    "Object": "North Macedonia",
+    "Description": "Together, they aim for European Union accession, sustainable economic growth, and inclusive prosperity.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Innovation Hub",
+    "Relation": "partners_with",
+    "Object": "Skopje Lab",
+    "Description": "UNDP will scale up programme innovations, including the Skopje Lab, the Innovation Hub, and platforms for disaster risk management and small and medium-sized enterprises.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "North Macedonia",
+    "Relation": "focuses_on",
+    "Object": "European Union",
+    "Description": "North Macedonia is working towards narrowing the income gap with the European Union.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "Sustainable Development Cooperation Framework Joint Steering Committee",
+    "Relation": "partners_with",
+    "Object": "Government",
+    "Description": "UNDP will participate in Government-United Nations coordination mechanisms, including the Sustainable Development Cooperation Framework Joint Steering Committee.",
+    "Relevance": 8
+  }
+]

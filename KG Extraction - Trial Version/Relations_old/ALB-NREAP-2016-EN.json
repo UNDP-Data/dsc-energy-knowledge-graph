@@ -84,13 +84,6 @@
     "Relevance": 7
   },
   {
-    "Subject": "Albania",
-    "Relation": "has_potential_of",
-    "Object": "biomass",
-    "Description": "Albania has also considerable potential of biomass from agricultural waste, which is assessed approximately about 2,300 GWh/year.",
-    "Relevance": 8
-  },
-  {
     "Relation": "implements",
     "Subject": "Albania",
     "Object": "EU Directive 2009",
@@ -238,69 +231,6 @@
     "Relevance": 7
   },
   {
-    "Subject": "table 7b",
-    "Relation": "describes",
-    "Object": "agricultural land",
-    "Description": "Current use of agricultural land for the production of energy agricultural cultures in 2009",
-    "Relevance": 8
-  },
-  {
-    "Subject": "agricultural land",
-    "Relation": "used_for",
-    "Object": "energy agricultural cultures",
-    "Description": "Land used for the production of agricultural cultures for Surface (ha)",
-    "Relevance": 7
-  },
-  {
-    "Subject": "agricultural land",
-    "Relation": "used_for",
-    "Object": "trees",
-    "Description": "Land used for the trees with a fast growth cycle (willow, poplars)",
-    "Relevance": 6
-  },
-  {
-    "Subject": "agricultural land",
-    "Relation": "used_for",
-    "Object": "agricultural energy cultures",
-    "Description": "Land used for other agricultural energy cultures, such as: grasses (Phalaris",
-    "Relevance": 5
-  },
-  {
-    "Subject": "biomass",
-    "Relation": "increase_in",
-    "Object": "biomass availability",
-    "Description": "Measures to increase biomass availability taking into consideration the other users of biomass (agriculture and other sectors based on the forests)",
-    "Relevance": 9
-  },
-  {
-    "Subject": "biomass",
-    "Relation": "decrease_in",
-    "Object": "final energy consumption",
-    "Description": "The slight decrease of biomass in the final energy consumption",
-    "Relevance": 8
-  },
-  {
-    "Subject": "biomass",
-    "Relation": "decrease_in",
-    "Object": "heating energy",
-    "Description": "The slight decrease of the heating energy produced by biomass exploitation",
-    "Relevance": 7
-  },
-  {
-    "Subject": "current agricultural land situation",
-    "Relation": "used_for",
-    "Object": "wood",
-    "Description": "Land used for wood with a fast growing cycle (poplins, willows)",
-    "Relevance": 7
-  },
-  {
-    "Subject": "current agricultural land situation",
-    "Relation": "used_for",
-    "Object": "HPPtare",
-    "Description": "For the period 2006-2009 there is no HPPtare of land used for these purposes",
-    "Relevance": 6
-  },
-  {
     "Relation": "administers",
     "Subject": "Council of Ministers",
     "Object": "Albania",
@@ -357,44 +287,9 @@
     "Relevance": 9
   },
   {
-    "Relation": "prepares",
-    "Subject": "Ministry of Energy and Industry",
-    "Object": "National Strategy on Electrical Power",
-    "Description": "Preparation, periodical review and update of the National Strategy on Electrical Power",
-    "Relevance": 8
-  },
-  {
     "Subject": "National Agency of Natural Resources",
     "Relation": "administers",
     "Object": "RESdevelopment"
-  },
-  {
-    "Subject": "National Licensing Centre",
-    "Relation": "established by",
-    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
-    "Description": "National Licensing Centre (NLC) is a public institution established by law and under the subordination of the Ministry of Economic Development, Trade, Entrepreneurship and Tourism.",
-    "Relevance": 8
-  },
-  {
-    "Subject": "Agency for Treatment of Concessions",
-    "Relation": "established by",
-    "Object": "Ministry of Economic Development, Trade, Entrepreneurship and Tourism",
-    "Description": "Agency for Treatment of Concessions (ATC) is a unit established in conformity with the law on concessions and is under the subordination of the Ministry of Economic Development, Trade, Entrepreneurship and Tourism.",
-    "Relevance": 8
-  },
-  {
-    "Subject": "National Territory Council",
-    "Relation": "attached to",
-    "Object": "Council of Ministers",
-    "Description": "NTC is a collegial body attached to the Council of Ministers.",
-    "Relevance": 8
-  },
-  {
-    "Relation": "attached_to",
-    "Subject": "NTC",
-    "Object": "Council of Ministers",
-    "Description": "NTC is a collegial body attached to the Council of Ministers.",
-    "Relevance": 7
   },
   {
     "Subject": "National Agency of Territorial Planning",
@@ -437,13 +332,6 @@
     "Object": "National Action Plan for Renewable Energies",
     "Description": "The National Action Plan for Renewable Energies to be adopted by the Council of Ministers will be monitored by the agency responsible for renewable energy resources",
     "Relevance": 9
-  },
-  {
-    "Subject": "Council of Ministers",
-    "Relation": "depends_on",
-    "Object": "Decision of Council of Ministers",
-    "Description": "Protected areas established in accordance with law no. 8906, dated 6.6.2002 \"On protected areas\" are managed by the relevant state authority set up by the Decision of Council of Ministers",
-    "Relevance": 6
   },
   {
     "Relation": "partners_with",

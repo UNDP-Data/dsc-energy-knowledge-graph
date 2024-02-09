@@ -1,0 +1,79 @@
+[
+  {
+    "Subject": "Georgia",
+    "Relation": "funds",
+    "Object": "PEEB",
+    "Description": "AFD supports Georgia with a multi-year program of Policy Based Loans, with co-financing from KfW and grant support from the European Union.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "AFD",
+    "Relation": "partners with",
+    "Object": "GIZ",
+    "Description": "AFD partners with GIZ to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "AFD",
+    "Relation": "partners with",
+    "Object": "PEEB",
+    "Description": "AFD partners with PEEB to support countries in their transition towards low-carbon, energy-efficient, and resilient building sectors.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "PEEB",
+    "Relation": "supports",
+    "Object": "Georgia",
+    "Description": "PEEB supports Georgia in their transition towards low-carbon, energy-efficient, and resilient building sectors.",
+    "Relevance": 9
+  },
+  {
+    "Subject": "PEEB",
+    "Relation": "supports",
+    "Object": "AFD",
+    "Description": "PEEB supports AFD in their efforts to support countries in their transition towards low-carbon, energy-efficient, and resilient building sectors.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "PEEB",
+    "Relation": "supports",
+    "Object": "GIZ",
+    "Description": "PEEB supports GIZ in their efforts to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "GIZ",
+    "Relation": "partners with",
+    "Object": "AFD",
+    "Description": "GIZ partners with AFD to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
+    "Relevance": 7
+  },
+  {
+    "Subject": "GIZ",
+    "Relation": "partners with",
+    "Object": "PEEB",
+    "Description": "GIZ partners with PEEB to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
+    "Relevance": 8
+  },
+  {
+    "Subject": "European Union",
+    "Relation": "funds",
+    "Object": "AFD",
+    "Description": "The European Union provides grant support to AFD for their multi-year program of Policy Based Loans to Georgia.",
+    "Relevance": 6
+  },
+  {
+    "Subject": "AFD",
+    "Relation": "funds",
+    "Object": "Georgia",
+    "Description": "Total AFD funding is 355M\u20ac (2018-2021)",
+    "Relevance": 8
+  },
+  {
+    "Subject": "AFD",
+    "Relation": "funds",
+    "Object": "Albania",
+    "Description": "Upcoming PEEB Cool: Albania to be included in PEEB Cool, with funding dedicated (loans + grants) to EE improvement of public buildings",
+    "Relevance": 8
+  }
+]
