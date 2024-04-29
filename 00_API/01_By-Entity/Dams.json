@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Dams": [
+                {
+                    "Relation": "Harnesses",
+                    "Object": "Rivers",
+                    "Strength": "8",
+                    "Description": "Dams harness the power of rivers to generate electricity through hydropower."
+                },
+                {
+                    "Relation": "Provides",
+                    "Object": "Hydropower",
+                    "Strength": "9",
+                    "Description": "Dams provide a reliable source of hydropower, which is a sustainable form of energy."
+                },
+                {
+                    "Relation": "Affects",
+                    "Object": "Fish",
+                    "Strength": "6",
+                    "Description": "Dams can have an impact on fish populations by altering their habitats and migration patterns."
+                },
+                {
+                    "Relation": "Creates",
+                    "Object": "Reservoirs",
+                    "Strength": "7",
+                    "Description": "Dams create reservoirs, which serve as water storage for various purposes such as irrigation and drinking water supply."
+                }
+            ]
+        }
+    }
+}

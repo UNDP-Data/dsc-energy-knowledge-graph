@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Hydroelectric power": [
+                {
+                    "Relation": "Relies on",
+                    "Object": "Water",
+                    "Strength": "8",
+                    "Description": "Hydroelectric power generation relies on the flow of water to drive turbines and generate electricity."
+                },
+                {
+                    "Relation": "Requires",
+                    "Object": "Dams",
+                    "Strength": "9",
+                    "Description": "Hydroelectric power plants require the construction of dams to create reservoirs and control the flow of water."
+                },
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Turbines",
+                    "Strength": "7",
+                    "Description": "Hydroelectric power plants utilize turbines to convert the kinetic energy of flowing water into mechanical energy."
+                },
+                {
+                    "Relation": "Produces",
+                    "Object": "Electricity",
+                    "Strength": "10",
+                    "Description": "Hydroelectric power plants produce electricity by harnessing the energy of falling or flowing water."
+                }
+            ]
+        }
+    }
+}

@@ -7,42 +7,26 @@
                 {
                     "Relation": "is utilized by",
                     "Object": "Geothermal power plant",
-                    "Description": "Geothermal reservoirs are used as a source of heat for geothermal power plants."
+                    "Strength": "8",
+                    "Description": "Geothermal power plants extract heat from geothermal reservoirs to generate electricity."
                 },
                 {
-                    "Relation": "is harnessed by",
+                    "Relation": "is used in",
                     "Object": "Geothermal heat pump",
-                    "Description": "Geothermal reservoirs provide the heat source for geothermal heat pumps used for heating and cooling buildings."
+                    "Strength": "7",
+                    "Description": "Geothermal heat pumps utilize the heat from geothermal reservoirs for heating and cooling buildings."
                 },
                 {
-                    "Relation": "is the source of",
+                    "Relation": "is a source of",
                     "Object": "Geothermal energy",
-                    "Description": "Geothermal reservoirs are the primary source of geothermal energy, which is used for electricity generation and heating purposes."
+                    "Strength": "9",
+                    "Description": "Geothermal reservoirs are the source of geothermal energy, which is a renewable and sustainable form of energy."
                 },
                 {
-                    "Relation": "is influenced by",
-                    "Object": "Geothermal gradient",
-                    "Description": "The temperature and pressure of a geothermal reservoir are influenced by the geothermal gradient, which is the rate of increase in temperature with depth in the Earth's crust."
-                },
-                {
-                    "Relation": "is utilized by",
-                    "Object": "Geothermal power plant",
-                    "Description": "Geothermal reservoirs are used as a source of heat for geothermal power plants."
-                },
-                {
-                    "Relation": "is harnessed by",
-                    "Object": "Geothermal heat pump",
-                    "Description": "Geothermal reservoirs provide the heat source for geothermal heat pumps used for heating and cooling buildings."
-                },
-                {
-                    "Relation": "is the source of",
-                    "Object": "Geothermal energy",
-                    "Description": "Geothermal reservoirs are the primary source of geothermal energy, which is used for electricity generation and heating purposes."
-                },
-                {
-                    "Relation": "is influenced by",
-                    "Object": "Geothermal gradient",
-                    "Description": "The temperature and pressure of a geothermal reservoir are influenced by the geothermal gradient, which is the rate of increase in temperature with depth in the Earth's crust."
+                    "Relation": "is accessed through",
+                    "Object": "Geothermal well",
+                    "Strength": "6",
+                    "Description": "Geothermal wells are drilled to access the hot water or steam in geothermal reservoirs for various applications."
                 }
             ]
         }

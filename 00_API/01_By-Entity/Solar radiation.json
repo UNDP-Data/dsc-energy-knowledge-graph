@@ -5,24 +5,28 @@
         "relations": {
             "Solar radiation": [
                 {
-                    "Relation": "emits",
+                    "Relation": "Originates from",
                     "Object": "Sun",
-                    "Description": "The Sun emits solar radiation, which includes visible light, ultraviolet (UV) radiation, and infrared (IR) radiation."
+                    "Strength": "9",
+                    "Description": "Solar radiation is the energy emitted by the Sun"
                 },
                 {
-                    "Relation": "travels through",
+                    "Relation": "Interacts with",
                     "Object": "Atmosphere",
-                    "Description": "Solar radiation travels through the Earth's atmosphere, where it can be absorbed, scattered, or reflected."
+                    "Strength": "8",
+                    "Description": "Solar radiation interacts with the Earth's atmosphere, causing various atmospheric phenomena"
                 },
                 {
-                    "Relation": "interacts with",
-                    "Object": "Clouds",
-                    "Description": "Solar radiation interacts with clouds, affecting their formation, movement, and properties."
+                    "Relation": "Utilizes",
+                    "Object": "Solar panels",
+                    "Strength": "7",
+                    "Description": "Solar panels convert solar radiation into usable electricity"
                 },
                 {
-                    "Relation": "reaches",
-                    "Object": "Earth",
-                    "Description": "Solar radiation reaches the Earth's surface, providing energy for various processes such as photosynthesis and heating the planet."
+                    "Relation": "Drives",
+                    "Object": "Photosynthesis",
+                    "Strength": "6",
+                    "Description": "Solar radiation is the primary source of energy for photosynthesis in plants"
                 }
             ]
         }

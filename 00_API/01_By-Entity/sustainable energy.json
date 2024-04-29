@@ -7,22 +7,26 @@
                 {
                     "Relation": "provides",
                     "Object": "Solar power",
-                    "Description": "Solar power provides sustainable energy by harnessing the sun's energy and converting it into electricity."
+                    "Strength": "9",
+                    "Description": "Solar power provides clean and renewable energy by harnessing the power of the sun."
                 },
                 {
                     "Relation": "generates",
                     "Object": "Wind power",
-                    "Description": "Wind power generates sustainable energy by using wind turbines to convert wind energy into electricity."
+                    "Strength": "8",
+                    "Description": "Wind power generates electricity by harnessing the power of wind, reducing reliance on fossil fuels."
                 },
                 {
                     "Relation": "produces",
                     "Object": "Hydroelectric power",
-                    "Description": "Hydroelectric power produces sustainable energy by utilizing the gravitational force of flowing or falling water to generate electricity."
+                    "Strength": "7",
+                    "Description": "Hydroelectric power produces electricity by utilizing the energy of flowing or falling water, a sustainable energy source."
                 },
                 {
                     "Relation": "utilizes",
                     "Object": "Geothermal energy",
-                    "Description": "Geothermal energy utilizes the heat from the Earth's core to generate sustainable energy and produce electricity."
+                    "Strength": "6",
+                    "Description": "Geothermal energy utilizes heat from the Earth's core to generate electricity, providing a sustainable energy option."
                 }
             ]
         }

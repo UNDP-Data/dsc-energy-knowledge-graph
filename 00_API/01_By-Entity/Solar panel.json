@@ -5,24 +5,40 @@
         "relations": {
             "Solar panel": [
                 {
-                    "Relation": "provides power to",
+                    "Relation": "Generates",
                     "Object": "Battery",
+                    "Strength": "8",
                     "Description": "Solar panels generate electricity that can be stored in batteries for later use."
                 },
                 {
-                    "Relation": "converts DC power to AC power using",
+                    "Relation": "Converts",
                     "Object": "Inverter",
-                    "Description": "Solar panels produce direct current (DC) electricity, which needs to be converted to alternating current (AC) electricity for use in homes and businesses. Inverters are used for this purpose."
+                    "Strength": "9",
+                    "Description": "Solar panels convert sunlight into usable electricity through the inverter."
                 },
                 {
-                    "Relation": "consists of",
-                    "Object": "Photovoltaic Cell",
-                    "Description": "Solar panels are made up of multiple photovoltaic cells that convert sunlight into electricity."
+                    "Relation": "Connects to",
+                    "Object": "Grid",
+                    "Strength": "7",
+                    "Description": "Solar panels can be connected to the grid to supply excess electricity or draw power when needed."
                 },
                 {
-                    "Relation": "is mounted on",
-                    "Object": "Mounting System",
-                    "Description": "Solar panels are installed on mounting systems, which securely hold them in place and allow for optimal sunlight exposure."
+                    "Relation": "Generates",
+                    "Object": "Battery",
+                    "Strength": "8",
+                    "Description": "Solar panels generate electricity that can be stored in batteries for later use."
+                },
+                {
+                    "Relation": "Converts",
+                    "Object": "Inverter",
+                    "Strength": "9",
+                    "Description": "Solar panels convert sunlight into usable electricity through the inverter."
+                },
+                {
+                    "Relation": "Connects to",
+                    "Object": "Grid",
+                    "Strength": "7",
+                    "Description": "Solar panels can be connected to the grid to supply excess electricity or draw power when needed."
                 }
             ]
         }

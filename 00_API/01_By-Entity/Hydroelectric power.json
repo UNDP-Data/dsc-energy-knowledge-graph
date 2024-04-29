@@ -5,24 +5,28 @@
         "relations": {
             "Hydroelectric power": [
                 {
-                    "Relation": "utilizes",
+                    "Relation": "Relies on",
                     "Object": "Water",
-                    "Description": "Hydroelectric power utilizes the force of flowing water to generate electricity."
+                    "Strength": "8",
+                    "Description": "Hydroelectric power generation relies on the flow of water to drive turbines and generate electricity."
                 },
                 {
-                    "Relation": "drives",
-                    "Object": "Turbine",
-                    "Description": "The force of flowing water drives the turbine in a hydroelectric power plant."
+                    "Relation": "Requires",
+                    "Object": "Dams",
+                    "Strength": "9",
+                    "Description": "Hydroelectric power plants require the construction of dams to create reservoirs and control the flow of water."
                 },
                 {
-                    "Relation": "requires",
-                    "Object": "Dam",
-                    "Description": "A dam is required to create a reservoir and control the flow of water for hydroelectric power generation."
+                    "Relation": "Utilizes",
+                    "Object": "Turbines",
+                    "Strength": "7",
+                    "Description": "Hydroelectric power plants utilize turbines to convert the kinetic energy of flowing water into mechanical energy."
                 },
                 {
-                    "Relation": "converts",
-                    "Object": "Generator",
-                    "Description": "The turbine converts the mechanical energy of flowing water into electrical energy using a generator in a hydroelectric power plant."
+                    "Relation": "Produces",
+                    "Object": "Electricity",
+                    "Strength": "10",
+                    "Description": "Hydroelectric power plants produce electricity by harnessing the energy of falling or flowing water."
                 }
             ]
         }

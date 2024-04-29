@@ -5,24 +5,28 @@
         "relations": {
             "Solar power": [
                 {
-                    "Relation": "uses",
+                    "Relation": "utilizes",
                     "Object": "Solar panel",
+                    "Strength": "8",
                     "Description": "Solar power is generated using solar panels that convert sunlight into electricity."
                 },
                 {
-                    "Relation": "produces",
+                    "Relation": "derives from",
                     "Object": "Solar energy",
-                    "Description": "Solar power produces clean and renewable energy from the sun."
+                    "Strength": "10",
+                    "Description": "Solar power is a form of renewable energy derived from the sun's radiation."
                 },
                 {
-                    "Relation": "utilizes",
+                    "Relation": "produces",
                     "Object": "Solar farm",
-                    "Description": "Solar power can be generated on a large scale using solar farms that consist of multiple solar panels."
+                    "Strength": "7",
+                    "Description": "Solar power plants, also known as solar farms, produce large amounts of electricity using solar panels."
                 },
                 {
                     "Relation": "depends on",
                     "Object": "Solar radiation",
-                    "Description": "Solar power relies on the availability of solar radiation, which is the electromagnetic radiation emitted by the sun."
+                    "Strength": "9",
+                    "Description": "Solar power generation relies on the availability of solar radiation from the sun."
                 }
             ]
         }

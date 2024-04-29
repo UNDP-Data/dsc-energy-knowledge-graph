@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Turbines": [
+                {
+                    "Relation": "Generate Power",
+                    "Object": "Wind",
+                    "Strength": "8",
+                    "Description": "Turbines are used in wind farms to convert wind energy into electrical power."
+                },
+                {
+                    "Relation": "Generate Power",
+                    "Object": "Hydro",
+                    "Strength": "9",
+                    "Description": "Turbines are used in hydroelectric power plants to convert the energy of flowing or falling water into electrical power."
+                },
+                {
+                    "Relation": "Generate Power",
+                    "Object": "Gas",
+                    "Strength": "6",
+                    "Description": "Turbines can be used in gas-fired power plants to convert the energy of burning natural gas into electrical power."
+                },
+                {
+                    "Relation": "Energy Conversion",
+                    "Object": "Steam",
+                    "Strength": "7",
+                    "Description": "Turbines are commonly used in steam power plants to convert the energy of high-pressure steam into mechanical power, which can then be used to generate electricity."
+                }
+            ]
+        }
+    }
+}

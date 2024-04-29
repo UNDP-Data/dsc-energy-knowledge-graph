@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar power": [
+                {
+                    "Relation": "utilizes",
+                    "Object": "Solar panel",
+                    "Strength": "8",
+                    "Description": "Solar power is generated using solar panels that convert sunlight into electricity."
+                },
+                {
+                    "Relation": "derives from",
+                    "Object": "Solar energy",
+                    "Strength": "10",
+                    "Description": "Solar power is a form of renewable energy derived from the sun's radiation."
+                },
+                {
+                    "Relation": "produces",
+                    "Object": "Solar farm",
+                    "Strength": "7",
+                    "Description": "Solar power plants, also known as solar farms, produce large amounts of electricity using solar panels."
+                },
+                {
+                    "Relation": "depends on",
+                    "Object": "Solar radiation",
+                    "Strength": "9",
+                    "Description": "Solar power generation relies on the availability of solar radiation from the sun."
+                }
+            ]
+        }
+    }
+}

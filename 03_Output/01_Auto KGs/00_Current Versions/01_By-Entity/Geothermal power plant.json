@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Geothermal power plant": [
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Geothermal energy",
+                    "Strength": "9",
+                    "Description": "Geothermal power plants harness the heat from the Earth's core to generate electricity."
+                },
+                {
+                    "Relation": "Uses",
+                    "Object": "Heat exchanger",
+                    "Strength": "7",
+                    "Description": "Heat exchangers are used in geothermal power plants to transfer heat from the geothermal fluid to the working fluid."
+                },
+                {
+                    "Relation": "Converts",
+                    "Object": "Steam turbine",
+                    "Strength": "8",
+                    "Description": "Steam turbines are used in geothermal power plants to convert the thermal energy of steam into mechanical energy."
+                },
+                {
+                    "Relation": "Cools",
+                    "Object": "Cooling tower",
+                    "Strength": "6",
+                    "Description": "Cooling towers are used in geothermal power plants to cool the working fluid before it is re-injected into the geothermal reservoir."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Wind power": [
+                {
+                    "Relation": "Complementary",
+                    "Object": "Solar power",
+                    "Strength": "8",
+                    "Description": "Wind power and solar power are complementary renewable energy sources that can be used together to generate electricity."
+                },
+                {
+                    "Relation": "Alternative",
+                    "Object": "Hydroelectric power",
+                    "Strength": "7",
+                    "Description": "Wind power and hydroelectric power are alternative renewable energy sources that can be used depending on the availability of wind or water resources."
+                },
+                {
+                    "Relation": "Synergistic",
+                    "Object": "Biomass energy",
+                    "Strength": "6",
+                    "Description": "Wind power and biomass energy can be used synergistically, where wind turbines can power biomass processing facilities."
+                },
+                {
+                    "Relation": "Independent",
+                    "Object": "Geothermal energy",
+                    "Strength": "5",
+                    "Description": "Wind power and geothermal energy are independent renewable energy sources that can be harnessed separately without direct interaction."
+                }
+            ]
+        }
+    }
+}

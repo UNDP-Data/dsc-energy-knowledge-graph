@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Geothermal reservoir": [
+                {
+                    "Relation": "is utilized by",
+                    "Object": "Geothermal power plant",
+                    "Strength": "8",
+                    "Description": "Geothermal power plants extract heat from geothermal reservoirs to generate electricity."
+                },
+                {
+                    "Relation": "is used in",
+                    "Object": "Geothermal heat pump",
+                    "Strength": "7",
+                    "Description": "Geothermal heat pumps utilize the heat from geothermal reservoirs for heating and cooling buildings."
+                },
+                {
+                    "Relation": "is a source of",
+                    "Object": "Geothermal energy",
+                    "Strength": "9",
+                    "Description": "Geothermal reservoirs are the source of geothermal energy, which is a renewable and sustainable form of energy."
+                },
+                {
+                    "Relation": "is accessed through",
+                    "Object": "Geothermal well",
+                    "Strength": "6",
+                    "Description": "Geothermal wells are drilled to access the hot water or steam in geothermal reservoirs for various applications."
+                }
+            ]
+        }
+    }
+}

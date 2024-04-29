@@ -1,0 +1,46 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar panel": [
+                {
+                    "Relation": "Generates",
+                    "Object": "Battery",
+                    "Strength": "8",
+                    "Description": "Solar panels generate electricity that can be stored in batteries for later use."
+                },
+                {
+                    "Relation": "Converts",
+                    "Object": "Inverter",
+                    "Strength": "9",
+                    "Description": "Solar panels convert sunlight into usable electricity through the inverter."
+                },
+                {
+                    "Relation": "Connects to",
+                    "Object": "Grid",
+                    "Strength": "7",
+                    "Description": "Solar panels can be connected to the grid to supply excess electricity or draw power when needed."
+                },
+                {
+                    "Relation": "Generates",
+                    "Object": "Battery",
+                    "Strength": "8",
+                    "Description": "Solar panels generate electricity that can be stored in batteries for later use."
+                },
+                {
+                    "Relation": "Converts",
+                    "Object": "Inverter",
+                    "Strength": "9",
+                    "Description": "Solar panels convert sunlight into usable electricity through the inverter."
+                },
+                {
+                    "Relation": "Connects to",
+                    "Object": "Grid",
+                    "Strength": "7",
+                    "Description": "Solar panels can be connected to the grid to supply excess electricity or draw power when needed."
+                }
+            ]
+        }
+    }
+}

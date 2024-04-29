@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Solar radiation": [
+                {
+                    "Relation": "Originates from",
+                    "Object": "Sun",
+                    "Strength": "9",
+                    "Description": "Solar radiation is the energy emitted by the Sun"
+                },
+                {
+                    "Relation": "Interacts with",
+                    "Object": "Atmosphere",
+                    "Strength": "8",
+                    "Description": "Solar radiation interacts with the Earth's atmosphere, causing various atmospheric phenomena"
+                },
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Solar panels",
+                    "Strength": "7",
+                    "Description": "Solar panels convert solar radiation into usable electricity"
+                },
+                {
+                    "Relation": "Drives",
+                    "Object": "Photosynthesis",
+                    "Strength": "6",
+                    "Description": "Solar radiation is the primary source of energy for photosynthesis in plants"
+                }
+            ]
+        }
+    }
+}

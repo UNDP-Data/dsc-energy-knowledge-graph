@@ -5,24 +5,28 @@
         "relations": {
             "Water": [
                 {
-                    "Relation": "Chemical Composition",
-                    "Object": "Hydrogen",
-                    "Description": "Water is composed of two hydrogen atoms."
+                    "Relation": "Provides energy through",
+                    "Object": "Hydroelectric Power",
+                    "Strength": "8",
+                    "Description": "Water is used to generate electricity in hydroelectric power plants."
                 },
                 {
-                    "Relation": "Habitat",
-                    "Object": "Fish",
-                    "Description": "Fish live in water."
+                    "Relation": "Causes",
+                    "Object": "Water Pollution",
+                    "Strength": "9",
+                    "Description": "Water pollution occurs when contaminants are introduced into water bodies, negatively impacting their quality."
                 },
                 {
-                    "Relation": "Transportation",
-                    "Object": "Boat",
-                    "Description": "Boats are used to travel on water."
+                    "Relation": "Requires",
+                    "Object": "Water Conservation",
+                    "Strength": "7",
+                    "Description": "Water conservation aims to reduce water usage and promote responsible water management."
                 },
                 {
-                    "Relation": "Solid State",
-                    "Object": "Ice",
-                    "Description": "Water freezes and becomes ice at low temperatures."
+                    "Relation": "Used in",
+                    "Object": "Desalination",
+                    "Strength": "6",
+                    "Description": "Desalination is the process of removing salt and other impurities from seawater to produce freshwater."
                 }
             ]
         }

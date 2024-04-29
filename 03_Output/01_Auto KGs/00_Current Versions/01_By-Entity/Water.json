@@ -1,0 +1,34 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Water": [
+                {
+                    "Relation": "Provides energy through",
+                    "Object": "Hydroelectric Power",
+                    "Strength": "8",
+                    "Description": "Water is used to generate electricity in hydroelectric power plants."
+                },
+                {
+                    "Relation": "Causes",
+                    "Object": "Water Pollution",
+                    "Strength": "9",
+                    "Description": "Water pollution occurs when contaminants are introduced into water bodies, negatively impacting their quality."
+                },
+                {
+                    "Relation": "Requires",
+                    "Object": "Water Conservation",
+                    "Strength": "7",
+                    "Description": "Water conservation aims to reduce water usage and promote responsible water management."
+                },
+                {
+                    "Relation": "Used in",
+                    "Object": "Desalination",
+                    "Strength": "6",
+                    "Description": "Desalination is the process of removing salt and other impurities from seawater to produce freshwater."
+                }
+            ]
+        }
+    }
+}

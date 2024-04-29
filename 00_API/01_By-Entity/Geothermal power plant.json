@@ -5,34 +5,28 @@
         "relations": {
             "Geothermal power plant": [
                 {
-                    "Relation": "utilizes",
+                    "Relation": "Utilizes",
                     "Object": "Geothermal energy",
-                    "Description": "A geothermal power plant utilizes geothermal energy to generate electricity."
+                    "Strength": "9",
+                    "Description": "Geothermal power plants harness the heat from the Earth's core to generate electricity."
                 },
                 {
-                    "Relation": "uses",
+                    "Relation": "Uses",
                     "Object": "Heat exchanger",
-                    "Description": "A geothermal power plant uses a heat exchanger to transfer heat from the geothermal fluid to the working fluid."
+                    "Strength": "7",
+                    "Description": "Heat exchangers are used in geothermal power plants to transfer heat from the geothermal fluid to the working fluid."
                 },
                 {
-                    "Relation": "extracts",
-                    "Object": "Geothermal reservoir",
-                    "Description": "A geothermal power plant extracts hot water or steam from a geothermal reservoir to generate electricity."
+                    "Relation": "Converts",
+                    "Object": "Steam turbine",
+                    "Strength": "8",
+                    "Description": "Steam turbines are used in geothermal power plants to convert the thermal energy of steam into mechanical energy."
                 },
                 {
-                    "Relation": "utilizes",
-                    "Object": "Geothermal energy",
-                    "Description": "A geothermal power plant utilizes geothermal energy to generate electricity."
-                },
-                {
-                    "Relation": "uses",
-                    "Object": "Heat exchanger",
-                    "Description": "A geothermal power plant uses a heat exchanger to transfer heat from the geothermal fluid to the working fluid."
-                },
-                {
-                    "Relation": "extracts",
-                    "Object": "Geothermal reservoir",
-                    "Description": "A geothermal power plant extracts hot water or steam from a geothermal reservoir to generate electricity."
+                    "Relation": "Cools",
+                    "Object": "Cooling tower",
+                    "Strength": "6",
+                    "Description": "Cooling towers are used in geothermal power plants to cool the working fluid before it is re-injected into the geothermal reservoir."
                 }
             ]
         }
