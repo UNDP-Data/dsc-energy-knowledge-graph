@@ -1,0 +1,46 @@
+{
+    "metadata": {},
+    "knowledge graph": {
+        "entities": [],
+        "relations": {
+            "Biomass energy": [
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable energy",
+                    "Strength": "9",
+                    "Description": "Biomass energy is a renewable energy source that is derived from organic matter."
+                },
+                {
+                    "Relation": "affects",
+                    "Object": "Carbon emissions",
+                    "Strength": "8",
+                    "Description": "Biomass energy can help reduce carbon emissions compared to fossil fuels."
+                },
+                {
+                    "Relation": "is used as",
+                    "Object": "Biofuel",
+                    "Strength": "7",
+                    "Description": "Biomass energy can be converted into biofuels for transportation and heating purposes."
+                },
+                {
+                    "Relation": "is a form of",
+                    "Object": "Renewable energy",
+                    "Strength": "9",
+                    "Description": "Biomass energy is a renewable energy source that is derived from organic matter."
+                },
+                {
+                    "Relation": "affects",
+                    "Object": "Carbon emissions",
+                    "Strength": "8",
+                    "Description": "Biomass energy can help reduce carbon emissions compared to fossil fuels."
+                },
+                {
+                    "Relation": "is used as",
+                    "Object": "Biofuel",
+                    "Strength": "7",
+                    "Description": "Biomass energy can be converted into biofuels for transportation and heating purposes."
+                }
+            ]
+        }
+    }
+}
