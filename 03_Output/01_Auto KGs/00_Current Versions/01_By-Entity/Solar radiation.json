@@ -3,30 +3,30 @@
     "knowledge graph": {
         "entities": [],
         "relations": {
-            "Solar radiation": [
+            "solar radiation": [
                 {
-                    "Relation": "Originates from",
+                    "Relation": "provides",
                     "Object": "Sun",
+                    "Strength": "10",
+                    "Description": "The Sun is the primary source of solar radiation"
+                },
+                {
+                    "Relation": "converts",
+                    "Object": "Solar Panel",
                     "Strength": "9",
-                    "Description": "Solar radiation is the energy emitted by the Sun"
+                    "Description": "Solar panels convert solar radiation into electricity"
                 },
                 {
-                    "Relation": "Interacts with",
-                    "Object": "Atmosphere",
-                    "Strength": "8",
-                    "Description": "Solar radiation interacts with the Earth's atmosphere, causing various atmospheric phenomena"
-                },
-                {
-                    "Relation": "Utilizes",
-                    "Object": "Solar panels",
-                    "Strength": "7",
-                    "Description": "Solar panels convert solar radiation into usable electricity"
-                },
-                {
-                    "Relation": "Drives",
+                    "Relation": "utilizes",
                     "Object": "Photosynthesis",
-                    "Strength": "6",
-                    "Description": "Solar radiation is the primary source of energy for photosynthesis in plants"
+                    "Strength": "8",
+                    "Description": "Photosynthesis in plants uses solar radiation to convert carbon dioxide and water into glucose and oxygen"
+                },
+                {
+                    "Relation": "contributes to",
+                    "Object": "Global Warming",
+                    "Strength": "7",
+                    "Description": "Solar radiation is one of the factors that contribute to the greenhouse effect and global warming"
                 }
             ]
         }

@@ -3,30 +3,78 @@
     "knowledge graph": {
         "entities": [],
         "relations": {
-            "Geothermal power plant": [
+            "Geothermal Power Plant": [
                 {
                     "Relation": "Utilizes",
-                    "Object": "Geothermal energy",
+                    "Object": "Geothermal Energy",
                     "Strength": "9",
-                    "Description": "Geothermal power plants harness the heat from the Earth's core to generate electricity."
+                    "Description": "Geothermal power plants harness the heat energy from the Earth's core, which is known as geothermal energy, to generate electricity."
                 },
                 {
                     "Relation": "Uses",
-                    "Object": "Heat exchanger",
+                    "Object": "Heat Pump",
                     "Strength": "7",
-                    "Description": "Heat exchangers are used in geothermal power plants to transfer heat from the geothermal fluid to the working fluid."
+                    "Description": "Geothermal power plants often use heat pumps to transfer heat from the Earth's core to generate electricity."
                 },
                 {
-                    "Relation": "Converts",
-                    "Object": "Steam turbine",
-                    "Strength": "8",
-                    "Description": "Steam turbines are used in geothermal power plants to convert the thermal energy of steam into mechanical energy."
-                },
-                {
-                    "Relation": "Cools",
-                    "Object": "Cooling tower",
+                    "Relation": "Relies on",
+                    "Object": "Hot Springs",
                     "Strength": "6",
-                    "Description": "Cooling towers are used in geothermal power plants to cool the working fluid before it is re-injected into the geothermal reservoir."
+                    "Description": "Hot springs are natural sources of geothermal energy and are often utilized by geothermal power plants for electricity generation."
+                },
+                {
+                    "Relation": "Located near",
+                    "Object": "Volcano",
+                    "Strength": "8",
+                    "Description": "Geothermal power plants are often situated near volcanoes as they provide a readily available source of geothermal energy."
+                },
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Geothermal Energy",
+                    "Strength": "9",
+                    "Description": "Geothermal power plants harness the heat energy from the Earth's core, which is known as geothermal energy, to generate electricity."
+                },
+                {
+                    "Relation": "Uses",
+                    "Object": "Heat Pump",
+                    "Strength": "7",
+                    "Description": "Geothermal power plants often use heat pumps to transfer heat from the Earth's core to generate electricity."
+                },
+                {
+                    "Relation": "Relies on",
+                    "Object": "Hot Springs",
+                    "Strength": "6",
+                    "Description": "Hot springs are natural sources of geothermal energy and are often utilized by geothermal power plants for electricity generation."
+                },
+                {
+                    "Relation": "Located near",
+                    "Object": "Volcano",
+                    "Strength": "8",
+                    "Description": "Geothermal power plants are often situated near volcanoes as they provide a readily available source of geothermal energy."
+                },
+                {
+                    "Relation": "Utilizes",
+                    "Object": "Geothermal Energy",
+                    "Strength": "9",
+                    "Description": "Geothermal power plants harness the heat energy from the Earth's core, which is known as geothermal energy, to generate electricity."
+                },
+                {
+                    "Relation": "Uses",
+                    "Object": "Heat Pump",
+                    "Strength": "7",
+                    "Description": "Geothermal power plants often use heat pumps to transfer heat from the Earth's core to generate electricity."
+                },
+                {
+                    "Relation": "Relies on",
+                    "Object": "Hot Springs",
+                    "Strength": "6",
+                    "Description": "Hot springs are natural sources of geothermal energy and are often utilized by geothermal power plants for electricity generation."
+                },
+                {
+                    "Relation": "Located near",
+                    "Object": "Volcano",
+                    "Strength": "8",
+                    "Description": "Geothermal power plants are often situated near volcanoes as they provide a readily available source of geothermal energy."
                 }
             ]
         }
