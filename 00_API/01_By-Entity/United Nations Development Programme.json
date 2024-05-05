@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "Entity": "UNDP",
+    "Description": "The United Nations Development Programme is the United Nations' global development network, advocating for change and connecting countries to knowledge, experience and resources to help people build a better life."
+  },
+  "knowledge graph": {
+    "entities": [
+      "Sustainable Development Goals",
+      "Renewable Energy",
+      "Government Partnerships",
+      "International Agencies",
+      "Private Sector"
+    ],
+    "relations": {
+      "UNDP": [
+        {
+          "Relation": "aims to achieve",
+          "Object": "Sustainable Development Goals",
+          "Description": "UNDP aims to achieve the Sustainable Development Goals (SDGs), which include goals for energy, climate, and environmental sustainability."
+        },
+        {
+          "Relation": "supports",
+          "Object": "Renewable Energy",
+          "Description": "UNDP supports the development and implementation of renewable energy projects to promote sustainable energy sources worldwide."
+        },
+        {
+          "Relation": "collaborates with",
+          "Object": "Government Partnerships",
+          "Description": "UNDP collaborates with governments to foster policies that promote sustainable energy and environmental conservation."
+        },
+        {
+          "Relation": "partners with",
+          "Object": "International Agencies",
+          "Description": "UNDP partners with international agencies to enhance global efforts towards sustainable energy and development."
+        },
+        {
+          "Relation": "engages",
+          "Object": "Private Sector",
+          "Description": "UNDP engages the private sector in funding and innovation for sustainable energy projects to leverage private investment in sustainability."
+        }
+      ]
+    }
+  }
+}
