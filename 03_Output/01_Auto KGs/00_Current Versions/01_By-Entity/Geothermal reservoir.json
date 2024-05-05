@@ -3,30 +3,30 @@
     "knowledge graph": {
         "entities": [],
         "relations": {
-            "Geothermal reservoir": [
+            "Geothermal Reservoir": [
                 {
-                    "Relation": "is utilized by",
-                    "Object": "Geothermal power plant",
-                    "Strength": "8",
-                    "Description": "Geothermal power plants extract heat from geothermal reservoirs to generate electricity."
-                },
-                {
-                    "Relation": "is used in",
-                    "Object": "Geothermal heat pump",
-                    "Strength": "7",
-                    "Description": "Geothermal heat pumps utilize the heat from geothermal reservoirs for heating and cooling buildings."
-                },
-                {
-                    "Relation": "is a source of",
-                    "Object": "Geothermal energy",
+                    "Relation": "Supplies",
+                    "Object": "Geothermal Power Plant",
                     "Strength": "9",
-                    "Description": "Geothermal reservoirs are the source of geothermal energy, which is a renewable and sustainable form of energy."
+                    "Description": "Geothermal reservoirs supply the heat necessary for geothermal power plants to generate electricity."
                 },
                 {
-                    "Relation": "is accessed through",
-                    "Object": "Geothermal well",
+                    "Relation": "Utilizes",
+                    "Object": "Heat Pump",
+                    "Strength": "7",
+                    "Description": "Geothermal reservoirs are utilized by heat pumps to provide heating and cooling for buildings."
+                },
+                {
+                    "Relation": "Source",
+                    "Object": "Hot Springs",
                     "Strength": "6",
-                    "Description": "Geothermal wells are drilled to access the hot water or steam in geothermal reservoirs for various applications."
+                    "Description": "Hot springs are formed when geothermal reservoirs of hot water reach the surface."
+                },
+                {
+                    "Relation": "Result of",
+                    "Object": "Volcanic Activity",
+                    "Strength": "8",
+                    "Description": "Geothermal reservoirs are often formed as a result of volcanic activity, where magma heats underground water."
                 }
             ]
         }
