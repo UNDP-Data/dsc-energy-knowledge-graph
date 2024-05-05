@@ -3,30 +3,30 @@
     "knowledge graph": {
         "entities": [],
         "relations": {
-            "Geothermal heat pump": [
+            "Geothermal Heat Pump": [
                 {
                     "Relation": "Utilizes",
-                    "Object": "Geothermal energy",
+                    "Object": "Geothermal Energy",
                     "Strength": "8",
-                    "Description": "Geothermal heat pumps utilize the natural heat from the Earth to provide heating and cooling for buildings."
+                    "Description": "Geothermal heat pumps use the natural heat from the Earth to provide heating and cooling for buildings."
                 },
                 {
-                    "Relation": "Works with",
-                    "Object": "Ground source heat pump",
+                    "Relation": "Variant of",
+                    "Object": "Ground Source Heat Pump",
                     "Strength": "9",
-                    "Description": "A geothermal heat pump is a type of ground source heat pump that uses the Earth's heat as a source for heating and cooling."
-                },
-                {
-                    "Relation": "Incorporates",
-                    "Object": "Heat exchanger",
-                    "Strength": "7",
-                    "Description": "Geothermal heat pumps incorporate a heat exchanger to transfer heat between the refrigerant and the ground or water source."
+                    "Description": "Geothermal heat pumps are a type of ground source heat pump that utilize the constant temperature of the ground to efficiently heat and cool buildings."
                 },
                 {
                     "Relation": "Contributes to",
-                    "Object": "Renewable heating",
-                    "Strength": "10",
-                    "Description": "Geothermal heat pumps are a sustainable and renewable heating solution, reducing reliance on fossil fuels."
+                    "Object": "Renewable Heat",
+                    "Strength": "7",
+                    "Description": "Geothermal heat pumps contribute to the production of renewable heat, reducing the reliance on fossil fuels for heating and cooling."
+                },
+                {
+                    "Relation": "Relies on",
+                    "Object": "Heat Transfer",
+                    "Strength": "6",
+                    "Description": "Geothermal heat pumps rely on the principles of heat transfer to extract and transfer heat between the ground and the building."
                 }
             ]
         }
