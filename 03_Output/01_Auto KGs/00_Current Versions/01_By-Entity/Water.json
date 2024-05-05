@@ -5,28 +5,100 @@
         "relations": {
             "Water": [
                 {
-                    "Relation": "Provides energy through",
+                    "Relation": "Used for",
                     "Object": "Hydroelectric Power",
                     "Strength": "8",
-                    "Description": "Water is used to generate electricity in hydroelectric power plants."
+                    "Description": "Water is used to generate electricity through the process of hydroelectric power."
                 },
                 {
-                    "Relation": "Causes",
+                    "Relation": "Affected by",
                     "Object": "Water Pollution",
                     "Strength": "9",
-                    "Description": "Water pollution occurs when contaminants are introduced into water bodies, negatively impacting their quality."
+                    "Description": "Water quality and availability are negatively impacted by water pollution."
                 },
                 {
-                    "Relation": "Requires",
+                    "Relation": "Promotes",
                     "Object": "Water Conservation",
                     "Strength": "7",
-                    "Description": "Water conservation aims to reduce water usage and promote responsible water management."
+                    "Description": "Water conservation practices help in preserving water resources and maintaining its sustainability."
                 },
                 {
-                    "Relation": "Used in",
-                    "Object": "Desalination",
-                    "Strength": "6",
-                    "Description": "Desalination is the process of removing salt and other impurities from seawater to produce freshwater."
+                    "Relation": "Part of",
+                    "Object": "Water Cycle",
+                    "Strength": "10",
+                    "Description": "Water is an essential component of the water cycle, which is responsible for the continuous circulation of water on Earth."
+                },
+                {
+                    "Relation": "Used for",
+                    "Object": "Hydroelectric Power",
+                    "Strength": "8",
+                    "Description": "Water is used to generate electricity through the process of hydroelectric power."
+                },
+                {
+                    "Relation": "Affected by",
+                    "Object": "Water Pollution",
+                    "Strength": "9",
+                    "Description": "Water quality and availability are negatively impacted by water pollution."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Water Conservation",
+                    "Strength": "7",
+                    "Description": "Water conservation practices help in preserving water resources and maintaining its sustainability."
+                },
+                {
+                    "Relation": "Part of",
+                    "Object": "Water Cycle",
+                    "Strength": "10",
+                    "Description": "Water is an essential component of the water cycle, which is responsible for the continuous circulation of water on Earth."
+                },
+                {
+                    "Relation": "Used for",
+                    "Object": "Hydroelectric Power",
+                    "Strength": "8",
+                    "Description": "Water is used to generate electricity through the process of hydroelectric power."
+                },
+                {
+                    "Relation": "Affected by",
+                    "Object": "Water Pollution",
+                    "Strength": "9",
+                    "Description": "Water quality and availability are negatively impacted by water pollution."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Water Conservation",
+                    "Strength": "7",
+                    "Description": "Water conservation practices help in preserving water resources and maintaining its sustainability."
+                },
+                {
+                    "Relation": "Part of",
+                    "Object": "Water Cycle",
+                    "Strength": "10",
+                    "Description": "Water is an essential component of the water cycle, which is responsible for the continuous circulation of water on Earth."
+                },
+                {
+                    "Relation": "Used for",
+                    "Object": "Hydroelectric Power",
+                    "Strength": "8",
+                    "Description": "Water is used to generate electricity through the process of hydroelectric power."
+                },
+                {
+                    "Relation": "Affected by",
+                    "Object": "Water Pollution",
+                    "Strength": "9",
+                    "Description": "Water quality and availability are negatively impacted by water pollution."
+                },
+                {
+                    "Relation": "Promotes",
+                    "Object": "Water Conservation",
+                    "Strength": "7",
+                    "Description": "Water conservation practices help in preserving water resources and maintaining its sustainability."
+                },
+                {
+                    "Relation": "Part of",
+                    "Object": "Water Cycle",
+                    "Strength": "10",
+                    "Description": "Water is an essential component of the water cycle, which is responsible for the continuous circulation of water on Earth."
                 }
             ]
         }
