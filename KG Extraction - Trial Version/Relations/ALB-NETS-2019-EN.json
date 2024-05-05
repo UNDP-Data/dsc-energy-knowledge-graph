@@ -8,14 +8,14 @@
   },
   {
     "Subject": "AFD",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "GIZ",
     "Description": "AFD partners with GIZ to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
     "Relevance": 7
   },
   {
     "Subject": "AFD",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "PEEB",
     "Description": "AFD partners with PEEB to support countries in their transition towards low-carbon, energy-efficient, and resilient building sectors.",
     "Relevance": 9
@@ -43,14 +43,14 @@
   },
   {
     "Subject": "GIZ",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "AFD",
     "Description": "GIZ partners with AFD to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
     "Relevance": 7
   },
   {
     "Subject": "GIZ",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "PEEB",
     "Description": "GIZ partners with PEEB to implement the French-German initiative for low-carbon and energy-efficient building sectors.",
     "Relevance": 8

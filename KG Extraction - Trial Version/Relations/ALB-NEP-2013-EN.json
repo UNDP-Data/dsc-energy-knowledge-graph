@@ -25,7 +25,7 @@
   },
   {
     "Subject": "Municipality of Tirana",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "National Agency for Natural Resources",
     "Description": "The list of certified SWH systems designers will be accessible on the internet site of the Municipality of Tirana/National Agency for Natural Resources.",
     "Relevance": 8
@@ -46,48 +46,48 @@
   },
   {
     "Subject": "Albania",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "Municipality of Tirana",
     "Description": "Albania partners with the Municipality of Tirana for the implementation of STO."
   },
   {
     "Subject": "World Trade Organization",
-    "Relation": "partners with",
+    "Relation": "partners_with",
     "Object": "Albania",
     "Description": "Albania is a member of the World Trade Organization and can, therefore, access easily the EU market.",
     "Relevance": 8
   },
   {
     "Subject": "Solar Keymark",
-    "Relation": "contributes to",
+    "Relation": "contributes_to",
     "Object": "European Commission",
     "Description": "The Solar Keymark contributes to the European Commission",
     "Relevance": 8
   },
   {
     "Subject": "Solar Keymark",
-    "Relation": "contributes to",
+    "Relation": "contributes_to",
     "Object": "CEN",
     "Description": "The Solar Keymark contributes to CEN",
     "Relevance": 7
   },
   {
     "Subject": "Solar Keymark",
-    "Relation": "contributes to",
+    "Relation": "contributes_to",
     "Object": "ESTIF",
     "Description": "The Solar Keymark contributes to ESTIF",
     "Relevance": 7
   },
   {
     "Subject": "CENLEC",
-    "Relation": "contributes to",
+    "Relation": "contributes_to",
     "Object": "CEN",
     "Description": "CENLEC contributes to CEN",
     "Relevance": 6
   },
   {
     "Subject": "Solar Keymark",
-    "Relation": "contributes to",
+    "Relation": "contributes_to",
     "Object": "European",
     "Description": "The Solar Keymark scheme encourages the further expansion of the European solar thermal market by improving market confidence in solar products.",
     "Relevance": 8
