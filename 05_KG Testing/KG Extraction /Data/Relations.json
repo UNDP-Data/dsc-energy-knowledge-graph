@@ -1,0 +1,926 @@
+[
+  {
+    "Subject": "digital cities",
+    "Relation": "implements",
+    "Object": "Energy Efficiency Policy",
+    "Description": "Digital cities implement energy efficiency policies to promote sustainable energy usage.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "funds",
+    "Object": "Renewable Energy Projects",
+    "Description": "Digital cities provide funding for renewable energy projects to support the transition to sustainable energy sources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "focuses_on",
+    "Object": "Smart Grid Technology",
+    "Description": "Digital cities focus on implementing smart grid technology to optimize energy distribution and consumption.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "in",
+    "Object": "Sustainable Energy Transition Initiative",
+    "Description": "Digital cities participate in the Sustainable Energy Transition Initiative to accelerate the adoption of sustainable energy practices.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "partners_with",
+    "Object": "Clean Energy Companies",
+    "Description": "Digital cities form partnerships with clean energy companies to promote the development and deployment of clean energy solutions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "contributes_to",
+    "Object": "Carbon Emission Reduction",
+    "Description": "Digital cities contribute to carbon emission reduction through the implementation of sustainable energy practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "monitors",
+    "Object": "Energy Consumption",
+    "Description": "Digital cities monitor energy consumption to identify areas for improvement and optimize energy usage.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital cities",
+    "Relation": "targets",
+    "Object": "Renewable Energy Generation",
+    "Description": "Digital cities set targets for increasing renewable energy generation to reduce reliance on fossil fuels.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "addresses",
+    "Object": "Energy Data Management",
+    "Description": "Data ecosystems address the challenges of energy data management to enable better decision-making in the sustainable energy sector.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "employs",
+    "Object": "Data Analysts",
+    "Description": "Data ecosystems employ data analysts to analyze energy data and extract insights for sustainable energy planning.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "collaborates_with",
+    "Object": "Research Institutions",
+    "Description": "Data ecosystems collaborate with research institutions to conduct studies and develop innovative solutions for sustainable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "supports",
+    "Object": "Energy Innovation Startups",
+    "Description": "Data ecosystems support energy innovation startups by providing resources and mentorship to accelerate their growth in the sustainable energy sector.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "administers",
+    "Object": "Energy Data Platform",
+    "Description": "Data ecosystems administer an energy data platform to facilitate data sharing and collaboration among stakeholders in the sustainable energy sector.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "measures",
+    "Object": "Energy Efficiency",
+    "Description": "Data ecosystems measure energy efficiency to track progress and identify opportunities for improvement in the sustainable energy sector.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "aligns_with",
+    "Object": "UN Sustainable Development Goals",
+    "Description": "Data ecosystems align with the UN Sustainable Development Goals to contribute to the achievement of sustainable energy targets.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data ecosystems",
+    "Relation": "an_instance_of",
+    "Object": "Digital Transformation",
+    "Description": "Data ecosystems are an instance of digital transformation in the sustainable energy sector, leveraging data-driven approaches for better outcomes.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "implements",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity implements AI for smart grid optimization to ensure fair and unbiased decision-making in energy management.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "funds",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity funds AI for smart grid optimization to support research and development in optimizing energy grid operations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "focuses_on",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity focuses on AI for smart grid optimization to improve energy efficiency and grid reliability.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "in",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity is involved in AI for smart grid optimization to enhance energy management and grid performance.",
+    "Importance": 2
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "partners_with",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity partners with AI for smart grid optimization to collaborate on innovative solutions for energy grid optimization.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "contributes_to",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity contributes to AI for smart grid optimization by providing data and insights for better energy management.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "monitors",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity monitors the performance of AI for smart grid optimization to ensure its effectiveness in energy grid operations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "targets",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity targets the implementation of AI for smart grid optimization to achieve energy efficiency and sustainability goals.",
+    "Importance": 4
+  },
+  {
+    "Subject": "data equity",
+    "Relation": "addresses",
+    "Object": "AI for smart grid optimization",
+    "Description": "Data equity addresses the challenges and opportunities of AI for smart grid optimization in the context of energy transition.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "implements",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy implements national digital transformation strategies to ensure the effective use of digital technologies and tools.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "funds",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy funds national digital transformation strategies to support the development and implementation of digital literacy programs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "focuses_on",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy focuses on national digital transformation strategies to prioritize the acquisition and improvement of digital skills.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "in",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy is an integral part of national digital transformation strategies to enable individuals and communities to participate in the digital economy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "partners_with",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy partners with national digital transformation strategies to collaborate on initiatives and projects that promote digital literacy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "contributes_to",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy contributes to national digital transformation strategies by empowering individuals with the necessary skills and knowledge to participate in the digital society.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "monitors",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy monitors the progress and impact of national digital transformation strategies to ensure the effectiveness of digital literacy initiatives.",
+    "Importance": 2
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "targets",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy targets national digital transformation strategies to align its efforts with the goals and objectives of the strategies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Relation": "addresses",
+    "Object": "national digital transformation strategies",
+    "Description": "Digital literacy addresses the needs and challenges identified in national digital transformation strategies to provide targeted support and interventions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "implements",
+    "Object": "Energy Efficiency Policy",
+    "Description": "The internet of energy implements the Energy Efficiency Policy to promote energy-saving practices and technologies.",
+    "Importance": 4
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "funds",
+    "Object": "Renewable Energy Projects",
+    "Description": "The internet of energy funds various renewable energy projects to support the transition to clean and sustainable energy sources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "focuses_on",
+    "Object": "Smart Grid Technology",
+    "Description": "The internet of energy focuses on the development and implementation of smart grid technology for efficient energy distribution and management.",
+    "Importance": 4
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "in",
+    "Object": "Energy Access Initiative",
+    "Description": "The internet of energy is involved in the Energy Access Initiative to provide affordable and reliable energy access to underserved communities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "partners_with",
+    "Object": "Clean Energy Companies",
+    "Description": "The internet of energy partners with clean energy companies to foster innovation and collaboration in the sustainable energy sector.",
+    "Importance": 4
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "contributes_to",
+    "Object": "Climate Change Mitigation",
+    "Description": "The internet of energy contributes to climate change mitigation efforts by promoting the adoption of renewable energy sources and energy-efficient practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "monitors",
+    "Object": "Energy Consumption",
+    "Description": "The internet of energy monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
+    "Importance": 3
+  },
+  {
+    "Subject": "internet of energy",
+    "Relation": "targets",
+    "Object": "Energy Poverty",
+    "Description": "The internet of energy targets energy poverty by implementing initiatives to provide affordable and reliable energy access to disadvantaged communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Potential Mapping",
+    "Description": "Geospatial information systems address renewable energy potential mapping to identify suitable locations for renewable energy projects.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "employs",
+    "Object": "Geographic Information System (GIS) Analysts",
+    "Description": "Geospatial information systems employ GIS analysts to analyze and interpret geospatial data for sustainable energy planning and decision-making.",
+    "Importance": 3
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "collaborates_with",
+    "Object": "Energy Grid Operators",
+    "Description": "Geospatial information systems collaborate with energy grid operators to optimize energy distribution and infrastructure planning using spatial data analysis.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "supports",
+    "Object": "Disaster Resilience Planning",
+    "Description": "Geospatial information systems support disaster resilience planning by providing spatial data for assessing vulnerabilities and planning energy infrastructure.",
+    "Importance": 3
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "administers",
+    "Object": "Energy Data Management",
+    "Description": "Geospatial information systems administer energy data management systems to collect, analyze, and visualize energy-related data for informed decision-making.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "measures",
+    "Object": "Carbon Footprint",
+    "Description": "Geospatial information systems measure carbon footprint to assess the environmental impact of energy-related activities and identify areas for improvement.",
+    "Importance": 3
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "aligns_with",
+    "Object": "Sustainable Development Goals",
+    "Description": "Geospatial information systems align with the Sustainable Development Goals to support sustainable energy planning and monitoring for global development.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geospatial information systems",
+    "Relation": "an_instance_of",
+    "Object": "Geographic Information System (GIS) Technology",
+    "Description": "Geospatial information systems are an instance of Geographic Information System (GIS) technology, which enables spatial data analysis and visualization.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "implements",
+    "Object": "Energy Efficiency Policy",
+    "Description": "Energy modeling implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "funds",
+    "Object": "Research and Development",
+    "Description": "Energy modeling funds research and development projects to improve energy efficiency and renewable energy technologies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "focuses_on",
+    "Object": "Building Energy Performance",
+    "Description": "Energy modeling focuses on analyzing and improving building energy performance through simulation and optimization techniques.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "in",
+    "Object": "Sustainable Energy Planning",
+    "Description": "Energy modeling is an integral part of sustainable energy planning to assess the impact of different energy scenarios and inform decision-making.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "partners_with",
+    "Object": "Energy Consultants",
+    "Description": "Energy modeling partners with energy consultants to provide expertise and support in energy efficiency analysis and modeling.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "contributes_to",
+    "Object": "Carbon Footprint Reduction",
+    "Description": "Energy modeling contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy systems.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "monitors",
+    "Object": "Energy Consumption",
+    "Description": "Energy modeling monitors energy consumption patterns and trends to identify areas for improvement and optimize energy use.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "targets",
+    "Object": "Energy Efficiency Goals",
+    "Description": "Energy modeling targets energy efficiency goals by identifying strategies and measures to achieve optimal energy performance.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy modeling",
+    "Relation": "addresses",
+    "Object": "Renewable Energy Integration",
+    "Description": "Energy modeling addresses the challenges and opportunities of renewable energy integration in the energy system through analysis and optimization.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "implements",
+    "Object": "Building Information Modeling",
+    "Description": "Digital twins implements Building Information Modeling to create virtual representations of physical assets for better monitoring and management.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "funds",
+    "Object": "Smart Cities Initiative",
+    "Description": "Digital twins funds the Smart Cities Initiative to support the development of sustainable and efficient urban areas.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "focuses_on",
+    "Object": "Predictive Maintenance",
+    "Description": "Digital twins focuses on predictive maintenance to optimize the performance and lifespan of assets through data-driven insights.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "in",
+    "Object": "Internet of Things",
+    "Description": "Digital twins operates in the context of the Internet of Things, leveraging connected devices and sensors to gather real-time data for analysis.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "partners_with",
+    "Object": "Energy Management Systems",
+    "Description": "Digital twins partners with Energy Management Systems to integrate energy data and optimize energy consumption in buildings and infrastructure.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "contributes_to",
+    "Object": "Energy Efficiency",
+    "Description": "Digital twins contributes to energy efficiency by enabling real-time monitoring and optimization of energy usage in various sectors.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "monitors",
+    "Object": "Renewable Energy Generation",
+    "Description": "Digital twins monitors renewable energy generation to optimize its integration into the grid and ensure efficient utilization.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "targets",
+    "Object": "Infrastructure Management",
+    "Description": "Digital twins targets infrastructure management to enhance asset performance, reduce downtime, and improve maintenance planning.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital twins",
+    "Relation": "addresses",
+    "Object": "Data Security",
+    "Description": "Digital twins addresses data security concerns by implementing robust encryption and access control measures to protect sensitive information.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "employs",
+    "Object": "Mobile Banking",
+    "Description": "Digital inclusive finance employs mobile banking solutions to provide financial services to underserved populations, promoting financial inclusion.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "collaborates_with",
+    "Object": "Microfinance Institutions",
+    "Description": "Digital inclusive finance collaborates with microfinance institutions to extend financial services to marginalized communities and small businesses.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "supports",
+    "Object": "Entrepreneurship",
+    "Description": "Digital inclusive finance supports entrepreneurship by providing access to capital and financial resources for aspiring entrepreneurs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "administers",
+    "Object": "Social Impact Bonds",
+    "Description": "Digital inclusive finance administers social impact bonds to finance social projects and initiatives that address key societal challenges.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "measures",
+    "Object": "Financial Inclusion Index",
+    "Description": "Digital inclusive finance measures the impact of its initiatives on financial inclusion through the Financial Inclusion Index.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "aligns_with",
+    "Object": "Sustainable Development Goals",
+    "Description": "Digital inclusive finance aligns with the Sustainable Development Goals to promote inclusive and sustainable economic growth.",
+    "Importance": 4
+  },
+  {
+    "Subject": "digital inclusive finance",
+    "Relation": "an_instance_of",
+    "Object": "Inclusive Finance",
+    "Description": "Digital inclusive finance is an instance of inclusive finance, which aims to provide financial services to underserved populations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "implements",
+    "Object": "Energy Efficiency Policy",
+    "Description": "undp accelerator labs implements Energy Efficiency Policy to promote energy-saving practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "funds",
+    "Object": "Renewable Energy Projects",
+    "Description": "undp accelerator labs funds Renewable Energy Projects to support the transition to clean energy sources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "focuses_on",
+    "Object": "Sustainable Energy Solutions",
+    "Description": "undp accelerator labs focuses on developing and promoting Sustainable Energy Solutions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "in",
+    "Object": "Energy Access Program",
+    "Description": "undp accelerator labs is involved in the Energy Access Program to provide energy access to underserved communities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "partners_with",
+    "Object": "Private Sector Companies",
+    "Description": "undp accelerator labs partners with Private Sector Companies to leverage their expertise and resources in sustainable energy projects.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "contributes_to",
+    "Object": "Climate Change Mitigation",
+    "Description": "undp accelerator labs contributes to Climate Change Mitigation through its sustainable energy initiatives.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "monitors",
+    "Object": "Energy Consumption",
+    "Description": "undp accelerator labs monitors energy consumption to identify areas for improvement and energy-saving opportunities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "targets",
+    "Object": "Renewable Energy Capacity",
+    "Description": "undp accelerator labs targets the increase of Renewable Energy Capacity through its projects and initiatives.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Relation": "addresses",
+    "Object": "Energy Poverty",
+    "Description": "undp accelerator labs addresses Energy Poverty by implementing sustainable energy solutions in underserved areas.",
+    "Importance": 4
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "employs",
+    "Object": "Renewable Energy Technologies",
+    "Description": "South-South and triangular cooperation employs Renewable Energy Technologies to promote sustainable energy practices.",
+    "Importance": 3
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "collaborates_with",
+    "Object": "International Organizations",
+    "Description": "South-South and triangular cooperation collaborates with International Organizations to foster knowledge exchange and cooperation in sustainable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "supports",
+    "Object": "Capacity Building Programs",
+    "Description": "South-South and triangular cooperation supports Capacity Building Programs to enhance the skills and knowledge in sustainable energy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "administers",
+    "Object": "Climate Finance",
+    "Description": "South-South and triangular cooperation administers Climate Finance to support sustainable energy projects in developing countries.",
+    "Importance": 4
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "measures",
+    "Object": "Energy Efficiency",
+    "Description": "South-South and triangular cooperation measures Energy Efficiency to assess the impact of sustainable energy initiatives.",
+    "Importance": 3
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "aligns_with",
+    "Object": "Sustainable Development Goals",
+    "Description": "South-South and triangular cooperation aligns with the Sustainable Development Goals to promote sustainable energy practices and contribute to global targets.",
+    "Importance": 4
+  },
+  {
+    "Subject": "South-South and triangular cooperation",
+    "Relation": "an_instance_of",
+    "Object": "International Cooperation",
+    "Description": "South-South and triangular cooperation is an instance of International Cooperation in the field of sustainable energy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "implements",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy implements measures to ensure data sovereignty and protect sensitive information from unauthorized access.",
+    "Importance": 4
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "funds",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy allocates funds to support initiatives related to data sovereignty and cybersecurity.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "focuses_on",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy focuses on ensuring data sovereignty by implementing robust security measures and data protection protocols.",
+    "Importance": 4
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "in",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy plays a crucial role in maintaining data sovereignty by establishing guidelines and regulations for data protection.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "partners_with",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy partners with organizations and stakeholders to enhance data sovereignty and collaborate on cybersecurity initiatives.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "contributes_to",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy contributes to the achievement of data sovereignty by implementing measures to protect data from cyber threats and breaches.",
+    "Importance": 4
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "monitors",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy monitors the implementation of data sovereignty measures and assesses the effectiveness of cybersecurity protocols.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "targets",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy sets targets and objectives to improve data sovereignty and enhance cybersecurity capabilities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "cybersecurity policy",
+    "Relation": "addresses",
+    "Object": "data sovereignty",
+    "Description": "The cybersecurity policy addresses the challenges and risks associated with data sovereignty by implementing appropriate security measures.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "implements",
+    "Object": "Building Standards",
+    "Description": "Decentralized energy systems implement building standards that promote the use of energy-saving designs and materials.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "funds",
+    "Object": "Renewable Energy Projects",
+    "Description": "Decentralized energy systems provide funding for renewable energy projects.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "focuses_on",
+    "Object": "Community Energy Solutions",
+    "Description": "Decentralized energy systems focus on community energy solutions to promote local energy production and consumption.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "in",
+    "Object": "Rural Areas",
+    "Description": "Decentralized energy systems are implemented in rural areas to provide access to clean and affordable energy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "partners_with",
+    "Object": "Local Governments",
+    "Description": "Decentralized energy systems partner with local governments to implement sustainable energy solutions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "contributes_to",
+    "Object": "Climate Change Mitigation",
+    "Description": "Decentralized energy systems contribute to climate change mitigation by reducing greenhouse gas emissions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "monitors",
+    "Object": "Energy Consumption",
+    "Description": "Decentralized energy systems monitor energy consumption to optimize energy efficiency and identify areas for improvement.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Relation": "targets",
+    "Object": "Energy Poverty",
+    "Description": "Decentralized energy systems target energy poverty by providing access to reliable and affordable energy services.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "addresses",
+    "Object": "Energy Waste",
+    "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "employs",
+    "Object": "Energy Audits",
+    "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and improve energy performance.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "collaborates_with",
+    "Object": "Industrial Sector",
+    "Description": "Energy efficiency collaborates with the industrial sector to implement energy-saving measures and improve energy efficiency.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "supports",
+    "Object": "Renewable Energy Integration",
+    "Description": "Energy efficiency supports the integration of renewable energy sources to optimize energy use and reduce reliance on fossil fuels.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "administers",
+    "Object": "Energy Efficiency Programs",
+    "Description": "Energy efficiency administers energy efficiency programs to promote energy-saving practices and technologies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "measures",
+    "Object": "Energy Performance",
+    "Description": "Energy efficiency measures energy performance to assess the effectiveness of energy-saving initiatives and identify areas for improvement.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "aligns_with",
+    "Object": "Sustainable Development Goals",
+    "Description": "Energy efficiency aligns with the Sustainable Development Goals by promoting sustainable energy use and reducing environmental impacts.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Relation": "an_instance_of",
+    "Object": "Energy Management",
+    "Description": "Energy efficiency is an instance of energy management that focuses on optimizing energy use and reducing energy waste.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "implements",
+    "Object": "Energy Efficiency Policy",
+    "Description": "Carbon pricing implements energy efficiency policies that incentivize the reduction of greenhouse gas emissions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "funds",
+    "Object": "Renewable Energy Projects",
+    "Description": "Carbon pricing funds renewable energy projects that aim to increase the share of clean energy in the energy mix.",
+    "Importance": 3
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "focuses_on",
+    "Object": "Emission Reduction",
+    "Description": "Carbon pricing focuses on emission reduction strategies to mitigate climate change.",
+    "Importance": 3
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "in",
+    "Object": "Climate Change Mitigation",
+    "Description": "Carbon pricing plays a crucial role in climate change mitigation efforts.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "partners_with",
+    "Object": "Private Sector",
+    "Description": "Carbon pricing partners with the private sector to promote sustainable business practices and investments.",
+    "Importance": 3
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "contributes_to",
+    "Object": "Sustainable Development Goals",
+    "Description": "Carbon pricing contributes to the achievement of sustainable development goals by incentivizing low-carbon solutions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "monitors",
+    "Object": "Carbon Emissions",
+    "Description": "Carbon pricing monitors carbon emissions to ensure compliance with emission reduction targets.",
+    "Importance": 2
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "targets",
+    "Object": "High Carbon Industries",
+    "Description": "Carbon pricing targets high carbon industries to encourage them to transition towards cleaner technologies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "addresses",
+    "Object": "Energy Access",
+    "Description": "The energy value chain addresses energy access challenges by improving the availability and affordability of energy services.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "employs",
+    "Object": "Renewable Energy Technologies",
+    "Description": "The energy value chain employs renewable energy technologies to promote the use of clean and sustainable energy sources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "collaborates_with",
+    "Object": "Government Agencies",
+    "Description": "The energy value chain collaborates with government agencies to develop and implement energy policies and regulations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "supports",
+    "Object": "Energy Efficiency Programs",
+    "Description": "The energy value chain supports energy efficiency programs that aim to reduce energy consumption and promote sustainable practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "administers",
+    "Object": "Energy Market",
+    "Description": "The energy value chain administers the energy market to ensure fair competition and efficient allocation of energy resources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "measures",
+    "Object": "Energy Performance",
+    "Description": "The energy value chain measures energy performance to identify areas for improvement and optimize energy use.",
+    "Importance": 2
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "aligns_with",
+    "Object": "Climate Resilience",
+    "Description": "The energy value chain aligns with climate resilience strategies to ensure the reliability and sustainability of energy systems.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "an_instance_of",
+    "Object": "Sustainable Energy System",
+    "Description": "The energy value chain is an instance of a sustainable energy system that promotes the use of renewable and clean energy sources.",
+    "Importance": 4
+  }
+]
