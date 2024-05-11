@@ -1,0 +1,2586 @@
+[
+  {
+    "Entity": "digital cities",
+    "Description": "A concept that refers to the use of digital technologies and data to improve the efficiency, sustainability, and livability of cities.",
+    "Category": "Technology",
+    "Tags": [
+      "Smart Cities",
+      "Urban Development",
+      "Digital Transformation"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "data ecosystems",
+    "Description": "Refers to the interconnected network of individuals, organizations, and systems that share and utilize data.",
+    "Category": "Technology",
+    "Tags": [
+      "Data Sharing",
+      "Data Collaboration",
+      "Data Governance"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "data equity",
+    "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
+    "Category": "Social",
+    "Tags": [
+      "Data Access",
+      "Data Inclusion",
+      "Data Justice"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "AI for smart grid optimization",
+    "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+    "Category": "Technology",
+    "Tags": [
+      "Artificial Intelligence",
+      "Smart Grids",
+      "Energy Optimization"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "AI-SGO",
+    "Importance": 4
+  },
+  {
+    "Entity": "digital literacy",
+    "Description": "The ability to use digital technologies and tools to access, evaluate, and create information.",
+    "Category": "Skill",
+    "Tags": [
+      "Digital Skills",
+      "Technology Literacy",
+      "Digital Education"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "national digital transformation strategies",
+    "Description": "Strategies developed by governments to guide the digital transformation of their countries.",
+    "Category": "Strategy",
+    "Tags": [
+      "Digital Transformation",
+      "Government Policies",
+      "National Development"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "NDTS",
+    "Importance": 3
+  },
+  {
+    "Entity": "internet of energy",
+    "Description": "A network of interconnected devices and systems that enable the efficient management and distribution of energy.",
+    "Category": "Technology",
+    "Tags": [
+      "IoT",
+      "Energy Management",
+      "Smart Grids"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "IoE",
+    "Importance": 4
+  },
+  {
+    "Entity": "geospatial information systems",
+    "Description": "Systems that capture, store, analyze, and manage spatial and geographic data.",
+    "Category": "Technology",
+    "Tags": [
+      "GIS",
+      "Spatial Data",
+      "Geographic Analysis"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "GIS",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy modeling",
+    "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Simulation",
+      "System Analysis",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "generative AI",
+    "Description": "Artificial intelligence techniques that can generate new content, such as images, music, or text.",
+    "Category": "Technology",
+    "Tags": [
+      "AI",
+      "Machine Learning",
+      "Creative Content"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "digital twins",
+    "Description": "A digital representation of a physical object or system that can be used for various purposes such as monitoring, simulation, and optimization.",
+    "Category": "Technology",
+    "Tags": [
+      "Internet of Things",
+      "Simulation",
+      "Optimization"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "digital inclusive finance",
+    "Description": "Financial services that are accessible and affordable to all individuals and businesses, including those in underserved and marginalized communities.",
+    "Category": "Finance",
+    "Tags": [
+      "Financial Inclusion",
+      "Access",
+      "Affordability"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "undp accelerator labs",
+    "Description": "A network of innovation labs established by the United Nations Development Programme (UNDP) to address complex development challenges through experimentation and collaboration.",
+    "Category": "Organization",
+    "Tags": [
+      "Innovation",
+      "Experimentation",
+      "Collaboration"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": "UNDP AL",
+    "Importance": 4
+  },
+  {
+    "Entity": "South-South and triangular cooperation",
+    "Description": "Collaboration and exchange of resources, knowledge, and expertise among developing countries (South-South cooperation) and between developing countries and other partners (triangular cooperation).",
+    "Category": "Strategy",
+    "Tags": [
+      "Collaboration",
+      "Exchange",
+      "Developing Countries"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": "SSTC",
+    "Importance": 4
+  },
+  {
+    "Entity": "cybersecurity policy",
+    "Description": "A set of rules, guidelines, and measures designed to protect computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction.",
+    "Category": "Policy",
+    "Tags": [
+      "Security",
+      "Data Protection",
+      "Risk Management"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "data sovereignty",
+    "Description": "The concept that data is subject to the laws and governance of the country in which it is collected, stored, and processed.",
+    "Category": "Policy",
+    "Tags": [
+      "Data Governance",
+      "Data Protection",
+      "Data Privacy"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "decentralized energy systems",
+    "Description": "Energy systems that generate and distribute energy at a local level, often using renewable sources and involving local communities in decision-making and ownership.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Renewable Energy",
+      "Local Communities",
+      "Decentralization"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy efficiency",
+    "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Conservation",
+      "Energy Management",
+      "Sustainability"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "carbon pricing",
+    "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Change",
+      "Emissions Reduction",
+      "Market Mechanism"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy value chain",
+    "Description": "The sequence of activities involved in the production, transformation, distribution, and consumption of energy, including extraction, generation, transmission, and end-use.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Energy Production",
+      "Energy Distribution",
+      "Energy Consumption"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "circular economy",
+    "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",
+    "Category": "Policy",
+    "Tags": [
+      "Sustainability",
+      "Resource Management",
+      "Waste Reduction"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy storage",
+    "Description": "The process of capturing and storing energy for later use.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Grid Stability",
+      "Battery Technology"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "time poverty",
+    "Description": "A situation where individuals lack sufficient time to meet their basic needs and participate fully in society.",
+    "Category": "Social",
+    "Tags": [
+      "Work-Life Balance",
+      "Inequality",
+      "Time Management"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "carbon capture and utilization",
+    "Description": "The process of capturing carbon dioxide emissions and converting them into useful products.",
+    "Category": "Technology",
+    "Tags": [
+      "Climate Change Mitigation",
+      "Carbon Sequestration",
+      "Industrial Processes"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "CCU",
+    "Importance": 4
+  },
+  {
+    "Entity": "multi-level governance",
+    "Description": "A system of governance that involves multiple levels of authority, from local to national and international.",
+    "Category": "Policy",
+    "Tags": [
+      "Decentralization",
+      "Collaboration",
+      "Policy Coordination"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "multi-stakeholder partnerships",
+    "Description": "Collaborative initiatives involving multiple stakeholders, such as governments, businesses, and civil society organizations.",
+    "Category": "Strategy",
+    "Tags": [
+      "Collaboration",
+      "Sustainable Development",
+      "Collective Impact"
+    ],
+    "Dimension": "Social",
+    "Acronym": "MSP",
+    "Importance": 3
+  },
+  {
+    "Entity": "smart grid optimization",
+    "Description": "The use of advanced technologies and strategies to optimize the performance and efficiency of electrical grids.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy Integration",
+      "Grid Flexibility",
+      "Demand Response"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "SGO",
+    "Importance": 4
+  },
+  {
+    "Entity": "micro grids",
+    "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Energy Access",
+      "Resilience",
+      "Decentralization"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "social protection",
+    "Description": "Policies and programs designed to support individuals and communities in times of economic and social vulnerability.",
+    "Category": "Policy",
+    "Tags": [
+      "Poverty Alleviation",
+      "Inequality Reduction",
+      "Safety Nets"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "electric mobility",
+    "Description": "The use of electric vehicles and other forms of electric transportation to reduce reliance on fossil fuels.",
+    "Category": "Technology",
+    "Tags": [
+      "Clean Transportation",
+      "Emissions Reduction",
+      "Infrastructure Development"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "human development index",
+    "Description": "A composite statistic of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "HDI",
+    "Importance": 3
+  },
+  {
+    "Entity": "just energy transition",
+    "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Social",
+    "Acronym": "JET",
+    "Importance": 4
+  },
+  {
+    "Entity": "clean cooking",
+    "Description": "The use of clean and efficient cookstoves and fuels to reduce indoor air pollution and improve health, environment, and livelihoods.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Health"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "community-led solutions",
+    "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
+    "Category": "Strategy",
+    "Tags": [
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "integrating traditional knowledge",
+    "Description": "The incorporation of indigenous and traditional knowledge systems into sustainable energy planning and decision-making processes.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Environmental",
+      "Intersectionality"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "technical capacity-building initiatives",
+    "Description": "Programs and activities aimed at enhancing the technical skills and knowledge of individuals and organizations in the field of sustainable energy.",
+    "Category": "Skill",
+    "Tags": [
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "levelized cost of electricity",
+    "Description": "A measure of the average cost of generating electricity from a particular source over its lifetime, taking into account the initial investment, operating costs, and expected output.",
+    "Category": "Economic",
+    "Tags": [
+      "Technology",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "LCOE",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy resilience",
+    "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Environmental",
+      "Crisis"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "offshore renewable energy",
+    "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+    "Category": "Technology",
+    "Tags": [
+      "Environmental"
+    ],
+    "Dimension": "Environmental",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "ocean thermal energy conversion",
+    "Description": "A technology that harnesses the temperature difference between warm surface water and cold deep water to generate electricity.",
+    "Category": "Technology",
+    "Tags": [
+      "Environmental"
+    ],
+    "Dimension": "Environmental",
+    "Acronym": "OTEC",
+    "Importance": 3
+  },
+  {
+    "Entity": "blue economy",
+    "Description": "The sustainable use of ocean resources for economic growth, improved livelihoods, and jobs while preserving the health of the ocean ecosystem.",
+    "Category": "Economic",
+    "Tags": [
+      "Ocean",
+      "Sustainable Development",
+      "Marine Resources"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "decarbonization",
+    "Description": "The process of reducing or eliminating carbon dioxide emissions from various sectors to mitigate climate change.",
+    "Category": "Technology",
+    "Tags": [
+      "Climate Change",
+      "Greenhouse Gas Emissions",
+      "Renewable Energy"
+    ],
+    "Dimension": "Climate Change",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy for smallholder farmers",
+    "Description": "Access to affordable and sustainable energy solutions for smallholder farmers to improve agricultural productivity and livelihoods.",
+    "Category": "Social",
+    "Tags": [
+      "Agriculture",
+      "Rural Development",
+      "Energy Access"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "disaster warning networks",
+    "Description": "Systems and networks that provide early warning and preparedness for natural disasters to minimize their impact on communities.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Disaster Preparedness",
+      "Risk Management",
+      "Community Resilience"
+    ],
+    "Dimension": "Disaster Risk Reduction",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy governance",
+    "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
+    "Category": "Policy",
+    "Tags": [
+      "Energy Policy",
+      "Regulation",
+      "Energy Access"
+    ],
+    "Dimension": "Governance",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "small island developing states",
+    "Description": "Island nations facing unique challenges related to sustainable development, climate change, and vulnerability to natural disasters.",
+    "Category": "Location",
+    "Tags": [
+      "Island Nations",
+      "Climate Change",
+      "Sustainable Development"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "SIDS",
+    "Importance": 4
+  },
+  {
+    "Entity": "water-food-energy nexus",
+    "Description": "The interconnected relationship between water, food, and energy systems, and the need for integrated approaches to ensure sustainability and resilience.",
+    "Category": "Intersectionality",
+    "Tags": [
+      "Water Security",
+      "Food Security",
+      "Energy Security"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "hydrogen for development",
+    "Description": "The use of hydrogen as a clean and sustainable energy source for various sectors to support economic development and decarbonization.",
+    "Category": "Technology",
+    "Tags": [
+      "Hydrogen Energy",
+      "Clean Energy",
+      "Decarbonization"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "waste-to-energy solutions",
+    "Description": "Technologies and processes that convert waste materials into usable energy, reducing waste disposal and contributing to sustainable energy production.",
+    "Category": "Technology",
+    "Tags": [
+      "Waste Management",
+      "Renewable Energy",
+      "Circular Economy"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "nature-based solutions",
+    "Description": "Approaches that use nature and natural processes to address environmental challenges and promote sustainable development.",
+    "Category": "Policy",
+    "Tags": [
+      "Biodiversity",
+      "Climate Change Adaptation",
+      "Ecosystem Services"
+    ],
+    "Dimension": "Sustainable Development",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "climate-smart agriculture",
+    "Description": "Agricultural practices that sustainably increase productivity, resilience, and reduce greenhouse gas emissions.",
+    "Category": "Technology",
+    "Tags": [
+      "Agriculture",
+      "Climate Change",
+      "Sustainability"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy markets",
+    "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+    "Category": "Economic",
+    "Tags": [
+      "Energy",
+      "Markets",
+      "Commodities"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "solar home systems",
+    "Description": "Stand-alone solar power systems that provide electricity for individual households.",
+    "Category": "Technology",
+    "Tags": [
+      "Solar Power",
+      "Home Systems",
+      "Renewable Energy"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "gender mainstreaming",
+    "Description": "The process of assessing the implications for women and men of any planned action, including legislation, policies, or programs.",
+    "Category": "Social",
+    "Tags": [
+      "Gender",
+      "Equality",
+      "Inclusion"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "micro-finance",
+    "Description": "Financial services, such as loans, savings, and insurance, provided to low-income individuals or small businesses.",
+    "Category": "Finance",
+    "Tags": [
+      "Microfinance",
+      "Financial Services",
+      "Poverty Alleviation"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "marginalized communities",
+    "Description": "Groups of people who are socially, economically, or politically disadvantaged and face barriers to accessing resources and opportunities.",
+    "Category": "Social",
+    "Tags": [
+      "Marginalized",
+      "Communities",
+      "Inequality"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "sex-disaggregated data",
+    "Description": "Data that is broken down by sex or gender to better understand and address gender disparities.",
+    "Category": "Social",
+    "Tags": [
+      "Gender",
+      "Data",
+      "Disaggregation"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "medium small micro enterprises",
+    "Description": "Small businesses that have a limited number of employees and operate at a local or regional level.",
+    "Category": "Economic",
+    "Tags": [
+      "MSMEs",
+      "Small Businesses",
+      "Entrepreneurship"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "MSMEs",
+    "Importance": 3
+  },
+  {
+    "Entity": "electrification planning",
+    "Description": "The process of developing strategies and plans to increase access to electricity in a specific area or region.",
+    "Category": "Strategy",
+    "Tags": [
+      "Electrification",
+      "Planning",
+      "Energy Access"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "gender disparities in energy",
+    "Description": "Inequalities in access to and control over energy resources and services based on gender.",
+    "Category": "Social",
+    "Tags": [
+      "Gender",
+      "Disparities",
+      "Energy Access"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "energy and health",
+    "Description": "Summary of energy and health",
+    "Category": "Crisis",
+    "Tags": [
+      "Health",
+      "Energy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy safety nets",
+    "Description": "Summary of energy safety nets",
+    "Category": "Policy",
+    "Tags": [
+      "Energy",
+      "Safety",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy tax incentives",
+    "Description": "Summary of energy tax incentives",
+    "Category": "Policy",
+    "Tags": [
+      "Energy",
+      "Tax",
+      "Incentives"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy poverty indices",
+    "Description": "Summary of energy poverty indices",
+    "Category": "Policy",
+    "Tags": [
+      "Energy",
+      "Poverty",
+      "Indices"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "Solar For Health",
+    "Description": "Summary of Solar For Health",
+    "Category": "Technology",
+    "Tags": [
+      "Solar",
+      "Health"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "Africa Minigrids Project",
+    "Description": "Summary of Africa Minigrids Project",
+    "Category": "Project",
+    "Tags": [
+      "Africa",
+      "Minigrids",
+      "Energy"
+    ],
+    "Dimension": "Infrastructure",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "Action Opportunities",
+    "Description": "Summary of Action Opportunities",
+    "Category": "Strategy",
+    "Tags": [
+      "Action",
+      "Opportunities"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "COP28 Targets",
+    "Description": "Summary of COP28 Targets",
+    "Category": "Policy",
+    "Tags": [
+      "COP28",
+      "Targets"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "public-private partnerships",
+    "Description": "Summary of public-private partnerships",
+    "Category": "Organization",
+    "Tags": [
+      "Public-Private",
+      "Partnerships"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "SDG7 targets",
+    "Description": "Summary of SDG7 targets",
+    "Category": "Policy",
+    "Tags": [
+      "SDG7",
+      "Targets"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "climate finance mechanisms",
+    "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
+    "Category": "Finance",
+    "Tags": [
+      "Climate Change",
+      "Funding",
+      "Investment"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy democracy",
+    "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+    "Category": "Social",
+    "Tags": [
+      "Community",
+      "Participation",
+      "Decentralization"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "green bonds",
+    "Description": "Green bonds are fixed-income financial instruments that are used to raise capital for projects that have positive environmental or climate benefits.",
+    "Category": "Finance",
+    "Tags": [
+      "Sustainable Finance",
+      "Investment",
+      "Environmental Projects"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy justice",
+    "Description": "Energy justice is a concept that focuses on ensuring fair and equitable access to affordable, reliable, and clean energy for all, particularly marginalized and vulnerable communities.",
+    "Category": "Social",
+    "Tags": [
+      "Equity",
+      "Access",
+      "Inclusion"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "renewable energy certificates",
+    "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Certification",
+      "Market"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "green job creation",
+    "Description": "Green job creation refers to the process of generating employment opportunities in sectors that contribute to environmental sustainability, such as renewable energy, energy efficiency, and waste management.",
+    "Category": "Economic",
+    "Tags": [
+      "Employment",
+      "Sustainability",
+      "Green Economy"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "resilient infrastructure",
+    "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Resilience",
+      "Adaptation",
+      "Disaster Risk Reduction"
+    ],
+    "Dimension": "Infrastructure",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "participatory governance",
+    "Description": "Participatory governance is an approach to decision-making and policy development that involves the active participation of citizens and stakeholders in the processes of governance.",
+    "Category": "Policy",
+    "Tags": [
+      "Citizen Engagement",
+      "Collaboration",
+      "Transparency"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "energy diplomacy",
+    "Description": "Energy diplomacy refers to the diplomatic efforts and negotiations related to energy resources, energy security, and energy cooperation between countries and international organizations.",
+    "Category": "Policy",
+    "Tags": [
+      "International Relations",
+      "Energy Security",
+      "Cooperation"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "climate resilience funds",
+    "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
+    "Category": "Finance",
+    "Tags": [
+      "Resilience",
+      "Adaptation",
+      "Climate Change"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "green buildings",
+    "Description": "Buildings that are designed and constructed to have a minimal impact on the environment.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Sustainable Buildings",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "climate adaptation strategies",
+    "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Resilience",
+      "Adaptation Measures"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy entrepreneurship",
+    "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+    "Category": "Economic",
+    "Tags": [
+      "Clean Energy Startups",
+      "Renewable Energy Business"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy poverty alleviation",
+    "Description": "Efforts to address and alleviate energy poverty in underserved communities.",
+    "Category": "Social",
+    "Tags": [
+      "Energy Access",
+      "Energy Equity"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "The UNDP SIDS Offer",
+    "Description": "The United Nations Development Programme's offer to support Small Island Developing States (SIDS) in achieving sustainable energy goals.",
+    "Category": "Organization",
+    "Tags": [
+      "Sustainable Development",
+      "Island Nations"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "UNDP SIDS",
+    "Importance": 4
+  },
+  {
+    "Entity": "Energy For Development",
+    "Description": "Initiative focused on using energy access as a catalyst for development in underserved communities.",
+    "Category": "Project",
+    "Tags": [
+      "Rural Electrification",
+      "Community Development"
+    ],
+    "Dimension": "Social",
+    "Acronym": "EFD",
+    "Importance": 3
+  },
+  {
+    "Entity": "The UNDP Sustainable Energy Hub",
+    "Description": "The United Nations Development Programme's hub for sustainable energy knowledge and solutions.",
+    "Category": "Organization",
+    "Tags": [
+      "Energy Solutions",
+      "Knowledge Sharing"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "SEH",
+    "Importance": 4
+  },
+  {
+    "Entity": "carbon offset programs",
+    "Description": "Programs that allow individuals or organizations to compensate for their carbon emissions by investing in projects that reduce or remove greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Change Mitigation",
+      "Carbon Offsetting"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy data analytics",
+    "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+    "Category": "Technology",
+    "Tags": [
+      "Data-driven Insights",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy cooperatives",
+    "Description": "Cooperatives that enable individuals or communities to collectively own and manage energy resources.",
+    "Category": "Organization",
+    "Tags": [
+      "Community Ownership",
+      "Renewable Energy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy access for informal settlements",
+    "Description": "Summary of energy access for informal settlements.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "community-based energy resilience programs",
+    "Description": "Summary of community-based energy resilience programs.",
+    "Category": "Project",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "gender-sensitive electrification planning",
+    "Description": "Summary of gender-sensitive electrification planning.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy in crisis settings",
+    "Description": "Summary of energy in crisis settings.",
+    "Category": "Crisis",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "smart energy contracts",
+    "Description": "Summary of smart energy contracts.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "remote sensing",
+    "Description": "Summary of remote sensing.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "smart metering technologies",
+    "Description": "Summary of smart metering technologies.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "blockchain for energy trading",
+    "Description": "Summary of blockchain for energy trading.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "mobile payment systems",
+    "Description": "Summary of mobile payment systems.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "blended finance mechanisms",
+    "Description": "Summary of blended finance mechanisms.",
+    "Category": "Finance",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "sovereign wealth funds",
+    "Description": "Funds owned by a state and invested in various financial assets.",
+    "Category": "Finance",
+    "Tags": [
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "innovative financing",
+    "Description": "New and creative ways of raising funds for projects or initiatives.",
+    "Category": "Finance",
+    "Tags": [
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "debt-for-nature swaps",
+    "Description": "Agreements where a portion of a developing country's debt is forgiven in exchange for nature conservation efforts.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "risk insurance products",
+    "Description": "Insurance products designed to protect against various risks in the energy sector.",
+    "Category": "Finance",
+    "Tags": [
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "peer-to-peer lending platforms",
+    "Description": "Online platforms that connect borrowers and lenders directly.",
+    "Category": "Finance",
+    "Tags": [
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy market liberalization policies",
+    "Description": "Policies aimed at opening up energy markets to competition and reducing government control.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Economic"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "transparency and accountability mechanisms",
+    "Description": "Mechanisms and practices that promote transparency and accountability in the energy sector.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "nationally determined contributions",
+    "Description": "Commitments made by countries under the Paris Agreement to reduce greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": "NDCs",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy transition roadmaps and plans",
+    "Description": "Strategic plans and roadmaps for transitioning to a sustainable energy system.",
+    "Category": "Strategy",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "energy regulatory frameworks",
+    "Description": "Legal and institutional frameworks that govern the energy sector.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "national digital strategy",
+    "Description": "A strategy developed by a country to guide its digital transformation and promote the use of digital technologies.",
+    "Category": "Strategy",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "data governance frameworks",
+    "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "stakeholder engagement mechanisms",
+    "Description": "Mechanisms and processes used to involve and collaborate with stakeholders in decision-making and implementation of projects or policies.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "energy services in displacement settings",
+    "Description": "Energy services provided in settings where people have been displaced due to conflicts, disasters, or other reasons.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Policy",
+      "Social",
+      "Economic",
+      "Crisis"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy infrastructure services",
+    "Description": "Services related to the development, maintenance, and operation of energy infrastructure such as power plants, transmission lines, and distribution networks.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Policy",
+      "Social",
+      "Economic",
+      "Crisis"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "renewable energy in water services",
+    "Description": "The use of renewable energy sources such as solar, wind, or hydroelectric power in water-related services such as water treatment, desalination, or irrigation.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "solar energy",
+    "Description": "Energy derived from the sun's radiation and converted into usable forms such as electricity or heat.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "wind energy",
+    "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "bioenergy",
+    "Description": "Energy derived from biomass, such as organic materials or agricultural residues, through processes like combustion or fermentation.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "hydroelectricity",
+    "Description": "Electricity generated by the force of falling or flowing water, typically from a dam or a river.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "geothermal energy",
+    "Description": "Geothermal energy is heat derived within the sub-surface of the earth. It is a renewable source of energy that can be used for heating, cooling, and electricity generation.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Geothermal Power",
+      "Sustainable Energy"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "energy end-use sectors",
+    "Description": "Energy end-use sectors refer to the different sectors or industries that consume energy for their operations, such as residential, commercial, industrial, and transportation sectors.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Energy Consumption",
+      "Energy Demand",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Infrastructure",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "project gender markers",
+    "Description": "Project gender markers are indicators or criteria used to assess the gender responsiveness or impact of a project. They help ensure that projects consider and address gender inequalities and promote gender equality.",
+    "Category": "Policy",
+    "Tags": [
+      "Gender Equality",
+      "Gender Mainstreaming",
+      "Project Assessment"
+    ],
+    "Dimension": "Policy",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "women's economic empowerment",
+    "Description": "Women's economic empowerment refers to the ability of women to participate and have control over economic activities, resources, and decision-making processes. It aims to promote gender equality and women's rights in the economic sphere.",
+    "Category": "Social",
+    "Tags": [
+      "Gender Equality",
+      "Women's Rights",
+      "Economic Empowerment"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "appropriate and independent oversight",
+    "Description": "Appropriate and independent oversight refers to the establishment of mechanisms or institutions that ensure accountability, transparency, and effective governance in various sectors, including the energy sector.",
+    "Category": "Policy",
+    "Tags": [
+      "Accountability",
+      "Transparency",
+      "Good Governance"
+    ],
+    "Dimension": "Policy",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy forecasting",
+    "Description": "Energy forecasting is the process of estimating future energy demand, supply, and prices based on various factors such as population growth, economic development, technological advancements, and policy changes.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Demand",
+      "Energy Supply",
+      "Energy Prices"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "whole-of-society approach",
+    "Description": "A whole-of-society approach refers to a collaborative and inclusive approach that involves all sectors of society, including government, civil society, private sector, and individuals, in addressing complex challenges and achieving sustainable development goals.",
+    "Category": "Strategy",
+    "Tags": [
+      "Collaboration",
+      "Inclusivity",
+      "Sustainable Development"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "theory of change",
+    "Description": "A theory of change is a comprehensive and systematic explanation of how and why a desired change is expected to happen. It outlines the causal pathways and assumptions underlying a project or intervention.",
+    "Category": "Strategy",
+    "Tags": [
+      "Change Management",
+      "Impact Assessment",
+      "Program Evaluation"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "least cost power development plan",
+    "Description": "A least cost power development plan is a strategic plan that aims to identify the most cost-effective and efficient mix of power generation technologies and resources to meet the energy demand of a country or region.",
+    "Category": "Policy",
+    "Tags": [
+      "Power Generation",
+      "Energy Planning",
+      "Cost Optimization"
+    ],
+    "Dimension": "Policy",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "open source energy modeling tools",
+    "Description": "Open source energy modeling tools are software tools that allow users to simulate and analyze energy systems, including energy generation, consumption, and distribution, using open source code and data.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Modeling",
+      "Simulation",
+      "Data Analysis"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy scenario analysis",
+    "Description": "Analysis of different scenarios related to energy",
+    "Category": "Policy",
+    "Tags": [
+      "Energy",
+      "Scenario",
+      "Analysis"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "climate change scenario analysis",
+    "Description": "Analysis of different scenarios related to climate change",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Change",
+      "Scenario",
+      "Analysis"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "concentrated solar power",
+    "Description": "Solar power generation using concentrated sunlight",
+    "Category": "Technology",
+    "Tags": [
+      "Solar Power",
+      "Concentrated",
+      "Sunlight"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "CSP",
+    "Importance": 4
+  },
+  {
+    "Entity": "fossil fuel phase-out",
+    "Description": "Gradual elimination of fossil fuel usage",
+    "Category": "Policy",
+    "Tags": [
+      "Fossil Fuel",
+      "Phase-out"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "disparities in renewables investment",
+    "Description": "Inequalities in investment in renewable energy",
+    "Category": "Economic",
+    "Tags": [
+      "Renewable Energy",
+      "Investment",
+      "Disparities"
+    ],
+    "Dimension": "Finance",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "environmental impact assessments",
+    "Description": "Assessments of the environmental impact of projects",
+    "Category": "Policy",
+    "Tags": [
+      "Environmental Impact",
+      "Assessments"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "monitoring and evaluation frameworks",
+    "Description": "Frameworks for monitoring and evaluating projects",
+    "Category": "Policy",
+    "Tags": [
+      "Monitoring",
+      "Evaluation",
+      "Frameworks"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "land use planning",
+    "Description": "Planning and management of land use",
+    "Category": "Policy",
+    "Tags": [
+      "Land Use",
+      "Planning"
+    ],
+    "Dimension": "Infrastructure",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "benefit-sharing agreements",
+    "Description": "Agreements for sharing benefits from projects",
+    "Category": "Policy",
+    "Tags": [
+      "Benefit-sharing",
+      "Agreements"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "data sharing agreements",
+    "Description": "Agreements for sharing data",
+    "Category": "Policy",
+    "Tags": [
+      "Data Sharing",
+      "Agreements"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy data repositories",
+    "Description": "Repositories that store and manage energy-related data.",
+    "Category": "Technology",
+    "Tags": [
+      "Data",
+      "Energy",
+      "Repositories"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "data privacy and security",
+    "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
+    "Category": "Technology",
+    "Tags": [
+      "Data",
+      "Privacy",
+      "Security"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "Renewable energy for sustainable tourism",
+    "Description": "The use of renewable energy sources to power sustainable tourism activities.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Sustainable Tourism"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "technology transfer",
+    "Description": "The process of transferring knowledge, skills, and technology from one entity to another.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Transfer"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "intergenerational equity",
+    "Description": "The principle of fairness and justice between generations, ensuring that the needs of future generations are considered.",
+    "Category": "Social",
+    "Tags": [
+      "Intergenerational Equity",
+      "Fairness",
+      "Justice"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "indigenous land rights",
+    "Description": "The rights of indigenous communities to own, use, and manage their traditional lands.",
+    "Category": "Social",
+    "Tags": [
+      "Indigenous",
+      "Land Rights"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "free prior and informed consent",
+    "Description": "The principle that requires the consent of indigenous communities before any decision or action is taken that may affect their rights or lands.",
+    "Category": "Social",
+    "Tags": [
+      "Free Prior and Informed Consent",
+      "Indigenous",
+      "Consent"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "traditional ecological knowledge",
+    "Description": "The knowledge, practices, and beliefs of indigenous communities regarding the environment and natural resources.",
+    "Category": "Social",
+    "Tags": [
+      "Traditional Ecological Knowledge",
+      "Indigenous",
+      "Environment"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "critical minerals",
+    "Description": "Minerals that are essential for various industries and have a high economic and strategic value.",
+    "Category": "Economic",
+    "Tags": [
+      "Critical Minerals",
+      "Minerals",
+      "Economic"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "indigenous energy sovereignty",
+    "Description": "The right of indigenous communities to have control over their energy resources and systems.",
+    "Category": "Social",
+    "Tags": [
+      "Indigenous",
+      "Energy Sovereignty"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "cultural impact assessments",
+    "Description": "Assessments that evaluate the cultural impact of a project or development on a community or society.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Intersectionality"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "land stewardship agreements",
+    "Description": "Agreements that define the responsible and sustainable management of land and natural resources.",
+    "Category": "Policy",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "traditional energy technologies",
+    "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "indigenous energy mapping",
+    "Description": "Mapping and analysis of energy resources and infrastructure in indigenous communities.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "power-to-gas systems",
+    "Description": "Systems that convert electrical power into a gas fuel, such as hydrogen or methane.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy transport systems",
+    "Description": "Systems and infrastructure for transporting energy from generation sources to end users.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "battery storage",
+    "Description": "Storage systems that store electrical energy in batteries for later use.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "carbon-neutral fuel",
+    "Description": "Fuels that have no net greenhouse gas emissions during their combustion.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "pumped hydro storage",
+    "Description": "A type of energy storage that uses the gravitational potential energy of water to store and release energy.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "hybrid energy storage systems",
+    "Description": "Systems that combine multiple energy storage technologies to optimize energy storage and release.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "resilient energy storage systems",
+    "Description": "Resilient energy storage systems are systems that can store energy and withstand disruptions or failures.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Storage",
+      "Resilience"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "biochar",
+    "Description": "Biochar is a type of charcoal produced from biomass that is used as a soil amendment.",
+    "Category": "Product",
+    "Tags": [
+      "Biomass",
+      "Soil Amendment"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "biomass",
+    "Description": "Biomass refers to organic matter, such as plants or plant-based materials, that can be used as a renewable energy source.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Organic Matter"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "biodigestion",
+    "Description": "Biodigestion is the process of breaking down organic materials, such as food waste or agricultural residues, to produce biogas.",
+    "Category": "Technology",
+    "Tags": [
+      "Organic Waste",
+      "Biogas"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "biofuels",
+    "Description": "Biofuels are fuels produced from biomass, such as ethanol or biodiesel, that can be used as alternatives to fossil fuels.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Transportation"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "energy demand from urbanization",
+    "Description": "Energy demand from urbanization refers to the increasing energy needs of urban areas due to population growth and urban development.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Urbanization",
+      "Energy Demand"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "cogeneration",
+    "Description": "Cogeneration, also known as combined heat and power (CHP), is the simultaneous production of electricity and useful heat from the same energy source.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Efficiency",
+      "Heat and Power"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "electrolysis",
+    "Description": "Electrolysis is a chemical process that uses an electric current to drive a non-spontaneous chemical reaction, such as the splitting of water into hydrogen and oxygen.",
+    "Category": "Technology",
+    "Tags": [
+      "Chemical Process",
+      "Hydrogen Production"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "foundational energy infrastructure",
+    "Description": "Foundational energy infrastructure refers to the essential physical structures and systems that support the production, distribution, and consumption of energy.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Energy Systems",
+      "Infrastructure"
+    ],
+    "Dimension": "Infrastructure",
+    "Acronym": null,
+    "Importance": 4
+  },
+  {
+    "Entity": "enhanced energy recovery",
+    "Description": "Enhanced energy recovery refers to technologies or processes that increase the efficiency of energy recovery from waste or other sources.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Efficiency",
+      "Waste Management"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "carbon capture and storage",
+    "Description": "Carbon capture and storage (CCS) is a technology that captures carbon dioxide (CO2) emissions from sources such as power plants and stores it underground to prevent it from entering the atmosphere.",
+    "Category": "Technology",
+    "Tags": [
+      "Climate Change",
+      "Emissions Reduction",
+      "Carbon Sequestration"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "CCS",
+    "Importance": 4
+  },
+  {
+    "Entity": "gas hydrates",
+    "Description": "Gas hydrates are ice-like crystalline structures that form when natural gas combines with water under specific temperature and pressure conditions.",
+    "Category": "Technology",
+    "Tags": [
+      "Natural Gas",
+      "Methane",
+      "Energy Resource"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "gasification",
+    "Description": "Gasification is a process that converts carbon-based materials, such as coal or biomass, into synthesis gas (syngas) which can be used for power generation or as a chemical feedstock.",
+    "Category": "Technology",
+    "Tags": [
+      "Syngas",
+      "Biomass",
+      "Coal"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "gas turbine",
+    "Description": "A gas turbine is a type of internal combustion engine that converts the energy from the combustion of a fuel, such as natural gas or liquid fuels, into mechanical energy.",
+    "Category": "Technology",
+    "Tags": [
+      "Power Generation",
+      "Energy Efficiency",
+      "Combustion"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "heating and cooling",
+    "Description": "Heating and cooling systems are technologies used to control the temperature and humidity of indoor spaces for comfort and energy efficiency.",
+    "Category": "Technology",
+    "Tags": [
+      "HVAC",
+      "Energy Efficiency",
+      "Thermal Comfort"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "liquefied natural gas",
+    "Description": "Liquefied natural gas (LNG) is natural gas that has been cooled to a liquid state for easier storage and transportation.",
+    "Category": "Technology",
+    "Tags": [
+      "Natural Gas",
+      "Energy Storage",
+      "Transportation"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "LNG",
+    "Importance": 3
+  },
+  {
+    "Entity": "tidal power",
+    "Description": "Tidal power is a form of hydropower that converts the energy from the tides into electricity.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Tidal Energy",
+      "Ocean Power"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "battery recycling",
+    "Description": "Battery recycling is the process of reusing or extracting valuable materials from used batteries to reduce waste and environmental impact.",
+    "Category": "Technology",
+    "Tags": [
+      "Waste Management",
+      "Circular Economy",
+      "Resource Recovery"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "Load forecasting and demand-side management",
+    "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
+    "Category": "Strategy",
+    "Tags": [
+      "Energy Management",
+      "Demand Response",
+      "Smart Grid"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "integrated resource planning",
+    "Description": "Integrated resource planning is a process that helps utilities and energy providers make informed decisions about the mix of energy resources and technologies to meet future energy demand.",
+    "Category": "Strategy",
+    "Tags": [
+      "Energy Planning",
+      "Resource Optimization",
+      "Energy Transition"
+    ],
+    "Dimension": "Strategy",
+    "Acronym": "IRP",
+    "Importance": 4
+  },
+  {
+    "Entity": "multilateral development banks",
+    "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
+    "Category": "Organization",
+    "Tags": [
+      "Finance",
+      "Economic",
+      "Infrastructure"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "un agencies",
+    "Description": "Organizations that are part of the United Nations system and work on various global issues.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "regional energy organizations",
+    "Description": "Organizations that focus on energy issues within a specific region.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Infrastructure"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "renewable energy agencies",
+    "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "energy market and trade organizations",
+    "Description": "Organizations that facilitate and regulate energy market and trade activities.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Economic",
+      "Infrastructure"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy ministries",
+    "Description": "Government ministries responsible for energy-related policies and regulations.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Economic",
+      "Infrastructure"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "undp country offices",
+    "Description": "United Nations Development Programme (UNDP) offices at the country level.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "UNDP",
+    "Importance": 2
+  },
+  {
+    "Entity": "national statistical offices",
+    "Description": "Government agencies responsible for collecting and analyzing statistical data.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Economic",
+      "Infrastructure"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy development practitioners",
+    "Description": "Professionals and organizations involved in the development of energy projects and initiatives.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Policy",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy and development economics",
+    "Description": "The study of the economic aspects of energy production, consumption, and development.",
+    "Category": "Organization",
+    "Tags": [
+      "Policy",
+      "Economic",
+      "Technology"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "energy and modernization",
+    "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Energy",
+      "Modernization",
+      "Infrastructure"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "sustainable energy and dependency theory",
+    "Description": "Sustainable energy and dependency theory explores the relationship between sustainable energy practices and the theory of dependency.",
+    "Category": "Policy",
+    "Tags": [
+      "Sustainable Energy",
+      "Dependency Theory",
+      "Policy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "ecological modernization",
+    "Description": "Ecological modernization refers to the process of integrating ecological principles and practices into modernization efforts.",
+    "Category": "Strategy",
+    "Tags": [
+      "Ecological Modernization",
+      "Strategy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "foundational data infrastructure",
+    "Description": "Foundational data infrastructure refers to the basic infrastructure required for collecting, storing, and managing data.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Data Infrastructure",
+      "Infrastructure"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 2
+  },
+  {
+    "Entity": "digital ecosystems",
+    "Description": "Digital ecosystems refer to interconnected digital platforms, services, and applications that create a holistic digital environment.",
+    "Category": "Technology",
+    "Tags": [
+      "Digital Ecosystems",
+      "Technology"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "reliance of fuel imports",
+    "Description": "Reliance on fuel imports refers to the dependence of a country or region on imported fuels for meeting its energy needs.",
+    "Category": "Economic",
+    "Tags": [
+      "Fuel Imports",
+      "Economic"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "Paris Agreement Goals",
+    "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Paris Agreement",
+      "Climate Change",
+      "Policy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "energy subsidies reform",
+    "Description": "Energy subsidies reform refers to the process of restructuring and phasing out subsidies for energy production and consumption.",
+    "Category": "Policy",
+    "Tags": [
+      "Energy Subsidies",
+      "Reform",
+      "Policy"
+    ],
+    "Dimension": "Economic",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "carbon neutrality",
+    "Description": "Carbon neutrality refers to achieving a balance between carbon emissions and carbon removal, resulting in no net increase in atmospheric carbon dioxide levels.",
+    "Category": "Policy",
+    "Tags": [
+      "Carbon Neutrality",
+      "Climate Change",
+      "Policy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 4
+  },
+  {
+    "Entity": "blue carbon",
+    "Description": "Blue carbon refers to the carbon stored in coastal and marine ecosystems, such as mangroves, seagrasses, and salt marshes.",
+    "Category": "Policy",
+    "Tags": [
+      "Blue Carbon",
+      "Coastal Ecosystems",
+      "Policy"
+    ],
+    "Dimension": "Social",
+    "Acronym": "",
+    "Importance": 3
+  },
+  {
+    "Entity": "passive solar design",
+    "Description": "A design approach that utilizes the sun's energy to provide heating, cooling, and lighting for buildings.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Building Design",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Energy",
+    "Acronym": null,
+    "Importance": 3
+  },
+  {
+    "Entity": "vertical funding",
+    "Description": "A funding mechanism that focuses on specific sectors or industries.",
+    "Category": "Finance",
+    "Tags": [
+      "Investment",
+      "Funding",
+      "Sector-specific"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 2
+  },
+  {
+    "Entity": "energy project cycle",
+    "Description": "The stages involved in the development and implementation of an energy project.",
+    "Category": "Technology",
+    "Tags": [
+      "Project Management",
+      "Energy Planning",
+      "Implementation"
+    ],
+    "Dimension": "Energy",
+    "Acronym": null,
+    "Importance": 2
+  }
+]
