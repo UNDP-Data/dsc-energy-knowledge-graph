@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "Entity": "liquefied natural gas",
+    "Description": "Liquefied natural gas (LNG) is natural gas that has been cooled to a liquid state for easier storage and transportation.",
+    "Category": "Technology",
+    "Tags": [
+      "Natural Gas",
+      "Energy Storage",
+      "Transportation"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "LNG",
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "Shipping Companies",
+      "LNG Import Terminals",
+      "Energy Access",
+      "Natural Gas",
+      "Greenhouse Gas Emissions",
+      "Clean Energy Transition",
+      "Energy Security",
+      "Cryogenic Technology"
+    ],
+    "relations": {
+      "liquefied natural gas": [
+        {
+          "Relation": "addresses",
+          "Object": "Energy Access",
+          "Description": "Liquefied natural gas addresses energy access challenges by providing a reliable and cleaner energy source.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "Cryogenic Technology",
+          "Description": "Liquefied natural gas employs cryogenic technology for the storage and transportation of natural gas.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "Shipping Companies",
+          "Description": "Liquefied natural gas collaborates with shipping companies for the transportation of LNG.",
+          "Importance": 3
+        },
+        {
+          "Relation": "supports",
+          "Object": "Clean Energy Transition",
+          "Description": "Liquefied natural gas supports the clean energy transition by providing a lower-carbon alternative to other fossil fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "LNG Import Terminals",
+          "Description": "Liquefied natural gas administers LNG import terminals for the storage and regasification of LNG.",
+          "Importance": 3
+        },
+        {
+          "Relation": "measures",
+          "Object": "Greenhouse Gas Emissions",
+          "Description": "Liquefied natural gas measures greenhouse gas emissions to ensure compliance with environmental regulations.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "Energy Security",
+          "Description": "Liquefied natural gas aligns with energy security objectives by diversifying energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "Natural Gas",
+          "Description": "Liquefied natural gas is an instance of natural gas in its liquid form.",
+          "Importance": 4
+        }
+      ]
+    }
+  }
+}
