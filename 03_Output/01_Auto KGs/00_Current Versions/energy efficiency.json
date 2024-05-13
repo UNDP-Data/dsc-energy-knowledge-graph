@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "Entity": "energy efficiency",
+    "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Conservation",
+      "Energy Management",
+      "Sustainability"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 4.0,
+    "Synonyms": [
+      "energy efficiency policy",
+      "energy efficiency programs",
+      "energy efficiency goals",
+      "energy efficiency performance",
+      "energy efficiency initiatives",
+      "energy efficiency measures",
+      "energy efficiency improvements",
+      "energy efficiency targets"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "Energy Efficiency Programs",
+      "Energy Waste",
+      "Sustainable Development Goals",
+      "Industries",
+      "Energy Performance",
+      "Energy Audits",
+      "Energy Conservation",
+      "Renewable Energy Integration"
+    ],
+    "relations": {
+      "energy efficiency": [
+        {
+          "Relation": "addresses",
+          "Object": "Energy Waste",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "Energy Audits",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "Industries",
+          "Description": "Energy efficiency collaborates with industries to develop and implement energy-saving measures and technologies.",
+          "Importance": 4
+        },
+        {
+          "Relation": "supports",
+          "Object": "Renewable Energy Integration",
+          "Description": "Energy efficiency supports the integration of renewable energy sources into the energy system to improve overall energy efficiency.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "Energy Efficiency Programs",
+          "Description": "Energy efficiency administers energy efficiency programs to promote energy-saving behaviors and technologies.",
+          "Importance": 3
+        },
+        {
+          "Relation": "measures",
+          "Object": "Energy Performance",
+          "Description": "Energy efficiency measures energy performance to assess the effectiveness of energy-saving initiatives.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "Sustainable Development Goals",
+          "Description": "Energy efficiency aligns with the Sustainable Development Goals by contributing to the goal of affordable and clean energy for all.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "Energy Conservation",
+          "Description": "Energy efficiency is an instance of energy conservation, which aims to reduce energy consumption and waste.",
+          "Importance": 4
+        }
+      ]
+    }
+  }
+}
