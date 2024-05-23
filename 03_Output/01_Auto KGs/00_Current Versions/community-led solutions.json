@@ -16,9 +16,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "climate change mitigation",
+      "renewable energy initiatives",
+      "energy consumption",
+      "local governments",
+      "sustainable energy projects",
+      "environmental sustainability",
+      "energy access",
+      "local workforce",
+      "energy poverty"
+    ],
     "relations": {
-      "community-led solutions": []
+      "community-led solutions": [
+        {
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Community-led solutions implement sustainable energy projects that aim to provide clean and affordable energy to local communities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy initiatives",
+          "Description": "Community-led solutions provide funding for renewable energy initiatives to support the transition to sustainable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "energy access",
+          "Description": "Community-led solutions focus on improving energy access in underserved areas by promoting the use of sustainable energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "local governments",
+          "Description": "Community-led solutions partner with local governments to collaborate on sustainable energy projects and initiatives.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Community-led solutions contribute to climate change mitigation by promoting the adoption of sustainable energy practices and reducing greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Community-led solutions monitor energy consumption to identify opportunities for energy efficiency improvements and sustainable energy use.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy poverty",
+          "Description": "Community-led solutions target energy poverty by implementing sustainable energy solutions that provide reliable and affordable energy access to marginalized communities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "environmental sustainability",
+          "Description": "Community-led solutions address environmental sustainability by promoting the use of renewable energy sources and reducing reliance on fossil fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "local workforce",
+          "Description": "Community-led solutions employ local workforce to support the implementation and maintenance of sustainable energy projects, contributing to local economic development.",
+          "Importance": 3
+        }
+      ]
     }
   }
 }

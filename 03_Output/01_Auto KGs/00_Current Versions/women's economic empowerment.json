@@ -14,9 +14,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "gender equality policy",
+      "poverty reduction",
+      "gender pay gap",
+      "women-owned businesses",
+      "gender-based violence",
+      "women's rights organizations",
+      "sustainable development goals",
+      "microfinance programs",
+      "gender-responsive employment policies"
+    ],
     "relations": {
-      "women's economic empowerment": []
+      "women's economic empowerment": [
+        {
+          "Relation": "implements",
+          "Object": "gender equality policy",
+          "Description": "Women's economic empowerment implements a gender equality policy that aims to promote equal opportunities and rights for women in the economic sector.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "microfinance programs",
+          "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "gender-responsive employment policies",
+          "Description": "Women's economic empowerment focuses on gender-responsive employment policies that aim to create inclusive and equitable workplaces for women.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "sustainable development goals",
+          "Description": "Women's economic empowerment is embedded in the sustainable development goals, particularly in the goal of achieving gender equality and empowering all women and girls.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "women's rights organizations",
+          "Description": "Women's economic empowerment partners with women's rights organizations to advocate for women's economic rights and empower women to participate fully in the economy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "poverty reduction",
+          "Description": "Women's economic empowerment contributes to poverty reduction by enabling women to generate income, improve their livelihoods, and lift themselves and their families out of poverty.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "gender pay gap",
+          "Description": "Women's economic empowerment monitors the gender pay gap to identify disparities and advocate for equal pay for equal work.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "women-owned businesses",
+          "Description": "Women's economic empowerment targets women-owned businesses for support and promotion, aiming to increase their representation and success in the business sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "addresses",
+          "Object": "gender-based violence",
+          "Description": "Women's economic empowerment addresses gender-based violence by promoting economic independence and empowerment as a means to reduce vulnerability and enhance women's safety.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

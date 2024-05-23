@@ -14,9 +14,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "clean energy generation",
+      "reducing carbon emissions",
+      "energy efficiency measures",
+      "operational performance",
+      "power generation plants",
+      "renewable energy integration",
+      "energy demand",
+      "energy storage companies",
+      "research and development"
+    ],
     "relations": {
-      "gas turbine": []
+      "gas turbine": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency measures",
+          "Description": "Gas turbine implements energy efficiency measures to optimize energy consumption and reduce emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Gas turbine funds research and development initiatives to improve efficiency and performance.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "clean energy generation",
+          "Description": "Gas turbine focuses on clean energy generation by utilizing renewable fuels and reducing environmental impact.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "power generation plants",
+          "Description": "Gas turbine is used in power generation plants to produce electricity efficiently.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "energy storage companies",
+          "Description": "Gas turbine partners with energy storage companies to enhance grid stability and enable renewable energy integration.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "reducing carbon emissions",
+          "Description": "Gas turbine contributes to reducing carbon emissions by providing a cleaner and more efficient energy source.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "operational performance",
+          "Description": "Gas turbine monitors its operational performance to ensure optimal efficiency and identify areas for improvement.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "renewable energy integration",
+          "Description": "Gas turbine targets renewable energy integration by enabling the efficient utilization of renewable fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy demand",
+          "Description": "Gas turbine addresses energy demand by providing a reliable and flexible power generation solution.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

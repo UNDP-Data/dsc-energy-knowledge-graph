@@ -13,9 +13,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "renewable energy projects",
+      "energy efficiency policy",
+      "private sector",
+      "sustainable cities and communities",
+      "climate action",
+      "energy consumption",
+      "universal access to affordable, reliable, and modern energy services",
+      "energy poverty",
+      "access to clean energy"
+    ],
     "relations": {
-      "SDG7 targets": []
+      "SDG7 targets": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency policy",
+          "Description": "SDG7 targets implements energy efficiency policy to promote sustainable energy practices.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy projects",
+          "Description": "SDG7 targets funds renewable energy projects to support the transition to sustainable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "access to clean energy",
+          "Description": "SDG7 targets focuses on improving access to clean energy for all communities.",
+          "Importance": 3
+        },
+        {
+          "Relation": "in",
+          "Object": "sustainable cities and communities",
+          "Description": "SDG7 targets are in alignment with the goal of creating sustainable cities and communities.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "private sector",
+          "Description": "SDG7 targets partners with the private sector to drive innovation and investment in sustainable energy solutions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate action",
+          "Description": "SDG7 targets contribute to climate action by promoting the use of renewable energy and reducing greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "SDG7 targets monitor energy consumption to track progress towards sustainable energy goals.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "universal access to affordable, reliable, and modern energy services",
+          "Description": "SDG7 targets aim to achieve universal access to affordable, reliable, and modern energy services.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy poverty",
+          "Description": "SDG7 targets address energy poverty by promoting access to clean and affordable energy sources.",
+          "Importance": 3
+        }
+      ]
     }
   }
 }

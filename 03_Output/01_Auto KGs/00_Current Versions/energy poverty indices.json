@@ -17,9 +17,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "renewable energy projects",
+      "energy inequality",
+      "non-profit organizations",
+      "energy access programs",
+      "energy consumption patterns",
+      "energy efficiency",
+      "sustainable development goals",
+      "energy affordability",
+      "developing countries"
+    ],
     "relations": {
-      "energy poverty indices": []
+      "energy poverty indices": [
+        {
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy projects",
+          "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "energy affordability",
+          "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "developing countries",
+          "Description": "Energy poverty indices are prevalent in developing countries where access to modern energy services is limited.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "non-profit organizations",
+          "Description": "Energy poverty indices partner with non-profit organizations to collaborate on initiatives aimed at addressing energy poverty.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "sustainable development goals",
+          "Description": "Energy poverty indices contribute to the achievement of sustainable development goals by improving access to clean and affordable energy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption patterns",
+          "Description": "Energy poverty indices monitor energy consumption patterns to identify areas with high energy poverty and develop targeted interventions.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy efficiency",
+          "Description": "Energy poverty indices target energy efficiency measures to reduce energy consumption and improve energy access for marginalized communities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy inequality",
+          "Description": "Energy poverty indices address energy inequality by promoting equal access to energy services for all individuals, regardless of their socioeconomic status.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

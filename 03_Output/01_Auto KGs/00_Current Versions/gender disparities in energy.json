@@ -16,9 +16,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "gender-based violence in the energy sector",
+      "gender mainstreaming",
+      "gender equality in energy access",
+      "gender-responsive energy policies",
+      "energy sector",
+      "women's empowerment organizations",
+      "gender-focused energy projects",
+      "gender data in the energy sector",
+      "sustainable development goals"
+    ],
     "relations": {
-      "gender disparities in energy": []
+      "gender disparities in energy": [
+        {
+          "Relation": "implements",
+          "Object": "gender mainstreaming",
+          "Description": "Gender disparities in energy can be addressed by implementing gender mainstreaming strategies that ensure equal access and benefits for all genders.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "gender-focused energy projects",
+          "Description": "To reduce gender disparities in energy, funding can be allocated to support gender-focused energy projects that empower women and marginalized groups.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "gender-responsive energy policies",
+          "Description": "Addressing gender disparities in energy requires a focus on developing gender-responsive energy policies that consider the specific needs and challenges faced by different genders.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "energy sector",
+          "Description": "Gender disparities exist in the energy sector, where women are underrepresented in decision-making roles and face barriers to accessing energy services and opportunities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "women's empowerment organizations",
+          "Description": "To address gender disparities in energy, partnerships can be formed with women's empowerment organizations to promote gender equality and women's participation in the energy sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "sustainable development goals",
+          "Description": "Reducing gender disparities in energy is crucial for achieving the sustainable development goals, as gender equality is a key component of sustainable development.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "gender data in the energy sector",
+          "Description": "Monitoring gender data in the energy sector is important to identify and address gender disparities, and to track progress towards gender equality in the energy sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "gender equality in energy access",
+          "Description": "Setting targets for achieving gender equality in energy access can help drive efforts to reduce gender disparities and ensure equal access to energy services for all genders.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "gender-based violence in the energy sector",
+          "Description": "Addressing gender disparities in energy also involves addressing gender-based violence in the energy sector, which disproportionately affects women and girls.",
+          "Importance": 3
+        }
+      ]
     }
   }
 }

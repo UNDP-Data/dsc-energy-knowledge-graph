@@ -17,9 +17,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "renewable energy projects",
+      "climate change mitigation",
+      "renewable energy technologies",
+      "energy efficiency measures",
+      "non-profit organizations",
+      "energy consumption",
+      "local communities",
+      "energy poverty",
+      "energy equity"
+    ],
     "relations": {
-      "community-based energy resilience programs": []
+      "community-based energy resilience programs": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency measures",
+          "Description": "Community-based energy resilience programs implement energy efficiency measures to reduce energy consumption and promote sustainability.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy projects",
+          "Description": "Community-based energy resilience programs provide funding for renewable energy projects to support the transition to clean and sustainable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "local communities",
+          "Description": "Community-based energy resilience programs focus on empowering and supporting local communities in their efforts to enhance energy resilience and sustainability.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "non-profit organizations",
+          "Description": "Community-based energy resilience programs collaborate and partner with non-profit organizations to leverage their expertise and resources in promoting sustainable energy practices.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Community-based energy resilience programs contribute to climate change mitigation by reducing greenhouse gas emissions through the adoption of clean energy technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Community-based energy resilience programs monitor energy consumption patterns to identify areas for improvement and implement strategies to reduce energy waste.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy poverty",
+          "Description": "Community-based energy resilience programs target energy poverty by providing access to affordable and reliable energy services for underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy equity",
+          "Description": "Community-based energy resilience programs address energy equity by ensuring equal access to clean and affordable energy resources for all members of the community.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "renewable energy technologies",
+          "Description": "Community-based energy resilience programs employ renewable energy technologies to generate clean and sustainable energy for local communities.",
+          "Importance": 3
+        }
+      ]
     }
   }
 }

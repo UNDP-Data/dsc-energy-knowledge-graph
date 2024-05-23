@@ -10,9 +10,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "sustainable transportation",
+      "carbon footprint",
+      "reducing carbon emissions",
+      "climate change mitigation",
+      "clean energy sector",
+      "renewable energy companies",
+      "reducing fossil fuel consumption",
+      "environmental concerns",
+      "research and development"
+    ],
     "relations": {
-      "carbon-netural fuel": []
+      "carbon-netural fuel": [
+        {
+          "Relation": "implements",
+          "Object": "sustainable transportation",
+          "Description": "Carbon-neutral fuel implements sustainable transportation methods that reduce greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Carbon-neutral fuel funds research and development projects to advance sustainable energy technologies.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "reducing carbon emissions",
+          "Description": "Carbon-neutral fuel focuses on reducing carbon emissions to mitigate climate change impacts.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "clean energy sector",
+          "Description": "Carbon-neutral fuel plays a role in the clean energy sector by providing sustainable fuel alternatives.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "renewable energy companies",
+          "Description": "Carbon-neutral fuel partners with renewable energy companies to promote sustainable energy solutions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Carbon-neutral fuel contributes to climate change mitigation efforts by reducing carbon emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "carbon footprint",
+          "Description": "Carbon-neutral fuel monitors carbon footprint to ensure sustainable energy practices.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "reducing fossil fuel consumption",
+          "Description": "Carbon-neutral fuel targets reducing fossil fuel consumption to promote sustainable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "environmental concerns",
+          "Description": "Carbon-neutral fuel addresses environmental concerns by providing a sustainable energy alternative.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

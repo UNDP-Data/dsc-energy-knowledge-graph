@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "Entity": "energy modeling",
+    "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Simulation",
+      "System Analysis",
+      "Energy Efficiency"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": [
+      "energy planning"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "research and development",
+      "energy consumption",
+      "sustainable energy planning",
+      "renewable energy certificates",
+      "energy consultants",
+      "building energy performance",
+      "energy efficiency",
+      "carbon footprint reduction"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Energy modeling implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Energy modeling funds research and development projects to improve energy efficiency and renewable energy technologies.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "building energy performance",
+          "Description": "Energy modeling focuses on analyzing and improving building energy performance through simulation and optimization techniques.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "sustainable energy planning",
+          "Description": "Energy modeling is an integral part of sustainable energy planning to assess the impact of different energy scenarios and inform decision-making.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "energy consultants",
+          "Description": "Energy modeling partners with energy consultants to provide expertise and support in energy efficiency analysis and modeling.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "carbon footprint reduction",
+          "Description": "Energy modeling contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy systems.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Energy modeling monitors energy consumption patterns and trends to identify areas for improvement and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy efficiency",
+          "Description": "Energy modeling targets energy efficiency goals by identifying strategies and measures to achieve optimal energy performance.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "renewable energy certificates",
+          "Description": "Energy modeling addresses the challenges and opportunities of renewable energy integration into the existing energy system.",
+          "Importance": 3
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [
+      "energy simulation",
+      "energy optimization",
+      "energy analysis",
+      "energy forecasting",
+      "energy management"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "energy simulation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Energy simulation involves the use of computer models to simulate and analyze energy systems, helping to optimize energy use and identify potential improvements.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy optimization",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Energy optimization focuses on finding the most efficient ways to use energy resources, reducing waste and maximizing energy efficiency.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "energy analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Energy analysis involves the examination and evaluation of energy systems and processes to identify areas for improvement and optimization.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "energy forecasting",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Energy forecasting involves the use of data and models to predict future energy demand and supply, helping to inform energy planning and decision-making.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "energy management",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Energy management involves the planning, monitoring, and control of energy resources and systems to ensure efficient and sustainable energy use.",
+        "Importance": 4
+      }
+    ]
+  }
+}

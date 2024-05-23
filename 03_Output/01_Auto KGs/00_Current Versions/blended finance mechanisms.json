@@ -14,9 +14,73 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "sustainable energy sector",
+      "climate change mitigation",
+      "renewable energy initiatives",
+      "private sector organizations",
+      "sustainable energy projects",
+      "renewable energy deployment",
+      "energy access",
+      "clean energy technologies"
+    ],
     "relations": {
-      "blended finance mechanisms": []
+      "blended finance mechanisms": [
+        {
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Blended finance mechanisms implement funding for sustainable energy projects.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy initiatives",
+          "Description": "Blended finance mechanisms provide funding for renewable energy initiatives.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "clean energy technologies",
+          "Description": "Blended finance mechanisms focus on supporting the development and deployment of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "sustainable energy sector",
+          "Description": "Blended finance mechanisms play a role in the sustainable energy sector.",
+          "Importance": 2
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "private sector organizations",
+          "Description": "Blended finance mechanisms partner with private sector organizations to promote sustainable energy investments.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "energy access",
+          "Description": "Blended finance mechanisms contribute to improving energy access in underserved areas.",
+          "Importance": 3
+        },
+        {
+          "Relation": "monitors",
+          "Object": "sustainable energy projects",
+          "Description": "Blended finance mechanisms monitor the progress and impact of sustainable energy projects.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "renewable energy deployment",
+          "Description": "Blended finance mechanisms target increased deployment of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "climate change mitigation",
+          "Description": "Blended finance mechanisms address climate change mitigation through investments in sustainable energy.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

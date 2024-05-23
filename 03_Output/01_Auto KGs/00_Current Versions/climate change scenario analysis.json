@@ -16,9 +16,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "reducing greenhouse gas emissions",
+      "energy transition",
+      "research on renewable energy",
+      "sustainable energy projects",
+      "sustainable energy planning",
+      "policy development",
+      "energy consumption patterns",
+      "energy research institutions",
+      "energy poverty"
+    ],
     "relations": {
-      "climate change scenario analysis": []
+      "climate change scenario analysis": [
+        {
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research on renewable energy",
+          "Description": "Climate change scenario analysis funds research on renewable energy to develop innovative solutions for sustainable energy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "energy transition",
+          "Description": "Climate change scenario analysis focuses on the energy transition towards renewable and clean energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "sustainable energy planning",
+          "Description": "Climate change scenario analysis plays a crucial role in sustainable energy planning for a low-carbon future.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "energy research institutions",
+          "Description": "Climate change scenario analysis partners with energy research institutions to collaborate on sustainable energy projects.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "policy development",
+          "Description": "Climate change scenario analysis contributes to policy development by providing insights on the impact of climate change on energy systems.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption patterns",
+          "Description": "Climate change scenario analysis monitors energy consumption patterns to identify areas for improvement and energy efficiency measures.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "reducing greenhouse gas emissions",
+          "Description": "Climate change scenario analysis targets the reduction of greenhouse gas emissions through sustainable energy strategies.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy poverty",
+          "Description": "Climate change scenario analysis addresses energy poverty by promoting access to affordable and clean energy for all.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }
