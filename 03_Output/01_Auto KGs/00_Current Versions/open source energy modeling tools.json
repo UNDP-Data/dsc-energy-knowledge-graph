@@ -14,9 +14,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "policy-making",
+      "climate change mitigation",
+      "energy efficiency improvements",
+      "energy efficiency measures",
+      "energy companies",
+      "energy consumption",
+      "collaboration with universities",
+      "renewable energy sources",
+      "research and development"
+    ],
     "relations": {
-      "open source energy modeling tools": []
+      "open source energy modeling tools": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency measures",
+          "Description": "Open source energy modeling tools implement energy efficiency measures to optimize energy consumption and reduce waste.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Open source energy modeling tools provide funding for research and development in the field of sustainable energy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "renewable energy sources",
+          "Description": "Open source energy modeling tools focus on analyzing and optimizing the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "collaboration with universities",
+          "Description": "Open source energy modeling tools are developed in collaboration with universities to ensure scientific rigor and accuracy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "energy companies",
+          "Description": "Open source energy modeling tools partner with energy companies to exchange data and insights for better energy management.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "policy-making",
+          "Description": "Open source energy modeling tools contribute to policy-making by providing data-driven insights and analysis.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Open source energy modeling tools monitor energy consumption patterns to identify areas for improvement and optimization.",
+          "Importance": 4
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy efficiency improvements",
+          "Description": "Open source energy modeling tools target energy efficiency improvements by identifying and implementing energy-saving measures.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "climate change mitigation",
+          "Description": "Open source energy modeling tools address climate change mitigation by optimizing energy systems and reducing greenhouse gas emissions.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

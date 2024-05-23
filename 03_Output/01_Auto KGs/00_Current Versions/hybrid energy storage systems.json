@@ -15,9 +15,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "reducing carbon emissions",
+      "smart grid infrastructure",
+      "grid resilience",
+      "utility companies",
+      "energy consumption",
+      "energy storage technologies",
+      "renewable energy integration",
+      "intermittency of renewable energy",
+      "research and development"
+    ],
     "relations": {
-      "hybrid energy storage systems": []
+      "hybrid energy storage systems": [
+        {
+          "Relation": "implements",
+          "Object": "energy storage technologies",
+          "Description": "Hybrid energy storage systems implement various energy storage technologies to optimize energy usage and improve efficiency.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Hybrid energy storage systems provide funding for research and development of new energy storage technologies and solutions.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "renewable energy integration",
+          "Description": "Hybrid energy storage systems focus on integrating renewable energy sources into the grid to enhance sustainability and reliability.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "smart grid infrastructure",
+          "Description": "Hybrid energy storage systems play a crucial role in the implementation of smart grid infrastructure for efficient energy management.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "utility companies",
+          "Description": "Hybrid energy storage systems collaborate and partner with utility companies to enhance grid stability and support renewable energy integration.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "grid resilience",
+          "Description": "Hybrid energy storage systems contribute to grid resilience by providing backup power and stabilizing the grid during peak demand periods.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Hybrid energy storage systems monitor energy consumption patterns to optimize energy usage and identify areas for improvement.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "reducing carbon emissions",
+          "Description": "Hybrid energy storage systems target the reduction of carbon emissions by enabling the integration of renewable energy sources and reducing reliance on fossil fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Hybrid energy storage systems address the intermittency of renewable energy sources by storing excess energy and providing a stable power supply.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

@@ -14,9 +14,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "data localization initiatives",
+      "cross-border data transfers",
+      "digital sovereignty",
+      "data privacy concerns",
+      "cybersecurity agencies",
+      "national legislation",
+      "data protection regulations",
+      "data governance",
+      "data flows"
+    ],
     "relations": {
-      "data sovereignty": []
+      "data sovereignty": [
+        {
+          "Relation": "implements",
+          "Object": "data protection regulations",
+          "Description": "Data sovereignty implements data protection regulations to ensure the privacy and security of data.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "data localization initiatives",
+          "Description": "Data sovereignty funds data localization initiatives to promote local storage and processing of data.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "data governance",
+          "Description": "Data sovereignty focuses on data governance to establish rules and policies for data management.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "national legislation",
+          "Description": "Data sovereignty is embedded in national legislation to assert control over data within a country's borders.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "cybersecurity agencies",
+          "Description": "Data sovereignty partners with cybersecurity agencies to enhance data protection and prevent cyber threats.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "digital sovereignty",
+          "Description": "Data sovereignty contributes to digital sovereignty by ensuring control and ownership of data within a country.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "data flows",
+          "Description": "Data sovereignty monitors data flows to ensure compliance with data protection regulations and prevent unauthorized transfers.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "cross-border data transfers",
+          "Description": "Data sovereignty targets cross-border data transfers to regulate the movement of data across national borders.",
+          "Importance": 3
+        },
+        {
+          "Relation": "addresses",
+          "Object": "data privacy concerns",
+          "Description": "Data sovereignty addresses data privacy concerns by establishing regulations and safeguards for personal data.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

@@ -18,9 +18,74 @@
     ]
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "collaboration with energy regulators",
+      "transparency in energy data",
+      "data interoperability",
+      "technology companies",
+      "data quality",
+      "sustainable energy policies",
+      "data ethics",
+      "data privacy and security",
+      "research and development projects"
+    ],
     "relations": {
-      "data governance frameworks": []
+      "data governance frameworks": [
+        {
+          "Relation": "implements",
+          "Object": "sustainable energy policies",
+          "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development projects",
+          "Description": "Data governance frameworks provide funding for research and development projects related to sustainable energy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "data privacy and security",
+          "Description": "Data governance frameworks focus on ensuring data privacy and security in the context of sustainable energy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "collaboration with energy regulators",
+          "Description": "Data governance frameworks work in collaboration with energy regulators to ensure compliance with data management standards in the energy sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "technology companies",
+          "Description": "Data governance frameworks partner with technology companies to develop innovative solutions for sustainable energy data management.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "transparency in energy data",
+          "Description": "Data governance frameworks contribute to the transparency of energy data by establishing standards and protocols for data sharing.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "data quality",
+          "Description": "Data governance frameworks monitor the quality of energy data to ensure its accuracy and reliability for decision-making in sustainable energy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "targets",
+          "Object": "data interoperability",
+          "Description": "Data governance frameworks set targets for achieving data interoperability in the sustainable energy sector to enable seamless data exchange and integration.",
+          "Importance": 3
+        },
+        {
+          "Relation": "addresses",
+          "Object": "data ethics",
+          "Description": "Data governance frameworks address data ethics considerations in the collection, storage, and use of energy data for sustainable energy purposes.",
+          "Importance": 4
+        }
+      ]
     }
   }
 }

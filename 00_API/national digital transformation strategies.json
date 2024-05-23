@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "Entity": "national digital transformation strategies",
+    "Description": "Strategies developed by governments to guide the digital transformation of their countries.",
+    "Category": "Strategy",
+    "Tags": [
+      "Digital Transformation",
+      "Government Policies",
+      "National Development"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "NDTS",
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [
+      "Policy and regulatory frameworks",
+      "Digital skills and literacy",
+      "Digital infrastructure",
+      "Data governance",
+      "Cybersecurity"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Policy and regulatory frameworks",
+        "Relation": "is a sub-element of",
+        "Parent": "national digital transformation strategies",
+        "Description": "Policy and regulatory frameworks are essential for guiding and governing the digital transformation process at the national level, ensuring that it aligns with sustainable energy goals.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Digital skills and literacy",
+        "Relation": "is a sub-element of",
+        "Parent": "national digital transformation strategies",
+        "Description": "Digital skills and literacy are crucial for enabling individuals and organizations to effectively participate in and benefit from the digital transformation process, including sustainable energy initiatives.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Digital infrastructure",
+        "Relation": "is a sub-element of",
+        "Parent": "national digital transformation strategies",
+        "Description": "Digital infrastructure, including broadband connectivity and reliable communication networks, is a foundational element for enabling and supporting the digital transformation process in the context of sustainable energy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Data governance",
+        "Relation": "is a sub-element of",
+        "Parent": "national digital transformation strategies",
+        "Description": "Effective data governance is necessary to ensure the responsible and secure collection, storage, sharing, and use of data in the context of digital transformation and sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Cybersecurity",
+        "Relation": "is a sub-element of",
+        "Parent": "national digital transformation strategies",
+        "Description": "Cybersecurity measures are essential for protecting digital systems, networks, and data from unauthorized access, ensuring the integrity and security of digital transformation initiatives in the context of sustainable energy.",
+        "Importance": 4
+      }
+    ]
+  }
+}

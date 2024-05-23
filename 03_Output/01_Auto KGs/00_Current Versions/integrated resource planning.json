@@ -14,9 +14,74 @@
     "Synonyms": null
   },
   "knowledge graph": {
-    "entities": [],
+    "entities": [
+      "renewable energy projects",
+      "energy efficiency measures",
+      "energy consumption",
+      "energy sector",
+      "renewable energy capacity",
+      "carbon emissions reduction",
+      "demand-side management",
+      "energy equity",
+      "utilities"
+    ],
     "relations": {
-      "integrated resource planning": []
+      "integrated resource planning": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency measures",
+          "Description": "Integrated resource planning implements energy efficiency measures to optimize energy consumption and reduce waste.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy projects",
+          "Description": "Integrated resource planning funds renewable energy projects to promote the transition to clean and sustainable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "demand-side management",
+          "Description": "Integrated resource planning focuses on demand-side management strategies to balance energy supply and demand and improve grid reliability.",
+          "Importance": 3
+        },
+        {
+          "Relation": "in",
+          "Object": "energy sector",
+          "Description": "Integrated resource planning plays a crucial role in the energy sector by optimizing resource allocation and planning for future energy needs.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "utilities",
+          "Description": "Integrated resource planning partners with utilities to develop and implement sustainable energy strategies and programs.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "carbon emissions reduction",
+          "Description": "Integrated resource planning contributes to carbon emissions reduction by promoting the use of renewable energy sources and energy efficiency measures.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Integrated resource planning monitors energy consumption patterns to identify areas for improvement and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "renewable energy capacity",
+          "Description": "Integrated resource planning sets targets for increasing renewable energy capacity to drive the transition towards a sustainable energy future.",
+          "Importance": 4
+        },
+        {
+          "Relation": "addresses",
+          "Object": "energy equity",
+          "Description": "Integrated resource planning addresses energy equity by ensuring access to affordable and reliable energy services for all communities.",
+          "Importance": 3
+        }
+      ]
     }
   }
 }
