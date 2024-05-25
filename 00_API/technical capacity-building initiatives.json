@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "Entity": "technical capacity-building initiatives",
+    "Description": "Programs and activities aimed at enhancing the technical skills and knowledge of individuals and organizations in the field of sustainable energy.",
+    "Category": "Skill",
+    "Tags": [
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "universities",
+      "training programs",
+      "energy cooperatives",
+      "skills gap",
+      "capacity development",
+      "impact",
+      "energy entrepreneurship",
+      "multilateral development banks"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "skills gap",
+          "Description": "Technical capacity-building initiatives address the skills gap by providing training and education programs in sustainable energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "energy cooperatives",
+          "Description": "Technical capacity-building initiatives employ energy experts who deliver training and mentorship programs to enhance technical skills in the sustainable energy sector.",
+          "Importance": 4
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "universities",
+          "Description": "Technical capacity-building initiatives collaborate with universities to develop curriculum and research projects that support the development of sustainable energy skills.",
+          "Importance": 3
+        },
+        {
+          "Relation": "supports",
+          "Object": "energy entrepreneurship",
+          "Description": "Technical capacity-building initiatives support entrepreneurship by providing resources and mentorship to individuals and organizations in the sustainable energy sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "administers",
+          "Object": "training programs",
+          "Description": "Technical capacity-building initiatives administer training programs that equip individuals with the necessary skills and knowledge in sustainable energy practices.",
+          "Importance": 4
+        },
+        {
+          "Relation": "measures",
+          "Object": "impact",
+          "Description": "Technical capacity-building initiatives measure the impact of their programs in terms of increased technical skills and knowledge in the sustainable energy sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "multilateral development banks",
+          "Description": "Technical capacity-building initiatives align with national development plans to ensure the integration of sustainable energy skills in the overall development agenda.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "capacity development",
+          "Description": "Technical capacity-building initiatives are an instance of capacity development efforts aimed at enhancing skills and knowledge in the sustainable energy sector.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy cooperatives",
+          "Relation": "addresses",
+          "Object": "energy poverty indices",
+          "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy cooperatives",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy cooperatives employ renewable energy technologies to generate clean and sustainable energy for their members.",
+          "Importance": 3
+        },
+        {
+          "Subject": "energy entrepreneurship",
+          "Relation": "implements",
+          "Object": "building standards",
+          "Description": "Energy entrepreneurship implements rigorous building standards that promote the use of energy-saving designs and materials.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy entrepreneurship",
+          "Relation": "focuses_on",
+          "Object": "energy markets",
+          "Description": "Energy entrepreneurship focuses on improving energy access in underserved communities through innovative solutions.",
+          "Importance": 4
+        },
+        {
+          "Subject": "multilateral development banks",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Multilateral development banks implement energy efficiency policies to promote sustainable energy practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "multilateral development banks",
+          "Relation": "funds",
+          "Object": "renewable energy agencies",
+          "Description": "Multilateral development banks provide funding for renewable energy projects to support the transition to clean energy sources.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

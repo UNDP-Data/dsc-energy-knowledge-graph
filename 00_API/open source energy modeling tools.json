@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "Entity": "open source energy modeling tools",
+    "Description": "Open source energy modeling tools are software tools that allow users to simulate and analyze energy systems, including energy generation, consumption, and distribution, using open source code and data.",
+    "Category": "Technology",
+    "Tags": [
+      "Energy Modeling",
+      "Simulation",
+      "Data Analysis"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

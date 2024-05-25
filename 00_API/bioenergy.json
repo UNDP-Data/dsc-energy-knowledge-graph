@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "Entity": "bioenergy",
+    "Description": "Energy derived from biomass, such as organic materials or agricultural residues, through processes like combustion or fermentation.",
+    "Category": "Technology",
+    "Tags": [
+      "Policy",
+      "Technology",
+      "Social",
+      "Economic"
+    ],
+    "Dimension": "Intersectionality",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "sustainable biomass production",
+      "climate change mitigation",
+      "rural electrification",
+      "research and development",
+      "local communities",
+      "renewable energy certificates",
+      "energy efficiency",
+      "bioenergy production"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Bioenergy implements the Energy Efficiency Policy by promoting the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Bioenergy funds research and development projects to improve the efficiency and sustainability of bioenergy production.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "sustainable biomass production",
+          "Description": "Bioenergy focuses on sustainable biomass production to ensure the availability of renewable feedstock for bioenergy generation.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "renewable energy certificates",
+          "Description": "Bioenergy plays a role in the renewable energy portfolio by contributing to the overall share of renewable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "local communities",
+          "Description": "Bioenergy partners with local communities to promote the sustainable production and use of bioenergy, creating economic opportunities and reducing reliance on fossil fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Bioenergy contributes to climate change mitigation by reducing greenhouse gas emissions through the substitution of fossil fuels with renewable bioenergy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "bioenergy production",
+          "Description": "Bioenergy monitors the production of bioenergy to ensure compliance with sustainability criteria and environmental standards.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "rural electrification",
+          "Description": "Bioenergy targets rural electrification by providing decentralized energy solutions through the use of bioenergy technologies.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

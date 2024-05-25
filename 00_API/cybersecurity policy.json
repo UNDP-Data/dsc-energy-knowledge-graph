@@ -100,49 +100,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "data protection",
-      "incident response",
-      "security awareness",
-      "vulnerability management",
-      "security governance"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data protection",
-        "Relation": "is a sub-element of",
-        "Parent": "cybersecurity policy",
-        "Description": "Data protection involves implementing measures to safeguard sensitive information from unauthorized access, use, disclosure, disruption, modification, or destruction.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "incident response",
-        "Relation": "is a sub-element of",
-        "Parent": "cybersecurity policy",
-        "Description": "Incident response refers to the processes and procedures followed when a cybersecurity incident occurs, including detection, analysis, containment, eradication, and recovery.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "security awareness",
-        "Relation": "is a sub-element of",
-        "Parent": "cybersecurity policy",
-        "Description": "Security awareness involves educating individuals about potential cybersecurity threats and best practices to mitigate those threats.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "vulnerability management",
-        "Relation": "is a sub-element of",
-        "Parent": "cybersecurity policy",
-        "Description": "Vulnerability management focuses on identifying, assessing, and mitigating vulnerabilities in systems and software to prevent exploitation by attackers.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "security governance",
-        "Relation": "is a sub-element of",
-        "Parent": "cybersecurity policy",
-        "Description": "Security governance involves establishing and maintaining a framework to guide and oversee the management of cybersecurity risks within an organization.",
-        "Importance": 3
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

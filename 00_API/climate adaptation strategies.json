@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "Entity": "climate adaptation strategies",
+    "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Resilience",
+      "Adaptation Measures"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 4.0,
+    "Synonyms": [
+      "climate adaptation"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "extreme weather events",
+      "resilience planning",
+      "sustainable development goals",
+      "local governments",
+      "vulnerability",
+      "nature-based solutions",
+      "climate resilience funds",
+      "community engagement"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "extreme weather events",
+          "Description": "Climate adaptation strategies address the impacts of extreme weather events on communities and infrastructure.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "nature-based solutions",
+          "Description": "Climate adaptation strategies employ nature-based solutions to enhance resilience and protect ecosystems.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "local governments",
+          "Description": "Climate adaptation strategies collaborate with local governments to develop and implement climate resilience plans.",
+          "Importance": 4
+        },
+        {
+          "Relation": "supports",
+          "Object": "community engagement",
+          "Description": "Climate adaptation strategies support community engagement to ensure inclusive decision-making and implementation.",
+          "Importance": 3
+        },
+        {
+          "Relation": "administers",
+          "Object": "climate resilience funds",
+          "Description": "Climate adaptation strategies administer climate resilience funds to finance adaptation projects and initiatives.",
+          "Importance": 4
+        },
+        {
+          "Relation": "measures",
+          "Object": "vulnerability",
+          "Description": "Climate adaptation strategies measure vulnerability to assess the risks and impacts of climate change on communities.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "sustainable development goals",
+          "Description": "Climate adaptation strategies align with the Sustainable Development Goals to promote integrated and holistic approaches to development.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "resilience planning",
+          "Description": "Climate adaptation strategies are an instance of resilience planning that aims to build adaptive capacity and reduce vulnerability.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "nature-based solutions",
+          "Relation": "addresses",
+          "Object": "biodiversity conservation",
+          "Description": "nature-based solutions addresses biodiversity conservation by promoting the use of natural processes and ecosystems to provide sustainable energy solutions.",
+          "Importance": 4
+        },
+        {
+          "Subject": "nature-based solutions",
+          "Relation": "collaborates_with",
+          "Object": "local communities",
+          "Description": "nature-based solutions collaborates with local communities to implement sustainable energy solutions that are in harmony with nature.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate resilience funds",
+          "Relation": "addresses",
+          "Object": "climate change impacts",
+          "Description": "climate resilience funds address climate change impacts by supporting projects that enhance resilience to climate-related risks.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate resilience funds",
+          "Relation": "employs",
+          "Object": "climate adaptation strategies",
+          "Description": "climate resilience funds employ climate adaptation strategies to build resilience and mitigate the impacts of climate change.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate adaptation strategies",
+          "Relation": "addresses",
+          "Object": "extreme weather events",
+          "Description": "Climate adaptation strategies address the impacts of extreme weather events on communities and infrastructure.",
+          "Importance": 4
+        },
+        {
+          "Subject": "community-based energy resilience programs",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Community-based energy resilience programs implement energy efficiency measures to reduce energy consumption and promote sustainability.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate resilience funds",
+          "Relation": "addresses",
+          "Object": "climate change impacts",
+          "Description": "climate resilience funds address climate change impacts by supporting projects that enhance resilience to climate-related risks.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

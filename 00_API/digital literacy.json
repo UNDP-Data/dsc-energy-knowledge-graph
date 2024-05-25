@@ -100,49 +100,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "digital skills",
-      "digital access",
-      "digital inclusion",
-      "digital divide",
-      "digital empowerment"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "digital skills",
-        "Relation": "is a sub-element of",
-        "Parent": "digital literacy",
-        "Description": "Digital skills refer to the ability to use digital technologies effectively and efficiently, including basic computer skills, internet navigation, and digital communication.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "digital access",
-        "Relation": "is a sub-element of",
-        "Parent": "digital literacy",
-        "Description": "Digital access refers to the availability and affordability of digital technologies and internet connectivity, ensuring that individuals have the necessary tools and resources to participate in the digital world.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "digital inclusion",
-        "Relation": "is a sub-element of",
-        "Parent": "digital literacy",
-        "Description": "Digital inclusion aims to ensure that all individuals, regardless of their socio-economic background or physical abilities, have equal access to and benefit from digital technologies and services.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "digital divide",
-        "Relation": "is a sub-element of",
-        "Parent": "digital literacy",
-        "Description": "The digital divide refers to the gap between individuals and communities who have access to digital technologies and those who do not, leading to disparities in opportunities and outcomes.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "digital empowerment",
-        "Relation": "is a sub-element of",
-        "Parent": "digital literacy",
-        "Description": "Digital empowerment refers to the ability of individuals and communities to use digital technologies to enhance their socio-economic well-being, participate in decision-making processes, and advocate for their rights and interests.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

@@ -166,49 +166,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "geographic information systems",
-      "remote sensing",
-      "spatial analysis",
-      "data visualization",
-      "geospatial data management"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "geographic information systems",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Geographic Information Systems (GIS) is a framework for gathering, managing, and analyzing geospatial data, including maps, satellite imagery, and aerial photographs.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "remote sensing",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Remote sensing involves the collection and interpretation of data from a distance, typically using satellites or aircraft, to gather information about the Earth's surface and atmosphere.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "spatial analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Spatial analysis is the process of examining geographic data to uncover patterns, relationships, and trends, and to make informed decisions based on the results.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Data visualization is the graphical representation of data to provide insights and facilitate understanding, often using maps, charts, and graphs.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "geospatial data management",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Geospatial data management involves the storage, organization, and maintenance of geospatial data, ensuring its accessibility, accuracy, and integrity.",
-        "Importance": 3
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

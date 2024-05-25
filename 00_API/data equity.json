@@ -117,49 +117,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "data management",
-      "data privacy",
-      "data security",
-      "data analytics",
-      "data governance"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data management",
-        "Relation": "is a sub-element of",
-        "Parent": "data equity",
-        "Description": "Data management involves the collection, storage, and organization of data to ensure its accessibility, reliability, and usability.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data privacy",
-        "Relation": "is a sub-element of",
-        "Parent": "data equity",
-        "Description": "Data privacy refers to the protection of personal and sensitive information from unauthorized access, use, and disclosure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data security",
-        "Relation": "is a sub-element of",
-        "Parent": "data equity",
-        "Description": "Data security involves the protection of data from unauthorized access, use, disclosure, disruption, modification, or destruction.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "data equity",
-        "Description": "Data analytics involves the extraction of valuable insights and patterns from data to support decision-making and improve processes.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data governance",
-        "Relation": "is a sub-element of",
-        "Parent": "data equity",
-        "Description": "Data governance refers to the overall management of data, including policies, processes, and controls to ensure data quality, integrity, and compliance.",
-        "Importance": 3
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

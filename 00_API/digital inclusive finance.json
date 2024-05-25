@@ -131,49 +131,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "mobile banking",
-      "microfinance",
-      "crowdfunding",
-      "blockchain",
-      "financial literacy"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "mobile banking",
-        "Relation": "is a sub-element of",
-        "Parent": "digital inclusive finance",
-        "Description": "Mobile banking refers to the use of mobile phones or other mobile devices to perform financial transactions, such as transferring money, paying bills, or checking account balances.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "microfinance",
-        "Relation": "is a sub-element of",
-        "Parent": "digital inclusive finance",
-        "Description": "Microfinance is a type of financial service that provides small loans, savings accounts, and other financial products to low-income individuals and small businesses who lack access to traditional banking services.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "crowdfunding",
-        "Relation": "is a sub-element of",
-        "Parent": "digital inclusive finance",
-        "Description": "Crowdfunding is a method of raising funds for a project or venture by collecting small amounts of money from a large number of people, typically via the internet.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "blockchain",
-        "Relation": "is a sub-element of",
-        "Parent": "digital inclusive finance",
-        "Description": "Blockchain is a decentralized digital ledger that records transactions across multiple computers. It has the potential to revolutionize the financial industry by providing secure and transparent transactions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "financial literacy",
-        "Relation": "is a sub-element of",
-        "Parent": "digital inclusive finance",
-        "Description": "Financial literacy refers to the knowledge and skills needed to make informed financial decisions. It includes understanding concepts such as budgeting, saving, investing, and managing debt.",
-        "Importance": 3
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

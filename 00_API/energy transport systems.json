@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "Entity": "energy transport systems",
+    "Description": "Systems and infrastructure for transporting energy from generation sources to end users.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": [
+      "energy management systems"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "climate change mitigation",
+      "renewable energy agencies",
+      "energy storage",
+      "smart metering technologies",
+      "energy market and trade organizations",
+      "energy losses",
+      "infrastructure development",
+      "energy markets"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy transport systems address the challenge of providing energy access to remote areas by enabling the efficient distribution of energy resources.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "smart metering technologies",
+          "Description": "Energy transport systems employ smart grid technology to optimize the transmission and distribution of energy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "renewable energy agencies",
+          "Description": "Energy transport systems collaborate with renewable energy developers to ensure the seamless integration of renewable energy into the grid.",
+          "Importance": 3
+        },
+        {
+          "Relation": "supports",
+          "Object": "energy storage",
+          "Description": "Energy transport systems support the implementation of energy storage solutions to enhance grid stability and reliability.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "energy market and trade organizations",
+          "Description": "Energy transport systems administer energy market regulations to ensure fair and efficient energy trading and distribution.",
+          "Importance": 3
+        },
+        {
+          "Relation": "measures",
+          "Object": "energy losses",
+          "Description": "Energy transport systems measure energy losses during transmission and distribution to identify areas for improvement and optimization.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "climate change mitigation",
+          "Description": "Energy transport systems align with the goal of climate change mitigation by enabling the efficient and sustainable distribution of renewable energy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "infrastructure development",
+          "Description": "Energy transport systems are an instance of infrastructure development, specifically focused on the transmission and distribution of energy.",
+          "Importance": 3
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+          "Importance": 3
+        },
+        {
+          "Subject": "smart metering technologies",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
+          "Importance": 4
+        },
+        {
+          "Subject": "smart metering technologies",
+          "Relation": "in",
+          "Object": "smart grid",
+          "Description": "Smart metering technologies are an integral part of the smart grid infrastructure for efficient energy management.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy storage",
+          "Relation": "employs",
+          "Object": "smart metering technologies",
+          "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

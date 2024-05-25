@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "Entity": "carbon pricing",
+    "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Change",
+      "Emissions Reduction",
+      "Market Mechanism"
+    ],
+    "Dimension": "Policy",
+    "Acronym": null,
+    "Importance": 4.0,
+    "Synonyms": [
+      "carbon footprint",
+      "carbon pricing mechanisms"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "climate change mitigation",
+      "renewable energy agencies",
+      "high carbon intensity industries",
+      "sustainable development goals",
+      "carbon market",
+      "energy efficiency",
+      "emission reduction",
+      "private sector"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Carbon pricing implements energy efficiency policies that incentivize the reduction of greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "renewable energy agencies",
+          "Description": "Carbon pricing funds renewable energy projects that aim to increase the share of clean energy in the energy mix.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "emission reduction",
+          "Description": "Carbon pricing focuses on emission reduction strategies to mitigate climate change.",
+          "Importance": 3
+        },
+        {
+          "Relation": "in",
+          "Object": "climate change mitigation",
+          "Description": "Carbon pricing plays a role in climate change mitigation efforts by incentivizing the reduction of greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "private sector",
+          "Description": "Carbon pricing partners with the private sector to promote sustainable business practices and investments in clean technologies.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "sustainable development goals",
+          "Description": "Carbon pricing contributes to the achievement of sustainable development goals by promoting clean energy and reducing greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "carbon market",
+          "Description": "Carbon pricing monitors the carbon market to ensure the effectiveness and integrity of emissions trading systems.",
+          "Importance": 2
+        },
+        {
+          "Relation": "targets",
+          "Object": "high carbon intensity industries",
+          "Description": "Carbon pricing targets high carbon intensity industries to encourage emission reductions and transition to cleaner technologies.",
+          "Importance": 3
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

@@ -149,49 +149,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "smart infrastructure",
-      "digital governance",
-      "data analytics",
-      "citizen engagement",
-      "urban planning"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "smart infrastructure",
-        "Relation": "is a sub-element of",
-        "Parent": "digital cities",
-        "Description": "Smart Infrastructure integrates technology into city infrastructure to improve efficiency, sustainability, and resilience, including smart grids and intelligent transportation systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "digital governance",
-        "Relation": "is a sub-element of",
-        "Parent": "digital cities",
-        "Description": "Digital Governance refers to the use of technology to enhance the efficiency, transparency, and accountability of government processes and services in a city.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "digital cities",
-        "Description": "Data Analytics involves the collection, analysis, and interpretation of data to gain insights and inform decision-making in the context of a city's operations and services.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "citizen engagement",
-        "Relation": "is a sub-element of",
-        "Parent": "digital cities",
-        "Description": "Citizen Engagement refers to the involvement of citizens in the decision-making processes of a city, enabled by digital technologies and platforms.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "urban planning",
-        "Relation": "is a sub-element of",
-        "Parent": "digital cities",
-        "Description": "Urban Planning involves the design and development of cities, taking into account factors such as land use, transportation, and infrastructure, with a focus on sustainability and livability.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

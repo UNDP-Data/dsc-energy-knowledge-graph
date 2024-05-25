@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "Entity": "foundational data infrastructure",
+    "Description": "Foundational data infrastructure refers to the basic infrastructure required for collecting, storing, and managing data.",
+    "Category": "Infrastructure",
+    "Tags": [
+      "Data Infrastructure",
+      "Infrastructure"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 2.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "digital transformation",
+      "energy modeling",
+      "energy data repositories",
+      "energy data analytics",
+      "data governance frameworks",
+      "energy efficiency",
+      "energy grid operators",
+      "energy markets"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Foundational data infrastructure addresses the issue of energy access by providing accurate and reliable data on energy availability and distribution.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "energy data analytics",
+          "Description": "Foundational data infrastructure employs data analytics to analyze energy-related data and derive insights for decision-making and policy formulation.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "energy grid operators",
+          "Description": "Foundational data infrastructure collaborates with energy grid operators to ensure the efficient and reliable transmission of energy.",
+          "Importance": 3
+        },
+        {
+          "Relation": "supports",
+          "Object": "energy modeling",
+          "Description": "Foundational data infrastructure supports energy planning efforts by providing accurate data on energy consumption, demand, and infrastructure.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "energy data repositories",
+          "Description": "Foundational data infrastructure administers an energy data platform that centralizes and manages energy-related data for easy access and analysis.",
+          "Importance": 4
+        },
+        {
+          "Relation": "measures",
+          "Object": "energy efficiency",
+          "Description": "Foundational data infrastructure measures energy efficiency by collecting and analyzing data on energy consumption and efficiency measures.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "digital transformation",
+          "Description": "Foundational data infrastructure aligns with the digital transformation agenda to leverage technology for efficient energy data management and analysis.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "data governance frameworks",
+          "Description": "Foundational data infrastructure is an instance of data governance that ensures the quality, integrity, and accessibility of energy-related data.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+          "Importance": 3
+        },
+        {
+          "Subject": "energy data analytics",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Energy data analytics implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy data analytics",
+          "Relation": "focuses_on",
+          "Object": "renewable energy agencies",
+          "Description": "Energy data analytics focuses on analyzing data related to renewable energy sources to identify trends and opportunities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy modeling",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Energy modeling implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy modeling",
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Energy modeling funds research and development projects to improve energy efficiency and renewable energy technologies.",
+          "Importance": 3
+        },
+        {
+          "Subject": "energy data repositories",
+          "Relation": "implements",
+          "Object": "data privacy and security",
+          "Description": "Energy data repositories implement data privacy and security measures to protect sensitive information.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy data repositories",
+          "Relation": "funds",
+          "Object": "data privacy and security",
+          "Description": "Energy data repositories provide funding for initiatives related to data privacy and security.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

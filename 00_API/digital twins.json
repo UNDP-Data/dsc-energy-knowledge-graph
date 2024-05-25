@@ -171,49 +171,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "data integration",
-      "simulation",
-      "visualization",
-      "analytics",
-      "predictive maintenance"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data integration",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Data integration involves combining data from various sources to create a unified view of the digital twin, enabling better analysis and decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "simulation",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Simulation allows for virtual testing and optimization of the digital twin, reducing the need for physical prototypes and improving energy efficiency.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Visualization provides a graphical representation of the digital twin, aiding in understanding and communication of complex energy systems.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Analytics involves using algorithms and statistical models to analyze data from the digital twin, uncovering insights and optimizing energy performance.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "predictive maintenance",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Predictive maintenance uses data from the digital twin to anticipate and prevent equipment failures, reducing downtime and improving energy system reliability.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

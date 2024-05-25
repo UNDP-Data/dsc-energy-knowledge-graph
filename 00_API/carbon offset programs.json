@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "Entity": "carbon offset programs",
+    "Description": "Programs that allow individuals or organizations to compensate for their carbon emissions by investing in projects that reduce or remove greenhouse gas emissions.",
+    "Category": "Policy",
+    "Tags": [
+      "Climate Change Mitigation",
+      "Carbon Offsetting"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": [
+      "carbon offsetting programs"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

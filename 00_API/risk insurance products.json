@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "Entity": "risk insurance products",
+    "Description": "Insurance products designed to protect against various risks in the energy sector.",
+    "Category": "Finance",
+    "Tags": [
+      "Economic",
+      "Finance"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "risk exposure",
+      "sustainable development goals",
+      "risk management",
+      "natural disasters",
+      "green buildings",
+      "social protection",
+      "insurance companies",
+      "financial stability"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "provides",
+          "Object": "social protection",
+          "Description": "Risk insurance products provide financial protection against various risks and uncertainties, helping individuals and businesses mitigate potential losses.",
+          "Importance": 4
+        },
+        {
+          "Relation": "covers",
+          "Object": "natural disasters",
+          "Description": "Risk insurance products provide coverage for damages and losses caused by natural disasters, offering financial support for recovery and rebuilding efforts.",
+          "Importance": 4
+        },
+        {
+          "Relation": "supports",
+          "Object": "green buildings",
+          "Description": "Risk insurance products support resilience building by providing financial resources to enhance preparedness and response capabilities in the face of risks and disasters.",
+          "Importance": 3
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "insurance companies",
+          "Description": "Risk insurance products partner with insurance companies to offer comprehensive coverage and ensure the availability of insurance options for individuals and businesses.",
+          "Importance": 3
+        },
+        {
+          "Relation": "addresses",
+          "Object": "risk management",
+          "Description": "Risk insurance products address the need for effective risk management by providing financial tools and solutions to mitigate potential losses and damages.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "financial stability",
+          "Description": "Risk insurance products contribute to financial stability by reducing the impact of unexpected events and providing a safety net for individuals and businesses.",
+          "Importance": 4
+        },
+        {
+          "Relation": "measures",
+          "Object": "risk exposure",
+          "Description": "Risk insurance products measure and assess risk exposure to determine appropriate coverage and premium rates, ensuring fair and effective insurance policies.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "sustainable development goals",
+          "Description": "Risk insurance products align with sustainable development goals by promoting resilience, reducing poverty, and supporting economic growth in the face of risks and disasters.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "social protection",
+          "Relation": "implements",
+          "Object": "government programs",
+          "Description": "Social protection implements various government programs that provide financial assistance and support to vulnerable individuals and families.",
+          "Importance": 4
+        },
+        {
+          "Subject": "social protection",
+          "Relation": "funds",
+          "Object": "social welfare organizations",
+          "Description": "Social protection funds social welfare organizations that work towards improving the well-being and livelihoods of disadvantaged groups.",
+          "Importance": 3
+        },
+        {
+          "Subject": "green buildings",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Green buildings implement energy efficiency policies that promote the use of energy-saving designs and materials.",
+          "Importance": 4
+        },
+        {
+          "Subject": "green buildings",
+          "Relation": "focuses_on",
+          "Object": "sustainable construction practices",
+          "Description": "Green buildings focus on sustainable construction practices that minimize environmental impact and promote resource efficiency.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "multilateral development banks",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Multilateral development banks implement energy efficiency policies to promote sustainable energy practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "social protection",
+          "Relation": "implements",
+          "Object": "government programs",
+          "Description": "Social protection implements various government programs that provide financial assistance and support to vulnerable individuals and families.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "internet of energy",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "The internet of energy implements the Energy Efficiency Policy to promote energy-saving practices and technologies.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "Entity": "gender disparities in energy",
+    "Description": "Inequalities in access to and control over energy resources and services based on gender.",
+    "Category": "Social",
+    "Tags": [
+      "Gender",
+      "Disparities",
+      "Energy Access"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 2.0,
+    "Synonyms": [
+      "gender disparities"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}
