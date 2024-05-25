@@ -20,49 +20,7 @@
       "level 2": [],
       "level 3": []
     },
-    "sub-elements": [
-      "machine learning",
-      "deep learning",
-      "natural language processing",
-      "computer vision",
-      "reinforcement learning"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "machine learning",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Machine learning is a subfield of generative AI that focuses on the development of algorithms and models that allow computers to learn and make predictions or decisions without being explicitly programmed.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "deep learning",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Deep learning is a subfield of generative AI that uses artificial neural networks to model and understand complex patterns and relationships in data, enabling machines to perform tasks such as image and speech recognition.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "natural language processing",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Natural language processing is a subfield of generative AI that focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human language.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "computer vision",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Computer vision is a subfield of generative AI that deals with how computers can gain high-level understanding from digital images or videos, enabling machines to analyze and interpret visual data.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "reinforcement learning",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Reinforcement learning is a subfield of generative AI that focuses on how machines can learn to make decisions and take actions in an environment to maximize a reward, using trial and error.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

@@ -157,49 +157,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "Knowledge sharing",
-      "Capacity building",
-      "Technical assistance",
-      "Policy coordination",
-      "Financial support"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Knowledge sharing",
-        "Relation": "is a sub-element of",
-        "Parent": "South-South and triangular cooperation",
-        "Description": "Knowledge sharing involves the exchange of information, experiences, and best practices among countries to promote sustainable energy solutions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Capacity building",
-        "Relation": "is a sub-element of",
-        "Parent": "South-South and triangular cooperation",
-        "Description": "Capacity building focuses on enhancing the skills, knowledge, and capabilities of individuals and institutions in developing countries to implement sustainable energy projects.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Technical assistance",
-        "Relation": "is a sub-element of",
-        "Parent": "South-South and triangular cooperation",
-        "Description": "Technical assistance involves providing expertise, guidance, and support to developing countries in implementing sustainable energy initiatives.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Policy coordination",
-        "Relation": "is a sub-element of",
-        "Parent": "South-South and triangular cooperation",
-        "Description": "Policy coordination aims to align the energy policies and strategies of different countries to promote collaboration and cooperation in achieving sustainable energy goals.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "Financial support",
-        "Relation": "is a sub-element of",
-        "Parent": "South-South and triangular cooperation",
-        "Description": "Financial support involves providing funding and resources to developing countries for the implementation of sustainable energy projects.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

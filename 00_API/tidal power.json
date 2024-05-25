@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "Entity": "tidal power",
+    "Description": "Tidal power is a form of hydropower that converts the energy from the tides into electricity.",
+    "Category": "Technology",
+    "Tags": [
+      "Renewable Energy",
+      "Tidal Energy",
+      "Ocean Power"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "climate change mitigation",
+      "renewable energy agencies",
+      "research and development",
+      "energy efficiency",
+      "cogeneration",
+      "just energy transition",
+      "ocean conservation organization"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Tidal power implements Energy Efficiency Policy to promote the use of energy-saving designs and materials.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Tidal power funds Research and Development to explore new technologies and improve efficiency.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "renewable energy agencies",
+          "Description": "Tidal power focuses on Renewable Energy Sources to harness clean and sustainable energy.",
+          "Importance": 4
+        },
+        {
+          "Relation": "in",
+          "Object": "just energy transition",
+          "Description": "Tidal power is included in the Energy Transition Plan to diversify the energy mix and reduce reliance on fossil fuels.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "ocean conservation organization",
+          "Description": "Tidal power partners with Ocean Conservation Organization to ensure minimal impact on marine ecosystems.",
+          "Importance": 3
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "climate change mitigation",
+          "Description": "Tidal power contributes to Climate Change Mitigation by reducing greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "monitors",
+          "Object": "cogeneration",
+          "Description": "Tidal power monitors power generation to optimize efficiency and performance.",
+          "Importance": 3
+        },
+        {
+          "Relation": "targets",
+          "Object": "renewable energy agencies",
+          "Description": "Tidal power targets increased Renewable Energy Capacity to meet sustainability goals.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "just energy transition",
+          "Relation": "employs",
+          "Object": "renewable energy certificates",
+          "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
+          "Importance": 3
+        },
+        {
+          "Subject": "just energy transition",
+          "Relation": "collaborates_with",
+          "Object": "local communities",
+          "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
+          "Importance": 4
+        },
+        {
+          "Subject": "cogeneration",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Cogeneration implements the Energy Efficiency Policy by generating electricity and useful heat simultaneously, resulting in higher energy efficiency.",
+          "Importance": 4
+        },
+        {
+          "Subject": "cogeneration",
+          "Relation": "in",
+          "Object": "industrial sector",
+          "Description": "Cogeneration is commonly used in the industrial sector to meet the energy demands of manufacturing processes and reduce greenhouse gas emissions.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

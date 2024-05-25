@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "Entity": "energy regulatory frameworks",
+    "Description": "Legal and institutional frameworks that govern the energy sector.",
+    "Category": "Policy",
+    "Tags": [
+      "Policy",
+      "Social"
+    ],
+    "Dimension": "Social",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [
+      "data sharing agreements",
+      "renewable energy agencies",
+      "energy efficiency",
+      "government policy",
+      "energy governance",
+      "government agencies",
+      "energy markets"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy regulatory frameworks address the issue of energy access by promoting policies and regulations that ensure affordable and reliable energy services for all.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy regulatory frameworks employ renewable energy standards to encourage the adoption of clean and sustainable energy sources.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "government agencies",
+          "Description": "Energy regulatory frameworks collaborate with government agencies to develop and enforce energy policies and regulations that promote sustainable energy practices.",
+          "Importance": 3
+        },
+        {
+          "Relation": "supports",
+          "Object": "energy efficiency",
+          "Description": "Energy regulatory frameworks support energy efficiency programs to encourage energy conservation and reduce greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "renewable energy agencies",
+          "Description": "Energy regulatory frameworks administer renewable energy incentives to promote the adoption of renewable energy technologies and attract investments in the sector.",
+          "Importance": 3
+        },
+        {
+          "Relation": "measures",
+          "Object": "energy governance",
+          "Description": "Energy regulatory frameworks measure energy performance to assess the effectiveness of energy policies and regulations in achieving sustainable energy goals.",
+          "Importance": 2
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "data sharing agreements",
+          "Description": "Energy regulatory frameworks align with international climate change agreements to ensure the implementation of sustainable energy practices and reduction of greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "government policy",
+          "Description": "Energy regulatory frameworks are an instance of government policy that aims to regulate and promote sustainable energy practices.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "data sharing agreements",
+          "Relation": "addresses",
+          "Object": "data privacy",
+          "Description": "Data sharing agreements address data privacy concerns in the context of sustainable energy projects.",
+          "Importance": 3
+        },
+        {
+          "Subject": "data sharing agreements",
+          "Relation": "employs",
+          "Object": "energy data analytics",
+          "Description": "Data sharing agreements employ data analytics techniques to derive insights for sustainable energy decision-making.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

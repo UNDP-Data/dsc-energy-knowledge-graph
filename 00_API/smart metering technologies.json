@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "Entity": "smart metering technologies",
+    "Description": "Summary of smart metering technologies.",
+    "Category": "Technology",
+    "Tags": [
+      "Social",
+      "Economic",
+      "Intersectionality"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": [
+      "smart grid technology",
+      "battery technologies",
+      "smart metering technology"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "research and development",
+      "energy consumption",
+      "utility companies",
+      "energy efficiency",
+      "energy cooperatives",
+      "demand response",
+      "smart grid"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
+          "Importance": 4
+        },
+        {
+          "Relation": "funds",
+          "Object": "research and development",
+          "Description": "Smart metering technologies contribute funds to research and development projects for improving energy efficiency.",
+          "Importance": 3
+        },
+        {
+          "Relation": "focuses_on",
+          "Object": "demand response",
+          "Description": "Smart metering technologies focus on enabling demand response programs to optimize energy usage.",
+          "Importance": 3
+        },
+        {
+          "Relation": "in",
+          "Object": "smart grid",
+          "Description": "Smart metering technologies are an integral part of the smart grid infrastructure for efficient energy management.",
+          "Importance": 4
+        },
+        {
+          "Relation": "partners_with",
+          "Object": "utility companies",
+          "Description": "Smart metering technologies partner with utility companies to enable accurate billing and efficient energy management.",
+          "Importance": 4
+        },
+        {
+          "Relation": "contributes_to",
+          "Object": "energy cooperatives",
+          "Description": "Smart metering technologies contribute to energy conservation efforts by providing insights into energy usage patterns.",
+          "Importance": 3
+        },
+        {
+          "Relation": "monitors",
+          "Object": "energy consumption",
+          "Description": "Smart metering technologies monitor energy consumption in real-time to identify opportunities for energy savings.",
+          "Importance": 4
+        },
+        {
+          "Relation": "targets",
+          "Object": "energy efficiency",
+          "Description": "Smart metering technologies target improved energy efficiency by providing data-driven insights for energy management.",
+          "Importance": 4
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "energy cooperatives",
+          "Relation": "addresses",
+          "Object": "energy poverty indices",
+          "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy cooperatives",
+          "Relation": "collaborates_with",
+          "Object": "local governments",
+          "Description": "Energy cooperatives collaborate with local governments to implement renewable energy projects and promote sustainable energy practices.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

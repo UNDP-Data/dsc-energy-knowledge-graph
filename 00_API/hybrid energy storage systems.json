@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "Entity": "hybrid energy storage systems",
+    "Description": "Systems that combine multiple energy storage technologies to optimize energy storage and release.",
+    "Category": "Technology",
+    "Tags": [
+      "Technology",
+      "Economic"
+    ],
+    "Dimension": "Technology",
+    "Acronym": null,
+    "Importance": 3.0,
+    "Synonyms": [
+      "energy storage systems"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

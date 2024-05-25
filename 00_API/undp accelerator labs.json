@@ -156,49 +156,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "Innovation",
-      "Experimentation",
-      "Collaboration",
-      "Local Solutions",
-      "Sustainable Development Goals"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Innovation",
-        "Relation": "is a sub-element of",
-        "Parent": "undp accelerator labs",
-        "Description": "Innovation is a key focus of UNDP Accelerator Labs, where new ideas and approaches are developed to address sustainable energy challenges.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Experimentation",
-        "Relation": "is a sub-element of",
-        "Parent": "undp accelerator labs",
-        "Description": "Experimentation is encouraged at UNDP Accelerator Labs to test and iterate sustainable energy solutions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Collaboration",
-        "Relation": "is a sub-element of",
-        "Parent": "undp accelerator labs",
-        "Description": "Collaboration is fostered at UNDP Accelerator Labs to bring together different stakeholders and expertise for sustainable energy initiatives.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Local Solutions",
-        "Relation": "is a sub-element of",
-        "Parent": "undp accelerator labs",
-        "Description": "UNDP Accelerator Labs focus on developing and scaling up local solutions for sustainable energy, tailored to specific contexts and needs.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Sustainable Development Goals",
-        "Relation": "is a sub-element of",
-        "Parent": "undp accelerator labs",
-        "Description": "UNDP Accelerator Labs align their work with the Sustainable Development Goals (SDGs) to contribute to the global agenda for sustainable energy.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

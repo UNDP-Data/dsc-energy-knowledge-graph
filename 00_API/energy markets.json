@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "Entity": "energy markets",
+    "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+    "Category": "Economic",
+    "Tags": [
+      "Energy",
+      "Markets",
+      "Commodities"
+    ],
+    "Dimension": "Economic",
+    "Acronym": null,
+    "Importance": 4.0,
+    "Synonyms": [
+      "energy startups",
+      "energy access",
+      "energy audits",
+      "energy market",
+      "energy market monopoly"
+    ]
+  },
+  "knowledge graph": {
+    "entities": [
+      "renewable energy agencies",
+      "clean energy projects",
+      "energy consumption",
+      "climate change scenario analysis",
+      "energy pricing mechanisms",
+      "economic sector",
+      "government agencies",
+      "energy markets"
+    ],
+    "relations": {
+      "level 1": [
+        {
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+          "Importance": 3
+        },
+        {
+          "Relation": "collaborates_with",
+          "Object": "government agencies",
+          "Description": "Energy markets collaborate with government agencies to develop and implement policies and regulations that promote a sustainable and efficient energy sector.",
+          "Importance": 4
+        },
+        {
+          "Relation": "supports",
+          "Object": "clean energy projects",
+          "Description": "Energy markets support clean energy projects by providing financial incentives, grants, and subsidies to encourage their development and deployment.",
+          "Importance": 4
+        },
+        {
+          "Relation": "administers",
+          "Object": "energy pricing mechanisms",
+          "Description": "Energy markets administer energy pricing mechanisms to ensure fair and transparent pricing of energy resources and promote market competition.",
+          "Importance": 3
+        },
+        {
+          "Relation": "measures",
+          "Object": "energy consumption",
+          "Description": "Energy markets measure energy consumption to assess the demand and identify trends for effective energy planning and management.",
+          "Importance": 3
+        },
+        {
+          "Relation": "aligns_with",
+          "Object": "climate change scenario analysis",
+          "Description": "Energy markets align with climate change goals by promoting the transition to low-carbon and renewable energy sources to mitigate greenhouse gas emissions.",
+          "Importance": 4
+        },
+        {
+          "Relation": "an_instance_of",
+          "Object": "economic sector",
+          "Description": "Energy markets are an instance of the economic sector that deals with the production, distribution, and consumption of energy resources.",
+          "Importance": 3
+        }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "funds",
+          "Object": "offshore renewable energy",
+          "Description": "Climate change scenario analysis funds research on renewable energy to develop innovative solutions for sustainable energy.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "climate change scenario analysis",
+          "Relation": "implements",
+          "Object": "sustainable energy projects",
+          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+          "Importance": 4
+        },
+        {
+          "Subject": "offshore renewable energy",
+          "Relation": "implements",
+          "Object": "building standards",
+          "Description": "Offshore renewable energy implements building standards that promote the use of sustainable energy sources and technologies.",
+          "Importance": 4
+        }
+      ]
+    },
+    "sub-elements": [],
+    "subelement_relations": []
+  }
+}

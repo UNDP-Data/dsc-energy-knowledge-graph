@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "Entity": "AI for smart grid optimization",
+    "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+    "Category": "Technology",
+    "Tags": [
+      "Artificial Intelligence",
+      "Smart Grids",
+      "Energy Optimization"
+    ],
+    "Dimension": "Technology",
+    "Acronym": "AI-SGO",
+    "Importance": 4.0,
+    "Synonyms": null
+  },
+  "knowledge graph": {
+    "entities": [],
+    "relations": {
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [
+      {
+        "Sub-element": "Machine learning algorithms",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Machine learning algorithms are used in AI for smart grid optimization to analyze data and make predictions for optimizing the performance of the smart grid.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Data analytics",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Data analytics is a sub-element of AI for smart grid optimization that involves the analysis of large amounts of data collected from the smart grid to gain insights and improve its efficiency.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "Optimization models",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Optimization models are used in AI for smart grid optimization to find the best solutions for managing and controlling the smart grid operations, considering various constraints and objectives.",
+        "Importance": 4
+      }
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Machine learning algorithms",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Machine learning algorithms are used in AI for smart grid optimization to analyze data and make predictions for optimizing the performance of the smart grid.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Data analytics",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Data analytics is a sub-element of AI for smart grid optimization that involves the analysis of large amounts of data collected from the smart grid to gain insights and improve its efficiency.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "Optimization models",
+        "Relation": "is a sub-element of",
+        "Parent": "AI for smart grid optimization",
+        "Description": "Optimization models are used in AI for smart grid optimization to find the best solutions for managing and controlling the smart grid operations, considering various constraints and objectives.",
+        "Importance": 4
+      }
+    ]
+  }
+}

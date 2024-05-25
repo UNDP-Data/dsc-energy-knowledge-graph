@@ -167,49 +167,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "smart grids",
-      "energy management systems",
-      "demand response",
-      "distributed energy resources",
-      "energy storage"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "smart grids",
-        "Relation": "is a sub-element of",
-        "Parent": "internet of energy",
-        "Description": "Smart grids enable the integration of renewable energy sources, improve grid reliability, and enable real-time monitoring and control of energy distribution.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy management systems",
-        "Relation": "is a sub-element of",
-        "Parent": "internet of energy",
-        "Description": "Energy management systems optimize energy consumption, monitor energy usage patterns, and enable efficient energy planning and decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "demand response",
-        "Relation": "is a sub-element of",
-        "Parent": "internet of energy",
-        "Description": "Demand response programs incentivize consumers to adjust their energy usage during peak demand periods, reducing strain on the grid and promoting energy efficiency.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "distributed energy resources",
-        "Relation": "is a sub-element of",
-        "Parent": "internet of energy",
-        "Description": "Distributed energy resources include small-scale renewable energy systems, such as solar panels and wind turbines, that can be connected to the grid and contribute to the overall energy supply.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "energy storage",
-        "Relation": "is a sub-element of",
-        "Parent": "internet of energy",
-        "Description": "Energy storage technologies, such as batteries and pumped hydro storage, enable the efficient storage of excess energy for later use, improving grid stability and enabling renewable energy integration.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

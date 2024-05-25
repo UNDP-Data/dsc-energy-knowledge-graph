@@ -144,49 +144,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "energy simulation",
-      "energy optimization",
-      "energy analysis",
-      "energy forecasting",
-      "energy management"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "energy simulation",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Energy simulation involves the use of computer models to simulate and analyze energy systems, helping to optimize energy use and identify potential improvements.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy optimization",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Energy optimization focuses on finding the most efficient ways to use energy resources, reducing waste and maximizing energy efficiency.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Energy analysis involves the examination and evaluation of energy systems and processes to identify areas for improvement and optimization.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy forecasting",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Energy forecasting involves the use of data and models to predict future energy demand and supply, helping to inform energy planning and decision-making.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "energy management",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Energy management involves the planning, monitoring, and control of energy resources and systems to ensure efficient and sustainable energy use.",
-        "Importance": 4
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

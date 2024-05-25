@@ -164,49 +164,7 @@
         }
       ]
     },
-    "sub-elements": [
-      "data governance",
-      "data privacy",
-      "data security",
-      "data analytics",
-      "data interoperability"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data governance",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data governance refers to the overall management of the availability, usability, integrity, and security of data used in an enterprise.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data privacy",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data privacy involves the protection of personal information and ensuring that individuals have control over how their data is collected, used, and shared.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data security",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data security refers to the protection of data from unauthorized access, use, disclosure, disruption, modification, or destruction.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data analytics involves the process of examining large and varied data sets to uncover patterns, correlations, and insights that can be used to make informed decisions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data interoperability",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data interoperability refers to the ability of different systems and organizations to exchange and use data in a meaningful and efficient way.",
-        "Importance": 3
-      }
-    ]
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }
