@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "non-governmental organizations",
       "community engagement",
-      "renewable energy agencies",
-      "energy consumption",
-      "sustainable development goals",
-      "energy poverty indices",
       "just energy transition",
       "energy diplomacy",
-      "non-governmental organizations"
+      "sustainable development goals",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

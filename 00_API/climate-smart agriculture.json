@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "marginalized communities",
+      "energy for smallholder farmers",
+      "crop yields",
       "sustainable farming practices",
       "research and development",
-      "local farmers",
       "sustainable development goals",
-      "crop yields",
-      "energy for smallholder farmers"
+      "local farmers",
+      "climate change mitigation",
+      "marginalized communities"
     ],
     "relations": {
       "level 1": [
@@ -129,7 +129,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "crop diversification",
+      "agroforestry",
+      "conservation agriculture",
+      "precision agriculture",
+      "climate-resilient crops"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "crop diversification",
+        "Relation": "is a sub-element of",
+        "Parent": "climate-smart agriculture",
+        "Description": "Crop diversification is a key component of climate-smart agriculture, which involves growing a variety of crops in a single area. This practice helps to enhance resilience to climate change by reducing the risk of crop failure and increasing overall productivity.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "agroforestry",
+        "Relation": "is a sub-element of",
+        "Parent": "climate-smart agriculture",
+        "Description": "Agroforestry is an important practice within climate-smart agriculture that involves integrating trees and shrubs with crops and livestock. It provides multiple benefits such as improved soil fertility, increased biodiversity, and enhanced climate resilience.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "conservation agriculture",
+        "Relation": "is a sub-element of",
+        "Parent": "climate-smart agriculture",
+        "Description": "Conservation agriculture is a key approach within climate-smart agriculture that promotes sustainable and resource-efficient farming practices. It involves minimizing soil disturbance, maintaining soil cover, and practicing crop rotation to improve soil health, water retention, and overall productivity.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "precision agriculture",
+        "Relation": "is a sub-element of",
+        "Parent": "climate-smart agriculture",
+        "Description": "Precision agriculture is an advanced farming technique that utilizes technology and data to optimize crop production while minimizing resource inputs. It involves the use of sensors, GPS, drones, and other tools to monitor and manage crops with precision, leading to increased efficiency and reduced environmental impact.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "climate-resilient crops",
+        "Relation": "is a sub-element of",
+        "Parent": "climate-smart agriculture",
+        "Description": "Climate-resilient crops are specific varieties or species of crops that are bred or selected to withstand and adapt to the impacts of climate change. These crops possess traits such as drought tolerance, heat resistance, disease resistance, and improved nutrient efficiency, contributing to the overall resilience of agricultural systems.",
+        "Importance": 4
+      }
+    ]
   }
 }

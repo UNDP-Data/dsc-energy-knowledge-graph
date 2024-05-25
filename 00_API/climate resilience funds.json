@@ -19,13 +19,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change impacts",
-      "climate adaptation strategies",
-      "national disaster management agencies",
-      "climate finance mechanisms",
-      "Paris Agreement Goals",
       "community-based energy resilience programs",
-      "climate resilience funds"
+      "climate resilience funds",
+      "climate finance mechanisms",
+      "climate adaptation strategies",
+      "climate change impacts",
+      "national disaster management agencies",
+      "Paris Agreement Goals"
     ],
     "relations": {
       "level 1": [

@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "local governments",
+      "energy markets",
       "community-led solutions",
       "climate change mitigation",
-      "renewable energy agencies",
       "energy consumption",
-      "local governments",
-      "rural areas",
       "building standards",
-      "energy markets"
+      "renewable energy agencies",
+      "rural areas"
     ],
     "relations": {
       "level 1": [
@@ -152,7 +152,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "microgrids",
+      "off-grid systems",
+      "distributed generation",
+      "energy storage",
+      "smart grids"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "microgrids",
+        "Relation": "is a sub-element of",
+        "Parent": "decentralized energy systems",
+        "Description": "Microgrids are a sub-component of decentralized energy systems. They are small-scale power grids that can operate independently or in conjunction with the main power grid. They provide localized energy generation and distribution, increasing energy resilience and reducing transmission losses.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "off-grid systems",
+        "Relation": "is a sub-element of",
+        "Parent": "decentralized energy systems",
+        "Description": "Off-grid systems are a type of decentralized energy system that operate independently from the main power grid. They typically rely on renewable energy sources and are commonly used in remote areas where grid connection is not feasible. Off-grid systems provide access to electricity in underserved communities.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "distributed generation",
+        "Relation": "is a sub-element of",
+        "Parent": "decentralized energy systems",
+        "Description": "Distributed generation is a key component of decentralized energy systems. It refers to the generation of electricity from multiple small-scale sources located near the point of consumption. Distributed generation reduces transmission losses, enhances energy security, and promotes renewable energy integration.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy storage",
+        "Relation": "is a sub-element of",
+        "Parent": "decentralized energy systems",
+        "Description": "Energy storage is an essential part of decentralized energy systems. It involves the capture and storage of excess energy for later use. Energy storage technologies enable the integration of intermittent renewable energy sources, enhance grid stability, and support load management.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "smart grids",
+        "Relation": "is a sub-element of",
+        "Parent": "decentralized energy systems",
+        "Description": "Smart grids are a category of decentralized energy systems. They utilize advanced communication and control technologies to optimize the generation, distribution, and consumption of electricity. Smart grids enable efficient energy management, demand response, and integration of renewable energy sources.",
+        "Importance": 4
+      }
+    ]
   }
 }

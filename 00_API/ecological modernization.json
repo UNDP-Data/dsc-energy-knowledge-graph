@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "circular economy",
-      "climate change mitigation",
       "renewable energy agencies",
-      "energy consumption",
       "energy efficiency",
       "just energy transition",
-      "clean energy companies"
+      "climate change mitigation",
+      "energy consumption",
+      "clean energy companies",
+      "circular economy"
     ],
     "relations": {
       "level 1": [

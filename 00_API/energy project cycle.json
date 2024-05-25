@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "energy access program",
-      "energy consumption",
-      "local governments",
       "energy efficiency",
+      "sustainable energy solutions",
+      "local governments",
+      "climate change mitigation",
+      "energy consumption",
       "energy poverty indices",
-      "sustainable energy solutions"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -156,7 +156,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "project identification",
+      "project preparation",
+      "project implementation",
+      "project evaluation",
+      "project closure"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "project identification",
+        "Relation": "is a sub-element of",
+        "Parent": "energy project cycle",
+        "Description": "Project identification is the initial phase of the energy project cycle, where potential projects are identified based on the energy needs and priorities of a specific region or community. This phase involves conducting feasibility studies, assessing the technical and economic viability of the project, and identifying potential stakeholders and partners.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "project preparation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy project cycle",
+        "Description": "Project preparation is the phase of the energy project cycle where detailed planning and preparation activities are carried out. This includes developing a project design, conducting environmental and social impact assessments, securing necessary permits and approvals, and preparing a detailed project implementation plan.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "project implementation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy project cycle",
+        "Description": "Project implementation is the phase of the energy project cycle where the actual construction, installation, and operation of the energy project take place. This phase involves procuring equipment and materials, hiring contractors and workers, managing project timelines and budgets, and ensuring compliance with relevant regulations and standards.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "project evaluation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy project cycle",
+        "Description": "Project evaluation is the phase of the energy project cycle where the performance and impact of the completed project are assessed. This includes monitoring the project's energy generation or savings, evaluating its environmental and social outcomes, and analyzing its financial and economic viability. The findings from the evaluation are used to improve future project designs and inform decision-making.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "project closure",
+        "Relation": "is a sub-element of",
+        "Parent": "energy project cycle",
+        "Description": "Project closure is the final phase of the energy project cycle, where the project is formally closed and handed over to the relevant stakeholders or operators. This phase involves conducting final inspections, preparing project completion reports, addressing any outstanding issues or obligations, and transitioning the project to its long-term operation and maintenance phase.",
+        "Importance": 4
+      }
+    ]
   }
 }

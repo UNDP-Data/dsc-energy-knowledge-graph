@@ -15,11 +15,11 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy modeling",
-      "energy consumption",
       "renewable energy certificates",
+      "energy modeling",
       "energy efficiency",
-      "energy democracy"
+      "energy democracy",
+      "energy consumption"
     ],
     "relations": {
       "level 1": [

@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
       "satellite imagery",
-      "sustainable development goals",
-      "renewable energy monitoring programs",
-      "geospatial technology",
-      "environmental research institutions",
       "renewable energy potential mapping",
-      "vegetation index"
+      "environmental research institutions",
+      "geospatial technology",
+      "sustainable development goals",
+      "climate change mitigation",
+      "vegetation index",
+      "renewable energy monitoring programs"
     ],
     "relations": {
       "level 1": [
@@ -78,7 +78,49 @@
       "level 2": [],
       "level 3": []
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "satellite imagery",
+      "radar remote sensing",
+      "LiDAR remote sensing",
+      "hyperspectral remote sensing",
+      "thermal remote sensing"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "satellite imagery",
+        "Relation": "is a sub-element of",
+        "Parent": "remote sensing",
+        "Description": "Satellite imagery is a sub-element of remote sensing, which involves the acquisition of images of the Earth's surface using satellites. It provides valuable information for various applications, including environmental monitoring, land use planning, and disaster management.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "radar remote sensing",
+        "Relation": "is a sub-element of",
+        "Parent": "remote sensing",
+        "Description": "Radar remote sensing is a sub-element of remote sensing that uses radar signals to measure the properties of objects on the Earth's surface. It is particularly useful for applications such as mapping terrain, detecting changes in land cover, and monitoring ocean currents.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "LiDAR remote sensing",
+        "Relation": "is a sub-element of",
+        "Parent": "remote sensing",
+        "Description": "LiDAR remote sensing is a sub-element of remote sensing that uses laser pulses to measure the distance to objects on the Earth's surface. It is commonly used for creating high-resolution elevation models, mapping vegetation structure, and assessing forest biomass.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "hyperspectral remote sensing",
+        "Relation": "is a sub-element of",
+        "Parent": "remote sensing",
+        "Description": "Hyperspectral remote sensing is a sub-element of remote sensing that captures images in many narrow spectral bands, allowing for detailed analysis of the Earth's surface. It is used for applications such as mineral exploration, crop health monitoring, and pollution detection.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "thermal remote sensing",
+        "Relation": "is a sub-element of",
+        "Parent": "remote sensing",
+        "Description": "Thermal remote sensing is a sub-element of remote sensing that measures the thermal radiation emitted by objects on the Earth's surface. It is used for applications such as monitoring volcanic activity, detecting heat loss in buildings, and assessing water temperature in lakes and rivers.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -19,14 +19,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "gender experts",
-      "women's rights organizations",
-      "gender equality",
       "gender disparities in energy",
-      "gender inequality",
-      "inclusive energy planning",
+      "gender experts",
       "un sustainable development goals",
-      "gender mainstreaming"
+      "inclusive energy planning",
+      "gender equality",
+      "gender mainstreaming",
+      "women's rights organizations",
+      "gender inequality"
     ],
     "relations": {
       "level 1": [
@@ -133,7 +133,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "gender analysis",
+      "gender-responsive budgeting",
+      "gender-responsive policies",
+      "gender-responsive programming",
+      "gender-responsive evaluation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "gender analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "gender mainstreaming",
+        "Description": "Gender analysis is a key component of gender mainstreaming. It involves the systematic collection and analysis of sex-disaggregated data to understand the different needs, roles, and opportunities of women and men in a given context.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-responsive budgeting",
+        "Relation": "is a sub-element of",
+        "Parent": "gender mainstreaming",
+        "Description": "Gender-responsive budgeting is an important tool for gender mainstreaming. It involves the integration of a gender perspective into the budgeting process to ensure that resources are allocated in a way that addresses gender inequalities and promotes gender equality.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-responsive policies",
+        "Relation": "is a sub-element of",
+        "Parent": "gender mainstreaming",
+        "Description": "Gender-responsive policies are a key outcome of gender mainstreaming. They are policies that take into account the different needs, priorities, and experiences of women and men, and aim to promote gender equality and women's empowerment.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-responsive programming",
+        "Relation": "is a sub-element of",
+        "Parent": "gender mainstreaming",
+        "Description": "Gender-responsive programming is an essential aspect of gender mainstreaming. It involves the design, implementation, and monitoring of development programs and projects that address gender inequalities and promote gender equality.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-responsive evaluation",
+        "Relation": "is a sub-element of",
+        "Parent": "gender mainstreaming",
+        "Description": "Gender-responsive evaluation is a critical component of gender mainstreaming. It involves the assessment of the gender impacts and outcomes of policies, programs, and projects to ensure that they are effectively addressing gender inequalities and promoting gender equality.",
+        "Importance": 4
+      }
+    ]
   }
 }

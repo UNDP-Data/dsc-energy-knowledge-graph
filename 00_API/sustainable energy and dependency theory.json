@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy access index",
-      "academic institutions",
-      "renewable energy agencies",
-      "community-based renewable energy projects",
-      "sustainable development goals",
       "energy and health",
+      "energy access index",
       "energy efficiency",
-      "just energy transition"
+      "just energy transition",
+      "sustainable development goals",
+      "community-based renewable energy projects",
+      "renewable energy agencies",
+      "academic institutions"
     ],
     "relations": {
       "level 1": [

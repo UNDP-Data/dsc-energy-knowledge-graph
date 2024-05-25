@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "public consultations",
-      "capacity building",
-      "multi-stakeholder partnerships",
+      "good governance principles",
+      "citizen engagement",
       "local communities",
       "democratic governance",
-      "good governance principles",
       "social inclusion",
-      "citizen engagement"
+      "capacity building",
+      "public consultations",
+      "multi-stakeholder partnerships"
     ],
     "relations": {
       "level 1": [

@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy consumption",
-      "smart metering technologies",
       "sustainable energy transition initiative",
       "energy efficiency",
+      "smart metering technologies",
+      "energy consumption",
       "carbon emission reduction",
-      "clean energy companies"
+      "clean energy companies",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

@@ -15,15 +15,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "local ngos",
-      "energy consumption",
-      "sustainable development goals",
-      "energy and health",
-      "building standards",
-      "energy poverty indices",
       "urban areas",
-      "community engagement"
+      "energy and health",
+      "community engagement",
+      "sustainable development goals",
+      "energy consumption",
+      "energy poverty indices",
+      "local ngos",
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -157,7 +157,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Solar home systems",
+      "Mini-grids",
+      "Improved cookstoves",
+      "Biogas digesters",
+      "Community-based renewable energy projects"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Solar home systems",
+        "Relation": "is a sub-element of",
+        "Parent": "energy access for informal settlements",
+        "Description": "Solar home systems are a sub-component of energy access for informal settlements. They provide individual households with electricity through solar panels and batteries, enabling them to meet their basic energy needs.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Mini-grids",
+        "Relation": "is a sub-element of",
+        "Parent": "energy access for informal settlements",
+        "Description": "Mini-grids are a sub-component of energy access for informal settlements. They are small-scale electricity distribution systems that serve a localized group of users, typically in rural or remote areas. Mini-grids can provide reliable and affordable electricity to informal settlements.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Improved cookstoves",
+        "Relation": "is a sub-element of",
+        "Parent": "energy access for informal settlements",
+        "Description": "Improved cookstoves are a sub-component of energy access for informal settlements. They are designed to be more efficient and cleaner than traditional cookstoves, reducing indoor air pollution and fuel consumption in households.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Biogas digesters",
+        "Relation": "is a sub-element of",
+        "Parent": "energy access for informal settlements",
+        "Description": "Biogas digesters are a sub-component of energy access for informal settlements. They convert organic waste into biogas, which can be used for cooking, heating, and lighting in households. Biogas digesters provide a sustainable and renewable source of energy for informal settlements.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Community-based renewable energy projects",
+        "Relation": "is a sub-element of",
+        "Parent": "energy access for informal settlements",
+        "Description": "Community-based renewable energy projects are a sub-component of energy access for informal settlements. These projects involve the development and implementation of renewable energy systems, such as solar or wind power, at the community level. They aim to provide sustainable and affordable energy solutions to informal settlements.",
+        "Importance": 4
+      }
+    ]
   }
 }

@@ -16,13 +16,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy entrepreneurship",
-      "knowledge exchange",
-      "sustainable development goals",
       "technology diffusion",
-      "capacity building programs",
+      "energy entrepreneurship",
+      "technology transfer",
+      "sustainable development goals",
       "research institutions",
-      "technology transfer"
+      "knowledge exchange",
+      "capacity building programs"
     ],
     "relations": {
       "level 1": [
@@ -130,7 +130,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "knowledge transfer",
+      "capacity building",
+      "policy transfer",
+      "financial transfer",
+      "technology adaptation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "knowledge transfer",
+        "Relation": "is a sub-element of",
+        "Parent": "technology transfer",
+        "Description": "Knowledge transfer is an essential aspect of technology transfer, involving the exchange and dissemination of knowledge, skills, and expertise related to sustainable energy technologies. It enables the adoption and implementation of new technologies in different contexts.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "capacity building",
+        "Relation": "is a sub-element of",
+        "Parent": "technology transfer",
+        "Description": "Capacity building is a crucial component of technology transfer, focusing on enhancing the knowledge, skills, and capabilities of individuals, organizations, and communities to effectively adopt, utilize, and maintain sustainable energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "policy transfer",
+        "Relation": "is a sub-element of",
+        "Parent": "technology transfer",
+        "Description": "Policy transfer is an important element of technology transfer, involving the transfer and adaptation of policies, regulations, and frameworks that facilitate the deployment and integration of sustainable energy technologies in different regions and jurisdictions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "financial transfer",
+        "Relation": "is a sub-element of",
+        "Parent": "technology transfer",
+        "Description": "Financial transfer is a critical aspect of technology transfer, encompassing the provision of financial resources, investments, and funding mechanisms to support the adoption, deployment, and scaling up of sustainable energy technologies.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "technology adaptation",
+        "Relation": "is a sub-element of",
+        "Parent": "technology transfer",
+        "Description": "Technology adaptation is an integral part of technology transfer, involving the modification, customization, or adjustment of existing sustainable energy technologies to suit specific local conditions, requirements, and constraints.",
+        "Importance": 4
+      }
+    ]
   }
 }

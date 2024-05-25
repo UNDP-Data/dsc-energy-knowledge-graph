@@ -100,7 +100,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "legislation",
+      "regulation",
+      "standards",
+      "best practices",
+      "incident response"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "legislation",
+        "Relation": "is a sub-element of",
+        "Parent": "cybersecurity policy",
+        "Description": "Legislation refers to the laws and regulations that govern cybersecurity practices. It provides a legal framework for organizations and individuals to follow in order to protect their digital assets and ensure the security of their networks and systems.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "regulation",
+        "Relation": "is a sub-element of",
+        "Parent": "cybersecurity policy",
+        "Description": "Regulation involves the enforcement and monitoring of cybersecurity policies and practices. It ensures that organizations comply with the established rules and guidelines to maintain a secure and resilient cyber environment.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "standards",
+        "Relation": "is a sub-element of",
+        "Parent": "cybersecurity policy",
+        "Description": "Standards define the technical requirements and specifications for implementing cybersecurity measures. They provide guidelines for organizations to follow in order to achieve a certain level of security and interoperability.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "best practices",
+        "Relation": "is a sub-element of",
+        "Parent": "cybersecurity policy",
+        "Description": "Best practices refer to the recommended approaches and methodologies for implementing effective cybersecurity measures. They are based on industry standards and lessons learned from previous experiences.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "incident response",
+        "Relation": "is a sub-element of",
+        "Parent": "cybersecurity policy",
+        "Description": "Incident response involves the procedures and protocols for handling and mitigating cybersecurity incidents. It includes the detection, analysis, containment, eradication, and recovery from security breaches or attacks.",
+        "Importance": 4
+      }
+    ]
   }
 }

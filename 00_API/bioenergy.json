@@ -16,14 +16,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "sustainable biomass production",
-      "climate change mitigation",
-      "rural electrification",
+      "bioenergy production",
       "research and development",
-      "local communities",
+      "sustainable biomass production",
       "renewable energy certificates",
+      "local communities",
       "energy efficiency",
-      "bioenergy production"
+      "climate change mitigation",
+      "rural electrification"
     ],
     "relations": {
       "level 1": [
@@ -137,7 +137,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "biomass",
+      "biofuels",
+      "biogas",
+      "bioelectricity",
+      "biochemicals"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "bioenergy",
+        "Description": "Biomass is a sub-component of bioenergy, referring to organic materials such as wood, crops, and agricultural residues that can be used as a renewable energy source. It can be converted into heat, electricity, or biofuels.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "biofuels",
+        "Relation": "is a sub-element of",
+        "Parent": "bioenergy",
+        "Description": "Biofuels are a sub-component of bioenergy, referring to liquid or gaseous fuels derived from biomass. They can be used as a substitute for fossil fuels in transportation and other energy applications.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "biogas",
+        "Relation": "is a sub-element of",
+        "Parent": "bioenergy",
+        "Description": "Biogas is a sub-component of bioenergy, referring to a mixture of gases produced by the anaerobic digestion or fermentation of organic matter. It can be used for heating, electricity generation, and as a vehicle fuel.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "bioelectricity",
+        "Relation": "is a sub-element of",
+        "Parent": "bioenergy",
+        "Description": "Bioelectricity is a sub-component of bioenergy, referring to electricity generated from biomass through processes such as combustion, gasification, or anaerobic digestion. It can contribute to renewable energy generation and reduce greenhouse gas emissions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "biochemicals",
+        "Relation": "is a sub-element of",
+        "Parent": "bioenergy",
+        "Description": "Biochemicals are a sub-component of bioenergy, referring to chemicals produced from biomass through biological processes. They can be used as alternatives to fossil-based chemicals in various industries.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -16,14 +16,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
       "research and development",
-      "energy consumption",
-      "renewable energy certificates",
+      "micro grids",
       "utility companies",
+      "renewable energy certificates",
       "energy efficiency",
-      "building standards",
-      "micro grids"
+      "climate change mitigation",
+      "energy consumption",
+      "building standards"
     ],
     "relations": {
       "level 1": [
@@ -151,7 +151,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "battery energy storage systems",
+      "flywheel energy storage systems",
+      "compressed air energy storage systems",
+      "thermal energy storage systems",
+      "hydrogen energy storage systems"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "battery energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "resilient energy storage systems",
+        "Description": "Battery energy storage systems are a type of resilient energy storage systems that store electrical energy in rechargeable batteries. They are commonly used to store energy from renewable sources and provide backup power during outages.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "flywheel energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "resilient energy storage systems",
+        "Description": "Flywheel energy storage systems are a type of resilient energy storage systems that store kinetic energy in a rotating flywheel. They are used to provide short-term backup power and stabilize electrical grids.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "compressed air energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "resilient energy storage systems",
+        "Description": "Compressed air energy storage systems are a type of resilient energy storage systems that store energy by compressing air and releasing it to generate electricity. They are suitable for large-scale energy storage and can help balance the supply and demand of electricity.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "thermal energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "resilient energy storage systems",
+        "Description": "Thermal energy storage systems are a type of resilient energy storage systems that store heat or cold for later use. They can be used to store excess heat from renewable energy sources or provide cooling during peak demand periods.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "hydrogen energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "resilient energy storage systems",
+        "Description": "Hydrogen energy storage systems are a type of resilient energy storage systems that store hydrogen gas for later use in fuel cells or combustion engines. They can be used to store excess renewable energy and provide clean power when needed.",
+        "Importance": 4
+      }
+    ]
   }
 }

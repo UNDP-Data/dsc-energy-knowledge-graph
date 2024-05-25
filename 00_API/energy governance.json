@@ -18,14 +18,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "energy efficiency",
-      "energy poverty indices",
       "national energy policy",
-      "energy democracy",
       "energy markets",
+      "energy democracy",
+      "climate change mitigation",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies",
       "private sector"
     ],
     "relations": {

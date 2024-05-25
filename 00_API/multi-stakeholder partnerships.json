@@ -17,11 +17,11 @@
   },
   "knowledge graph": {
     "entities": [
+      "carbon pricing",
       "collaborative decision-making",
       "capacity building",
-      "sustainable development goals",
-      "carbon pricing",
       "energy efficiency",
+      "sustainable development goals",
       "collaborative governance",
       "private sector"
     ],
@@ -159,7 +159,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Public-private partnerships",
+      "Civil society partnerships",
+      "Academic partnerships",
+      "Community partnerships",
+      "International partnerships"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Public-private partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-stakeholder partnerships",
+        "Description": "Public-private partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and private sector organizations. These partnerships leverage the resources, expertise, and networks of both sectors to address sustainable energy challenges.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Civil society partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-stakeholder partnerships",
+        "Description": "Civil society partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and non-governmental organizations (NGOs). These partnerships bring together diverse perspectives, knowledge, and resources to promote sustainable energy initiatives and advocate for policy changes.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Academic partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-stakeholder partnerships",
+        "Description": "Academic partnerships are a type of multi-stakeholder partnership that involve collaboration between educational institutions and other stakeholders. These partnerships facilitate research, knowledge sharing, and capacity building in the field of sustainable energy, contributing to innovation and informed decision-making.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Community partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-stakeholder partnerships",
+        "Description": "Community partnerships are a type of multi-stakeholder partnership that involve collaboration between local communities and various stakeholders. These partnerships empower communities to actively participate in sustainable energy projects, ensuring their needs and priorities are considered in decision-making processes.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "International partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-stakeholder partnerships",
+        "Description": "International partnerships are a type of multi-stakeholder partnership that involve collaboration between different countries or global organizations. These partnerships promote knowledge exchange, resource sharing, and coordinated efforts to address global sustainable energy challenges and achieve common goals.",
+        "Importance": 4
+      }
+    ]
   }
 }

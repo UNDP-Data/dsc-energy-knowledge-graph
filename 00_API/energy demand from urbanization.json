@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy consumption",
-      "sustainable development goals",
       "energy efficiency incentive programs",
       "smart metering technologies",
       "energy efficiency",
+      "just energy transition",
+      "sustainable development goals",
+      "energy consumption",
       "city planning departments",
-      "just energy transition"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "residential energy demand",
+      "commercial energy demand",
+      "transportation energy demand",
+      "industrial energy demand",
+      "public sector energy demand"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "residential energy demand",
+        "Relation": "is a sub-element of",
+        "Parent": "energy demand from urbanization",
+        "Description": "Residential energy demand refers to the energy consumption by households for heating, cooling, lighting, and appliances. As urbanization increases, the demand for residential energy also rises due to the growing number of urban dwellings.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "commercial energy demand",
+        "Relation": "is a sub-element of",
+        "Parent": "energy demand from urbanization",
+        "Description": "Commercial energy demand includes the energy required for offices, retail spaces, hotels, and other commercial buildings. As urban areas expand, the demand for commercial energy increases to support economic activities.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "transportation energy demand",
+        "Relation": "is a sub-element of",
+        "Parent": "energy demand from urbanization",
+        "Description": "Transportation energy demand refers to the energy needed for transportation systems, including private vehicles, public transportation, and freight. Urbanization leads to higher transportation energy demand due to increased mobility and commuting.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "industrial energy demand",
+        "Relation": "is a sub-element of",
+        "Parent": "energy demand from urbanization",
+        "Description": "Industrial energy demand represents the energy consumption by manufacturing facilities, factories, and industrial processes. As urbanization drives economic growth and industrialization, the demand for industrial energy also rises.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "public sector energy demand",
+        "Relation": "is a sub-element of",
+        "Parent": "energy demand from urbanization",
+        "Description": "Public sector energy demand includes the energy required for government buildings, schools, hospitals, and other public infrastructure. As urban areas expand, the demand for public sector energy increases to support the provision of public services.",
+        "Importance": 2
+      }
+    ]
   }
 }

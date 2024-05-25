@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy consumption",
-      "energy transport systems",
+      "energy distribution",
       "utility companies",
       "energy efficiency",
-      "energy distribution",
-      "energy resilience",
-      "demand response"
+      "energy consumption",
+      "demand response",
+      "energy transport systems",
+      "renewable energy agencies",
+      "energy resilience"
     ],
     "relations": {
       "level 1": [
@@ -164,7 +164,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "demand response",
+      "energy storage",
+      "grid management",
+      "renewable integration",
+      "data analytics"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "demand response",
+        "Relation": "is a sub-element of",
+        "Parent": "smart grid optimization",
+        "Description": "Demand response is a key component of smart grid optimization, allowing for the adjustment of electricity usage in response to supply and demand conditions. It helps to balance the grid and reduce the need for additional generation capacity.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy storage",
+        "Relation": "is a sub-element of",
+        "Parent": "smart grid optimization",
+        "Description": "Energy storage plays a crucial role in smart grid optimization by storing excess electricity during low demand periods and releasing it during high demand periods. It helps to improve grid stability, reliability, and efficiency.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "grid management",
+        "Relation": "is a sub-element of",
+        "Parent": "smart grid optimization",
+        "Description": "Grid management is an essential aspect of smart grid optimization, involving the monitoring, control, and optimization of electricity distribution. It ensures efficient and reliable operation of the grid.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "renewable integration",
+        "Relation": "is a sub-element of",
+        "Parent": "smart grid optimization",
+        "Description": "Renewable integration is a critical component of smart grid optimization, enabling the seamless integration of renewable energy sources into the grid. It involves managing the variability and intermittency of renewable generation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data analytics",
+        "Relation": "is a sub-element of",
+        "Parent": "smart grid optimization",
+        "Description": "Data analytics plays a vital role in smart grid optimization by analyzing large volumes of data from various sources, such as smart meters and sensors. It helps to optimize grid operations, improve energy efficiency, and enable predictive maintenance.",
+        "Importance": 4
+      }
+    ]
   }
 }

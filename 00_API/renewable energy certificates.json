@@ -22,12 +22,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy markets",
+      "solar power",
       "energy efficiency",
+      "energy markets",
+      "climate change mitigation",
       "clean energy research",
-      "solar power"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

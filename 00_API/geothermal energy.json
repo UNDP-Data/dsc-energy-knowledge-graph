@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy production",
       "research and development",
       "local communities",
       "energy efficiency",
-      "just energy transition"
+      "just energy transition",
+      "climate change mitigation",
+      "energy production",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -149,7 +149,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "geothermal power plants",
+      "geothermal heat pumps",
+      "geothermal reservoirs",
+      "geothermal drilling",
+      "geothermal energy exploration"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "geothermal power plants",
+        "Relation": "is a sub-element of",
+        "Parent": "geothermal energy",
+        "Description": "Geothermal power plants are a sub-component of geothermal energy. They harness the heat from the Earth's core to generate electricity. This process involves drilling wells into geothermal reservoirs and using the steam or hot water to drive turbines.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "geothermal heat pumps",
+        "Relation": "is a sub-element of",
+        "Parent": "geothermal energy",
+        "Description": "Geothermal heat pumps are a type of geothermal energy technology used for heating and cooling buildings. They utilize the constant temperature of the Earth to transfer heat from the ground to buildings in winter and vice versa in summer.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "geothermal reservoirs",
+        "Relation": "is a sub-element of",
+        "Parent": "geothermal energy",
+        "Description": "Geothermal reservoirs are underground areas where hot water or steam is trapped. They are essential for the extraction of geothermal energy as they provide the source of heat that can be harnessed for various applications.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "geothermal drilling",
+        "Relation": "is a sub-element of",
+        "Parent": "geothermal energy",
+        "Description": "Geothermal drilling is the process of creating boreholes in the Earth's crust to access geothermal reservoirs. It involves specialized drilling techniques and equipment to reach the desired depth and extract the geothermal resources.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "geothermal energy exploration",
+        "Relation": "is a sub-element of",
+        "Parent": "geothermal energy",
+        "Description": "Geothermal energy exploration is the process of identifying and assessing potential geothermal resources. It involves geological surveys, data analysis, and exploration drilling to determine the viability and capacity of geothermal energy production in a specific area.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -18,14 +18,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "smart metering technologies",
       "energy efficiency",
+      "climate change mitigation",
+      "energy consumption",
       "energy poverty indices",
+      "clean energy companies",
       "energy access initiative",
-      "clean energy companies"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "adaptation projects",
-      "renewable energy agencies",
-      "greenhouse gas emissions",
       "climate action plans",
+      "greenhouse gas emissions",
+      "regional energy organizations",
+      "adaptation projects",
+      "climate change mitigation",
       "climate finance mechanisms",
-      "Paris Agreement Goals",
-      "regional energy organizations"
+      "renewable energy agencies",
+      "Paris Agreement Goals"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "mitigation",
+      "adaptation",
+      "finance",
+      "technology transfer",
+      "capacity building"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "mitigation",
+        "Relation": "is a sub-element of",
+        "Parent": "nationally determined contributions",
+        "Description": "Mitigation refers to the efforts made by countries to reduce greenhouse gas emissions and limit the impacts of climate change. Nationally determined contributions include specific targets and actions related to mitigation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "adaptation",
+        "Relation": "is a sub-element of",
+        "Parent": "nationally determined contributions",
+        "Description": "Adaptation refers to the actions taken to adjust to the impacts of climate change and build resilience. Nationally determined contributions may include measures to enhance adaptive capacity and reduce vulnerability.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "finance",
+        "Relation": "is a sub-element of",
+        "Parent": "nationally determined contributions",
+        "Description": "Finance is an important aspect of nationally determined contributions, as it involves the provision of financial resources to support climate change mitigation and adaptation efforts. This can include both domestic and international funding.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "technology transfer",
+        "Relation": "is a sub-element of",
+        "Parent": "nationally determined contributions",
+        "Description": "Technology transfer refers to the sharing of knowledge, skills, and technologies between countries to support sustainable development and address climate change. Nationally determined contributions may include provisions for technology transfer to enhance mitigation and adaptation efforts.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "capacity building",
+        "Relation": "is a sub-element of",
+        "Parent": "nationally determined contributions",
+        "Description": "Capacity building involves strengthening the skills, knowledge, and institutions necessary to effectively implement climate change mitigation and adaptation measures. Nationally determined contributions may include capacity building activities to support their implementation.",
+        "Importance": 2
+      }
+    ]
   }
 }

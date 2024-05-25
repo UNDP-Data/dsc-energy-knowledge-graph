@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "policy development",
-      "energy consumption",
-      "sustainable development goals",
-      "community outreach",
       "energy efficiency",
+      "community outreach",
       "just energy transition",
+      "sustainable development goals",
+      "energy consumption",
+      "policy development",
+      "renewable energy agencies",
       "government agencies"
     ],
     "relations": {
@@ -150,7 +150,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "public consultations",
+      "multi-stakeholder dialogues",
+      "community engagement",
+      "stakeholder surveys",
+      "partnership platforms"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "public consultations",
+        "Relation": "is a sub-element of",
+        "Parent": "stakeholder engagement mechanisms",
+        "Description": "Public consultations are a key stakeholder engagement mechanism that involves seeking input and feedback from the general public on sustainable energy projects and policies. It allows for transparency, inclusivity, and democratic decision-making.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "multi-stakeholder dialogues",
+        "Relation": "is a sub-element of",
+        "Parent": "stakeholder engagement mechanisms",
+        "Description": "Multi-stakeholder dialogues are a participatory approach to stakeholder engagement in sustainable energy. They bring together representatives from various sectors and interest groups to discuss and collaborate on energy-related issues, fostering cooperation and consensus-building.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "community engagement",
+        "Relation": "is a sub-element of",
+        "Parent": "stakeholder engagement mechanisms",
+        "Description": "Community engagement is a vital component of stakeholder engagement in sustainable energy. It involves actively involving local communities in decision-making processes, project planning, and implementation, ensuring their needs, concerns, and aspirations are considered and addressed.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "stakeholder surveys",
+        "Relation": "is a sub-element of",
+        "Parent": "stakeholder engagement mechanisms",
+        "Description": "Stakeholder surveys are a method of gathering feedback and opinions from stakeholders involved in sustainable energy initiatives. They provide valuable insights into stakeholder perspectives, preferences, and priorities, helping to inform decision-making and improve project outcomes.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "partnership platforms",
+        "Relation": "is a sub-element of",
+        "Parent": "stakeholder engagement mechanisms",
+        "Description": "Partnership platforms are collaborative spaces or networks that bring together diverse stakeholders, including government agencies, NGOs, businesses, and communities, to jointly address sustainable energy challenges. They facilitate knowledge sharing, resource mobilization, and collective action.",
+        "Importance": 3
+      }
+    ]
   }
 }

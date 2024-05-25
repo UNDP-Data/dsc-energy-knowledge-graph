@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "geospatial information systems",
-      "renewable energy agencies",
-      "sustainable development goals",
       "carbon pricing",
-      "urban planning departments",
+      "geospatial information systems",
+      "energy infrastructure services",
       "energy efficiency",
+      "sustainable development goals",
+      "renewable energy agencies",
       "energy resilience",
-      "energy infrastructure services"
+      "urban planning departments"
     ],
     "relations": {
       "level 1": [
@@ -166,7 +166,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "data collection",
+      "data analysis",
+      "data visualization",
+      "spatial analysis",
+      "geodatabase management"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "data collection",
+        "Relation": "is a sub-element of",
+        "Parent": "geospatial information systems",
+        "Description": "Data collection is a fundamental aspect of geospatial information systems, involving the gathering and recording of spatial data from various sources. It includes methods such as GPS surveys, remote sensing, and field surveys.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "geospatial information systems",
+        "Description": "Data analysis is an important component of geospatial information systems, involving the processing and interpretation of spatial data. It includes techniques such as spatial statistics, spatial modeling, and data mining.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data visualization",
+        "Relation": "is a sub-element of",
+        "Parent": "geospatial information systems",
+        "Description": "Data visualization is a key aspect of geospatial information systems, involving the representation of spatial data in a visual format. It includes techniques such as maps, charts, and graphs to communicate information effectively.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "spatial analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "geospatial information systems",
+        "Description": "Spatial analysis is a core component of geospatial information systems, involving the examination and manipulation of spatial data to uncover patterns, relationships, and trends. It includes techniques such as overlay analysis, proximity analysis, and network analysis.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "geodatabase management",
+        "Relation": "is a sub-element of",
+        "Parent": "geospatial information systems",
+        "Description": "Geodatabase management is an essential aspect of geospatial information systems, involving the organization, storage, and retrieval of spatial data in a structured manner. It includes tasks such as data indexing, data editing, and data versioning.",
+        "Importance": 3
+      }
+    ]
   }
 }

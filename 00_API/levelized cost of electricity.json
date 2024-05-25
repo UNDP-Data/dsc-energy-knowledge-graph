@@ -15,13 +15,13 @@
   "knowledge graph": {
     "entities": [
       "electricity regulatory authority",
-      "renewable energy agencies",
       "energy consumption patterns",
-      "affordable energy access",
-      "energy data analytics",
       "energy efficiency",
       "just energy transition",
-      "cost reduction strategies"
+      "renewable energy agencies",
+      "cost reduction strategies",
+      "energy data analytics",
+      "affordable energy access"
     ],
     "relations": {
       "level 1": [
@@ -149,7 +149,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "capital costs",
+      "operating costs",
+      "fuel costs",
+      "maintenance costs",
+      "transmission and distribution costs"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "capital costs",
+        "Relation": "is a sub-element of",
+        "Parent": "levelized cost of electricity",
+        "Description": "Capital costs are a component of the levelized cost of electricity and include the initial investment required for the construction and installation of the energy generation infrastructure.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "operating costs",
+        "Relation": "is a sub-element of",
+        "Parent": "levelized cost of electricity",
+        "Description": "Operating costs are a component of the levelized cost of electricity and include the expenses associated with the day-to-day operation and maintenance of the energy generation infrastructure.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "fuel costs",
+        "Relation": "is a sub-element of",
+        "Parent": "levelized cost of electricity",
+        "Description": "Fuel costs are a component of the levelized cost of electricity and include the expenses related to the procurement and utilization of fuel for energy generation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "maintenance costs",
+        "Relation": "is a sub-element of",
+        "Parent": "levelized cost of electricity",
+        "Description": "Maintenance costs are a component of the levelized cost of electricity and include the expenses associated with the regular upkeep and repair of the energy generation infrastructure.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "transmission and distribution costs",
+        "Relation": "is a sub-element of",
+        "Parent": "levelized cost of electricity",
+        "Description": "Transmission and distribution costs are a component of the levelized cost of electricity and include the expenses related to the transmission and distribution of electricity from the generation source to the end-users.",
+        "Importance": 4
+      }
+    ]
   }
 }

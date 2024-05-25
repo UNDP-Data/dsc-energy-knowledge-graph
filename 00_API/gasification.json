@@ -18,14 +18,14 @@
   "knowledge graph": {
     "entities": [
       "sustainable energy systems",
-      "renewable energy agencies",
-      "carbon capture and storage",
-      "research and development",
       "gasification",
-      "energy conversion technology",
+      "research and development",
+      "carbon capture and storage",
       "biomass",
+      "waste management",
+      "energy conversion technology",
       "clean energy production",
-      "waste management"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

@@ -15,10 +15,10 @@
   },
   "knowledge graph": {
     "entities": [
-      "productivity",
       "work-life balance",
-      "inequality",
-      "sustainable development"
+      "sustainable development",
+      "productivity",
+      "inequality"
     ],
     "relations": {
       "level 1": [

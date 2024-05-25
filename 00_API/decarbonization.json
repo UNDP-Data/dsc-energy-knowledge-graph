@@ -17,13 +17,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "sustainable development",
       "carbon pricing",
-      "Paris Agreement Goals",
+      "energy cooperatives",
       "carbon emissions",
       "energy efficiency",
-      "energy cooperatives",
-      "traditional energy technologies"
+      "traditional energy technologies",
+      "sustainable development",
+      "Paris Agreement Goals"
     ],
     "relations": {
       "level 1": [
@@ -165,7 +165,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "renewable energy",
+      "energy efficiency",
+      "carbon capture and storage",
+      "electrification",
+      "sustainable transportation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "renewable energy",
+        "Relation": "is a sub-element of",
+        "Parent": "decarbonization",
+        "Description": "Renewable energy is a key sub-element of decarbonization. It involves the generation of energy from renewable sources such as solar, wind, hydro, and geothermal, which do not produce greenhouse gas emissions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency",
+        "Relation": "is a sub-element of",
+        "Parent": "decarbonization",
+        "Description": "Energy efficiency is an important sub-element of decarbonization. It focuses on reducing energy consumption and improving energy productivity to minimize greenhouse gas emissions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "carbon capture and storage",
+        "Relation": "is a sub-element of",
+        "Parent": "decarbonization",
+        "Description": "Carbon capture and storage is a significant sub-element of decarbonization. It involves capturing carbon dioxide emissions from industrial processes and storing them underground to prevent their release into the atmosphere.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "electrification",
+        "Relation": "is a sub-element of",
+        "Parent": "decarbonization",
+        "Description": "Electrification is a crucial sub-element of decarbonization. It involves the transition from fossil fuel-based energy sources to electricity for various applications such as transportation, heating, and cooking, reducing reliance on carbon-intensive fuels.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "sustainable transportation",
+        "Relation": "is a sub-element of",
+        "Parent": "decarbonization",
+        "Description": "Sustainable transportation is a key sub-element of decarbonization. It focuses on promoting low-carbon modes of transportation such as electric vehicles, public transit, cycling, and walking to reduce greenhouse gas emissions from the transportation sector.",
+        "Importance": 4
+      }
+    ]
   }
 }

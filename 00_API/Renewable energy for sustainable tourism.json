@@ -14,15 +14,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "tourism sector",
       "research and development",
-      "local communities",
-      "energy consumption",
       "carbon neutrality",
+      "local communities",
+      "tourism sector",
+      "climate change mitigation",
+      "energy consumption",
+      "energy poverty indices",
       "building standards",
-      "energy poverty indices"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -149,7 +149,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Solar energy systems",
+      "Wind energy systems",
+      "Hydroelectric power",
+      "Biomass energy",
+      "Geothermal energy"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Solar energy systems",
+        "Relation": "is a sub-element of",
+        "Parent": "Renewable energy for sustainable tourism",
+        "Description": "Solar energy systems involve the use of solar panels to convert sunlight into electricity. They can be used to power various aspects of sustainable tourism, such as lighting, heating, and cooling systems.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Wind energy systems",
+        "Relation": "is a sub-element of",
+        "Parent": "Renewable energy for sustainable tourism",
+        "Description": "Wind energy systems harness the power of wind to generate electricity. They can be used to provide renewable energy for sustainable tourism facilities, reducing reliance on fossil fuels.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Hydroelectric power",
+        "Relation": "is a sub-element of",
+        "Parent": "Renewable energy for sustainable tourism",
+        "Description": "Hydroelectric power involves the generation of electricity from flowing water. It can be used to power sustainable tourism facilities located near rivers or other water sources.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Biomass energy",
+        "Relation": "is a sub-element of",
+        "Parent": "Renewable energy for sustainable tourism",
+        "Description": "Biomass energy involves the use of organic materials, such as agricultural waste or wood pellets, to generate heat or electricity. It can be used as a renewable energy source for sustainable tourism facilities.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Geothermal energy",
+        "Relation": "is a sub-element of",
+        "Parent": "Renewable energy for sustainable tourism",
+        "Description": "Geothermal energy involves harnessing the heat from the Earth's core to generate electricity or provide heating and cooling. It can be used to power sustainable tourism facilities located in areas with geothermal resources.",
+        "Importance": 3
+      }
+    ]
   }
 }

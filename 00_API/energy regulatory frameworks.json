@@ -15,12 +15,12 @@
   "knowledge graph": {
     "entities": [
       "data sharing agreements",
-      "renewable energy agencies",
-      "energy efficiency",
       "government policy",
+      "energy efficiency",
+      "energy markets",
       "energy governance",
-      "government agencies",
-      "energy markets"
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [
@@ -162,7 +162,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "legislation",
+      "policies",
+      "standards",
+      "regulations",
+      "incentives"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "legislation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy regulatory frameworks",
+        "Description": "Legislation refers to the laws and regulations that govern the energy sector. It provides a legal framework for energy activities, including generation, distribution, and consumption. Legislation ensures compliance with environmental standards, promotes renewable energy, and protects consumer rights.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "policies",
+        "Relation": "is a sub-element of",
+        "Parent": "energy regulatory frameworks",
+        "Description": "Policies are guidelines and directives set by governments to achieve specific energy objectives. Energy policies can include targets for renewable energy deployment, energy efficiency measures, and strategies for energy access. They provide a roadmap for sustainable energy development.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "standards",
+        "Relation": "is a sub-element of",
+        "Parent": "energy regulatory frameworks",
+        "Description": "Standards are technical specifications and requirements that ensure the quality, safety, and interoperability of energy systems and equipment. Energy standards cover areas such as energy efficiency, grid integration, and renewable energy technologies. They promote reliable and sustainable energy systems.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "regulations",
+        "Relation": "is a sub-element of",
+        "Parent": "energy regulatory frameworks",
+        "Description": "Regulations are specific rules and procedures established by regulatory bodies to enforce energy policies and legislation. They provide detailed instructions on compliance, licensing, permits, and reporting requirements. Regulations ensure fair competition, consumer protection, and environmental sustainability.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "incentives",
+        "Relation": "is a sub-element of",
+        "Parent": "energy regulatory frameworks",
+        "Description": "Incentives are financial or non-financial rewards provided by governments to promote sustainable energy practices. They can include tax credits, grants, subsidies, feed-in tariffs, and net metering. Incentives encourage investments in renewable energy, energy efficiency, and clean technologies.",
+        "Importance": 4
+      }
+    ]
   }
 }

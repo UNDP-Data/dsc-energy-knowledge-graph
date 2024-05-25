@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy storage",
-      "demand response programs",
-      "energy consumption",
-      "energy service companies",
       "energy efficiency",
+      "energy service companies",
+      "energy markets",
+      "energy consumption",
       "carbon emission reduction",
-      "energy markets"
+      "energy storage",
+      "renewable energy agencies",
+      "demand response programs"
     ],
     "relations": {
       "level 1": [
@@ -152,7 +152,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "smart meters",
+      "blockchain technology",
+      "energy data management",
+      "automated billing",
+      "demand response"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "smart meters",
+        "Relation": "is a sub-element of",
+        "Parent": "smart energy contracts",
+        "Description": "Smart meters are a key component of smart energy contracts, enabling the measurement and monitoring of energy consumption in real-time. They provide accurate data that is used for billing, demand response, and energy management.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "blockchain technology",
+        "Relation": "is a sub-element of",
+        "Parent": "smart energy contracts",
+        "Description": "Blockchain technology is utilized in smart energy contracts to ensure secure and transparent transactions. It enables the creation of decentralized energy markets, peer-to-peer energy trading, and automated contract execution.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy data management",
+        "Relation": "is a sub-element of",
+        "Parent": "smart energy contracts",
+        "Description": "Energy data management is an essential aspect of smart energy contracts, involving the collection, storage, analysis, and utilization of energy consumption data. It enables informed decision-making, optimization of energy usage, and identification of energy-saving opportunities.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "automated billing",
+        "Relation": "is a sub-element of",
+        "Parent": "smart energy contracts",
+        "Description": "Automated billing is a key feature of smart energy contracts, allowing for accurate and timely billing based on real-time energy consumption data. It eliminates the need for manual meter reading and enables dynamic pricing models.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "demand response",
+        "Relation": "is a sub-element of",
+        "Parent": "smart energy contracts",
+        "Description": "Demand response is facilitated through smart energy contracts, enabling the adjustment of energy consumption in response to grid conditions, pricing signals, or demand-side management programs. It helps to balance energy supply and demand, reduce peak loads, and enhance grid stability.",
+        "Importance": 4
+      }
+    ]
   }
 }

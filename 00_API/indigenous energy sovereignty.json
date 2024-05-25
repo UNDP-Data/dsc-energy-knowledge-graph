@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "traditional ecological knowledge",
-      "cultural impact assessments",
-      "energy and health",
-      "energy access programs",
-      "energy governance",
       "un declaration on the rights of indigenous peoples",
-      "community-led energy projects"
+      "energy and health",
+      "renewable energy agencies",
+      "energy access programs",
+      "community-led energy projects",
+      "energy governance",
+      "cultural impact assessments",
+      "traditional ecological knowledge"
     ],
     "relations": {
       "level 1": [

@@ -17,13 +17,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "battery recycling",
-      "circular economy",
       "sustainable waste management",
-      "electronic manufacturers",
+      "waste management",
       "just energy transition",
       "environmental impact assessments",
-      "waste management"
+      "circular economy",
+      "battery recycling",
+      "electronic manufacturers"
     ],
     "relations": {
       "level 1": [

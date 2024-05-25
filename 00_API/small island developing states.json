@@ -15,12 +15,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "sustainable development goals",
-      "energy efficiency",
-      "vulnerable communities",
       "regional energy organizations",
-      "climate resilience funds"
+      "vulnerable communities",
+      "climate resilience funds",
+      "energy efficiency",
+      "sustainable development goals",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

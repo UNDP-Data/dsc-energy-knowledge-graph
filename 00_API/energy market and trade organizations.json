@@ -18,13 +18,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy data analytics",
-      "energy market and trade organizations",
       "international energy trade",
-      "building standards",
+      "energy market and trade organizations",
       "energy policy development",
-      "energy market performance"
+      "energy market performance",
+      "building standards",
+      "renewable energy agencies",
+      "energy data analytics"
     ],
     "relations": {
       "level 1": [
@@ -138,7 +138,25 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "energy market",
+      "trade organizations"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "energy market",
+        "Relation": "is a sub-element of",
+        "Parent": "energy market and trade organizations",
+        "Description": "The energy market is a sub-element of energy market and trade organizations. It refers to the buying and selling of energy products, including electricity, oil, and gas. Energy market organizations facilitate the trading and pricing of energy commodities.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "trade organizations",
+        "Relation": "is a sub-element of",
+        "Parent": "energy market and trade organizations",
+        "Description": "Trade organizations are a sub-element of energy market and trade organizations. They are associations or groups that represent the interests of businesses involved in energy trading. These organizations promote fair trade practices, provide market information, and facilitate networking among industry players.",
+        "Importance": 3
+      }
+    ]
   }
 }

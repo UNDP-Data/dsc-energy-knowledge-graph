@@ -16,13 +16,13 @@
   "knowledge graph": {
     "entities": [
       "digital transformation",
-      "artificial intelligence",
+      "un sustainable development goals",
+      "energy efficiency",
+      "energy markets",
+      "research institutions",
       "energy data repositories",
       "energy data analytics",
-      "energy efficiency",
-      "un sustainable development goals",
-      "research institutions",
-      "energy markets"
+      "artificial intelligence"
     ],
     "relations": {
       "level 1": [
@@ -164,7 +164,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "data sharing",
+      "data governance",
+      "data analytics",
+      "data visualization",
+      "data privacy"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "data sharing",
+        "Relation": "is a sub-element of",
+        "Parent": "data ecosystems",
+        "Description": "Data sharing is a key component of data ecosystems, enabling the exchange and collaboration of data between different stakeholders. It promotes transparency, interoperability, and the creation of new insights and knowledge.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data governance",
+        "Relation": "is a sub-element of",
+        "Parent": "data ecosystems",
+        "Description": "Data governance is essential for the effective management and control of data within data ecosystems. It involves defining policies, procedures, and responsibilities to ensure data quality, security, privacy, and compliance.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data analytics",
+        "Relation": "is a sub-element of",
+        "Parent": "data ecosystems",
+        "Description": "Data analytics plays a crucial role in data ecosystems by extracting valuable insights and patterns from large volumes of data. It involves the use of statistical and computational techniques to analyze and interpret data for decision-making and problem-solving.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data visualization",
+        "Relation": "is a sub-element of",
+        "Parent": "data ecosystems",
+        "Description": "Data visualization is an important aspect of data ecosystems as it enables the representation of data in visual formats such as charts, graphs, and maps. It helps in understanding complex data patterns, trends, and relationships.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "data privacy",
+        "Relation": "is a sub-element of",
+        "Parent": "data ecosystems",
+        "Description": "Data privacy is a critical consideration in data ecosystems to protect the confidentiality and integrity of personal and sensitive data. It involves implementing measures and policies to ensure that data is collected, stored, and processed in a secure and ethical manner.",
+        "Importance": 4
+      }
+    ]
   }
 }

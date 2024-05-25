@@ -18,14 +18,14 @@
   "knowledge graph": {
     "entities": [
       "solar energy",
-      "climate change",
-      "renewable energy agencies",
       "food security",
-      "local ngos",
+      "climate change",
       "energy consumption",
-      "rural areas",
+      "energy poverty indices",
+      "local ngos",
       "building standards",
-      "energy poverty indices"
+      "renewable energy agencies",
+      "rural areas"
     ],
     "relations": {
       "level 1": [
@@ -152,7 +152,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "solar-powered irrigation systems",
+      "biogas digesters",
+      "energy-efficient cooking stoves",
+      "off-grid solar systems",
+      "micro-hydro power systems"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "solar-powered irrigation systems",
+        "Relation": "is a sub-element of",
+        "Parent": "energy for smallholder farmers",
+        "Description": "Solar-powered irrigation systems are a sub-component of energy for smallholder farmers. These systems use solar energy to power water pumps, allowing farmers to efficiently irrigate their crops and increase agricultural productivity.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "biogas digesters",
+        "Relation": "is a sub-element of",
+        "Parent": "energy for smallholder farmers",
+        "Description": "Biogas digesters are a type of energy technology used by smallholder farmers. These digesters convert organic waste into biogas, which can be used for cooking, heating, and generating electricity, providing a sustainable energy solution for farmers.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "energy-efficient cooking stoves",
+        "Relation": "is a sub-element of",
+        "Parent": "energy for smallholder farmers",
+        "Description": "Energy-efficient cooking stoves are a sub-component of energy for smallholder farmers. These stoves are designed to minimize fuel consumption and reduce indoor air pollution, improving the cooking conditions for farmers and their families.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "off-grid solar systems",
+        "Relation": "is a sub-element of",
+        "Parent": "energy for smallholder farmers",
+        "Description": "Off-grid solar systems are a type of energy solution for smallholder farmers. These systems provide electricity to remote areas without access to the grid, enabling farmers to power their agricultural activities and improve their livelihoods.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "micro-hydro power systems",
+        "Relation": "is a sub-element of",
+        "Parent": "energy for smallholder farmers",
+        "Description": "Micro-hydro power systems are a type of renewable energy technology used by smallholder farmers. These systems harness the power of flowing water to generate electricity, providing a reliable and sustainable energy source for farmers.",
+        "Importance": 4
+      }
+    ]
   }
 }

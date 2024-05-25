@@ -18,13 +18,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "community-led solutions",
-      "renewable energy certificates",
-      "feed-in tariff programs",
-      "sustainable development goals",
       "energy and health",
-      "just energy transition",
       "energy equity",
+      "renewable energy certificates",
+      "just energy transition",
+      "feed-in tariff programs",
+      "community-led solutions",
+      "sustainable development goals",
       "participatory decision-making"
     ],
     "relations": {

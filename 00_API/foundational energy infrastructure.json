@@ -16,13 +16,13 @@
   },
   "knowledge graph": {
     "entities": [
+      "energy efficiency",
       "private sector companies",
       "climate change mitigation",
-      "renewable energy agencies",
-      "energy and modernization",
       "energy consumption",
-      "energy efficiency",
-      "energy access initiative"
+      "energy access initiative",
+      "renewable energy agencies",
+      "energy and modernization"
     ],
     "relations": {
       "level 1": [
@@ -150,7 +150,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "electricity grid",
+      "transmission lines",
+      "substations",
+      "power plants",
+      "energy storage systems"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "electricity grid",
+        "Relation": "is a sub-element of",
+        "Parent": "foundational energy infrastructure",
+        "Description": "The electricity grid is a crucial sub-element of foundational energy infrastructure. It is a network of power lines and associated equipment that delivers electricity from power plants to consumers. It enables the distribution and transmission of electricity across a wide area.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "transmission lines",
+        "Relation": "is a sub-element of",
+        "Parent": "foundational energy infrastructure",
+        "Description": "Transmission lines are an essential sub-element of foundational energy infrastructure. They are high-voltage power lines that transport electricity over long distances from power plants to substations or distribution networks. They play a vital role in ensuring efficient and reliable electricity supply.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "substations",
+        "Relation": "is a sub-element of",
+        "Parent": "foundational energy infrastructure",
+        "Description": "Substations are a critical sub-element of foundational energy infrastructure. They are facilities that transform voltage levels and regulate the flow of electricity between transmission lines and distribution networks. Substations ensure the safe and efficient distribution of electricity to consumers.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "power plants",
+        "Relation": "is a sub-element of",
+        "Parent": "foundational energy infrastructure",
+        "Description": "Power plants are a key sub-element of foundational energy infrastructure. They are facilities that generate electricity from various energy sources such as fossil fuels, nuclear energy, or renewable sources. Power plants are the primary source of electricity supply in an energy system.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy storage systems",
+        "Relation": "is a sub-element of",
+        "Parent": "foundational energy infrastructure",
+        "Description": "Energy storage systems are an emerging sub-element of foundational energy infrastructure. They are technologies that store excess electricity generated during periods of low demand and release it during periods of high demand. Energy storage systems help balance the supply and demand of electricity and support the integration of renewable energy sources.",
+        "Importance": 3
+      }
+    ]
   }
 }

@@ -17,13 +17,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy access challenges",
-      "sustainable development goals",
-      "local governments",
       "energy access programs",
+      "energy access challenges",
+      "local governments",
       "energy efficiency",
-      "energy poverty indices"
+      "sustainable development goals",
+      "energy poverty indices",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

@@ -15,10 +15,10 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
       "research and development",
       "carbon offset programs",
       "industrial sectors",
+      "climate change mitigation",
       "carbon reduction strategies"
     ],
     "relations": {
@@ -93,7 +93,25 @@
       ],
       "level 3": []
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "carbon capture",
+      "carbon utilization"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "carbon capture",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and utilization",
+        "Description": "Carbon capture is a process that involves capturing carbon dioxide (CO2) emissions from various sources, such as power plants or industrial facilities. It aims to prevent CO2 from being released into the atmosphere, thereby reducing greenhouse gas emissions and mitigating climate change.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "carbon utilization",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and utilization",
+        "Description": "Carbon utilization refers to the utilization or conversion of captured carbon dioxide (CO2) for various purposes, such as producing valuable products or fuels. It aims to turn CO2 emissions into a resource and contribute to the circular economy and sustainable development.",
+        "Importance": 3
+      }
+    ]
   }
 }

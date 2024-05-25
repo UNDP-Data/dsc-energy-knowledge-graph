@@ -24,14 +24,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy storage",
       "renewable energy certificates",
-      "sustainable development goals",
-      "energy efficiency",
-      "industries",
       "energy cooperatives",
+      "energy efficiency",
+      "energy markets",
+      "sustainable development goals",
       "energy governance",
-      "energy markets"
+      "energy storage",
+      "industries"
     ],
     "relations": {
       "level 1": [
@@ -173,7 +173,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "building insulation",
+      "energy-efficient appliances",
+      "smart thermostats",
+      "LED lighting",
+      "energy audits"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "building insulation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy efficiency",
+        "Description": "Building insulation is a key component of energy efficiency. It involves the use of materials and techniques to reduce heat transfer between the interior and exterior of a building, thereby reducing the need for heating and cooling.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy-efficient appliances",
+        "Relation": "is a sub-element of",
+        "Parent": "energy efficiency",
+        "Description": "Energy-efficient appliances are an important aspect of energy efficiency. These appliances are designed to consume less energy while providing the same level of performance as their conventional counterparts.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "smart thermostats",
+        "Relation": "is a sub-element of",
+        "Parent": "energy efficiency",
+        "Description": "Smart thermostats are a sub-component of energy efficiency. They enable users to control and optimize the heating and cooling of their homes or buildings, leading to energy savings.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "LED lighting",
+        "Relation": "is a sub-element of",
+        "Parent": "energy efficiency",
+        "Description": "LED lighting is a type of energy-efficient lighting. It uses light-emitting diodes (LEDs) to produce light with significantly less energy consumption compared to traditional incandescent or fluorescent bulbs.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy audits",
+        "Relation": "is a sub-element of",
+        "Parent": "energy efficiency",
+        "Description": "Energy audits are an important tool for assessing and improving energy efficiency. They involve a systematic analysis of energy use in a building or facility to identify opportunities for energy savings and efficiency improvements.",
+        "Importance": 3
+      }
+    ]
   }
 }

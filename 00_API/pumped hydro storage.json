@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy storage",
-      "electricity grid operators",
-      "intermittency of renewable energy",
-      "energy storage performance",
       "decentralized energy systems",
-      "grid stability"
+      "intermittency of renewable energy",
+      "electricity grid operators",
+      "climate change mitigation",
+      "grid stability",
+      "energy storage",
+      "renewable energy agencies",
+      "energy storage performance"
     ],
     "relations": {
       "level 1": [

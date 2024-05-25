@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "indigenous communities",
-      "energy resource potential",
+      "community-based energy resilience programs",
       "energy data collection",
       "geospatial analysis",
-      "community-based energy resilience programs",
       "indigenous land rights",
-      "community-led energy projects"
+      "community-led energy projects",
+      "energy resource potential",
+      "indigenous communities"
     ],
     "relations": {
       "level 1": [

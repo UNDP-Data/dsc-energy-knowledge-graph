@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
+      "regional energy organizations",
       "civil society organizations",
-      "renewable energy agencies",
-      "sustainable development goals",
-      "climate finance mechanisms",
       "energy access programs",
       "energy efficiency",
-      "regional energy organizations"
+      "sustainable development goals",
+      "climate finance mechanisms",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

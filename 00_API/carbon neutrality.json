@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "net zero emissions",
+      "energy efficiency",
       "private sector companies",
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "sustainable development goals",
-      "energy efficiency"
+      "climate change mitigation",
+      "energy consumption",
+      "net zero emissions",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -135,7 +135,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "renewable energy",
+      "energy efficiency",
+      "carbon offsetting",
+      "carbon capture and storage",
+      "behavioral change"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "renewable energy",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon neutrality",
+        "Description": "Renewable energy is a key component of achieving carbon neutrality. It involves the generation of energy from sources that are naturally replenished, such as solar, wind, and hydro power. By transitioning to renewable energy sources, carbon emissions can be significantly reduced.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon neutrality",
+        "Description": "Energy efficiency plays a crucial role in achieving carbon neutrality. It involves using less energy to perform the same tasks, thereby reducing energy consumption and associated carbon emissions. Improving energy efficiency in buildings, transportation, and industrial processes is essential for achieving carbon neutrality.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "carbon offsetting",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon neutrality",
+        "Description": "Carbon offsetting is a strategy used to compensate for carbon emissions by investing in projects that reduce or remove greenhouse gas emissions elsewhere. It involves activities such as reforestation, renewable energy projects, and methane capture. Carbon offsetting helps to balance out the carbon footprint and achieve carbon neutrality.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "carbon capture and storage",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon neutrality",
+        "Description": "Carbon capture and storage (CCS) is a technology that captures carbon dioxide emissions from power plants and industrial processes, and then stores it underground or utilizes it for other purposes. CCS can help to reduce carbon emissions and contribute to achieving carbon neutrality.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "behavioral change",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon neutrality",
+        "Description": "Behavioral change is an important aspect of achieving carbon neutrality. It involves adopting sustainable practices and making conscious choices to reduce carbon emissions in daily activities. Encouraging individuals and communities to embrace sustainable behaviors is essential for achieving carbon neutrality.",
+        "Importance": 2
+      }
+    ]
   }
 }

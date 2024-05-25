@@ -16,15 +16,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "research and development",
-      "energy consumption",
       "energy ministries",
-      "energy service companies",
+      "research and development",
       "energy efficiency",
+      "energy service companies",
       "energy democracy",
-      "industrial sector"
+      "climate change mitigation",
+      "energy consumption",
+      "industrial sector",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -172,7 +172,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Combined heat and power",
+      "Waste heat recovery",
+      "Trigeneration",
+      "Biomass cogeneration",
+      "Geothermal cogeneration"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Combined heat and power",
+        "Relation": "is a sub-element of",
+        "Parent": "cogeneration",
+        "Description": "Combined heat and power (CHP) is a sub-element of cogeneration, where both electricity and useful heat are produced from the same energy source. It increases energy efficiency and reduces greenhouse gas emissions by utilizing waste heat.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Waste heat recovery",
+        "Relation": "is a sub-element of",
+        "Parent": "cogeneration",
+        "Description": "Waste heat recovery is a sub-element of cogeneration, which involves capturing and utilizing waste heat generated during industrial processes or power generation. It improves energy efficiency and reduces the overall energy consumption.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Trigeneration",
+        "Relation": "is a sub-element of",
+        "Parent": "cogeneration",
+        "Description": "Trigeneration is a sub-element of cogeneration, where three types of energy (electricity, heating, and cooling) are produced from a single energy source. It provides a more comprehensive and efficient energy solution for buildings and industries.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Biomass cogeneration",
+        "Relation": "is a sub-element of",
+        "Parent": "cogeneration",
+        "Description": "Biomass cogeneration is a sub-element of cogeneration, where biomass fuels such as wood, agricultural residues, or dedicated energy crops are used to produce both electricity and heat. It utilizes renewable biomass resources and reduces reliance on fossil fuels.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "Geothermal cogeneration",
+        "Relation": "is a sub-element of",
+        "Parent": "cogeneration",
+        "Description": "Geothermal cogeneration is a sub-element of cogeneration, where geothermal energy is used to produce both electricity and heat. It harnesses the natural heat from the Earth's core and provides a sustainable energy solution.",
+        "Importance": 2
+      }
+    ]
   }
 }

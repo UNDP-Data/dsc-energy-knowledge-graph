@@ -19,12 +19,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
       "research and development",
-      "energy consumption",
-      "energy service companies",
-      "energy efficiency",
       "smart grid systems",
+      "energy efficiency",
+      "energy service companies",
+      "energy consumption",
+      "renewable energy agencies",
       "carbon footprint reduction"
     ],
     "relations": {
@@ -139,7 +139,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "data collection",
+      "data analysis",
+      "data visualization",
+      "predictive modeling",
+      "energy efficiency optimization"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "data collection",
+        "Relation": "is a sub-element of",
+        "Parent": "energy data analytics",
+        "Description": "Data collection is a fundamental aspect of energy data analytics, involving the gathering and recording of energy-related data from various sources such as sensors, meters, and databases. It provides the foundation for further analysis and insights.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "energy data analytics",
+        "Description": "Data analysis is a crucial component of energy data analytics, involving the examination and interpretation of energy-related data to identify patterns, trends, and insights. It helps in understanding energy consumption patterns, identifying inefficiencies, and optimizing energy usage.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data visualization",
+        "Relation": "is a sub-element of",
+        "Parent": "energy data analytics",
+        "Description": "Data visualization is an important aspect of energy data analytics, involving the representation of energy-related data in visual formats such as charts, graphs, and maps. It helps in communicating complex energy information effectively and facilitating data-driven decision-making.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "predictive modeling",
+        "Relation": "is a sub-element of",
+        "Parent": "energy data analytics",
+        "Description": "Predictive modeling is a key technique in energy data analytics, involving the use of statistical and machine learning algorithms to forecast future energy consumption, demand, and trends. It enables proactive decision-making, energy planning, and optimization strategies.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency optimization",
+        "Relation": "is a sub-element of",
+        "Parent": "energy data analytics",
+        "Description": "Energy efficiency optimization is a significant application of energy data analytics, involving the identification and implementation of measures to improve energy efficiency in various sectors. It utilizes data analysis and modeling techniques to identify energy-saving opportunities and optimize energy usage.",
+        "Importance": 4
+      }
+    ]
   }
 }

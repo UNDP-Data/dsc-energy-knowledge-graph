@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "capacity building",
       "knowledge exchange programs",
-      "indigenous communities",
-      "building standards",
       "research projects",
+      "policy development",
+      "capacity building",
+      "indigenous communities",
       "community empowerment",
-      "policy development"
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

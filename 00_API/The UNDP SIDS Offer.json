@@ -12,12 +12,12 @@
   "knowledge graph": {
     "entities": [
       "partnership with local governments",
+      "energy efficiency",
+      "energy markets",
       "private sector companies",
       "climate change mitigation",
-      "renewable energy agencies",
       "energy consumption",
-      "energy efficiency",
-      "energy markets"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

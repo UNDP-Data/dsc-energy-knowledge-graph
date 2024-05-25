@@ -15,15 +15,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "investment banks",
-      "renewable energy agencies",
-      "project finance specialists",
+      "project performance",
       "sustainable finance",
       "green startups",
-      "project performance",
-      "grant programs",
+      "project finance specialists",
       "just energy transition",
-      "government agencies"
+      "grant programs",
+      "renewable energy agencies",
+      "government agencies",
+      "investment banks"
     ],
     "relations": {
       "level 1": [

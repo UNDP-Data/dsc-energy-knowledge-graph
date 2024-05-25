@@ -15,12 +15,12 @@
   "knowledge graph": {
     "entities": [
       "civil society organizations",
-      "renewable energy agencies",
-      "sustainable development goals",
       "energy efficiency",
-      "building standards",
+      "energy markets",
+      "sustainable development goals",
       "energy governance",
-      "energy markets"
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -162,7 +162,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "public disclosure",
+      "audit and evaluation",
+      "whistleblower protection",
+      "anti-corruption measures",
+      "open data initiatives"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "public disclosure",
+        "Relation": "is a sub-element of",
+        "Parent": "transparency and accountability mechanisms",
+        "Description": "Public disclosure is a key component of transparency and accountability mechanisms. It involves the proactive release of information by governments, organizations, or individuals to ensure transparency and enable public scrutiny.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "audit and evaluation",
+        "Relation": "is a sub-element of",
+        "Parent": "transparency and accountability mechanisms",
+        "Description": "Audit and evaluation processes are essential for ensuring transparency and accountability. They involve the systematic examination and assessment of financial records, performance, and compliance with regulations and standards.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "whistleblower protection",
+        "Relation": "is a sub-element of",
+        "Parent": "transparency and accountability mechanisms",
+        "Description": "Whistleblower protection is a crucial aspect of transparency and accountability mechanisms. It involves providing legal safeguards and support to individuals who report wrongdoing or misconduct in organizations or governments.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "anti-corruption measures",
+        "Relation": "is a sub-element of",
+        "Parent": "transparency and accountability mechanisms",
+        "Description": "Anti-corruption measures are integral to transparency and accountability mechanisms. They include policies, laws, and actions aimed at preventing, detecting, and addressing corruption in both public and private sectors.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "open data initiatives",
+        "Relation": "is a sub-element of",
+        "Parent": "transparency and accountability mechanisms",
+        "Description": "Open data initiatives contribute to transparency and accountability by making data accessible and available to the public. They involve the release of data in a machine-readable format, enabling analysis, innovation, and informed decision-making.",
+        "Importance": 3
+      }
+    ]
   }
 }

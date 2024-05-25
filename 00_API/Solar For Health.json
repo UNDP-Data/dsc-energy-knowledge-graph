@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "partnership with ministry of health",
-      "local ngos",
-      "energy consumption",
-      "off-grid solar systems",
       "energy efficiency",
-      "energy markets"
+      "energy markets",
+      "climate change mitigation",
+      "energy consumption",
+      "local ngos",
+      "renewable energy agencies",
+      "off-grid solar systems"
     ],
     "relations": {
       "level 1": [

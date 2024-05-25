@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
-      "international climate agreements",
-      "energy efficiency",
-      "energy poverty indices",
       "non-governmental organizations",
-      "energy markets"
+      "energy efficiency",
+      "energy markets",
+      "climate change mitigation",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies",
+      "international climate agreements"
     ],
     "relations": {
       "level 1": [
@@ -170,7 +170,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "policy coordination",
+      "institutional arrangements",
+      "decision-making processes",
+      "capacity building",
+      "monitoring and evaluation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "policy coordination",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-level governance",
+        "Description": "Policy coordination is an essential aspect of multi-level governance, involving the harmonization and alignment of policies across different levels of government. It aims to ensure coherence and consistency in decision-making processes and promote collaboration among various stakeholders.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "institutional arrangements",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-level governance",
+        "Description": "Institutional arrangements are a key component of multi-level governance, encompassing the structures, mechanisms, and processes through which power and authority are distributed and exercised. They provide the framework for coordination, cooperation, and collaboration among different levels of government and other relevant actors.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "decision-making processes",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-level governance",
+        "Description": "Decision-making processes are a fundamental aspect of multi-level governance, involving the identification, formulation, and implementation of policies and actions. They provide the means for collective decision-making, consensus-building, and problem-solving in a multi-level governance system.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "capacity building",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-level governance",
+        "Description": "Capacity building is a crucial element of multi-level governance, focusing on enhancing the knowledge, skills, and capabilities of individuals, organizations, and institutions involved in the governance process. It aims to strengthen their capacity to effectively participate, contribute, and adapt to the challenges and opportunities of multi-level governance.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "monitoring and evaluation",
+        "Relation": "is a sub-element of",
+        "Parent": "multi-level governance",
+        "Description": "Monitoring and evaluation are integral components of multi-level governance, providing the means to assess and measure the performance, effectiveness, and impact of policies, programs, and initiatives. They enable evidence-based decision-making, learning, and accountability in a multi-level governance system.",
+        "Importance": 4
+      }
+    ]
   }
 }

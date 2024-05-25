@@ -26,12 +26,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "social justice",
+      "energy equity",
       "local communities",
       "renewable energy certificates",
-      "sustainable development goals",
       "just energy transition",
-      "energy equity",
+      "social justice",
+      "sustainable development goals",
       "energy justice"
     ],
     "relations": {
@@ -154,7 +154,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "renewable energy",
+      "energy efficiency",
+      "decarbonization",
+      "electrification",
+      "energy justice"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "renewable energy",
+        "Relation": "is a sub-element of",
+        "Parent": "just energy transition",
+        "Description": "Renewable energy is a key component of a just energy transition. It involves the generation of energy from sources that are naturally replenished, such as solar, wind, and hydro power. By transitioning to renewable energy sources, we can reduce greenhouse gas emissions and mitigate climate change.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency",
+        "Relation": "is a sub-element of",
+        "Parent": "just energy transition",
+        "Description": "Energy efficiency is an important aspect of a just energy transition. It involves using less energy to achieve the same level of output or service. By improving energy efficiency in buildings, transportation, and industrial processes, we can reduce energy consumption and lower greenhouse gas emissions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "decarbonization",
+        "Relation": "is a sub-element of",
+        "Parent": "just energy transition",
+        "Description": "Decarbonization is a crucial element of a just energy transition. It refers to the process of reducing or eliminating carbon dioxide emissions from energy sources. By transitioning to low-carbon or carbon-free energy sources, we can mitigate climate change and achieve a more sustainable energy system.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "electrification",
+        "Relation": "is a sub-element of",
+        "Parent": "just energy transition",
+        "Description": "Electrification is a key component of a just energy transition. It involves the adoption of electric power for various energy needs, such as transportation, heating, and cooking. By transitioning to electric vehicles and appliances, we can reduce reliance on fossil fuels and promote a cleaner and more sustainable energy system.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "energy justice",
+        "Relation": "is a sub-element of",
+        "Parent": "just energy transition",
+        "Description": "Energy justice is an important aspect of a just energy transition. It involves ensuring equitable access to affordable, reliable, and clean energy for all. By addressing energy poverty and promoting inclusive energy policies, we can achieve a more just and sustainable energy system.",
+        "Importance": 4
+      }
+    ]
   }
 }

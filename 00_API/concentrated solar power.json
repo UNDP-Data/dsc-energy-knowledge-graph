@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "research and development",
-      "electricity grid operators",
-      "renewable energy certificates",
       "solar power plants",
+      "renewable energy certificates",
       "energy efficiency",
-      "just energy transition"
+      "just energy transition",
+      "electricity grid operators",
+      "climate change mitigation",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -164,7 +164,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "parabolic trough",
+      "power tower",
+      "dish/engine system",
+      "concentrated solar photovoltaics",
+      "concentrated solar thermal"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "parabolic trough",
+        "Relation": "is a sub-element of",
+        "Parent": "concentrated solar power",
+        "Description": "A parabolic trough is a type of concentrated solar power technology that uses curved mirrors to focus sunlight onto a receiver tube. The receiver tube contains a heat transfer fluid, which is heated by the concentrated sunlight and used to generate steam for electricity generation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "power tower",
+        "Relation": "is a sub-element of",
+        "Parent": "concentrated solar power",
+        "Description": "A power tower, also known as a central receiver system, is a type of concentrated solar power technology that uses an array of mirrors to focus sunlight onto a receiver located at the top of a tower. The receiver absorbs the concentrated sunlight and transfers the heat to a heat transfer fluid, which is used to generate steam for electricity generation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "dish/engine system",
+        "Relation": "is a sub-element of",
+        "Parent": "concentrated solar power",
+        "Description": "A dish/engine system is a type of concentrated solar power technology that uses a parabolic dish to concentrate sunlight onto a receiver located at the focal point of the dish. The receiver absorbs the concentrated sunlight and transfers the heat to a heat transfer fluid, which is used to generate steam for electricity generation.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "concentrated solar photovoltaics",
+        "Relation": "is a sub-element of",
+        "Parent": "concentrated solar power",
+        "Description": "Concentrated solar photovoltaics is a type of concentrated solar power technology that uses lenses or mirrors to concentrate sunlight onto a small area of high-efficiency photovoltaic cells. The concentrated sunlight increases the intensity of the sunlight reaching the cells, resulting in higher electricity generation.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "concentrated solar thermal",
+        "Relation": "is a sub-element of",
+        "Parent": "concentrated solar power",
+        "Description": "Concentrated solar thermal is a type of concentrated solar power technology that uses mirrors to concentrate sunlight onto a receiver, which contains a heat transfer fluid. The concentrated sunlight heats the fluid, which is then used to generate steam for electricity generation or other thermal applications.",
+        "Importance": 3
+      }
+    ]
   }
 }

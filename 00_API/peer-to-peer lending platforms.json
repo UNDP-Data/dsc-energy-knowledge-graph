@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy consumption",
       "renewable energy certificates",
-      "sustainable development goals",
       "energy efficiency",
       "traditional energy technologies",
-      "energy markets"
+      "energy markets",
+      "sustainable development goals",
+      "energy consumption",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -162,7 +162,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "loan originators",
+      "investors",
+      "borrowers",
+      "credit scoring models",
+      "loan agreements"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "loan originators",
+        "Relation": "is a sub-element of",
+        "Parent": "peer-to-peer lending platforms",
+        "Description": "Loan originators are entities that originate loans on peer-to-peer lending platforms. They assess borrower creditworthiness, structure loan agreements, and manage the loan repayment process.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "investors",
+        "Relation": "is a sub-element of",
+        "Parent": "peer-to-peer lending platforms",
+        "Description": "Investors are individuals or institutions that provide funds on peer-to-peer lending platforms. They earn returns based on the interest and principal repayments from borrowers.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "borrowers",
+        "Relation": "is a sub-element of",
+        "Parent": "peer-to-peer lending platforms",
+        "Description": "Borrowers are individuals or businesses that seek loans on peer-to-peer lending platforms. They can access funds at competitive interest rates and with flexible terms.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "credit scoring models",
+        "Relation": "is a sub-element of",
+        "Parent": "peer-to-peer lending platforms",
+        "Description": "Credit scoring models are algorithms used by peer-to-peer lending platforms to assess the creditworthiness of borrowers. These models analyze various data points to determine the likelihood of loan repayment.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "loan agreements",
+        "Relation": "is a sub-element of",
+        "Parent": "peer-to-peer lending platforms",
+        "Description": "Loan agreements are legal contracts between borrowers and investors facilitated by peer-to-peer lending platforms. These agreements outline the terms and conditions of the loan, including interest rates, repayment schedules, and penalties.",
+        "Importance": 4
+      }
+    ]
   }
 }

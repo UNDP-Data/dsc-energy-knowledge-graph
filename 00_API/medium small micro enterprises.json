@@ -16,13 +16,13 @@
   "knowledge graph": {
     "entities": [
       "economic impact",
-      "micro-finance",
-      "financial institutions",
-      "local communities",
-      "sustainable development goals",
       "inclusive business models",
+      "local communities",
       "energy entrepreneurship",
-      "youth unemployment"
+      "financial institutions",
+      "sustainable development goals",
+      "youth unemployment",
+      "micro-finance"
     ],
     "relations": {
       "level 1": [
@@ -136,7 +136,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "start-ups",
+      "family-owned businesses",
+      "cooperatives",
+      "social enterprises",
+      "informal businesses"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "start-ups",
+        "Relation": "is a sub-element of",
+        "Parent": "medium small micro enterprises",
+        "Description": "Start-ups are a type of medium small micro enterprise that are newly established and typically have innovative business models or products. They play a crucial role in driving economic growth and job creation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "family-owned businesses",
+        "Relation": "is a sub-element of",
+        "Parent": "medium small micro enterprises",
+        "Description": "Family-owned businesses are a category of medium small micro enterprises that are owned and operated by members of the same family. They often have a long-term perspective and contribute to local economies.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "cooperatives",
+        "Relation": "is a sub-element of",
+        "Parent": "medium small micro enterprises",
+        "Description": "Cooperatives are a type of medium small micro enterprise that are owned and democratically controlled by their members. They promote collective decision-making and equitable distribution of benefits.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "social enterprises",
+        "Relation": "is a sub-element of",
+        "Parent": "medium small micro enterprises",
+        "Description": "Social enterprises are a type of medium small micro enterprise that prioritize social or environmental objectives alongside financial sustainability. They address social issues through innovative business models.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "informal businesses",
+        "Relation": "is a sub-element of",
+        "Parent": "medium small micro enterprises",
+        "Description": "Informal businesses are a category of medium small micro enterprises that operate outside the formal legal and regulatory frameworks. They often face challenges in accessing finance and social protection.",
+        "Importance": 2
+      }
+    ]
   }
 }

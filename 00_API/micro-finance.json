@@ -17,15 +17,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy entrepreneurship",
-      "local ngos",
-      "clean energy projects",
-      "renewable energy certificates",
       "energy access gap",
       "sustainable energy investments",
       "energy access programs",
+      "renewable energy certificates",
+      "energy markets",
+      "energy entrepreneurship",
+      "clean energy projects",
       "energy poverty indices",
-      "energy markets"
+      "local ngos"
     ],
     "relations": {
       "level 1": [

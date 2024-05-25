@@ -16,12 +16,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
-      "sustainable development goals",
       "energy efficiency",
       "just energy transition",
+      "sustainable development goals",
+      "climate change mitigation",
+      "energy consumption",
+      "renewable energy agencies",
       "government agencies"
     ],
     "relations": {
