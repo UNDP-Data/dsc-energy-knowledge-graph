@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
       "energy affordability",
-      "sustainable development goal 7 (sdg 7)",
-      "energy policy reform",
-      "international energy agency (iea)",
-      "energy subsisides reform",
       "energy affordability index",
-      "market-based pricing mechanisms"
+      "energy policy reform",
+      "market-based pricing mechanisms",
+      "energy subsisides reform",
+      "international energy agency (iea)",
+      "sustainable development goal 7 (sdg 7)",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

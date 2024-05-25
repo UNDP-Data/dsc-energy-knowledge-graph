@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "lng import terminals",
-      "natural gas",
       "greenhouse gas emissions",
-      "energy markets",
-      "cryogenic technology",
       "just energy transition",
       "energy democracy",
-      "shipping companies"
+      "energy markets",
+      "natural gas",
+      "shipping companies",
+      "cryogenic technology",
+      "lng import terminals"
     ],
     "relations": {
       "level 1": [
@@ -150,7 +150,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "liquefaction process",
+      "storage and transportation",
+      "regasification process",
+      "LNG terminals",
+      "LNG carriers"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "liquefaction process",
+        "Relation": "is a sub-element of",
+        "Parent": "liquefied natural gas",
+        "Description": "The liquefaction process is a crucial step in the production of liquefied natural gas. It involves cooling natural gas to a very low temperature, transforming it into a liquid state for easier storage and transportation.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "storage and transportation",
+        "Relation": "is a sub-element of",
+        "Parent": "liquefied natural gas",
+        "Description": "Storage and transportation are essential aspects of the liquefied natural gas industry. LNG is stored in specialized tanks and transported using LNG carriers to various destinations, enabling the global trade of natural gas.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "regasification process",
+        "Relation": "is a sub-element of",
+        "Parent": "liquefied natural gas",
+        "Description": "The regasification process is the reverse of the liquefaction process. It involves heating liquefied natural gas back to its gaseous state, making it suitable for distribution and use in various applications.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "LNG terminals",
+        "Relation": "is a sub-element of",
+        "Parent": "liquefied natural gas",
+        "Description": "LNG terminals are specialized facilities where liquefied natural gas is received, stored, and regasified. They play a crucial role in the import and export of LNG, ensuring its efficient distribution.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "LNG carriers",
+        "Relation": "is a sub-element of",
+        "Parent": "liquefied natural gas",
+        "Description": "LNG carriers are specially designed ships used for the transportation of liquefied natural gas. They are equipped with advanced insulation and safety systems to ensure the safe and efficient delivery of LNG to different ports.",
+        "Importance": 3
+      }
+    ]
   }
 }

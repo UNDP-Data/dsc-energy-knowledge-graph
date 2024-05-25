@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "regional energy organizations",
+      "energy cooperatives",
+      "energy subsisides reform",
+      "energy markets",
+      "energy consumption",
       "climate change mitigation",
       "renewable energy agencies",
-      "energy consumption",
-      "energy cooperatives",
-      "regional energy organizations",
-      "energy subsisides reform",
-      "government agencies",
-      "energy markets"
+      "government agencies"
     ],
     "relations": {
       "level 1": [

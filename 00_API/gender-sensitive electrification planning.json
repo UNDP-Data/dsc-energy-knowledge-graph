@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "local ngos",
-      "energy consumption",
+      "energy markets",
       "sustainable development goals",
-      "rural areas",
-      "building standards",
+      "energy consumption",
       "energy poverty indices",
-      "energy markets"
+      "local ngos",
+      "building standards",
+      "renewable energy agencies",
+      "rural areas"
     ],
     "relations": {
       "level 1": [
@@ -150,7 +150,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "gender analysis",
+      "electrification planning",
+      "gender mainstreaming",
+      "gender-responsive policies",
+      "gender-sensitive data collection"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "gender analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "gender-sensitive electrification planning",
+        "Description": "Gender analysis is an essential component of gender-sensitive electrification planning. It involves assessing the different needs, priorities, and roles of women, men, and gender-diverse individuals in relation to energy access and electrification. This analysis helps identify gender-specific barriers and opportunities in the planning process.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "electrification planning",
+        "Relation": "is a sub-element of",
+        "Parent": "gender-sensitive electrification planning",
+        "Description": "Electrification planning is a key aspect of gender-sensitive electrification planning. It involves the development of strategies, policies, and actions to ensure equitable and sustainable access to electricity for all, taking into account the specific needs and priorities of different gender groups.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender mainstreaming",
+        "Relation": "is a sub-element of",
+        "Parent": "gender-sensitive electrification planning",
+        "Description": "Gender mainstreaming is an important principle in gender-sensitive electrification planning. It involves integrating gender perspectives and considerations into all stages of the planning process, from data collection and analysis to policy development and implementation. This ensures that gender equality and women's empowerment are central to the electrification agenda.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-responsive policies",
+        "Relation": "is a sub-element of",
+        "Parent": "gender-sensitive electrification planning",
+        "Description": "Gender-responsive policies are crucial in gender-sensitive electrification planning. These policies aim to address the specific needs and priorities of women, men, and gender-diverse individuals in relation to energy access and electrification. They promote gender equality, social inclusion, and sustainable development in the energy sector.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender-sensitive data collection",
+        "Relation": "is a sub-element of",
+        "Parent": "gender-sensitive electrification planning",
+        "Description": "Gender-sensitive data collection is a foundational element of gender-sensitive electrification planning. It involves gathering sex-disaggregated data and other gender-related information to understand the different energy needs, preferences, and behaviors of women, men, and gender-diverse individuals. This data helps inform evidence-based decision-making and targeted interventions.",
+        "Importance": 4
+      }
+    ]
   }
 }

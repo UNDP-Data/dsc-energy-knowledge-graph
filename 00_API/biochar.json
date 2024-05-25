@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "circular economy",
-      "carbon sequestration",
-      "soil ph",
-      "soil fertility",
-      "agricultural organizations",
       "pyrolysis",
+      "agricultural organizations",
+      "biochar production facilities",
+      "soil ph",
       "carbon sequestration technology",
-      "biochar production facilities"
+      "circular economy",
+      "soil fertility",
+      "carbon sequestration"
     ],
     "relations": {
       "level 1": [

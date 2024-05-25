@@ -16,13 +16,13 @@
   "knowledge graph": {
     "entities": [
       "energy diplomacy",
-      "renewable energy agencies",
+      "energy efficiency",
+      "energy markets",
       "climate change mitigation",
       "energy consumption",
-      "energy efficiency",
       "building standards",
-      "government agencies",
-      "energy markets"
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [

@@ -16,14 +16,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "Action Opportunities",
-      "climate change mitigation",
       "energy access challenges",
-      "renewable energy agencies",
-      "energy consumption",
-      "energy assistance programs",
       "sustainable energy access",
-      "humanitarian organizations"
+      "Action Opportunities",
+      "energy consumption",
+      "humanitarian organizations",
+      "climate change mitigation",
+      "energy assistance programs",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -123,7 +123,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "lighting",
+      "cooking",
+      "heating",
+      "cooling",
+      "communication"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "lighting",
+        "Relation": "is a sub-element of",
+        "Parent": "energy services in displacement settings",
+        "Description": "Lighting is a crucial sub-element of energy services in displacement settings. It provides illumination for various activities, enhances safety and security, and enables social interactions during the evening and night.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "cooking",
+        "Relation": "is a sub-element of",
+        "Parent": "energy services in displacement settings",
+        "Description": "Cooking is an essential sub-element of energy services in displacement settings. It involves the preparation of meals and the provision of heat for food processing, contributing to nutrition, health, and well-being of displaced populations.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "heating",
+        "Relation": "is a sub-element of",
+        "Parent": "energy services in displacement settings",
+        "Description": "Heating is a significant sub-element of energy services in displacement settings. It helps maintain thermal comfort, prevents hypothermia, and supports the well-being and health of displaced individuals in cold environments.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "cooling",
+        "Relation": "is a sub-element of",
+        "Parent": "energy services in displacement settings",
+        "Description": "Cooling is an important sub-element of energy services in displacement settings. It provides relief from high temperatures, reduces heat-related health risks, and improves the comfort and livability of temporary shelters.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "communication",
+        "Relation": "is a sub-element of",
+        "Parent": "energy services in displacement settings",
+        "Description": "Communication is a vital sub-element of energy services in displacement settings. It enables displaced individuals to connect with their families, access information, seek assistance, and maintain social networks, contributing to their well-being and resilience.",
+        "Importance": 4
+      }
+    ]
   }
 }

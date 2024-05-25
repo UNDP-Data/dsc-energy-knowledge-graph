@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "emergency energy provision",
-      "renewable energy agencies",
-      "humanitarian organizations",
-      "sendai framework for disaster risk reduction",
-      "energy resilience",
       "disaster response",
+      "sendai framework for disaster risk reduction",
       "humanitarian needs",
-      "energy aid programs"
+      "humanitarian organizations",
+      "renewable energy agencies",
+      "energy aid programs",
+      "energy resilience",
+      "emergency energy provision"
     ],
     "relations": {
       "level 1": [
@@ -122,7 +122,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Renewable energy solutions",
+      "Energy access",
+      "Energy efficiency",
+      "Energy storage",
+      "Energy management"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Renewable energy solutions",
+        "Relation": "is a sub-element of",
+        "Parent": "energy in crisis settings",
+        "Description": "Renewable energy solutions play a crucial role in addressing energy needs in crisis settings. They provide a sustainable and reliable source of energy, reducing dependence on fossil fuels and minimizing environmental impact.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Energy access",
+        "Relation": "is a sub-element of",
+        "Parent": "energy in crisis settings",
+        "Description": "Ensuring energy access is essential in crisis settings to meet basic needs, support healthcare facilities, and enable communication and coordination. It contributes to improving living conditions and enhancing resilience.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Energy efficiency",
+        "Relation": "is a sub-element of",
+        "Parent": "energy in crisis settings",
+        "Description": "Energy efficiency measures are crucial in crisis settings to optimize energy use and reduce waste. They help maximize the effectiveness of limited energy resources and minimize the environmental impact.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Energy storage",
+        "Relation": "is a sub-element of",
+        "Parent": "energy in crisis settings",
+        "Description": "Energy storage solutions are important in crisis settings to ensure a reliable and continuous energy supply. They enable the integration of intermittent renewable energy sources and provide backup power during emergencies.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Energy management",
+        "Relation": "is a sub-element of",
+        "Parent": "energy in crisis settings",
+        "Description": "Effective energy management is crucial in crisis settings to optimize energy resources, prioritize energy needs, and ensure efficient energy distribution. It helps in minimizing energy wastage and maximizing energy availability.",
+        "Importance": 2
+      }
+    ]
   }
 }

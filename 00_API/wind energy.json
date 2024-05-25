@@ -18,13 +18,13 @@
   },
   "knowledge graph": {
     "entities": [
+      "wind turbine performance",
+      "research and development",
+      "grid operators",
+      "energy efficiency",
+      "offshore wind development",
       "climate change mitigation",
       "renewable energy agencies",
-      "grid operators",
-      "research and development",
-      "wind turbine performance",
-      "offshore wind development",
-      "energy efficiency",
       "wind farms"
     ],
     "relations": {
@@ -139,7 +139,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "wind turbines",
+      "wind farms",
+      "wind power",
+      "wind resources",
+      "wind speed"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "wind turbines",
+        "Relation": "is a sub-element of",
+        "Parent": "wind energy",
+        "Description": "Wind turbines are devices that convert the kinetic energy of the wind into mechanical energy, which can then be used to generate electricity. They are a key component of wind energy systems.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "wind farms",
+        "Relation": "is a sub-element of",
+        "Parent": "wind energy",
+        "Description": "Wind farms are large areas of land or water where multiple wind turbines are installed to generate electricity on a larger scale. They are an important infrastructure for harnessing wind energy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "wind power",
+        "Relation": "is a sub-element of",
+        "Parent": "wind energy",
+        "Description": "Wind power refers to the conversion of wind energy into a useful form, such as electricity or mechanical power. It is a sustainable and renewable source of energy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "wind resources",
+        "Relation": "is a sub-element of",
+        "Parent": "wind energy",
+        "Description": "Wind resources refer to the availability and potential of wind energy in a particular area. Factors such as wind speed, direction, and consistency determine the suitability of a location for wind energy projects.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "wind speed",
+        "Relation": "is a sub-element of",
+        "Parent": "wind energy",
+        "Description": "Wind speed is a crucial parameter for wind energy generation. Higher wind speeds result in greater power output from wind turbines. It is measured using anemometers.",
+        "Importance": 3
+      }
+    ]
   }
 }

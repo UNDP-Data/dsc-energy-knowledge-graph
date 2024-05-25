@@ -18,13 +18,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "high carbon intensity industries",
-      "sustainable development goals",
-      "carbon market",
       "energy efficiency",
+      "sustainable development goals",
+      "climate change mitigation",
       "emission reduction",
+      "carbon market",
+      "renewable energy agencies",
       "private sector"
     ],
     "relations": {
@@ -139,7 +139,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "carbon tax",
+      "cap and trade",
+      "emissions trading",
+      "offsets",
+      "revenue recycling"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "carbon tax",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon pricing",
+        "Description": "A carbon tax is a form of carbon pricing where a fee is imposed on the carbon content of fossil fuels. It is designed to reduce greenhouse gas emissions by making fossil fuels more expensive and encouraging the use of cleaner alternatives.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "cap and trade",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon pricing",
+        "Description": "Cap and trade is a market-based approach to carbon pricing. It sets a limit (cap) on the total amount of greenhouse gas emissions allowed and allows companies to buy and sell emission allowances. This creates a financial incentive for companies to reduce their emissions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "emissions trading",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon pricing",
+        "Description": "Emissions trading is another form of market-based carbon pricing. It allows companies to buy and sell emission permits or credits. Companies that can reduce emissions at a lower cost can sell their excess permits to companies that face higher costs.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "offsets",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon pricing",
+        "Description": "Offsets are a mechanism used in carbon pricing to compensate for emissions by investing in projects that reduce or remove greenhouse gas emissions. These projects can include reforestation, renewable energy, or energy efficiency initiatives.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "revenue recycling",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon pricing",
+        "Description": "Revenue recycling refers to the use of the revenue generated from carbon pricing mechanisms. It can be used to fund renewable energy projects, support low-income households, or invest in climate adaptation and mitigation measures.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -15,13 +15,13 @@
   "knowledge graph": {
     "entities": [
       "greenhouse gas emissions reduction",
-      "renewable energy agencies",
       "research and development",
-      "carbon neutrality",
-      "energy efficiency",
+      "electric vehicle charging infrastructure",
       "hydrogen production efficiency",
+      "energy efficiency",
       "just energy transition",
-      "electric vehicle charging infrastructure"
+      "carbon neutrality",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "electrolyzer",
+      "methanation reactor",
+      "gas storage",
+      "gas grid injection",
+      "power-to-liquid"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "electrolyzer",
+        "Relation": "is a sub-element of",
+        "Parent": "power-to-gas systems",
+        "Description": "An electrolyzer is a key component of power-to-gas systems. It uses electricity to split water into hydrogen and oxygen through the process of electrolysis. The hydrogen produced can then be used for various applications, such as energy storage or fuel production.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "methanation reactor",
+        "Relation": "is a sub-element of",
+        "Parent": "power-to-gas systems",
+        "Description": "A methanation reactor is an essential part of power-to-gas systems. It converts hydrogen and carbon dioxide into synthetic natural gas (methane) through a catalytic process. This allows for the storage and utilization of renewable energy in existing natural gas infrastructure.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gas storage",
+        "Relation": "is a sub-element of",
+        "Parent": "power-to-gas systems",
+        "Description": "Gas storage is a crucial component of power-to-gas systems. It involves storing the produced hydrogen or synthetic natural gas for later use when the demand for energy is high or renewable energy generation is low. This enables the system to provide a continuous and reliable energy supply.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "gas grid injection",
+        "Relation": "is a sub-element of",
+        "Parent": "power-to-gas systems",
+        "Description": "Gas grid injection is an important process in power-to-gas systems. It involves injecting the produced hydrogen or synthetic natural gas into the existing natural gas grid infrastructure. This allows for the distribution and utilization of renewable energy in various sectors, such as heating, transportation, and industry.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "power-to-liquid",
+        "Relation": "is a sub-element of",
+        "Parent": "power-to-gas systems",
+        "Description": "Power-to-liquid is a related concept to power-to-gas systems. It involves the conversion of renewable electricity and carbon dioxide into liquid fuels, such as synthetic hydrocarbons or biofuels. This process enables the production of sustainable transportation fuels.",
+        "Importance": 2
+      }
+    ]
   }
 }

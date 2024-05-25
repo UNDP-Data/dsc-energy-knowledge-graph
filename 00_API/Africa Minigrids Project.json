@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "rural electrification",
-      "energy markets",
-      "sustainable development goals",
-      "local governments",
-      "smart metering technologies",
       "public-private partnerships",
       "financial incentives",
-      "energy entrepreneurship"
+      "smart metering technologies",
+      "local governments",
+      "energy entrepreneurship",
+      "energy markets",
+      "sustainable development goals",
+      "rural electrification"
     ],
     "relations": {
       "level 1": [

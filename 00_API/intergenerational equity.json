@@ -17,15 +17,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "youth organizations",
-      "sustainable development",
-      "sustainable development goals",
-      "international agreements",
-      "intergenerational equity",
-      "environmental impact assessments",
       "long-term sustainability",
-      "environmental conservation projects"
+      "environmental conservation projects",
+      "international agreements",
+      "youth organizations",
+      "sustainable development goals",
+      "environmental impact assessments",
+      "climate change mitigation",
+      "intergenerational equity",
+      "sustainable development"
     ],
     "relations": {
       "level 1": [

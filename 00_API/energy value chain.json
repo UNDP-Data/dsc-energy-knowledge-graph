@@ -16,12 +16,12 @@
   "knowledge graph": {
     "entities": [
       "sustainable energy system",
-      "renewable energy agencies",
       "energy efficiency",
-      "energy governance",
       "climate resilience funds",
-      "government agencies",
-      "energy markets"
+      "energy markets",
+      "energy governance",
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Exploration and production",
+      "Refining",
+      "Transportation",
+      "Distribution",
+      "Consumption"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Exploration and production",
+        "Relation": "is a sub-element of",
+        "Parent": "energy value chain",
+        "Description": "Exploration and production is a crucial stage in the energy value chain, involving the search for and extraction of energy resources such as oil, gas, and coal. It includes activities such as geological surveys, drilling, and extraction techniques.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Refining",
+        "Relation": "is a sub-element of",
+        "Parent": "energy value chain",
+        "Description": "Refining is an essential part of the energy value chain, where raw energy resources are processed and transformed into usable forms such as gasoline, diesel, and jet fuel. It involves processes like distillation, cracking, and purification.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Transportation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy value chain",
+        "Description": "Transportation is a critical component of the energy value chain, involving the movement of energy resources from production sites to refineries, storage facilities, and end-users. It includes modes of transportation such as pipelines, tankers, and trucks.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Distribution",
+        "Relation": "is a sub-element of",
+        "Parent": "energy value chain",
+        "Description": "Distribution is a key stage in the energy value chain, where refined energy products are delivered to end-users such as households, industries, and transportation sectors. It involves infrastructure like pipelines, power grids, and fuel stations.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Consumption",
+        "Relation": "is a sub-element of",
+        "Parent": "energy value chain",
+        "Description": "Consumption is the final stage of the energy value chain, where energy products are utilized by end-users for various purposes like heating, electricity generation, and transportation. It includes activities such as burning fossil fuels and using renewable energy sources.",
+        "Importance": 4
+      }
+    ]
   }
 }

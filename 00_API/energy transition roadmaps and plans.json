@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "collaboration with stakeholders",
-      "energy consumption",
+      "regional energy organizations",
       "energy efficiency",
+      "climate change mitigation",
+      "energy consumption",
       "building standards",
-      "regional energy organizations"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -149,7 +149,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "policy frameworks",
+      "technology roadmaps",
+      "investment plans",
+      "capacity building programs",
+      "monitoring and evaluation mechanisms"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "policy frameworks",
+        "Relation": "is a sub-element of",
+        "Parent": "energy transition roadmaps and plans",
+        "Description": "Policy frameworks are an essential component of energy transition roadmaps and plans. They provide the necessary guidelines, regulations, and incentives to drive the transition towards sustainable energy sources. Policy frameworks help create an enabling environment for the deployment of renewable energy technologies and the phasing out of fossil fuels.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "technology roadmaps",
+        "Relation": "is a sub-element of",
+        "Parent": "energy transition roadmaps and plans",
+        "Description": "Technology roadmaps play a crucial role in energy transition roadmaps and plans. They outline the technological pathways and milestones required to achieve the desired energy transition goals. Technology roadmaps identify the key technologies, research and development priorities, and deployment strategies needed to accelerate the adoption of sustainable energy solutions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "investment plans",
+        "Relation": "is a sub-element of",
+        "Parent": "energy transition roadmaps and plans",
+        "Description": "Investment plans are an integral part of energy transition roadmaps and plans. They outline the financial resources and mechanisms required to support the implementation of sustainable energy projects and initiatives. Investment plans identify funding sources, financing instruments, and investment priorities to attract public and private investments in the energy transition sector.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "capacity building programs",
+        "Relation": "is a sub-element of",
+        "Parent": "energy transition roadmaps and plans",
+        "Description": "Capacity building programs are essential for the successful implementation of energy transition roadmaps and plans. They aim to enhance the knowledge, skills, and capabilities of stakeholders involved in the energy transition process. Capacity building programs provide training, education, and awareness-raising activities to empower individuals and institutions to actively contribute to the transition towards sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "monitoring and evaluation mechanisms",
+        "Relation": "is a sub-element of",
+        "Parent": "energy transition roadmaps and plans",
+        "Description": "Monitoring and evaluation mechanisms are critical for the effective implementation and progress tracking of energy transition roadmaps and plans. They provide a framework for assessing the performance, impact, and effectiveness of sustainable energy initiatives. Monitoring and evaluation mechanisms enable the identification of gaps, challenges, and opportunities for continuous improvement and course correction.",
+        "Importance": 4
+      }
+    ]
   }
 }

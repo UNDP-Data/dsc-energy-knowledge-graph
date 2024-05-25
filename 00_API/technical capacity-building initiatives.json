@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "impact",
       "universities",
-      "training programs",
+      "multilateral development banks",
+      "capacity development",
       "energy cooperatives",
       "skills gap",
-      "capacity development",
-      "impact",
       "energy entrepreneurship",
-      "multilateral development banks"
+      "training programs"
     ],
     "relations": {
       "level 1": [
@@ -149,7 +149,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "training programs",
+      "workshops",
+      "knowledge sharing platforms",
+      "mentoring programs",
+      "skill development programs"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "training programs",
+        "Relation": "is a sub-element of",
+        "Parent": "technical capacity-building initiatives",
+        "Description": "Training programs are an essential part of technical capacity-building initiatives. They provide participants with the necessary knowledge and skills to understand and implement sustainable energy practices.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "workshops",
+        "Relation": "is a sub-element of",
+        "Parent": "technical capacity-building initiatives",
+        "Description": "Workshops play a crucial role in technical capacity-building initiatives. They provide a platform for interactive learning, knowledge exchange, and practical demonstrations related to sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "knowledge sharing platforms",
+        "Relation": "is a sub-element of",
+        "Parent": "technical capacity-building initiatives",
+        "Description": "Knowledge sharing platforms are an integral part of technical capacity-building initiatives. They facilitate the dissemination of information, best practices, and lessons learned in the field of sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "mentoring programs",
+        "Relation": "is a sub-element of",
+        "Parent": "technical capacity-building initiatives",
+        "Description": "Mentoring programs are a valuable component of technical capacity-building initiatives. They provide guidance, support, and knowledge transfer from experienced professionals to individuals or organizations involved in sustainable energy.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "skill development programs",
+        "Relation": "is a sub-element of",
+        "Parent": "technical capacity-building initiatives",
+        "Description": "Skill development programs are an important aspect of technical capacity-building initiatives. They focus on enhancing specific skills required for the implementation and management of sustainable energy projects.",
+        "Importance": 4
+      }
+    ]
   }
 }

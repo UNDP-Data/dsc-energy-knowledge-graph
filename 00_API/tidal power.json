@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
       "research and development",
       "energy efficiency",
-      "cogeneration",
+      "ocean conservation organization",
       "just energy transition",
-      "ocean conservation organization"
+      "climate change mitigation",
+      "cogeneration",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "tidal turbines",
+      "tidal barrages",
+      "tidal lagoons",
+      "tidal fences",
+      "tidal stream generators"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "tidal turbines",
+        "Relation": "is a sub-element of",
+        "Parent": "tidal power",
+        "Description": "Tidal turbines are devices that convert the kinetic energy of tidal currents into electrical energy. They are typically installed on the seabed or mounted on floating platforms and use the flow of water to rotate their blades and generate electricity.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "tidal barrages",
+        "Relation": "is a sub-element of",
+        "Parent": "tidal power",
+        "Description": "Tidal barrages are large structures built across estuaries or bays to capture and harness the energy of tidal movements. They consist of a dam-like barrier with turbines that generate electricity as the tide flows in and out, utilizing the potential energy difference between high and low tides.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "tidal lagoons",
+        "Relation": "is a sub-element of",
+        "Parent": "tidal power",
+        "Description": "Tidal lagoons are enclosed areas of seawater that are partially enclosed by a natural or artificial barrier. They utilize the rise and fall of tides to generate electricity through turbines. Tidal lagoons can provide a more predictable and controllable source of tidal energy compared to other technologies.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "tidal fences",
+        "Relation": "is a sub-element of",
+        "Parent": "tidal power",
+        "Description": "Tidal fences, also known as tidal barrages or tidal fences, are arrays of vertical axis turbines installed in a line across a tidal channel or river. They harness the kinetic energy of tidal currents to generate electricity. Tidal fences are suitable for locations with strong tidal flows.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "tidal stream generators",
+        "Relation": "is a sub-element of",
+        "Parent": "tidal power",
+        "Description": "Tidal stream generators are devices that extract energy from the flow of tidal currents. They typically consist of underwater turbines or rotors that are anchored to the seabed or suspended in the water column. Tidal stream generators can be deployed in various configurations to maximize energy capture.",
+        "Importance": 4
+      }
+    ]
   }
 }

@@ -18,14 +18,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
       "energy affordability",
-      "energy consumption",
       "energy ministries",
-      "energy service companies",
       "energy efficiency",
       "national energy policy",
-      "energy markets"
+      "energy markets",
+      "energy service companies",
+      "energy consumption",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

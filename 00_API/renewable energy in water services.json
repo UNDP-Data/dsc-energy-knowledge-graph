@@ -16,14 +16,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
+      "water conservation",
       "energy output",
       "local communities",
+      "solar power",
       "sustainable development goals",
       "water scarcity",
-      "water conservation",
       "resilient infrastructure",
-      "solar power"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -108,7 +108,33 @@
       ],
       "level 3": []
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "solar-powered water pumps",
+      "hydroelectric power in water treatment plants",
+      "wind-powered desalination systems"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "solar-powered water pumps",
+        "Relation": "is a sub-element of",
+        "Parent": "renewable energy in water services",
+        "Description": "Solar-powered water pumps are a sub-component of renewable energy in water services. They use solar energy to pump water, reducing the reliance on fossil fuels and minimizing greenhouse gas emissions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "hydroelectric power in water treatment plants",
+        "Relation": "is a sub-element of",
+        "Parent": "renewable energy in water services",
+        "Description": "Hydroelectric power in water treatment plants is a type of renewable energy used in water services. It involves generating electricity from flowing water, such as rivers or streams, to power the water treatment process.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "wind-powered desalination systems",
+        "Relation": "is a sub-element of",
+        "Parent": "renewable energy in water services",
+        "Description": "Wind-powered desalination systems are a category of renewable energy solutions for water services. They utilize wind energy to power the desalination process, converting seawater into freshwater.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -19,13 +19,13 @@
   "knowledge graph": {
     "entities": [
       "energy transition initiatives",
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "energy efficiency",
+      "energy markets",
+      "climate change mitigation",
+      "energy consumption",
       "building standards",
-      "government agencies",
-      "energy markets"
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [
@@ -153,7 +153,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "electricity generation",
+      "electricity transmission",
+      "electricity distribution",
+      "natural gas distribution",
+      "water supply and sanitation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "electricity generation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy infrastructure services",
+        "Description": "Electricity generation is a crucial sub-element of energy infrastructure services. It involves the production of electricity from various sources such as fossil fuels, renewable energy, or nuclear power.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "electricity transmission",
+        "Relation": "is a sub-element of",
+        "Parent": "energy infrastructure services",
+        "Description": "Electricity transmission is an essential sub-element of energy infrastructure services. It refers to the process of transporting electricity from power plants to distribution networks or end-users through high-voltage power lines.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "electricity distribution",
+        "Relation": "is a sub-element of",
+        "Parent": "energy infrastructure services",
+        "Description": "Electricity distribution is a vital sub-element of energy infrastructure services. It involves the delivery of electricity from transmission networks to consumers, including households, businesses, and industries.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "natural gas distribution",
+        "Relation": "is a sub-element of",
+        "Parent": "energy infrastructure services",
+        "Description": "Natural gas distribution is an important sub-element of energy infrastructure services. It refers to the transportation and delivery of natural gas to end-users, including residential, commercial, and industrial sectors.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "water supply and sanitation",
+        "Relation": "is a sub-element of",
+        "Parent": "energy infrastructure services",
+        "Description": "Water supply and sanitation are integral sub-elements of energy infrastructure services. They involve the provision of clean and safe water for various purposes, including drinking, sanitation, and industrial use.",
+        "Importance": 3
+      }
+    ]
   }
 }

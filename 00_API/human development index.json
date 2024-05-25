@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "universal energy access",
-      "energy consumption",
       "access to clean energy",
+      "sustainable energy hub",
+      "universal energy access",
       "energy efficiency",
+      "climate change mitigation",
+      "energy consumption",
       "energy poverty indices",
-      "sustainable energy hub"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

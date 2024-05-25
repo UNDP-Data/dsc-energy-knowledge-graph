@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
       "greenhouse gas emissions",
       "carbon pricing",
-      "Paris Agreement Goals",
-      "air pollution",
       "regional energy organizations",
-      "just energy transition"
+      "air pollution",
+      "just energy transition",
+      "renewable energy agencies",
+      "Paris Agreement Goals"
     ],
     "relations": {
       "level 1": [
@@ -162,7 +162,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "renewable energy transition",
+      "energy efficiency measures",
+      "carbon pricing",
+      "clean energy investments",
+      "policy and regulatory frameworks"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "renewable energy transition",
+        "Relation": "is a sub-element of",
+        "Parent": "fossil fuel phase-out",
+        "Description": "The transition to renewable energy sources is a key sub-element of fossil fuel phase-out. It involves shifting from fossil fuel-based energy generation to renewable sources such as solar, wind, and hydro power. This sub-element is important in achieving sustainable energy goals and reducing greenhouse gas emissions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency measures",
+        "Relation": "is a sub-element of",
+        "Parent": "fossil fuel phase-out",
+        "Description": "Energy efficiency measures are essential sub-elements of fossil fuel phase-out. These measures focus on reducing energy consumption and improving energy efficiency in various sectors such as buildings, transportation, and industry. By implementing energy efficiency measures, the reliance on fossil fuels can be minimized.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "carbon pricing",
+        "Relation": "is a sub-element of",
+        "Parent": "fossil fuel phase-out",
+        "Description": "Carbon pricing is a sub-element of fossil fuel phase-out that involves putting a price on carbon emissions. By implementing carbon pricing mechanisms such as carbon taxes or cap-and-trade systems, the cost of emitting greenhouse gases is increased, incentivizing the transition away from fossil fuels towards cleaner alternatives.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "clean energy investments",
+        "Relation": "is a sub-element of",
+        "Parent": "fossil fuel phase-out",
+        "Description": "Clean energy investments are crucial sub-elements of fossil fuel phase-out. These investments involve allocating financial resources towards the development and deployment of clean energy technologies and infrastructure. By investing in clean energy, the dependence on fossil fuels can be reduced and sustainable energy systems can be established.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "policy and regulatory frameworks",
+        "Relation": "is a sub-element of",
+        "Parent": "fossil fuel phase-out",
+        "Description": "Policy and regulatory frameworks play a significant role as sub-elements of fossil fuel phase-out. These frameworks include laws, regulations, and incentives that support the transition away from fossil fuels and promote the adoption of sustainable energy practices. Effective policies and regulations are essential for driving the necessary changes in the energy sector.",
+        "Importance": 4
+      }
+    ]
   }
 }

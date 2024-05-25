@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "risk exposure",
-      "sustainable development goals",
       "risk management",
-      "natural disasters",
-      "green buildings",
-      "social protection",
       "insurance companies",
-      "financial stability"
+      "financial stability",
+      "social protection",
+      "natural disasters",
+      "sustainable development goals",
+      "green buildings",
+      "risk exposure"
     ],
     "relations": {
       "level 1": [
@@ -135,7 +135,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "catastrophe bonds",
+      "parametric insurance",
+      "microinsurance",
+      "index-based insurance",
+      "weather derivatives"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "catastrophe bonds",
+        "Relation": "is a sub-element of",
+        "Parent": "risk insurance products",
+        "Description": "Catastrophe bonds are a type of risk insurance product that transfer the risk of a specified catastrophe event, such as a natural disaster, from the issuer to the investors. They provide financial protection to the issuer in case of a catastrophic event and offer investors the opportunity to earn high returns if the event does not occur.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "parametric insurance",
+        "Relation": "is a sub-element of",
+        "Parent": "risk insurance products",
+        "Description": "Parametric insurance is a type of risk insurance product that pays out a predetermined amount based on the occurrence of a specific event, such as a natural disaster or a decline in crop yield, rather than the actual loss incurred. It provides a quick and efficient way to compensate for losses without the need for lengthy claims assessment processes.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "microinsurance",
+        "Relation": "is a sub-element of",
+        "Parent": "risk insurance products",
+        "Description": "Microinsurance refers to insurance products specifically designed for low-income individuals and households. It provides affordable coverage for risks such as health, life, property, and agriculture, helping to protect vulnerable populations from financial shocks and promoting resilience.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "index-based insurance",
+        "Relation": "is a sub-element of",
+        "Parent": "risk insurance products",
+        "Description": "Index-based insurance, also known as parametric insurance, is a type of risk insurance product that uses an index, such as weather data or crop yield, as a basis for determining payouts. It offers a simplified claims process and can provide coverage for risks that are difficult to assess individually, such as weather-related crop losses.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "weather derivatives",
+        "Relation": "is a sub-element of",
+        "Parent": "risk insurance products",
+        "Description": "Weather derivatives are financial instruments that allow businesses and individuals to hedge against the financial impact of adverse weather conditions. They provide protection against losses or reduced revenues caused by weather events, such as hurricanes, droughts, or temperature fluctuations.",
+        "Importance": 2
+      }
+    ]
   }
 }

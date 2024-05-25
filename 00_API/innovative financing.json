@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy innovation funds",
-      "impact investing",
-      "financial innovation",
-      "green bonds",
-      "un sustainable development goals",
       "startups",
-      "multilateral development banks"
+      "multilateral development banks",
+      "impact investing",
+      "un sustainable development goals",
+      "financial innovation",
+      "energy innovation funds",
+      "green bonds"
     ],
     "relations": {
       "level 1": [
@@ -128,7 +128,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "green bonds",
+      "impact investing",
+      "crowdfunding",
+      "carbon pricing",
+      "energy efficiency financing"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "green bonds",
+        "Relation": "is a sub-element of",
+        "Parent": "innovative financing",
+        "Description": "Green bonds are a type of innovative financing that allow investors to finance projects with environmental benefits. They are specifically designed to fund projects related to sustainable energy, such as renewable energy projects or energy efficiency initiatives.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "impact investing",
+        "Relation": "is a sub-element of",
+        "Parent": "innovative financing",
+        "Description": "Impact investing is a form of innovative financing that aims to generate positive social and environmental impact alongside financial returns. It involves investing in companies, organizations, or projects that address sustainable energy challenges and contribute to the transition to a low-carbon economy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "crowdfunding",
+        "Relation": "is a sub-element of",
+        "Parent": "innovative financing",
+        "Description": "Crowdfunding is a method of innovative financing that involves raising small amounts of money from a large number of individuals to fund a project or venture. It has been used to support sustainable energy initiatives, allowing individuals to contribute to the development of renewable energy projects or energy access programs.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "carbon pricing",
+        "Relation": "is a sub-element of",
+        "Parent": "innovative financing",
+        "Description": "Carbon pricing is a policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system. It can be considered a form of innovative financing as it creates economic incentives for reducing greenhouse gas emissions and encourages investments in sustainable energy solutions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy efficiency financing",
+        "Relation": "is a sub-element of",
+        "Parent": "innovative financing",
+        "Description": "Energy efficiency financing refers to innovative financing mechanisms that support investments in energy efficiency measures. It includes financial products and services specifically designed to enable individuals, businesses, and governments to implement energy-saving technologies and practices, ultimately contributing to sustainable energy goals.",
+        "Importance": 4
+      }
+    ]
   }
 }

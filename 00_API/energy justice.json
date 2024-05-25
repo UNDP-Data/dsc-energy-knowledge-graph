@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "community-led solutions",
-      "renewable energy agencies",
-      "social justice",
-      "equitable energy pricing",
       "energy affordability",
       "social equity",
+      "social justice",
+      "equitable energy pricing",
+      "energy subsisides reform",
+      "community-led solutions",
       "energy poverty indices",
-      "energy subsisides reform"
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

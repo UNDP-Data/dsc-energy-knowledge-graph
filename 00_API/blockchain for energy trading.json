@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "transparency",
       "distributed ledger technology",
-      "renewable energy agencies",
+      "transparency",
       "renewable energy certificates",
-      "smart energy contracts",
       "energy traceability",
       "just energy transition",
+      "smart energy contracts",
+      "renewable energy agencies",
       "decarbonization"
     ],
     "relations": {
@@ -164,7 +164,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "smart contracts",
+      "decentralized platforms",
+      "tokenization",
+      "peer-to-peer trading",
+      "energy marketplaces"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "smart contracts",
+        "Relation": "is a sub-element of",
+        "Parent": "blockchain for energy trading",
+        "Description": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. In the context of blockchain for energy trading, smart contracts enable automated and secure transactions, ensuring transparency and trust between participants.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "decentralized platforms",
+        "Relation": "is a sub-element of",
+        "Parent": "blockchain for energy trading",
+        "Description": "Decentralized platforms provide a distributed infrastructure for energy trading on the blockchain. They eliminate the need for intermediaries and enable direct peer-to-peer transactions, increasing efficiency and reducing costs.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "tokenization",
+        "Relation": "is a sub-element of",
+        "Parent": "blockchain for energy trading",
+        "Description": "Tokenization involves representing real-world assets, such as energy units or certificates, as digital tokens on the blockchain. It enables fractional ownership, liquidity, and efficient transfer of value in energy trading.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "peer-to-peer trading",
+        "Relation": "is a sub-element of",
+        "Parent": "blockchain for energy trading",
+        "Description": "Peer-to-peer trading allows direct energy exchange between producers and consumers without the need for intermediaries. Blockchain facilitates secure and transparent peer-to-peer transactions, enabling decentralized energy markets.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "energy marketplaces",
+        "Relation": "is a sub-element of",
+        "Parent": "blockchain for energy trading",
+        "Description": "Energy marketplaces are online platforms that connect energy buyers and sellers. By leveraging blockchain technology, energy marketplaces enable efficient and transparent trading, promoting renewable energy integration and grid optimization.",
+        "Importance": 3
+      }
+    ]
   }
 }

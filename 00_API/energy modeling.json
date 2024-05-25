@@ -17,13 +17,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "energy consumption",
       "sustainable energy planning",
+      "research and development",
       "renewable energy certificates",
-      "energy consultants",
       "building energy performance",
       "energy efficiency",
+      "energy consultants",
+      "energy consumption",
       "carbon footprint reduction"
     ],
     "relations": {
@@ -144,7 +144,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "system optimization",
+      "scenario analysis",
+      "cost-benefit analysis",
+      "policy analysis",
+      "technology assessment"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "system optimization",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "System optimization is a key aspect of energy modeling, where different system configurations and parameters are analyzed to identify the most efficient and optimal solutions. It involves optimizing energy generation, distribution, and consumption to minimize costs and environmental impacts.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "scenario analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Scenario analysis is an important component of energy modeling, where different future scenarios and their potential impacts on energy systems are assessed. It helps in understanding the potential outcomes of different policy decisions and technological advancements.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "cost-benefit analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Cost-benefit analysis is a crucial part of energy modeling, where the economic costs and benefits of different energy projects and policies are evaluated. It helps in determining the financial viability and overall societal benefits of various energy options.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "policy analysis",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Policy analysis is an integral aspect of energy modeling, where the impact of different policy interventions on energy systems is assessed. It helps in identifying the most effective policy measures to achieve sustainable energy goals.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "technology assessment",
+        "Relation": "is a sub-element of",
+        "Parent": "energy modeling",
+        "Description": "Technology assessment is a critical component of energy modeling, where the performance and potential of different energy technologies are evaluated. It helps in identifying the most suitable and efficient technologies for achieving sustainable energy objectives.",
+        "Importance": 4
+      }
+    ]
   }
 }

@@ -19,14 +19,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change impacts",
-      "renewable energy certificates",
-      "sustainable development goals",
       "resilient energy storage systems",
       "disaster management agencies",
       "micro grids",
-      "energy resilience",
-      "energy democracy"
+      "renewable energy certificates",
+      "energy democracy",
+      "sustainable development goals",
+      "climate change impacts",
+      "energy resilience"
     ],
     "relations": {
       "level 1": [

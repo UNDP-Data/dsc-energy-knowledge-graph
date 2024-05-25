@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "energy efficiency",
-      "energy poverty indices",
       "traditional energy technologies",
       "partnership",
-      "energy markets"
+      "energy markets",
+      "climate change mitigation",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -170,7 +170,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "mobile wallets",
+      "mobile banking",
+      "mobile money transfer",
+      "mobile payment apps",
+      "contactless payments"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "mobile wallets",
+        "Relation": "is a sub-element of",
+        "Parent": "mobile payment systems",
+        "Description": "Mobile wallets are a type of mobile payment system that allows users to store their payment information digitally on their mobile devices. They enable users to make payments conveniently and securely using their smartphones or other mobile devices.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "mobile banking",
+        "Relation": "is a sub-element of",
+        "Parent": "mobile payment systems",
+        "Description": "Mobile banking is a sub-component of mobile payment systems that enables users to perform banking transactions, such as checking account balances, transferring funds, and paying bills, using their mobile devices. It provides convenient and accessible financial services to individuals, especially those without access to traditional banking services.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "mobile money transfer",
+        "Relation": "is a sub-element of",
+        "Parent": "mobile payment systems",
+        "Description": "Mobile money transfer is a sub-component of mobile payment systems that allows users to send and receive money using their mobile devices. It provides a convenient and secure way to transfer funds, especially in areas with limited access to traditional banking services.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "mobile payment apps",
+        "Relation": "is a sub-element of",
+        "Parent": "mobile payment systems",
+        "Description": "Mobile payment apps are applications that enable users to make payments using their mobile devices. These apps often integrate with mobile wallets or mobile banking services to provide a seamless payment experience. They offer convenience and flexibility in making transactions.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "contactless payments",
+        "Relation": "is a sub-element of",
+        "Parent": "mobile payment systems",
+        "Description": "Contactless payments are a type of mobile payment system that allows users to make transactions by simply tapping their mobile devices or payment cards on a contactless-enabled terminal. It offers a fast and secure payment method, reducing the need for physical contact and enhancing convenience.",
+        "Importance": 4
+      }
+    ]
   }
 }

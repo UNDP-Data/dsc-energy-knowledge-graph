@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
+      "spatial analysis",
+      "community engagement",
       "land suitability",
       "sustainable development goals",
-      "spatial analysis",
-      "urban planning departments",
+      "climate change mitigation",
       "integrated resource planning",
       "zoning regulations",
-      "community engagement"
+      "urban planning departments"
     ],
     "relations": {
       "level 1": [
@@ -107,7 +107,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "zoning regulations",
+      "urban design",
+      "environmental impact assessment",
+      "public participation",
+      "land use policies"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "zoning regulations",
+        "Relation": "is a sub-element of",
+        "Parent": "land use planning",
+        "Description": "Zoning regulations are an important aspect of land use planning. They involve dividing land into different zones or areas with specific permitted uses and regulations. This helps to ensure that land is used in a way that is compatible with its surrounding environment and promotes sustainable development.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "urban design",
+        "Relation": "is a sub-element of",
+        "Parent": "land use planning",
+        "Description": "Urban design is a sub-element of land use planning that focuses on the physical layout and design of urban areas. It involves the arrangement and design of buildings, public spaces, transportation systems, and other elements to create functional, attractive, and sustainable urban environments.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "environmental impact assessment",
+        "Relation": "is a sub-element of",
+        "Parent": "land use planning",
+        "Description": "Environmental impact assessment is an integral part of land use planning. It involves assessing the potential environmental effects of proposed land use changes or developments. This helps to identify and mitigate any negative impacts on the environment, ensuring sustainable and responsible land use.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "public participation",
+        "Relation": "is a sub-element of",
+        "Parent": "land use planning",
+        "Description": "Public participation is a crucial aspect of land use planning. It involves involving the public in the decision-making process and seeking their input and feedback on proposed land use changes or developments. This helps to ensure that the interests and concerns of the community are taken into account, leading to more sustainable and inclusive land use decisions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "land use policies",
+        "Relation": "is a sub-element of",
+        "Parent": "land use planning",
+        "Description": "Land use policies are an essential component of land use planning. They are a set of guidelines, regulations, and principles that govern how land is used and developed. These policies help to ensure that land use decisions align with sustainable development goals, promote efficient land use, and protect natural resources.",
+        "Importance": 4
+      }
+    ]
   }
 }

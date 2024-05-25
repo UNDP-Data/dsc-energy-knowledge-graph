@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy consumption patterns",
-      "energy consumption",
-      "utility companies",
       "peak demand",
+      "utility companies",
       "energy efficiency",
+      "energy consumption",
+      "grid stability",
       "building standards",
-      "grid stability"
+      "renewable energy agencies",
+      "energy consumption patterns"
     ],
     "relations": {
       "level 1": [
@@ -142,7 +142,25 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Load forecasting",
+      "Demand-side management"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Load forecasting",
+        "Relation": "is a sub-element of",
+        "Parent": "Load forecasting and demand-side management",
+        "Description": "Load forecasting is a technique used to predict the future electricity demand based on historical data and other relevant factors. It helps in optimizing the generation, transmission, and distribution of electricity, leading to more efficient and sustainable energy systems.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Demand-side management",
+        "Relation": "is a sub-element of",
+        "Parent": "Load forecasting and demand-side management",
+        "Description": "Demand-side management refers to the strategies and measures implemented to modify consumer electricity usage patterns. It aims to reduce peak demand, shift load to off-peak periods, and encourage energy efficiency and conservation. By actively managing the demand, it helps in balancing the electricity grid and promoting sustainable energy consumption.",
+        "Importance": 4
+      }
+    ]
   }
 }

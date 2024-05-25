@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "non-governmental organizations",
+      "environmental initiatives",
+      "debt sustainability",
       "conservation projects",
+      "environmental impact assessments",
       "biodiversity conservation",
       "sustainable development",
-      "debt restructuring",
-      "environmental impact assessments",
-      "environmental initiatives",
-      "non-governmental organizations",
-      "debt sustainability"
+      "debt restructuring"
     ],
     "relations": {
       "level 1": [

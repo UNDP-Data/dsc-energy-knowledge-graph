@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "cost-benefit analysis",
-      "renewable energy agencies",
-      "interdisciplinary field",
-      "sustainable development goals",
-      "energy productivity",
-      "energy poverty indices",
       "regional energy organizations",
-      "energy subsisides reform"
+      "cost-benefit analysis",
+      "interdisciplinary field",
+      "energy subsisides reform",
+      "sustainable development goals",
+      "energy poverty indices",
+      "energy productivity",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

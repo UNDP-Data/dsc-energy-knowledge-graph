@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
+      "energy markets",
       "sustainable development goals",
+      "climate change mitigation",
+      "energy consumption",
       "building standards",
-      "government agencies",
-      "energy markets"
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [
@@ -128,7 +128,33 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Water-energy nexus",
+      "Water-food nexus",
+      "Food-energy nexus"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Water-energy nexus",
+        "Relation": "is a sub-element of",
+        "Parent": "Water-food-energy nexus",
+        "Description": "The water-energy nexus refers to the interdependencies and interactions between water and energy systems. It involves the understanding of the water requirements for energy production and the energy requirements for water treatment and distribution.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "Water-food nexus",
+        "Relation": "is a sub-element of",
+        "Parent": "Water-food-energy nexus",
+        "Description": "The water-food nexus refers to the interconnections between water and food systems. It involves the understanding of the water requirements for agriculture and food production, as well as the impacts of food production on water resources.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Food-energy nexus",
+        "Relation": "is a sub-element of",
+        "Parent": "Water-food-energy nexus",
+        "Description": "The food-energy nexus refers to the interdependencies and interactions between food and energy systems. It involves the understanding of the energy requirements for food production, processing, and distribution, as well as the impacts of food production on energy consumption.",
+        "Importance": 3
+      }
+    ]
   }
 }

@@ -23,14 +23,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy storage",
+      "intermittency of renewable energy",
+      "electric vehicle industry",
+      "energy tax incentives",
       "renewable energy certificates",
       "smart metering technologies",
-      "energy tax incentives",
-      "intermittency of renewable energy",
       "just energy transition",
       "grid stability",
-      "electric vehicle industry"
+      "energy storage"
     ],
     "relations": {
       "level 1": [
@@ -172,7 +172,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "batteries",
+      "flywheels",
+      "compressed air energy storage",
+      "pumped hydro storage",
+      "thermal energy storage"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "energy storage",
+        "Description": "Batteries are a type of energy storage technology that store electrical energy in chemical form. They are widely used in various applications, including renewable energy integration, electric vehicles, and grid stabilization.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "flywheels",
+        "Relation": "is a sub-element of",
+        "Parent": "energy storage",
+        "Description": "Flywheels are mechanical devices that store rotational energy. They are used for short-duration energy storage and provide fast response times for grid stabilization and frequency regulation.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "compressed air energy storage",
+        "Relation": "is a sub-element of",
+        "Parent": "energy storage",
+        "Description": "Compressed air energy storage (CAES) is a method of storing energy by compressing air and storing it in underground caverns or tanks. It is used for large-scale energy storage and can provide grid stability and peak shaving.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "pumped hydro storage",
+        "Relation": "is a sub-element of",
+        "Parent": "energy storage",
+        "Description": "Pumped hydro storage is a form of hydroelectric energy storage that uses two reservoirs at different elevations to store and generate electricity. It is a mature and widely deployed technology for grid-scale energy storage.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "thermal energy storage",
+        "Relation": "is a sub-element of",
+        "Parent": "energy storage",
+        "Description": "Thermal energy storage (TES) systems store thermal energy in the form of hot or cold fluids or materials. They are used for heating, cooling, and power generation applications, enabling efficient energy use and demand management.",
+        "Importance": 3
+      }
+    ]
   }
 }

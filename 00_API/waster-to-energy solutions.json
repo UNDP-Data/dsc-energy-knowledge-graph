@@ -11,13 +11,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "circular economy",
-      "climate change mitigation",
       "renewable energy agencies",
-      "energy production",
+      "waste management",
       "local governments",
+      "climate change mitigation",
+      "energy production",
       "building standards",
-      "waste management"
+      "circular economy"
     ],
     "relations": {
       "level 1": [
@@ -110,7 +110,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "anaerobic digestion",
+      "incineration",
+      "gasification",
+      "pyrolysis",
+      "landfill gas recovery"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "anaerobic digestion",
+        "Relation": "is a sub-element of",
+        "Parent": "waste-to-energy solutions",
+        "Description": "Anaerobic digestion is a sub-component of waste-to-energy solutions. It involves the breakdown of organic waste in the absence of oxygen, producing biogas that can be used for energy generation. This process helps in reducing the volume of waste and capturing methane emissions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "incineration",
+        "Relation": "is a sub-element of",
+        "Parent": "waste-to-energy solutions",
+        "Description": "Incineration is a sub-component of waste-to-energy solutions. It involves the combustion of waste materials at high temperatures, generating heat or electricity. This process helps in reducing the volume of waste and can be used to recover energy from non-recyclable materials.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "gasification",
+        "Relation": "is a sub-element of",
+        "Parent": "waste-to-energy solutions",
+        "Description": "Gasification is a sub-component of waste-to-energy solutions. It involves the conversion of carbonaceous materials into a synthesis gas (syngas) through high-temperature reactions. The syngas can be used for the production of electricity, heat, or biofuels.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "pyrolysis",
+        "Relation": "is a sub-element of",
+        "Parent": "waste-to-energy solutions",
+        "Description": "Pyrolysis is a sub-component of waste-to-energy solutions. It involves the thermal decomposition of organic materials in the absence of oxygen, producing bio-oil, syngas, and char. These products can be used for energy generation or as feedstock for other processes.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "landfill gas recovery",
+        "Relation": "is a sub-element of",
+        "Parent": "waste-to-energy solutions",
+        "Description": "Landfill gas recovery is a sub-component of waste-to-energy solutions. It involves the collection and utilization of methane gas emitted from landfills. The captured methane can be used as a fuel for electricity generation or as a heat source.",
+        "Importance": 4
+      }
+    ]
   }
 }

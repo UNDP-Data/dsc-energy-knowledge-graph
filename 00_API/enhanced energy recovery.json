@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
+      "biodigestion",
+      "municipalities",
+      "waste management",
+      "sustainable development goals",
       "circular economy",
       "feed-in tariff program",
-      "sustainable development goals",
-      "biodigestion",
-      "biogas production",
-      "waste management",
-      "municipalities"
+      "biogas production"
     ],
     "relations": {
       "level 1": [

@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "energy storage",
-      "energy data analytics",
-      "sustainable development goals",
-      "energy efficiency",
       "energy access data",
+      "energy efficiency",
+      "sustainable development goals",
+      "research institutions",
+      "energy storage",
+      "renewable energy agencies",
       "government agencies",
-      "research institutions"
+      "energy data analytics"
     ],
     "relations": {
       "level 1": [

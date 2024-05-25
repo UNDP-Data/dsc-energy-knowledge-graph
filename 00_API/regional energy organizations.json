@@ -20,14 +20,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "energy consumption",
       "energy efficiency",
-      "energy poverty indices",
       "just energy transition",
-      "government agencies",
-      "energy markets"
+      "energy markets",
+      "climate change mitigation",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies",
+      "government agencies"
     ],
     "relations": {
       "level 1": [

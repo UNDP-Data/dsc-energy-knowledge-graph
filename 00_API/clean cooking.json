@@ -16,15 +16,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "local ngos",
-      "health and well-being",
-      "gender equality",
-      "rural areas",
+      "sustainable biomass",
       "clean cooking technologies",
       "energy efficiency",
+      "health and well-being",
       "energy poverty indices",
-      "sustainable biomass"
+      "gender equality",
+      "local ngos",
+      "renewable energy agencies",
+      "rural areas"
     ],
     "relations": {
       "level 1": [

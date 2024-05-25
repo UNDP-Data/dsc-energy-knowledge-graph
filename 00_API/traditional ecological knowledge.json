@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "scientific research institutions",
-      "biodiversity conservation",
-      "intangible cultural heritage",
-      "community-based natural resource management",
+      "agroecology",
       "ecosystem health",
       "climate change adaptation",
+      "scientific research institutions",
+      "intangible cultural heritage",
       "indigenous land rights",
-      "agroecology"
+      "biodiversity conservation",
+      "community-based natural resource management"
     ],
     "relations": {
       "level 1": [

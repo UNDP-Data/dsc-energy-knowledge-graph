@@ -15,15 +15,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "smart cities initiative",
-      "predictive maintenance",
-      "internet of energy",
-      "data equity",
-      "energy transport systems",
       "asset performance optimization",
+      "predictive maintenance",
+      "smart manufacturing",
+      "data equity",
+      "smart cities initiative",
       "resilient infrastructure",
       "building information modeling",
-      "smart manufacturing"
+      "energy transport systems",
+      "internet of energy"
     ],
     "relations": {
       "level 1": [
@@ -171,7 +171,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "data integration",
+      "simulation",
+      "analytics",
+      "visualization",
+      "predictive maintenance"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "data integration",
+        "Relation": "is a sub-element of",
+        "Parent": "digital twins",
+        "Description": "Data integration is a crucial aspect of digital twins, as it involves collecting and integrating data from various sources to create a virtual representation of a physical asset or system. This allows for real-time monitoring and analysis of the asset or system's performance.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "simulation",
+        "Relation": "is a sub-element of",
+        "Parent": "digital twins",
+        "Description": "Simulation is an important sub-element of digital twins, as it enables the creation of virtual models that mimic the behavior and performance of physical assets or systems. This allows for testing and optimization of different scenarios without the need for physical prototypes.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "analytics",
+        "Relation": "is a sub-element of",
+        "Parent": "digital twins",
+        "Description": "Analytics is a key sub-element of digital twins, as it involves the use of advanced data analysis techniques to derive insights and make predictions based on the data collected from the virtual representation of a physical asset or system. This helps in optimizing performance and making informed decisions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "visualization",
+        "Relation": "is a sub-element of",
+        "Parent": "digital twins",
+        "Description": "Visualization is an essential sub-element of digital twins, as it allows for the representation of complex data and information in a visual format. This enables stakeholders to easily understand and interpret the insights derived from the virtual representation of a physical asset or system.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "predictive maintenance",
+        "Relation": "is a sub-element of",
+        "Parent": "digital twins",
+        "Description": "Predictive maintenance is a significant sub-element of digital twins, as it involves using data and analytics to predict when maintenance or repairs are needed for a physical asset or system. This helps in optimizing maintenance schedules, reducing downtime, and improving overall asset performance.",
+        "Importance": 4
+      }
+    ]
   }
 }

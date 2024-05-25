@@ -15,15 +15,15 @@
   },
   "knowledge graph": {
     "entities": [
-      "carbon dioxide levels",
-      "oil and gas companies",
       "climate change",
-      "climate change mitigation",
-      "carbon sequestration",
       "research and development",
-      "industrial emissions",
+      "oil and gas companies",
       "energy efficiency",
-      "just energy transition"
+      "just energy transition",
+      "carbon dioxide levels",
+      "industrial emissions",
+      "climate change mitigation",
+      "carbon sequestration"
     ],
     "relations": {
       "level 1": [
@@ -143,7 +143,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "carbon capture",
+      "carbon storage",
+      "carbon sequestration",
+      "enhanced oil recovery",
+      "direct air capture"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "carbon capture",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and storage",
+        "Description": "Carbon capture is a process that involves capturing carbon dioxide (CO2) emissions from industrial sources such as power plants and storing them to prevent their release into the atmosphere. It is an important technology for reducing greenhouse gas emissions and mitigating climate change.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "carbon storage",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and storage",
+        "Description": "Carbon storage refers to the long-term storage of captured carbon dioxide (CO2) in underground geological formations, such as depleted oil and gas reservoirs or deep saline aquifers. It is a key component of carbon capture and storage (CCS) systems, ensuring that the captured CO2 remains securely stored and does not re-enter the atmosphere.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "carbon sequestration",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and storage",
+        "Description": "Carbon sequestration is the process of capturing and storing carbon dioxide (CO2) from the atmosphere or industrial emissions in natural sinks, such as forests, wetlands, or oceans. It helps to remove CO2 from the atmosphere and mitigate climate change.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "enhanced oil recovery",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and storage",
+        "Description": "Enhanced oil recovery (EOR) is a technique that uses captured carbon dioxide (CO2) to increase the amount of oil that can be extracted from oil reservoirs. The injected CO2 helps to mobilize and push out the remaining oil, while also providing a storage solution for the captured CO2.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "direct air capture",
+        "Relation": "is a sub-element of",
+        "Parent": "carbon capture and storage",
+        "Description": "Direct air capture (DAC) is a technology that involves capturing carbon dioxide (CO2) directly from the ambient air. It can be used to remove CO2 from the atmosphere and store it underground or utilize it for various purposes, such as carbon-neutral fuel production.",
+        "Importance": 3
+      }
+    ]
   }
 }

@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "data sharing agreements",
       "data sharing policy",
-      "data equity",
-      "energy data analytics",
-      "data governance frameworks",
+      "data sharing agreements",
+      "open data initiatives",
       "data privacy",
+      "data equity",
       "research institutions",
-      "open data initiatives"
+      "data governance frameworks",
+      "energy data analytics"
     ],
     "relations": {
       "level 1": [

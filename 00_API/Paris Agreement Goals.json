@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "greenhouse gas emissions",
+      "sustainable development goals (sdgs)",
+      "united nations framework convention on climate change (unfccc)",
+      "energy efficiency",
       "net zero emissions",
       "climate change mitigation",
       "renewable energy agencies",
-      "greenhouse gas emissions",
-      "international renewable energy agency (irena)",
-      "energy efficiency",
-      "sustainable development goals (sdgs)",
-      "united nations framework convention on climate change (unfccc)"
+      "international renewable energy agency (irena)"
     ],
     "relations": {
       "level 1": [

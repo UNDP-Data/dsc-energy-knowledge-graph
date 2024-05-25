@@ -14,14 +14,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "energy and modernization",
+      "offshore renewable energy",
       "research and development",
-      "just energy transition",
       "agricultural sector",
-      "sustainable development goals",
+      "just energy transition",
       "energy efficiency",
-      "offshore renewable energy"
+      "sustainable development goals",
+      "climate change mitigation",
+      "energy and modernization"
     ],
     "relations": {
       "level 1": [
@@ -163,7 +163,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "wood biomass",
+      "agricultural biomass",
+      "animal biomass",
+      "aquatic biomass",
+      "municipal solid waste biomass"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "wood biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "biomass",
+        "Description": "Wood biomass refers to the use of wood and wood products as a source of energy. It can be derived from forest residues, logging residues, and wood processing waste. Wood biomass is a renewable and carbon-neutral source of energy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "agricultural biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "biomass",
+        "Description": "Agricultural biomass includes crop residues, such as stalks, husks, and straw, as well as dedicated energy crops grown specifically for energy production. It is a sustainable source of energy that can reduce greenhouse gas emissions and promote rural development.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "animal biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "biomass",
+        "Description": "Animal biomass refers to the use of animal waste, such as manure and carcasses, as a source of energy. It can be converted into biogas through anaerobic digestion, providing a renewable and environmentally friendly energy option.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "aquatic biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "biomass",
+        "Description": "Aquatic biomass includes algae and aquatic plants that can be used as a source of energy. It can be converted into biofuels, such as biodiesel and bioethanol, through various processes. Aquatic biomass has the potential to provide a sustainable and carbon-neutral energy solution.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "municipal solid waste biomass",
+        "Relation": "is a sub-element of",
+        "Parent": "biomass",
+        "Description": "Municipal solid waste biomass refers to the use of organic waste from households and businesses as a source of energy. It can be converted into biogas or used for the production of heat and electricity through incineration. Utilizing municipal solid waste biomass can help reduce landfill waste and promote a circular economy.",
+        "Importance": 3
+      }
+    ]
   }
 }

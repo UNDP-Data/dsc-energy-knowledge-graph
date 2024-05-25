@@ -15,14 +15,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "gender-responsive planning",
-      "women's rights organizations",
       "gender research projects",
-      "gender pay gap",
+      "women's rights organizations",
+      "gender equality policy",
       "gender-based violence",
-      "gender mainstreaming",
       "gender analysis",
-      "gender equality policy"
+      "gender-responsive planning",
+      "gender pay gap",
+      "gender mainstreaming"
     ],
     "relations": {
       "level 1": [
@@ -157,7 +157,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "gender-specific data",
+      "sex-segregated data",
+      "gender-disaggregated data",
+      "sex-specific data",
+      "gender-segregated data"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "gender-specific data",
+        "Relation": "is a sub-element of",
+        "Parent": "sex-disaggregated data",
+        "Description": "Gender-specific data refers to data that is collected and analyzed specifically for males and females, taking into account their different needs, roles, and experiences. It helps to identify and address gender inequalities and disparities in various sectors.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "sex-segregated data",
+        "Relation": "is a sub-element of",
+        "Parent": "sex-disaggregated data",
+        "Description": "Sex-segregated data refers to data that is separated or categorized based on biological sex, typically male and female. It is useful for understanding differences and patterns between the two sexes in various contexts, including sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "gender-disaggregated data",
+        "Relation": "is a sub-element of",
+        "Parent": "sex-disaggregated data",
+        "Description": "Gender-disaggregated data refers to data that is disaggregated by gender, allowing for analysis and comparison of outcomes and impacts between males and females. It helps to identify gender-based disparities and inform targeted interventions.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "sex-specific data",
+        "Relation": "is a sub-element of",
+        "Parent": "sex-disaggregated data",
+        "Description": "Sex-specific data refers to data that is specific to biological sex, providing insights into sex-related issues and differences. It is valuable for understanding and addressing sex-specific challenges and opportunities in sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "gender-segregated data",
+        "Relation": "is a sub-element of",
+        "Parent": "sex-disaggregated data",
+        "Description": "Gender-segregated data refers to data that is segregated or separated based on gender, typically male and female. It helps to analyze and compare outcomes and impacts between genders, contributing to gender-responsive policies and programs in sustainable energy.",
+        "Importance": 3
+      }
+    ]
   }
 }

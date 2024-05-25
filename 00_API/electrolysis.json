@@ -14,12 +14,12 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "hydrogen purity",
       "hydrogen production facilities",
+      "hydrogen purity",
+      "fuel cell technology",
       "electrochemical process",
-      "decarbonization",
-      "fuel cell technology"
+      "renewable energy agencies",
+      "decarbonization"
     ],
     "relations": {
       "level 1": [

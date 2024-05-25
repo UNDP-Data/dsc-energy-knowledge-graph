@@ -16,14 +16,14 @@
   },
   "knowledge graph": {
     "entities": [
+      "urban areas",
+      "architects and engineers",
+      "energy efficiency",
       "climate change mitigation",
-      "renewable energy agencies",
-      "internet of energy",
       "energy consumption",
       "sustainable construction practices",
-      "energy efficiency",
-      "urban areas",
-      "architects and engineers"
+      "renewable energy agencies",
+      "internet of energy"
     ],
     "relations": {
       "level 1": [

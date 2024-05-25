@@ -18,14 +18,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "government programs",
-      "social welfare organizations",
-      "vulnerable populations",
-      "poverty reduction",
-      "social protection",
-      "program implementation",
       "non-governmental organizations",
-      "multilateral development banks"
+      "multilateral development banks",
+      "social protection",
+      "government programs",
+      "poverty reduction",
+      "program implementation",
+      "vulnerable populations",
+      "social welfare organizations"
     ],
     "relations": {
       "level 1": [

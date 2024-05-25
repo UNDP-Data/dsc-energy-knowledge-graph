@@ -17,14 +17,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
+      "wind energy",
+      "regional energy organizations",
       "research and development",
       "marine environment",
-      "building standards",
-      "regional energy organizations",
+      "climate change mitigation",
       "environmental impact assessments",
-      "wind energy"
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -159,7 +159,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "wind energy",
+      "wave energy",
+      "tidal energy",
+      "ocean thermal energy",
+      "current energy"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "wind energy",
+        "Relation": "is a sub-element of",
+        "Parent": "offshore renewable energy",
+        "Description": "Wind energy is a sub-component of offshore renewable energy. It involves harnessing the power of wind to generate electricity using wind turbines installed offshore. Offshore wind farms are becoming increasingly popular due to their higher wind speeds and larger turbine capacities.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "wave energy",
+        "Relation": "is a sub-element of",
+        "Parent": "offshore renewable energy",
+        "Description": "Wave energy is a sub-component of offshore renewable energy. It involves capturing the energy from ocean waves and converting it into electricity. Wave energy devices are typically installed offshore and can provide a consistent and reliable source of renewable energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "tidal energy",
+        "Relation": "is a sub-element of",
+        "Parent": "offshore renewable energy",
+        "Description": "Tidal energy is a sub-component of offshore renewable energy. It involves harnessing the power of tides to generate electricity. Tidal energy devices are typically installed in coastal areas with strong tidal currents, and they can provide a predictable and renewable source of energy.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "ocean thermal energy",
+        "Relation": "is a sub-element of",
+        "Parent": "offshore renewable energy",
+        "Description": "Ocean thermal energy is a sub-component of offshore renewable energy. It involves utilizing the temperature difference between warm surface waters and cold deep waters to generate electricity. Ocean thermal energy conversion (OTEC) systems can provide a continuous and sustainable source of power.",
+        "Importance": 2
+      },
+      {
+        "Sub-element": "current energy",
+        "Relation": "is a sub-element of",
+        "Parent": "offshore renewable energy",
+        "Description": "Current energy is a sub-component of offshore renewable energy. It involves harnessing the kinetic energy of ocean currents to generate electricity. Current energy devices are typically installed in areas with strong and consistent currents, and they can provide a reliable and renewable source of energy.",
+        "Importance": 2
+      }
+    ]
   }
 }

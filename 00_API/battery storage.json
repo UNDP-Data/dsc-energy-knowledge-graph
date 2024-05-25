@@ -16,13 +16,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "electric vehicle manufacturers",
-      "energy storage",
       "research and development",
       "grid integration",
       "just energy transition",
-      "battery storage"
+      "battery storage",
+      "energy storage",
+      "renewable energy agencies",
+      "electric vehicle manufacturers"
     ],
     "relations": {
       "level 1": [
@@ -136,7 +136,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "lithium-ion batteries",
+      "lead-acid batteries",
+      "flow batteries",
+      "sodium-sulfur batteries",
+      "nickel-cadmium batteries"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "lithium-ion batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "battery storage",
+        "Description": "Lithium-ion batteries are a type of rechargeable battery commonly used in battery storage systems. They have a high energy density, long cycle life, and low self-discharge rate, making them suitable for storing and releasing energy in sustainable energy applications.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "lead-acid batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "battery storage",
+        "Description": "Lead-acid batteries are a type of rechargeable battery commonly used in battery storage systems. They are known for their low cost, high surge current capability, and ability to withstand high discharge rates. However, they have a lower energy density and shorter cycle life compared to lithium-ion batteries.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "flow batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "battery storage",
+        "Description": "Flow batteries are a type of rechargeable battery commonly used in large-scale energy storage systems. They store energy in liquid electrolytes contained in external tanks, allowing for flexible capacity and longer duration storage. Flow batteries are suitable for applications requiring long-duration energy storage and frequent cycling.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "sodium-sulfur batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "battery storage",
+        "Description": "Sodium-sulfur batteries are a type of rechargeable battery commonly used in grid-scale energy storage systems. They operate at high temperatures and use molten sulfur and sodium as the active materials. Sodium-sulfur batteries have a high energy density and long cycle life, making them suitable for large-scale energy storage.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "nickel-cadmium batteries",
+        "Relation": "is a sub-element of",
+        "Parent": "battery storage",
+        "Description": "Nickel-cadmium batteries are a type of rechargeable battery commonly used in portable and backup power applications. They have a long cycle life, high discharge rate, and wide operating temperature range. However, they have a lower energy density compared to lithium-ion batteries and are being phased out due to environmental concerns.",
+        "Importance": 2
+      }
+    ]
   }
 }

@@ -115,7 +115,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "joint ventures",
+      "cooperative agreements",
+      "concession agreements",
+      "strategic alliances",
+      "shared value partnerships"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "joint ventures",
+        "Relation": "is a sub-element of",
+        "Parent": "public-private partnerships",
+        "Description": "Joint ventures are a type of public-private partnership where two or more entities collaborate and pool resources to undertake a specific project or achieve a common goal. They involve shared risks, responsibilities, and profits.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "cooperative agreements",
+        "Relation": "is a sub-element of",
+        "Parent": "public-private partnerships",
+        "Description": "Cooperative agreements are a form of public-private partnership where entities work together to achieve a common objective. They involve sharing resources, expertise, and responsibilities.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "concession agreements",
+        "Relation": "is a sub-element of",
+        "Parent": "public-private partnerships",
+        "Description": "Concession agreements are contractual arrangements between a public entity and a private entity, granting the private entity the right to operate, maintain, and/or develop a specific infrastructure or service. They involve the transfer of certain rights and responsibilities from the public sector to the private sector.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "strategic alliances",
+        "Relation": "is a sub-element of",
+        "Parent": "public-private partnerships",
+        "Description": "Strategic alliances are partnerships formed between entities to achieve a specific strategic objective. They involve collaboration, resource sharing, and joint decision-making.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "shared value partnerships",
+        "Relation": "is a sub-element of",
+        "Parent": "public-private partnerships",
+        "Description": "Shared value partnerships are collaborations between public and private entities that aim to create economic value while also addressing social and environmental challenges. They involve aligning business strategies with societal needs.",
+        "Importance": 4
+      }
+    ]
   }
 }

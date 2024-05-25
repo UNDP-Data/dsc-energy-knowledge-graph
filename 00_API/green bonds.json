@@ -15,13 +15,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
+      "international climate finance institutions",
       "sustainable finance",
       "energy efficiency",
       "just energy transition",
-      "international climate finance institutions",
-      "environmental impact assessments"
+      "climate change mitigation",
+      "environmental impact assessments",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

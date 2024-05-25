@@ -14,13 +14,13 @@
   },
   "knowledge graph": {
     "entities": [
-      "climate change mitigation",
-      "renewable energy agencies",
-      "local communities",
+      "community development",
       "energy access programs",
-      "building standards",
+      "local communities",
+      "climate change mitigation",
       "energy poverty indices",
-      "community development"
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [

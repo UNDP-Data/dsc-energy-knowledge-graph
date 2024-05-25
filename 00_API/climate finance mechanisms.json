@@ -18,14 +18,14 @@
   },
   "knowledge graph": {
     "entities": [
-      "project implementation",
-      "renewable energy agencies",
       "international financial institutions",
-      "climate adaptation strategies",
-      "building standards",
+      "global climate fund",
       "climate resilience funds",
       "greenhouse gas emission reduction",
-      "global climate fund"
+      "project implementation",
+      "climate adaptation strategies",
+      "building standards",
+      "renewable energy agencies"
     ],
     "relations": {
       "level 1": [
@@ -153,7 +153,49 @@
         }
       ]
     },
-    "sub-elements": [],
-    "subelement_relations": []
+    "sub-elements": [
+      "Green Climate Fund",
+      "Global Environment Facility",
+      "Adaptation Fund",
+      "Clean Development Mechanism",
+      "Climate Investment Funds"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "Green Climate Fund",
+        "Relation": "is a sub-element of",
+        "Parent": "climate finance mechanisms",
+        "Description": "The Green Climate Fund is a key climate finance mechanism that supports developing countries in their efforts to mitigate and adapt to climate change. It provides financial resources for projects and programs that promote low-emission and climate-resilient development.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Global Environment Facility",
+        "Relation": "is a sub-element of",
+        "Parent": "climate finance mechanisms",
+        "Description": "The Global Environment Facility is a financial mechanism that provides grants and concessional funding to support projects and programs related to biodiversity conservation, climate change mitigation and adaptation, sustainable land management, and other environmental priorities.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Adaptation Fund",
+        "Relation": "is a sub-element of",
+        "Parent": "climate finance mechanisms",
+        "Description": "The Adaptation Fund is a climate finance mechanism that finances projects and programs in developing countries to help them adapt to the adverse impacts of climate change. It supports vulnerable communities and sectors in implementing adaptation measures.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Clean Development Mechanism",
+        "Relation": "is a sub-element of",
+        "Parent": "climate finance mechanisms",
+        "Description": "The Clean Development Mechanism is a project-based climate finance mechanism under the Kyoto Protocol. It allows developed countries to invest in emission reduction projects in developing countries and earn certified emission reduction credits, which can be used to meet their own emission reduction targets.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "Climate Investment Funds",
+        "Relation": "is a sub-element of",
+        "Parent": "climate finance mechanisms",
+        "Description": "The Climate Investment Funds are a set of funding instruments that provide resources to developing countries for climate change mitigation and adaptation projects. They aim to leverage public and private investments to support the transition to low-carbon and climate-resilient development.",
+        "Importance": 4
+      }
+    ]
   }
 }
