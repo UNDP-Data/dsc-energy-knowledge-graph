@@ -15,18 +15,18 @@
   },
   "knowledge graph": {
     "entities": [
-      "data localization initiatives",
-      "cross-border data transfers",
-      "digital sovereignty",
-      "data privacy concerns",
       "cybersecurity agencies",
+      "data flows",
+      "data privacy concerns",
+      "cross-border data transfers",
+      "data localization initiatives",
       "national legislation",
+      "digital sovereignty",
       "data protection regulations",
-      "data governance",
-      "data flows"
+      "data governance frameworks"
     ],
     "relations": {
-      "data sovereignty": [
+      "level 1": [
         {
           "Relation": "implements",
           "Object": "data protection regulations",
@@ -41,7 +41,7 @@
         },
         {
           "Relation": "focuses_on",
-          "Object": "data governance",
+          "Object": "data governance frameworks",
           "Description": "Data sovereignty focuses on data governance to establish rules and policies for data management.",
           "Importance": 4
         },
@@ -81,7 +81,41 @@
           "Description": "Data sovereignty addresses data privacy concerns by establishing regulations and safeguards for personal data.",
           "Importance": 4
         }
+      ],
+      "level 2": [
+        {
+          "Subject": "data governance frameworks",
+          "Relation": "implements",
+          "Object": "sustainable energy policies",
+          "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
+          "Importance": 4
+        },
+        {
+          "Subject": "data governance frameworks",
+          "Relation": "funds",
+          "Object": "research and development projects",
+          "Description": "Data governance frameworks provide funding for research and development projects related to sustainable energy.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "data privacy and security",
+          "Relation": "implements",
+          "Object": "privacy regulations",
+          "Description": "Data privacy and security implements privacy regulations to protect personal information from unauthorized access and use.",
+          "Importance": 4
+        },
+        {
+          "Subject": "data equity",
+          "Relation": "implements",
+          "Object": "ai for smart grid optimization",
+          "Description": "Data equity implements AI for smart grid optimization to ensure fair and unbiased decision-making in energy management.",
+          "Importance": 4
+        }
       ]
-    }
+    },
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

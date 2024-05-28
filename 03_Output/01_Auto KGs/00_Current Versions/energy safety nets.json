@@ -15,18 +15,18 @@
   },
   "knowledge graph": {
     "entities": [
-      "energy vulnerable populations",
-      "social equity",
-      "energy assistance programs",
+      "energy affordability",
       "non-profit organizations",
+      "social equity",
       "energy access barriers",
-      "social welfare programs",
       "energy affordability indicators",
-      "energy poverty",
-      "energy affordability"
+      "energy vulnerable populations",
+      "social welfare programs",
+      "energy poverty indices",
+      "energy assistance programs"
     ],
     "relations": {
-      "energy safety nets": [
+      "level 1": [
         {
           "Relation": "implements",
           "Object": "social welfare programs",
@@ -47,7 +47,7 @@
         },
         {
           "Relation": "in",
-          "Object": "energy poverty",
+          "Object": "energy poverty indices",
           "Description": "Energy safety nets operates in the context of addressing energy poverty and reducing energy inequality.",
           "Importance": 4
         },
@@ -81,7 +81,48 @@
           "Description": "Energy safety nets addresses energy access barriers faced by disadvantaged communities through targeted interventions and programs.",
           "Importance": 4
         }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "funds",
+          "Object": "renewable energy agencies",
+          "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
+          "Importance": 3
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy and health",
+          "Relation": "implements",
+          "Object": "building standards",
+          "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
+          "Importance": 4
+        }
       ]
-    }
+    },
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

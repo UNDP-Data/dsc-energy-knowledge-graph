@@ -12,74 +12,13 @@
     ]
   },
   "knowledge graph": {
-    "entities": [
-      "land use practices",
-      "biodiversity loss",
-      "sustainable land management practices",
-      "collaboration with local communities",
-      "conservation projects",
-      "land conservation",
-      "environmental organizations",
-      "land degradation",
-      "ecosystem restoration"
-    ],
+    "entities": [],
     "relations": {
-      "land stewardship agerements": [
-        {
-          "Relation": "implements",
-          "Object": "sustainable land management practices",
-          "Description": "Land stewardship agreements implement sustainable land management practices to ensure the conservation and protection of natural resources.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "conservation projects",
-          "Description": "Land stewardship agreements provide funding for conservation projects that aim to protect and restore ecosystems and biodiversity.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "land conservation",
-          "Description": "Land stewardship agreements focus on land conservation efforts to preserve natural habitats and prevent land degradation.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "collaboration with local communities",
-          "Description": "Land stewardship agreements work in collaboration with local communities to ensure the sustainable management of land and resources.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "environmental organizations",
-          "Description": "Land stewardship agreements partner with environmental organizations to enhance conservation efforts and promote sustainable land use practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "ecosystem restoration",
-          "Description": "Land stewardship agreements contribute to ecosystem restoration by implementing measures to rehabilitate degraded land and enhance biodiversity.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "land use practices",
-          "Description": "Land stewardship agreements monitor land use practices to ensure compliance with sustainable land management guidelines and regulations.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "land degradation",
-          "Description": "Land stewardship agreements target land degradation by implementing strategies to prevent soil erosion and promote sustainable land practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "biodiversity loss",
-          "Description": "Land stewardship agreements address biodiversity loss by implementing conservation measures that protect and restore habitats for endangered species.",
-          "Importance": 4
-        }
-      ]
-    }
+      "level 1": [],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

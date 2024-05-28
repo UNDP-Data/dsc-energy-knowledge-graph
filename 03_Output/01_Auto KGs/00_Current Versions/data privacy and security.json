@@ -15,18 +15,18 @@
   },
   "knowledge graph": {
     "entities": [
-      "data breaches",
-      "government agencies",
-      "data encryption",
-      "information technology",
-      "trust in digital services",
-      "data protection laws",
       "cybersecurity research",
+      "data protection laws",
+      "cybercriminals",
       "privacy regulations",
-      "cybercriminals"
+      "data encryption",
+      "data breaches",
+      "trust in digital services",
+      "government agencies",
+      "information technology"
     ],
     "relations": {
-      "data privacy and security": [
+      "level 1": [
         {
           "Relation": "implements",
           "Object": "privacy regulations",
@@ -81,7 +81,53 @@
           "Description": "Data privacy and security addresses data protection laws to ensure compliance and protect individuals' rights regarding their personal data.",
           "Importance": 4
         }
-      ]
-    }
+      ],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [
+      "data protection",
+      "data encryption",
+      "access control",
+      "data breach",
+      "cybersecurity"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "data protection",
+        "Relation": "is a sub-element of",
+        "Parent": "data privacy and security",
+        "Description": "Data protection involves implementing measures to safeguard personal and sensitive information from unauthorized access, use, or disclosure. It includes practices such as data anonymization, pseudonymization, and data minimization.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "data encryption",
+        "Relation": "is a sub-element of",
+        "Parent": "data privacy and security",
+        "Description": "Data encryption is the process of converting data into a code or cipher to prevent unauthorized access. It ensures that only authorized individuals or systems can decrypt and access the data.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "access control",
+        "Relation": "is a sub-element of",
+        "Parent": "data privacy and security",
+        "Description": "Access control refers to the mechanisms and policies implemented to regulate and restrict access to data. It includes authentication, authorization, and audit controls to ensure that only authorized individuals can access the data.",
+        "Importance": 3
+      },
+      {
+        "Sub-element": "data breach",
+        "Relation": "is a sub-element of",
+        "Parent": "data privacy and security",
+        "Description": "A data breach is an incident where unauthorized individuals gain access to sensitive or confidential data. It can result in the loss, theft, or exposure of data, leading to privacy and security risks.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "cybersecurity",
+        "Relation": "is a sub-element of",
+        "Parent": "data privacy and security",
+        "Description": "Cybersecurity involves protecting computer systems, networks, and data from digital attacks, unauthorized access, and damage. It includes measures such as firewalls, antivirus software, and intrusion detection systems.",
+        "Importance": 4
+      }
+    ]
   }
 }
