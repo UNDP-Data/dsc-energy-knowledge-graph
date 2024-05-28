@@ -14,27 +14,27 @@
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy projects",
-      "energy efficiency policy",
-      "private sector",
       "sustainable cities and communities",
+      "access to clean energy",
       "climate action",
-      "energy consumption",
       "universal access to affordable, reliable, and modern energy services",
-      "energy poverty",
-      "access to clean energy"
+      "energy efficiency",
+      "energy consumption",
+      "energy poverty indices",
+      "renewable energy agencies",
+      "private sector"
     ],
     "relations": {
-      "SDG7 targets": [
+      "level 1": [
         {
           "Relation": "implements",
-          "Object": "energy efficiency policy",
+          "Object": "energy efficiency",
           "Description": "SDG7 targets implements energy efficiency policy to promote sustainable energy practices.",
           "Importance": 4
         },
         {
           "Relation": "funds",
-          "Object": "renewable energy projects",
+          "Object": "renewable energy agencies",
           "Description": "SDG7 targets funds renewable energy projects to support the transition to sustainable energy sources.",
           "Importance": 4
         },
@@ -76,11 +76,87 @@
         },
         {
           "Relation": "addresses",
-          "Object": "energy poverty",
+          "Object": "energy poverty indices",
           "Description": "SDG7 targets address energy poverty by promoting access to clean and affordable energy sources.",
           "Importance": 3
         }
+      ],
+      "level 2": [
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "employs",
+          "Object": "energy markets",
+          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+          "Importance": 3
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "employs",
+          "Object": "renewable energy agencies",
+          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy agencies",
+          "Relation": "collaborates_with",
+          "Object": "research institutions",
+          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "focuses_on",
+          "Object": "energy affordability",
+          "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy storage",
+          "Relation": "addresses",
+          "Object": "intermittency of renewable energy",
+          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        },
+        {
+          "Subject": "renewable energy certificates",
+          "Relation": "implements",
+          "Object": "energy efficiency",
+          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy efficiency",
+          "Relation": "addresses",
+          "Object": "energy storage",
+          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+          "Importance": 4
+        }
       ]
-    }
+    },
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

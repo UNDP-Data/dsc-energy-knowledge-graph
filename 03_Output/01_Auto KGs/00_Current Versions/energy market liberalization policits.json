@@ -12,17 +12,17 @@
   "knowledge graph": {
     "entities": [
       "economic growth",
-      "collaboration with energy regulators",
+      "energy market barriers",
+      "energy market performance",
+      "renewable energy targets",
+      "research and development projects",
+      "private sector companies",
       "energy market competition",
       "energy poverty reduction",
-      "energy market performance",
-      "energy market barriers",
-      "private sector companies",
-      "renewable energy targets",
-      "research and development projects"
+      "collaboration with energy regulators"
     ],
     "relations": {
-      "energy market liberalization policits": [
+      "level 1": [
         {
           "Relation": "implements",
           "Object": "renewable energy targets",
@@ -77,7 +77,11 @@
           "Description": "Energy market liberalization policies address barriers in the energy market to foster competition, innovation, and investment in sustainable energy.",
           "Importance": 4
         }
-      ]
-    }
+      ],
+      "level 2": [],
+      "level 3": []
+    },
+    "sub-elements": [],
+    "subelement_relations": []
   }
 }

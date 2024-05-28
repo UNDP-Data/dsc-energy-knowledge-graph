@@ -15,18 +15,18 @@
   },
   "knowledge graph": {
     "entities": [
+      "gender-responsive employment policies",
       "gender equality policy",
       "poverty reduction",
-      "gender pay gap",
-      "women-owned businesses",
       "gender-based violence",
-      "women's rights organizations",
       "sustainable development goals",
-      "microfinance programs",
-      "gender-responsive employment policies"
+      "women-owned businesses",
+      "gender pay gap",
+      "micro-finance",
+      "women's rights organizations"
     ],
     "relations": {
-      "women's economic empowerment": [
+      "level 1": [
         {
           "Relation": "implements",
           "Object": "gender equality policy",
@@ -35,7 +35,7 @@
         },
         {
           "Relation": "funds",
-          "Object": "microfinance programs",
+          "Object": "micro-finance",
           "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
           "Importance": 3
         },
@@ -81,7 +81,97 @@
           "Description": "Women's economic empowerment addresses gender-based violence by promoting economic independence and empowerment as a means to reduce vulnerability and enhance women's safety.",
           "Importance": 4
         }
+      ],
+      "level 2": [
+        {
+          "Subject": "micro-finance",
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Micro-finance implements energy access programs that provide financial support for clean energy projects in underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "micro-finance",
+          "Relation": "focuses_on",
+          "Object": "energy poverty indices",
+          "Description": "Micro-finance focuses on addressing energy poverty by providing financial services for clean energy solutions to marginalized communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "micro-finance",
+          "Relation": "contributes_to",
+          "Object": "energy markets",
+          "Description": "Micro-finance contributes to improving energy access by providing financial services for clean energy solutions.",
+          "Importance": 4
+        },
+        {
+          "Subject": "micro-finance",
+          "Relation": "addresses",
+          "Object": "energy access gap",
+          "Description": "Micro-finance addresses the energy access gap by providing financial services for clean energy solutions in underserved communities.",
+          "Importance": 4
+        }
+      ],
+      "level 3": [
+        {
+          "Subject": "energy poverty indices",
+          "Relation": "implements",
+          "Object": "energy access programs",
+          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+          "Importance": 4
+        },
+        {
+          "Subject": "energy markets",
+          "Relation": "addresses",
+          "Object": "energy markets",
+          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+          "Importance": 4
+        }
       ]
-    }
+    },
+    "sub-elements": [
+      "access to finance",
+      "entrepreneurship",
+      "gender equality",
+      "skills development",
+      "workforce participation"
+    ],
+    "subelement_relations": [
+      {
+        "Sub-element": "access to finance",
+        "Relation": "is a sub-element of",
+        "Parent": "women's economic empowerment",
+        "Description": "Access to finance is a crucial sub-element of women's economic empowerment as it enables women to start and grow their businesses, invest in their education and skills, and have financial independence. Lack of access to finance is a major barrier for women in achieving economic empowerment.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "entrepreneurship",
+        "Relation": "is a sub-element of",
+        "Parent": "women's economic empowerment",
+        "Description": "Entrepreneurship is a key sub-element of women's economic empowerment as it allows women to create their own businesses, generate income, and have control over their economic activities. Promoting and supporting women's entrepreneurship is essential for achieving gender equality and sustainable development.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "gender equality",
+        "Relation": "is a sub-element of",
+        "Parent": "women's economic empowerment",
+        "Description": "Gender equality is a fundamental sub-element of women's economic empowerment as it ensures equal rights, opportunities, and treatment for women in all aspects of economic activities. Achieving gender equality is essential for creating an inclusive and sustainable economy.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "skills development",
+        "Relation": "is a sub-element of",
+        "Parent": "women's economic empowerment",
+        "Description": "Skills development is a critical sub-element of women's economic empowerment as it enables women to acquire the necessary knowledge, abilities, and competencies to participate in the workforce, start businesses, and pursue economic opportunities. Investing in women's skills development is key to their economic empowerment.",
+        "Importance": 4
+      },
+      {
+        "Sub-element": "workforce participation",
+        "Relation": "is a sub-element of",
+        "Parent": "women's economic empowerment",
+        "Description": "Workforce participation is a significant sub-element of women's economic empowerment as it involves women's active engagement in paid employment, entrepreneurship, and economic activities. Increasing women's workforce participation is crucial for achieving sustainable development and reducing gender disparities.",
+        "Importance": 4
+      }
+    ]
   }
 }
