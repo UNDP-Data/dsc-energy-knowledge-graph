@@ -13,12 +13,10 @@
   },
   "knowledge graph": {
     "entities": [],
-    "relations": {
-      "level 1": [],
-      "level 2": [],
-      "level 3": []
-    },
     "sub-elements": [],
-    "subelement_relations": []
+    "subelement_relations": [],
+    "relations": [],
+    "relations-level-2": [],
+    "relations-level-3": []
   }
 }

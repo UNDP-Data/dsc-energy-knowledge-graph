@@ -11,11 +11,6 @@
   },
   "knowledge graph": {
     "entities": [],
-    "relations": {
-      "level 1": [],
-      "level 2": [],
-      "level 3": []
-    },
     "sub-elements": [
       "biofuel",
       "hydrogen fuel",
@@ -59,6 +54,9 @@
         "Description": "Methane, also known as biogas, is a type of carbon-neutral fuel that is produced from organic waste, agricultural residues, or landfill gas. It can be used as a substitute for natural gas in heating, cooking, and electricity generation.",
         "Importance": 2
       }
-    ]
+    ],
+    "relations": [],
+    "relations-level-2": [],
+    "relations-level-3": []
   }
 }

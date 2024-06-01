@@ -47,78 +47,76 @@
       "renewable energy agencies",
       "government agencies"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Relation": "supports",
-          "Object": "community renewable energy projects",
-          "Description": "Renewable energy agencies provide support and resources for community-based renewable energy projects to empower local communities and promote sustainable development.",
-          "Importance": 3
-        },
-        {
-          "Relation": "administers",
-          "Object": "feed-in tariff programs",
-          "Description": "Renewable energy agencies administer feed-in tariff programs to incentivize the production of renewable energy and promote its integration into the grid.",
-          "Importance": 4
-        },
-        {
-          "Relation": "measures",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies measure and track the growth of renewable energy capacity to assess the progress towards a sustainable and clean energy future.",
-          "Importance": 3
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "sustainable development goals",
-          "Description": "Renewable energy agencies align their activities and initiatives with the Sustainable Development Goals to contribute to the global agenda for sustainable development.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "government agencies",
-          "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [],
-    "subelement_relations": []
+    "subelement_relations": [],
+    "relations": [
+      {
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Relation": "supports",
+        "Object": "community renewable energy projects",
+        "Description": "Renewable energy agencies provide support and resources for community-based renewable energy projects to empower local communities and promote sustainable development.",
+        "Importance": 3
+      },
+      {
+        "Relation": "administers",
+        "Object": "feed-in tariff programs",
+        "Description": "Renewable energy agencies administer feed-in tariff programs to incentivize the production of renewable energy and promote its integration into the grid.",
+        "Importance": 4
+      },
+      {
+        "Relation": "measures",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies measure and track the growth of renewable energy capacity to assess the progress towards a sustainable and clean energy future.",
+        "Importance": 3
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "sustainable development goals",
+        "Description": "Renewable energy agencies align their activities and initiatives with the Sustainable Development Goals to contribute to the global agenda for sustainable development.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "government agencies",
+        "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      }
+    ]
   }
 }

@@ -24,138 +24,6 @@
       "policy-making",
       "renewable energy agencies"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Open source energy modeling tools implement energy efficiency measures to optimize energy consumption and reduce waste.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "research and development",
-          "Description": "Open source energy modeling tools provide funding for research and development in the field of sustainable energy.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "renewable energy agencies",
-          "Description": "Open source energy modeling tools focus on analyzing and optimizing the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "collaboration with universities",
-          "Description": "Open source energy modeling tools are developed in collaboration with universities to ensure scientific rigor and accuracy.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "energy cooperatives",
-          "Description": "Open source energy modeling tools partner with energy companies to exchange data and insights for better energy management.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "policy-making",
-          "Description": "Open source energy modeling tools contribute to policy-making by providing data-driven insights and analysis.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption",
-          "Description": "Open source energy modeling tools monitor energy consumption patterns to identify areas for improvement and optimization.",
-          "Importance": 4
-        },
-        {
-          "Relation": "targets",
-          "Object": "energy efficiency",
-          "Description": "Open source energy modeling tools target energy efficiency improvements by identifying and implementing energy-saving measures.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "climate change mitigation",
-          "Description": "Open source energy modeling tools address climate change mitigation by optimizing energy systems and reducing greenhouse gas emissions.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "employs",
-          "Object": "energy markets",
-          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
-          "Importance": 3
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy cooperatives",
-          "Relation": "addresses",
-          "Object": "energy poverty indices",
-          "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy cooperatives",
-          "Relation": "collaborates_with",
-          "Object": "local governments",
-          "Description": "Energy cooperatives collaborate with local governments to implement renewable energy projects and promote sustainable energy practices.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy storage",
-          "Relation": "addresses",
-          "Object": "intermittency of renewable energy",
-          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "OSeMOSYS",
       "MESSAGEix",
@@ -198,6 +66,136 @@
         "Parent": "open source energy modeling tools",
         "Description": "PLEXOS is a software platform for energy market modeling and analysis. It enables the simulation and optimization of power systems, including the integration of renewable energy sources, demand response, and energy storage.",
         "Importance": 3
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Open source energy modeling tools implement energy efficiency measures to optimize energy consumption and reduce waste.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "research and development",
+        "Description": "Open source energy modeling tools provide funding for research and development in the field of sustainable energy.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "renewable energy agencies",
+        "Description": "Open source energy modeling tools focus on analyzing and optimizing the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "collaboration with universities",
+        "Description": "Open source energy modeling tools are developed in collaboration with universities to ensure scientific rigor and accuracy.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "energy cooperatives",
+        "Description": "Open source energy modeling tools partner with energy companies to exchange data and insights for better energy management.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "policy-making",
+        "Description": "Open source energy modeling tools contribute to policy-making by providing data-driven insights and analysis.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption",
+        "Description": "Open source energy modeling tools monitor energy consumption patterns to identify areas for improvement and optimization.",
+        "Importance": 4
+      },
+      {
+        "Relation": "targets",
+        "Object": "energy efficiency",
+        "Description": "Open source energy modeling tools target energy efficiency improvements by identifying and implementing energy-saving measures.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "climate change mitigation",
+        "Description": "Open source energy modeling tools address climate change mitigation by optimizing energy systems and reducing greenhouse gas emissions.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "employs",
+        "Object": "energy markets",
+        "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+        "Importance": 3
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy cooperatives",
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy cooperatives",
+        "Relation": "collaborates_with",
+        "Object": "local governments",
+        "Description": "Energy cooperatives collaborate with local governments to implement renewable energy projects and promote sustainable energy practices.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy storage",
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
       }
     ]
   }

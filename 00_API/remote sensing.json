@@ -24,60 +24,6 @@
       "vegetation index",
       "renewable energy monitoring programs"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "addresses",
-          "Object": "renewable energy potential mapping",
-          "Description": "Remote sensing technology is used to address the challenges of mapping and assessing the potential of renewable energy resources.",
-          "Importance": 4
-        },
-        {
-          "Relation": "employs",
-          "Object": "satellite imagery",
-          "Description": "Remote sensing employs satellite imagery to gather data and information about the Earth's surface for renewable energy analysis and planning.",
-          "Importance": 3
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "environmental research institutions",
-          "Description": "Remote sensing collaborates with environmental research institutions to develop advanced techniques for renewable energy resource assessment.",
-          "Importance": 3
-        },
-        {
-          "Relation": "supports",
-          "Object": "climate change mitigation",
-          "Description": "Remote sensing supports climate change mitigation efforts by providing accurate and up-to-date information on renewable energy potential and resource availability.",
-          "Importance": 4
-        },
-        {
-          "Relation": "administers",
-          "Object": "renewable energy monitoring programs",
-          "Description": "Remote sensing administers monitoring programs to track the performance and impact of renewable energy projects using remote sensing technologies.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "vegetation index",
-          "Description": "Remote sensing measures vegetation index to assess the suitability of land for renewable energy projects and identify potential areas for development.",
-          "Importance": 3
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "sustainable development goals",
-          "Description": "Remote sensing aligns with the Sustainable Development Goals by providing valuable data and insights for renewable energy planning and implementation.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "geospatial technology",
-          "Description": "Remote sensing is an instance of geospatial technology that enables the collection and analysis of data for renewable energy applications.",
-          "Importance": 2
-        }
-      ],
-      "level 2": [],
-      "level 3": []
-    },
     "sub-elements": [
       "satellite imagery",
       "radar remote sensing",
@@ -121,6 +67,58 @@
         "Description": "Thermal remote sensing is a sub-element of remote sensing that measures the thermal radiation emitted by objects on the Earth's surface. It is used for applications such as monitoring volcanic activity, detecting heat loss in buildings, and assessing water temperature in lakes and rivers.",
         "Importance": 2
       }
-    ]
+    ],
+    "relations": [
+      {
+        "Relation": "addresses",
+        "Object": "renewable energy potential mapping",
+        "Description": "Remote sensing technology is used to address the challenges of mapping and assessing the potential of renewable energy resources.",
+        "Importance": 4
+      },
+      {
+        "Relation": "employs",
+        "Object": "satellite imagery",
+        "Description": "Remote sensing employs satellite imagery to gather data and information about the Earth's surface for renewable energy analysis and planning.",
+        "Importance": 3
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "environmental research institutions",
+        "Description": "Remote sensing collaborates with environmental research institutions to develop advanced techniques for renewable energy resource assessment.",
+        "Importance": 3
+      },
+      {
+        "Relation": "supports",
+        "Object": "climate change mitigation",
+        "Description": "Remote sensing supports climate change mitigation efforts by providing accurate and up-to-date information on renewable energy potential and resource availability.",
+        "Importance": 4
+      },
+      {
+        "Relation": "administers",
+        "Object": "renewable energy monitoring programs",
+        "Description": "Remote sensing administers monitoring programs to track the performance and impact of renewable energy projects using remote sensing technologies.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "vegetation index",
+        "Description": "Remote sensing measures vegetation index to assess the suitability of land for renewable energy projects and identify potential areas for development.",
+        "Importance": 3
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "sustainable development goals",
+        "Description": "Remote sensing aligns with the Sustainable Development Goals by providing valuable data and insights for renewable energy planning and implementation.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "geospatial technology",
+        "Description": "Remote sensing is an instance of geospatial technology that enables the collection and analysis of data for renewable energy applications.",
+        "Importance": 2
+      }
+    ],
+    "relations-level-2": [],
+    "relations-level-3": []
   }
 }

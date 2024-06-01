@@ -34,126 +34,6 @@
       "sustainable development goals",
       "energy justice"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "employs",
-          "Object": "renewable energy certificates",
-          "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
-          "Importance": 3
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "local communities",
-          "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-          "Importance": 4
-        },
-        {
-          "Relation": "supports",
-          "Object": "energy equity",
-          "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
-          "Importance": 4
-        },
-        {
-          "Relation": "administers",
-          "Object": "just energy transition",
-          "Description": "The just energy transition administers energy transition funds to support the implementation of sustainable energy projects.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "energy justice",
-          "Description": "The just energy transition measures energy justice to ensure fair distribution of energy resources and benefits.",
-          "Importance": 4
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "sustainable development goals",
-          "Description": "The just energy transition aligns with the Sustainable Development Goals to promote sustainable and inclusive energy practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "social justice",
-          "Description": "The just energy transition is an instance of social justice, aiming to address energy inequalities and promote fairness.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "contributes_to",
-          "Object": "climate change mitigation",
-          "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "collaborates_with",
-          "Object": "local communities",
-          "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-          "Importance": 4
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "supports",
-          "Object": "energy equity",
-          "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy justice",
-          "Relation": "addresses",
-          "Object": "energy poverty indices",
-          "Description": "Energy justice initiatives aim to address energy poverty by ensuring access to affordable and reliable energy services for all.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy justice",
-          "Relation": "employs",
-          "Object": "equitable energy pricing",
-          "Description": "Energy justice employs equitable energy pricing mechanisms to ensure fair and affordable energy costs for marginalized communities.",
-          "Importance": 3
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy justice",
-          "Relation": "addresses",
-          "Object": "energy poverty indices",
-          "Description": "Energy justice initiatives aim to address energy poverty by ensuring access to affordable and reliable energy services for all.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "renewable energy",
       "energy efficiency",
@@ -195,6 +75,124 @@
         "Relation": "is a sub-element of",
         "Parent": "just energy transition",
         "Description": "Energy justice is an important aspect of a just energy transition. It involves ensuring equitable access to affordable, reliable, and clean energy for all. By addressing energy poverty and promoting inclusive energy policies, we can achieve a more just and sustainable energy system.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "employs",
+        "Object": "renewable energy certificates",
+        "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
+        "Importance": 3
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
+        "Importance": 4
+      },
+      {
+        "Relation": "supports",
+        "Object": "energy equity",
+        "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
+        "Importance": 4
+      },
+      {
+        "Relation": "administers",
+        "Object": "just energy transition",
+        "Description": "The just energy transition administers energy transition funds to support the implementation of sustainable energy projects.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "energy justice",
+        "Description": "The just energy transition measures energy justice to ensure fair distribution of energy resources and benefits.",
+        "Importance": 4
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "sustainable development goals",
+        "Description": "The just energy transition aligns with the Sustainable Development Goals to promote sustainable and inclusive energy practices.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "social justice",
+        "Description": "The just energy transition is an instance of social justice, aiming to address energy inequalities and promote fairness.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "contributes_to",
+        "Object": "climate change mitigation",
+        "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
+        "Importance": 4
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "supports",
+        "Object": "energy equity",
+        "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy justice",
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Energy justice initiatives aim to address energy poverty by ensuring access to affordable and reliable energy services for all.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy justice",
+        "Relation": "employs",
+        "Object": "equitable energy pricing",
+        "Description": "Energy justice employs equitable energy pricing mechanisms to ensure fair and affordable energy costs for marginalized communities.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy justice",
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Energy justice initiatives aim to address energy poverty by ensuring access to affordable and reliable energy services for all.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
       }
     ]

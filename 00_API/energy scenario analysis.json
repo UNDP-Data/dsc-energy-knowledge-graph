@@ -24,138 +24,6 @@
       "renewable energy agencies",
       "academic institutions"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Energy scenario analysis implements building standards to assess the energy requirements and potential of different scenarios.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Energy scenario analysis funds research on renewable energy technologies and their potential for sustainable energy production.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "energy transition strategies",
-          "Description": "Energy scenario analysis focuses on developing strategies for a smooth and sustainable transition to clean energy sources.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "energy diplomacy",
-          "Description": "Energy scenario analysis is an integral part of energy policy formulation to ensure informed decision-making.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "academic institutions",
-          "Description": "Energy scenario analysis partners with academic institutions to leverage their expertise in energy research and analysis.",
-          "Importance": 2
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "climate change mitigation",
-          "Description": "Energy scenario analysis contributes to climate change mitigation efforts by identifying sustainable energy options and their impact on emissions.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption",
-          "Description": "Energy scenario analysis monitors energy consumption patterns to identify areas for improvement and optimize energy use.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "renewable energy agencies",
-          "Description": "Energy scenario analysis sets targets for renewable energy deployment based on the analysis of different energy scenarios.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy scenario analysis addresses the challenge of ensuring universal energy access through the identification of sustainable energy solutions.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy diplomacy",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Energy diplomacy implements Energy Efficiency Policy to promote sustainable energy practices globally.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy diplomacy",
-          "Relation": "focuses_on",
-          "Object": "energy markets",
-          "Description": "energy diplomacy focuses on improving energy access in underserved communities to promote sustainable development.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "collaborates_with",
-          "Object": "government agencies",
-          "Description": "Energy markets collaborate with government agencies to develop and implement policies and regulations that promote a sustainable and efficient energy sector.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "climate change scenario analysis",
-          "Relation": "implements",
-          "Object": "sustainable energy projects",
-          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "data collection",
       "modeling",
@@ -197,6 +65,136 @@
         "Relation": "is a sub-element of",
         "Parent": "energy scenario analysis",
         "Description": "Reporting is a crucial part of energy scenario analysis, involving the communication of findings, results, and recommendations to stakeholders. It helps in informing decision-making processes and facilitating informed discussions on sustainable energy strategies.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Energy scenario analysis implements building standards to assess the energy requirements and potential of different scenarios.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Energy scenario analysis funds research on renewable energy technologies and their potential for sustainable energy production.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "energy transition strategies",
+        "Description": "Energy scenario analysis focuses on developing strategies for a smooth and sustainable transition to clean energy sources.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "energy diplomacy",
+        "Description": "Energy scenario analysis is an integral part of energy policy formulation to ensure informed decision-making.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "academic institutions",
+        "Description": "Energy scenario analysis partners with academic institutions to leverage their expertise in energy research and analysis.",
+        "Importance": 2
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "climate change mitigation",
+        "Description": "Energy scenario analysis contributes to climate change mitigation efforts by identifying sustainable energy options and their impact on emissions.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption",
+        "Description": "Energy scenario analysis monitors energy consumption patterns to identify areas for improvement and optimize energy use.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "renewable energy agencies",
+        "Description": "Energy scenario analysis sets targets for renewable energy deployment based on the analysis of different energy scenarios.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy scenario analysis addresses the challenge of ensuring universal energy access through the identification of sustainable energy solutions.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy diplomacy",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Energy diplomacy implements Energy Efficiency Policy to promote sustainable energy practices globally.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy diplomacy",
+        "Relation": "focuses_on",
+        "Object": "energy markets",
+        "Description": "energy diplomacy focuses on improving energy access in underserved communities to promote sustainable development.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "collaborates_with",
+        "Object": "government agencies",
+        "Description": "Energy markets collaborate with government agencies to develop and implement policies and regulations that promote a sustainable and efficient energy sector.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "climate change scenario analysis",
+        "Relation": "implements",
+        "Object": "sustainable energy projects",
+        "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
         "Importance": 4
       }
     ]

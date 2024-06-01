@@ -25,110 +25,6 @@
       "micro-finance",
       "women's rights organizations"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "gender equality policy",
-          "Description": "Women's economic empowerment implements a gender equality policy that aims to promote equal opportunities and rights for women in the economic sector.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "micro-finance",
-          "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "gender-responsive employment policies",
-          "Description": "Women's economic empowerment focuses on gender-responsive employment policies that aim to create inclusive and equitable workplaces for women.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "sustainable development goals",
-          "Description": "Women's economic empowerment is embedded in the sustainable development goals, particularly in the goal of achieving gender equality and empowering all women and girls.",
-          "Importance": 4
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "women's rights organizations",
-          "Description": "Women's economic empowerment partners with women's rights organizations to advocate for women's economic rights and empower women to participate fully in the economy.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "poverty reduction",
-          "Description": "Women's economic empowerment contributes to poverty reduction by enabling women to generate income, improve their livelihoods, and lift themselves and their families out of poverty.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "gender pay gap",
-          "Description": "Women's economic empowerment monitors the gender pay gap to identify disparities and advocate for equal pay for equal work.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "women-owned businesses",
-          "Description": "Women's economic empowerment targets women-owned businesses for support and promotion, aiming to increase their representation and success in the business sector.",
-          "Importance": 3
-        },
-        {
-          "Relation": "addresses",
-          "Object": "gender-based violence",
-          "Description": "Women's economic empowerment addresses gender-based violence by promoting economic independence and empowerment as a means to reduce vulnerability and enhance women's safety.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "micro-finance",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Micro-finance implements energy access programs that provide financial support for clean energy projects in underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "micro-finance",
-          "Relation": "focuses_on",
-          "Object": "energy poverty indices",
-          "Description": "Micro-finance focuses on addressing energy poverty by providing financial services for clean energy solutions to marginalized communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "micro-finance",
-          "Relation": "contributes_to",
-          "Object": "energy markets",
-          "Description": "Micro-finance contributes to improving energy access by providing financial services for clean energy solutions.",
-          "Importance": 4
-        },
-        {
-          "Subject": "micro-finance",
-          "Relation": "addresses",
-          "Object": "energy access gap",
-          "Description": "Micro-finance addresses the energy access gap by providing financial services for clean energy solutions in underserved communities.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "access to finance",
       "entrepreneurship",
@@ -170,6 +66,108 @@
         "Relation": "is a sub-element of",
         "Parent": "women's economic empowerment",
         "Description": "Workforce participation is a significant sub-element of women's economic empowerment as it involves women's active engagement in paid employment, entrepreneurship, and economic activities. Increasing women's workforce participation is crucial for achieving sustainable development and reducing gender disparities.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "gender equality policy",
+        "Description": "Women's economic empowerment implements a gender equality policy that aims to promote equal opportunities and rights for women in the economic sector.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "micro-finance",
+        "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "gender-responsive employment policies",
+        "Description": "Women's economic empowerment focuses on gender-responsive employment policies that aim to create inclusive and equitable workplaces for women.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "sustainable development goals",
+        "Description": "Women's economic empowerment is embedded in the sustainable development goals, particularly in the goal of achieving gender equality and empowering all women and girls.",
+        "Importance": 4
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "women's rights organizations",
+        "Description": "Women's economic empowerment partners with women's rights organizations to advocate for women's economic rights and empower women to participate fully in the economy.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "poverty reduction",
+        "Description": "Women's economic empowerment contributes to poverty reduction by enabling women to generate income, improve their livelihoods, and lift themselves and their families out of poverty.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "gender pay gap",
+        "Description": "Women's economic empowerment monitors the gender pay gap to identify disparities and advocate for equal pay for equal work.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "women-owned businesses",
+        "Description": "Women's economic empowerment targets women-owned businesses for support and promotion, aiming to increase their representation and success in the business sector.",
+        "Importance": 3
+      },
+      {
+        "Relation": "addresses",
+        "Object": "gender-based violence",
+        "Description": "Women's economic empowerment addresses gender-based violence by promoting economic independence and empowerment as a means to reduce vulnerability and enhance women's safety.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "micro-finance",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Micro-finance implements energy access programs that provide financial support for clean energy projects in underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "micro-finance",
+        "Relation": "focuses_on",
+        "Object": "energy poverty indices",
+        "Description": "Micro-finance focuses on addressing energy poverty by providing financial services for clean energy solutions to marginalized communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "micro-finance",
+        "Relation": "contributes_to",
+        "Object": "energy markets",
+        "Description": "Micro-finance contributes to improving energy access by providing financial services for clean energy solutions.",
+        "Importance": 4
+      },
+      {
+        "Subject": "micro-finance",
+        "Relation": "addresses",
+        "Object": "energy access gap",
+        "Description": "Micro-finance addresses the energy access gap by providing financial services for clean energy solutions in underserved communities.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
         "Importance": 4
       }
     ]

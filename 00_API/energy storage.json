@@ -32,146 +32,6 @@
       "grid stability",
       "energy storage"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "addresses",
-          "Object": "intermittency of renewable energy",
-          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
-          "Importance": 4
-        },
-        {
-          "Relation": "employs",
-          "Object": "smart metering technologies",
-          "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
-          "Importance": 4
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "electric vehicle industry",
-          "Description": "Energy storage collaborates with the electric vehicle industry to develop advanced battery technologies for electric vehicle charging and grid integration.",
-          "Importance": 3
-        },
-        {
-          "Relation": "supports",
-          "Object": "grid stability",
-          "Description": "Energy storage supports grid stability by providing backup power and balancing supply and demand, especially during peak load periods.",
-          "Importance": 4
-        },
-        {
-          "Relation": "administers",
-          "Object": "energy tax incentives",
-          "Description": "Energy storage administers incentive programs to promote the adoption of energy storage systems and accelerate the transition to a clean energy future.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "energy storage",
-          "Description": "Energy storage measures the capacity of energy storage systems to assess their performance and optimize their utilization in the energy system.",
-          "Importance": 3
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "renewable energy certificates",
-          "Description": "Energy storage aligns with the goal of integrating renewable energy sources into the grid by providing a reliable and flexible energy storage solution.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "just energy transition",
-          "Description": "Energy storage is an instance of the broader energy transition towards a more sustainable and resilient energy system.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "smart metering technologies",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
-          "Importance": 4
-        },
-        {
-          "Subject": "smart metering technologies",
-          "Relation": "funds",
-          "Object": "research and development",
-          "Description": "Smart metering technologies contribute funds to research and development projects for improving energy efficiency.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy tax incentives",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Energy tax incentives are implemented by the Energy Efficiency Policy to promote the adoption of energy-saving practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy storage",
-          "Relation": "addresses",
-          "Object": "intermittency of renewable energy",
-          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy storage",
-          "Relation": "employs",
-          "Object": "smart metering technologies",
-          "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "funds",
-          "Object": "clean energy research",
-          "Description": "Renewable energy certificates provide funding for Clean Energy Research to support the development of innovative renewable energy technologies.",
-          "Importance": 3
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "collaborates_with",
-          "Object": "local communities",
-          "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy cooperatives",
-          "Relation": "addresses",
-          "Object": "energy poverty indices",
-          "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "smart metering technologies",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "batteries",
       "flywheels",
@@ -214,6 +74,144 @@
         "Parent": "energy storage",
         "Description": "Thermal energy storage (TES) systems store thermal energy in the form of hot or cold fluids or materials. They are used for heating, cooling, and power generation applications, enabling efficient energy use and demand management.",
         "Importance": 3
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+        "Importance": 4
+      },
+      {
+        "Relation": "employs",
+        "Object": "smart metering technologies",
+        "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
+        "Importance": 4
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "electric vehicle industry",
+        "Description": "Energy storage collaborates with the electric vehicle industry to develop advanced battery technologies for electric vehicle charging and grid integration.",
+        "Importance": 3
+      },
+      {
+        "Relation": "supports",
+        "Object": "grid stability",
+        "Description": "Energy storage supports grid stability by providing backup power and balancing supply and demand, especially during peak load periods.",
+        "Importance": 4
+      },
+      {
+        "Relation": "administers",
+        "Object": "energy tax incentives",
+        "Description": "Energy storage administers incentive programs to promote the adoption of energy storage systems and accelerate the transition to a clean energy future.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "energy storage",
+        "Description": "Energy storage measures the capacity of energy storage systems to assess their performance and optimize their utilization in the energy system.",
+        "Importance": 3
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "renewable energy certificates",
+        "Description": "Energy storage aligns with the goal of integrating renewable energy sources into the grid by providing a reliable and flexible energy storage solution.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "just energy transition",
+        "Description": "Energy storage is an instance of the broader energy transition towards a more sustainable and resilient energy system.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "smart metering technologies",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
+        "Importance": 4
+      },
+      {
+        "Subject": "smart metering technologies",
+        "Relation": "funds",
+        "Object": "research and development",
+        "Description": "Smart metering technologies contribute funds to research and development projects for improving energy efficiency.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy tax incentives",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Energy tax incentives are implemented by the Energy Efficiency Policy to promote the adoption of energy-saving practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy storage",
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy storage",
+        "Relation": "employs",
+        "Object": "smart metering technologies",
+        "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "funds",
+        "Object": "clean energy research",
+        "Description": "Renewable energy certificates provide funding for Clean Energy Research to support the development of innovative renewable energy technologies.",
+        "Importance": 3
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy cooperatives",
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Energy cooperatives address energy poverty by providing affordable and sustainable energy solutions to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "smart metering technologies",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Smart metering technologies implement the Energy Efficiency Policy by providing real-time data on energy consumption.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
       }
     ]
   }

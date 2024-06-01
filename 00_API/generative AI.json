@@ -24,124 +24,6 @@
       "clean energy companies",
       "energy consumption patterns"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "sustainable energy solutions",
-          "Description": "Generative AI implements sustainable energy solutions by optimizing energy usage and reducing waste.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "research and development of renewable energy technologies",
-          "Description": "Generative AI funds the research and development of renewable energy technologies to accelerate the transition to sustainable energy sources.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "energy efficiency",
-          "Description": "Generative AI focuses on energy efficiency to minimize energy consumption and promote sustainable energy practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "smart grid systems",
-          "Description": "Generative AI is used in smart grid systems to optimize energy distribution and enable efficient energy management.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "clean energy companies",
-          "Description": "Generative AI partners with clean energy companies to develop innovative solutions for sustainable energy generation and utilization.",
-          "Importance": 4
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "reducing carbon emissions",
-          "Description": "Generative AI contributes to reducing carbon emissions by optimizing energy systems and promoting clean energy adoption.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption patterns",
-          "Description": "Generative AI monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "energy efficiency",
-          "Description": "Generative AI targets energy efficiency improvements to achieve sustainable energy goals and reduce environmental impact.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "energy poverty indices",
-          "Description": "Generative AI addresses energy poverty by developing affordable and sustainable energy solutions for underserved communities.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "employs",
-          "Object": "energy markets",
-          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "focuses_on",
-          "Object": "energy affordability",
-          "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy storage",
-          "Relation": "addresses",
-          "Object": "intermittency of renewable energy",
-          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "deep learning",
       "neural networks",
@@ -183,6 +65,122 @@
         "Relation": "is a sub-element of",
         "Parent": "generative AI",
         "Description": "Computer vision is a subfield of generative AI that deals with enabling computers to understand and interpret visual information from images or videos. It involves tasks such as object recognition, image classification, and image generation.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "sustainable energy solutions",
+        "Description": "Generative AI implements sustainable energy solutions by optimizing energy usage and reducing waste.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "research and development of renewable energy technologies",
+        "Description": "Generative AI funds the research and development of renewable energy technologies to accelerate the transition to sustainable energy sources.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "energy efficiency",
+        "Description": "Generative AI focuses on energy efficiency to minimize energy consumption and promote sustainable energy practices.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "smart grid systems",
+        "Description": "Generative AI is used in smart grid systems to optimize energy distribution and enable efficient energy management.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "clean energy companies",
+        "Description": "Generative AI partners with clean energy companies to develop innovative solutions for sustainable energy generation and utilization.",
+        "Importance": 4
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "reducing carbon emissions",
+        "Description": "Generative AI contributes to reducing carbon emissions by optimizing energy systems and promoting clean energy adoption.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption patterns",
+        "Description": "Generative AI monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "energy efficiency",
+        "Description": "Generative AI targets energy efficiency improvements to achieve sustainable energy goals and reduce environmental impact.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Generative AI addresses energy poverty by developing affordable and sustainable energy solutions for underserved communities.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "employs",
+        "Object": "energy markets",
+        "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "focuses_on",
+        "Object": "energy affordability",
+        "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy storage",
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
       }
     ]
