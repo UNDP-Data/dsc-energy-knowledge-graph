@@ -18,96 +18,6 @@
     "entities": [
       "data governance frameworks"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy implements data governance frameworks to ensure the effective management and protection of data.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy provides funding for the implementation and maintenance of data governance frameworks.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy focuses on the development and enhancement of data governance frameworks to ensure data integrity and privacy.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy is embedded in the implementation and enforcement of data governance frameworks.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy collaborates and partners with data governance frameworks to ensure effective data management and governance.",
-          "Importance": 4
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy contributes to the development and improvement of data governance frameworks to enhance data security and privacy.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy monitors the implementation and compliance of data governance frameworks to ensure adherence to data management standards.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy sets targets and goals for the implementation and effectiveness of data governance frameworks.",
-          "Importance": 3
-        },
-        {
-          "Relation": "addresses",
-          "Object": "data governance frameworks",
-          "Description": "The national digital strategy addresses the challenges and issues related to data governance frameworks to ensure their successful implementation and operation.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "data governance frameworks",
-          "Relation": "implements",
-          "Object": "sustainable energy policies",
-          "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
-          "Importance": 4
-        },
-        {
-          "Subject": "data governance frameworks",
-          "Relation": "funds",
-          "Object": "research and development projects",
-          "Description": "Data governance frameworks provide funding for research and development projects related to sustainable energy.",
-          "Importance": 3
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "data privacy and security",
-          "Relation": "implements",
-          "Object": "privacy regulations",
-          "Description": "Data privacy and security implements privacy regulations to protect personal information from unauthorized access and use.",
-          "Importance": 4
-        },
-        {
-          "Subject": "data equity",
-          "Relation": "implements",
-          "Object": "ai for smart grid optimization",
-          "Description": "Data equity implements AI for smart grid optimization to ensure fair and unbiased decision-making in energy management.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "policy framework",
       "digital infrastructure",
@@ -149,6 +59,94 @@
         "Relation": "is a sub-element of",
         "Parent": "national digital strategy",
         "Description": "Cybersecurity is a critical sub-element of a national digital strategy. It involves measures and practices to protect digital systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction. A comprehensive cybersecurity strategy is necessary to safeguard critical infrastructure, sensitive information, and ensure the resilience of digital services.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy implements data governance frameworks to ensure the effective management and protection of data.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy provides funding for the implementation and maintenance of data governance frameworks.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy focuses on the development and enhancement of data governance frameworks to ensure data integrity and privacy.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy is embedded in the implementation and enforcement of data governance frameworks.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy collaborates and partners with data governance frameworks to ensure effective data management and governance.",
+        "Importance": 4
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy contributes to the development and improvement of data governance frameworks to enhance data security and privacy.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy monitors the implementation and compliance of data governance frameworks to ensure adherence to data management standards.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy sets targets and goals for the implementation and effectiveness of data governance frameworks.",
+        "Importance": 3
+      },
+      {
+        "Relation": "addresses",
+        "Object": "data governance frameworks",
+        "Description": "The national digital strategy addresses the challenges and issues related to data governance frameworks to ensure their successful implementation and operation.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "data governance frameworks",
+        "Relation": "implements",
+        "Object": "sustainable energy policies",
+        "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
+        "Importance": 4
+      },
+      {
+        "Subject": "data governance frameworks",
+        "Relation": "funds",
+        "Object": "research and development projects",
+        "Description": "Data governance frameworks provide funding for research and development projects related to sustainable energy.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "data privacy and security",
+        "Relation": "implements",
+        "Object": "privacy regulations",
+        "Description": "Data privacy and security implements privacy regulations to protect personal information from unauthorized access and use.",
+        "Importance": 4
+      },
+      {
+        "Subject": "data equity",
+        "Relation": "implements",
+        "Object": "ai for smart grid optimization",
+        "Description": "Data equity implements AI for smart grid optimization to ensure fair and unbiased decision-making in energy management.",
         "Importance": 4
       }
     ]

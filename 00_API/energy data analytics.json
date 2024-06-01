@@ -27,118 +27,6 @@
       "renewable energy agencies",
       "carbon footprint reduction"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Energy data analytics implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "research and development",
-          "Description": "Energy data analytics funds research and development projects to advance sustainable energy technologies and practices.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "renewable energy agencies",
-          "Description": "Energy data analytics focuses on analyzing data related to renewable energy sources to identify trends and opportunities.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "smart grid systems",
-          "Description": "Energy data analytics is used in smart grid systems to optimize energy distribution and improve grid efficiency.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "energy service companies",
-          "Description": "Energy data analytics partners with energy service companies to provide data-driven insights for energy efficiency improvements.",
-          "Importance": 4
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "carbon footprint reduction",
-          "Description": "Energy data analytics contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy usage.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption",
-          "Description": "Energy data analytics monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "energy efficiency",
-          "Description": "Energy data analytics targets energy efficiency improvements by analyzing data and identifying energy-saving measures.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "employs",
-          "Object": "energy markets",
-          "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
-          "Importance": 3
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy storage",
-          "Relation": "addresses",
-          "Object": "intermittency of renewable energy",
-          "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "data collection",
       "data analysis",
@@ -180,6 +68,116 @@
         "Relation": "is a sub-element of",
         "Parent": "energy data analytics",
         "Description": "Energy efficiency optimization is a significant application of energy data analytics, involving the identification and implementation of measures to improve energy efficiency in various sectors. It utilizes data analysis and modeling techniques to identify energy-saving opportunities and optimize energy usage.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Energy data analytics implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "research and development",
+        "Description": "Energy data analytics funds research and development projects to advance sustainable energy technologies and practices.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "renewable energy agencies",
+        "Description": "Energy data analytics focuses on analyzing data related to renewable energy sources to identify trends and opportunities.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "smart grid systems",
+        "Description": "Energy data analytics is used in smart grid systems to optimize energy distribution and improve grid efficiency.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "energy service companies",
+        "Description": "Energy data analytics partners with energy service companies to provide data-driven insights for energy efficiency improvements.",
+        "Importance": 4
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "carbon footprint reduction",
+        "Description": "Energy data analytics contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy usage.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption",
+        "Description": "Energy data analytics monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "energy efficiency",
+        "Description": "Energy data analytics targets energy efficiency improvements by analyzing data and identifying energy-saving measures.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "employs",
+        "Object": "energy markets",
+        "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
+        "Importance": 3
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy storage",
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
       }
     ]

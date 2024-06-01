@@ -25,69 +25,6 @@
       "government agencies",
       "environmental indicators"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "employs",
-          "Object": "environmental experts",
-          "Description": "Environmental impact assessments employ the expertise of environmental experts to evaluate the potential environmental effects of energy projects.",
-          "Importance": 3
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "government agencies",
-          "Description": "Environmental impact assessments collaborate with government agencies to ensure compliance with environmental regulations and standards.",
-          "Importance": 3
-        },
-        {
-          "Relation": "supports",
-          "Object": "sustainable development goals",
-          "Description": "Environmental impact assessments support the achievement of sustainable development goals by evaluating the environmental implications of energy projects.",
-          "Importance": 2
-        },
-        {
-          "Relation": "administers",
-          "Object": "environmental impact assessments",
-          "Description": "Environmental impact assessments administer the process of evaluating and assessing the potential environmental impacts of energy projects.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "environmental indicators",
-          "Description": "Environmental impact assessments measure various environmental indicators to assess the potential impacts of energy projects on the environment.",
-          "Importance": 2
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "environmental regulations",
-          "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "environmental impact assessments",
-          "Description": "Environmental impact assessments are an instance of the broader practice of environmental assessment, specifically focused on energy projects.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "environmental impact assessments",
-          "Relation": "aligns_with",
-          "Object": "environmental regulations",
-          "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
-          "Importance": 4
-        },
-        {
-          "Subject": "environmental impact assessments",
-          "Relation": "aligns_with",
-          "Object": "environmental regulations",
-          "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
-          "Importance": 4
-        }
-      ],
-      "level 3": []
-    },
     "sub-elements": [
       "baseline studies",
       "impact prediction",
@@ -131,6 +68,67 @@
         "Description": "Public participation is an important component of environmental impact assessments. It involves engaging and involving the public, including affected communities and stakeholders, in the decision-making process. This ensures that their concerns and perspectives are considered and helps in achieving more sustainable and socially acceptable outcomes.",
         "Importance": 4
       }
-    ]
+    ],
+    "relations": [
+      {
+        "Relation": "employs",
+        "Object": "environmental experts",
+        "Description": "Environmental impact assessments employ the expertise of environmental experts to evaluate the potential environmental effects of energy projects.",
+        "Importance": 3
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "government agencies",
+        "Description": "Environmental impact assessments collaborate with government agencies to ensure compliance with environmental regulations and standards.",
+        "Importance": 3
+      },
+      {
+        "Relation": "supports",
+        "Object": "sustainable development goals",
+        "Description": "Environmental impact assessments support the achievement of sustainable development goals by evaluating the environmental implications of energy projects.",
+        "Importance": 2
+      },
+      {
+        "Relation": "administers",
+        "Object": "environmental impact assessments",
+        "Description": "Environmental impact assessments administer the process of evaluating and assessing the potential environmental impacts of energy projects.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "environmental indicators",
+        "Description": "Environmental impact assessments measure various environmental indicators to assess the potential impacts of energy projects on the environment.",
+        "Importance": 2
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "environmental regulations",
+        "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "environmental impact assessments",
+        "Description": "Environmental impact assessments are an instance of the broader practice of environmental assessment, specifically focused on energy projects.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "environmental impact assessments",
+        "Relation": "aligns_with",
+        "Object": "environmental regulations",
+        "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
+        "Importance": 4
+      },
+      {
+        "Subject": "environmental impact assessments",
+        "Relation": "aligns_with",
+        "Object": "environmental regulations",
+        "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": []
   }
 }

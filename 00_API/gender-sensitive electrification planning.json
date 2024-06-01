@@ -24,132 +24,6 @@
       "renewable energy agencies",
       "rural areas"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Gender-sensitive electrification planning implements building standards that promote gender equality in energy access and usage.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Gender-sensitive electrification planning funds renewable energy projects that aim to provide clean and sustainable energy to communities.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "energy markets",
-          "Description": "Gender-sensitive electrification planning focuses on improving energy access for marginalized and underserved communities, particularly women and girls.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "rural areas",
-          "Description": "Gender-sensitive electrification planning is implemented in rural areas to address the energy needs of rural communities, with a focus on gender equality.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "local ngos",
-          "Description": "Gender-sensitive electrification planning partners with local NGOs to ensure community engagement and participation in energy planning and implementation.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "sustainable development goals",
-          "Description": "Gender-sensitive electrification planning contributes to the achievement of Sustainable Development Goals, particularly Goal 7: Affordable and Clean Energy.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption",
-          "Description": "Gender-sensitive electrification planning monitors energy consumption patterns to identify areas for improvement and optimize energy efficiency.",
-          "Importance": 2
-        },
-        {
-          "Relation": "targets",
-          "Object": "energy poverty indices",
-          "Description": "Gender-sensitive electrification planning targets the reduction of energy poverty by ensuring equitable access to affordable and reliable energy services.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
-          "Importance": 3
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "climate change scenario analysis",
-          "Relation": "implements",
-          "Object": "sustainable energy projects",
-          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "gender analysis",
       "electrification planning",
@@ -191,6 +65,130 @@
         "Relation": "is a sub-element of",
         "Parent": "gender-sensitive electrification planning",
         "Description": "Gender-sensitive data collection is a foundational element of gender-sensitive electrification planning. It involves gathering sex-disaggregated data and other gender-related information to understand the different energy needs, preferences, and behaviors of women, men, and gender-diverse individuals. This data helps inform evidence-based decision-making and targeted interventions.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Gender-sensitive electrification planning implements building standards that promote gender equality in energy access and usage.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Gender-sensitive electrification planning funds renewable energy projects that aim to provide clean and sustainable energy to communities.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "energy markets",
+        "Description": "Gender-sensitive electrification planning focuses on improving energy access for marginalized and underserved communities, particularly women and girls.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "rural areas",
+        "Description": "Gender-sensitive electrification planning is implemented in rural areas to address the energy needs of rural communities, with a focus on gender equality.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "local ngos",
+        "Description": "Gender-sensitive electrification planning partners with local NGOs to ensure community engagement and participation in energy planning and implementation.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "sustainable development goals",
+        "Description": "Gender-sensitive electrification planning contributes to the achievement of Sustainable Development Goals, particularly Goal 7: Affordable and Clean Energy.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption",
+        "Description": "Gender-sensitive electrification planning monitors energy consumption patterns to identify areas for improvement and optimize energy efficiency.",
+        "Importance": 2
+      },
+      {
+        "Relation": "targets",
+        "Object": "energy poverty indices",
+        "Description": "Gender-sensitive electrification planning targets the reduction of energy poverty by ensuring equitable access to affordable and reliable energy services.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "climate change scenario analysis",
+        "Relation": "implements",
+        "Object": "sustainable energy projects",
+        "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
       }
     ]

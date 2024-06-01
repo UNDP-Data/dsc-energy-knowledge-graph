@@ -27,146 +27,6 @@
       "distributed energy resources",
       "energy independence"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Micro grids address energy access challenges by providing electricity to remote and underserved areas.",
-          "Importance": 4
-        },
-        {
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Micro grids employ renewable energy sources to generate electricity in a decentralized manner.",
-          "Importance": 3
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "local communities",
-          "Description": "Micro grids collaborate with local communities to ensure their energy needs are met sustainably and efficiently.",
-          "Importance": 4
-        },
-        {
-          "Relation": "supports",
-          "Object": "energy independence",
-          "Description": "Micro grids support energy independence by reducing reliance on centralized power grids and promoting local energy generation.",
-          "Importance": 3
-        },
-        {
-          "Relation": "administers",
-          "Object": "hybrid energy storage systems",
-          "Description": "Micro grids administer energy storage systems to ensure reliable and uninterrupted power supply.",
-          "Importance": 4
-        },
-        {
-          "Relation": "measures",
-          "Object": "energy and modernization",
-          "Description": "Micro grids measure energy generation to optimize the utilization of renewable energy resources.",
-          "Importance": 3
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "decentralized energy systems",
-          "Description": "Micro grids align with decentralized energy systems to promote local energy generation and distribution.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "distributed energy resources",
-          "Description": "Micro grids are an instance of distributed energy resources that enable localized energy generation and consumption.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy markets",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
-          "Importance": 3
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "hybrid energy storage systems",
-          "Relation": "implements",
-          "Object": "energy storage technologies",
-          "Description": "Hybrid energy storage systems implement various energy storage technologies to optimize energy usage and improve efficiency.",
-          "Importance": 4
-        },
-        {
-          "Subject": "hybrid energy storage systems",
-          "Relation": "funds",
-          "Object": "research and development",
-          "Description": "Hybrid energy storage systems provide funding for research and development of new energy storage technologies and solutions.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy and modernization",
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Energy and modernization implements rigorous building standards that promote the use of energy-saving designs and materials.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy and modernization",
-          "Relation": "focuses_on",
-          "Object": "energy markets",
-          "Description": "Energy and modernization focuses on improving energy access for all, especially in underserved communities.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "energy markets",
-          "Relation": "addresses",
-          "Object": "energy markets",
-          "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "climate change scenario analysis",
-          "Relation": "implements",
-          "Object": "sustainable energy projects",
-          "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "solar micro grids",
       "wind micro grids",
@@ -208,6 +68,144 @@
         "Relation": "is a sub-element of",
         "Parent": "micro grids",
         "Description": "Smart micro grids are a type of micro grid that utilize advanced technologies, such as sensors, automation, and data analytics, to optimize energy generation, distribution, and consumption. They enable efficient energy management, demand response, and integration of renewable energy sources. Smart micro grids enhance grid efficiency and enable better utilization of sustainable energy resources.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Micro grids address energy access challenges by providing electricity to remote and underserved areas.",
+        "Importance": 4
+      },
+      {
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Micro grids employ renewable energy sources to generate electricity in a decentralized manner.",
+        "Importance": 3
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "Micro grids collaborate with local communities to ensure their energy needs are met sustainably and efficiently.",
+        "Importance": 4
+      },
+      {
+        "Relation": "supports",
+        "Object": "energy independence",
+        "Description": "Micro grids support energy independence by reducing reliance on centralized power grids and promoting local energy generation.",
+        "Importance": 3
+      },
+      {
+        "Relation": "administers",
+        "Object": "hybrid energy storage systems",
+        "Description": "Micro grids administer energy storage systems to ensure reliable and uninterrupted power supply.",
+        "Importance": 4
+      },
+      {
+        "Relation": "measures",
+        "Object": "energy and modernization",
+        "Description": "Micro grids measure energy generation to optimize the utilization of renewable energy resources.",
+        "Importance": 3
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "decentralized energy systems",
+        "Description": "Micro grids align with decentralized energy systems to promote local energy generation and distribution.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "distributed energy resources",
+        "Description": "Micro grids are an instance of distributed energy resources that enable localized energy generation and consumption.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+        "Importance": 3
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "hybrid energy storage systems",
+        "Relation": "implements",
+        "Object": "energy storage technologies",
+        "Description": "Hybrid energy storage systems implement various energy storage technologies to optimize energy usage and improve efficiency.",
+        "Importance": 4
+      },
+      {
+        "Subject": "hybrid energy storage systems",
+        "Relation": "funds",
+        "Object": "research and development",
+        "Description": "Hybrid energy storage systems provide funding for research and development of new energy storage technologies and solutions.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy and modernization",
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Energy and modernization implements rigorous building standards that promote the use of energy-saving designs and materials.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy and modernization",
+        "Relation": "focuses_on",
+        "Object": "energy markets",
+        "Description": "Energy and modernization focuses on improving energy access for all, especially in underserved communities.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "climate change scenario analysis",
+        "Relation": "implements",
+        "Object": "sustainable energy projects",
+        "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
       }
     ]

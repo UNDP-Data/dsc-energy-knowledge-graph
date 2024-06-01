@@ -25,138 +25,6 @@
       "building standards",
       "renewable energy agencies"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Energy access for informal settlements implements building standards that promote the use of energy-saving designs and materials.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Energy access for informal settlements funds renewable energy projects to provide sustainable and clean energy solutions.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "community engagement",
-          "Description": "Energy access for informal settlements focuses on community engagement to raise awareness and promote energy access initiatives.",
-          "Importance": 3
-        },
-        {
-          "Relation": "in",
-          "Object": "urban areas",
-          "Description": "Energy access for informal settlements is implemented in urban areas to address the energy needs of informal settlements.",
-          "Importance": 2
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "local ngos",
-          "Description": "Energy access for informal settlements partners with local NGOs to collaborate on energy access projects and initiatives.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "sustainable development goals",
-          "Description": "Energy access for informal settlements contributes to the achievement of Sustainable Development Goals by providing clean and affordable energy access.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "energy consumption",
-          "Description": "Energy access for informal settlements monitors energy consumption to identify areas for improvement and optimize energy access initiatives.",
-          "Importance": 2
-        },
-        {
-          "Relation": "targets",
-          "Object": "energy poverty indices",
-          "Description": "Energy access for informal settlements targets energy poverty by providing access to reliable and affordable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "energy and health",
-          "Description": "Energy access for informal settlements addresses energy inequality by ensuring equal access to energy resources and services.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy and health",
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy and health",
-          "Relation": "focuses_on",
-          "Object": "access to clean cooking solutions",
-          "Description": "Energy and health focuses on improving access to clean cooking solutions to reduce indoor air pollution and promote better health.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy and health",
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy poverty indices",
-          "Relation": "implements",
-          "Object": "energy access programs",
-          "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "Solar home systems",
       "Mini-grids",
@@ -198,6 +66,136 @@
         "Relation": "is a sub-element of",
         "Parent": "energy access for informal settlements",
         "Description": "Community-based renewable energy projects are a sub-component of energy access for informal settlements. These projects involve the development and implementation of renewable energy systems, such as solar or wind power, at the community level. They aim to provide sustainable and affordable energy solutions to informal settlements.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Energy access for informal settlements implements building standards that promote the use of energy-saving designs and materials.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Energy access for informal settlements funds renewable energy projects to provide sustainable and clean energy solutions.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "community engagement",
+        "Description": "Energy access for informal settlements focuses on community engagement to raise awareness and promote energy access initiatives.",
+        "Importance": 3
+      },
+      {
+        "Relation": "in",
+        "Object": "urban areas",
+        "Description": "Energy access for informal settlements is implemented in urban areas to address the energy needs of informal settlements.",
+        "Importance": 2
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "local ngos",
+        "Description": "Energy access for informal settlements partners with local NGOs to collaborate on energy access projects and initiatives.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "sustainable development goals",
+        "Description": "Energy access for informal settlements contributes to the achievement of Sustainable Development Goals by providing clean and affordable energy access.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "energy consumption",
+        "Description": "Energy access for informal settlements monitors energy consumption to identify areas for improvement and optimize energy access initiatives.",
+        "Importance": 2
+      },
+      {
+        "Relation": "targets",
+        "Object": "energy poverty indices",
+        "Description": "Energy access for informal settlements targets energy poverty by providing access to reliable and affordable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "energy and health",
+        "Description": "Energy access for informal settlements addresses energy inequality by ensuring equal access to energy resources and services.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy and health",
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy and health",
+        "Relation": "focuses_on",
+        "Object": "access to clean cooking solutions",
+        "Description": "Energy and health focuses on improving access to clean cooking solutions to reduce indoor air pollution and promote better health.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy and health",
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy poverty indices",
+        "Relation": "implements",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
       }
     ]

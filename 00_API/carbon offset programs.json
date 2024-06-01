@@ -26,110 +26,6 @@
       "corporate sustainability initiatives",
       "environmental conservation"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "sustainable development goals",
-          "Description": "Carbon offset programs implement sustainable development goals to reduce greenhouse gas emissions and promote sustainable practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "renewable energy agencies",
-          "Description": "Carbon offset programs provide funding for renewable energy projects to support the transition to clean and sustainable energy sources.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "emission reduction",
-          "Description": "Carbon offset programs focus on emission reduction strategies to mitigate the impact of greenhouse gas emissions on climate change.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "climate change mitigation",
-          "Description": "Carbon offset programs play a crucial role in climate change mitigation efforts by reducing greenhouse gas emissions and promoting sustainable practices.",
-          "Importance": 4
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "corporate sustainability initiatives",
-          "Description": "Carbon offset programs partner with corporate sustainability initiatives to collaborate on emission reduction projects and promote sustainable practices.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "environmental conservation",
-          "Description": "Carbon offset programs contribute to environmental conservation by supporting projects that protect and restore natural ecosystems.",
-          "Importance": 3
-        },
-        {
-          "Relation": "monitors",
-          "Object": "carbon emissions",
-          "Description": "Carbon offset programs monitor carbon emissions to ensure accurate measurement and verification of emission reduction efforts.",
-          "Importance": 2
-        },
-        {
-          "Relation": "targets",
-          "Object": "net-zero emissions",
-          "Description": "Carbon offset programs set targets for achieving net-zero emissions by supporting projects that reduce and offset greenhouse gas emissions.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "climate change",
-          "Description": "Carbon offset programs address climate change by promoting sustainable practices and supporting projects that reduce greenhouse gas emissions.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "administers",
-          "Object": "feed-in tariff programs",
-          "Description": "Renewable energy agencies administer feed-in tariff programs to incentivize the production of renewable energy and promote its integration into the grid.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "aligns_with",
-          "Object": "sustainable development goals",
-          "Description": "Renewable energy agencies align their activities and initiatives with the Sustainable Development Goals to contribute to the global agenda for sustainable development.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "an_instance_of",
-          "Object": "government agencies",
-          "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "voluntary carbon offset programs",
       "compliance carbon offset programs",
@@ -172,6 +68,108 @@
         "Parent": "carbon offset programs",
         "Description": "Individual carbon offset programs enable individuals to offset their personal carbon emissions by investing in projects that reduce or remove greenhouse gas emissions. These programs provide individuals with the opportunity to take action against climate change and contribute to sustainable development.",
         "Importance": 3
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "sustainable development goals",
+        "Description": "Carbon offset programs implement sustainable development goals to reduce greenhouse gas emissions and promote sustainable practices.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "renewable energy agencies",
+        "Description": "Carbon offset programs provide funding for renewable energy projects to support the transition to clean and sustainable energy sources.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "emission reduction",
+        "Description": "Carbon offset programs focus on emission reduction strategies to mitigate the impact of greenhouse gas emissions on climate change.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "climate change mitigation",
+        "Description": "Carbon offset programs play a crucial role in climate change mitigation efforts by reducing greenhouse gas emissions and promoting sustainable practices.",
+        "Importance": 4
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "corporate sustainability initiatives",
+        "Description": "Carbon offset programs partner with corporate sustainability initiatives to collaborate on emission reduction projects and promote sustainable practices.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "environmental conservation",
+        "Description": "Carbon offset programs contribute to environmental conservation by supporting projects that protect and restore natural ecosystems.",
+        "Importance": 3
+      },
+      {
+        "Relation": "monitors",
+        "Object": "carbon emissions",
+        "Description": "Carbon offset programs monitor carbon emissions to ensure accurate measurement and verification of emission reduction efforts.",
+        "Importance": 2
+      },
+      {
+        "Relation": "targets",
+        "Object": "net-zero emissions",
+        "Description": "Carbon offset programs set targets for achieving net-zero emissions by supporting projects that reduce and offset greenhouse gas emissions.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "climate change",
+        "Description": "Carbon offset programs address climate change by promoting sustainable practices and supporting projects that reduce greenhouse gas emissions.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "administers",
+        "Object": "feed-in tariff programs",
+        "Description": "Renewable energy agencies administer feed-in tariff programs to incentivize the production of renewable energy and promote its integration into the grid.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "aligns_with",
+        "Object": "sustainable development goals",
+        "Description": "Renewable energy agencies align their activities and initiatives with the Sustainable Development Goals to contribute to the global agenda for sustainable development.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "an_instance_of",
+        "Object": "government agencies",
+        "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
       }
     ]
   }

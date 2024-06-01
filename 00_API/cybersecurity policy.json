@@ -17,89 +17,6 @@
     "entities": [
       "data sovereignty"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy implements measures to ensure data sovereignty and protect sensitive information from unauthorized access.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy allocates funds to support initiatives related to data sovereignty and cybersecurity.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy focuses on ensuring data sovereignty by implementing robust security measures and data protection protocols.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy plays a crucial role in maintaining data sovereignty by establishing guidelines and regulations for data protection.",
-          "Importance": 3
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy partners with organizations and stakeholders to enhance data sovereignty and collaborate on cybersecurity initiatives.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy contributes to the achievement of data sovereignty by implementing measures to protect data from cyber threats and breaches.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy monitors the implementation of data sovereignty measures and assesses the effectiveness of cybersecurity protocols.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy sets targets and goals to improve data sovereignty and enhance cybersecurity capabilities.",
-          "Importance": 3
-        },
-        {
-          "Relation": "addresses",
-          "Object": "data sovereignty",
-          "Description": "The cybersecurity policy addresses the challenges and risks associated with data sovereignty by implementing appropriate security measures.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "data sovereignty",
-          "Relation": "implements",
-          "Object": "data protection regulations",
-          "Description": "Data sovereignty implements data protection regulations to ensure the privacy and security of data.",
-          "Importance": 4
-        },
-        {
-          "Subject": "data sovereignty",
-          "Relation": "funds",
-          "Object": "data localization initiatives",
-          "Description": "Data sovereignty funds data localization initiatives to promote local storage and processing of data.",
-          "Importance": 3
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "data governance frameworks",
-          "Relation": "implements",
-          "Object": "sustainable energy policies",
-          "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
-          "Importance": 4
-        }
-      ]
-    },
     "sub-elements": [
       "legislation",
       "regulation",
@@ -141,6 +58,87 @@
         "Relation": "is a sub-element of",
         "Parent": "cybersecurity policy",
         "Description": "Incident response involves the procedures and protocols for handling and mitigating cybersecurity incidents. It includes the detection, analysis, containment, eradication, and recovery from security breaches or attacks.",
+        "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy implements measures to ensure data sovereignty and protect sensitive information from unauthorized access.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy allocates funds to support initiatives related to data sovereignty and cybersecurity.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy focuses on ensuring data sovereignty by implementing robust security measures and data protection protocols.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy plays a crucial role in maintaining data sovereignty by establishing guidelines and regulations for data protection.",
+        "Importance": 3
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy partners with organizations and stakeholders to enhance data sovereignty and collaborate on cybersecurity initiatives.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy contributes to the achievement of data sovereignty by implementing measures to protect data from cyber threats and breaches.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy monitors the implementation of data sovereignty measures and assesses the effectiveness of cybersecurity protocols.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy sets targets and goals to improve data sovereignty and enhance cybersecurity capabilities.",
+        "Importance": 3
+      },
+      {
+        "Relation": "addresses",
+        "Object": "data sovereignty",
+        "Description": "The cybersecurity policy addresses the challenges and risks associated with data sovereignty by implementing appropriate security measures.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "data sovereignty",
+        "Relation": "implements",
+        "Object": "data protection regulations",
+        "Description": "Data sovereignty implements data protection regulations to ensure the privacy and security of data.",
+        "Importance": 4
+      },
+      {
+        "Subject": "data sovereignty",
+        "Relation": "funds",
+        "Object": "data localization initiatives",
+        "Description": "Data sovereignty funds data localization initiatives to promote local storage and processing of data.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "data governance frameworks",
+        "Relation": "implements",
+        "Object": "sustainable energy policies",
+        "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
         "Importance": 4
       }
     ]

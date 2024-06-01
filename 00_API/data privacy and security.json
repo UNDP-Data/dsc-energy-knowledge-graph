@@ -25,66 +25,6 @@
       "government agencies",
       "information technology"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "implements",
-          "Object": "privacy regulations",
-          "Description": "Data privacy and security implements privacy regulations to protect personal information from unauthorized access and use.",
-          "Importance": 4
-        },
-        {
-          "Relation": "funds",
-          "Object": "cybersecurity research",
-          "Description": "Data privacy and security funds cybersecurity research to develop advanced technologies and strategies for protecting data from cyber threats.",
-          "Importance": 3
-        },
-        {
-          "Relation": "focuses_on",
-          "Object": "data encryption",
-          "Description": "Data privacy and security focuses on data encryption to ensure that sensitive information is securely stored and transmitted.",
-          "Importance": 4
-        },
-        {
-          "Relation": "in",
-          "Object": "information technology",
-          "Description": "Data privacy and security is an integral part of information technology systems to safeguard data from unauthorized access and breaches.",
-          "Importance": 4
-        },
-        {
-          "Relation": "partners_with",
-          "Object": "government agencies",
-          "Description": "Data privacy and security partners with government agencies to develop and enforce policies and regulations for protecting data privacy.",
-          "Importance": 3
-        },
-        {
-          "Relation": "contributes_to",
-          "Object": "trust in digital services",
-          "Description": "Data privacy and security contributes to building trust in digital services by ensuring the confidentiality and integrity of personal data.",
-          "Importance": 4
-        },
-        {
-          "Relation": "monitors",
-          "Object": "data breaches",
-          "Description": "Data privacy and security monitors data breaches to identify vulnerabilities and take necessary measures to prevent future incidents.",
-          "Importance": 3
-        },
-        {
-          "Relation": "targets",
-          "Object": "cybercriminals",
-          "Description": "Data privacy and security targets cybercriminals to detect and mitigate their activities that pose a threat to data privacy and security.",
-          "Importance": 4
-        },
-        {
-          "Relation": "addresses",
-          "Object": "data protection laws",
-          "Description": "Data privacy and security addresses data protection laws to ensure compliance and protect individuals' rights regarding their personal data.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [],
-      "level 3": []
-    },
     "sub-elements": [
       "data protection",
       "data encryption",
@@ -128,6 +68,64 @@
         "Description": "Cybersecurity involves protecting computer systems, networks, and data from digital attacks, unauthorized access, and damage. It includes measures such as firewalls, antivirus software, and intrusion detection systems.",
         "Importance": 4
       }
-    ]
+    ],
+    "relations": [
+      {
+        "Relation": "implements",
+        "Object": "privacy regulations",
+        "Description": "Data privacy and security implements privacy regulations to protect personal information from unauthorized access and use.",
+        "Importance": 4
+      },
+      {
+        "Relation": "funds",
+        "Object": "cybersecurity research",
+        "Description": "Data privacy and security funds cybersecurity research to develop advanced technologies and strategies for protecting data from cyber threats.",
+        "Importance": 3
+      },
+      {
+        "Relation": "focuses_on",
+        "Object": "data encryption",
+        "Description": "Data privacy and security focuses on data encryption to ensure that sensitive information is securely stored and transmitted.",
+        "Importance": 4
+      },
+      {
+        "Relation": "in",
+        "Object": "information technology",
+        "Description": "Data privacy and security is an integral part of information technology systems to safeguard data from unauthorized access and breaches.",
+        "Importance": 4
+      },
+      {
+        "Relation": "partners_with",
+        "Object": "government agencies",
+        "Description": "Data privacy and security partners with government agencies to develop and enforce policies and regulations for protecting data privacy.",
+        "Importance": 3
+      },
+      {
+        "Relation": "contributes_to",
+        "Object": "trust in digital services",
+        "Description": "Data privacy and security contributes to building trust in digital services by ensuring the confidentiality and integrity of personal data.",
+        "Importance": 4
+      },
+      {
+        "Relation": "monitors",
+        "Object": "data breaches",
+        "Description": "Data privacy and security monitors data breaches to identify vulnerabilities and take necessary measures to prevent future incidents.",
+        "Importance": 3
+      },
+      {
+        "Relation": "targets",
+        "Object": "cybercriminals",
+        "Description": "Data privacy and security targets cybercriminals to detect and mitigate their activities that pose a threat to data privacy and security.",
+        "Importance": 4
+      },
+      {
+        "Relation": "addresses",
+        "Object": "data protection laws",
+        "Description": "Data privacy and security addresses data protection laws to ensure compliance and protect individuals' rights regarding their personal data.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [],
+    "relations-level-3": []
   }
 }

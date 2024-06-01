@@ -24,139 +24,6 @@
       "resilient infrastructure",
       "renewable energy agencies"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "addresses",
-          "Object": "urban air pollution",
-          "Description": "Electric mobility addresses the issue of urban air pollution by promoting the use of electric vehicles that produce zero tailpipe emissions.",
-          "Importance": 4
-        },
-        {
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Electric mobility employs renewable energy sources such as solar and wind power for charging electric vehicles, reducing reliance on fossil fuels.",
-          "Importance": 3
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "automobile manufacturers",
-          "Description": "Electric mobility collaborates with automobile manufacturers to develop and produce electric vehicles with advanced technologies and improved performance.",
-          "Importance": 3
-        },
-        {
-          "Relation": "supports",
-          "Object": "resilient infrastructure",
-          "Description": "Electric mobility supports the development and expansion of charging infrastructure to facilitate the widespread adoption of electric vehicles.",
-          "Importance": 4
-        },
-        {
-          "Relation": "administers",
-          "Object": "energy tax incentives",
-          "Description": "Electric mobility administers government incentives such as tax credits and subsidies to promote the purchase and use of electric vehicles.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "carbon emissions",
-          "Description": "Electric mobility measures the reduction in carbon emissions achieved through the adoption of electric vehicles as compared to conventional gasoline-powered vehicles.",
-          "Importance": 4
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "climate change mitigation",
-          "Description": "Electric mobility aligns with climate change mitigation efforts by reducing greenhouse gas emissions and promoting sustainable transportation solutions.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "just energy transition",
-          "Description": "Electric mobility is an instance of the clean energy transition, contributing to the shift towards cleaner and more sustainable energy sources in the transportation sector.",
-          "Importance": 4
-        }
-      ],
-      "level 2": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "collaborates_with",
-          "Object": "research institutions",
-          "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-          "Importance": 4
-        },
-        {
-          "Subject": "resilient infrastructure",
-          "Relation": "implements",
-          "Object": "building standards",
-          "Description": "Resilient infrastructure implements building standards that ensure the infrastructure can withstand and recover from natural disasters and other shocks.",
-          "Importance": 4
-        },
-        {
-          "Subject": "resilient infrastructure",
-          "Relation": "funds",
-          "Object": "research and development",
-          "Description": "Resilient infrastructure funds research and development projects that aim to improve the resilience of infrastructure systems.",
-          "Importance": 3
-        },
-        {
-          "Subject": "energy tax incentives",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Energy tax incentives are implemented by the Energy Efficiency Policy to promote the adoption of energy-saving practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "employs",
-          "Object": "renewable energy certificates",
-          "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
-          "Importance": 3
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "collaborates_with",
-          "Object": "local communities",
-          "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-          "Importance": 4
-        }
-      ],
-      "level 3": [
-        {
-          "Subject": "renewable energy agencies",
-          "Relation": "employs",
-          "Object": "renewable energy agencies",
-          "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-          "Importance": 4
-        },
-        {
-          "Subject": "energy efficiency",
-          "Relation": "addresses",
-          "Object": "energy storage",
-          "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-          "Importance": 4
-        },
-        {
-          "Subject": "renewable energy certificates",
-          "Relation": "implements",
-          "Object": "energy efficiency",
-          "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
-          "Importance": 4
-        },
-        {
-          "Subject": "just energy transition",
-          "Relation": "employs",
-          "Object": "renewable energy certificates",
-          "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
-          "Importance": 3
-        }
-      ]
-    },
     "sub-elements": [
       "electric vehicles",
       "charging infrastructure",
@@ -199,6 +66,137 @@
         "Parent": "electric mobility",
         "Description": "Policy and regulations are crucial sub-elements of electric mobility. They encompass government policies, incentives, and regulations that promote the adoption and deployment of electric vehicles. Effective policies and regulations can create a supportive environment for electric mobility and drive its growth.",
         "Importance": 4
+      }
+    ],
+    "relations": [
+      {
+        "Relation": "addresses",
+        "Object": "urban air pollution",
+        "Description": "Electric mobility addresses the issue of urban air pollution by promoting the use of electric vehicles that produce zero tailpipe emissions.",
+        "Importance": 4
+      },
+      {
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Electric mobility employs renewable energy sources such as solar and wind power for charging electric vehicles, reducing reliance on fossil fuels.",
+        "Importance": 3
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "automobile manufacturers",
+        "Description": "Electric mobility collaborates with automobile manufacturers to develop and produce electric vehicles with advanced technologies and improved performance.",
+        "Importance": 3
+      },
+      {
+        "Relation": "supports",
+        "Object": "resilient infrastructure",
+        "Description": "Electric mobility supports the development and expansion of charging infrastructure to facilitate the widespread adoption of electric vehicles.",
+        "Importance": 4
+      },
+      {
+        "Relation": "administers",
+        "Object": "energy tax incentives",
+        "Description": "Electric mobility administers government incentives such as tax credits and subsidies to promote the purchase and use of electric vehicles.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "carbon emissions",
+        "Description": "Electric mobility measures the reduction in carbon emissions achieved through the adoption of electric vehicles as compared to conventional gasoline-powered vehicles.",
+        "Importance": 4
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "climate change mitigation",
+        "Description": "Electric mobility aligns with climate change mitigation efforts by reducing greenhouse gas emissions and promoting sustainable transportation solutions.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "just energy transition",
+        "Description": "Electric mobility is an instance of the clean energy transition, contributing to the shift towards cleaner and more sustainable energy sources in the transportation sector.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-2": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "resilient infrastructure",
+        "Relation": "implements",
+        "Object": "building standards",
+        "Description": "Resilient infrastructure implements building standards that ensure the infrastructure can withstand and recover from natural disasters and other shocks.",
+        "Importance": 4
+      },
+      {
+        "Subject": "resilient infrastructure",
+        "Relation": "funds",
+        "Object": "research and development",
+        "Description": "Resilient infrastructure funds research and development projects that aim to improve the resilience of infrastructure systems.",
+        "Importance": 3
+      },
+      {
+        "Subject": "energy tax incentives",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Energy tax incentives are implemented by the Energy Efficiency Policy to promote the adoption of energy-saving practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "employs",
+        "Object": "renewable energy certificates",
+        "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
+        "Importance": 3
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
+        "Importance": 4
+      }
+    ],
+    "relations-level-3": [
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy certificates",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
+        "Importance": 4
+      },
+      {
+        "Subject": "just energy transition",
+        "Relation": "employs",
+        "Object": "renewable energy certificates",
+        "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
+        "Importance": 3
       }
     ]
   }

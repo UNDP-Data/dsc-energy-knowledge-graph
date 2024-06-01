@@ -22,54 +22,6 @@
       "emergency response teams",
       "sensor technology"
     ],
-    "relations": {
-      "level 1": [
-        {
-          "Relation": "employs",
-          "Object": "sensor technology",
-          "Description": "Disaster warning networks employ sensor technology to detect and alert about potential disasters.",
-          "Importance": 4
-        },
-        {
-          "Relation": "collaborates_with",
-          "Object": "meteorological agencies",
-          "Description": "Disaster warning networks collaborate with meteorological agencies to gather and analyze data for accurate disaster predictions.",
-          "Importance": 3
-        },
-        {
-          "Relation": "supports",
-          "Object": "emergency response teams",
-          "Description": "Disaster warning networks support emergency response teams by providing timely and accurate information about potential disasters.",
-          "Importance": 4
-        },
-        {
-          "Relation": "administers",
-          "Object": "early warning systems",
-          "Description": "Disaster warning networks administer early warning systems to alert communities about potential disasters.",
-          "Importance": 3
-        },
-        {
-          "Relation": "measures",
-          "Object": "risk levels",
-          "Description": "Disaster warning networks measure risk levels to assess the severity of potential disasters.",
-          "Importance": 2
-        },
-        {
-          "Relation": "aligns_with",
-          "Object": "disaster risk reduction strategies",
-          "Description": "Disaster warning networks align with disaster risk reduction strategies to enhance preparedness and response to potential disasters.",
-          "Importance": 4
-        },
-        {
-          "Relation": "an_instance_of",
-          "Object": "early warning systems",
-          "Description": "Disaster warning networks are an instance of early warning systems that aim to protect communities from potential disasters.",
-          "Importance": 3
-        }
-      ],
-      "level 2": [],
-      "level 3": []
-    },
     "sub-elements": [
       "early warning systems",
       "communication networks",
@@ -113,6 +65,52 @@
         "Description": "Community engagement is an integral part of disaster warning networks. It involves actively involving and empowering communities in the design, implementation, and evaluation of warning systems. Community engagement fosters local ownership, enhances trust, and promotes effective communication, leading to better disaster preparedness, response, and recovery.",
         "Importance": 4
       }
-    ]
+    ],
+    "relations": [
+      {
+        "Relation": "employs",
+        "Object": "sensor technology",
+        "Description": "Disaster warning networks employ sensor technology to detect and alert about potential disasters.",
+        "Importance": 4
+      },
+      {
+        "Relation": "collaborates_with",
+        "Object": "meteorological agencies",
+        "Description": "Disaster warning networks collaborate with meteorological agencies to gather and analyze data for accurate disaster predictions.",
+        "Importance": 3
+      },
+      {
+        "Relation": "supports",
+        "Object": "emergency response teams",
+        "Description": "Disaster warning networks support emergency response teams by providing timely and accurate information about potential disasters.",
+        "Importance": 4
+      },
+      {
+        "Relation": "administers",
+        "Object": "early warning systems",
+        "Description": "Disaster warning networks administer early warning systems to alert communities about potential disasters.",
+        "Importance": 3
+      },
+      {
+        "Relation": "measures",
+        "Object": "risk levels",
+        "Description": "Disaster warning networks measure risk levels to assess the severity of potential disasters.",
+        "Importance": 2
+      },
+      {
+        "Relation": "aligns_with",
+        "Object": "disaster risk reduction strategies",
+        "Description": "Disaster warning networks align with disaster risk reduction strategies to enhance preparedness and response to potential disasters.",
+        "Importance": 4
+      },
+      {
+        "Relation": "an_instance_of",
+        "Object": "early warning systems",
+        "Description": "Disaster warning networks are an instance of early warning systems that aim to protect communities from potential disasters.",
+        "Importance": 3
+      }
+    ],
+    "relations-level-2": [],
+    "relations-level-3": []
   }
 }
