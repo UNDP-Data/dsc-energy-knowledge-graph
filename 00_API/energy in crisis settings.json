@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy in crisis settings",
     "Description": "Summary of energy in crisis settings.",
     "Category": "Crisis",
     "Tags": [
@@ -11,18 +10,136 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy in Crisis Settings",
+    "Entity Code": "energy in crisis settings"
   },
   "knowledge graph": {
     "entities": [
-      "disaster response",
-      "sendai framework for disaster risk reduction",
-      "humanitarian needs",
-      "humanitarian organizations",
-      "renewable energy agencies",
-      "energy aid programs",
-      "energy resilience",
-      "emergency energy provision"
+      {
+        "Entity Title": "Humanitarian Organizations",
+        "Entity Code": "humanitarian organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Disaster Response",
+        "Entity Code": "disaster response",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Feed-in Tariff Programs",
+        "Entity Code": "feed-in tariff programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy in crisis settings.",
+        "Category": "Crisis",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Energy in Crisis Settings",
+        "Entity Code": "energy in crisis settings"
+      },
+      {
+        "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Environmental",
+          "Crisis"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "disaster resilience",
+          "grid resilience",
+          "energy resilience grants"
+        ],
+        "Entity Title": "Energy Resilience",
+        "Entity Code": "energy resilience"
+      },
+      {
+        "Entity Title": "Emergency Energy Provision",
+        "Entity Code": "emergency energy provision",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sendai Framework for Disaster Risk Reduction",
+        "Entity Code": "sendai framework for disaster risk reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Humanitarian Needs",
+        "Entity Code": "humanitarian needs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Aid Programs",
+        "Entity Code": "energy aid programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "Renewable energy solutions",
@@ -31,94 +148,63 @@
       "Energy storage",
       "Energy management"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Renewable energy solutions",
-        "Relation": "is a sub-element of",
-        "Parent": "energy in crisis settings",
-        "Description": "Renewable energy solutions play a crucial role in addressing energy needs in crisis settings. They provide a sustainable and reliable source of energy, reducing dependence on fossil fuels and minimizing environmental impact.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Energy access",
-        "Relation": "is a sub-element of",
-        "Parent": "energy in crisis settings",
-        "Description": "Ensuring energy access is essential in crisis settings to meet basic needs, support healthcare facilities, and enable communication and coordination. It contributes to improving living conditions and enhancing resilience.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Energy efficiency",
-        "Relation": "is a sub-element of",
-        "Parent": "energy in crisis settings",
-        "Description": "Energy efficiency measures are crucial in crisis settings to optimize energy use and reduce waste. They help maximize the effectiveness of limited energy resources and minimize the environmental impact.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Energy storage",
-        "Relation": "is a sub-element of",
-        "Parent": "energy in crisis settings",
-        "Description": "Energy storage solutions are important in crisis settings to ensure a reliable and continuous energy supply. They enable the integration of intermittent renewable energy sources and provide backup power during emergencies.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Energy management",
-        "Relation": "is a sub-element of",
-        "Parent": "energy in crisis settings",
-        "Description": "Effective energy management is crucial in crisis settings to optimize energy resources, prioritize energy needs, and ensure efficient energy distribution. It helps in minimizing energy wastage and maximizing energy availability.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "humanitarian needs",
         "Description": "Energy in crisis settings addresses the urgent humanitarian needs of affected populations by providing access to reliable and sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Energy in crisis settings employs renewable energy technologies to ensure energy availability in emergency situations and promote resilience.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "collaborates_with",
         "Object": "humanitarian organizations",
         "Description": "Energy in crisis settings collaborates with humanitarian organizations to coordinate energy interventions and meet the energy needs of affected populations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "supports",
         "Object": "disaster response",
         "Description": "Energy in crisis settings supports disaster response efforts by providing energy solutions for emergency shelters, healthcare facilities, and other critical infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "administers",
         "Object": "energy aid programs",
         "Description": "Energy in crisis settings administers energy aid programs to ensure the efficient and effective delivery of energy assistance in emergency situations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "measures",
         "Object": "energy resilience",
         "Description": "Energy in crisis settings measures the resilience of energy systems in crisis settings to identify vulnerabilities and improve preparedness.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "aligns_with",
         "Object": "sendai framework for disaster risk reduction",
         "Description": "Energy in crisis settings aligns with the principles and goals of the Sendai Framework for Disaster Risk Reduction to enhance resilience and reduce disaster risks.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy in crisis settings"
       },
       {
         "Relation": "an_instance_of",
         "Object": "emergency energy provision",
         "Description": "Energy in crisis settings is an instance of emergency energy provision, which aims to meet the energy needs of populations affected by crises and disasters.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy in crisis settings"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -153,15 +239,48 @@
         "Object": "government agencies",
         "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy solutions play a crucial role in addressing energy needs in crisis settings. They provide a sustainable and reliable source of energy, reducing dependence on fossil fuels and minimizing environmental impact.",
+        "Importance": 4,
+        "Subject": "renewable energy solutions",
+        "Object": "energy in crisis settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Ensuring energy access is essential in crisis settings to meet basic needs, support healthcare facilities, and enable communication and coordination. It contributes to improving living conditions and enhancing resilience.",
+        "Importance": 4,
+        "Subject": "energy access",
+        "Object": "energy in crisis settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency measures are crucial in crisis settings to optimize energy use and reduce waste. They help maximize the effectiveness of limited energy resources and minimize the environmental impact.",
+        "Importance": 3,
+        "Subject": "energy efficiency",
+        "Object": "energy in crisis settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy storage solutions are important in crisis settings to ensure a reliable and continuous energy supply. They enable the integration of intermittent renewable energy sources and provide backup power during emergencies.",
+        "Importance": 3,
+        "Subject": "energy storage",
+        "Object": "energy in crisis settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Effective energy management is crucial in crisis settings to optimize energy resources, prioritize energy needs, and ensure efficient energy distribution. It helps in minimizing energy wastage and maximizing energy availability.",
+        "Importance": 2,
+        "Subject": "energy management",
+        "Object": "energy in crisis settings"
       }
     ]
   }

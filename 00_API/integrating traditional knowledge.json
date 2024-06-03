@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "integrating traditional knowledge",
     "Description": "The incorporation of indigenous and traditional knowledge systems into sustainable energy planning and decision-making processes.",
     "Category": "Policy",
     "Tags": [
@@ -11,72 +10,171 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Integrating Traditional Knowledge",
+    "Entity Code": "integrating traditional knowledge"
   },
   "knowledge graph": {
     "entities": [
-      "knowledge exchange programs",
-      "research projects",
-      "policy development",
-      "capacity building",
-      "indigenous communities",
-      "community empowerment",
-      "building standards",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Community Empowerment",
+        "Entity Code": "community empowerment",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Capacity Building",
+        "Entity Code": "capacity building",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Indigenous Communities",
+        "Entity Code": "indigenous communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Community Renewable Energy Projects",
+        "Entity Code": "community renewable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Feed-in Tariff Programs",
+        "Entity Code": "feed-in tariff programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Projects",
+        "Entity Code": "research projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Policy Development",
+        "Entity Code": "policy development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Knowledge Exchange Programs",
+        "Entity Code": "knowledge exchange programs",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Integrating traditional knowledge implements building standards that incorporate indigenous practices and wisdom.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "funds",
         "Object": "research projects",
         "Description": "Integrating traditional knowledge funds research projects that explore the integration of indigenous knowledge into sustainable energy practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Integrating traditional knowledge focuses on renewable energy technologies that align with indigenous values and principles.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "in",
         "Object": "policy development",
         "Description": "Integrating traditional knowledge is integrated in policy development processes to ensure the inclusion of indigenous perspectives and practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "partners_with",
         "Object": "indigenous communities",
         "Description": "Integrating traditional knowledge partners with indigenous communities to co-create sustainable energy solutions that respect and incorporate traditional practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "contributes_to",
         "Object": "community empowerment",
         "Description": "Integrating traditional knowledge contributes to community empowerment by valuing and utilizing indigenous knowledge in sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "monitors",
         "Object": "knowledge exchange programs",
         "Description": "Integrating traditional knowledge monitors knowledge exchange programs that facilitate the sharing of indigenous energy practices and experiences.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "integrating traditional knowledge"
       },
       {
         "Relation": "targets",
         "Object": "capacity building",
         "Description": "Integrating traditional knowledge targets capacity building initiatives to enhance the understanding and application of indigenous energy knowledge.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "integrating traditional knowledge"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -125,9 +223,7 @@
         "Object": "government agencies",
         "Description": "Renewable energy agencies are government agencies dedicated to promoting and supporting the development of renewable energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

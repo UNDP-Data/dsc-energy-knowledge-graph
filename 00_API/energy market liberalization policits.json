@@ -1,85 +1,128 @@
 {
   "metadata": {
-    "Entity": "energy market liberalization policits",
     "Description": null,
     "Category": null,
     "Tags": null,
     "Dimension": null,
     "Acronym": null,
     "Importance": null,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Market Liberalization Policits",
+    "Entity Code": "energy market liberalization policits"
   },
   "knowledge graph": {
     "entities": [
-      "economic growth",
-      "energy market barriers",
-      "energy market performance",
-      "renewable energy targets",
-      "research and development projects",
-      "private sector companies",
-      "energy market competition",
-      "energy poverty reduction",
-      "collaboration with energy regulators"
+      {
+        "Entity Title": "Energy Market Competition",
+        "Entity Code": "energy market competition",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Market Performance",
+        "Entity Code": "energy market performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Economic Growth",
+        "Entity Code": "economic growth",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaboration with Energy Regulators",
+        "Entity Code": "collaboration with energy regulators",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Renewable Energy Targets",
+        "Entity Code": "renewable energy targets",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Private Sector Companies",
+        "Entity Code": "private sector companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development Projects",
+        "Entity Code": "research and development projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Market Barriers",
+        "Entity Code": "energy market barriers",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Poverty Reduction",
+        "Entity Code": "energy poverty reduction",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "renewable energy targets",
         "Description": "Energy market liberalization policies implement renewable energy targets to promote the use of clean and sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "funds",
         "Object": "research and development projects",
         "Description": "Energy market liberalization policies provide funding for research and development projects in the field of sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy market competition",
         "Description": "Energy market liberalization policies focus on promoting competition in the energy market to drive innovation and efficiency.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "in",
         "Object": "collaboration with energy regulators",
         "Description": "Energy market liberalization policies are developed in collaboration with energy regulators to ensure effective implementation and compliance.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector companies",
         "Description": "Energy market liberalization policies partner with private sector companies to leverage their expertise and resources in advancing sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "contributes_to",
         "Object": "economic growth",
         "Description": "Energy market liberalization policies contribute to economic growth by attracting investments and creating job opportunities in the sustainable energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "monitors",
         "Object": "energy market performance",
         "Description": "Energy market liberalization policies monitor the performance of the energy market to ensure fair competition and consumer protection.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty reduction",
         "Description": "Energy market liberalization policies target energy poverty reduction by promoting affordable and accessible energy services for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy market liberalization policits"
       },
       {
         "Relation": "addresses",
         "Object": "energy market barriers",
         "Description": "Energy market liberalization policies address barriers in the energy market to foster competition, innovation, and investment in sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy market liberalization policits"
       }
-    ],
-    "relations-level-2": [],
-    "relations-level-3": []
+    ]
   }
 }

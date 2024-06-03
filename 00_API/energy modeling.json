@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy modeling",
     "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
     "Category": "Technology",
     "Tags": [
@@ -13,18 +12,159 @@
     "Importance": 3.0,
     "Synonyms": [
       "energy planning"
-    ]
+    ],
+    "Entity Title": "Energy Modeling",
+    "Entity Code": "energy modeling"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable energy planning",
-      "research and development",
-      "renewable energy certificates",
-      "building energy performance",
-      "energy efficiency",
-      "energy consultants",
-      "energy consumption",
-      "carbon footprint reduction"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Planning",
+        "Entity Code": "sustainable energy planning",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Energy Performance",
+        "Entity Code": "building energy performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consultants",
+        "Entity Code": "energy consultants",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Carbon Footprint Reduction",
+        "Entity Code": "carbon footprint reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Simulation",
+          "System Analysis",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy planning"
+        ],
+        "Entity Title": "Energy Modeling",
+        "Entity Code": "energy modeling"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "system optimization",
@@ -33,100 +173,70 @@
       "policy analysis",
       "technology assessment"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "system optimization",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "System optimization is a key aspect of energy modeling, where different system configurations and parameters are analyzed to identify the most efficient and optimal solutions. It involves optimizing energy generation, distribution, and consumption to minimize costs and environmental impacts.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "scenario analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Scenario analysis is an important component of energy modeling, where different future scenarios and their potential impacts on energy systems are assessed. It helps in understanding the potential outcomes of different policy decisions and technological advancements.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "cost-benefit analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Cost-benefit analysis is a crucial part of energy modeling, where the economic costs and benefits of different energy projects and policies are evaluated. It helps in determining the financial viability and overall societal benefits of various energy options.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "policy analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Policy analysis is an integral aspect of energy modeling, where the impact of different policy interventions on energy systems is assessed. It helps in identifying the most effective policy measures to achieve sustainable energy goals.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "technology assessment",
-        "Relation": "is a sub-element of",
-        "Parent": "energy modeling",
-        "Description": "Technology assessment is a critical component of energy modeling, where the performance and potential of different energy technologies are evaluated. It helps in identifying the most suitable and efficient technologies for achieving sustainable energy objectives.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Energy modeling implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Energy modeling funds research and development projects to improve energy efficiency and renewable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "focuses_on",
         "Object": "building energy performance",
         "Description": "Energy modeling focuses on analyzing and improving building energy performance through simulation and optimization techniques.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy planning",
         "Description": "Energy modeling is an integral part of sustainable energy planning to assess the impact of different energy scenarios and inform decision-making.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "partners_with",
         "Object": "energy consultants",
         "Description": "Energy modeling partners with energy consultants to provide expertise and support in energy efficiency analysis and modeling.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "contributes_to",
         "Object": "carbon footprint reduction",
         "Description": "Energy modeling contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy systems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy modeling monitors energy consumption patterns and trends to identify areas for improvement and optimize energy use.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Energy modeling targets energy efficiency goals by identifying strategies and measures to achieve optimal energy performance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy modeling"
       },
       {
         "Relation": "addresses",
         "Object": "renewable energy certificates",
         "Description": "Energy modeling addresses the challenges and opportunities of renewable energy integration into the existing energy system.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy modeling"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -154,9 +264,7 @@
         "Object": "climate change mitigation",
         "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -184,6 +292,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "System optimization is a key aspect of energy modeling, where different system configurations and parameters are analyzed to identify the most efficient and optimal solutions. It involves optimizing energy generation, distribution, and consumption to minimize costs and environmental impacts.",
+        "Importance": 4,
+        "Subject": "system optimization",
+        "Object": "energy modeling"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Scenario analysis is an important component of energy modeling, where different future scenarios and their potential impacts on energy systems are assessed. It helps in understanding the potential outcomes of different policy decisions and technological advancements.",
+        "Importance": 3,
+        "Subject": "scenario analysis",
+        "Object": "energy modeling"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cost-benefit analysis is a crucial part of energy modeling, where the economic costs and benefits of different energy projects and policies are evaluated. It helps in determining the financial viability and overall societal benefits of various energy options.",
+        "Importance": 4,
+        "Subject": "cost-benefit analysis",
+        "Object": "energy modeling"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Policy analysis is an integral aspect of energy modeling, where the impact of different policy interventions on energy systems is assessed. It helps in identifying the most effective policy measures to achieve sustainable energy goals.",
+        "Importance": 3,
+        "Subject": "policy analysis",
+        "Object": "energy modeling"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Technology assessment is a critical component of energy modeling, where the performance and potential of different energy technologies are evaluated. It helps in identifying the most suitable and efficient technologies for achieving sustainable energy objectives.",
+        "Importance": 4,
+        "Subject": "technology assessment",
+        "Object": "energy modeling"
       }
     ]
   }

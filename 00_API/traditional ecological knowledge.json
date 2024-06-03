@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "traditional ecological knowledge",
     "Description": "The knowledge, practices, and beliefs of indigenous communities regarding the environment and natural resources.",
     "Category": "Social",
     "Tags": [
@@ -13,72 +12,177 @@
     "Importance": 3.0,
     "Synonyms": [
       "traditional knowledge"
-    ]
+    ],
+    "Entity Title": "Traditional Ecological Knowledge",
+    "Entity Code": "traditional ecological knowledge"
   },
   "knowledge graph": {
     "entities": [
-      "agroecology",
-      "ecosystem health",
-      "climate change adaptation",
-      "scientific research institutions",
-      "intangible cultural heritage",
-      "indigenous land rights",
-      "biodiversity conservation",
-      "community-based natural resource management"
+      {
+        "Description": null,
+        "Category": null,
+        "Tags": null,
+        "Dimension": null,
+        "Acronym": null,
+        "Importance": null,
+        "Synonyms": [
+          "land stewardship"
+        ],
+        "Entity Title": "Land Stewardship Agerements",
+        "Entity Code": "land stewardship agerements"
+      },
+      {
+        "Entity Title": "Land Tenure Systems",
+        "Entity Code": "land tenure systems",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Biodiversity Conservation",
+        "Entity Code": "biodiversity conservation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Agroecology",
+        "Entity Code": "agroecology",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Scientific Research Institutions",
+        "Entity Code": "scientific research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Ecosystem Health",
+        "Entity Code": "ecosystem health",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Adaptation",
+        "Entity Code": "climate change adaptation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Cultural Preservation",
+        "Entity Code": "cultural preservation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The rights of indigenous communities to own, use, and manage their traditional lands.",
+        "Category": "Social",
+        "Tags": [
+          "Indigenous",
+          "Land Rights"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "indigenous rights"
+        ],
+        "Entity Title": "Indigenous Land Rights",
+        "Entity Code": "indigenous land rights"
+      },
+      {
+        "Entity Title": "Intangible Cultural Heritage",
+        "Entity Code": "intangible cultural heritage",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Human Rights",
+        "Entity Code": "human rights",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Community-based Natural Resource Management",
+        "Entity Code": "community-based natural resource management",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Un Declaration on the Rights of Indigenous Peoples",
+        "Entity Code": "un declaration on the rights of indigenous peoples",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The knowledge, practices, and beliefs of indigenous communities regarding the environment and natural resources.",
+        "Category": "Social",
+        "Tags": [
+          "Traditional Ecological Knowledge",
+          "Indigenous",
+          "Environment"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "traditional knowledge"
+        ],
+        "Entity Title": "Traditional Ecological Knowledge",
+        "Entity Code": "traditional ecological knowledge"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "climate change adaptation",
         "Description": "Traditional ecological knowledge addresses climate change adaptation by providing valuable insights and practices for sustainable resource management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "employs",
         "Object": "agroecology",
         "Description": "Traditional ecological knowledge employs agroecology principles to promote sustainable and resilient agricultural practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "collaborates_with",
         "Object": "scientific research institutions",
         "Description": "Traditional ecological knowledge collaborates with scientific research institutions to integrate traditional and scientific knowledge for sustainable resource management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "supports",
         "Object": "biodiversity conservation",
         "Description": "Traditional ecological knowledge supports biodiversity conservation efforts by providing insights into the relationships between species and ecosystems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "administers",
         "Object": "community-based natural resource management",
         "Description": "Traditional ecological knowledge administers community-based natural resource management initiatives that promote sustainable livelihoods and conservation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "measures",
         "Object": "ecosystem health",
         "Description": "Traditional ecological knowledge measures ecosystem health by assessing indicators such as species diversity, water quality, and soil fertility.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "aligns_with",
         "Object": "indigenous land rights",
         "Description": "Traditional ecological knowledge aligns with indigenous rights by recognizing the importance of indigenous peoples' knowledge and practices in sustainable development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
       },
       {
         "Relation": "an_instance_of",
         "Object": "intangible cultural heritage",
         "Description": "Traditional ecological knowledge is recognized as an instance of intangible cultural heritage by UNESCO.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "traditional ecological knowledge"
+      },
       {
         "Subject": "indigenous land rights",
         "Relation": "employs",
@@ -127,9 +231,7 @@
         "Object": "human rights",
         "Description": "Indigenous land rights are an instance of human rights, ensuring the rights of indigenous communities to their ancestral lands.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "traditional ecological knowledge",
         "Relation": "addresses",

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "biomass",
     "Description": "Biomass refers to organic matter, such as plants or plant-based materials, that can be used as a renewable energy source.",
     "Category": "Technology",
     "Tags": [
@@ -10,18 +9,262 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Biomass",
+    "Entity Code": "biomass"
   },
   "knowledge graph": {
     "entities": [
-      "offshore renewable energy",
-      "research and development",
-      "agricultural sector",
-      "just energy transition",
-      "energy efficiency",
-      "sustainable development goals",
-      "climate change mitigation",
-      "energy and modernization"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Agricultural Sector",
+        "Entity Code": "agricultural sector",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "Biomass refers to organic matter, such as plants or plant-based materials, that can be used as a renewable energy source.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Organic Matter"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Biomass",
+        "Entity Code": "biomass"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy",
+          "Modernization",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy generation",
+          "grid modernization"
+        ],
+        "Entity Title": "Energy and Modernization",
+        "Entity Code": "energy and modernization"
+      }
     ],
     "sub-elements": [
       "wood biomass",
@@ -30,94 +273,63 @@
       "aquatic biomass",
       "municipal solid waste biomass"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "wood biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "biomass",
-        "Description": "Wood biomass refers to the use of wood and wood products as a source of energy. It can be derived from forest residues, logging residues, and wood processing waste. Wood biomass is a renewable and carbon-neutral source of energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "agricultural biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "biomass",
-        "Description": "Agricultural biomass includes crop residues, such as stalks, husks, and straw, as well as dedicated energy crops grown specifically for energy production. It is a sustainable source of energy that can reduce greenhouse gas emissions and promote rural development.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "animal biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "biomass",
-        "Description": "Animal biomass refers to the use of animal waste, such as manure and carcasses, as a source of energy. It can be converted into biogas through anaerobic digestion, providing a renewable and environmentally friendly energy option.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "aquatic biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "biomass",
-        "Description": "Aquatic biomass includes algae and aquatic plants that can be used as a source of energy. It can be converted into biofuels, such as biodiesel and bioethanol, through various processes. Aquatic biomass has the potential to provide a sustainable and carbon-neutral energy solution.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "municipal solid waste biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "biomass",
-        "Description": "Municipal solid waste biomass refers to the use of organic waste from households and businesses as a source of energy. It can be converted into biogas or used for the production of heat and electricity through incineration. Utilizing municipal solid waste biomass can help reduce landfill waste and promote a circular economy.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy and modernization",
         "Description": "Biomass implements energy generation methods that utilize organic materials to produce heat, electricity, or biofuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biomass"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Biomass funds research and development initiatives to improve the efficiency and sustainability of biomass energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biomass"
       },
       {
         "Relation": "focuses_on",
         "Object": "offshore renewable energy",
         "Description": "Biomass focuses on renewable energy sources by utilizing organic materials to generate heat, electricity, or biofuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biomass"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Biomass plays a role in the energy transition by providing a renewable alternative to fossil fuels for heat and electricity generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biomass"
       },
       {
         "Relation": "partners_with",
         "Object": "agricultural sector",
         "Description": "Biomass partners with the agricultural sector to obtain organic materials for biomass energy production.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "biomass"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Biomass contributes to climate change mitigation by reducing greenhouse gas emissions through the use of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biomass"
       },
       {
         "Relation": "monitors",
         "Object": "energy efficiency",
         "Description": "Biomass monitors energy efficiency in biomass energy production processes to optimize resource utilization and minimize waste.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biomass"
       },
       {
         "Relation": "targets",
         "Object": "sustainable development goals",
         "Description": "Biomass targets sustainable development goals by contributing to affordable and clean energy access for all.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "biomass"
+      },
       {
         "Subject": "energy and modernization",
         "Relation": "implements",
@@ -173,9 +385,7 @@
         "Object": "industries",
         "Description": "Energy efficiency collaborates with industries to develop and implement energy-saving measures and technologies.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -203,6 +413,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wood biomass refers to the use of wood and wood products as a source of energy. It can be derived from forest residues, logging residues, and wood processing waste. Wood biomass is a renewable and carbon-neutral source of energy.",
+        "Importance": 4,
+        "Subject": "wood biomass",
+        "Object": "biomass"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Agricultural biomass includes crop residues, such as stalks, husks, and straw, as well as dedicated energy crops grown specifically for energy production. It is a sustainable source of energy that can reduce greenhouse gas emissions and promote rural development.",
+        "Importance": 3,
+        "Subject": "agricultural biomass",
+        "Object": "biomass"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Animal biomass refers to the use of animal waste, such as manure and carcasses, as a source of energy. It can be converted into biogas through anaerobic digestion, providing a renewable and environmentally friendly energy option.",
+        "Importance": 3,
+        "Subject": "animal biomass",
+        "Object": "biomass"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Aquatic biomass includes algae and aquatic plants that can be used as a source of energy. It can be converted into biofuels, such as biodiesel and bioethanol, through various processes. Aquatic biomass has the potential to provide a sustainable and carbon-neutral energy solution.",
+        "Importance": 2,
+        "Subject": "aquatic biomass",
+        "Object": "biomass"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Municipal solid waste biomass refers to the use of organic waste from households and businesses as a source of energy. It can be converted into biogas or used for the production of heat and electricity through incineration. Utilizing municipal solid waste biomass can help reduce landfill waste and promote a circular economy.",
+        "Importance": 3,
+        "Subject": "municipal solid waste biomass",
+        "Object": "biomass"
       }
     ]
   }

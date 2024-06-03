@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "water-food-energy nexus",
     "Description": "The interconnected relationship between water, food, and energy systems, and the need for integrated approaches to ensure sustainability and resilience.",
     "Category": "Intersectionality",
     "Tags": [
@@ -11,97 +10,186 @@
     "Dimension": "Sustainable Development",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Water-food-energy Nexus",
+    "Entity Code": "water-food-energy nexus"
   },
   "knowledge graph": {
     "entities": [
-      "energy markets",
-      "sustainable development goals",
-      "climate change mitigation",
-      "energy consumption",
-      "building standards",
-      "renewable energy agencies",
-      "government agencies"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The interconnected relationship between water, food, and energy systems, and the need for integrated approaches to ensure sustainability and resilience.",
+        "Category": "Intersectionality",
+        "Tags": [
+          "Water Security",
+          "Food Security",
+          "Energy Security"
+        ],
+        "Dimension": "Sustainable Development",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Water-food-energy Nexus",
+        "Entity Code": "water-food-energy nexus"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "Water-energy nexus",
       "Water-food nexus",
       "Food-energy nexus"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Water-energy nexus",
-        "Relation": "is a sub-element of",
-        "Parent": "Water-food-energy nexus",
-        "Description": "The water-energy nexus refers to the interdependencies and interactions between water and energy systems. It involves the understanding of the water requirements for energy production and the energy requirements for water treatment and distribution.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Water-food nexus",
-        "Relation": "is a sub-element of",
-        "Parent": "Water-food-energy nexus",
-        "Description": "The water-food nexus refers to the interconnections between water and food systems. It involves the understanding of the water requirements for agriculture and food production, as well as the impacts of food production on water resources.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Food-energy nexus",
-        "Relation": "is a sub-element of",
-        "Parent": "Water-food-energy nexus",
-        "Description": "The food-energy nexus refers to the interdependencies and interactions between food and energy systems. It involves the understanding of the energy requirements for food production, processing, and distribution, as well as the impacts of food production on energy consumption.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "The water-food-energy nexus implements building standards that promote sustainable use of resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "The water-food-energy nexus funds renewable energy projects to support clean and sustainable energy generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "The water-food-energy nexus focuses on improving energy access for communities in need.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "in",
         "Object": "sustainable development goals",
         "Description": "The water-food-energy nexus plays a crucial role in achieving the Sustainable Development Goals.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "partners_with",
         "Object": "government agencies",
         "Description": "The water-food-energy nexus partners with government agencies to implement sustainable energy policies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "The water-food-energy nexus contributes to climate change mitigation through sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "The water-food-energy nexus monitors energy consumption patterns to identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "water-food-energy nexus"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "The water-food-energy nexus targets a transition to renewable energy sources for a sustainable future.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "water-food-energy nexus"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -129,9 +217,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -152,6 +238,27 @@
         "Object": "sustainable energy projects",
         "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The water-energy nexus refers to the interdependencies and interactions between water and energy systems. It involves the understanding of the water requirements for energy production and the energy requirements for water treatment and distribution.",
+        "Importance": 3,
+        "Subject": "water-energy nexus",
+        "Object": "water-food-energy nexus"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The water-food nexus refers to the interconnections between water and food systems. It involves the understanding of the water requirements for agriculture and food production, as well as the impacts of food production on water resources.",
+        "Importance": 4,
+        "Subject": "water-food nexus",
+        "Object": "water-food-energy nexus"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The food-energy nexus refers to the interdependencies and interactions between food and energy systems. It involves the understanding of the energy requirements for food production, processing, and distribution, as well as the impacts of food production on energy consumption.",
+        "Importance": 3,
+        "Subject": "food-energy nexus",
+        "Object": "water-food-energy nexus"
       }
     ]
   }

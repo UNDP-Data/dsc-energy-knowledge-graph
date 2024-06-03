@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy services in displacement settings",
     "Description": "Energy services provided in settings where people have been displaced due to conflicts, disasters, or other reasons.",
     "Category": "Infrastructure",
     "Tags": [
@@ -12,18 +11,182 @@
     "Dimension": "Intersectionality",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Services in Displacement Settings",
+    "Entity Code": "energy services in displacement settings"
   },
   "knowledge graph": {
     "entities": [
-      "energy access challenges",
-      "sustainable energy access",
-      "Action Opportunities",
-      "energy consumption",
-      "humanitarian organizations",
-      "climate change mitigation",
-      "energy assistance programs",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Energy Assistance Programs",
+        "Entity Code": "energy assistance programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Humanitarian Organizations",
+        "Entity Code": "humanitarian organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Access",
+        "Entity Code": "sustainable energy access",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of Action Opportunities",
+        "Category": "Strategy",
+        "Tags": [
+          "Action",
+          "Opportunities"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "livelihood opportunities"
+        ],
+        "Entity Title": "Action Opportunities",
+        "Entity Code": "action opportunities"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of Action Opportunities",
+        "Category": "Strategy",
+        "Tags": [
+          "Action",
+          "Opportunities"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "livelihood opportunities"
+        ],
+        "Entity Title": "Action Opportunities",
+        "Entity Code": "action opportunities"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Challenges",
+        "Entity Code": "energy access challenges",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy services provided in settings where people have been displaced due to conflicts, disasters, or other reasons.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Policy",
+          "Social",
+          "Economic",
+          "Crisis"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Services in Displacement Settings",
+        "Entity Code": "energy services in displacement settings"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "lighting",
@@ -32,94 +195,63 @@
       "cooling",
       "communication"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "lighting",
-        "Relation": "is a sub-element of",
-        "Parent": "energy services in displacement settings",
-        "Description": "Lighting is a crucial sub-element of energy services in displacement settings. It provides illumination for various activities, enhances safety and security, and enables social interactions during the evening and night.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "cooking",
-        "Relation": "is a sub-element of",
-        "Parent": "energy services in displacement settings",
-        "Description": "Cooking is an essential sub-element of energy services in displacement settings. It involves the preparation of meals and the provision of heat for food processing, contributing to nutrition, health, and well-being of displaced populations.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "heating",
-        "Relation": "is a sub-element of",
-        "Parent": "energy services in displacement settings",
-        "Description": "Heating is a significant sub-element of energy services in displacement settings. It helps maintain thermal comfort, prevents hypothermia, and supports the well-being and health of displaced individuals in cold environments.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "cooling",
-        "Relation": "is a sub-element of",
-        "Parent": "energy services in displacement settings",
-        "Description": "Cooling is an important sub-element of energy services in displacement settings. It provides relief from high temperatures, reduces heat-related health risks, and improves the comfort and livability of temporary shelters.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "communication",
-        "Relation": "is a sub-element of",
-        "Parent": "energy services in displacement settings",
-        "Description": "Communication is a vital sub-element of energy services in displacement settings. It enables displaced individuals to connect with their families, access information, seek assistance, and maintain social networks, contributing to their well-being and resilience.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy access challenges",
         "Description": "Energy services in displacement settings address the energy access challenges faced by displaced populations, ensuring their basic energy needs are met.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Energy services in displacement settings employ renewable energy technologies to provide clean and sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "collaborates_with",
         "Object": "humanitarian organizations",
         "Description": "Energy services in displacement settings collaborate with humanitarian organizations to ensure the provision of reliable and sustainable energy services.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "supports",
-        "Object": "Action Opportunities",
+        "Object": "action opportunities",
         "Description": "Energy services in displacement settings support the creation of livelihood opportunities through the provision of energy for income-generating activities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "administers",
         "Object": "energy assistance programs",
         "Description": "Energy services in displacement settings administer energy assistance programs to ensure access to affordable and reliable energy services.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "measures",
         "Object": "energy consumption",
         "Description": "Energy services in displacement settings measure energy consumption to identify energy-saving opportunities and promote energy efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate change mitigation",
         "Description": "Energy services in displacement settings align with climate change mitigation efforts by promoting the use of clean and renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy services in displacement settings"
       },
       {
         "Relation": "an_instance_of",
         "Object": "sustainable energy access",
         "Description": "Energy services in displacement settings are an instance of sustainable energy access, ensuring the provision of reliable and affordable energy services in challenging settings.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy services in displacement settings"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -135,21 +267,19 @@
         "Importance": 4
       },
       {
-        "Subject": "Action Opportunities",
+        "Subject": "action opportunities",
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Action Opportunities implements energy efficiency measures to reduce energy consumption and promote sustainable energy practices.",
         "Importance": 4
       },
       {
-        "Subject": "Action Opportunities",
+        "Subject": "action opportunities",
         "Relation": "focuses_on",
         "Object": "climate change mitigation",
         "Description": "Action Opportunities focuses on climate change mitigation by promoting sustainable energy solutions and reducing greenhouse gas emissions.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -163,6 +293,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Lighting is a crucial sub-element of energy services in displacement settings. It provides illumination for various activities, enhances safety and security, and enables social interactions during the evening and night.",
+        "Importance": 4,
+        "Subject": "lighting",
+        "Object": "energy services in displacement settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cooking is an essential sub-element of energy services in displacement settings. It involves the preparation of meals and the provision of heat for food processing, contributing to nutrition, health, and well-being of displaced populations.",
+        "Importance": 4,
+        "Subject": "cooking",
+        "Object": "energy services in displacement settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Heating is a significant sub-element of energy services in displacement settings. It helps maintain thermal comfort, prevents hypothermia, and supports the well-being and health of displaced individuals in cold environments.",
+        "Importance": 4,
+        "Subject": "heating",
+        "Object": "energy services in displacement settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cooling is an important sub-element of energy services in displacement settings. It provides relief from high temperatures, reduces heat-related health risks, and improves the comfort and livability of temporary shelters.",
+        "Importance": 4,
+        "Subject": "cooling",
+        "Object": "energy services in displacement settings"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Communication is a vital sub-element of energy services in displacement settings. It enables displaced individuals to connect with their families, access information, seek assistance, and maintain social networks, contributing to their well-being and resilience.",
+        "Importance": 4,
+        "Subject": "communication",
+        "Object": "energy services in displacement settings"
       }
     ]
   }

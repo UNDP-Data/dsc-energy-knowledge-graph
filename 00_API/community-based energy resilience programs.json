@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "community-based energy resilience programs",
     "Description": "Summary of community-based energy resilience programs.",
     "Category": "Project",
     "Tags": [
@@ -14,18 +13,196 @@
     "Synonyms": [
       "community-based climate resilience projects",
       "community-based energy planning"
-    ]
+    ],
+    "Entity Title": "Community-based Energy Resilience Programs",
+    "Entity Code": "community-based energy resilience programs"
   },
   "knowledge graph": {
     "entities": [
-      "energy equity",
-      "non-profit organizations",
-      "local communities",
-      "energy efficiency",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of community-based energy resilience programs.",
+        "Category": "Project",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "community-based climate resilience projects",
+          "community-based energy planning"
+        ],
+        "Entity Title": "Community-based Energy Resilience Programs",
+        "Entity Code": "community-based energy resilience programs"
+      },
+      {
+        "Entity Title": "Non-profit Organizations",
+        "Entity Code": "non-profit organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "microgrids",
@@ -34,100 +211,70 @@
       "renewable energy projects",
       "demand response programs"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "microgrids",
-        "Relation": "is a sub-element of",
-        "Parent": "community-based energy resilience programs",
-        "Description": "Microgrids are a sub-component of community-based energy resilience programs. They are localized energy systems that can operate independently or in conjunction with the main power grid. Microgrids provide reliable and resilient energy supply to communities, especially during grid outages or emergencies.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy cooperatives",
-        "Relation": "is a sub-element of",
-        "Parent": "community-based energy resilience programs",
-        "Description": "Energy cooperatives are a type of community-based energy resilience program. They involve the collective ownership and management of energy resources by community members. Energy cooperatives promote local energy production, distribution, and consumption, leading to increased energy resilience and sustainability.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy efficiency programs",
-        "Relation": "is a sub-element of",
-        "Parent": "community-based energy resilience programs",
-        "Description": "Energy efficiency programs are part of community-based energy resilience programs. They aim to reduce energy consumption and improve energy efficiency in residential, commercial, and industrial sectors. By implementing energy efficiency measures, communities can enhance their energy resilience and reduce their environmental impact.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "renewable energy projects",
-        "Relation": "is a sub-element of",
-        "Parent": "community-based energy resilience programs",
-        "Description": "Renewable energy projects are examples of community-based energy resilience programs. They involve the development and implementation of renewable energy sources, such as solar, wind, or hydro power, at the community level. Renewable energy projects enhance energy resilience by diversifying the energy sources and reducing dependence on fossil fuels.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "demand response programs",
-        "Relation": "is a sub-element of",
-        "Parent": "community-based energy resilience programs",
-        "Description": "Demand response programs are part of community-based energy resilience programs. They involve the management and adjustment of electricity demand in response to supply constraints or grid emergencies. Demand response programs help maintain grid stability and ensure reliable energy supply during peak demand or system disruptions.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Community-based energy resilience programs implement energy efficiency measures to reduce energy consumption and promote sustainability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Community-based energy resilience programs provide funding for renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "focuses_on",
         "Object": "local communities",
         "Description": "Community-based energy resilience programs focus on empowering and supporting local communities in their efforts to enhance energy resilience and sustainability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "partners_with",
         "Object": "non-profit organizations",
         "Description": "Community-based energy resilience programs collaborate and partner with non-profit organizations to leverage their expertise and resources in promoting sustainable energy practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Community-based energy resilience programs contribute to climate change mitigation by reducing greenhouse gas emissions through the adoption of clean energy technologies and practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Community-based energy resilience programs monitor energy consumption patterns to identify areas for improvement and implement strategies to reduce energy waste.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "Community-based energy resilience programs target energy poverty by providing access to affordable and reliable energy services for underserved communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "addresses",
         "Object": "energy equity",
         "Description": "Community-based energy resilience programs address energy equity by ensuring equal access to clean and affordable energy resources for all members of the community.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "community-based energy resilience programs"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Community-based energy resilience programs employ renewable energy technologies to generate clean and sustainable energy for local communities.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "community-based energy resilience programs"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -169,9 +316,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -199,6 +344,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Microgrids are a sub-component of community-based energy resilience programs. They are localized energy systems that can operate independently or in conjunction with the main power grid. Microgrids provide reliable and resilient energy supply to communities, especially during grid outages or emergencies.",
+        "Importance": 4,
+        "Subject": "microgrids",
+        "Object": "community-based energy resilience programs"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy cooperatives are a type of community-based energy resilience program. They involve the collective ownership and management of energy resources by community members. Energy cooperatives promote local energy production, distribution, and consumption, leading to increased energy resilience and sustainability.",
+        "Importance": 3,
+        "Subject": "energy cooperatives",
+        "Object": "community-based energy resilience programs"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency programs are part of community-based energy resilience programs. They aim to reduce energy consumption and improve energy efficiency in residential, commercial, and industrial sectors. By implementing energy efficiency measures, communities can enhance their energy resilience and reduce their environmental impact.",
+        "Importance": 4,
+        "Subject": "energy efficiency programs",
+        "Object": "community-based energy resilience programs"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy projects are examples of community-based energy resilience programs. They involve the development and implementation of renewable energy sources, such as solar, wind, or hydro power, at the community level. Renewable energy projects enhance energy resilience by diversifying the energy sources and reducing dependence on fossil fuels.",
+        "Importance": 4,
+        "Subject": "renewable energy projects",
+        "Object": "community-based energy resilience programs"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand response programs are part of community-based energy resilience programs. They involve the management and adjustment of electricity demand in response to supply constraints or grid emergencies. Demand response programs help maintain grid stability and ensure reliable energy supply during peak demand or system disruptions.",
+        "Importance": 3,
+        "Subject": "demand response programs",
+        "Object": "community-based energy resilience programs"
       }
     ]
   }

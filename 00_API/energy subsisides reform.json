@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy subsisides reform",
     "Description": null,
     "Category": null,
     "Tags": null,
@@ -10,72 +9,160 @@
     "Synonyms": [
       "energy subsidy programs",
       "energy subsidies"
-    ]
+    ],
+    "Entity Title": "Energy Subsisides Reform",
+    "Entity Code": "energy subsisides reform"
   },
   "knowledge graph": {
     "entities": [
-      "energy affordability",
-      "energy affordability index",
-      "energy policy reform",
-      "market-based pricing mechanisms",
-      "energy subsisides reform",
-      "international energy agency (iea)",
-      "sustainable development goal 7 (sdg 7)",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Policy Reform",
+        "Entity Code": "energy policy reform",
+        "Error": "File not found"
+      },
+      {
+        "Description": null,
+        "Category": null,
+        "Tags": null,
+        "Dimension": null,
+        "Acronym": null,
+        "Importance": null,
+        "Synonyms": [
+          "energy subsidy programs",
+          "energy subsidies"
+        ],
+        "Entity Title": "Energy Subsisides Reform",
+        "Entity Code": "energy subsisides reform"
+      },
+      {
+        "Entity Title": "Market-based Pricing Mechanisms",
+        "Entity Code": "market-based pricing mechanisms",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "International Energy Agency (iea)",
+        "Entity Code": "international energy agency (iea)",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goal 7 (sdg 7)",
+        "Entity Code": "sustainable development goal 7 (sdg 7)",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability Index",
+        "Entity Code": "energy affordability index",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy affordability",
         "Description": "Energy subsidies reform addresses Energy Affordability by ensuring fair and efficient distribution of energy subsidies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "employs",
         "Object": "market-based pricing mechanisms",
         "Description": "Energy subsidies reform employs Market-Based Pricing Mechanisms to promote efficient energy pricing and reduce market distortions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "collaborates_with",
         "Object": "international energy agency (iea)",
         "Description": "Energy subsidies reform collaborates with International Energy Agency (IEA) to share best practices and policy recommendations for energy subsidy reform.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Energy subsidies reform supports the Renewable Energy Transition by redirecting subsidies towards clean and sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "administers",
         "Object": "energy subsisides reform",
         "Description": "Energy subsidies reform administers Energy Subsidy Programs to ensure effective implementation and monitoring of subsidy reforms.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "measures",
         "Object": "energy affordability index",
         "Description": "Energy subsidies reform measures Energy Affordability Index to assess the impact of subsidy reforms on energy affordability for different population groups.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goal 7 (sdg 7)",
         "Description": "Energy subsidies reform aligns with Sustainable Development Goal 7 (SDG 7) to ensure access to affordable, reliable, sustainable, and modern energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy subsisides reform"
       },
       {
         "Relation": "an_instance_of",
         "Object": "energy policy reform",
         "Description": "Energy subsidies reform is an instance of Energy Policy Reform aimed at improving energy market efficiency and promoting sustainable energy practices.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy subsisides reform"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -103,9 +190,7 @@
         "Object": "market-based pricing mechanisms",
         "Description": "Energy subsidies reform employs Market-Based Pricing Mechanisms to promote efficient energy pricing and reduce market distortions.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

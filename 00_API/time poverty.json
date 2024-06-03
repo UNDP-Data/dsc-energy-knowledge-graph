@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "time poverty",
     "Description": "A situation where individuals lack sufficient time to meet their basic needs and participate fully in society.",
     "Category": "Social",
     "Tags": [
@@ -11,44 +10,63 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Time Poverty",
+    "Entity Code": "time poverty"
   },
   "knowledge graph": {
     "entities": [
-      "work-life balance",
-      "sustainable development",
-      "productivity",
-      "inequality"
+      {
+        "Entity Title": "Sustainable Development",
+        "Entity Code": "sustainable development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Productivity",
+        "Entity Code": "productivity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Inequality",
+        "Entity Code": "inequality",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Work-life Balance",
+        "Entity Code": "work-life balance",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "sustainable development",
         "Description": "Time poverty addresses the need for sustainable development by recognizing the importance of time as a valuable resource for individuals and communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "time poverty"
       },
       {
         "Relation": "contributes_to",
         "Object": "inequality",
         "Description": "Time poverty contributes to inequality by limiting individuals' access to resources and opportunities due to their lack of time.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "time poverty"
       },
       {
         "Relation": "supports",
         "Object": "work-life balance",
         "Description": "Time poverty supports the importance of achieving a work-life balance by highlighting the need for individuals to have enough time for both work and personal life.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "time poverty"
       },
       {
         "Relation": "measures",
         "Object": "productivity",
         "Description": "Time poverty measures the impact on productivity by assessing the efficiency and effectiveness of individuals' use of time.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "time poverty"
       }
-    ],
-    "relations-level-2": [],
-    "relations-level-3": []
+    ]
   }
 }

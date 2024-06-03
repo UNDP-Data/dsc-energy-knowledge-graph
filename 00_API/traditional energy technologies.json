@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "traditional energy technologies",
     "Description": "Technologies that have been used for energy generation and distribution for a long time.",
     "Category": "Technology",
     "Tags": [
@@ -13,19 +12,211 @@
     "Synonyms": [
       "clean energy technologies",
       "bioenergy technology"
-    ]
+    ],
+    "Entity Title": "Traditional Energy Technologies",
+    "Entity Code": "traditional energy technologies"
   },
   "knowledge graph": {
     "entities": [
-      "clean cooking",
-      "local communities",
-      "environmental sustainability",
-      "energy access program",
-      "energy efficiency",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Environmental Sustainability",
+        "Entity Code": "environmental sustainability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Access Program",
+        "Entity Code": "energy access program",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "clean energy technologies",
+          "bioenergy technology"
+        ],
+        "Entity Title": "Traditional Energy Technologies",
+        "Entity Code": "traditional energy technologies"
+      },
+      {
+        "Description": "The use of clean and efficient cookstoves and fuels to reduce indoor air pollution and improve health, environment, and livelihoods.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Health"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "clean cooking solutions"
+        ],
+        "Entity Title": "Clean Cooking",
+        "Entity Code": "clean cooking"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "fossil fuels",
@@ -34,100 +225,70 @@
       "solar energy",
       "wind energy"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "fossil fuels",
-        "Relation": "is a sub-element of",
-        "Parent": "traditional energy technologies",
-        "Description": "Fossil fuels are a sub-component of traditional energy technologies. They include coal, oil, and natural gas, which are formed from the remains of ancient plants and animals. Fossil fuels are widely used for electricity generation, heating, and transportation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "biomass energy",
-        "Relation": "is a sub-element of",
-        "Parent": "traditional energy technologies",
-        "Description": "Biomass energy is a type of traditional energy technology that involves using organic materials, such as wood, agricultural residues, and dedicated energy crops, to generate heat and electricity. Biomass energy is considered renewable as the organic materials can be replenished.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "hydropower",
-        "Relation": "is a sub-element of",
-        "Parent": "traditional energy technologies",
-        "Description": "Hydropower is a sub-component of traditional energy technologies. It involves harnessing the energy of flowing or falling water to generate electricity. Hydropower plants can range from small-scale run-of-river systems to large-scale dams.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "solar energy",
-        "Relation": "is a sub-element of",
-        "Parent": "traditional energy technologies",
-        "Description": "Solar energy is a sub-component of traditional energy technologies. It involves capturing the energy from sunlight and converting it into electricity or heat. Solar energy technologies include photovoltaic panels and solar thermal systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wind energy",
-        "Relation": "is a sub-element of",
-        "Parent": "traditional energy technologies",
-        "Description": "Wind energy is a sub-component of traditional energy technologies. It involves harnessing the power of wind to generate electricity. Wind turbines are used to convert the kinetic energy of the wind into electrical energy.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Traditional energy technologies implement the Energy Efficiency Policy to promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Traditional energy technologies provide funding for research in renewable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "focuses_on",
         "Object": "clean cooking",
         "Description": "Traditional energy technologies focus on developing clean cooking solutions to reduce indoor air pollution and improve health.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "in",
         "Object": "energy access program",
         "Description": "Traditional energy technologies are included in the Energy Access Program to provide affordable and reliable energy to underserved communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "partners_with",
         "Object": "local communities",
         "Description": "Traditional energy technologies collaborate and partner with local communities to ensure their energy needs are met sustainably.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Traditional energy technologies contribute to climate change mitigation efforts by promoting the use of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Traditional energy technologies monitor energy consumption patterns to identify areas for improvement and energy-saving measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "Traditional energy technologies target energy poverty by providing affordable and accessible energy solutions to marginalized communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
       },
       {
         "Relation": "addresses",
         "Object": "environmental sustainability",
         "Description": "Traditional energy technologies address environmental sustainability by promoting the use of clean and renewable energy sources.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "traditional energy technologies"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -183,9 +344,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -213,6 +372,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Fossil fuels are a sub-component of traditional energy technologies. They include coal, oil, and natural gas, which are formed from the remains of ancient plants and animals. Fossil fuels are widely used for electricity generation, heating, and transportation.",
+        "Importance": 4,
+        "Subject": "fossil fuels",
+        "Object": "traditional energy technologies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biomass energy is a type of traditional energy technology that involves using organic materials, such as wood, agricultural residues, and dedicated energy crops, to generate heat and electricity. Biomass energy is considered renewable as the organic materials can be replenished.",
+        "Importance": 3,
+        "Subject": "biomass energy",
+        "Object": "traditional energy technologies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Hydropower is a sub-component of traditional energy technologies. It involves harnessing the energy of flowing or falling water to generate electricity. Hydropower plants can range from small-scale run-of-river systems to large-scale dams.",
+        "Importance": 4,
+        "Subject": "hydropower",
+        "Object": "traditional energy technologies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar energy is a sub-component of traditional energy technologies. It involves capturing the energy from sunlight and converting it into electricity or heat. Solar energy technologies include photovoltaic panels and solar thermal systems.",
+        "Importance": 4,
+        "Subject": "solar energy",
+        "Object": "traditional energy technologies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind energy is a sub-component of traditional energy technologies. It involves harnessing the power of wind to generate electricity. Wind turbines are used to convert the kinetic energy of the wind into electrical energy.",
+        "Importance": 4,
+        "Subject": "wind energy",
+        "Object": "traditional energy technologies"
       }
     ]
   }

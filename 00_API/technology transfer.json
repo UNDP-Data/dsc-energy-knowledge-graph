@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "technology transfer",
     "Description": "The process of transferring knowledge, skills, and technology from one entity to another.",
     "Category": "Technology",
     "Tags": [
@@ -12,17 +11,124 @@
     "Importance": 2.0,
     "Synonyms": [
       "technology transfer programs"
-    ]
+    ],
+    "Entity Title": "Technology Transfer",
+    "Entity Code": "technology transfer"
   },
   "knowledge graph": {
     "entities": [
-      "technology diffusion",
-      "energy entrepreneurship",
-      "technology transfer",
-      "sustainable development goals",
-      "research institutions",
-      "knowledge exchange",
-      "capacity building programs"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Technology Diffusion",
+        "Entity Code": "technology diffusion",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Knowledge Exchange",
+        "Entity Code": "knowledge exchange",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+        "Category": "Economic",
+        "Tags": [
+          "Clean Energy Startups",
+          "Renewable Energy Business"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "entrepreneurship",
+          "women entrepreneurs"
+        ],
+        "Entity Title": "Energy Entrepreneurship",
+        "Entity Code": "energy entrepreneurship"
+      },
+      {
+        "Description": "The process of transferring knowledge, skills, and technology from one entity to another.",
+        "Category": "Technology",
+        "Tags": [
+          "Technology",
+          "Transfer"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "technology transfer programs"
+        ],
+        "Entity Title": "Technology Transfer",
+        "Entity Code": "technology transfer"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Capacity Building Programs",
+        "Entity Code": "capacity building programs",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "knowledge transfer",
@@ -31,88 +137,56 @@
       "financial transfer",
       "technology adaptation"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "knowledge transfer",
-        "Relation": "is a sub-element of",
-        "Parent": "technology transfer",
-        "Description": "Knowledge transfer is an essential aspect of technology transfer, involving the exchange and dissemination of knowledge, skills, and expertise related to sustainable energy technologies. It enables the adoption and implementation of new technologies in different contexts.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "capacity building",
-        "Relation": "is a sub-element of",
-        "Parent": "technology transfer",
-        "Description": "Capacity building is a crucial component of technology transfer, focusing on enhancing the knowledge, skills, and capabilities of individuals, organizations, and communities to effectively adopt, utilize, and maintain sustainable energy technologies.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "policy transfer",
-        "Relation": "is a sub-element of",
-        "Parent": "technology transfer",
-        "Description": "Policy transfer is an important element of technology transfer, involving the transfer and adaptation of policies, regulations, and frameworks that facilitate the deployment and integration of sustainable energy technologies in different regions and jurisdictions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "financial transfer",
-        "Relation": "is a sub-element of",
-        "Parent": "technology transfer",
-        "Description": "Financial transfer is a critical aspect of technology transfer, encompassing the provision of financial resources, investments, and funding mechanisms to support the adoption, deployment, and scaling up of sustainable energy technologies.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "technology adaptation",
-        "Relation": "is a sub-element of",
-        "Parent": "technology transfer",
-        "Description": "Technology adaptation is an integral part of technology transfer, involving the modification, customization, or adjustment of existing sustainable energy technologies to suit specific local conditions, requirements, and constraints.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "employs",
         "Object": "capacity building programs",
         "Description": "Technology transfer employs capacity building programs to enhance the knowledge and skills of individuals and organizations in adopting and implementing sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "collaborates_with",
         "Object": "research institutions",
         "Description": "Technology transfer collaborates with research institutions to facilitate the transfer of knowledge and technologies related to sustainable energy, fostering innovation and advancements in the field.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "supports",
         "Object": "energy entrepreneurship",
         "Description": "Technology transfer supports entrepreneurship in the sustainable energy sector by providing resources, mentorship, and funding opportunities to individuals and startups working on innovative energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "administers",
         "Object": "technology transfer",
         "Description": "Technology transfer administers technology transfer programs that facilitate the exchange of sustainable energy technologies and knowledge between different stakeholders, including governments, businesses, and communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "measures",
         "Object": "technology diffusion",
         "Description": "Technology transfer measures the diffusion of sustainable energy technologies by tracking their adoption and implementation across different sectors and regions, assessing the impact and effectiveness of technology transfer initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Technology transfer aligns with the Sustainable Development Goals by promoting the transfer and adoption of sustainable energy technologies to support the achievement of various goals, such as affordable and clean energy, climate action, and sustainable cities and communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "technology transfer"
       },
       {
         "Relation": "an_instance_of",
         "Object": "knowledge exchange",
         "Description": "Technology transfer is an instance of knowledge exchange, where expertise, technologies, and best practices related to sustainable energy are shared and transferred between different stakeholders to accelerate the transition to a sustainable energy future.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "technology transfer"
+      },
       {
         "Subject": "energy entrepreneurship",
         "Relation": "implements",
@@ -140,9 +214,7 @@
         "Object": "research institutions",
         "Description": "Technology transfer collaborates with research institutions to facilitate the transfer of knowledge and technologies related to sustainable energy, fostering innovation and advancements in the field.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -170,6 +242,41 @@
         "Object": "building standards",
         "Description": "Energy entrepreneurship implements rigorous building standards that promote the use of energy-saving designs and materials.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Knowledge transfer is an essential aspect of technology transfer, involving the exchange and dissemination of knowledge, skills, and expertise related to sustainable energy technologies. It enables the adoption and implementation of new technologies in different contexts.",
+        "Importance": 4,
+        "Subject": "knowledge transfer",
+        "Object": "technology transfer"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Capacity building is a crucial component of technology transfer, focusing on enhancing the knowledge, skills, and capabilities of individuals, organizations, and communities to effectively adopt, utilize, and maintain sustainable energy technologies.",
+        "Importance": 4,
+        "Subject": "capacity building",
+        "Object": "technology transfer"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Policy transfer is an important element of technology transfer, involving the transfer and adaptation of policies, regulations, and frameworks that facilitate the deployment and integration of sustainable energy technologies in different regions and jurisdictions.",
+        "Importance": 3,
+        "Subject": "policy transfer",
+        "Object": "technology transfer"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Financial transfer is a critical aspect of technology transfer, encompassing the provision of financial resources, investments, and funding mechanisms to support the adoption, deployment, and scaling up of sustainable energy technologies.",
+        "Importance": 3,
+        "Subject": "financial transfer",
+        "Object": "technology transfer"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Technology adaptation is an integral part of technology transfer, involving the modification, customization, or adjustment of existing sustainable energy technologies to suit specific local conditions, requirements, and constraints.",
+        "Importance": 4,
+        "Subject": "technology adaptation",
+        "Object": "technology transfer"
       }
     ]
   }

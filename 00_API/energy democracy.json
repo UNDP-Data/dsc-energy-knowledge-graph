@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy democracy",
     "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
     "Category": "Social",
     "Tags": [
@@ -14,72 +13,282 @@
     "Synonyms": [
       "energy security",
       "energy demand"
-    ]
+    ],
+    "Entity Title": "Energy Democracy",
+    "Entity Code": "energy democracy"
   },
   "knowledge graph": {
     "entities": [
-      "energy and health",
-      "energy equity",
-      "renewable energy certificates",
-      "just energy transition",
-      "feed-in tariff programs",
-      "community-led solutions",
-      "sustainable development goals",
-      "participatory decision-making"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
+        "Category": "Strategy",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "community-based energy solutions",
+          "community-based organizations"
+        ],
+        "Entity Title": "Community-led Solutions",
+        "Entity Code": "community-led solutions"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Participatory Decision-making",
+        "Entity Code": "participatory decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Feed-in Tariff Programs",
+        "Entity Code": "feed-in tariff programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy and health",
         "Description": "Energy democracy addresses energy inequality by promoting equitable access to clean and affordable energy for all individuals and communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "employs",
         "Object": "participatory decision-making",
         "Description": "Energy democracy employs participatory decision-making processes to ensure that all stakeholders have a voice in shaping energy policies and projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "collaborates_with",
         "Object": "community-led solutions",
         "Description": "Energy democracy collaborates with community-based organizations to empower local communities and facilitate their participation in the energy transition.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy certificates",
         "Description": "Energy democracy supports the establishment and growth of renewable energy cooperatives, enabling communities to collectively own and benefit from renewable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "administers",
         "Object": "feed-in tariff programs",
         "Description": "Energy democracy administers feed-in tariff programs that incentivize the generation of renewable energy by allowing individuals and communities to sell excess electricity to the grid.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "measures",
         "Object": "energy equity",
         "Description": "Energy democracy measures energy equity by assessing the fairness and accessibility of energy systems and ensuring that no one is left behind in the energy transition.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Energy democracy aligns with the Sustainable Development Goals, particularly Goal 7 on affordable and clean energy, to contribute to the achievement of sustainable development targets.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy democracy"
       },
       {
         "Relation": "an_instance_of",
         "Object": "just energy transition",
         "Description": "Energy democracy is an instance of the democratic energy transition, which aims to democratize energy systems and empower communities in shaping their energy future.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy democracy"
+      },
       {
         "Subject": "energy and health",
         "Relation": "implements",
@@ -135,9 +344,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "offshore renewable energy",
         "Relation": "implements",

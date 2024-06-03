@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "vertical funding",
     "Description": "A funding mechanism that focuses on specific sectors or industries.",
     "Category": "Finance",
     "Tags": [
@@ -11,79 +10,253 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Vertical Funding",
+    "Entity Code": "vertical funding"
   },
   "knowledge graph": {
     "entities": [
-      "project performance",
-      "sustainable finance",
-      "green startups",
-      "project finance specialists",
-      "just energy transition",
-      "grant programs",
-      "renewable energy agencies",
-      "government agencies",
-      "investment banks"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Green Startups",
+        "Entity Code": "green startups",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Finance",
+        "Entity Code": "sustainable finance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Investment Banks",
+        "Entity Code": "investment banks",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Project Performance",
+        "Entity Code": "project performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Grant Programs",
+        "Entity Code": "grant programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Project Finance Specialists",
+        "Entity Code": "project finance specialists",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Vertical funding provides financial support for renewable energy projects that aim to reduce carbon emissions and promote sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "partners_with",
         "Object": "investment banks",
         "Description": "Vertical funding partners with investment banks to secure funding for renewable energy projects and promote sustainable investment opportunities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "contributes_to",
         "Object": "just energy transition",
         "Description": "Vertical funding contributes to the clean energy transition by providing financial resources for the development and implementation of renewable energy technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "monitors",
         "Object": "project performance",
         "Description": "Vertical funding monitors the performance of renewable energy projects to ensure efficient use of funds and successful project outcomes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "supports",
         "Object": "green startups",
         "Description": "Vertical funding supports the growth and development of green startups that focus on innovative solutions for sustainable energy and environmental challenges.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "employs",
         "Object": "project finance specialists",
         "Description": "Vertical funding employs project finance specialists who assess the financial viability of renewable energy projects and provide funding recommendations.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "collaborates_with",
         "Object": "government agencies",
         "Description": "Vertical funding collaborates with government agencies to align funding priorities with national sustainable energy goals and policies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "administers",
         "Object": "grant programs",
         "Description": "Vertical funding administers grant programs that provide financial support for renewable energy initiatives and research projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "vertical funding"
       },
       {
         "Relation": "an_instance_of",
         "Object": "sustainable finance",
         "Description": "Vertical funding is an instance of sustainable finance that focuses on directing financial resources towards environmentally-friendly and socially-responsible projects.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "vertical funding"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -111,9 +284,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

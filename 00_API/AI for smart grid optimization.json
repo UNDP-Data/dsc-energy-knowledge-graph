@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "AI for smart grid optimization",
     "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
     "Category": "Technology",
     "Tags": [
@@ -11,19 +10,229 @@
     "Dimension": "Technology",
     "Acronym": "AI-SGO",
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Ai for Smart Grid Optimization",
+    "Entity Code": "ai for smart grid optimization"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "utility companies",
-      "energy optimization",
-      "renewable energy certificates",
-      "smart metering technologies",
-      "energy efficiency",
-      "grid performance",
-      "machine learning algorithms",
-      "grid stability"
+      {
+        "Entity Title": "Grid Stability",
+        "Entity Code": "grid stability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Optimization",
+        "Entity Code": "energy optimization",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Utility Companies",
+        "Entity Code": "utility companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Machine Learning Algorithms",
+        "Entity Code": "machine learning algorithms",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Grid Performance",
+        "Entity Code": "grid performance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+        "Category": "Technology",
+        "Tags": [
+          "Artificial Intelligence",
+          "Smart Grids",
+          "Energy Optimization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "AI-SGO",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Ai for Smart Grid Optimization",
+        "Entity Code": "ai for smart grid optimization"
+      }
     ],
     "sub-elements": [
       "machine learning algorithms",
@@ -32,100 +241,70 @@
       "optimization techniques",
       "real-time monitoring"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "machine learning algorithms",
-        "Relation": "is a sub-element of",
-        "Parent": "AI for smart grid optimization",
-        "Description": "Machine learning algorithms are a key component of AI for smart grid optimization. They enable the system to analyze large amounts of data and make predictions or decisions based on patterns and trends.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "AI for smart grid optimization",
-        "Description": "Data analytics plays a crucial role in AI for smart grid optimization. It involves the collection, processing, and analysis of data from various sources to gain insights and inform decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "predictive modeling",
-        "Relation": "is a sub-element of",
-        "Parent": "AI for smart grid optimization",
-        "Description": "Predictive modeling is an important aspect of AI for smart grid optimization. It uses historical data and statistical techniques to make predictions about future events or conditions, helping optimize grid operations.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "optimization techniques",
-        "Relation": "is a sub-element of",
-        "Parent": "AI for smart grid optimization",
-        "Description": "Optimization techniques are essential in AI for smart grid optimization. They involve mathematical algorithms and models that optimize the operation and management of the grid to maximize efficiency and reliability.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "real-time monitoring",
-        "Relation": "is a sub-element of",
-        "Parent": "AI for smart grid optimization",
-        "Description": "Real-time monitoring is a critical component of AI for smart grid optimization. It involves the continuous monitoring and analysis of grid data in real-time, enabling timely responses and proactive management.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "smart metering technologies",
         "Description": "AI for smart grid optimization implements smart grid technology to improve energy efficiency and grid reliability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "AI for smart grid optimization funds research and development projects to advance smart grid technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy optimization",
         "Description": "AI for smart grid optimization focuses on energy optimization to reduce energy waste and improve grid performance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "partners_with",
         "Object": "utility companies",
         "Description": "AI for smart grid optimization partners with utility companies to implement AI solutions for grid optimization.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "contributes_to",
         "Object": "renewable energy certificates",
         "Description": "AI for smart grid optimization contributes to the integration of renewable energy sources into the grid.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "monitors",
         "Object": "grid performance",
         "Description": "AI for smart grid optimization monitors grid performance to identify areas for improvement and optimization.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "AI for smart grid optimization targets energy efficiency improvements through advanced optimization algorithms.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "addresses",
         "Object": "grid stability",
         "Description": "AI for smart grid optimization addresses grid stability issues through real-time monitoring and control.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ai for smart grid optimization"
       },
       {
         "Relation": "employs",
         "Object": "machine learning algorithms",
         "Description": "AI for smart grid optimization employs machine learning algorithms to analyze grid data and optimize energy flow.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "ai for smart grid optimization"
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",
@@ -167,9 +346,7 @@
         "Object": "energy markets",
         "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -197,6 +374,41 @@
         "Object": "energy markets",
         "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Machine learning algorithms are a key component of AI for smart grid optimization. They enable the system to analyze large amounts of data and make predictions or decisions based on patterns and trends.",
+        "Importance": 4,
+        "Subject": "machine learning algorithms",
+        "Object": "ai for smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data analytics plays a crucial role in AI for smart grid optimization. It involves the collection, processing, and analysis of data from various sources to gain insights and inform decision-making.",
+        "Importance": 3,
+        "Subject": "data analytics",
+        "Object": "ai for smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Predictive modeling is an important aspect of AI for smart grid optimization. It uses historical data and statistical techniques to make predictions about future events or conditions, helping optimize grid operations.",
+        "Importance": 3,
+        "Subject": "predictive modeling",
+        "Object": "ai for smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Optimization techniques are essential in AI for smart grid optimization. They involve mathematical algorithms and models that optimize the operation and management of the grid to maximize efficiency and reliability.",
+        "Importance": 4,
+        "Subject": "optimization techniques",
+        "Object": "ai for smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Real-time monitoring is a critical component of AI for smart grid optimization. It involves the continuous monitoring and analysis of grid data in real-time, enabling timely responses and proactive management.",
+        "Importance": 4,
+        "Subject": "real-time monitoring",
+        "Object": "ai for smart grid optimization"
       }
     ]
   }

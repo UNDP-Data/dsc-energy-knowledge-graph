@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "foundational energy infrastructure",
     "Description": "Foundational energy infrastructure refers to the essential physical structures and systems that support the production, distribution, and consumption of energy.",
     "Category": "Infrastructure",
     "Tags": [
@@ -12,17 +11,189 @@
     "Importance": 4.0,
     "Synonyms": [
       "renewable energy infrastructure"
-    ]
+    ],
+    "Entity Title": "Foundational Energy Infrastructure",
+    "Entity Code": "foundational energy infrastructure"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "private sector companies",
-      "climate change mitigation",
-      "energy consumption",
-      "energy access initiative",
-      "renewable energy agencies",
-      "energy and modernization"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Private Sector Companies",
+        "Entity Code": "private sector companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Foundational energy infrastructure refers to the essential physical structures and systems that support the production, distribution, and consumption of energy.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Systems",
+          "Infrastructure"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "renewable energy infrastructure"
+        ],
+        "Entity Title": "Foundational Energy Infrastructure",
+        "Entity Code": "foundational energy infrastructure"
+      },
+      {
+        "Entity Title": "Energy Access Initiative",
+        "Entity Code": "energy access initiative",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy",
+          "Modernization",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy generation",
+          "grid modernization"
+        ],
+        "Entity Title": "Energy and Modernization",
+        "Entity Code": "energy and modernization"
+      }
     ],
     "sub-elements": [
       "electricity grid",
@@ -31,94 +202,63 @@
       "power plants",
       "energy storage systems"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "electricity grid",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational energy infrastructure",
-        "Description": "The electricity grid is a crucial sub-element of foundational energy infrastructure. It is a network of power lines and associated equipment that delivers electricity from power plants to consumers. It enables the distribution and transmission of electricity across a wide area.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "transmission lines",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational energy infrastructure",
-        "Description": "Transmission lines are an essential sub-element of foundational energy infrastructure. They are high-voltage power lines that transport electricity over long distances from power plants to substations or distribution networks. They play a vital role in ensuring efficient and reliable electricity supply.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "substations",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational energy infrastructure",
-        "Description": "Substations are a critical sub-element of foundational energy infrastructure. They are facilities that transform voltage levels and regulate the flow of electricity between transmission lines and distribution networks. Substations ensure the safe and efficient distribution of electricity to consumers.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "power plants",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational energy infrastructure",
-        "Description": "Power plants are a key sub-element of foundational energy infrastructure. They are facilities that generate electricity from various energy sources such as fossil fuels, nuclear energy, or renewable sources. Power plants are the primary source of electricity supply in an energy system.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy storage systems",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational energy infrastructure",
-        "Description": "Energy storage systems are an emerging sub-element of foundational energy infrastructure. They are technologies that store excess electricity generated during periods of low demand and release it during periods of high demand. Energy storage systems help balance the supply and demand of electricity and support the integration of renewable energy sources.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Foundational energy infrastructure implements energy efficiency policies that promote the use of energy-saving technologies and practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Foundational energy infrastructure funds renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy and modernization",
         "Description": "Foundational energy infrastructure focuses on grid modernization to improve the efficiency and reliability of energy distribution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "in",
         "Object": "energy access initiative",
         "Description": "Foundational energy infrastructure is involved in the Energy Access Initiative to provide reliable and affordable energy to underserved communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector companies",
         "Description": "Foundational energy infrastructure partners with private sector companies to leverage their expertise and resources in sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Foundational energy infrastructure contributes to climate change mitigation efforts by promoting the use of clean and renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Foundational energy infrastructure monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "foundational energy infrastructure"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Foundational energy infrastructure sets targets for energy efficiency to drive the adoption of energy-saving technologies and practices.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "foundational energy infrastructure"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -160,9 +300,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy and modernization funds renewable energy projects to support the transition to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -190,6 +328,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The electricity grid is a crucial sub-element of foundational energy infrastructure. It is a network of power lines and associated equipment that delivers electricity from power plants to consumers. It enables the distribution and transmission of electricity across a wide area.",
+        "Importance": 4,
+        "Subject": "electricity grid",
+        "Object": "foundational energy infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Transmission lines are an essential sub-element of foundational energy infrastructure. They are high-voltage power lines that transport electricity over long distances from power plants to substations or distribution networks. They play a vital role in ensuring efficient and reliable electricity supply.",
+        "Importance": 4,
+        "Subject": "transmission lines",
+        "Object": "foundational energy infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Substations are a critical sub-element of foundational energy infrastructure. They are facilities that transform voltage levels and regulate the flow of electricity between transmission lines and distribution networks. Substations ensure the safe and efficient distribution of electricity to consumers.",
+        "Importance": 3,
+        "Subject": "substations",
+        "Object": "foundational energy infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Power plants are a key sub-element of foundational energy infrastructure. They are facilities that generate electricity from various energy sources such as fossil fuels, nuclear energy, or renewable sources. Power plants are the primary source of electricity supply in an energy system.",
+        "Importance": 4,
+        "Subject": "power plants",
+        "Object": "foundational energy infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy storage systems are an emerging sub-element of foundational energy infrastructure. They are technologies that store excess electricity generated during periods of low demand and release it during periods of high demand. Energy storage systems help balance the supply and demand of electricity and support the integration of renewable energy sources.",
+        "Importance": 3,
+        "Subject": "energy storage systems",
+        "Object": "foundational energy infrastructure"
       }
     ]
   }

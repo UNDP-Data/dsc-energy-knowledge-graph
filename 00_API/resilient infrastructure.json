@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "resilient infrastructure",
     "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",
     "Category": "Infrastructure",
     "Tags": [
@@ -16,18 +15,72 @@
       "charging infrastructure",
       "hydrogen infrastructure",
       "green infrastructure"
-    ]
+    ],
+    "Entity Title": "Resilient Infrastructure",
+    "Entity Code": "resilient infrastructure"
   },
   "knowledge graph": {
     "entities": [
-      "urban areas",
-      "resilience indicators",
-      "research and development",
-      "infrastructure performance",
-      "climate change adaptation",
-      "sustainable development goals",
-      "building standards",
-      "private sector"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Infrastructure Performance",
+        "Entity Code": "infrastructure performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Urban Areas",
+        "Entity Code": "urban areas",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Adaptation",
+        "Entity Code": "climate change adaptation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Private Sector",
+        "Entity Code": "private sector",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Resilience Indicators",
+        "Entity Code": "resilience indicators",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Disaster Risk Reduction"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "infrastructure",
+          "charging infrastructure",
+          "hydrogen infrastructure",
+          "green infrastructure"
+        ],
+        "Entity Title": "Resilient Infrastructure",
+        "Entity Code": "resilient infrastructure"
+      }
     ],
     "sub-elements": [
       "renewable energy systems",
@@ -36,94 +89,98 @@
       "climate-resilient transportation",
       "resilient water and sanitation systems"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "renewable energy systems",
-        "Relation": "is a sub-element of",
-        "Parent": "resilient infrastructure",
-        "Description": "Renewable energy systems are a crucial component of resilient infrastructure. They provide sustainable and clean energy sources that can withstand disruptions and contribute to the overall resilience of the infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "smart grid technology",
-        "Relation": "is a sub-element of",
-        "Parent": "resilient infrastructure",
-        "Description": "Smart grid technology is an important sub-element of resilient infrastructure. It enables efficient and reliable energy distribution, improves grid resilience, and allows for better integration of renewable energy sources.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "disaster-resistant construction",
-        "Relation": "is a sub-element of",
-        "Parent": "resilient infrastructure",
-        "Description": "Disaster-resistant construction is a key aspect of resilient infrastructure. It involves designing and constructing buildings and infrastructure that can withstand natural disasters, such as earthquakes, hurricanes, and floods, reducing the impact of such events on the overall infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "climate-resilient transportation",
-        "Relation": "is a sub-element of",
-        "Parent": "resilient infrastructure",
-        "Description": "Climate-resilient transportation is an essential sub-element of resilient infrastructure. It focuses on developing transportation systems that can adapt to the impacts of climate change, such as extreme weather events and rising sea levels, ensuring the continuity of transportation services.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "resilient water and sanitation systems",
-        "Relation": "is a sub-element of",
-        "Parent": "resilient infrastructure",
-        "Description": "Resilient water and sanitation systems are critical components of resilient infrastructure. They involve designing and implementing systems that can withstand disruptions, such as water scarcity, floods, and contamination, ensuring the availability of clean water and proper sanitation facilities even during challenging circumstances.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Resilient infrastructure implements building standards that ensure the infrastructure can withstand and recover from natural disasters and other shocks.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Resilient infrastructure funds research and development projects that aim to improve the resilience of infrastructure systems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "focuses_on",
         "Object": "climate change adaptation",
         "Description": "Resilient infrastructure focuses on climate change adaptation strategies to ensure infrastructure systems can cope with the impacts of climate change.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "in",
         "Object": "urban areas",
         "Description": "Resilient infrastructure is implemented in urban areas to enhance the resilience of cities and towns.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector",
         "Description": "Resilient infrastructure partners with the private sector to leverage their expertise and resources in developing and implementing resilient infrastructure projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "Resilient infrastructure contributes to the achievement of various Sustainable Development Goals, such as Goal 9: Industry, Innovation, and Infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "monitors",
         "Object": "infrastructure performance",
         "Description": "Resilient infrastructure monitors the performance of infrastructure systems to identify vulnerabilities and areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "resilient infrastructure"
       },
       {
         "Relation": "targets",
         "Object": "resilience indicators",
         "Description": "Resilient infrastructure sets targets based on resilience indicators to measure the effectiveness of resilience-building efforts.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "resilient infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy systems are a crucial component of resilient infrastructure. They provide sustainable and clean energy sources that can withstand disruptions and contribute to the overall resilience of the infrastructure.",
+        "Importance": 4,
+        "Subject": "renewable energy systems",
+        "Object": "resilient infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Smart grid technology is an important sub-element of resilient infrastructure. It enables efficient and reliable energy distribution, improves grid resilience, and allows for better integration of renewable energy sources.",
+        "Importance": 3,
+        "Subject": "smart grid technology",
+        "Object": "resilient infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Disaster-resistant construction is a key aspect of resilient infrastructure. It involves designing and constructing buildings and infrastructure that can withstand natural disasters, such as earthquakes, hurricanes, and floods, reducing the impact of such events on the overall infrastructure.",
+        "Importance": 4,
+        "Subject": "disaster-resistant construction",
+        "Object": "resilient infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Climate-resilient transportation is an essential sub-element of resilient infrastructure. It focuses on developing transportation systems that can adapt to the impacts of climate change, such as extreme weather events and rising sea levels, ensuring the continuity of transportation services.",
+        "Importance": 3,
+        "Subject": "climate-resilient transportation",
+        "Object": "resilient infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Resilient water and sanitation systems are critical components of resilient infrastructure. They involve designing and implementing systems that can withstand disruptions, such as water scarcity, floods, and contamination, ensuring the availability of clean water and proper sanitation facilities even during challenging circumstances.",
+        "Importance": 4,
+        "Subject": "resilient water and sanitation systems",
+        "Object": "resilient infrastructure"
       }
-    ],
-    "relations-level-2": [],
-    "relations-level-3": []
+    ]
   }
 }

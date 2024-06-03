@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Solar For Health",
     "Description": "Summary of Solar For Health",
     "Category": "Technology",
     "Tags": [
@@ -10,72 +9,214 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Solar For Health",
+    "Entity Code": "solar for health"
   },
   "knowledge graph": {
     "entities": [
-      "partnership with ministry of health",
-      "energy efficiency",
-      "energy markets",
-      "climate change mitigation",
-      "energy consumption",
-      "local ngos",
-      "renewable energy agencies",
-      "off-grid solar systems"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Partnership with Ministry of Health",
+        "Entity Code": "partnership with ministry of health",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Off-grid Solar Systems",
+        "Entity Code": "off-grid solar systems",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Solar For Health implements the Energy Efficiency Policy to promote the use of energy-saving designs and materials in healthcare facilities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Solar For Health funds research on renewable energy technologies to support the development of sustainable energy solutions for healthcare facilities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar for health"
       },
       {
         "Relation": "focuses_on",
         "Object": "off-grid solar systems",
         "Description": "Solar For Health focuses on the deployment of off-grid solar systems to provide reliable and clean energy for healthcare facilities in remote areas.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "in",
         "Object": "partnership with ministry of health",
         "Description": "Solar For Health operates in partnership with the Ministry of Health to ensure the successful implementation of sustainable energy solutions in healthcare facilities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "partners_with",
         "Object": "local ngos",
         "Description": "Solar For Health partners with local NGOs to leverage their expertise and resources in implementing sustainable energy projects in healthcare facilities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar for health"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Solar For Health's sustainable energy initiatives contribute to climate change mitigation efforts by reducing greenhouse gas emissions from healthcare facilities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Solar For Health monitors energy consumption in healthcare facilities to identify opportunities for energy efficiency improvements and cost savings.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar for health"
       },
       {
         "Relation": "targets",
         "Object": "energy markets",
         "Description": "Solar For Health targets improved energy access in healthcare facilities to ensure reliable and uninterrupted provision of essential healthcare services.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "solar for health"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -117,9 +258,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "generative AI",
     "Description": "Artificial intelligence techniques that can generate new content, such as images, music, or text.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,158 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Generative Ai",
+    "Entity Code": "generative ai"
   },
   "knowledge graph": {
     "entities": [
-      "smart grid systems",
-      "energy efficiency",
-      "sustainable energy solutions",
-      "reducing carbon emissions",
-      "research and development of renewable energy technologies",
-      "energy poverty indices",
-      "clean energy companies",
-      "energy consumption patterns"
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Reducing Carbon Emissions",
+        "Entity Code": "reducing carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Companies",
+        "Entity Code": "clean energy companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Smart Grid Systems",
+        "Entity Code": "smart grid systems",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Solutions",
+        "Entity Code": "sustainable energy solutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Artificial intelligence techniques that can generate new content, such as images, music, or text.",
+        "Category": "Technology",
+        "Tags": [
+          "AI",
+          "Machine Learning",
+          "Creative Content"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": null,
+        "Entity Title": "Generative Ai",
+        "Entity Code": "generative ai"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Research and Development of Renewable Energy Technologies",
+        "Entity Code": "research and development of renewable energy technologies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "deep learning",
@@ -31,100 +170,70 @@
       "natural language processing",
       "computer vision"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "deep learning",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Deep learning is a subfield of generative AI that focuses on training artificial neural networks with multiple layers to learn and make predictions from large amounts of data. It is particularly effective in tasks such as image and speech recognition.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "neural networks",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Neural networks are a key component of generative AI, as they are used to model and simulate the behavior of the human brain. They consist of interconnected nodes (neurons) that process and transmit information to generate outputs.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "machine learning",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Machine learning is an essential aspect of generative AI, as it enables the system to automatically learn and improve from experience without being explicitly programmed. It involves the development of algorithms and models that can analyze and interpret data to make predictions or take actions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "natural language processing",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Natural language processing (NLP) is a subfield of generative AI that focuses on enabling computers to understand, interpret, and generate human language. It involves techniques such as text analysis, sentiment analysis, and language translation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "computer vision",
-        "Relation": "is a sub-element of",
-        "Parent": "generative AI",
-        "Description": "Computer vision is a subfield of generative AI that deals with enabling computers to understand and interpret visual information from images or videos. It involves tasks such as object recognition, image classification, and image generation.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy solutions",
         "Description": "Generative AI implements sustainable energy solutions by optimizing energy usage and reducing waste.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "generative ai"
       },
       {
         "Relation": "funds",
         "Object": "research and development of renewable energy technologies",
         "Description": "Generative AI funds the research and development of renewable energy technologies to accelerate the transition to sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "generative ai"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy efficiency",
         "Description": "Generative AI focuses on energy efficiency to minimize energy consumption and promote sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "generative ai"
       },
       {
         "Relation": "in",
         "Object": "smart grid systems",
         "Description": "Generative AI is used in smart grid systems to optimize energy distribution and enable efficient energy management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "generative ai"
       },
       {
         "Relation": "partners_with",
         "Object": "clean energy companies",
         "Description": "Generative AI partners with clean energy companies to develop innovative solutions for sustainable energy generation and utilization.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "generative ai"
       },
       {
         "Relation": "contributes_to",
         "Object": "reducing carbon emissions",
         "Description": "Generative AI contributes to reducing carbon emissions by optimizing energy systems and promoting clean energy adoption.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "generative ai"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption patterns",
         "Description": "Generative AI monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "generative ai"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Generative AI targets energy efficiency improvements to achieve sustainable energy goals and reduce environmental impact.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "generative ai"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Generative AI addresses energy poverty by developing affordable and sustainable energy solutions for underserved communities.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "generative ai"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -152,9 +261,7 @@
         "Object": "energy affordability",
         "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -182,6 +289,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Deep learning is a subfield of generative AI that focuses on training artificial neural networks with multiple layers to learn and make predictions from large amounts of data. It is particularly effective in tasks such as image and speech recognition.",
+        "Importance": 4,
+        "Subject": "deep learning",
+        "Object": "generative ai"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Neural networks are a key component of generative AI, as they are used to model and simulate the behavior of the human brain. They consist of interconnected nodes (neurons) that process and transmit information to generate outputs.",
+        "Importance": 4,
+        "Subject": "neural networks",
+        "Object": "generative ai"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Machine learning is an essential aspect of generative AI, as it enables the system to automatically learn and improve from experience without being explicitly programmed. It involves the development of algorithms and models that can analyze and interpret data to make predictions or take actions.",
+        "Importance": 4,
+        "Subject": "machine learning",
+        "Object": "generative ai"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Natural language processing (NLP) is a subfield of generative AI that focuses on enabling computers to understand, interpret, and generate human language. It involves techniques such as text analysis, sentiment analysis, and language translation.",
+        "Importance": 4,
+        "Subject": "natural language processing",
+        "Object": "generative ai"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Computer vision is a subfield of generative AI that deals with enabling computers to understand and interpret visual information from images or videos. It involves tasks such as object recognition, image classification, and image generation.",
+        "Importance": 4,
+        "Subject": "computer vision",
+        "Object": "generative ai"
       }
     ]
   }

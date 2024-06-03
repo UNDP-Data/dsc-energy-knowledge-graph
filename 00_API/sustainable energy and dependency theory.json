@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "sustainable energy and dependency theory",
     "Description": "Sustainable energy and dependency theory explores the relationship between sustainable energy practices and the theory of dependency.",
     "Category": "Policy",
     "Tags": [
@@ -11,72 +10,289 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Sustainable Energy and Dependency Theory",
+    "Entity Code": "sustainable energy and dependency theory"
   },
   "knowledge graph": {
     "entities": [
-      "energy and health",
-      "energy access index",
-      "energy efficiency",
-      "just energy transition",
-      "sustainable development goals",
-      "community-based renewable energy projects",
-      "renewable energy agencies",
-      "academic institutions"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Index",
+        "Entity Code": "energy access index",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Community-based Renewable Energy Projects",
+        "Entity Code": "community-based renewable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Academic Institutions",
+        "Entity Code": "academic institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy and health",
         "Description": "Sustainable energy and dependency theory addresses energy inequality by promoting equitable access to sustainable energy resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Sustainable energy and dependency theory employs renewable energy technologies to reduce dependence on fossil fuels and promote environmental sustainability.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "collaborates_with",
         "Object": "academic institutions",
         "Description": "Sustainable energy and dependency theory collaborates with academic institutions to conduct research and develop innovative solutions for sustainable energy development.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "supports",
         "Object": "community-based renewable energy projects",
         "Description": "Sustainable energy and dependency theory supports community-based renewable energy projects to empower local communities and promote sustainable development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency",
         "Description": "Sustainable energy and dependency theory administers energy efficiency programs to promote energy conservation and reduce greenhouse gas emissions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "measures",
         "Object": "energy access index",
         "Description": "Sustainable energy and dependency theory measures energy access index to assess the progress and impact of sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Sustainable energy and dependency theory aligns with the Sustainable Development Goals to promote sustainable energy as a key driver of social and economic progress.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sustainable energy and dependency theory"
       },
       {
         "Relation": "an_instance_of",
         "Object": "just energy transition",
         "Description": "Sustainable energy and dependency theory is an instance of energy transition theory that focuses on the role of energy in shaping socio-economic systems.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "sustainable energy and dependency theory"
+      },
       {
         "Subject": "energy and health",
         "Relation": "implements",
@@ -132,9 +348,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "offshore renewable energy",
         "Relation": "implements",

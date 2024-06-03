@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "geospatial information systems",
     "Description": "Systems that capture, store, analyze, and manage spatial and geographic data.",
     "Category": "Technology",
     "Tags": [
@@ -13,18 +12,240 @@
     "Importance": 2.0,
     "Synonyms": [
       "geographic information system"
-    ]
+    ],
+    "Entity Title": "Geospatial Information Systems",
+    "Entity Code": "geospatial information systems"
   },
   "knowledge graph": {
     "entities": [
-      "carbon pricing",
-      "geospatial information systems",
-      "energy infrastructure services",
-      "energy efficiency",
-      "sustainable development goals",
-      "renewable energy agencies",
-      "energy resilience",
-      "urban planning departments"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Access",
+          "Resilience",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microgrid systems",
+          "smart grids"
+        ],
+        "Entity Title": "Micro Grids",
+        "Entity Code": "micro grids"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Systems that capture, store, analyze, and manage spatial and geographic data.",
+        "Category": "Technology",
+        "Tags": [
+          "GIS",
+          "Spatial Data",
+          "Geographic Analysis"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "GIS",
+        "Importance": 2.0,
+        "Synonyms": [
+          "geographic information system"
+        ],
+        "Entity Title": "Geospatial Information Systems",
+        "Entity Code": "geospatial information systems"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Environmental",
+          "Crisis"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "disaster resilience",
+          "grid resilience",
+          "energy resilience grants"
+        ],
+        "Entity Title": "Energy Resilience",
+        "Entity Code": "energy resilience"
+      },
+      {
+        "Entity Title": "Urban Planning Departments",
+        "Entity Code": "urban planning departments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Services related to the development, maintenance, and operation of energy infrastructure such as power plants, transmission lines, and distribution networks.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Policy",
+          "Social",
+          "Economic",
+          "Crisis"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy infrastructure planning"
+        ],
+        "Entity Title": "Energy Infrastructure Services",
+        "Entity Code": "energy infrastructure services"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Emissions Reduction",
+          "Market Mechanism"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "carbon footprint",
+          "carbon pricing mechanisms"
+        ],
+        "Entity Title": "Carbon Pricing",
+        "Entity Code": "carbon pricing"
+      }
     ],
     "sub-elements": [
       "data collection",
@@ -33,94 +254,63 @@
       "spatial analysis",
       "geodatabase management"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data collection",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Data collection is a fundamental aspect of geospatial information systems, involving the gathering and recording of spatial data from various sources. It includes methods such as GPS surveys, remote sensing, and field surveys.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Data analysis is an important component of geospatial information systems, involving the processing and interpretation of spatial data. It includes techniques such as spatial statistics, spatial modeling, and data mining.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Data visualization is a key aspect of geospatial information systems, involving the representation of spatial data in a visual format. It includes techniques such as maps, charts, and graphs to communicate information effectively.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "spatial analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Spatial analysis is a core component of geospatial information systems, involving the examination and manipulation of spatial data to uncover patterns, relationships, and trends. It includes techniques such as overlay analysis, proximity analysis, and network analysis.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "geodatabase management",
-        "Relation": "is a sub-element of",
-        "Parent": "geospatial information systems",
-        "Description": "Geodatabase management is an essential aspect of geospatial information systems, involving the organization, storage, and retrieval of spatial data in a structured manner. It includes tasks such as data indexing, data editing, and data versioning.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy infrastructure services",
         "Description": "Geospatial information systems are used to address energy infrastructure planning by providing accurate data and analysis for informed decision-making.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Geospatial information systems employ renewable energy mapping techniques to identify suitable locations for renewable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "collaborates_with",
         "Object": "urban planning departments",
         "Description": "Geospatial information systems collaborate with urban planning departments to integrate energy considerations into urban development plans.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "supports",
         "Object": "energy resilience",
         "Description": "Geospatial information systems support disaster resilience efforts by providing real-time data and analysis for effective emergency response and recovery.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency",
         "Description": "Geospatial information systems administer energy efficiency programs by monitoring and evaluating energy-saving initiatives and their impact.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "measures",
         "Object": "carbon pricing",
         "Description": "Geospatial information systems measure carbon footprint by analyzing energy consumption patterns and emissions data.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Geospatial information systems align with the Sustainable Development Goals by providing data and analysis for monitoring progress and informing policy decisions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "geospatial information systems"
       },
       {
         "Relation": "an_instance_of",
         "Object": "geospatial information systems",
         "Description": "Geospatial information systems are an instance of a geographic information system, specialized for energy-related applications.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "geospatial information systems"
+      },
       {
         "Subject": "energy infrastructure services",
         "Relation": "implements",
@@ -176,9 +366,7 @@
         "Object": "industries",
         "Description": "Energy efficiency collaborates with industries to develop and implement energy-saving measures and technologies.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -206,6 +394,41 @@
         "Object": "energy markets",
         "Description": "Micro grids address energy access challenges by providing electricity to remote and underserved areas.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data collection is a fundamental aspect of geospatial information systems, involving the gathering and recording of spatial data from various sources. It includes methods such as GPS surveys, remote sensing, and field surveys.",
+        "Importance": 4,
+        "Subject": "data collection",
+        "Object": "geospatial information systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data analysis is an important component of geospatial information systems, involving the processing and interpretation of spatial data. It includes techniques such as spatial statistics, spatial modeling, and data mining.",
+        "Importance": 4,
+        "Subject": "data analysis",
+        "Object": "geospatial information systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data visualization is a key aspect of geospatial information systems, involving the representation of spatial data in a visual format. It includes techniques such as maps, charts, and graphs to communicate information effectively.",
+        "Importance": 3,
+        "Subject": "data visualization",
+        "Object": "geospatial information systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Spatial analysis is a core component of geospatial information systems, involving the examination and manipulation of spatial data to uncover patterns, relationships, and trends. It includes techniques such as overlay analysis, proximity analysis, and network analysis.",
+        "Importance": 4,
+        "Subject": "spatial analysis",
+        "Object": "geospatial information systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Geodatabase management is an essential aspect of geospatial information systems, involving the organization, storage, and retrieval of spatial data in a structured manner. It includes tasks such as data indexing, data editing, and data versioning.",
+        "Importance": 3,
+        "Subject": "geodatabase management",
+        "Object": "geospatial information systems"
       }
     ]
   }

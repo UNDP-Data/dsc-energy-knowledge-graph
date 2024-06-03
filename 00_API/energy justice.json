@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy justice",
     "Description": "Energy justice is a concept that focuses on ensuring fair and equitable access to affordable, reliable, and clean energy for all, particularly marginalized and vulnerable communities.",
     "Category": "Social",
     "Tags": [
@@ -11,72 +10,249 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Justice",
+    "Entity Code": "energy justice"
   },
   "knowledge graph": {
     "entities": [
-      "energy affordability",
-      "social equity",
-      "social justice",
-      "equitable energy pricing",
-      "energy subsisides reform",
-      "community-led solutions",
-      "energy poverty indices",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Renewable Energy Initiatives",
+        "Entity Code": "renewable energy initiatives",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
+        "Category": "Strategy",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "community-based energy solutions",
+          "community-based organizations"
+        ],
+        "Entity Title": "Community-led Solutions",
+        "Entity Code": "community-led solutions"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Social Justice",
+        "Entity Code": "social justice",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Social Equity",
+        "Entity Code": "social equity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Description": null,
+        "Category": null,
+        "Tags": null,
+        "Dimension": null,
+        "Acronym": null,
+        "Importance": null,
+        "Synonyms": [
+          "energy subsidy programs",
+          "energy subsidies"
+        ],
+        "Entity Title": "Energy Subsisides Reform",
+        "Entity Code": "energy subsisides reform"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Equitable Energy Pricing",
+        "Entity Code": "equitable energy pricing",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Energy justice initiatives aim to address energy poverty by ensuring access to affordable and reliable energy services for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy justice"
       },
       {
         "Relation": "employs",
         "Object": "equitable energy pricing",
         "Description": "Energy justice employs equitable energy pricing mechanisms to ensure fair and affordable energy costs for marginalized communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy justice"
       },
       {
         "Relation": "collaborates_with",
         "Object": "community-led solutions",
         "Description": "Energy justice initiatives collaborate with community-based organizations to implement inclusive and participatory energy programs.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy justice"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Energy justice supports initiatives that promote equitable access to renewable energy resources, particularly in underserved areas.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy justice"
       },
       {
         "Relation": "administers",
         "Object": "energy subsisides reform",
         "Description": "Energy justice administers energy subsidy programs to ensure that vulnerable populations have access to affordable energy services.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy justice"
       },
       {
         "Relation": "measures",
         "Object": "energy affordability",
         "Description": "Energy justice measures energy affordability to assess the accessibility of energy services for different socio-economic groups.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy justice"
       },
       {
         "Relation": "aligns_with",
         "Object": "social equity",
         "Description": "Energy justice aligns with the principle of social equity, aiming to reduce disparities in energy access and affordability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy justice"
       },
       {
         "Relation": "an_instance_of",
         "Object": "social justice",
         "Description": "Energy justice is an instance of the broader concept of social justice, focusing specifically on equitable energy distribution.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy justice"
+      },
       {
         "Subject": "energy poverty indices",
         "Relation": "implements",
@@ -132,9 +308,7 @@
         "Object": "energy subsisides reform",
         "Description": "Energy subsidies reform administers Energy Subsidy Programs to ensure effective implementation and monitoring of subsidy reforms.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

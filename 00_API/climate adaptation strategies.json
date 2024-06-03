@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "climate adaptation strategies",
     "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
     "Category": "Policy",
     "Tags": [
@@ -12,18 +11,171 @@
     "Importance": 4.0,
     "Synonyms": [
       "climate adaptation"
-    ]
+    ],
+    "Entity Title": "Climate Adaptation Strategies",
+    "Entity Code": "climate adaptation strategies"
   },
   "knowledge graph": {
     "entities": [
-      "community engagement",
-      "nature-based solutions",
-      "local governments",
-      "climate resilience funds",
-      "vulnerability",
-      "sustainable development goals",
-      "extreme weather events",
-      "resilience planning"
+      {
+        "Entity Title": "Community Engagement",
+        "Entity Code": "community engagement",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Biodiversity Conservation",
+        "Entity Code": "biodiversity conservation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
+        "Category": "Finance",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Climate Change"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate resilience",
+          "climate resilience fund",
+          "climate resilience index"
+        ],
+        "Entity Title": "Climate Resilience Funds",
+        "Entity Code": "climate resilience funds"
+      },
+      {
+        "Entity Title": "Extreme Weather Events",
+        "Entity Code": "extreme weather events",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Resilience",
+          "Adaptation Measures"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "climate adaptation"
+        ],
+        "Entity Title": "Climate Adaptation Strategies",
+        "Entity Code": "climate adaptation strategies"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Vulnerability",
+        "Entity Code": "vulnerability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Approaches that use nature and natural processes to address environmental challenges and promote sustainable development.",
+        "Category": "Policy",
+        "Tags": [
+          "Biodiversity",
+          "Climate Change Adaptation",
+          "Ecosystem Services"
+        ],
+        "Dimension": "Sustainable Development",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Nature-based Solutions",
+        "Entity Code": "nature-based solutions"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Resilience Planning",
+        "Entity Code": "resilience planning",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "resilient infrastructure",
@@ -32,94 +184,63 @@
       "water management",
       "disaster risk reduction"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "resilient infrastructure",
-        "Relation": "is a sub-element of",
-        "Parent": "climate adaptation strategies",
-        "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover from the impacts of climate change. It includes measures such as building stronger and more durable structures, improving drainage systems, and implementing flood protection measures.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "ecosystem-based approaches",
-        "Relation": "is a sub-element of",
-        "Parent": "climate adaptation strategies",
-        "Description": "Ecosystem-based approaches involve the use of natural ecosystems and biodiversity to adapt to climate change. This includes activities such as restoring and conserving forests, wetlands, and coastal areas, which provide natural protection against climate impacts and enhance resilience.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "climate-resilient agriculture",
-        "Relation": "is a sub-element of",
-        "Parent": "climate adaptation strategies",
-        "Description": "Climate-resilient agriculture involves the adoption of practices and technologies that enable agricultural systems to withstand and adapt to climate change. This includes techniques such as crop diversification, improved water management, and the use of climate-resistant crop varieties.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "water management",
-        "Relation": "is a sub-element of",
-        "Parent": "climate adaptation strategies",
-        "Description": "Water management strategies are essential for climate adaptation, as changing climate patterns can lead to increased water scarcity or extreme weather events. Effective water management includes measures such as water conservation, efficient irrigation systems, and the development of water storage and distribution infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "disaster risk reduction",
-        "Relation": "is a sub-element of",
-        "Parent": "climate adaptation strategies",
-        "Description": "Disaster risk reduction involves the implementation of measures to reduce the vulnerability of communities and infrastructure to climate-related disasters. This includes activities such as early warning systems, land-use planning, and the construction of resilient shelters and evacuation routes.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "extreme weather events",
         "Description": "Climate adaptation strategies address the impacts of extreme weather events on communities and infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "employs",
         "Object": "nature-based solutions",
         "Description": "Climate adaptation strategies employ nature-based solutions to enhance resilience and protect ecosystems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "collaborates_with",
         "Object": "local governments",
         "Description": "Climate adaptation strategies collaborate with local governments to develop and implement climate resilience plans.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "supports",
         "Object": "community engagement",
         "Description": "Climate adaptation strategies support community engagement to ensure inclusive decision-making and implementation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "administers",
         "Object": "climate resilience funds",
         "Description": "Climate adaptation strategies administer climate resilience funds to finance adaptation projects and initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "measures",
         "Object": "vulnerability",
         "Description": "Climate adaptation strategies measure vulnerability to assess the risks and impacts of climate change on communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Climate adaptation strategies align with the Sustainable Development Goals to promote integrated and holistic approaches to development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate adaptation strategies"
       },
       {
         "Relation": "an_instance_of",
         "Object": "resilience planning",
         "Description": "Climate adaptation strategies are an instance of resilience planning that aims to build adaptive capacity and reduce vulnerability.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "climate adaptation strategies"
+      },
       {
         "Subject": "nature-based solutions",
         "Relation": "addresses",
@@ -147,9 +268,7 @@
         "Object": "climate adaptation strategies",
         "Description": "climate resilience funds employ climate adaptation strategies to build resilience and mitigate the impacts of climate change.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -177,6 +296,41 @@
         "Object": "climate change impacts",
         "Description": "climate resilience funds address climate change impacts by supporting projects that enhance resilience to climate-related risks.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover from the impacts of climate change. It includes measures such as building stronger and more durable structures, improving drainage systems, and implementing flood protection measures.",
+        "Importance": 4,
+        "Subject": "resilient infrastructure",
+        "Object": "climate adaptation strategies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Ecosystem-based approaches involve the use of natural ecosystems and biodiversity to adapt to climate change. This includes activities such as restoring and conserving forests, wetlands, and coastal areas, which provide natural protection against climate impacts and enhance resilience.",
+        "Importance": 3,
+        "Subject": "ecosystem-based approaches",
+        "Object": "climate adaptation strategies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Climate-resilient agriculture involves the adoption of practices and technologies that enable agricultural systems to withstand and adapt to climate change. This includes techniques such as crop diversification, improved water management, and the use of climate-resistant crop varieties.",
+        "Importance": 4,
+        "Subject": "climate-resilient agriculture",
+        "Object": "climate adaptation strategies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Water management strategies are essential for climate adaptation, as changing climate patterns can lead to increased water scarcity or extreme weather events. Effective water management includes measures such as water conservation, efficient irrigation systems, and the development of water storage and distribution infrastructure.",
+        "Importance": 4,
+        "Subject": "water management",
+        "Object": "climate adaptation strategies"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Disaster risk reduction involves the implementation of measures to reduce the vulnerability of communities and infrastructure to climate-related disasters. This includes activities such as early warning systems, land-use planning, and the construction of resilient shelters and evacuation routes.",
+        "Importance": 4,
+        "Subject": "disaster risk reduction",
+        "Object": "climate adaptation strategies"
       }
     ]
   }

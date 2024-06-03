@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "ocean thermal energy conversion",
     "Description": "A technology that harnesses the temperature difference between warm surface water and cold deep water to generate electricity.",
     "Category": "Technology",
     "Tags": [
@@ -9,18 +8,170 @@
     "Dimension": "Environmental",
     "Acronym": "OTEC",
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Ocean Thermal Energy Conversion",
+    "Entity Code": "ocean thermal energy conversion"
   },
   "knowledge graph": {
     "entities": [
-      "solar energy",
-      "ocean temperature",
-      "climate change adaptation",
-      "government incentive programs",
-      "sustainable development goals",
-      "renewable energy agencies",
-      "heat exchangers",
-      "coastal communities"
+      {
+        "Entity Title": "Government Incentive Programs",
+        "Entity Code": "government incentive programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Ocean Temperature",
+        "Entity Code": "ocean temperature",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Coastal Communities",
+        "Entity Code": "coastal communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy derived from the sun's radiation and converted into usable forms such as electricity or heat.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "ocean energy"
+        ],
+        "Entity Title": "Solar Energy",
+        "Entity Code": "solar energy"
+      },
+      {
+        "Entity Title": "Climate Change Adaptation",
+        "Entity Code": "climate change adaptation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Heat Exchangers",
+        "Entity Code": "heat exchangers",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A technology that harnesses the temperature difference between warm surface water and cold deep water to generate electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": "OTEC",
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Ocean Thermal Energy Conversion",
+        "Entity Code": "ocean thermal energy conversion"
+      }
     ],
     "sub-elements": [
       "cold water pipe",
@@ -29,94 +180,63 @@
       "heat exchanger",
       "turbine"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "cold water pipe",
-        "Relation": "is a sub-element of",
-        "Parent": "ocean thermal energy conversion",
-        "Description": "A cold water pipe is a sub-component of ocean thermal energy conversion systems. It is responsible for transporting cold water from the deep ocean to the power plant.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "warm water pipe",
-        "Relation": "is a sub-element of",
-        "Parent": "ocean thermal energy conversion",
-        "Description": "A warm water pipe is a sub-component of ocean thermal energy conversion systems. It is responsible for transporting warm surface water to the power plant.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "power plant",
-        "Relation": "is a sub-element of",
-        "Parent": "ocean thermal energy conversion",
-        "Description": "A power plant is a sub-component of ocean thermal energy conversion systems. It converts the temperature difference between warm surface water and cold deep water into electricity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "heat exchanger",
-        "Relation": "is a sub-element of",
-        "Parent": "ocean thermal energy conversion",
-        "Description": "A heat exchanger is a sub-component of ocean thermal energy conversion systems. It transfers heat between the warm and cold water streams, allowing for efficient energy conversion.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "turbine",
-        "Relation": "is a sub-element of",
-        "Parent": "ocean thermal energy conversion",
-        "Description": "A turbine is a sub-component of ocean thermal energy conversion systems. It uses the pressure of the flowing water to generate mechanical power, which is then converted into electricity.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "climate change adaptation",
         "Description": "Ocean thermal energy conversion addresses climate change adaptation by providing a sustainable energy solution that reduces reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "employs",
         "Object": "heat exchangers",
         "Description": "Ocean thermal energy conversion employs heat exchangers to convert temperature differences in ocean water into usable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "collaborates_with",
         "Object": "coastal communities",
         "Description": "Ocean thermal energy conversion collaborates with coastal communities to implement sustainable energy solutions and support local economies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Ocean thermal energy conversion supports research in renewable energy technologies to improve efficiency and expand the use of sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "administers",
         "Object": "government incentive programs",
         "Description": "Ocean thermal energy conversion administers government incentive programs to promote the adoption of sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "measures",
         "Object": "ocean temperature",
         "Description": "Ocean thermal energy conversion measures ocean temperature to identify suitable locations for harnessing thermal energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Ocean thermal energy conversion aligns with the Sustainable Development Goals by providing a clean and renewable energy source for sustainable development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "ocean thermal energy conversion"
       },
       {
         "Relation": "an_instance_of",
         "Object": "solar energy",
         "Description": "Ocean thermal energy conversion is an instance of ocean energy, which utilizes temperature differences in ocean water to generate electricity.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "ocean thermal energy conversion"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -144,9 +264,7 @@
         "Object": "research and development",
         "Description": "Solar energy funds Research and Development to improve solar panel efficiency and develop new technologies.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -160,6 +278,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A cold water pipe is a sub-component of ocean thermal energy conversion systems. It is responsible for transporting cold water from the deep ocean to the power plant.",
+        "Importance": 3,
+        "Subject": "cold water pipe",
+        "Object": "ocean thermal energy conversion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A warm water pipe is a sub-component of ocean thermal energy conversion systems. It is responsible for transporting warm surface water to the power plant.",
+        "Importance": 3,
+        "Subject": "warm water pipe",
+        "Object": "ocean thermal energy conversion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A power plant is a sub-component of ocean thermal energy conversion systems. It converts the temperature difference between warm surface water and cold deep water into electricity.",
+        "Importance": 4,
+        "Subject": "power plant",
+        "Object": "ocean thermal energy conversion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A heat exchanger is a sub-component of ocean thermal energy conversion systems. It transfers heat between the warm and cold water streams, allowing for efficient energy conversion.",
+        "Importance": 3,
+        "Subject": "heat exchanger",
+        "Object": "ocean thermal energy conversion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A turbine is a sub-component of ocean thermal energy conversion systems. It uses the pressure of the flowing water to generate mechanical power, which is then converted into electricity.",
+        "Importance": 4,
+        "Subject": "turbine",
+        "Object": "ocean thermal energy conversion"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "national digital transformation strategies",
     "Description": "Strategies developed by governments to guide the digital transformation of their countries.",
     "Category": "Strategy",
     "Tags": [
@@ -11,79 +10,209 @@
     "Dimension": "Technology",
     "Acronym": "NDTS",
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "National Digital Transformation Strategies",
+    "Entity Code": "national digital transformation strategies"
   },
   "knowledge graph": {
     "entities": [
-      "digital divide",
-      "smart grid technologies",
-      "research and development",
-      "reducing carbon emissions",
-      "energy poverty indices",
-      "collaboration with energy companies",
-      "energy consumption patterns",
-      "sustainable energy projects",
-      "academic institutions"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Digital Divide",
+        "Entity Code": "digital divide",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Reducing Carbon Emissions",
+        "Entity Code": "reducing carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Smart Grid Technologies",
+        "Entity Code": "smart grid technologies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaboration with Energy Companies",
+        "Entity Code": "collaboration with energy companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Academic Institutions",
+        "Entity Code": "academic institutions",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy projects",
         "Description": "National digital transformation strategies implement sustainable energy projects to promote the use of clean and renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "National digital transformation strategies allocate funds for research and development in the field of sustainable energy to drive innovation and technological advancements.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "focuses_on",
         "Object": "smart grid technologies",
         "Description": "National digital transformation strategies focus on the implementation of smart grid technologies to optimize energy distribution and consumption.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "in",
         "Object": "collaboration with energy companies",
         "Description": "National digital transformation strategies work in collaboration with energy companies to develop and implement sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "partners_with",
         "Object": "academic institutions",
         "Description": "National digital transformation strategies partner with academic institutions to foster research and knowledge exchange in the field of sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "contributes_to",
         "Object": "reducing carbon emissions",
         "Description": "National digital transformation strategies contribute to the reduction of carbon emissions by promoting the adoption of clean energy technologies and practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption patterns",
         "Description": "National digital transformation strategies monitor energy consumption patterns to identify areas for improvement and optimize energy efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "National digital transformation strategies target energy poverty by providing access to affordable and reliable energy services for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national digital transformation strategies"
       },
       {
         "Relation": "addresses",
         "Object": "digital divide",
         "Description": "National digital transformation strategies address the digital divide by ensuring equitable access to digital technologies and information for sustainable energy initiatives.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "national digital transformation strategies"
+      },
       {
         "Subject": "energy poverty indices",
         "Relation": "implements",
@@ -97,9 +226,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

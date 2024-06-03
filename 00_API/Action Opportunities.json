@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Action Opportunities",
     "Description": "Summary of Action Opportunities",
     "Category": "Strategy",
     "Tags": [
@@ -12,71 +11,245 @@
     "Importance": 3.0,
     "Synonyms": [
       "livelihood opportunities"
-    ]
+    ],
+    "Entity Title": "Action Opportunities",
+    "Entity Code": "action opportunities"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "just energy transition",
-      "sustainable development goals",
-      "climate change mitigation",
-      "energy consumption",
-      "renewable energy agencies",
-      "government agencies"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Action Opportunities implements energy efficiency measures to reduce energy consumption and promote sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Action Opportunities funds renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "focuses_on",
         "Object": "climate change mitigation",
         "Description": "Action Opportunities focuses on climate change mitigation by promoting sustainable energy solutions and reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Action Opportunities is involved in the energy transition towards sustainable and clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "partners_with",
         "Object": "government agencies",
         "Description": "Action Opportunities partners with government agencies to implement sustainable energy policies and initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "Action Opportunities contributes to the achievement of sustainable development goals through the promotion of sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Action Opportunities monitors energy consumption to identify areas for improvement and promote energy efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "Action Opportunities targets increased deployment of renewable energy technologies to accelerate the transition to clean energy.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "action opportunities"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -118,9 +291,7 @@
         "Object": "energy equity",
         "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

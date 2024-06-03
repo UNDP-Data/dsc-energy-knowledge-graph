@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "participatory governance",
     "Description": "Participatory governance is an approach to decision-making and policy development that involves the active participation of citizens and stakeholders in the processes of governance.",
     "Category": "Policy",
     "Tags": [
@@ -11,72 +10,190 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Participatory Governance",
+    "Entity Code": "participatory governance"
   },
   "knowledge graph": {
     "entities": [
-      "good governance principles",
-      "citizen engagement",
-      "local communities",
-      "democratic governance",
-      "social inclusion",
-      "capacity building",
-      "public consultations",
-      "multi-stakeholder partnerships"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Citizen Engagement",
+        "Entity Code": "citizen engagement",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Capacity Building",
+        "Entity Code": "capacity building",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Public Consultations",
+        "Entity Code": "public consultations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Collaborative initiatives involving multiple stakeholders, such as governments, businesses, and civil society organizations.",
+        "Category": "Strategy",
+        "Tags": [
+          "Collaboration",
+          "Sustainable Development",
+          "Collective Impact"
+        ],
+        "Dimension": "Social",
+        "Acronym": "MSP",
+        "Importance": 3.0,
+        "Synonyms": [
+          "multi-stakeholder approach"
+        ],
+        "Entity Title": "Multi-stakeholder Partnerships",
+        "Entity Code": "multi-stakeholder partnerships"
+      },
+      {
+        "Entity Title": "Social Inclusion",
+        "Entity Code": "social inclusion",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Good Governance Principles",
+        "Entity Code": "good governance principles",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Democratic Governance",
+        "Entity Code": "democratic governance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Private Sector",
+        "Entity Code": "private sector",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaborative Governance",
+        "Entity Code": "collaborative governance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaborative Decision-making",
+        "Entity Code": "collaborative decision-making",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "citizen engagement",
         "Description": "Participatory governance addresses the need for citizen engagement in decision-making processes to ensure inclusivity and transparency.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "employs",
         "Object": "multi-stakeholder partnerships",
         "Description": "Participatory governance employs a multi-stakeholder approach, involving various actors such as government, civil society, and private sector, in decision-making and policy implementation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "collaborates_with",
         "Object": "local communities",
         "Description": "Participatory governance collaborates with local communities to ensure their active participation in decision-making processes and the implementation of sustainable energy initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "supports",
         "Object": "capacity building",
         "Description": "Participatory governance supports capacity building initiatives to empower individuals and organizations to actively engage in sustainable energy decision-making processes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "administers",
         "Object": "public consultations",
         "Description": "Participatory governance administers public consultations to gather input and feedback from stakeholders on sustainable energy policies and projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "measures",
         "Object": "social inclusion",
         "Description": "Participatory governance measures the level of social inclusion in decision-making processes to ensure marginalized groups are represented and their needs are addressed.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "aligns_with",
         "Object": "good governance principles",
         "Description": "Participatory governance aligns with good governance principles, such as transparency, accountability, and responsiveness, to ensure effective and inclusive decision-making.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "participatory governance"
       },
       {
         "Relation": "an_instance_of",
         "Object": "democratic governance",
         "Description": "Participatory governance is an instance of democratic governance, where citizens have the right to participate in decision-making processes that affect their lives.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "participatory governance"
+      },
       {
         "Subject": "multi-stakeholder partnerships",
         "Relation": "employs",
@@ -118,9 +235,7 @@
         "Object": "collaborative governance",
         "Description": "Multi-stakeholder partnerships are an instance of collaborative governance, where diverse stakeholders come together to address sustainable energy challenges.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

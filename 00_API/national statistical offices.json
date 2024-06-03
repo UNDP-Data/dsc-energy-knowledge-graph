@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "national statistical offices",
     "Description": "Government agencies responsible for collecting and analyzing statistical data.",
     "Category": "Organization",
     "Tags": [
@@ -11,72 +10,207 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "National Statistical Offices",
+    "Entity Code": "national statistical offices"
   },
   "knowledge graph": {
     "entities": [
-      "energy access data",
-      "energy efficiency",
-      "sustainable development goals",
-      "research institutions",
-      "energy storage",
-      "renewable energy agencies",
-      "government agencies",
-      "energy data analytics"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Data",
+        "Entity Code": "energy access data",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+        "Category": "Technology",
+        "Tags": [
+          "Data-driven Insights",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data management",
+          "energy market analysis",
+          "data analytics",
+          "energy analysts"
+        ],
+        "Entity Title": "Energy Data Analytics",
+        "Entity Code": "energy data analytics"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy access data",
         "Description": "National statistical offices collect and address energy access data to inform policy decisions and improve energy access.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "employs",
         "Object": "energy data analytics",
         "Description": "National statistical offices employ energy analysts to analyze energy data and provide insights for sustainable energy planning.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "collaborates_with",
         "Object": "research institutions",
         "Description": "National statistical offices collaborate with research institutions to conduct studies on energy consumption and trends.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "supports",
         "Object": "energy efficiency",
         "Description": "National statistical offices support energy efficiency programs by providing data and insights for program development and evaluation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "administers",
         "Object": "energy storage",
         "Description": "National statistical offices administer energy surveys to gather data on energy consumption and usage patterns.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "measures",
         "Object": "renewable energy agencies",
         "Description": "National statistical offices measure renewable energy capacity to track progress towards sustainable energy goals.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "National statistical offices align their energy data collection and reporting with the Sustainable Development Goals.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "national statistical offices"
       },
       {
         "Relation": "an_instance_of",
         "Object": "government agencies",
         "Description": "National statistical offices are government agencies responsible for collecting and analyzing energy data.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "national statistical offices"
+      },
       {
         "Subject": "energy data analytics",
         "Relation": "implements",
@@ -118,9 +252,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

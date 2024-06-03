@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "electrolysis",
     "Description": "Electrolysis is a chemical process that uses an electric current to drive a non-spontaneous chemical reaction, such as the splitting of water into hydrogen and oxygen.",
     "Category": "Technology",
     "Tags": [
@@ -10,64 +9,233 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Electrolysis",
+    "Entity Code": "electrolysis"
   },
   "knowledge graph": {
     "entities": [
-      "hydrogen production facilities",
-      "hydrogen purity",
-      "fuel cell technology",
-      "electrochemical process",
-      "renewable energy agencies",
-      "decarbonization"
+      {
+        "Description": "The process of reducing or eliminating carbon dioxide emissions from various sectors to mitigate climate change.",
+        "Category": "Technology",
+        "Tags": [
+          "Climate Change",
+          "Greenhouse Gas Emissions",
+          "Renewable Energy"
+        ],
+        "Dimension": "Climate Change",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "decentralization"
+        ],
+        "Entity Title": "Decarbonization",
+        "Entity Code": "decarbonization"
+      },
+      {
+        "Entity Title": "Carbon Emissions",
+        "Entity Code": "carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "clean energy technologies",
+          "bioenergy technology"
+        ],
+        "Entity Title": "Traditional Energy Technologies",
+        "Entity Code": "traditional energy technologies"
+      },
+      {
+        "Entity Title": "Hydrogen Production Facilities",
+        "Entity Code": "hydrogen production facilities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Fuel Cell Technology",
+        "Entity Code": "fuel cell technology",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Hydrogen Purity",
+        "Entity Code": "hydrogen purity",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Electrochemical Process",
+        "Entity Code": "electrochemical process",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Electrolysis employs renewable energy sources such as solar and wind to produce hydrogen through the electrolysis process.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "collaborates_with",
         "Object": "fuel cell technology",
         "Description": "Electrolysis collaborates with fuel cell technology to utilize the produced hydrogen as a clean and efficient energy source.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "supports",
         "Object": "decarbonization",
         "Description": "Electrolysis supports decarbonization efforts by providing a carbon-free method of producing hydrogen for various applications.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "administers",
         "Object": "hydrogen production facilities",
         "Description": "Electrolysis administers hydrogen production facilities where the electrolysis process takes place to produce hydrogen gas.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "measures",
         "Object": "hydrogen purity",
         "Description": "Electrolysis measures the purity of the produced hydrogen to ensure its quality and suitability for various applications.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "aligns_with",
         "Object": "renewable energy agencies",
         "Description": "Electrolysis aligns with the transition to renewable energy sources by utilizing renewable electricity for the electrolysis process.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "electrolysis"
       },
       {
         "Relation": "an_instance_of",
         "Object": "electrochemical process",
         "Description": "Electrolysis is an instance of an electrochemical process where an electric current is used to drive a non-spontaneous chemical reaction.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "electrolysis"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -95,9 +263,7 @@
         "Object": "traditional energy technologies",
         "Description": "Decarbonization employs clean energy technologies such as solar power, wind power, and hydropower to reduce greenhouse gas emissions and transition to a low-carbon economy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

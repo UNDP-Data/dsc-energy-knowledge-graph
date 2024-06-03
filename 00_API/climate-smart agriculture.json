@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "climate-smart agriculture",
     "Description": "Agricultural practices that sustainably increase productivity, resilience, and reduce greenhouse gas emissions.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,165 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Climate-smart Agriculture",
+    "Entity Code": "climate-smart agriculture"
   },
   "knowledge graph": {
     "entities": [
-      "energy for smallholder farmers",
-      "crop yields",
-      "sustainable farming practices",
-      "research and development",
-      "sustainable development goals",
-      "local farmers",
-      "climate change mitigation",
-      "marginalized communities"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Groups of people who are socially, economically, or politically disadvantaged and face barriers to accessing resources and opportunities.",
+        "Category": "Social",
+        "Tags": [
+          "Marginalized",
+          "Communities",
+          "Inequality"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "rural communities"
+        ],
+        "Entity Title": "Marginalized Communities",
+        "Entity Code": "marginalized communities"
+      },
+      {
+        "Entity Title": "Crop Yields",
+        "Entity Code": "crop yields",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Access to affordable and sustainable energy solutions for smallholder farmers to improve agricultural productivity and livelihoods.",
+        "Category": "Social",
+        "Tags": [
+          "Agriculture",
+          "Rural Development",
+          "Energy Access"
+        ],
+        "Dimension": "Sustainable Development",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smallholder farmers"
+        ],
+        "Entity Title": "Energy for Smallholder Farmers",
+        "Entity Code": "energy for smallholder farmers"
+      },
+      {
+        "Entity Title": "Local Farmers",
+        "Entity Code": "local farmers",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Sustainable Farming Practices",
+        "Entity Code": "sustainable farming practices",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agricultural practices that sustainably increase productivity, resilience, and reduce greenhouse gas emissions.",
+        "Category": "Technology",
+        "Tags": [
+          "Agriculture",
+          "Climate Change",
+          "Sustainability"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Climate-smart Agriculture",
+        "Entity Code": "climate-smart agriculture"
+      }
     ],
     "sub-elements": [
       "crop diversification",
@@ -31,94 +177,63 @@
       "precision agriculture",
       "climate-resilient crops"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "crop diversification",
-        "Relation": "is a sub-element of",
-        "Parent": "climate-smart agriculture",
-        "Description": "Crop diversification is a key component of climate-smart agriculture, which involves growing a variety of crops in a single area. This practice helps to enhance resilience to climate change by reducing the risk of crop failure and increasing overall productivity.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "agroforestry",
-        "Relation": "is a sub-element of",
-        "Parent": "climate-smart agriculture",
-        "Description": "Agroforestry is an important practice within climate-smart agriculture that involves integrating trees and shrubs with crops and livestock. It provides multiple benefits such as improved soil fertility, increased biodiversity, and enhanced climate resilience.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "conservation agriculture",
-        "Relation": "is a sub-element of",
-        "Parent": "climate-smart agriculture",
-        "Description": "Conservation agriculture is a key approach within climate-smart agriculture that promotes sustainable and resource-efficient farming practices. It involves minimizing soil disturbance, maintaining soil cover, and practicing crop rotation to improve soil health, water retention, and overall productivity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "precision agriculture",
-        "Relation": "is a sub-element of",
-        "Parent": "climate-smart agriculture",
-        "Description": "Precision agriculture is an advanced farming technique that utilizes technology and data to optimize crop production while minimizing resource inputs. It involves the use of sensors, GPS, drones, and other tools to monitor and manage crops with precision, leading to increased efficiency and reduced environmental impact.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "climate-resilient crops",
-        "Relation": "is a sub-element of",
-        "Parent": "climate-smart agriculture",
-        "Description": "Climate-resilient crops are specific varieties or species of crops that are bred or selected to withstand and adapt to the impacts of climate change. These crops possess traits such as drought tolerance, heat resistance, disease resistance, and improved nutrient efficiency, contributing to the overall resilience of agricultural systems.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable farming practices",
         "Description": "Climate-smart agriculture implements sustainable farming practices that reduce greenhouse gas emissions and promote climate resilience.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Climate-smart agriculture funds research and development projects to improve agricultural practices and technologies for climate adaptation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "focuses_on",
         "Object": "climate change mitigation",
         "Description": "Climate-smart agriculture focuses on climate change mitigation by implementing practices that reduce carbon emissions and enhance carbon sequestration.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "in",
         "Object": "marginalized communities",
         "Description": "Climate-smart agriculture is implemented in rural communities to improve food security, livelihoods, and resilience to climate impacts.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "partners_with",
         "Object": "local farmers",
         "Description": "Climate-smart agriculture partners with local farmers to promote the adoption of sustainable and climate-resilient farming practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "Climate-smart agriculture contributes to the achievement of sustainable development goals, particularly those related to food security, poverty reduction, and climate action.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "monitors",
         "Object": "crop yields",
         "Description": "Climate-smart agriculture monitors crop yields to assess the effectiveness of sustainable farming practices and identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate-smart agriculture"
       },
       {
         "Relation": "targets",
         "Object": "energy for smallholder farmers",
         "Description": "Climate-smart agriculture targets smallholder farmers to provide them with the knowledge, resources, and support needed to adopt climate-resilient farming practices.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "climate-smart agriculture"
+      },
       {
         "Subject": "marginalized communities",
         "Relation": "supports",
@@ -146,9 +261,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy for smallholder farmers funds renewable energy projects to provide sustainable energy solutions.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -169,6 +282,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Crop diversification is a key component of climate-smart agriculture, which involves growing a variety of crops in a single area. This practice helps to enhance resilience to climate change by reducing the risk of crop failure and increasing overall productivity.",
+        "Importance": 3,
+        "Subject": "crop diversification",
+        "Object": "climate-smart agriculture"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Agroforestry is an important practice within climate-smart agriculture that involves integrating trees and shrubs with crops and livestock. It provides multiple benefits such as improved soil fertility, increased biodiversity, and enhanced climate resilience.",
+        "Importance": 4,
+        "Subject": "agroforestry",
+        "Object": "climate-smart agriculture"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Conservation agriculture is a key approach within climate-smart agriculture that promotes sustainable and resource-efficient farming practices. It involves minimizing soil disturbance, maintaining soil cover, and practicing crop rotation to improve soil health, water retention, and overall productivity.",
+        "Importance": 4,
+        "Subject": "conservation agriculture",
+        "Object": "climate-smart agriculture"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Precision agriculture is an advanced farming technique that utilizes technology and data to optimize crop production while minimizing resource inputs. It involves the use of sensors, GPS, drones, and other tools to monitor and manage crops with precision, leading to increased efficiency and reduced environmental impact.",
+        "Importance": 3,
+        "Subject": "precision agriculture",
+        "Object": "climate-smart agriculture"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Climate-resilient crops are specific varieties or species of crops that are bred or selected to withstand and adapt to the impacts of climate change. These crops possess traits such as drought tolerance, heat resistance, disease resistance, and improved nutrient efficiency, contributing to the overall resilience of agricultural systems.",
+        "Importance": 4,
+        "Subject": "climate-resilient crops",
+        "Object": "climate-smart agriculture"
       }
     ]
   }

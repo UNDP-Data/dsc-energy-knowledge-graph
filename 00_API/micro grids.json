@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "micro grids",
     "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
     "Category": "Infrastructure",
     "Tags": [
@@ -14,18 +13,206 @@
     "Synonyms": [
       "microgrid systems",
       "smart grids"
-    ]
+    ],
+    "Entity Title": "Micro Grids",
+    "Entity Code": "micro grids"
   },
   "knowledge graph": {
     "entities": [
-      "decentralized energy systems",
-      "local communities",
-      "energy markets",
-      "hybrid energy storage systems",
-      "renewable energy agencies",
-      "energy and modernization",
-      "distributed energy resources",
-      "energy independence"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Distributed Energy Resources",
+        "Entity Code": "distributed energy resources",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Storage Technologies",
+        "Entity Code": "energy storage technologies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Access",
+          "Resilience",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microgrid systems",
+          "smart grids"
+        ],
+        "Entity Title": "Micro Grids",
+        "Entity Code": "micro grids"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Systems that combine multiple energy storage technologies to optimize energy storage and release.",
+        "Category": "Technology",
+        "Tags": [
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy storage systems"
+        ],
+        "Entity Title": "Hybrid Energy Storage Systems",
+        "Entity Code": "hybrid energy storage systems"
+      },
+      {
+        "Entity Title": "Energy Independence",
+        "Entity Code": "energy independence",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy systems that generate and distribute energy at a local level, often using renewable sources and involving local communities in decision-making and ownership.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Renewable Energy",
+          "Local Communities",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "renewable energy system"
+        ],
+        "Entity Title": "Decentralized Energy Systems",
+        "Entity Code": "decentralized energy systems"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy",
+          "Modernization",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy generation",
+          "grid modernization"
+        ],
+        "Entity Title": "Energy and Modernization",
+        "Entity Code": "energy and modernization"
+      }
     ],
     "sub-elements": [
       "solar micro grids",
@@ -34,94 +221,63 @@
       "battery storage micro grids",
       "smart micro grids"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "solar micro grids",
-        "Relation": "is a sub-element of",
-        "Parent": "micro grids",
-        "Description": "Solar micro grids are a type of micro grid that primarily rely on solar energy as their power source. They consist of solar panels, inverters, and energy storage systems to provide electricity to a localized area. Solar micro grids are a sustainable energy solution that can reduce reliance on fossil fuels and increase energy access in remote areas.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wind micro grids",
-        "Relation": "is a sub-element of",
-        "Parent": "micro grids",
-        "Description": "Wind micro grids are a type of micro grid that primarily rely on wind energy as their power source. They consist of wind turbines, converters, and energy storage systems to provide electricity to a localized area. Wind micro grids are a sustainable energy solution that can harness the power of wind to generate clean electricity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "hybrid micro grids",
-        "Relation": "is a sub-element of",
-        "Parent": "micro grids",
-        "Description": "Hybrid micro grids are a type of micro grid that combine multiple renewable energy sources, such as solar and wind, to provide electricity to a localized area. They utilize a combination of solar panels, wind turbines, converters, and energy storage systems. Hybrid micro grids offer increased reliability and flexibility in power generation.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "battery storage micro grids",
-        "Relation": "is a sub-element of",
-        "Parent": "micro grids",
-        "Description": "Battery storage micro grids are a type of micro grid that incorporate energy storage systems, such as batteries, to store excess electricity generated by renewable energy sources. These micro grids can provide reliable power supply even during periods of low renewable energy generation. Battery storage micro grids contribute to grid stability and resilience.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "smart micro grids",
-        "Relation": "is a sub-element of",
-        "Parent": "micro grids",
-        "Description": "Smart micro grids are a type of micro grid that utilize advanced technologies, such as sensors, automation, and data analytics, to optimize energy generation, distribution, and consumption. They enable efficient energy management, demand response, and integration of renewable energy sources. Smart micro grids enhance grid efficiency and enable better utilization of sustainable energy resources.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "Micro grids address energy access challenges by providing electricity to remote and underserved areas.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro grids"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Micro grids employ renewable energy sources to generate electricity in a decentralized manner.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro grids"
       },
       {
         "Relation": "collaborates_with",
         "Object": "local communities",
         "Description": "Micro grids collaborate with local communities to ensure their energy needs are met sustainably and efficiently.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro grids"
       },
       {
         "Relation": "supports",
         "Object": "energy independence",
         "Description": "Micro grids support energy independence by reducing reliance on centralized power grids and promoting local energy generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro grids"
       },
       {
         "Relation": "administers",
         "Object": "hybrid energy storage systems",
         "Description": "Micro grids administer energy storage systems to ensure reliable and uninterrupted power supply.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro grids"
       },
       {
         "Relation": "measures",
         "Object": "energy and modernization",
         "Description": "Micro grids measure energy generation to optimize the utilization of renewable energy resources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro grids"
       },
       {
         "Relation": "aligns_with",
         "Object": "decentralized energy systems",
         "Description": "Micro grids align with decentralized energy systems to promote local energy generation and distribution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro grids"
       },
       {
         "Relation": "an_instance_of",
         "Object": "distributed energy resources",
         "Description": "Micro grids are an instance of distributed energy resources that enable localized energy generation and consumption.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "micro grids"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -177,9 +333,7 @@
         "Object": "energy markets",
         "Description": "Energy and modernization focuses on improving energy access for all, especially in underserved communities.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -207,6 +361,41 @@
         "Object": "energy efficiency",
         "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar micro grids are a type of micro grid that primarily rely on solar energy as their power source. They consist of solar panels, inverters, and energy storage systems to provide electricity to a localized area. Solar micro grids are a sustainable energy solution that can reduce reliance on fossil fuels and increase energy access in remote areas.",
+        "Importance": 4,
+        "Subject": "solar micro grids",
+        "Object": "micro grids"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind micro grids are a type of micro grid that primarily rely on wind energy as their power source. They consist of wind turbines, converters, and energy storage systems to provide electricity to a localized area. Wind micro grids are a sustainable energy solution that can harness the power of wind to generate clean electricity.",
+        "Importance": 4,
+        "Subject": "wind micro grids",
+        "Object": "micro grids"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Hybrid micro grids are a type of micro grid that combine multiple renewable energy sources, such as solar and wind, to provide electricity to a localized area. They utilize a combination of solar panels, wind turbines, converters, and energy storage systems. Hybrid micro grids offer increased reliability and flexibility in power generation.",
+        "Importance": 3,
+        "Subject": "hybrid micro grids",
+        "Object": "micro grids"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Battery storage micro grids are a type of micro grid that incorporate energy storage systems, such as batteries, to store excess electricity generated by renewable energy sources. These micro grids can provide reliable power supply even during periods of low renewable energy generation. Battery storage micro grids contribute to grid stability and resilience.",
+        "Importance": 3,
+        "Subject": "battery storage micro grids",
+        "Object": "micro grids"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Smart micro grids are a type of micro grid that utilize advanced technologies, such as sensors, automation, and data analytics, to optimize energy generation, distribution, and consumption. They enable efficient energy management, demand response, and integration of renewable energy sources. Smart micro grids enhance grid efficiency and enable better utilization of sustainable energy resources.",
+        "Importance": 4,
+        "Subject": "smart micro grids",
+        "Object": "micro grids"
       }
     ]
   }

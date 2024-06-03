@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "multi-stakeholder partnerships",
     "Description": "Collaborative initiatives involving multiple stakeholders, such as governments, businesses, and civil society organizations.",
     "Category": "Strategy",
     "Tags": [
@@ -13,17 +12,208 @@
     "Importance": 3.0,
     "Synonyms": [
       "multi-stakeholder approach"
-    ]
+    ],
+    "Entity Title": "Multi-stakeholder Partnerships",
+    "Entity Code": "multi-stakeholder partnerships"
   },
   "knowledge graph": {
     "entities": [
-      "carbon pricing",
-      "collaborative decision-making",
-      "capacity building",
-      "energy efficiency",
-      "sustainable development goals",
-      "collaborative governance",
-      "private sector"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Capacity Building",
+        "Entity Code": "capacity building",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Collaborative initiatives involving multiple stakeholders, such as governments, businesses, and civil society organizations.",
+        "Category": "Strategy",
+        "Tags": [
+          "Collaboration",
+          "Sustainable Development",
+          "Collective Impact"
+        ],
+        "Dimension": "Social",
+        "Acronym": "MSP",
+        "Importance": 3.0,
+        "Synonyms": [
+          "multi-stakeholder approach"
+        ],
+        "Entity Title": "Multi-stakeholder Partnerships",
+        "Entity Code": "multi-stakeholder partnerships"
+      },
+      {
+        "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
+        "Category": "Policy",
+        "Tags": [
+          "Energy Policy",
+          "Regulation",
+          "Energy Access"
+        ],
+        "Dimension": "Governance",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy performance",
+          "sustainable energy governance"
+        ],
+        "Entity Title": "Energy Governance",
+        "Entity Code": "energy governance"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Cooperatives that enable individuals or communities to collectively own and manage energy resources.",
+        "Category": "Organization",
+        "Tags": [
+          "Community Ownership",
+          "Renewable Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy conservation",
+          "energy experts",
+          "energy companies"
+        ],
+        "Entity Title": "Energy Cooperatives",
+        "Entity Code": "energy cooperatives"
+      },
+      {
+        "Entity Title": "Private Sector",
+        "Entity Code": "private sector",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaborative Governance",
+        "Entity Code": "collaborative governance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Collaborative Decision-making",
+        "Entity Code": "collaborative decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Emissions Reduction",
+          "Market Mechanism"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "carbon footprint",
+          "carbon pricing mechanisms"
+        ],
+        "Entity Title": "Carbon Pricing",
+        "Entity Code": "carbon pricing"
+      }
     ],
     "sub-elements": [
       "Public-private partnerships",
@@ -32,88 +222,56 @@
       "Community partnerships",
       "International partnerships"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Public-private partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "multi-stakeholder partnerships",
-        "Description": "Public-private partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and private sector organizations. These partnerships leverage the resources, expertise, and networks of both sectors to address sustainable energy challenges.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Civil society partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "multi-stakeholder partnerships",
-        "Description": "Civil society partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and non-governmental organizations (NGOs). These partnerships bring together diverse perspectives, knowledge, and resources to promote sustainable energy initiatives and advocate for policy changes.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Academic partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "multi-stakeholder partnerships",
-        "Description": "Academic partnerships are a type of multi-stakeholder partnership that involve collaboration between educational institutions and other stakeholders. These partnerships facilitate research, knowledge sharing, and capacity building in the field of sustainable energy, contributing to innovation and informed decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Community partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "multi-stakeholder partnerships",
-        "Description": "Community partnerships are a type of multi-stakeholder partnership that involve collaboration between local communities and various stakeholders. These partnerships empower communities to actively participate in sustainable energy projects, ensuring their needs and priorities are considered in decision-making processes.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "International partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "multi-stakeholder partnerships",
-        "Description": "International partnerships are a type of multi-stakeholder partnership that involve collaboration between different countries or global organizations. These partnerships promote knowledge exchange, resource sharing, and coordinated efforts to address global sustainable energy challenges and achieve common goals.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "employs",
         "Object": "collaborative decision-making",
         "Description": "Multi-stakeholder partnerships employ collaborative decision-making processes to ensure diverse perspectives and expertise in sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "collaborates_with",
         "Object": "private sector",
         "Description": "Multi-stakeholder partnerships collaborate with the private sector to leverage resources and expertise for the implementation of sustainable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "supports",
         "Object": "capacity building",
         "Description": "Multi-stakeholder partnerships support capacity building initiatives to enhance knowledge and skills in sustainable energy practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency",
         "Description": "Multi-stakeholder partnerships administer energy efficiency programs to promote the adoption of energy-saving practices and technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "measures",
         "Object": "carbon pricing",
         "Description": "Multi-stakeholder partnerships measure carbon footprint to assess the environmental impact of sustainable energy initiatives and identify areas for improvement.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Multi-stakeholder partnerships align with the Sustainable Development Goals to contribute to the achievement of targets related to sustainable energy and climate action.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "multi-stakeholder partnerships"
       },
       {
         "Relation": "an_instance_of",
         "Object": "collaborative governance",
         "Description": "Multi-stakeholder partnerships are an instance of collaborative governance, where diverse stakeholders come together to address sustainable energy challenges.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "multi-stakeholder partnerships"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -169,9 +327,7 @@
         "Object": "energy cooperatives",
         "Description": "Energy efficiency is an instance of energy conservation, which aims to reduce energy consumption and waste.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -199,6 +355,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Public-private partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and private sector organizations. These partnerships leverage the resources, expertise, and networks of both sectors to address sustainable energy challenges.",
+        "Importance": 4,
+        "Subject": "public-private partnerships",
+        "Object": "multi-stakeholder partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Civil society partnerships are a type of multi-stakeholder partnership that involve collaboration between government entities and non-governmental organizations (NGOs). These partnerships bring together diverse perspectives, knowledge, and resources to promote sustainable energy initiatives and advocate for policy changes.",
+        "Importance": 3,
+        "Subject": "civil society partnerships",
+        "Object": "multi-stakeholder partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Academic partnerships are a type of multi-stakeholder partnership that involve collaboration between educational institutions and other stakeholders. These partnerships facilitate research, knowledge sharing, and capacity building in the field of sustainable energy, contributing to innovation and informed decision-making.",
+        "Importance": 3,
+        "Subject": "academic partnerships",
+        "Object": "multi-stakeholder partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Community partnerships are a type of multi-stakeholder partnership that involve collaboration between local communities and various stakeholders. These partnerships empower communities to actively participate in sustainable energy projects, ensuring their needs and priorities are considered in decision-making processes.",
+        "Importance": 2,
+        "Subject": "community partnerships",
+        "Object": "multi-stakeholder partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "International partnerships are a type of multi-stakeholder partnership that involve collaboration between different countries or global organizations. These partnerships promote knowledge exchange, resource sharing, and coordinated efforts to address global sustainable energy challenges and achieve common goals.",
+        "Importance": 4,
+        "Subject": "international partnerships",
+        "Object": "multi-stakeholder partnerships"
       }
     ]
   }

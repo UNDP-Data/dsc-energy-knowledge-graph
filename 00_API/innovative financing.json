@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "innovative financing",
     "Description": "New and creative ways of raising funds for projects or initiatives.",
     "Category": "Finance",
     "Tags": [
@@ -10,17 +9,186 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Innovative Financing",
+    "Entity Code": "innovative financing"
   },
   "knowledge graph": {
     "entities": [
-      "startups",
-      "multilateral development banks",
-      "impact investing",
-      "un sustainable development goals",
-      "financial innovation",
-      "energy innovation funds",
-      "green bonds"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Financial Innovation",
+        "Entity Code": "financial innovation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "New and creative ways of raising funds for projects or initiatives.",
+        "Category": "Finance",
+        "Tags": [
+          "Economic",
+          "Finance"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Innovative Financing",
+        "Entity Code": "innovative financing"
+      },
+      {
+        "Entity Title": "Impact Investing",
+        "Entity Code": "impact investing",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
+        "Category": "Organization",
+        "Tags": [
+          "Finance",
+          "Economic",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "national development plans",
+          "development banks"
+        ],
+        "Entity Title": "Multilateral Development Banks",
+        "Entity Code": "multilateral development banks"
+      },
+      {
+        "Entity Title": "Un Sustainable Development Goals",
+        "Entity Code": "un sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Startups",
+        "Entity Code": "startups",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Innovation Funds",
+        "Entity Code": "energy innovation funds",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Green bonds are fixed-income financial instruments that are used to raise capital for projects that have positive environmental or climate benefits.",
+        "Category": "Finance",
+        "Tags": [
+          "Sustainable Finance",
+          "Investment",
+          "Environmental Projects"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Green Bonds",
+        "Entity Code": "green bonds"
+      }
     ],
     "sub-elements": [
       "green bonds",
@@ -29,88 +197,56 @@
       "carbon pricing",
       "energy efficiency financing"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "green bonds",
-        "Relation": "is a sub-element of",
-        "Parent": "innovative financing",
-        "Description": "Green bonds are a type of innovative financing that allow investors to finance projects with environmental benefits. They are specifically designed to fund projects related to sustainable energy, such as renewable energy projects or energy efficiency initiatives.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "impact investing",
-        "Relation": "is a sub-element of",
-        "Parent": "innovative financing",
-        "Description": "Impact investing is a form of innovative financing that aims to generate positive social and environmental impact alongside financial returns. It involves investing in companies, organizations, or projects that address sustainable energy challenges and contribute to the transition to a low-carbon economy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "crowdfunding",
-        "Relation": "is a sub-element of",
-        "Parent": "innovative financing",
-        "Description": "Crowdfunding is a method of innovative financing that involves raising small amounts of money from a large number of individuals to fund a project or venture. It has been used to support sustainable energy initiatives, allowing individuals to contribute to the development of renewable energy projects or energy access programs.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "carbon pricing",
-        "Relation": "is a sub-element of",
-        "Parent": "innovative financing",
-        "Description": "Carbon pricing is a policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system. It can be considered a form of innovative financing as it creates economic incentives for reducing greenhouse gas emissions and encourages investments in sustainable energy solutions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency financing",
-        "Relation": "is a sub-element of",
-        "Parent": "innovative financing",
-        "Description": "Energy efficiency financing refers to innovative financing mechanisms that support investments in energy efficiency measures. It includes financial products and services specifically designed to enable individuals, businesses, and governments to implement energy-saving technologies and practices, ultimately contributing to sustainable energy goals.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "employs",
         "Object": "green bonds",
         "Description": "Innovative financing employs green bonds as a financial instrument to raise funds for sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "collaborates_with",
         "Object": "multilateral development banks",
         "Description": "Innovative financing collaborates with development banks to leverage their expertise and resources for financing sustainable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "supports",
         "Object": "startups",
         "Description": "Innovative financing supports startups in the sustainable energy sector by providing funding and mentorship to accelerate their growth and impact.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "administers",
         "Object": "energy innovation funds",
         "Description": "Innovative financing administers energy innovation funds to support research and development of new and advanced sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "measures",
         "Object": "impact investing",
         "Description": "Innovative financing measures the impact of investments in sustainable energy projects through impact investing metrics and frameworks.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "aligns_with",
         "Object": "un sustainable development goals",
         "Description": "Innovative financing aligns with the UN Sustainable Development Goals to ensure that investments in sustainable energy contribute to broader social and environmental objectives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "innovative financing"
       },
       {
         "Relation": "an_instance_of",
         "Object": "financial innovation",
         "Description": "Innovative financing is an instance of financial innovation that aims to mobilize capital for sustainable energy projects through novel approaches and mechanisms.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "innovative financing"
+      },
       {
         "Subject": "green bonds",
         "Relation": "implements",
@@ -138,9 +274,7 @@
         "Object": "renewable energy agencies",
         "Description": "Multilateral development banks provide funding for renewable energy projects to support the transition to clean energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -168,6 +302,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Green bonds are a type of innovative financing that allow investors to finance projects with environmental benefits. They are specifically designed to fund projects related to sustainable energy, such as renewable energy projects or energy efficiency initiatives.",
+        "Importance": 4,
+        "Subject": "green bonds",
+        "Object": "innovative financing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Impact investing is a form of innovative financing that aims to generate positive social and environmental impact alongside financial returns. It involves investing in companies, organizations, or projects that address sustainable energy challenges and contribute to the transition to a low-carbon economy.",
+        "Importance": 4,
+        "Subject": "impact investing",
+        "Object": "innovative financing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Crowdfunding is a method of innovative financing that involves raising small amounts of money from a large number of individuals to fund a project or venture. It has been used to support sustainable energy initiatives, allowing individuals to contribute to the development of renewable energy projects or energy access programs.",
+        "Importance": 3,
+        "Subject": "crowdfunding",
+        "Object": "innovative financing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Carbon pricing is a policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system. It can be considered a form of innovative financing as it creates economic incentives for reducing greenhouse gas emissions and encourages investments in sustainable energy solutions.",
+        "Importance": 4,
+        "Subject": "carbon pricing",
+        "Object": "innovative financing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency financing refers to innovative financing mechanisms that support investments in energy efficiency measures. It includes financial products and services specifically designed to enable individuals, businesses, and governments to implement energy-saving technologies and practices, ultimately contributing to sustainable energy goals.",
+        "Importance": 4,
+        "Subject": "energy efficiency financing",
+        "Object": "innovative financing"
       }
     ]
   }

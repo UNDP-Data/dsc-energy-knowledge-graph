@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy safety nets",
     "Description": "Summary of energy safety nets",
     "Category": "Policy",
     "Tags": [
@@ -11,79 +10,209 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Safety Nets",
+    "Entity Code": "energy safety nets"
   },
   "knowledge graph": {
     "entities": [
-      "energy affordability",
-      "non-profit organizations",
-      "social equity",
-      "energy access barriers",
-      "energy affordability indicators",
-      "energy vulnerable populations",
-      "social welfare programs",
-      "energy poverty indices",
-      "energy assistance programs"
+      {
+        "Entity Title": "Energy Assistance Programs",
+        "Entity Code": "energy assistance programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability Indicators",
+        "Entity Code": "energy affordability indicators",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Non-profit Organizations",
+        "Entity Code": "non-profit organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Social Equity",
+        "Entity Code": "social equity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Vulnerable Populations",
+        "Entity Code": "energy vulnerable populations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Social Welfare Programs",
+        "Entity Code": "social welfare programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Energy Access Barriers",
+        "Entity Code": "energy access barriers",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "social welfare programs",
         "Description": "Energy safety nets implements social welfare programs to provide assistance to vulnerable populations in accessing affordable and reliable energy services.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "funds",
         "Object": "energy assistance programs",
         "Description": "Energy safety nets funds energy assistance programs to support low-income households in meeting their energy needs.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy affordability",
         "Description": "Energy safety nets focuses on ensuring energy affordability for disadvantaged communities through targeted programs and policies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "in",
         "Object": "energy poverty indices",
         "Description": "Energy safety nets operates in the context of addressing energy poverty and reducing energy inequality.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "partners_with",
         "Object": "non-profit organizations",
         "Description": "Energy safety nets partners with non-profit organizations to enhance the reach and effectiveness of energy assistance programs.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "contributes_to",
         "Object": "social equity",
         "Description": "Energy safety nets contributes to social equity by ensuring access to affordable and reliable energy services for all individuals and communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "monitors",
         "Object": "energy affordability indicators",
         "Description": "Energy safety nets monitors energy affordability indicators to assess the effectiveness of its programs and policies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "targets",
         "Object": "energy vulnerable populations",
         "Description": "Energy safety nets targets energy vulnerable populations to provide them with targeted support and assistance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy safety nets"
       },
       {
         "Relation": "addresses",
         "Object": "energy access barriers",
         "Description": "Energy safety nets addresses energy access barriers faced by disadvantaged communities through targeted interventions and programs.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy safety nets"
+      },
       {
         "Subject": "energy poverty indices",
         "Relation": "implements",
@@ -97,9 +226,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "blue economy",
     "Description": "The sustainable use of ocean resources for economic growth, improved livelihoods, and jobs while preserving the health of the ocean ecosystem.",
     "Category": "Economic",
     "Tags": [
@@ -13,72 +12,263 @@
     "Importance": 3.0,
     "Synonyms": [
       "green economy"
-    ]
+    ],
+    "Entity Title": "Blue Economy",
+    "Entity Code": "blue economy"
   },
   "knowledge graph": {
     "entities": [
-      "offshore renewable energy",
-      "ocean conservation projects",
-      "sustainable aquaculture",
-      "marine research institutions",
-      "climate change mitigation",
-      "ocean pollution",
-      "sustainable fisheries",
-      "coastal communities"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Coastal Communities",
+        "Entity Code": "coastal communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "wave energy"
+        ],
+        "Entity Title": "Wind Energy",
+        "Entity Code": "wind energy"
+      },
+      {
+        "Entity Title": "Sustainable Aquaculture",
+        "Entity Code": "sustainable aquaculture",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Ocean Pollution",
+        "Entity Code": "ocean pollution",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Marine Research Institutions",
+        "Entity Code": "marine research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Marine Environment",
+        "Entity Code": "marine environment",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Assessments of the environmental impact of projects",
+        "Category": "Policy",
+        "Tags": [
+          "Environmental Impact",
+          "Assessments"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "environmental impact",
+          "environmental impact assessment process",
+          "environmental assessment"
+        ],
+        "Entity Title": "Environmental Impact Assessments",
+        "Entity Code": "environmental impact assessments"
+      },
+      {
+        "Entity Title": "Environmental Experts",
+        "Entity Code": "environmental experts",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      },
+      {
+        "Entity Title": "Ocean Conservation Projects",
+        "Entity Code": "ocean conservation projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Fisheries",
+        "Entity Code": "sustainable fisheries",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable fisheries",
         "Description": "The blue economy implements sustainable fisheries practices to ensure the long-term health and productivity of marine ecosystems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blue economy"
       },
       {
         "Relation": "funds",
         "Object": "ocean conservation projects",
         "Description": "The blue economy funds various ocean conservation projects to protect marine biodiversity and ecosystems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blue economy"
       },
       {
         "Relation": "focuses_on",
         "Object": "offshore renewable energy",
         "Description": "The blue economy focuses on the development and utilization of marine renewable energy sources to reduce reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blue economy"
       },
       {
         "Relation": "in",
         "Object": "coastal communities",
         "Description": "The blue economy operates in coastal communities, supporting sustainable economic activities that benefit both the environment and local populations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blue economy"
       },
       {
         "Relation": "partners_with",
         "Object": "marine research institutions",
         "Description": "The blue economy partners with marine research institutions to promote scientific knowledge and innovation in sustainable ocean management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blue economy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "The blue economy contributes to climate change mitigation efforts by promoting sustainable practices that reduce greenhouse gas emissions from marine activities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blue economy"
       },
       {
         "Relation": "monitors",
         "Object": "ocean pollution",
         "Description": "The blue economy monitors ocean pollution levels to identify sources and implement measures to reduce contamination and protect marine ecosystems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blue economy"
       },
       {
         "Relation": "targets",
         "Object": "sustainable aquaculture",
         "Description": "The blue economy targets the development of sustainable aquaculture practices to ensure the responsible production of seafood without harming the environment.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "blue economy"
+      },
       {
         "Subject": "offshore renewable energy",
         "Relation": "implements",
@@ -134,9 +324,7 @@
         "Object": "renewable energy agencies",
         "Description": "Offshore renewable energy targets increased renewable energy generation to meet sustainable energy goals and reduce reliance on non-renewable sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "wind energy",
         "Relation": "implements",

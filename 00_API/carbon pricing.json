@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "carbon pricing",
     "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
     "Category": "Policy",
     "Tags": [
@@ -14,18 +13,178 @@
     "Synonyms": [
       "carbon footprint",
       "carbon pricing mechanisms"
-    ]
+    ],
+    "Entity Title": "Carbon Pricing",
+    "Entity Code": "carbon pricing"
   },
   "knowledge graph": {
     "entities": [
-      "high carbon intensity industries",
-      "energy efficiency",
-      "sustainable development goals",
-      "climate change mitigation",
-      "emission reduction",
-      "carbon market",
-      "renewable energy agencies",
-      "private sector"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "High Carbon Intensity Industries",
+        "Entity Code": "high carbon intensity industries",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Emission Reduction",
+        "Entity Code": "emission reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Carbon Market",
+        "Entity Code": "carbon market",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Private Sector",
+        "Entity Code": "private sector",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Emissions Reduction",
+          "Market Mechanism"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "carbon footprint",
+          "carbon pricing mechanisms"
+        ],
+        "Entity Title": "Carbon Pricing",
+        "Entity Code": "carbon pricing"
+      }
     ],
     "sub-elements": [
       "carbon tax",
@@ -34,94 +193,63 @@
       "offsets",
       "revenue recycling"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "carbon tax",
-        "Relation": "is a sub-element of",
-        "Parent": "carbon pricing",
-        "Description": "A carbon tax is a form of carbon pricing where a fee is imposed on the carbon content of fossil fuels. It is designed to reduce greenhouse gas emissions by making fossil fuels more expensive and encouraging the use of cleaner alternatives.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "cap and trade",
-        "Relation": "is a sub-element of",
-        "Parent": "carbon pricing",
-        "Description": "Cap and trade is a market-based approach to carbon pricing. It sets a limit (cap) on the total amount of greenhouse gas emissions allowed and allows companies to buy and sell emission allowances. This creates a financial incentive for companies to reduce their emissions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "emissions trading",
-        "Relation": "is a sub-element of",
-        "Parent": "carbon pricing",
-        "Description": "Emissions trading is another form of market-based carbon pricing. It allows companies to buy and sell emission permits or credits. Companies that can reduce emissions at a lower cost can sell their excess permits to companies that face higher costs.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "offsets",
-        "Relation": "is a sub-element of",
-        "Parent": "carbon pricing",
-        "Description": "Offsets are a mechanism used in carbon pricing to compensate for emissions by investing in projects that reduce or remove greenhouse gas emissions. These projects can include reforestation, renewable energy, or energy efficiency initiatives.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "revenue recycling",
-        "Relation": "is a sub-element of",
-        "Parent": "carbon pricing",
-        "Description": "Revenue recycling refers to the use of the revenue generated from carbon pricing mechanisms. It can be used to fund renewable energy projects, support low-income households, or invest in climate adaptation and mitigation measures.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Carbon pricing implements energy efficiency policies that incentivize the reduction of greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Carbon pricing funds renewable energy projects that aim to increase the share of clean energy in the energy mix.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "focuses_on",
         "Object": "emission reduction",
         "Description": "Carbon pricing focuses on emission reduction strategies to mitigate climate change.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "in",
         "Object": "climate change mitigation",
         "Description": "Carbon pricing plays a role in climate change mitigation efforts by incentivizing the reduction of greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector",
         "Description": "Carbon pricing partners with the private sector to promote sustainable business practices and investments in clean technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "Carbon pricing contributes to the achievement of sustainable development goals by promoting clean energy and reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "monitors",
         "Object": "carbon market",
         "Description": "Carbon pricing monitors the carbon market to ensure the effectiveness and integrity of emissions trading systems.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "carbon pricing"
       },
       {
         "Relation": "targets",
         "Object": "high carbon intensity industries",
         "Description": "Carbon pricing targets high carbon intensity industries to encourage emission reductions and transition to cleaner technologies.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "carbon pricing"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -149,9 +277,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -179,6 +305,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A carbon tax is a form of carbon pricing where a fee is imposed on the carbon content of fossil fuels. It is designed to reduce greenhouse gas emissions by making fossil fuels more expensive and encouraging the use of cleaner alternatives.",
+        "Importance": 4,
+        "Subject": "carbon tax",
+        "Object": "carbon pricing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cap and trade is a market-based approach to carbon pricing. It sets a limit (cap) on the total amount of greenhouse gas emissions allowed and allows companies to buy and sell emission allowances. This creates a financial incentive for companies to reduce their emissions.",
+        "Importance": 4,
+        "Subject": "cap and trade",
+        "Object": "carbon pricing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Emissions trading is another form of market-based carbon pricing. It allows companies to buy and sell emission permits or credits. Companies that can reduce emissions at a lower cost can sell their excess permits to companies that face higher costs.",
+        "Importance": 3,
+        "Subject": "emissions trading",
+        "Object": "carbon pricing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Offsets are a mechanism used in carbon pricing to compensate for emissions by investing in projects that reduce or remove greenhouse gas emissions. These projects can include reforestation, renewable energy, or energy efficiency initiatives.",
+        "Importance": 3,
+        "Subject": "offsets",
+        "Object": "carbon pricing"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Revenue recycling refers to the use of the revenue generated from carbon pricing mechanisms. It can be used to fund renewable energy projects, support low-income households, or invest in climate adaptation and mitigation measures.",
+        "Importance": 2,
+        "Subject": "revenue recycling",
+        "Object": "carbon pricing"
       }
     ]
   }

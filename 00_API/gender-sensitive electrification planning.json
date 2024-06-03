@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "gender-sensitive electrification planning",
     "Description": "Summary of gender-sensitive electrification planning.",
     "Category": "Policy",
     "Tags": [
@@ -11,18 +10,169 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Gender-sensitive Electrification Planning",
+    "Entity Code": "gender-sensitive electrification planning"
   },
   "knowledge graph": {
     "entities": [
-      "energy markets",
-      "sustainable development goals",
-      "energy consumption",
-      "energy poverty indices",
-      "local ngos",
-      "building standards",
-      "renewable energy agencies",
-      "rural areas"
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Rural Areas",
+        "Entity Code": "rural areas",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of gender-sensitive electrification planning.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Gender-sensitive Electrification Planning",
+        "Entity Code": "gender-sensitive electrification planning"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "gender analysis",
@@ -31,94 +181,63 @@
       "gender-responsive policies",
       "gender-sensitive data collection"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "gender analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "gender-sensitive electrification planning",
-        "Description": "Gender analysis is an essential component of gender-sensitive electrification planning. It involves assessing the different needs, priorities, and roles of women, men, and gender-diverse individuals in relation to energy access and electrification. This analysis helps identify gender-specific barriers and opportunities in the planning process.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "electrification planning",
-        "Relation": "is a sub-element of",
-        "Parent": "gender-sensitive electrification planning",
-        "Description": "Electrification planning is a key aspect of gender-sensitive electrification planning. It involves the development of strategies, policies, and actions to ensure equitable and sustainable access to electricity for all, taking into account the specific needs and priorities of different gender groups.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender mainstreaming",
-        "Relation": "is a sub-element of",
-        "Parent": "gender-sensitive electrification planning",
-        "Description": "Gender mainstreaming is an important principle in gender-sensitive electrification planning. It involves integrating gender perspectives and considerations into all stages of the planning process, from data collection and analysis to policy development and implementation. This ensures that gender equality and women's empowerment are central to the electrification agenda.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive policies",
-        "Relation": "is a sub-element of",
-        "Parent": "gender-sensitive electrification planning",
-        "Description": "Gender-responsive policies are crucial in gender-sensitive electrification planning. These policies aim to address the specific needs and priorities of women, men, and gender-diverse individuals in relation to energy access and electrification. They promote gender equality, social inclusion, and sustainable development in the energy sector.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-sensitive data collection",
-        "Relation": "is a sub-element of",
-        "Parent": "gender-sensitive electrification planning",
-        "Description": "Gender-sensitive data collection is a foundational element of gender-sensitive electrification planning. It involves gathering sex-disaggregated data and other gender-related information to understand the different energy needs, preferences, and behaviors of women, men, and gender-diverse individuals. This data helps inform evidence-based decision-making and targeted interventions.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Gender-sensitive electrification planning implements building standards that promote gender equality in energy access and usage.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Gender-sensitive electrification planning funds renewable energy projects that aim to provide clean and sustainable energy to communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "Gender-sensitive electrification planning focuses on improving energy access for marginalized and underserved communities, particularly women and girls.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "in",
         "Object": "rural areas",
         "Description": "Gender-sensitive electrification planning is implemented in rural areas to address the energy needs of rural communities, with a focus on gender equality.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "partners_with",
         "Object": "local ngos",
         "Description": "Gender-sensitive electrification planning partners with local NGOs to ensure community engagement and participation in energy planning and implementation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "Gender-sensitive electrification planning contributes to the achievement of Sustainable Development Goals, particularly Goal 7: Affordable and Clean Energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Gender-sensitive electrification planning monitors energy consumption patterns to identify areas for improvement and optimize energy efficiency.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "gender-sensitive electrification planning"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "Gender-sensitive electrification planning targets the reduction of energy poverty by ensuring equitable access to affordable and reliable energy services.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "gender-sensitive electrification planning"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -160,9 +279,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -190,6 +307,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender analysis is an essential component of gender-sensitive electrification planning. It involves assessing the different needs, priorities, and roles of women, men, and gender-diverse individuals in relation to energy access and electrification. This analysis helps identify gender-specific barriers and opportunities in the planning process.",
+        "Importance": 4,
+        "Subject": "gender analysis",
+        "Object": "gender-sensitive electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Electrification planning is a key aspect of gender-sensitive electrification planning. It involves the development of strategies, policies, and actions to ensure equitable and sustainable access to electricity for all, taking into account the specific needs and priorities of different gender groups.",
+        "Importance": 4,
+        "Subject": "electrification planning",
+        "Object": "gender-sensitive electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender mainstreaming is an important principle in gender-sensitive electrification planning. It involves integrating gender perspectives and considerations into all stages of the planning process, from data collection and analysis to policy development and implementation. This ensures that gender equality and women's empowerment are central to the electrification agenda.",
+        "Importance": 4,
+        "Subject": "gender mainstreaming",
+        "Object": "gender-sensitive electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive policies are crucial in gender-sensitive electrification planning. These policies aim to address the specific needs and priorities of women, men, and gender-diverse individuals in relation to energy access and electrification. They promote gender equality, social inclusion, and sustainable development in the energy sector.",
+        "Importance": 4,
+        "Subject": "gender-responsive policies",
+        "Object": "gender-sensitive electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-sensitive data collection is a foundational element of gender-sensitive electrification planning. It involves gathering sex-disaggregated data and other gender-related information to understand the different energy needs, preferences, and behaviors of women, men, and gender-diverse individuals. This data helps inform evidence-based decision-making and targeted interventions.",
+        "Importance": 4,
+        "Subject": "gender-sensitive data collection",
+        "Object": "gender-sensitive electrification planning"
       }
     ]
   }

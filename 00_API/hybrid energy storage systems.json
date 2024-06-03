@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "hybrid energy storage systems",
     "Description": "Systems that combine multiple energy storage technologies to optimize energy storage and release.",
     "Category": "Technology",
     "Tags": [
@@ -12,19 +11,240 @@
     "Importance": 3.0,
     "Synonyms": [
       "energy storage systems"
-    ]
+    ],
+    "Entity Title": "Hybrid Energy Storage Systems",
+    "Entity Code": "hybrid energy storage systems"
   },
   "knowledge graph": {
     "entities": [
-      "smart grid infrastructure",
-      "research and development",
-      "utility companies",
-      "renewable energy certificates",
-      "reducing carbon emissions",
-      "energy consumption",
-      "intermittency of renewable energy",
-      "energy resilience",
-      "energy storage technologies"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Smart Grid Infrastructure",
+        "Entity Code": "smart grid infrastructure",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Storage Technologies",
+        "Entity Code": "energy storage technologies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Access",
+          "Resilience",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microgrid systems",
+          "smart grids"
+        ],
+        "Entity Title": "Micro Grids",
+        "Entity Code": "micro grids"
+      },
+      {
+        "Entity Title": "Utility Companies",
+        "Entity Code": "utility companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Systems that combine multiple energy storage technologies to optimize energy storage and release.",
+        "Category": "Technology",
+        "Tags": [
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy storage systems"
+        ],
+        "Entity Title": "Hybrid Energy Storage Systems",
+        "Entity Code": "hybrid energy storage systems"
+      },
+      {
+        "Entity Title": "Reducing Carbon Emissions",
+        "Entity Code": "reducing carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Environmental",
+          "Crisis"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "disaster resilience",
+          "grid resilience",
+          "energy resilience grants"
+        ],
+        "Entity Title": "Energy Resilience",
+        "Entity Code": "energy resilience"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "batteries",
@@ -33,100 +253,70 @@
       "compressed air energy storage",
       "thermal energy storage"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "hybrid energy storage systems",
-        "Description": "Batteries are a key component of hybrid energy storage systems. They store electrical energy and can be charged and discharged multiple times. Batteries provide a reliable and efficient way to store and release energy in hybrid systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "supercapacitors",
-        "Relation": "is a sub-element of",
-        "Parent": "hybrid energy storage systems",
-        "Description": "Supercapacitors are another important sub-element of hybrid energy storage systems. They store electrical energy in an electric field and can deliver high power outputs. Supercapacitors complement batteries by providing quick bursts of energy during peak demand.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "flywheels",
-        "Relation": "is a sub-element of",
-        "Parent": "hybrid energy storage systems",
-        "Description": "Flywheels are mechanical devices used in hybrid energy storage systems. They store energy in the form of rotational kinetic energy and can deliver high power outputs. Flywheels provide fast response times and are suitable for short-duration energy storage.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "compressed air energy storage",
-        "Relation": "is a sub-element of",
-        "Parent": "hybrid energy storage systems",
-        "Description": "Compressed air energy storage (CAES) is a sub-element of hybrid energy storage systems. It involves compressing air and storing it in underground caverns or tanks. When energy is needed, the compressed air is released and used to generate electricity.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "thermal energy storage",
-        "Relation": "is a sub-element of",
-        "Parent": "hybrid energy storage systems",
-        "Description": "Thermal energy storage is an important sub-element of hybrid energy storage systems. It involves storing heat or cold for later use. Thermal energy storage systems can store excess heat or cold generated from renewable energy sources and release it when needed.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy storage technologies",
         "Description": "Hybrid energy storage systems implement various energy storage technologies to optimize energy usage and improve efficiency.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Hybrid energy storage systems provide funding for research and development of new energy storage technologies and solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy certificates",
         "Description": "Hybrid energy storage systems focus on integrating renewable energy sources into the grid to enhance sustainability and reliability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "in",
         "Object": "smart grid infrastructure",
         "Description": "Hybrid energy storage systems play a crucial role in the implementation of smart grid infrastructure for efficient energy management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "partners_with",
         "Object": "utility companies",
         "Description": "Hybrid energy storage systems collaborate and partner with utility companies to enhance grid stability and support renewable energy integration.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy resilience",
         "Description": "Hybrid energy storage systems contribute to grid resilience by providing backup power and stabilizing the grid during peak demand periods.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Hybrid energy storage systems monitor energy consumption patterns to optimize energy usage and identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "targets",
         "Object": "reducing carbon emissions",
         "Description": "Hybrid energy storage systems target the reduction of carbon emissions by enabling the integration of renewable energy sources and reducing reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
       },
       {
         "Relation": "addresses",
         "Object": "intermittency of renewable energy",
         "Description": "Hybrid energy storage systems address the intermittency of renewable energy sources by storing excess energy and providing a stable power supply.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "hybrid energy storage systems"
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",
@@ -154,9 +344,7 @@
         "Object": "micro grids",
         "Description": "Energy resilience employs microgrid systems to enhance the resilience and reliability of energy infrastructure.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -184,6 +372,41 @@
         "Object": "energy markets",
         "Description": "Micro grids address energy access challenges by providing electricity to remote and underserved areas.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Batteries are a key component of hybrid energy storage systems. They store electrical energy and can be charged and discharged multiple times. Batteries provide a reliable and efficient way to store and release energy in hybrid systems.",
+        "Importance": 4,
+        "Subject": "batteries",
+        "Object": "hybrid energy storage systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Supercapacitors are another important sub-element of hybrid energy storage systems. They store electrical energy in an electric field and can deliver high power outputs. Supercapacitors complement batteries by providing quick bursts of energy during peak demand.",
+        "Importance": 3,
+        "Subject": "supercapacitors",
+        "Object": "hybrid energy storage systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Flywheels are mechanical devices used in hybrid energy storage systems. They store energy in the form of rotational kinetic energy and can deliver high power outputs. Flywheels provide fast response times and are suitable for short-duration energy storage.",
+        "Importance": 3,
+        "Subject": "flywheels",
+        "Object": "hybrid energy storage systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Compressed air energy storage (CAES) is a sub-element of hybrid energy storage systems. It involves compressing air and storing it in underground caverns or tanks. When energy is needed, the compressed air is released and used to generate electricity.",
+        "Importance": 2,
+        "Subject": "compressed air energy storage",
+        "Object": "hybrid energy storage systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Thermal energy storage is an important sub-element of hybrid energy storage systems. It involves storing heat or cold for later use. Thermal energy storage systems can store excess heat or cold generated from renewable energy sources and release it when needed.",
+        "Importance": 2,
+        "Subject": "thermal energy storage",
+        "Object": "hybrid energy storage systems"
       }
     ]
   }

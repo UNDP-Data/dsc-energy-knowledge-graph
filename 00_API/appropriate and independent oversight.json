@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "appropriate and independent oversight",
     "Description": "Appropriate and independent oversight refers to the establishment of mechanisms or institutions that ensure accountability, transparency, and effective governance in various sectors, including the energy sector.",
     "Category": "Policy",
     "Tags": [
@@ -11,43 +10,158 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Appropriate and Independent Oversight",
+    "Entity Code": "appropriate and independent oversight"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "partners",
-      "energy forecasting"
+      {
+        "Description": "Energy forecasting is the process of estimating future energy demand, supply, and prices based on various factors such as population growth, economic development, technological advancements, and policy changes.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Demand",
+          "Energy Supply",
+          "Energy Prices"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Forecasting",
+        "Entity Code": "energy forecasting"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Partners",
+        "Entity Code": "partners",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Appropriate and independent oversight implements Energy Efficiency Policy to ensure its effective implementation and enforcement.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "appropriate and independent oversight"
       },
       {
         "Relation": "monitors",
         "Object": "energy forecasting",
         "Description": "Appropriate and independent oversight monitors Energy Forecasting to ensure accurate and reliable energy predictions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "appropriate and independent oversight"
       },
       {
         "Relation": "collaborates_with",
         "Object": "partners",
         "Description": "Appropriate and independent oversight collaborates with various partners to enhance the effectiveness of sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "appropriate and independent oversight"
       },
       {
         "Relation": "supports",
         "Object": "energy efficiency",
         "Description": "Appropriate and independent oversight supports the implementation of energy efficiency measures to reduce energy consumption and promote sustainability.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "appropriate and independent oversight"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -68,9 +182,7 @@
         "Object": "renewable energy certificates",
         "Description": "Energy forecasting supports the integration of renewable energy sources by providing accurate predictions and forecasts.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

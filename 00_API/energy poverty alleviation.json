@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy poverty alleviation",
     "Description": "Efforts to address and alleviate energy poverty in underserved communities.",
     "Category": "Social",
     "Tags": [
@@ -10,19 +9,207 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Poverty Alleviation",
+    "Entity Code": "energy poverty alleviation"
   },
   "knowledge graph": {
     "entities": [
-      "energy and health",
-      "non-profit organizations",
-      "energy efficiency",
-      "energy markets",
-      "climate change mitigation",
-      "energy consumption",
-      "developing countries",
-      "renewable energy initiatives",
-      "sustainable energy projects"
+      {
+        "Entity Title": "Renewable Energy Initiatives",
+        "Entity Code": "renewable energy initiatives",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Developing Countries",
+        "Entity Code": "developing countries",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Non-profit Organizations",
+        "Entity Code": "non-profit organizations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Efforts to address and alleviate energy poverty in underserved communities.",
+        "Category": "Social",
+        "Tags": [
+          "Energy Access",
+          "Energy Equity"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Poverty Alleviation",
+        "Entity Code": "energy poverty alleviation"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      }
     ],
     "sub-elements": [
       "access to modern energy services",
@@ -31,100 +218,70 @@
       "financial inclusion",
       "capacity building"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "access to modern energy services",
-        "Relation": "is a sub-element of",
-        "Parent": "energy poverty alleviation",
-        "Description": "Access to modern energy services is a key aspect of energy poverty alleviation. It involves providing reliable and affordable access to electricity and clean cooking solutions to communities that currently lack access. This helps improve their quality of life, health, education, and economic opportunities.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency",
-        "Relation": "is a sub-element of",
-        "Parent": "energy poverty alleviation",
-        "Description": "Energy efficiency is an important sub-element of energy poverty alleviation. It focuses on reducing energy consumption and improving energy productivity in order to meet energy needs more sustainably. This can be achieved through measures such as energy-efficient appliances, building insulation, and efficient industrial processes.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "renewable energy solutions",
-        "Relation": "is a sub-element of",
-        "Parent": "energy poverty alleviation",
-        "Description": "Renewable energy solutions play a crucial role in energy poverty alleviation. They involve the use of clean and sustainable energy sources such as solar, wind, hydro, and biomass to meet energy needs. By promoting the adoption of renewable energy technologies, communities can reduce their reliance on fossil fuels and improve energy access.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "financial inclusion",
-        "Relation": "is a sub-element of",
-        "Parent": "energy poverty alleviation",
-        "Description": "Financial inclusion is an important sub-element of energy poverty alleviation. It involves ensuring that individuals and communities have access to affordable financial services, such as microfinance and mobile banking, to support their energy-related needs. By improving financial inclusion, barriers to accessing clean energy solutions can be overcome.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "capacity building",
-        "Relation": "is a sub-element of",
-        "Parent": "energy poverty alleviation",
-        "Description": "Capacity building is a critical sub-element of energy poverty alleviation. It focuses on enhancing the knowledge, skills, and capabilities of individuals and organizations involved in the energy sector. By providing training and education, capacity building initiatives can empower communities to develop and implement sustainable energy solutions.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy projects",
         "Description": "Energy poverty alleviation implements sustainable energy projects to provide access to clean and affordable energy for marginalized communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy initiatives",
         "Description": "Energy poverty alleviation funds renewable energy initiatives to support the transition towards sustainable and clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "Energy poverty alleviation focuses on improving energy access for disadvantaged populations to reduce energy poverty.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "in",
         "Object": "developing countries",
         "Description": "Energy poverty alleviation operates in developing countries where energy poverty is prevalent and in need of urgent attention.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "partners_with",
         "Object": "non-profit organizations",
         "Description": "Energy poverty alleviation partners with non-profit organizations to leverage resources and expertise in implementing sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Energy poverty alleviation contributes to climate change mitigation by promoting the use of clean and renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy poverty alleviation monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Energy poverty alleviation targets energy efficiency measures to reduce energy waste and improve the overall energy performance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy poverty alleviation"
       },
       {
         "Relation": "addresses",
         "Object": "energy and health",
         "Description": "Energy poverty alleviation addresses energy inequality by promoting equal access to clean and affordable energy for all individuals.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy poverty alleviation"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -166,9 +323,7 @@
         "Object": "offshore renewable energy",
         "Description": "Energy and health funds research on renewable energy to promote sustainable and clean energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -196,6 +351,41 @@
         "Object": "intermittency of renewable energy",
         "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Access to modern energy services is a key aspect of energy poverty alleviation. It involves providing reliable and affordable access to electricity and clean cooking solutions to communities that currently lack access. This helps improve their quality of life, health, education, and economic opportunities.",
+        "Importance": 4,
+        "Subject": "access to modern energy services",
+        "Object": "energy poverty alleviation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency is an important sub-element of energy poverty alleviation. It focuses on reducing energy consumption and improving energy productivity in order to meet energy needs more sustainably. This can be achieved through measures such as energy-efficient appliances, building insulation, and efficient industrial processes.",
+        "Importance": 3,
+        "Subject": "energy efficiency",
+        "Object": "energy poverty alleviation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy solutions play a crucial role in energy poverty alleviation. They involve the use of clean and sustainable energy sources such as solar, wind, hydro, and biomass to meet energy needs. By promoting the adoption of renewable energy technologies, communities can reduce their reliance on fossil fuels and improve energy access.",
+        "Importance": 4,
+        "Subject": "renewable energy solutions",
+        "Object": "energy poverty alleviation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Financial inclusion is an important sub-element of energy poverty alleviation. It involves ensuring that individuals and communities have access to affordable financial services, such as microfinance and mobile banking, to support their energy-related needs. By improving financial inclusion, barriers to accessing clean energy solutions can be overcome.",
+        "Importance": 2,
+        "Subject": "financial inclusion",
+        "Object": "energy poverty alleviation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Capacity building is a critical sub-element of energy poverty alleviation. It focuses on enhancing the knowledge, skills, and capabilities of individuals and organizations involved in the energy sector. By providing training and education, capacity building initiatives can empower communities to develop and implement sustainable energy solutions.",
+        "Importance": 3,
+        "Subject": "capacity building",
+        "Object": "energy poverty alleviation"
       }
     ]
   }

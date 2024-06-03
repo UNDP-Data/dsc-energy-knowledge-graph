@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "bioenergy",
     "Description": "Energy derived from biomass, such as organic materials or agricultural residues, through processes like combustion or fermentation.",
     "Category": "Technology",
     "Tags": [
@@ -12,18 +11,153 @@
     "Dimension": "Intersectionality",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Bioenergy",
+    "Entity Code": "bioenergy"
   },
   "knowledge graph": {
     "entities": [
-      "bioenergy production",
-      "research and development",
-      "sustainable biomass production",
-      "renewable energy certificates",
-      "local communities",
-      "energy efficiency",
-      "climate change mitigation",
-      "rural electrification"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Biomass Production",
+        "Entity Code": "sustainable biomass production",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy derived from biomass, such as organic materials or agricultural residues, through processes like combustion or fermentation.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Bioenergy",
+        "Entity Code": "bioenergy"
+      },
+      {
+        "Entity Title": "Rural Electrification",
+        "Entity Code": "rural electrification",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Entity Title": "Bioenergy Production",
+        "Entity Code": "bioenergy production",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "biomass",
@@ -32,94 +166,63 @@
       "bioelectricity",
       "biochemicals"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "biomass",
-        "Relation": "is a sub-element of",
-        "Parent": "bioenergy",
-        "Description": "Biomass is a sub-component of bioenergy, referring to organic materials such as wood, crops, and agricultural residues that can be used as a renewable energy source. It can be converted into heat, electricity, or biofuels.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "biofuels",
-        "Relation": "is a sub-element of",
-        "Parent": "bioenergy",
-        "Description": "Biofuels are a sub-component of bioenergy, referring to liquid or gaseous fuels derived from biomass. They can be used as a substitute for fossil fuels in transportation and other energy applications.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "biogas",
-        "Relation": "is a sub-element of",
-        "Parent": "bioenergy",
-        "Description": "Biogas is a sub-component of bioenergy, referring to a mixture of gases produced by the anaerobic digestion or fermentation of organic matter. It can be used for heating, electricity generation, and as a vehicle fuel.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "bioelectricity",
-        "Relation": "is a sub-element of",
-        "Parent": "bioenergy",
-        "Description": "Bioelectricity is a sub-component of bioenergy, referring to electricity generated from biomass through processes such as combustion, gasification, or anaerobic digestion. It can contribute to renewable energy generation and reduce greenhouse gas emissions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "biochemicals",
-        "Relation": "is a sub-element of",
-        "Parent": "bioenergy",
-        "Description": "Biochemicals are a sub-component of bioenergy, referring to chemicals produced from biomass through biological processes. They can be used as alternatives to fossil-based chemicals in various industries.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Bioenergy implements the Energy Efficiency Policy by promoting the use of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Bioenergy funds research and development projects to improve the efficiency and sustainability of bioenergy production.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "focuses_on",
         "Object": "sustainable biomass production",
         "Description": "Bioenergy focuses on sustainable biomass production to ensure the availability of renewable feedstock for bioenergy generation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "in",
         "Object": "renewable energy certificates",
         "Description": "Bioenergy plays a role in the renewable energy portfolio by contributing to the overall share of renewable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "partners_with",
         "Object": "local communities",
         "Description": "Bioenergy partners with local communities to promote the sustainable production and use of bioenergy, creating economic opportunities and reducing reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Bioenergy contributes to climate change mitigation by reducing greenhouse gas emissions through the substitution of fossil fuels with renewable bioenergy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "monitors",
         "Object": "bioenergy production",
         "Description": "Bioenergy monitors the production of bioenergy to ensure compliance with sustainability criteria and environmental standards.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "bioenergy"
       },
       {
         "Relation": "targets",
         "Object": "rural electrification",
         "Description": "Bioenergy targets rural electrification by providing decentralized energy solutions through the use of bioenergy technologies.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "bioenergy"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -147,9 +250,7 @@
         "Object": "climate change mitigation",
         "Description": "Renewable energy certificates contribute to climate change mitigation efforts by promoting the use of clean and sustainable energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -177,6 +278,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biomass is a sub-component of bioenergy, referring to organic materials such as wood, crops, and agricultural residues that can be used as a renewable energy source. It can be converted into heat, electricity, or biofuels.",
+        "Importance": 4,
+        "Subject": "biomass",
+        "Object": "bioenergy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biofuels are a sub-component of bioenergy, referring to liquid or gaseous fuels derived from biomass. They can be used as a substitute for fossil fuels in transportation and other energy applications.",
+        "Importance": 4,
+        "Subject": "biofuels",
+        "Object": "bioenergy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biogas is a sub-component of bioenergy, referring to a mixture of gases produced by the anaerobic digestion or fermentation of organic matter. It can be used for heating, electricity generation, and as a vehicle fuel.",
+        "Importance": 3,
+        "Subject": "biogas",
+        "Object": "bioenergy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Bioelectricity is a sub-component of bioenergy, referring to electricity generated from biomass through processes such as combustion, gasification, or anaerobic digestion. It can contribute to renewable energy generation and reduce greenhouse gas emissions.",
+        "Importance": 3,
+        "Subject": "bioelectricity",
+        "Object": "bioenergy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biochemicals are a sub-component of bioenergy, referring to chemicals produced from biomass through biological processes. They can be used as alternatives to fossil-based chemicals in various industries.",
+        "Importance": 2,
+        "Subject": "biochemicals",
+        "Object": "bioenergy"
       }
     ]
   }

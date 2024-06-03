@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "un agencies",
     "Description": "Organizations that are part of the United Nations system and work on various global issues.",
     "Category": "Organization",
     "Tags": [
@@ -11,65 +10,263 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Un Agencies",
+    "Entity Code": "un agencies"
   },
   "knowledge graph": {
     "entities": [
-      "regional energy organizations",
-      "civil society organizations",
-      "energy access programs",
-      "energy efficiency",
-      "sustainable development goals",
-      "climate finance mechanisms",
-      "renewable energy agencies"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Civil Society Organizations",
+        "Entity Code": "civil society organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
+        "Category": "Finance",
+        "Tags": [
+          "Climate Change",
+          "Funding",
+          "Investment"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate finance programs",
+          "climate finance"
+        ],
+        "Entity Title": "Climate Finance Mechanisms",
+        "Entity Code": "climate finance mechanisms"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "UN agencies employ renewable energy experts to provide technical assistance and expertise in promoting sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "un agencies"
       },
       {
         "Relation": "collaborates_with",
         "Object": "civil society organizations",
         "Description": "UN agencies collaborate with civil society organizations to foster partnerships and promote sustainable energy initiatives at the grassroots level.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "un agencies"
       },
       {
         "Relation": "supports",
         "Object": "energy access programs",
         "Description": "UN agencies support energy access programs to ensure that underserved communities have access to clean and affordable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "un agencies"
       },
       {
         "Relation": "administers",
         "Object": "climate finance mechanisms",
         "Description": "UN agencies administer climate finance to support sustainable energy projects and initiatives in developing countries.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "un agencies"
       },
       {
         "Relation": "measures",
         "Object": "energy efficiency",
         "Description": "UN agencies measure the energy efficiency performance of countries and provide recommendations for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "un agencies"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "UN agencies align their efforts in the sustainable energy sector with the Sustainable Development Goals to promote global sustainability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "un agencies"
       },
       {
         "Relation": "an_instance_of",
         "Object": "regional energy organizations",
         "Description": "UN agencies are an instance of international organizations that work towards promoting sustainable energy practices and addressing global challenges.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "un agencies"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -125,9 +322,7 @@
         "Object": "energy markets",
         "Description": "Regional energy organizations focus on improving energy access in underserved areas to ensure equitable distribution of sustainable energy resources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

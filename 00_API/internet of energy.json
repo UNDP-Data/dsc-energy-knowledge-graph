@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "internet of energy",
     "Description": "A network of interconnected devices and systems that enable the efficient management and distribution of energy.",
     "Category": "Technology",
     "Tags": [
@@ -14,72 +13,256 @@
     "Synonyms": [
       "internet of things",
       "net zero energy"
-    ]
+    ],
+    "Entity Title": "Internet of Energy",
+    "Entity Code": "internet of energy"
   },
   "knowledge graph": {
     "entities": [
-      "smart metering technologies",
-      "energy efficiency",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "clean energy companies",
-      "energy access initiative",
-      "renewable energy agencies"
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Clean Energy Companies",
+        "Entity Code": "clean energy companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Initiative",
+        "Entity Code": "energy access initiative",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "The internet of energy implements the Energy Efficiency Policy to promote energy-saving practices and technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "The internet of energy funds various renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "focuses_on",
         "Object": "smart metering technologies",
         "Description": "The internet of energy focuses on the development and implementation of smart grid technology for efficient energy distribution and management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "in",
         "Object": "energy access initiative",
         "Description": "The internet of energy is involved in the Energy Access Initiative to provide affordable and reliable energy access to underserved communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "partners_with",
         "Object": "clean energy companies",
         "Description": "The internet of energy partners with clean energy companies to foster innovation and collaboration in the sustainable energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "The internet of energy contributes to climate change mitigation efforts by promoting the adoption of renewable energy sources and energy-efficient practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "The internet of energy monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "internet of energy"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "The internet of energy targets energy poverty by implementing initiatives to provide affordable and reliable energy access to disadvantaged communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "internet of energy"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -135,9 +318,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

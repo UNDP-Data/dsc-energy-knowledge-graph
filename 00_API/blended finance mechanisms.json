@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "blended finance mechanisms",
     "Description": "Summary of blended finance mechanisms.",
     "Category": "Finance",
     "Tags": [
@@ -11,18 +10,192 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Blended Finance Mechanisms",
+    "Entity Code": "blended finance mechanisms"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable energy sector",
-      "sustainable energy projects",
-      "traditional energy technologies",
-      "energy markets",
-      "climate change mitigation",
-      "renewable energy initiatives",
-      "renewable energy agencies",
-      "private sector organizations"
+      {
+        "Entity Title": "Renewable Energy Initiatives",
+        "Entity Code": "renewable energy initiatives",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Private Sector Organizations",
+        "Entity Code": "private sector organizations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "clean energy technologies",
+          "bioenergy technology"
+        ],
+        "Entity Title": "Traditional Energy Technologies",
+        "Entity Code": "traditional energy technologies"
+      },
+      {
+        "Entity Title": "Sustainable Energy Sector",
+        "Entity Code": "sustainable energy sector",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of blended finance mechanisms.",
+        "Category": "Finance",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Blended Finance Mechanisms",
+        "Entity Code": "blended finance mechanisms"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "concessional finance",
@@ -31,100 +204,70 @@
       "debt-for-nature swaps",
       "impact investing"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "concessional finance",
-        "Relation": "is a sub-element of",
-        "Parent": "blended finance mechanisms",
-        "Description": "Concessional finance is a type of financial support provided at more favorable terms, such as lower interest rates or longer repayment periods, to promote sustainable development projects. It is often used in blended finance mechanisms to attract private sector investment.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "guarantees",
-        "Relation": "is a sub-element of",
-        "Parent": "blended finance mechanisms",
-        "Description": "Guarantees are financial instruments that provide a form of insurance or risk mitigation to investors in blended finance mechanisms. They help reduce the perceived risk of investing in sustainable energy projects, thereby attracting more private sector capital.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "blended finance platforms",
-        "Relation": "is a sub-element of",
-        "Parent": "blended finance mechanisms",
-        "Description": "Blended finance platforms are specialized financial intermediaries that facilitate the structuring and coordination of blended finance transactions. They play a crucial role in mobilizing and channeling funds from different sources to support sustainable energy projects.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "debt-for-nature swaps",
-        "Relation": "is a sub-element of",
-        "Parent": "blended finance mechanisms",
-        "Description": "Debt-for-nature swaps are financial arrangements where a portion of a country's debt is forgiven or restructured in exchange for investments in conservation or sustainable development projects. They are a form of blended finance mechanism that promotes both environmental and economic goals.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "impact investing",
-        "Relation": "is a sub-element of",
-        "Parent": "blended finance mechanisms",
-        "Description": "Impact investing refers to investments made with the intention of generating positive social and environmental impact, alongside financial returns. It is often used as a component of blended finance mechanisms to attract private sector capital for sustainable energy projects.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy projects",
         "Description": "Blended finance mechanisms implement funding for sustainable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy initiatives",
         "Description": "Blended finance mechanisms provide funding for renewable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "focuses_on",
         "Object": "traditional energy technologies",
         "Description": "Blended finance mechanisms focus on supporting the development and deployment of clean energy technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy sector",
         "Description": "Blended finance mechanisms play a role in the sustainable energy sector.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector organizations",
         "Description": "Blended finance mechanisms partner with private sector organizations to promote sustainable energy investments.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy markets",
         "Description": "Blended finance mechanisms contribute to improving energy access in underserved areas.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "monitors",
         "Object": "sustainable energy projects",
         "Description": "Blended finance mechanisms monitor the progress and impact of sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "Blended finance mechanisms target increased deployment of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "blended finance mechanisms"
       },
       {
         "Relation": "addresses",
         "Object": "climate change mitigation",
         "Description": "Blended finance mechanisms address climate change mitigation through investments in sustainable energy.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "blended finance mechanisms"
+      },
       {
         "Subject": "traditional energy technologies",
         "Relation": "implements",
@@ -166,9 +309,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -196,6 +337,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Concessional finance is a type of financial support provided at more favorable terms, such as lower interest rates or longer repayment periods, to promote sustainable development projects. It is often used in blended finance mechanisms to attract private sector investment.",
+        "Importance": 3,
+        "Subject": "concessional finance",
+        "Object": "blended finance mechanisms"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Guarantees are financial instruments that provide a form of insurance or risk mitigation to investors in blended finance mechanisms. They help reduce the perceived risk of investing in sustainable energy projects, thereby attracting more private sector capital.",
+        "Importance": 4,
+        "Subject": "guarantees",
+        "Object": "blended finance mechanisms"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Blended finance platforms are specialized financial intermediaries that facilitate the structuring and coordination of blended finance transactions. They play a crucial role in mobilizing and channeling funds from different sources to support sustainable energy projects.",
+        "Importance": 4,
+        "Subject": "blended finance platforms",
+        "Object": "blended finance mechanisms"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Debt-for-nature swaps are financial arrangements where a portion of a country's debt is forgiven or restructured in exchange for investments in conservation or sustainable development projects. They are a form of blended finance mechanism that promotes both environmental and economic goals.",
+        "Importance": 3,
+        "Subject": "debt-for-nature swaps",
+        "Object": "blended finance mechanisms"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Impact investing refers to investments made with the intention of generating positive social and environmental impact, alongside financial returns. It is often used as a component of blended finance mechanisms to attract private sector capital for sustainable energy projects.",
+        "Importance": 4,
+        "Subject": "impact investing",
+        "Object": "blended finance mechanisms"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Load forecasting and demand-side management",
     "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
     "Category": "Strategy",
     "Tags": [
@@ -11,96 +10,244 @@
     "Dimension": "Strategy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Load Forecasting and Demand-side Management",
+    "Entity Code": "load forecasting and demand-side management"
   },
   "knowledge graph": {
     "entities": [
-      "peak demand",
-      "utility companies",
-      "energy efficiency",
-      "energy consumption",
-      "grid stability",
-      "building standards",
-      "renewable energy agencies",
-      "energy consumption patterns"
+      {
+        "Entity Title": "Grid Stability",
+        "Entity Code": "grid stability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Peak Demand",
+        "Entity Code": "peak demand",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Utility Companies",
+        "Entity Code": "utility companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
+        "Category": "Strategy",
+        "Tags": [
+          "Energy Management",
+          "Demand Response",
+          "Smart Grid"
+        ],
+        "Dimension": "Strategy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Load Forecasting and Demand-side Management",
+        "Entity Code": "load forecasting and demand-side management"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "Load forecasting",
       "Demand-side management"
-    ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Load forecasting",
-        "Relation": "is a sub-element of",
-        "Parent": "Load forecasting and demand-side management",
-        "Description": "Load forecasting is a technique used to predict the future electricity demand based on historical data and other relevant factors. It helps in optimizing the generation, transmission, and distribution of electricity, leading to more efficient and sustainable energy systems.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Demand-side management",
-        "Relation": "is a sub-element of",
-        "Parent": "Load forecasting and demand-side management",
-        "Description": "Demand-side management refers to the strategies and measures implemented to modify consumer electricity usage patterns. It aims to reduce peak demand, shift load to off-peak periods, and encourage energy efficiency and conservation. By actively managing the demand, it helps in balancing the electricity grid and promoting sustainable energy consumption.",
-        "Importance": 4
-      }
     ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Load forecasting and demand-side management implements building standards that promote energy efficiency and conservation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Load forecasting and demand-side management funds renewable energy projects to support the transition to clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy consumption patterns",
         "Description": "Load forecasting and demand-side management focuses on analyzing energy consumption patterns to optimize energy usage.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "in",
         "Object": "energy efficiency",
         "Description": "Load forecasting and demand-side management is implemented in energy efficiency programs to reduce energy waste.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "partners_with",
         "Object": "utility companies",
         "Description": "Load forecasting and demand-side management partners with utility companies to coordinate energy demand and supply.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "contributes_to",
         "Object": "grid stability",
         "Description": "Load forecasting and demand-side management contributes to grid stability by managing and balancing energy demand.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Load forecasting and demand-side management monitors energy consumption to identify trends and patterns.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Load forecasting and demand-side management targets energy efficiency by optimizing energy usage and reducing waste.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "addresses",
         "Object": "peak demand",
         "Description": "Load forecasting and demand-side management addresses peak demand by managing and reducing energy usage during high-demand periods.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -128,9 +275,7 @@
         "Object": "energy markets",
         "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -158,6 +303,20 @@
         "Object": "energy efficiency",
         "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Load forecasting is a technique used to predict the future electricity demand based on historical data and other relevant factors. It helps in optimizing the generation, transmission, and distribution of electricity, leading to more efficient and sustainable energy systems.",
+        "Importance": 3,
+        "Subject": "load forecasting",
+        "Object": "load forecasting and demand-side management"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand-side management refers to the strategies and measures implemented to modify consumer electricity usage patterns. It aims to reduce peak demand, shift load to off-peak periods, and encourage energy efficiency and conservation. By actively managing the demand, it helps in balancing the electricity grid and promoting sustainable energy consumption.",
+        "Importance": 4,
+        "Subject": "demand-side management",
+        "Object": "load forecasting and demand-side management"
       }
     ]
   }

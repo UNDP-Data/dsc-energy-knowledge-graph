@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "wind energy",
     "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
     "Category": "Technology",
     "Tags": [
@@ -14,18 +13,178 @@
     "Importance": 4.0,
     "Synonyms": [
       "wave energy"
-    ]
+    ],
+    "Entity Title": "Wind Energy",
+    "Entity Code": "wind energy"
   },
   "knowledge graph": {
     "entities": [
-      "wind turbine performance",
-      "research and development",
-      "grid operators",
-      "energy efficiency",
-      "offshore wind development",
-      "climate change mitigation",
-      "renewable energy agencies",
-      "wind farms"
+      {
+        "Entity Title": "Offshore Wind Development",
+        "Entity Code": "offshore wind development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Wind Farms",
+        "Entity Code": "wind farms",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Wind Turbine Performance",
+        "Entity Code": "wind turbine performance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "wave energy"
+        ],
+        "Entity Title": "Wind Energy",
+        "Entity Code": "wind energy"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Grid Operators",
+        "Entity Code": "grid operators",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "wind turbines",
@@ -34,94 +193,63 @@
       "wind resources",
       "wind speed"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "wind turbines",
-        "Relation": "is a sub-element of",
-        "Parent": "wind energy",
-        "Description": "Wind turbines are devices that convert the kinetic energy of the wind into mechanical energy, which can then be used to generate electricity. They are a key component of wind energy systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wind farms",
-        "Relation": "is a sub-element of",
-        "Parent": "wind energy",
-        "Description": "Wind farms are large areas of land or water where multiple wind turbines are installed to generate electricity on a larger scale. They are an important infrastructure for harnessing wind energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wind power",
-        "Relation": "is a sub-element of",
-        "Parent": "wind energy",
-        "Description": "Wind power refers to the conversion of wind energy into a useful form, such as electricity or mechanical power. It is a sustainable and renewable source of energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wind resources",
-        "Relation": "is a sub-element of",
-        "Parent": "wind energy",
-        "Description": "Wind resources refer to the availability and potential of wind energy in a particular area. Factors such as wind speed, direction, and consistency determine the suitability of a location for wind energy projects.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "wind speed",
-        "Relation": "is a sub-element of",
-        "Parent": "wind energy",
-        "Description": "Wind speed is a crucial parameter for wind energy generation. Higher wind speeds result in greater power output from wind turbines. It is measured using anemometers.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Wind energy implements Energy Efficiency Policy by promoting the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "wind energy"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Wind energy funds Research and Development to improve wind turbine efficiency and develop new technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "wind energy"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Wind energy focuses on Renewable Energy Sources as a sustainable and clean energy solution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "wind energy"
       },
       {
         "Relation": "in",
         "Object": "wind farms",
         "Description": "Wind energy is used in Wind Farms to generate electricity from wind power.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "wind energy"
       },
       {
         "Relation": "partners_with",
         "Object": "grid operators",
         "Description": "Wind energy partners with Grid Operators to ensure efficient integration of wind power into the electricity grid.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "wind energy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Wind energy contributes to Climate Change Mitigation by reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "wind energy"
       },
       {
         "Relation": "monitors",
         "Object": "wind turbine performance",
         "Description": "Wind energy monitors the performance of wind turbines to ensure optimal efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "wind energy"
       },
       {
         "Relation": "targets",
         "Object": "offshore wind development",
         "Description": "Wind energy targets Offshore Wind Development to harness the potential of wind resources in coastal areas.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "wind energy"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -149,9 +277,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -179,6 +305,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind turbines are devices that convert the kinetic energy of the wind into mechanical energy, which can then be used to generate electricity. They are a key component of wind energy systems.",
+        "Importance": 4,
+        "Subject": "wind turbines",
+        "Object": "wind energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind farms are large areas of land or water where multiple wind turbines are installed to generate electricity on a larger scale. They are an important infrastructure for harnessing wind energy.",
+        "Importance": 4,
+        "Subject": "wind farms",
+        "Object": "wind energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind power refers to the conversion of wind energy into a useful form, such as electricity or mechanical power. It is a sustainable and renewable source of energy.",
+        "Importance": 4,
+        "Subject": "wind power",
+        "Object": "wind energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind resources refer to the availability and potential of wind energy in a particular area. Factors such as wind speed, direction, and consistency determine the suitability of a location for wind energy projects.",
+        "Importance": 3,
+        "Subject": "wind resources",
+        "Object": "wind energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind speed is a crucial parameter for wind energy generation. Higher wind speeds result in greater power output from wind turbines. It is measured using anemometers.",
+        "Importance": 3,
+        "Subject": "wind speed",
+        "Object": "wind energy"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy for smallholder farmers",
     "Description": "Access to affordable and sustainable energy solutions for smallholder farmers to improve agricultural productivity and livelihoods.",
     "Category": "Social",
     "Tags": [
@@ -13,19 +12,197 @@
     "Importance": 3.0,
     "Synonyms": [
       "smallholder farmers"
-    ]
+    ],
+    "Entity Title": "Energy for Smallholder Farmers",
+    "Entity Code": "energy for smallholder farmers"
   },
   "knowledge graph": {
     "entities": [
-      "solar energy",
-      "food security",
-      "climate change",
-      "energy consumption",
-      "energy poverty indices",
-      "local ngos",
-      "building standards",
-      "renewable energy agencies",
-      "rural areas"
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Rural Areas",
+        "Entity Code": "rural areas",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy derived from the sun's radiation and converted into usable forms such as electricity or heat.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "ocean energy"
+        ],
+        "Entity Title": "Solar Energy",
+        "Entity Code": "solar energy"
+      },
+      {
+        "Description": "Access to affordable and sustainable energy solutions for smallholder farmers to improve agricultural productivity and livelihoods.",
+        "Category": "Social",
+        "Tags": [
+          "Agriculture",
+          "Rural Development",
+          "Energy Access"
+        ],
+        "Dimension": "Sustainable Development",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smallholder farmers"
+        ],
+        "Entity Title": "Energy for Smallholder Farmers",
+        "Entity Code": "energy for smallholder farmers"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Food Security",
+        "Entity Code": "food security",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change",
+        "Entity Code": "climate change",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "solar-powered irrigation systems",
@@ -34,100 +211,70 @@
       "off-grid solar systems",
       "micro-hydro power systems"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "solar-powered irrigation systems",
-        "Relation": "is a sub-element of",
-        "Parent": "energy for smallholder farmers",
-        "Description": "Solar-powered irrigation systems are a sub-component of energy for smallholder farmers. These systems use solar energy to power water pumps, allowing farmers to efficiently irrigate their crops and increase agricultural productivity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "biogas digesters",
-        "Relation": "is a sub-element of",
-        "Parent": "energy for smallholder farmers",
-        "Description": "Biogas digesters are a type of energy technology used by smallholder farmers. These digesters convert organic waste into biogas, which can be used for cooking, heating, and generating electricity, providing a sustainable energy solution for farmers.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy-efficient cooking stoves",
-        "Relation": "is a sub-element of",
-        "Parent": "energy for smallholder farmers",
-        "Description": "Energy-efficient cooking stoves are a sub-component of energy for smallholder farmers. These stoves are designed to minimize fuel consumption and reduce indoor air pollution, improving the cooking conditions for farmers and their families.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "off-grid solar systems",
-        "Relation": "is a sub-element of",
-        "Parent": "energy for smallholder farmers",
-        "Description": "Off-grid solar systems are a type of energy solution for smallholder farmers. These systems provide electricity to remote areas without access to the grid, enabling farmers to power their agricultural activities and improve their livelihoods.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "micro-hydro power systems",
-        "Relation": "is a sub-element of",
-        "Parent": "energy for smallholder farmers",
-        "Description": "Micro-hydro power systems are a type of renewable energy technology used by smallholder farmers. These systems harness the power of flowing water to generate electricity, providing a reliable and sustainable energy source for farmers.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Energy for smallholder farmers implements building standards that promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Energy for smallholder farmers funds renewable energy projects to provide sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "focuses_on",
         "Object": "solar energy",
         "Description": "Energy for smallholder farmers focuses on solar energy as a key source of sustainable energy for agricultural activities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "in",
         "Object": "rural areas",
         "Description": "Energy for smallholder farmers is implemented in rural areas to support agricultural activities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "partners_with",
         "Object": "local ngos",
         "Description": "Energy for smallholder farmers partners with local NGOs to implement sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "contributes_to",
         "Object": "food security",
         "Description": "Energy for smallholder farmers contributes to food security by providing reliable and sustainable energy for agricultural activities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy for smallholder farmers monitors energy consumption to ensure efficient use of resources.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "Energy for smallholder farmers targets energy poverty by providing access to affordable and sustainable energy solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy for smallholder farmers"
       },
       {
         "Relation": "addresses",
         "Object": "climate change",
         "Description": "Energy for smallholder farmers addresses climate change by promoting the use of renewable energy sources.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy for smallholder farmers"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -169,9 +316,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -192,6 +337,41 @@
         "Object": "building standards",
         "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar-powered irrigation systems are a sub-component of energy for smallholder farmers. These systems use solar energy to power water pumps, allowing farmers to efficiently irrigate their crops and increase agricultural productivity.",
+        "Importance": 4,
+        "Subject": "solar-powered irrigation systems",
+        "Object": "energy for smallholder farmers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biogas digesters are a type of energy technology used by smallholder farmers. These digesters convert organic waste into biogas, which can be used for cooking, heating, and generating electricity, providing a sustainable energy solution for farmers.",
+        "Importance": 3,
+        "Subject": "biogas digesters",
+        "Object": "energy for smallholder farmers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy-efficient cooking stoves are a sub-component of energy for smallholder farmers. These stoves are designed to minimize fuel consumption and reduce indoor air pollution, improving the cooking conditions for farmers and their families.",
+        "Importance": 3,
+        "Subject": "energy-efficient cooking stoves",
+        "Object": "energy for smallholder farmers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Off-grid solar systems are a type of energy solution for smallholder farmers. These systems provide electricity to remote areas without access to the grid, enabling farmers to power their agricultural activities and improve their livelihoods.",
+        "Importance": 4,
+        "Subject": "off-grid solar systems",
+        "Object": "energy for smallholder farmers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Micro-hydro power systems are a type of renewable energy technology used by smallholder farmers. These systems harness the power of flowing water to generate electricity, providing a reliable and sustainable energy source for farmers.",
+        "Importance": 4,
+        "Subject": "micro-hydro power systems",
+        "Object": "energy for smallholder farmers"
       }
     ]
   }

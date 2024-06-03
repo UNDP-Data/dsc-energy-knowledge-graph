@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "data governance frameworks",
     "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
     "Category": "Technology",
     "Tags": [
@@ -15,19 +14,143 @@
     "Synonyms": [
       "data governance principles",
       "data governance"
-    ]
+    ],
+    "Entity Title": "Data Governance Frameworks",
+    "Entity Code": "data governance frameworks"
   },
   "knowledge graph": {
     "entities": [
-      "technology companies",
-      "transparency in energy data",
-      "research and development projects",
-      "data interoperability",
-      "data equity",
-      "data privacy and security",
-      "collaboration with energy regulators",
-      "data ethics",
-      "sustainable energy policies"
+      {
+        "Entity Title": "Cybersecurity Research",
+        "Entity Code": "cybersecurity research",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Transparency in Energy Data",
+        "Entity Code": "transparency in energy data",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "data governance principles",
+          "data governance"
+        ],
+        "Entity Title": "Data Governance Frameworks",
+        "Entity Code": "data governance frameworks"
+      },
+      {
+        "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
+        "Category": "Social",
+        "Tags": [
+          "Data Access",
+          "Data Inclusion",
+          "Data Justice"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "data security",
+          "data quality"
+        ],
+        "Entity Title": "Data Equity",
+        "Entity Code": "data equity"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Collaboration with Energy Regulators",
+        "Entity Code": "collaboration with energy regulators",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Technology Companies",
+        "Entity Code": "technology companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Privacy",
+          "Security"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Data Privacy and Security",
+        "Entity Code": "data privacy and security"
+      },
+      {
+        "Entity Title": "Research and Development Projects",
+        "Entity Code": "research and development projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Data Ethics",
+        "Entity Code": "data ethics",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Policies",
+        "Entity Code": "sustainable energy policies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Privacy Regulations",
+        "Entity Code": "privacy regulations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Data Interoperability",
+        "Entity Code": "data interoperability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+        "Category": "Technology",
+        "Tags": [
+          "Artificial Intelligence",
+          "Smart Grids",
+          "Energy Optimization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "AI-SGO",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Ai for Smart Grid Optimization",
+        "Entity Code": "ai for smart grid optimization"
+      }
     ],
     "sub-elements": [
       "data privacy regulations",
@@ -36,100 +159,70 @@
       "data protection measures",
       "data ethics guidelines"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data privacy regulations",
-        "Relation": "is a sub-element of",
-        "Parent": "data governance frameworks",
-        "Description": "Data privacy regulations are an essential component of data governance frameworks. They define the rules and guidelines for handling and protecting personal data, ensuring privacy and data security.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data sharing agreements",
-        "Relation": "is a sub-element of",
-        "Parent": "data governance frameworks",
-        "Description": "Data sharing agreements are an important aspect of data governance frameworks. They establish the terms and conditions for sharing data between different entities, ensuring proper data management and compliance.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data access policies",
-        "Relation": "is a sub-element of",
-        "Parent": "data governance frameworks",
-        "Description": "Data access policies are a key element of data governance frameworks. They define the rules and procedures for accessing and using data, ensuring proper data governance and control.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data protection measures",
-        "Relation": "is a sub-element of",
-        "Parent": "data governance frameworks",
-        "Description": "Data protection measures are crucial components of data governance frameworks. They include security measures, encryption, backup systems, and other mechanisms to safeguard data from unauthorized access, loss, or damage.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data ethics guidelines",
-        "Relation": "is a sub-element of",
-        "Parent": "data governance frameworks",
-        "Description": "Data ethics guidelines are an integral part of data governance frameworks. They provide principles and guidelines for ethical data handling, ensuring responsible and fair use of data.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy policies",
         "Description": "Data governance frameworks implement sustainable energy policies to ensure effective management and utilization of energy data.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "funds",
         "Object": "research and development projects",
         "Description": "Data governance frameworks provide funding for research and development projects related to sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "focuses_on",
         "Object": "data privacy and security",
         "Description": "Data governance frameworks focus on ensuring data privacy and security in the context of sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "in",
         "Object": "collaboration with energy regulators",
         "Description": "Data governance frameworks work in collaboration with energy regulators to ensure compliance with data management standards in the energy sector.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "partners_with",
         "Object": "technology companies",
         "Description": "Data governance frameworks partner with technology companies to develop innovative solutions for sustainable energy data management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "contributes_to",
         "Object": "transparency in energy data",
         "Description": "Data governance frameworks contribute to the transparency of energy data by establishing standards and protocols for data sharing.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "monitors",
         "Object": "data equity",
         "Description": "Data governance frameworks monitor the quality of energy data to ensure its accuracy and reliability for decision-making in sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "targets",
         "Object": "data interoperability",
         "Description": "Data governance frameworks set targets for achieving data interoperability in the sustainable energy sector to enable seamless data exchange and integration.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data governance frameworks"
       },
       {
         "Relation": "addresses",
         "Object": "data ethics",
         "Description": "Data governance frameworks address data ethics considerations in the collection, storage, and use of energy data for sustainable energy purposes.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "data governance frameworks"
+      },
       {
         "Subject": "data privacy and security",
         "Relation": "implements",
@@ -157,15 +250,48 @@
         "Object": "ai for smart grid optimization",
         "Description": "Data equity funds AI for smart grid optimization to support research and development in optimizing energy grid operations.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
-        "Subject": "AI for smart grid optimization",
+        "Subject": "ai for smart grid optimization",
         "Relation": "implements",
         "Object": "smart metering technologies",
         "Description": "AI for smart grid optimization implements smart grid technology to improve energy efficiency and grid reliability.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data privacy regulations are an essential component of data governance frameworks. They define the rules and guidelines for handling and protecting personal data, ensuring privacy and data security.",
+        "Importance": 4,
+        "Subject": "data privacy regulations",
+        "Object": "data governance frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data sharing agreements are an important aspect of data governance frameworks. They establish the terms and conditions for sharing data between different entities, ensuring proper data management and compliance.",
+        "Importance": 3,
+        "Subject": "data sharing agreements",
+        "Object": "data governance frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data access policies are a key element of data governance frameworks. They define the rules and procedures for accessing and using data, ensuring proper data governance and control.",
+        "Importance": 3,
+        "Subject": "data access policies",
+        "Object": "data governance frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data protection measures are crucial components of data governance frameworks. They include security measures, encryption, backup systems, and other mechanisms to safeguard data from unauthorized access, loss, or damage.",
+        "Importance": 4,
+        "Subject": "data protection measures",
+        "Object": "data governance frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data ethics guidelines are an integral part of data governance frameworks. They provide principles and guidelines for ethical data handling, ensuring responsible and fair use of data.",
+        "Importance": 4,
+        "Subject": "data ethics guidelines",
+        "Object": "data governance frameworks"
       }
     ]
   }

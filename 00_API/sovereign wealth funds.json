@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "sovereign wealth funds",
     "Description": "Funds owned by a state and invested in various financial assets.",
     "Category": "Finance",
     "Tags": [
@@ -10,79 +9,324 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Sovereign Wealth Funds",
+    "Entity Code": "sovereign wealth funds"
   },
   "knowledge graph": {
     "entities": [
-      "foundational energy infrastructure",
-      "investment performance",
-      "long-term investments",
-      "just energy transition",
-      "innovative financing",
-      "climate change mitigation",
-      "energy poverty indices",
-      "clean energy companies",
-      "sustainable energy projects"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "New and creative ways of raising funds for projects or initiatives.",
+        "Category": "Finance",
+        "Tags": [
+          "Economic",
+          "Finance"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Innovative Financing",
+        "Entity Code": "innovative financing"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
+        "Category": "Organization",
+        "Tags": [
+          "Finance",
+          "Economic",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "national development plans",
+          "development banks"
+        ],
+        "Entity Title": "Multilateral Development Banks",
+        "Entity Code": "multilateral development banks"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Clean Energy Companies",
+        "Entity Code": "clean energy companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Foundational energy infrastructure refers to the essential physical structures and systems that support the production, distribution, and consumption of energy.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Systems",
+          "Infrastructure"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "renewable energy infrastructure"
+        ],
+        "Entity Title": "Foundational Energy Infrastructure",
+        "Entity Code": "foundational energy infrastructure"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy",
+          "Modernization",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy generation",
+          "grid modernization"
+        ],
+        "Entity Title": "Energy and Modernization",
+        "Entity Code": "energy and modernization"
+      },
+      {
+        "Entity Title": "Long-term Investments",
+        "Entity Code": "long-term investments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Investment Performance",
+        "Entity Code": "investment performance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Green bonds are fixed-income financial instruments that are used to raise capital for projects that have positive environmental or climate benefits.",
+        "Category": "Finance",
+        "Tags": [
+          "Sustainable Finance",
+          "Investment",
+          "Environmental Projects"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Green Bonds",
+        "Entity Code": "green bonds"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "innovative financing",
         "Description": "Sovereign wealth funds implement innovative financing strategies to support sustainable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "funds",
         "Object": "sustainable energy projects",
         "Description": "Sovereign wealth funds provide funds for sustainable energy projects to promote clean and renewable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "focuses_on",
         "Object": "long-term investments",
         "Description": "Sovereign wealth funds focus on making long-term investments in sustainable energy projects to ensure their viability and impact.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Sovereign wealth funds play a crucial role in investing in the energy transition towards a more sustainable and low-carbon future.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "partners_with",
         "Object": "clean energy companies",
         "Description": "Sovereign wealth funds partner with clean energy companies to accelerate the development and deployment of sustainable energy technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Sovereign wealth funds contribute to climate change mitigation by investing in sustainable energy projects and technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "monitors",
         "Object": "investment performance",
         "Description": "Sovereign wealth funds closely monitor the performance of their investments in sustainable energy projects to ensure optimal returns and impact.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "targets",
         "Object": "foundational energy infrastructure",
         "Description": "Sovereign wealth funds set targets for investing in renewable energy infrastructure to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "sovereign wealth funds"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Sovereign wealth funds address energy poverty by investing in sustainable energy projects that provide access to affordable and clean energy for underserved communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "sovereign wealth funds"
+      },
       {
         "Subject": "innovative financing",
         "Relation": "employs",
@@ -138,9 +382,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "green bonds",
         "Relation": "implements",

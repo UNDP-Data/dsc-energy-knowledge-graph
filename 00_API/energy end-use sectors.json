@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy end-use sectors",
     "Description": "Energy end-use sectors refer to the different sectors or industries that consume energy for their operations, such as residential, commercial, industrial, and transportation sectors.",
     "Category": "Infrastructure",
     "Tags": [
@@ -11,71 +10,248 @@
     "Dimension": "Infrastructure",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy End-use Sectors",
+    "Entity Code": "energy end-use sectors"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "manufacturing industry",
-      "energy democracy",
-      "sustainable development goals",
-      "energy consumption",
-      "energy transport systems",
-      "renewable energy agencies"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Participatory Decision-making",
+        "Entity Code": "participatory decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Transport Systems",
+        "Entity Code": "energy transport systems",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Entity Title": "Manufacturing Industry",
+        "Entity Code": "manufacturing industry",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy efficiency",
         "Description": "Energy end-use sectors address Energy Efficiency to reduce energy consumption and improve sustainability.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "employs",
         "Object": "energy transport systems",
         "Description": "Energy end-use sectors employ Energy Management Systems to optimize energy usage and reduce waste.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "collaborates_with",
         "Object": "manufacturing industry",
         "Description": "Energy end-use sectors collaborate with the Manufacturing Industry to develop energy-efficient processes and technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Energy end-use sectors support Renewable Energy Projects to increase the share of clean energy in the overall energy mix.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency",
         "Description": "Energy end-use sectors administer Energy Efficiency Programs to promote energy-saving practices and technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "measures",
         "Object": "energy consumption",
         "Description": "Energy end-use sectors measure Energy Consumption to identify areas for improvement and track progress.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Energy end-use sectors align with Sustainable Development Goals to contribute to global sustainability efforts.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy end-use sectors"
       },
       {
         "Relation": "an_instance_of",
         "Object": "energy democracy",
         "Description": "Energy end-use sectors are an instance of Energy Demand, representing the final consumption of energy by end-users.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy end-use sectors"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -131,9 +307,7 @@
         "Object": "participatory decision-making",
         "Description": "Energy democracy employs participatory decision-making processes to ensure that all stakeholders have a voice in shaping energy policies and projects.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

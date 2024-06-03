@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "power-to-gas systems",
     "Description": "Systems that convert electrical power into a gas fuel, such as hydrogen or methane.",
     "Category": "Technology",
     "Tags": [
@@ -10,18 +9,232 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Power-to-gas Systems",
+    "Entity Code": "power-to-gas systems"
   },
   "knowledge graph": {
     "entities": [
-      "greenhouse gas emissions reduction",
-      "research and development",
-      "electric vehicle charging infrastructure",
-      "hydrogen production efficiency",
-      "energy efficiency",
-      "just energy transition",
-      "carbon neutrality",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Electric Vehicle Charging Infrastructure",
+        "Entity Code": "electric vehicle charging infrastructure",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Carbon neutrality refers to achieving a balance between carbon emissions and carbon removal, resulting in no net increase in atmospheric carbon dioxide levels.",
+        "Category": "Policy",
+        "Tags": [
+          "Carbon Neutrality",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Carbon Neutrality",
+        "Entity Code": "carbon neutrality"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Hydrogen Production Efficiency",
+        "Entity Code": "hydrogen production efficiency",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Systems that convert electrical power into a gas fuel, such as hydrogen or methane.",
+        "Category": "Technology",
+        "Tags": [
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Power-to-gas Systems",
+        "Entity Code": "power-to-gas systems"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Greenhouse Gas Emissions Reduction",
+        "Entity Code": "greenhouse gas emissions reduction",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "electrolyzer",
@@ -30,94 +243,63 @@
       "gas grid injection",
       "power-to-liquid"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "electrolyzer",
-        "Relation": "is a sub-element of",
-        "Parent": "power-to-gas systems",
-        "Description": "An electrolyzer is a key component of power-to-gas systems. It uses electricity to split water into hydrogen and oxygen through the process of electrolysis. The hydrogen produced can then be used for various applications, such as energy storage or fuel production.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "methanation reactor",
-        "Relation": "is a sub-element of",
-        "Parent": "power-to-gas systems",
-        "Description": "A methanation reactor is an essential part of power-to-gas systems. It converts hydrogen and carbon dioxide into synthetic natural gas (methane) through a catalytic process. This allows for the storage and utilization of renewable energy in existing natural gas infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gas storage",
-        "Relation": "is a sub-element of",
-        "Parent": "power-to-gas systems",
-        "Description": "Gas storage is a crucial component of power-to-gas systems. It involves storing the produced hydrogen or synthetic natural gas for later use when the demand for energy is high or renewable energy generation is low. This enables the system to provide a continuous and reliable energy supply.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "gas grid injection",
-        "Relation": "is a sub-element of",
-        "Parent": "power-to-gas systems",
-        "Description": "Gas grid injection is an important process in power-to-gas systems. It involves injecting the produced hydrogen or synthetic natural gas into the existing natural gas grid infrastructure. This allows for the distribution and utilization of renewable energy in various sectors, such as heating, transportation, and industry.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "power-to-liquid",
-        "Relation": "is a sub-element of",
-        "Parent": "power-to-gas systems",
-        "Description": "Power-to-liquid is a related concept to power-to-gas systems. It involves the conversion of renewable electricity and carbon dioxide into liquid fuels, such as synthetic hydrocarbons or biofuels. This process enables the production of sustainable transportation fuels.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Power-to-gas systems implement the Energy Efficiency Policy to promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Power-to-gas systems receive funding from Research and Development initiatives to support their development and implementation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Power-to-gas systems focus on utilizing renewable energy sources for the production of hydrogen.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Power-to-gas systems play a crucial role in the Energy Transition Strategy by enabling the storage and conversion of excess renewable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "partners_with",
         "Object": "electric vehicle charging infrastructure",
         "Description": "Power-to-gas systems partner with Electric Vehicle Charging Infrastructure to explore synergies in energy storage and distribution.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "contributes_to",
         "Object": "carbon neutrality",
         "Description": "Power-to-gas systems contribute to achieving carbon neutrality by enabling the conversion of renewable energy into clean hydrogen.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "monitors",
         "Object": "hydrogen production efficiency",
         "Description": "Power-to-gas systems monitor the efficiency of hydrogen production to optimize the overall energy conversion process.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "power-to-gas systems"
       },
       {
         "Relation": "targets",
         "Object": "greenhouse gas emissions reduction",
         "Description": "Power-to-gas systems target the reduction of greenhouse gas emissions by utilizing renewable energy for hydrogen production.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "power-to-gas systems"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -173,9 +355,7 @@
         "Object": "renewable energy agencies",
         "Description": "Carbon neutrality funds Renewable Energy Projects to support the development and implementation of clean energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -203,6 +383,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "An electrolyzer is a key component of power-to-gas systems. It uses electricity to split water into hydrogen and oxygen through the process of electrolysis. The hydrogen produced can then be used for various applications, such as energy storage or fuel production.",
+        "Importance": 4,
+        "Subject": "electrolyzer",
+        "Object": "power-to-gas systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A methanation reactor is an essential part of power-to-gas systems. It converts hydrogen and carbon dioxide into synthetic natural gas (methane) through a catalytic process. This allows for the storage and utilization of renewable energy in existing natural gas infrastructure.",
+        "Importance": 4,
+        "Subject": "methanation reactor",
+        "Object": "power-to-gas systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gas storage is a crucial component of power-to-gas systems. It involves storing the produced hydrogen or synthetic natural gas for later use when the demand for energy is high or renewable energy generation is low. This enables the system to provide a continuous and reliable energy supply.",
+        "Importance": 3,
+        "Subject": "gas storage",
+        "Object": "power-to-gas systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gas grid injection is an important process in power-to-gas systems. It involves injecting the produced hydrogen or synthetic natural gas into the existing natural gas grid infrastructure. This allows for the distribution and utilization of renewable energy in various sectors, such as heating, transportation, and industry.",
+        "Importance": 3,
+        "Subject": "gas grid injection",
+        "Object": "power-to-gas systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Power-to-liquid is a related concept to power-to-gas systems. It involves the conversion of renewable electricity and carbon dioxide into liquid fuels, such as synthetic hydrocarbons or biofuels. This process enables the production of sustainable transportation fuels.",
+        "Importance": 2,
+        "Subject": "power-to-liquid",
+        "Object": "power-to-gas systems"
       }
     ]
   }

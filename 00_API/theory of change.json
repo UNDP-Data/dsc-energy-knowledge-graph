@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "theory of change",
     "Description": "A theory of change is a comprehensive and systematic explanation of how and why a desired change is expected to happen. It outlines the causal pathways and assumptions underlying a project or intervention.",
     "Category": "Strategy",
     "Tags": [
@@ -11,72 +10,226 @@
     "Dimension": "Strategy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Theory of Change",
+    "Entity Code": "theory of change"
   },
   "knowledge graph": {
     "entities": [
-      "climate action plans",
-      "strategic planning",
-      "energy efficiency",
-      "impact evaluation methods",
-      "social impact",
-      "innovation in clean technologies",
-      "barriers to renewable energy adoption",
-      "academic institutions"
+      {
+        "Entity Title": "Innovation in Clean Technologies",
+        "Entity Code": "innovation in clean technologies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Entity Title": "Social Impact",
+        "Entity Code": "social impact",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Barriers to Renewable Energy Adoption",
+        "Entity Code": "barriers to renewable energy adoption",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Action Plans",
+        "Entity Code": "climate action plans",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Cooperatives that enable individuals or communities to collectively own and manage energy resources.",
+        "Category": "Organization",
+        "Tags": [
+          "Community Ownership",
+          "Renewable Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy conservation",
+          "energy experts",
+          "energy companies"
+        ],
+        "Entity Title": "Energy Cooperatives",
+        "Entity Code": "energy cooperatives"
+      },
+      {
+        "Entity Title": "Impact Evaluation Methods",
+        "Entity Code": "impact evaluation methods",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Strategic Planning",
+        "Entity Code": "strategic planning",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Academic Institutions",
+        "Entity Code": "academic institutions",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "barriers to renewable energy adoption",
         "Description": "The theory of change addresses the barriers to renewable energy adoption by identifying and implementing strategies to overcome challenges related to policy, finance, and technology.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "theory of change"
       },
       {
         "Relation": "employs",
         "Object": "impact evaluation methods",
         "Description": "The theory of change employs impact evaluation methods to assess the effectiveness and outcomes of sustainable energy interventions and initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "theory of change"
       },
       {
         "Relation": "collaborates_with",
         "Object": "academic institutions",
         "Description": "The theory of change collaborates with academic institutions to leverage research and expertise in developing evidence-based strategies for sustainable energy transition.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "theory of change"
       },
       {
         "Relation": "supports",
         "Object": "innovation in clean technologies",
         "Description": "The theory of change supports innovation in clean technologies by providing funding and resources for research and development of sustainable energy solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "theory of change"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency",
         "Description": "The theory of change administers energy efficiency programs to promote energy conservation and reduce greenhouse gas emissions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "theory of change"
       },
       {
         "Relation": "measures",
         "Object": "social impact",
         "Description": "The theory of change measures the social impact of sustainable energy initiatives by assessing changes in quality of life, access to energy, and environmental outcomes.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "theory of change"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate action plans",
         "Description": "The theory of change aligns with climate action plans to ensure the integration of sustainable energy goals and targets in broader climate mitigation and adaptation strategies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "theory of change"
       },
       {
         "Relation": "an_instance_of",
         "Object": "strategic planning",
         "Description": "The theory of change is an instance of strategic planning that guides the development and implementation of sustainable energy initiatives and interventions.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "theory of change"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -111,9 +264,7 @@
         "Object": "energy cooperatives",
         "Description": "Energy efficiency is an instance of energy conservation, which aims to reduce energy consumption and waste.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

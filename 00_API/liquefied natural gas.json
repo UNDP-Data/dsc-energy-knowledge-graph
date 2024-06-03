@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "liquefied natural gas",
     "Description": "Liquefied natural gas (LNG) is natural gas that has been cooled to a liquid state for easier storage and transportation.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,234 @@
     "Dimension": "Technology",
     "Acronym": "LNG",
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Liquefied Natural Gas",
+    "Entity Code": "liquefied natural gas"
   },
   "knowledge graph": {
     "entities": [
-      "greenhouse gas emissions",
-      "just energy transition",
-      "energy democracy",
-      "energy markets",
-      "natural gas",
-      "shipping companies",
-      "cryogenic technology",
-      "lng import terminals"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Lng Import Terminals",
+        "Entity Code": "lng import terminals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Shipping Companies",
+        "Entity Code": "shipping companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Participatory Decision-making",
+        "Entity Code": "participatory decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Natural Gas",
+        "Entity Code": "natural gas",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Liquefied natural gas (LNG) is natural gas that has been cooled to a liquid state for easier storage and transportation.",
+        "Category": "Technology",
+        "Tags": [
+          "Natural Gas",
+          "Energy Storage",
+          "Transportation"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "LNG",
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Liquefied Natural Gas",
+        "Entity Code": "liquefied natural gas"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Entity Title": "Greenhouse Gas Emissions",
+        "Entity Code": "greenhouse gas emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Cryogenic Technology",
+        "Entity Code": "cryogenic technology",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "liquefaction process",
@@ -31,94 +246,63 @@
       "LNG terminals",
       "LNG carriers"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "liquefaction process",
-        "Relation": "is a sub-element of",
-        "Parent": "liquefied natural gas",
-        "Description": "The liquefaction process is a crucial step in the production of liquefied natural gas. It involves cooling natural gas to a very low temperature, transforming it into a liquid state for easier storage and transportation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "storage and transportation",
-        "Relation": "is a sub-element of",
-        "Parent": "liquefied natural gas",
-        "Description": "Storage and transportation are essential aspects of the liquefied natural gas industry. LNG is stored in specialized tanks and transported using LNG carriers to various destinations, enabling the global trade of natural gas.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "regasification process",
-        "Relation": "is a sub-element of",
-        "Parent": "liquefied natural gas",
-        "Description": "The regasification process is the reverse of the liquefaction process. It involves heating liquefied natural gas back to its gaseous state, making it suitable for distribution and use in various applications.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "LNG terminals",
-        "Relation": "is a sub-element of",
-        "Parent": "liquefied natural gas",
-        "Description": "LNG terminals are specialized facilities where liquefied natural gas is received, stored, and regasified. They play a crucial role in the import and export of LNG, ensuring its efficient distribution.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "LNG carriers",
-        "Relation": "is a sub-element of",
-        "Parent": "liquefied natural gas",
-        "Description": "LNG carriers are specially designed ships used for the transportation of liquefied natural gas. They are equipped with advanced insulation and safety systems to ensure the safe and efficient delivery of LNG to different ports.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "Liquefied natural gas addresses energy access challenges by providing a reliable and cleaner energy source.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "employs",
         "Object": "cryogenic technology",
         "Description": "Liquefied natural gas employs cryogenic technology for the storage and transportation of natural gas.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "collaborates_with",
         "Object": "shipping companies",
         "Description": "Liquefied natural gas collaborates with shipping companies for the transportation of LNG.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "supports",
         "Object": "just energy transition",
         "Description": "Liquefied natural gas supports the clean energy transition by providing a lower-carbon alternative to other fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "administers",
         "Object": "lng import terminals",
         "Description": "Liquefied natural gas administers LNG import terminals for the storage and regasification of LNG.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "measures",
         "Object": "greenhouse gas emissions",
         "Description": "Liquefied natural gas measures greenhouse gas emissions to ensure compliance with environmental regulations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "aligns_with",
         "Object": "energy democracy",
         "Description": "Liquefied natural gas aligns with energy security objectives by diversifying energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "liquefied natural gas"
       },
       {
         "Relation": "an_instance_of",
         "Object": "natural gas",
         "Description": "Liquefied natural gas is an instance of natural gas in its liquid form.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "liquefied natural gas"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -160,9 +344,7 @@
         "Object": "participatory decision-making",
         "Description": "Energy democracy employs participatory decision-making processes to ensure that all stakeholders have a voice in shaping energy policies and projects.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -190,6 +372,41 @@
         "Object": "energy efficiency",
         "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The liquefaction process is a crucial step in the production of liquefied natural gas. It involves cooling natural gas to a very low temperature, transforming it into a liquid state for easier storage and transportation.",
+        "Importance": 4,
+        "Subject": "liquefaction process",
+        "Object": "liquefied natural gas"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Storage and transportation are essential aspects of the liquefied natural gas industry. LNG is stored in specialized tanks and transported using LNG carriers to various destinations, enabling the global trade of natural gas.",
+        "Importance": 4,
+        "Subject": "storage and transportation",
+        "Object": "liquefied natural gas"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The regasification process is the reverse of the liquefaction process. It involves heating liquefied natural gas back to its gaseous state, making it suitable for distribution and use in various applications.",
+        "Importance": 4,
+        "Subject": "regasification process",
+        "Object": "liquefied natural gas"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "LNG terminals are specialized facilities where liquefied natural gas is received, stored, and regasified. They play a crucial role in the import and export of LNG, ensuring its efficient distribution.",
+        "Importance": 3,
+        "Subject": "lng terminals",
+        "Object": "liquefied natural gas"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "LNG carriers are specially designed ships used for the transportation of liquefied natural gas. They are equipped with advanced insulation and safety systems to ensure the safe and efficient delivery of LNG to different ports.",
+        "Importance": 3,
+        "Subject": "lng carriers",
+        "Object": "liquefied natural gas"
       }
     ]
   }

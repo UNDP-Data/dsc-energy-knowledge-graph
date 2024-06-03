@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "women's economic empowerment",
     "Description": "Women's economic empowerment refers to the ability of women to participate and have control over economic activities, resources, and decision-making processes. It aims to promote gender equality and women's rights in the economic sphere.",
     "Category": "Social",
     "Tags": [
@@ -11,19 +10,133 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Women's Economic Empowerment",
+    "Entity Code": "women's economic empowerment"
   },
   "knowledge graph": {
     "entities": [
-      "gender-responsive employment policies",
-      "gender equality policy",
-      "poverty reduction",
-      "gender-based violence",
-      "sustainable development goals",
-      "women-owned businesses",
-      "gender pay gap",
-      "micro-finance",
-      "women's rights organizations"
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Gender-responsive Employment Policies",
+        "Entity Code": "gender-responsive employment policies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Women-owned Businesses",
+        "Entity Code": "women-owned businesses",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Gender-based Violence",
+        "Entity Code": "gender-based violence",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Women's economic empowerment refers to the ability of women to participate and have control over economic activities, resources, and decision-making processes. It aims to promote gender equality and women's rights in the economic sphere.",
+        "Category": "Social",
+        "Tags": [
+          "Gender Equality",
+          "Women's Rights",
+          "Economic Empowerment"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Women's Economic Empowerment",
+        "Entity Code": "women's economic empowerment"
+      },
+      {
+        "Entity Title": "Gender Equality Policy",
+        "Entity Code": "gender equality policy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Financial services, such as loans, savings, and insurance, provided to low-income individuals or small businesses.",
+        "Category": "Finance",
+        "Tags": [
+          "Microfinance",
+          "Financial Services",
+          "Poverty Alleviation"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microfinance programs"
+        ],
+        "Entity Title": "Micro-finance",
+        "Entity Code": "micro-finance"
+      },
+      {
+        "Entity Title": "Gender Pay Gap",
+        "Entity Code": "gender pay gap",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Women's Rights Organizations",
+        "Entity Code": "women's rights organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Gap",
+        "Entity Code": "energy access gap",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Poverty Reduction",
+        "Entity Code": "poverty reduction",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "access to finance",
@@ -32,100 +145,70 @@
       "skills development",
       "workforce participation"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "access to finance",
-        "Relation": "is a sub-element of",
-        "Parent": "women's economic empowerment",
-        "Description": "Access to finance is a crucial sub-element of women's economic empowerment as it enables women to start and grow their businesses, invest in their education and skills, and have financial independence. Lack of access to finance is a major barrier for women in achieving economic empowerment.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "entrepreneurship",
-        "Relation": "is a sub-element of",
-        "Parent": "women's economic empowerment",
-        "Description": "Entrepreneurship is a key sub-element of women's economic empowerment as it allows women to create their own businesses, generate income, and have control over their economic activities. Promoting and supporting women's entrepreneurship is essential for achieving gender equality and sustainable development.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender equality",
-        "Relation": "is a sub-element of",
-        "Parent": "women's economic empowerment",
-        "Description": "Gender equality is a fundamental sub-element of women's economic empowerment as it ensures equal rights, opportunities, and treatment for women in all aspects of economic activities. Achieving gender equality is essential for creating an inclusive and sustainable economy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "skills development",
-        "Relation": "is a sub-element of",
-        "Parent": "women's economic empowerment",
-        "Description": "Skills development is a critical sub-element of women's economic empowerment as it enables women to acquire the necessary knowledge, abilities, and competencies to participate in the workforce, start businesses, and pursue economic opportunities. Investing in women's skills development is key to their economic empowerment.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "workforce participation",
-        "Relation": "is a sub-element of",
-        "Parent": "women's economic empowerment",
-        "Description": "Workforce participation is a significant sub-element of women's economic empowerment as it involves women's active engagement in paid employment, entrepreneurship, and economic activities. Increasing women's workforce participation is crucial for achieving sustainable development and reducing gender disparities.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "gender equality policy",
         "Description": "Women's economic empowerment implements a gender equality policy that aims to promote equal opportunities and rights for women in the economic sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "funds",
         "Object": "micro-finance",
         "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "focuses_on",
         "Object": "gender-responsive employment policies",
         "Description": "Women's economic empowerment focuses on gender-responsive employment policies that aim to create inclusive and equitable workplaces for women.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "in",
         "Object": "sustainable development goals",
         "Description": "Women's economic empowerment is embedded in the sustainable development goals, particularly in the goal of achieving gender equality and empowering all women and girls.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "partners_with",
         "Object": "women's rights organizations",
         "Description": "Women's economic empowerment partners with women's rights organizations to advocate for women's economic rights and empower women to participate fully in the economy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "contributes_to",
         "Object": "poverty reduction",
         "Description": "Women's economic empowerment contributes to poverty reduction by enabling women to generate income, improve their livelihoods, and lift themselves and their families out of poverty.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "monitors",
         "Object": "gender pay gap",
         "Description": "Women's economic empowerment monitors the gender pay gap to identify disparities and advocate for equal pay for equal work.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "targets",
         "Object": "women-owned businesses",
         "Description": "Women's economic empowerment targets women-owned businesses for support and promotion, aiming to increase their representation and success in the business sector.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "women's economic empowerment"
       },
       {
         "Relation": "addresses",
         "Object": "gender-based violence",
         "Description": "Women's economic empowerment addresses gender-based violence by promoting economic independence and empowerment as a means to reduce vulnerability and enhance women's safety.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "women's economic empowerment"
+      },
       {
         "Subject": "micro-finance",
         "Relation": "implements",
@@ -153,9 +236,7 @@
         "Object": "energy access gap",
         "Description": "Micro-finance addresses the energy access gap by providing financial services for clean energy solutions in underserved communities.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy poverty indices",
         "Relation": "implements",
@@ -169,6 +250,41 @@
         "Object": "energy markets",
         "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Access to finance is a crucial sub-element of women's economic empowerment as it enables women to start and grow their businesses, invest in their education and skills, and have financial independence. Lack of access to finance is a major barrier for women in achieving economic empowerment.",
+        "Importance": 4,
+        "Subject": "access to finance",
+        "Object": "women's economic empowerment"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Entrepreneurship is a key sub-element of women's economic empowerment as it allows women to create their own businesses, generate income, and have control over their economic activities. Promoting and supporting women's entrepreneurship is essential for achieving gender equality and sustainable development.",
+        "Importance": 4,
+        "Subject": "entrepreneurship",
+        "Object": "women's economic empowerment"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender equality is a fundamental sub-element of women's economic empowerment as it ensures equal rights, opportunities, and treatment for women in all aspects of economic activities. Achieving gender equality is essential for creating an inclusive and sustainable economy.",
+        "Importance": 4,
+        "Subject": "gender equality",
+        "Object": "women's economic empowerment"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Skills development is a critical sub-element of women's economic empowerment as it enables women to acquire the necessary knowledge, abilities, and competencies to participate in the workforce, start businesses, and pursue economic opportunities. Investing in women's skills development is key to their economic empowerment.",
+        "Importance": 4,
+        "Subject": "skills development",
+        "Object": "women's economic empowerment"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Workforce participation is a significant sub-element of women's economic empowerment as it involves women's active engagement in paid employment, entrepreneurship, and economic activities. Increasing women's workforce participation is crucial for achieving sustainable development and reducing gender disparities.",
+        "Importance": 4,
+        "Subject": "workforce participation",
+        "Object": "women's economic empowerment"
       }
     ]
   }

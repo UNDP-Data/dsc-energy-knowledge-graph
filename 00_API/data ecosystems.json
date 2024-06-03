@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "data ecosystems",
     "Description": "Refers to the interconnected network of individuals, organizations, and systems that share and utilize data.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,226 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Data Ecosystems",
+    "Entity Code": "data ecosystems"
   },
   "knowledge graph": {
     "entities": [
-      "digital transformation",
-      "un sustainable development goals",
-      "energy efficiency",
-      "energy markets",
-      "research institutions",
-      "energy data repositories",
-      "energy data analytics",
-      "artificial intelligence"
+      {
+        "Entity Title": "Digital Transformation",
+        "Entity Code": "digital transformation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Un Sustainable Development Goals",
+        "Entity Code": "un sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Refers to the interconnected network of individuals, organizations, and systems that share and utilize data.",
+        "Category": "Technology",
+        "Tags": [
+          "Data Sharing",
+          "Data Collaboration",
+          "Data Governance"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": null,
+        "Entity Title": "Data Ecosystems",
+        "Entity Code": "data ecosystems"
+      },
+      {
+        "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Privacy",
+          "Security"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Data Privacy and Security",
+        "Entity Code": "data privacy and security"
+      },
+      {
+        "Entity Title": "Artificial Intelligence",
+        "Entity Code": "artificial intelligence",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+        "Category": "Technology",
+        "Tags": [
+          "Data-driven Insights",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data management",
+          "energy market analysis",
+          "data analytics",
+          "energy analysts"
+        ],
+        "Entity Title": "Energy Data Analytics",
+        "Entity Code": "energy data analytics"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Repositories that store and manage energy-related data.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Energy",
+          "Repositories"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data platform"
+        ],
+        "Entity Title": "Energy Data Repositories",
+        "Entity Code": "energy data repositories"
+      }
     ],
     "sub-elements": [
       "data sharing",
@@ -31,94 +238,63 @@
       "data visualization",
       "data privacy"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data sharing",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data sharing is a key component of data ecosystems, enabling the exchange and collaboration of data between different stakeholders. It promotes transparency, interoperability, and the creation of new insights and knowledge.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data governance",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data governance is essential for the effective management and control of data within data ecosystems. It involves defining policies, procedures, and responsibilities to ensure data quality, security, privacy, and compliance.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data analytics plays a crucial role in data ecosystems by extracting valuable insights and patterns from large volumes of data. It involves the use of statistical and computational techniques to analyze and interpret data for decision-making and problem-solving.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data visualization is an important aspect of data ecosystems as it enables the representation of data in visual formats such as charts, graphs, and maps. It helps in understanding complex data patterns, trends, and relationships.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "data privacy",
-        "Relation": "is a sub-element of",
-        "Parent": "data ecosystems",
-        "Description": "Data privacy is a critical consideration in data ecosystems to protect the confidentiality and integrity of personal and sensitive data. It involves implementing measures and policies to ensure that data is collected, stored, and processed in a secure and ethical manner.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy data analytics",
         "Description": "Data ecosystems address the challenges of energy data management to enable effective analysis and decision-making in the sustainable energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "employs",
         "Object": "artificial intelligence",
         "Description": "Data ecosystems employ artificial intelligence technologies to analyze energy data and derive insights for sustainable energy planning.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "collaborates_with",
         "Object": "research institutions",
         "Description": "Data ecosystems collaborate with research institutions to enhance data-driven research and innovation in the sustainable energy field.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "supports",
         "Object": "energy markets",
         "Description": "Data ecosystems support energy startups by providing access to data and resources for developing innovative sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "administers",
         "Object": "energy data repositories",
         "Description": "Data ecosystems administer an energy data platform to facilitate data sharing and collaboration among stakeholders in the sustainable energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "measures",
         "Object": "energy efficiency",
         "Description": "Data ecosystems measure energy efficiency to assess the impact of sustainable energy initiatives and identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "aligns_with",
         "Object": "un sustainable development goals",
         "Description": "Data ecosystems align with the UN Sustainable Development Goals to contribute to the achievement of sustainable energy targets.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data ecosystems"
       },
       {
         "Relation": "an_instance_of",
         "Object": "digital transformation",
         "Description": "Data ecosystems are an instance of digital transformation in the sustainable energy sector, leveraging data-driven technologies for improved energy management.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "data ecosystems"
+      },
       {
         "Subject": "energy data analytics",
         "Relation": "implements",
@@ -174,9 +350,7 @@
         "Object": "industries",
         "Description": "Energy efficiency collaborates with industries to develop and implement energy-saving measures and technologies.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -204,6 +378,41 @@
         "Object": "sustainable energy projects",
         "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data sharing is a key component of data ecosystems, enabling the exchange and collaboration of data between different stakeholders. It promotes transparency, interoperability, and the creation of new insights and knowledge.",
+        "Importance": 4,
+        "Subject": "data sharing",
+        "Object": "data ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data governance is essential for the effective management and control of data within data ecosystems. It involves defining policies, procedures, and responsibilities to ensure data quality, security, privacy, and compliance.",
+        "Importance": 4,
+        "Subject": "data governance",
+        "Object": "data ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data analytics plays a crucial role in data ecosystems by extracting valuable insights and patterns from large volumes of data. It involves the use of statistical and computational techniques to analyze and interpret data for decision-making and problem-solving.",
+        "Importance": 4,
+        "Subject": "data analytics",
+        "Object": "data ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data visualization is an important aspect of data ecosystems as it enables the representation of data in visual formats such as charts, graphs, and maps. It helps in understanding complex data patterns, trends, and relationships.",
+        "Importance": 3,
+        "Subject": "data visualization",
+        "Object": "data ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data privacy is a critical consideration in data ecosystems to protect the confidentiality and integrity of personal and sensitive data. It involves implementing measures and policies to ensure that data is collected, stored, and processed in a secure and ethical manner.",
+        "Importance": 4,
+        "Subject": "data privacy",
+        "Object": "data ecosystems"
       }
     ]
   }
