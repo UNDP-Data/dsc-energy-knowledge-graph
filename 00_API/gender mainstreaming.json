@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "gender mainstreaming",
     "Description": "The process of assessing the implications for women and men of any planned action, including legislation, policies, or programs.",
     "Category": "Social",
     "Tags": [
@@ -15,18 +14,88 @@
       "gender mainstreaming program",
       "gender mainstreaming strategy",
       "gender mainstreaming programs"
-    ]
+    ],
+    "Entity Title": "Gender Mainstreaming",
+    "Entity Code": "gender mainstreaming"
   },
   "knowledge graph": {
     "entities": [
-      "gender disparities in energy",
-      "gender experts",
-      "un sustainable development goals",
-      "inclusive energy planning",
-      "gender equality",
-      "gender mainstreaming",
-      "women's rights organizations",
-      "gender inequality"
+      {
+        "Entity Title": "Women's Empowerment Organizations",
+        "Entity Code": "women's empowerment organizations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Inequalities in access to and control over energy resources and services based on gender.",
+        "Category": "Social",
+        "Tags": [
+          "Gender",
+          "Disparities",
+          "Energy Access"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "gender disparities"
+        ],
+        "Entity Title": "Gender Disparities in Energy",
+        "Entity Code": "gender disparities in energy"
+      },
+      {
+        "Entity Title": "Gender Equality",
+        "Entity Code": "gender equality",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Un Sustainable Development Goals",
+        "Entity Code": "un sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Gender Experts",
+        "Entity Code": "gender experts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Gender-responsive Energy Policies",
+        "Entity Code": "gender-responsive energy policies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Inclusive Energy Planning",
+        "Entity Code": "inclusive energy planning",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Women's Rights Organizations",
+        "Entity Code": "women's rights organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Gender Inequality",
+        "Entity Code": "gender inequality",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of assessing the implications for women and men of any planned action, including legislation, policies, or programs.",
+        "Category": "Social",
+        "Tags": [
+          "Gender",
+          "Equality",
+          "Inclusion"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "gender mainstreaming program",
+          "gender mainstreaming strategy",
+          "gender mainstreaming programs"
+        ],
+        "Entity Title": "Gender Mainstreaming",
+        "Entity Code": "gender mainstreaming"
+      }
     ],
     "sub-elements": [
       "gender analysis",
@@ -35,94 +104,63 @@
       "gender-responsive programming",
       "gender-responsive evaluation"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "gender analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "gender mainstreaming",
-        "Description": "Gender analysis is a key component of gender mainstreaming. It involves the systematic collection and analysis of sex-disaggregated data to understand the different needs, roles, and opportunities of women and men in a given context.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive budgeting",
-        "Relation": "is a sub-element of",
-        "Parent": "gender mainstreaming",
-        "Description": "Gender-responsive budgeting is an important tool for gender mainstreaming. It involves the integration of a gender perspective into the budgeting process to ensure that resources are allocated in a way that addresses gender inequalities and promotes gender equality.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive policies",
-        "Relation": "is a sub-element of",
-        "Parent": "gender mainstreaming",
-        "Description": "Gender-responsive policies are a key outcome of gender mainstreaming. They are policies that take into account the different needs, priorities, and experiences of women and men, and aim to promote gender equality and women's empowerment.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive programming",
-        "Relation": "is a sub-element of",
-        "Parent": "gender mainstreaming",
-        "Description": "Gender-responsive programming is an essential aspect of gender mainstreaming. It involves the design, implementation, and monitoring of development programs and projects that address gender inequalities and promote gender equality.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive evaluation",
-        "Relation": "is a sub-element of",
-        "Parent": "gender mainstreaming",
-        "Description": "Gender-responsive evaluation is a critical component of gender mainstreaming. It involves the assessment of the gender impacts and outcomes of policies, programs, and projects to ensure that they are effectively addressing gender inequalities and promoting gender equality.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "gender inequality",
         "Description": "Gender mainstreaming addresses gender inequality in the energy sector, promoting equal opportunities and representation for all genders.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "employs",
         "Object": "gender experts",
         "Description": "Gender mainstreaming employs gender experts who provide guidance and expertise in integrating gender perspectives into sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "collaborates_with",
         "Object": "women's rights organizations",
         "Description": "Gender mainstreaming collaborates with women's rights organizations to ensure the inclusion and empowerment of women in the energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "supports",
         "Object": "gender equality",
         "Description": "Gender mainstreaming supports gender equality in the energy sector, advocating for equal rights, opportunities, and representation for all genders.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "administers",
         "Object": "gender mainstreaming",
         "Description": "Gender mainstreaming administers a program that promotes the integration of gender perspectives into sustainable energy policies and practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "measures",
         "Object": "gender disparities in energy",
         "Description": "Gender mainstreaming measures gender disparities in the energy sector, identifying areas for improvement and targeted interventions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "aligns_with",
         "Object": "un sustainable development goals",
         "Description": "Gender mainstreaming aligns with the UN Sustainable Development Goals, particularly Goal 5 on gender equality and Goal 7 on sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gender mainstreaming"
       },
       {
         "Relation": "an_instance_of",
         "Object": "inclusive energy planning",
         "Description": "Gender mainstreaming is an instance of inclusive energy planning, which aims to ensure the equitable and inclusive distribution of energy resources.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "gender mainstreaming"
+      },
       {
         "Subject": "gender mainstreaming",
         "Relation": "addresses",
@@ -138,14 +176,14 @@
         "Importance": 4
       },
       {
-        "Subject": "Gender Disparities in Energy",
+        "Subject": "gender disparities in energy",
         "Relation": "addresses",
         "Object": "gender inequality",
         "Description": "Gender Disparities in Energy addresses gender inequality by promoting equal access to and participation in the energy sector.",
         "Importance": 4
       },
       {
-        "Subject": "Gender Disparities in Energy",
+        "Subject": "gender disparities in energy",
         "Relation": "collaborates_with",
         "Object": "women's empowerment organizations",
         "Description": "Gender Disparities in Energy collaborates with women's empowerment organizations to promote gender equality in the energy sector.",
@@ -164,15 +202,48 @@
         "Object": "gender-responsive energy policies",
         "Description": "Addressing gender disparities in energy requires a focus on developing gender-responsive energy policies that consider the specific needs and challenges faced by different genders.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "gender mainstreaming",
         "Relation": "addresses",
         "Object": "gender inequality",
         "Description": "Gender mainstreaming addresses gender inequality in the energy sector, promoting equal opportunities and representation for all genders.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender analysis is a key component of gender mainstreaming. It involves the systematic collection and analysis of sex-disaggregated data to understand the different needs, roles, and opportunities of women and men in a given context.",
+        "Importance": 4,
+        "Subject": "gender analysis",
+        "Object": "gender mainstreaming"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive budgeting is an important tool for gender mainstreaming. It involves the integration of a gender perspective into the budgeting process to ensure that resources are allocated in a way that addresses gender inequalities and promotes gender equality.",
+        "Importance": 4,
+        "Subject": "gender-responsive budgeting",
+        "Object": "gender mainstreaming"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive policies are a key outcome of gender mainstreaming. They are policies that take into account the different needs, priorities, and experiences of women and men, and aim to promote gender equality and women's empowerment.",
+        "Importance": 4,
+        "Subject": "gender-responsive policies",
+        "Object": "gender mainstreaming"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive programming is an essential aspect of gender mainstreaming. It involves the design, implementation, and monitoring of development programs and projects that address gender inequalities and promote gender equality.",
+        "Importance": 4,
+        "Subject": "gender-responsive programming",
+        "Object": "gender mainstreaming"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive evaluation is a critical component of gender mainstreaming. It involves the assessment of the gender impacts and outcomes of policies, programs, and projects to ensure that they are effectively addressing gender inequalities and promoting gender equality.",
+        "Importance": 4,
+        "Subject": "gender-responsive evaluation",
+        "Object": "gender mainstreaming"
       }
     ]
   }

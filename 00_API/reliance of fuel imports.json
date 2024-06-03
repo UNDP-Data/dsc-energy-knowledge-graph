@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "reliance of fuel imports",
     "Description": "Reliance on fuel imports refers to the dependence of a country or region on imported fuels for meeting its energy needs.",
     "Category": "Economic",
     "Tags": [
@@ -10,72 +9,250 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Reliance of Fuel Imports",
+    "Entity Code": "reliance of fuel imports"
   },
   "knowledge graph": {
     "entities": [
-      "domestic energy production",
-      "energy exporting countries",
-      "energy security challenge",
-      "just energy transition",
-      "energy democracy",
-      "energy poverty indices",
-      "energy diversification strategies",
-      "energy independence index"
+      {
+        "Entity Title": "Energy Security Challenge",
+        "Entity Code": "energy security challenge",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Independence Index",
+        "Entity Code": "energy independence index",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Participatory Decision-making",
+        "Entity Code": "participatory decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Entity Title": "Domestic Energy Production",
+        "Entity Code": "domestic energy production",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Diversification Strategies",
+        "Entity Code": "energy diversification strategies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Exporting Countries",
+        "Entity Code": "energy exporting countries",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy democracy",
         "Description": "Addressing the reliance of fuel imports is crucial for ensuring energy security and reducing vulnerability to supply disruptions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "employs",
         "Object": "energy diversification strategies",
         "Description": "Reducing the reliance of fuel imports requires the employment of energy diversification strategies, such as promoting renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "collaborates_with",
         "Object": "energy exporting countries",
         "Description": "Addressing the reliance of fuel imports involves collaboration with energy exporting countries to ensure stable and sustainable energy supply.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "supports",
         "Object": "domestic energy production",
         "Description": "Reducing the reliance of fuel imports requires support for domestic energy production, such as investing in renewable energy infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "administers",
         "Object": "energy poverty indices",
         "Description": "Administering energy import policies is necessary to regulate the reliance of fuel imports and ensure energy security.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "measures",
         "Object": "energy independence index",
         "Description": "Measuring the reliance of fuel imports is important to track progress towards achieving energy independence and reducing dependence on external sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "aligns_with",
         "Object": "just energy transition",
         "Description": "Reducing the reliance of fuel imports aligns with the goals of transitioning to a sustainable and renewable energy future.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "reliance of fuel imports"
       },
       {
         "Relation": "an_instance_of",
         "Object": "energy security challenge",
         "Description": "The reliance of fuel imports is an instance of the energy security challenge faced by many countries.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "reliance of fuel imports"
+      },
       {
         "Subject": "energy democracy",
         "Relation": "addresses",
@@ -117,9 +294,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy and health",
         "Relation": "implements",

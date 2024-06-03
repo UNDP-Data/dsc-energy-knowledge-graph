@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy value chain",
     "Description": "The sequence of activities involved in the production, transformation, distribution, and consumption of energy, including extraction, generation, transmission, and end-use.",
     "Category": "Infrastructure",
     "Tags": [
@@ -11,17 +10,197 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Value Chain",
+    "Entity Code": "energy value chain"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable energy system",
-      "energy efficiency",
-      "climate resilience funds",
-      "energy markets",
-      "energy governance",
-      "renewable energy agencies",
-      "government agencies"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The sequence of activities involved in the production, transformation, distribution, and consumption of energy, including extraction, generation, transmission, and end-use.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Production",
+          "Energy Distribution",
+          "Energy Consumption"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Value Chain",
+        "Entity Code": "energy value chain"
+      },
+      {
+        "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
+        "Category": "Finance",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Climate Change"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate resilience",
+          "climate resilience fund",
+          "climate resilience index"
+        ],
+        "Entity Title": "Climate Resilience Funds",
+        "Entity Code": "climate resilience funds"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
+        "Category": "Policy",
+        "Tags": [
+          "Energy Policy",
+          "Regulation",
+          "Energy Access"
+        ],
+        "Dimension": "Governance",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy performance",
+          "sustainable energy governance"
+        ],
+        "Entity Title": "Energy Governance",
+        "Entity Code": "energy governance"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Energy System",
+        "Entity Code": "sustainable energy system",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "Exploration and production",
@@ -30,94 +209,63 @@
       "Distribution",
       "Consumption"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Exploration and production",
-        "Relation": "is a sub-element of",
-        "Parent": "energy value chain",
-        "Description": "Exploration and production is a crucial stage in the energy value chain, involving the search for and extraction of energy resources such as oil, gas, and coal. It includes activities such as geological surveys, drilling, and extraction techniques.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Refining",
-        "Relation": "is a sub-element of",
-        "Parent": "energy value chain",
-        "Description": "Refining is an essential part of the energy value chain, where raw energy resources are processed and transformed into usable forms such as gasoline, diesel, and jet fuel. It involves processes like distillation, cracking, and purification.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Transportation",
-        "Relation": "is a sub-element of",
-        "Parent": "energy value chain",
-        "Description": "Transportation is a critical component of the energy value chain, involving the movement of energy resources from production sites to refineries, storage facilities, and end-users. It includes modes of transportation such as pipelines, tankers, and trucks.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Distribution",
-        "Relation": "is a sub-element of",
-        "Parent": "energy value chain",
-        "Description": "Distribution is a key stage in the energy value chain, where refined energy products are delivered to end-users such as households, industries, and transportation sectors. It involves infrastructure like pipelines, power grids, and fuel stations.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Consumption",
-        "Relation": "is a sub-element of",
-        "Parent": "energy value chain",
-        "Description": "Consumption is the final stage of the energy value chain, where energy products are utilized by end-users for various purposes like heating, electricity generation, and transportation. It includes activities such as burning fossil fuels and using renewable energy sources.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "The energy value chain addresses energy access challenges by improving the availability and affordability of energy services.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "The energy value chain employs renewable energy technologies to promote the use of clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "collaborates_with",
         "Object": "government agencies",
         "Description": "The energy value chain collaborates with government agencies to develop and implement energy policies and regulations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "supports",
         "Object": "energy efficiency",
         "Description": "The energy value chain supports energy efficiency programs that aim to reduce energy consumption and improve energy productivity.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "administers",
         "Object": "energy markets",
         "Description": "The energy value chain administers the energy market to ensure fair competition and efficient allocation of energy resources.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "measures",
         "Object": "energy governance",
         "Description": "The energy value chain measures energy performance to assess the efficiency and effectiveness of energy systems and processes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate resilience funds",
         "Description": "The energy value chain aligns with climate resilience strategies to ensure the reliability and sustainability of energy infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy value chain"
       },
       {
         "Relation": "an_instance_of",
         "Object": "sustainable energy system",
         "Description": "The energy value chain is an instance of a sustainable energy system that integrates various energy sources and technologies.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy value chain"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -173,9 +321,7 @@
         "Object": "energy markets",
         "Description": "Energy governance focuses on improving energy access for all communities, especially in remote and underserved areas.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -203,6 +349,41 @@
         "Object": "intermittency of renewable energy",
         "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Exploration and production is a crucial stage in the energy value chain, involving the search for and extraction of energy resources such as oil, gas, and coal. It includes activities such as geological surveys, drilling, and extraction techniques.",
+        "Importance": 4,
+        "Subject": "exploration and production",
+        "Object": "energy value chain"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Refining is an essential part of the energy value chain, where raw energy resources are processed and transformed into usable forms such as gasoline, diesel, and jet fuel. It involves processes like distillation, cracking, and purification.",
+        "Importance": 4,
+        "Subject": "refining",
+        "Object": "energy value chain"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Transportation is a critical component of the energy value chain, involving the movement of energy resources from production sites to refineries, storage facilities, and end-users. It includes modes of transportation such as pipelines, tankers, and trucks.",
+        "Importance": 3,
+        "Subject": "transportation",
+        "Object": "energy value chain"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Distribution is a key stage in the energy value chain, where refined energy products are delivered to end-users such as households, industries, and transportation sectors. It involves infrastructure like pipelines, power grids, and fuel stations.",
+        "Importance": 3,
+        "Subject": "distribution",
+        "Object": "energy value chain"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Consumption is the final stage of the energy value chain, where energy products are utilized by end-users for various purposes like heating, electricity generation, and transportation. It includes activities such as burning fossil fuels and using renewable energy sources.",
+        "Importance": 4,
+        "Subject": "consumption",
+        "Object": "energy value chain"
       }
     ]
   }

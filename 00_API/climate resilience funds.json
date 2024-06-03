@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "climate resilience funds",
     "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
     "Category": "Finance",
     "Tags": [
@@ -15,71 +14,288 @@
       "climate resilience",
       "climate resilience fund",
       "climate resilience index"
-    ]
+    ],
+    "Entity Title": "Climate Resilience Funds",
+    "Entity Code": "climate resilience funds"
   },
   "knowledge graph": {
     "entities": [
-      "community-based energy resilience programs",
-      "climate resilience funds",
-      "climate finance mechanisms",
-      "climate adaptation strategies",
-      "climate change impacts",
-      "national disaster management agencies",
-      "Paris Agreement Goals"
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
+        "Category": "Finance",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Climate Change"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate resilience",
+          "climate resilience fund",
+          "climate resilience index"
+        ],
+        "Entity Title": "Climate Resilience Funds",
+        "Entity Code": "climate resilience funds"
+      },
+      {
+        "Entity Title": "Extreme Weather Events",
+        "Entity Code": "extreme weather events",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of community-based energy resilience programs.",
+        "Category": "Project",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "community-based climate resilience projects",
+          "community-based energy planning"
+        ],
+        "Entity Title": "Community-based Energy Resilience Programs",
+        "Entity Code": "community-based energy resilience programs"
+      },
+      {
+        "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Resilience",
+          "Adaptation Measures"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "climate adaptation"
+        ],
+        "Entity Title": "Climate Adaptation Strategies",
+        "Entity Code": "climate adaptation strategies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
+        "Category": "Finance",
+        "Tags": [
+          "Climate Change",
+          "Funding",
+          "Investment"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate finance programs",
+          "climate finance"
+        ],
+        "Entity Title": "Climate Finance Mechanisms",
+        "Entity Code": "climate finance mechanisms"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "National Disaster Management Agencies",
+        "Entity Code": "national disaster management agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "climate change impacts",
         "Description": "climate resilience funds address climate change impacts by supporting projects that enhance resilience to climate-related risks.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "employs",
         "Object": "climate adaptation strategies",
         "Description": "climate resilience funds employ climate adaptation strategies to build resilience and mitigate the impacts of climate change.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "collaborates_with",
         "Object": "national disaster management agencies",
         "Description": "climate resilience funds collaborate with National Disaster Management Agencies to enhance disaster preparedness and response in the face of climate change.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "supports",
         "Object": "community-based energy resilience programs",
         "Description": "climate resilience funds support community-based climate resilience projects to empower local communities in adapting to climate change.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "administers",
         "Object": "climate resilience funds",
         "Description": "climate resilience funds administer the Climate Resilience Fund to provide financial support for climate resilience initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "measures",
         "Object": "climate resilience funds",
         "Description": "climate resilience funds measure climate resilience using the Climate Resilience Index to assess vulnerability and adaptive capacity.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "aligns_with",
-        "Object": "Paris Agreement Goals",
+        "Object": "paris agreement goals",
         "Description": "climate resilience funds align with the goals and objectives of the Paris Agreement to combat climate change and enhance resilience.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate resilience funds"
       },
       {
         "Relation": "an_instance_of",
         "Object": "climate finance mechanisms",
         "Description": "climate resilience funds are an instance of climate finance, providing financial resources for climate resilience initiatives.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "climate resilience funds"
+      },
       {
         "Subject": "climate adaptation strategies",
         "Relation": "addresses",
@@ -123,21 +339,19 @@
         "Importance": 4
       },
       {
-        "Subject": "Paris Agreement Goals",
+        "Subject": "paris agreement goals",
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Paris Agreement Goals implements Energy Efficiency Policy to promote energy-saving practices and reduce greenhouse gas emissions.",
         "Importance": 4
       },
       {
-        "Subject": "Paris Agreement Goals",
+        "Subject": "paris agreement goals",
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Paris Agreement Goals funds Renewable Energy Projects to support the transition to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "climate resilience funds",
         "Relation": "addresses",

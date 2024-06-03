@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "data equity",
     "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
     "Category": "Social",
     "Tags": [
@@ -14,87 +13,178 @@
     "Synonyms": [
       "data security",
       "data quality"
-    ]
+    ],
+    "Entity Title": "Data Equity",
+    "Entity Code": "data equity"
   },
   "knowledge graph": {
     "entities": [
-      "ai for smart grid optimization"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+        "Category": "Technology",
+        "Tags": [
+          "Artificial Intelligence",
+          "Smart Grids",
+          "Energy Optimization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "AI-SGO",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Ai for Smart Grid Optimization",
+        "Entity Code": "ai for smart grid optimization"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity implements AI for smart grid optimization to ensure fair and unbiased decision-making in energy management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data equity"
       },
       {
         "Relation": "funds",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity funds AI for smart grid optimization to support research and development in optimizing energy grid operations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data equity"
       },
       {
         "Relation": "focuses_on",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity focuses on AI for smart grid optimization to improve energy efficiency and grid reliability.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data equity"
       },
       {
         "Relation": "in",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity is involved in AI for smart grid optimization to leverage advanced technologies for energy grid management.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "data equity"
       },
       {
         "Relation": "partners_with",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity partners with AI for smart grid optimization to collaborate on innovative solutions for energy grid optimization.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data equity"
       },
       {
         "Relation": "contributes_to",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity contributes to AI for smart grid optimization by providing data and insights for optimizing energy grid operations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data equity"
       },
       {
         "Relation": "monitors",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity monitors the performance of AI for smart grid optimization to ensure its effectiveness in energy grid management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "data equity"
       },
       {
         "Relation": "targets",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity targets the implementation of AI for smart grid optimization to achieve energy grid optimization goals.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "data equity"
       },
       {
         "Relation": "addresses",
         "Object": "ai for smart grid optimization",
         "Description": "Data equity addresses the challenges and opportunities of AI for smart grid optimization in the context of sustainable energy.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "data equity"
+      },
       {
-        "Subject": "AI for smart grid optimization",
+        "Subject": "ai for smart grid optimization",
         "Relation": "implements",
         "Object": "smart metering technologies",
         "Description": "AI for smart grid optimization implements smart grid technology to improve energy efficiency and grid reliability.",
         "Importance": 4
       },
       {
-        "Subject": "AI for smart grid optimization",
+        "Subject": "ai for smart grid optimization",
         "Relation": "funds",
         "Object": "research and development",
         "Description": "AI for smart grid optimization funds research and development projects to advance smart grid technologies.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",

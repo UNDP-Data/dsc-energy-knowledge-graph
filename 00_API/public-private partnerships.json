@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "public-private partnerships",
     "Description": "Summary of public-private partnerships",
     "Category": "Organization",
     "Tags": [
@@ -12,11 +11,134 @@
     "Importance": 2.0,
     "Synonyms": [
       "public-private partnership"
-    ]
+    ],
+    "Entity Title": "Public-private Partnerships",
+    "Entity Code": "public-private partnerships"
   },
   "knowledge graph": {
     "entities": [
-      "sdg7 targets"
+      {
+        "Description": "Summary of SDG7 targets",
+        "Category": "Policy",
+        "Tags": [
+          "SDG7",
+          "Targets"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Sdg7 Targets",
+        "Entity Code": "sdg7 targets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Summary of public-private partnerships",
+        "Category": "Organization",
+        "Tags": [
+          "Public-Private",
+          "Partnerships"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "public-private partnership"
+        ],
+        "Entity Title": "Public-private Partnerships",
+        "Entity Code": "public-private partnerships"
+      }
     ],
     "sub-elements": [
       "joint ventures",
@@ -25,116 +147,84 @@
       "strategic alliances",
       "shared value partnerships"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "joint ventures",
-        "Relation": "is a sub-element of",
-        "Parent": "public-private partnerships",
-        "Description": "Joint ventures are a type of public-private partnership where two or more entities collaborate and pool resources to undertake a specific project or achieve a common goal. They involve shared risks, responsibilities, and profits.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "cooperative agreements",
-        "Relation": "is a sub-element of",
-        "Parent": "public-private partnerships",
-        "Description": "Cooperative agreements are a form of public-private partnership where entities work together to achieve a common objective. They involve sharing resources, expertise, and responsibilities.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "concession agreements",
-        "Relation": "is a sub-element of",
-        "Parent": "public-private partnerships",
-        "Description": "Concession agreements are contractual arrangements between a public entity and a private entity, granting the private entity the right to operate, maintain, and/or develop a specific infrastructure or service. They involve the transfer of certain rights and responsibilities from the public sector to the private sector.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "strategic alliances",
-        "Relation": "is a sub-element of",
-        "Parent": "public-private partnerships",
-        "Description": "Strategic alliances are partnerships formed between entities to achieve a specific strategic objective. They involve collaboration, resource sharing, and joint decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "shared value partnerships",
-        "Relation": "is a sub-element of",
-        "Parent": "public-private partnerships",
-        "Description": "Shared value partnerships are collaborations between public and private entities that aim to create economic value while also addressing social and environmental challenges. They involve aligning business strategies with societal needs.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships implement SDG7 targets by leveraging the resources and expertise of both the public and private sectors.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "funds",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships provide funding for the implementation of SDG7 targets, ensuring financial support for sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "focuses_on",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships focus on achieving SDG7 targets, which aim to ensure access to affordable, reliable, sustainable, and modern energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "partners_with",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships collaborate with SDG7 targets to jointly work towards the goal of sustainable energy for all.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "contributes_to",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships contribute to the achievement of SDG7 targets by implementing sustainable energy projects and initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "monitors",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships monitor the progress of SDG7 targets to ensure the effective implementation of sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "addresses",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships address the challenges and barriers hindering the achievement of SDG7 targets, working towards overcoming them.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "employs",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships employ various strategies and approaches to achieve SDG7 targets, leveraging their combined resources and expertise.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "public-private partnerships"
       },
       {
         "Relation": "collaborates_with",
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships collaborate closely with SDG7 targets to ensure coordinated efforts towards sustainable energy development.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "public-private partnerships"
+      },
       {
-        "Subject": "SDG7 targets",
+        "Subject": "sdg7 targets",
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "SDG7 targets implements energy efficiency policy to promote sustainable energy practices.",
         "Importance": 4
       },
       {
-        "Subject": "SDG7 targets",
+        "Subject": "sdg7 targets",
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "SDG7 targets funds renewable energy projects to support the transition to sustainable energy sources.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -155,6 +245,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Joint ventures are a type of public-private partnership where two or more entities collaborate and pool resources to undertake a specific project or achieve a common goal. They involve shared risks, responsibilities, and profits.",
+        "Importance": 4,
+        "Subject": "joint ventures",
+        "Object": "public-private partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cooperative agreements are a form of public-private partnership where entities work together to achieve a common objective. They involve sharing resources, expertise, and responsibilities.",
+        "Importance": 3,
+        "Subject": "cooperative agreements",
+        "Object": "public-private partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Concession agreements are contractual arrangements between a public entity and a private entity, granting the private entity the right to operate, maintain, and/or develop a specific infrastructure or service. They involve the transfer of certain rights and responsibilities from the public sector to the private sector.",
+        "Importance": 4,
+        "Subject": "concession agreements",
+        "Object": "public-private partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Strategic alliances are partnerships formed between entities to achieve a specific strategic objective. They involve collaboration, resource sharing, and joint decision-making.",
+        "Importance": 3,
+        "Subject": "strategic alliances",
+        "Object": "public-private partnerships"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Shared value partnerships are collaborations between public and private entities that aim to create economic value while also addressing social and environmental challenges. They involve aligning business strategies with societal needs.",
+        "Importance": 4,
+        "Subject": "shared value partnerships",
+        "Object": "public-private partnerships"
       }
     ]
   }

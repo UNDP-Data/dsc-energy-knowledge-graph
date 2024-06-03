@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "solar energy",
     "Description": "Energy derived from the sun's radiation and converted into usable forms such as electricity or heat.",
     "Category": "Technology",
     "Tags": [
@@ -14,18 +13,178 @@
     "Importance": 4.0,
     "Synonyms": [
       "ocean energy"
-    ]
+    ],
+    "Entity Title": "Solar Energy",
+    "Entity Code": "solar energy"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "solar power plants",
-      "electric vehicle industry",
-      "solar panel performance",
-      "energy efficiency",
-      "climate change mitigation",
-      "rural electrification",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy derived from the sun's radiation and converted into usable forms such as electricity or heat.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "ocean energy"
+        ],
+        "Entity Title": "Solar Energy",
+        "Entity Code": "solar energy"
+      },
+      {
+        "Entity Title": "Electric Vehicle Industry",
+        "Entity Code": "electric vehicle industry",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Solar Power Plants",
+        "Entity Code": "solar power plants",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Solar Panel Performance",
+        "Entity Code": "solar panel performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Rural Electrification",
+        "Entity Code": "rural electrification",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "solar panels",
@@ -34,94 +193,63 @@
       "solar batteries",
       "solar thermal systems"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "solar panels",
-        "Relation": "is a sub-element of",
-        "Parent": "solar energy",
-        "Description": "Solar panels are devices that convert sunlight into electricity. They are a key component of solar energy systems and play a crucial role in harnessing renewable energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "solar cells",
-        "Relation": "is a sub-element of",
-        "Parent": "solar energy",
-        "Description": "Solar cells, also known as photovoltaic cells, are the building blocks of solar panels. They convert sunlight directly into electricity through the photovoltaic effect.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "solar inverters",
-        "Relation": "is a sub-element of",
-        "Parent": "solar energy",
-        "Description": "Solar inverters are electronic devices that convert the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity suitable for use in homes and businesses.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "solar batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "solar energy",
-        "Description": "Solar batteries store excess electricity generated by solar panels for later use. They help in achieving energy independence and enable the utilization of solar power even during non-sunny periods or at night.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "solar thermal systems",
-        "Relation": "is a sub-element of",
-        "Parent": "solar energy",
-        "Description": "Solar thermal systems use sunlight to heat water or other fluids, which can be used for various purposes such as space heating, water heating, and industrial processes. They are an alternative to traditional fossil fuel-based heating systems.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Solar energy implements Energy Efficiency Policy by promoting the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar energy"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Solar energy funds Research and Development to improve solar panel efficiency and develop new technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar energy"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Solar energy focuses on Renewable Energy Sources as a sustainable and clean energy solution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar energy"
       },
       {
         "Relation": "in",
         "Object": "solar power plants",
         "Description": "Solar energy is used in Solar Power Plants to generate electricity from sunlight.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar energy"
       },
       {
         "Relation": "partners_with",
         "Object": "electric vehicle industry",
         "Description": "Solar energy partners with the Electric Vehicle Industry to promote the use of solar-powered vehicles.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "solar energy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Solar energy contributes to Climate Change Mitigation by reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar energy"
       },
       {
         "Relation": "monitors",
         "Object": "solar panel performance",
         "Description": "Solar energy monitors the performance of solar panels to ensure optimal efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar energy"
       },
       {
         "Relation": "targets",
         "Object": "rural electrification",
         "Description": "Solar energy targets Rural Electrification to provide clean and affordable energy access to remote areas.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "solar energy"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -149,9 +277,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -179,6 +305,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar panels are devices that convert sunlight into electricity. They are a key component of solar energy systems and play a crucial role in harnessing renewable energy.",
+        "Importance": 4,
+        "Subject": "solar panels",
+        "Object": "solar energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar cells, also known as photovoltaic cells, are the building blocks of solar panels. They convert sunlight directly into electricity through the photovoltaic effect.",
+        "Importance": 4,
+        "Subject": "solar cells",
+        "Object": "solar energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar inverters are electronic devices that convert the direct current (DC) electricity generated by solar panels into alternating current (AC) electricity suitable for use in homes and businesses.",
+        "Importance": 3,
+        "Subject": "solar inverters",
+        "Object": "solar energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar batteries store excess electricity generated by solar panels for later use. They help in achieving energy independence and enable the utilization of solar power even during non-sunny periods or at night.",
+        "Importance": 3,
+        "Subject": "solar batteries",
+        "Object": "solar energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar thermal systems use sunlight to heat water or other fluids, which can be used for various purposes such as space heating, water heating, and industrial processes. They are an alternative to traditional fossil fuel-based heating systems.",
+        "Importance": 3,
+        "Subject": "solar thermal systems",
+        "Object": "solar energy"
       }
     ]
   }

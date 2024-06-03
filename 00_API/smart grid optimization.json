@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "smart grid optimization",
     "Description": "The use of advanced technologies and strategies to optimize the performance and efficiency of electrical grids.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,235 @@
     "Dimension": "Technology",
     "Acronym": "SGO",
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Smart Grid Optimization",
+    "Entity Code": "smart grid optimization"
   },
   "knowledge graph": {
     "entities": [
-      "energy distribution",
-      "utility companies",
-      "energy efficiency",
-      "energy consumption",
-      "demand response",
-      "energy transport systems",
-      "renewable energy agencies",
-      "energy resilience"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Utility Companies",
+        "Entity Code": "utility companies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Description": "The use of advanced technologies and strategies to optimize the performance and efficiency of electrical grids.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy Integration",
+          "Grid Flexibility",
+          "Demand Response"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "SGO",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Smart Grid Optimization",
+        "Entity Code": "smart grid optimization"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Transport Systems",
+        "Entity Code": "energy transport systems",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Environmental",
+          "Crisis"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "disaster resilience",
+          "grid resilience",
+          "energy resilience grants"
+        ],
+        "Entity Title": "Energy Resilience",
+        "Entity Code": "energy resilience"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Energy Distribution",
+        "Entity Code": "energy distribution",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Demand Response",
+        "Entity Code": "demand response",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "demand response",
@@ -31,94 +247,63 @@
       "renewable integration",
       "data analytics"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "demand response",
-        "Relation": "is a sub-element of",
-        "Parent": "smart grid optimization",
-        "Description": "Demand response is a key component of smart grid optimization, allowing for the adjustment of electricity usage in response to supply and demand conditions. It helps to balance the grid and reduce the need for additional generation capacity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy storage",
-        "Relation": "is a sub-element of",
-        "Parent": "smart grid optimization",
-        "Description": "Energy storage plays a crucial role in smart grid optimization by storing excess electricity during low demand periods and releasing it during high demand periods. It helps to improve grid stability, reliability, and efficiency.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "grid management",
-        "Relation": "is a sub-element of",
-        "Parent": "smart grid optimization",
-        "Description": "Grid management is an essential aspect of smart grid optimization, involving the monitoring, control, and optimization of electricity distribution. It ensures efficient and reliable operation of the grid.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "renewable integration",
-        "Relation": "is a sub-element of",
-        "Parent": "smart grid optimization",
-        "Description": "Renewable integration is a critical component of smart grid optimization, enabling the seamless integration of renewable energy sources into the grid. It involves managing the variability and intermittency of renewable generation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "smart grid optimization",
-        "Description": "Data analytics plays a vital role in smart grid optimization by analyzing large volumes of data from various sources, such as smart meters and sensors. It helps to optimize grid operations, improve energy efficiency, and enable predictive maintenance.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy transport systems",
         "Description": "Smart grid optimization implements energy management systems to optimize energy usage and reduce wastage.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Smart grid optimization funds renewable energy projects to promote clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "focuses_on",
         "Object": "demand response",
         "Description": "Smart grid optimization focuses on demand response to efficiently manage electricity consumption during peak hours.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "in",
         "Object": "energy distribution",
         "Description": "Smart grid optimization plays a crucial role in energy distribution by optimizing the flow of electricity.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "partners_with",
         "Object": "utility companies",
         "Description": "Smart grid optimization partners with utility companies to enhance the efficiency and reliability of energy distribution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy resilience",
         "Description": "Smart grid optimization contributes to grid resilience by enabling quick response to power outages and disruptions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Smart grid optimization monitors energy consumption to identify patterns and optimize energy usage.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart grid optimization"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Smart grid optimization targets energy efficiency by optimizing energy distribution and reducing energy losses.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "smart grid optimization"
+      },
       {
         "Subject": "energy transport systems",
         "Relation": "addresses",
@@ -174,9 +359,7 @@
         "Object": "energy markets",
         "Description": "Energy efficiency employs energy audits to identify energy-saving opportunities and optimize energy use.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -204,6 +387,41 @@
         "Object": "intermittency of renewable energy",
         "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand response is a key component of smart grid optimization, allowing for the adjustment of electricity usage in response to supply and demand conditions. It helps to balance the grid and reduce the need for additional generation capacity.",
+        "Importance": 4,
+        "Subject": "demand response",
+        "Object": "smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy storage plays a crucial role in smart grid optimization by storing excess electricity during low demand periods and releasing it during high demand periods. It helps to improve grid stability, reliability, and efficiency.",
+        "Importance": 4,
+        "Subject": "energy storage",
+        "Object": "smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Grid management is an essential aspect of smart grid optimization, involving the monitoring, control, and optimization of electricity distribution. It ensures efficient and reliable operation of the grid.",
+        "Importance": 4,
+        "Subject": "grid management",
+        "Object": "smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable integration is a critical component of smart grid optimization, enabling the seamless integration of renewable energy sources into the grid. It involves managing the variability and intermittency of renewable generation.",
+        "Importance": 4,
+        "Subject": "renewable integration",
+        "Object": "smart grid optimization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data analytics plays a vital role in smart grid optimization by analyzing large volumes of data from various sources, such as smart meters and sensors. It helps to optimize grid operations, improve energy efficiency, and enable predictive maintenance.",
+        "Importance": 4,
+        "Subject": "data analytics",
+        "Object": "smart grid optimization"
       }
     ]
   }

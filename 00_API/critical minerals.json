@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "critical minerals",
     "Description": "Minerals that are essential for various industries and have a high economic and strategic value.",
     "Category": "Economic",
     "Tags": [
@@ -11,72 +10,267 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Critical Minerals",
+    "Entity Code": "critical minerals"
   },
   "knowledge graph": {
     "entities": [
-      "mining companies",
-      "reducing dependency on fossil fuels",
-      "research and development",
-      "energy efficiency",
-      "just energy transition",
-      "supply chain",
-      "renewable energy agencies",
-      "battery manufacturing"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Reducing Dependency on Fossil Fuels",
+        "Entity Code": "reducing dependency on fossil fuels",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Mining Companies",
+        "Entity Code": "mining companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Supply Chain",
+        "Entity Code": "supply chain",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Battery Manufacturing",
+        "Entity Code": "battery manufacturing",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Critical minerals are implemented in the Energy Efficiency Policy to ensure the use of sustainable and efficient energy resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Critical minerals are funded for research and development to explore their potential in sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Critical minerals play a crucial role in the focus on developing and advancing renewable energy technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "in",
         "Object": "battery manufacturing",
         "Description": "Critical minerals are used in battery manufacturing for energy storage solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "partners_with",
         "Object": "mining companies",
         "Description": "Critical minerals partner with mining companies to ensure responsible and sustainable extraction practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "contributes_to",
         "Object": "just energy transition",
         "Description": "Critical minerals contribute to the clean energy transition by enabling the development of renewable energy technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "monitors",
         "Object": "supply chain",
         "Description": "Critical minerals are monitored throughout the supply chain to ensure ethical sourcing and sustainable practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "critical minerals"
       },
       {
         "Relation": "targets",
         "Object": "reducing dependency on fossil fuels",
         "Description": "Critical minerals are targeted for reducing dependency on fossil fuels and promoting sustainable energy sources.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "critical minerals"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -118,9 +312,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

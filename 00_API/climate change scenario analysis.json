@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "climate change scenario analysis",
     "Description": "Analysis of different scenarios related to climate change",
     "Category": "Policy",
     "Tags": [
@@ -13,19 +12,239 @@
     "Importance": 3.0,
     "Synonyms": [
       "climate change goals"
-    ]
+    ],
+    "Entity Title": "Climate Change Scenario Analysis",
+    "Entity Code": "climate change scenario analysis"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable energy planning",
-      "reducing greenhouse gas emissions",
-      "offshore renewable energy",
-      "just energy transition",
-      "energy research institutions",
-      "energy poverty indices",
-      "policy development",
-      "energy consumption patterns",
-      "sustainable energy projects"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Planning",
+        "Entity Code": "sustainable energy planning",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Research Institutions",
+        "Entity Code": "energy research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "wave energy"
+        ],
+        "Entity Title": "Wind Energy",
+        "Entity Code": "wind energy"
+      },
+      {
+        "Description": "Analysis of different scenarios related to climate change",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Scenario",
+          "Analysis"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate change goals"
+        ],
+        "Entity Title": "Climate Change Scenario Analysis",
+        "Entity Code": "climate change scenario analysis"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Policy Development",
+        "Entity Code": "policy development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Entity Title": "Reducing Greenhouse Gas Emissions",
+        "Entity Code": "reducing greenhouse gas emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "climate models",
@@ -34,100 +253,70 @@
       "policy analysis",
       "adaptation strategies"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "climate models",
-        "Relation": "is a sub-element of",
-        "Parent": "climate change scenario analysis",
-        "Description": "Climate models are a key component of climate change scenario analysis. They are used to simulate and project future climate conditions based on various factors such as greenhouse gas emissions, land use changes, and atmospheric conditions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "emissions scenarios",
-        "Relation": "is a sub-element of",
-        "Parent": "climate change scenario analysis",
-        "Description": "Emissions scenarios are an important aspect of climate change scenario analysis. They involve the development of different scenarios that represent possible future trajectories of greenhouse gas emissions, which are used as inputs for climate models.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "impact assessments",
-        "Relation": "is a sub-element of",
-        "Parent": "climate change scenario analysis",
-        "Description": "Impact assessments are a crucial part of climate change scenario analysis. They involve the evaluation of the potential impacts of climate change on various sectors and systems, such as ecosystems, infrastructure, agriculture, and human health.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "policy analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "climate change scenario analysis",
-        "Description": "Policy analysis is an integral component of climate change scenario analysis. It involves the examination and evaluation of existing and proposed policies and measures aimed at mitigating and adapting to climate change, based on the insights and findings from climate models and impact assessments.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "adaptation strategies",
-        "Relation": "is a sub-element of",
-        "Parent": "climate change scenario analysis",
-        "Description": "Adaptation strategies are a key outcome of climate change scenario analysis. They involve the development and implementation of measures and actions to reduce vulnerability and enhance resilience to the projected impacts of climate change, based on the insights and findings from climate models, impact assessments, and policy analysis.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy projects",
         "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "funds",
         "Object": "offshore renewable energy",
         "Description": "Climate change scenario analysis funds research on renewable energy to develop innovative solutions for sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "focuses_on",
         "Object": "just energy transition",
         "Description": "Climate change scenario analysis focuses on the energy transition towards renewable and clean energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy planning",
         "Description": "Climate change scenario analysis plays a crucial role in sustainable energy planning for a low-carbon future.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "partners_with",
         "Object": "energy research institutions",
         "Description": "Climate change scenario analysis partners with energy research institutions to collaborate on sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "contributes_to",
         "Object": "policy development",
         "Description": "Climate change scenario analysis contributes to policy development by providing insights on the impact of climate change on energy systems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption patterns",
         "Description": "Climate change scenario analysis monitors energy consumption patterns to identify areas for improvement and energy efficiency measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "targets",
         "Object": "reducing greenhouse gas emissions",
         "Description": "Climate change scenario analysis targets the reduction of greenhouse gas emissions through sustainable energy strategies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Climate change scenario analysis addresses energy poverty by promoting access to affordable and clean energy for all.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "climate change scenario analysis"
+      },
       {
         "Subject": "offshore renewable energy",
         "Relation": "implements",
@@ -169,9 +358,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "wind energy",
         "Relation": "implements",
@@ -199,6 +386,41 @@
         "Object": "renewable energy certificates",
         "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
         "Importance": 3
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Climate models are a key component of climate change scenario analysis. They are used to simulate and project future climate conditions based on various factors such as greenhouse gas emissions, land use changes, and atmospheric conditions.",
+        "Importance": 4,
+        "Subject": "climate models",
+        "Object": "climate change scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Emissions scenarios are an important aspect of climate change scenario analysis. They involve the development of different scenarios that represent possible future trajectories of greenhouse gas emissions, which are used as inputs for climate models.",
+        "Importance": 3,
+        "Subject": "emissions scenarios",
+        "Object": "climate change scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Impact assessments are a crucial part of climate change scenario analysis. They involve the evaluation of the potential impacts of climate change on various sectors and systems, such as ecosystems, infrastructure, agriculture, and human health.",
+        "Importance": 4,
+        "Subject": "impact assessments",
+        "Object": "climate change scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Policy analysis is an integral component of climate change scenario analysis. It involves the examination and evaluation of existing and proposed policies and measures aimed at mitigating and adapting to climate change, based on the insights and findings from climate models and impact assessments.",
+        "Importance": 3,
+        "Subject": "policy analysis",
+        "Object": "climate change scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Adaptation strategies are a key outcome of climate change scenario analysis. They involve the development and implementation of measures and actions to reduce vulnerability and enhance resilience to the projected impacts of climate change, based on the insights and findings from climate models, impact assessments, and policy analysis.",
+        "Importance": 4,
+        "Subject": "adaptation strategies",
+        "Object": "climate change scenario analysis"
       }
     ]
   }

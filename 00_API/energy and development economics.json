@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy and development economics",
     "Description": "The study of the economic aspects of energy production, consumption, and development.",
     "Category": "Organization",
     "Tags": [
@@ -11,72 +10,276 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy and Development Economics",
+    "Entity Code": "energy and development economics"
   },
   "knowledge graph": {
     "entities": [
-      "regional energy organizations",
-      "cost-benefit analysis",
-      "interdisciplinary field",
-      "energy subsisides reform",
-      "sustainable development goals",
-      "energy poverty indices",
-      "energy productivity",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Cost-benefit Analysis",
+        "Entity Code": "cost-benefit analysis",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Interdisciplinary Field",
+        "Entity Code": "interdisciplinary field",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Productivity",
+        "Entity Code": "energy productivity",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": null,
+        "Category": null,
+        "Tags": null,
+        "Dimension": null,
+        "Acronym": null,
+        "Importance": null,
+        "Synonyms": [
+          "energy subsidy programs",
+          "energy subsidies"
+        ],
+        "Entity Title": "Energy Subsisides Reform",
+        "Entity Code": "energy subsisides reform"
+      },
+      {
+        "Entity Title": "Market-based Pricing Mechanisms",
+        "Entity Code": "market-based pricing mechanisms",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Energy and development economics address the issue of energy poverty and its impact on socio-economic development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "employs",
         "Object": "cost-benefit analysis",
         "Description": "Energy and development economics employ cost-benefit analysis to evaluate the economic viability of sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "collaborates_with",
         "Object": "regional energy organizations",
         "Description": "Energy and development economics collaborate with international organizations to promote sustainable energy solutions globally.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Energy and development economics support research on renewable energy technologies and their potential for economic growth.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "administers",
         "Object": "energy subsisides reform",
         "Description": "Energy and development economics administer energy subsidies to promote the adoption of clean and affordable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "measures",
         "Object": "energy productivity",
         "Description": "Energy and development economics measure energy productivity to assess the efficiency of energy use in different sectors.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Energy and development economics align with the Sustainable Development Goals to ensure energy access and sustainability for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy and development economics"
       },
       {
         "Relation": "an_instance_of",
         "Object": "interdisciplinary field",
         "Description": "Energy and development economics is an interdisciplinary field that combines principles of economics and energy studies.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy and development economics"
+      },
       {
         "Subject": "energy poverty indices",
         "Relation": "implements",
@@ -132,9 +335,7 @@
         "Object": "market-based pricing mechanisms",
         "Description": "Energy subsidies reform employs Market-Based Pricing Mechanisms to promote efficient energy pricing and reduce market distortions.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",

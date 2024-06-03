@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "whole-of-society approach",
     "Description": "A whole-of-society approach refers to a collaborative and inclusive approach that involves all sectors of society, including government, civil society, private sector, and individuals, in addressing complex challenges and achieving sustainable development goals.",
     "Category": "Strategy",
     "Tags": [
@@ -11,72 +10,274 @@
     "Dimension": "Strategy",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Whole-of-society Approach",
+    "Entity Code": "whole-of-society approach"
   },
   "knowledge graph": {
     "entities": [
-      "non-governmental organizations",
-      "community engagement",
-      "just energy transition",
-      "energy diplomacy",
-      "sustainable development goals",
-      "energy consumption",
-      "energy poverty indices",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Community Engagement",
+        "Entity Code": "community engagement",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy diplomacy refers to the diplomatic efforts and negotiations related to energy resources, energy security, and energy cooperation between countries and international organizations.",
+        "Category": "Policy",
+        "Tags": [
+          "International Relations",
+          "Energy Security",
+          "Cooperation"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy policy"
+        ],
+        "Entity Title": "Energy Diplomacy",
+        "Entity Code": "energy diplomacy"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Non-governmental Organizations",
+        "Entity Code": "non-governmental organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "just energy transition",
         "Description": "The whole-of-society approach implements the Energy Transition Strategy to ensure the active participation of all stakeholders in achieving sustainable energy goals.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "The whole-of-society approach provides funding for various renewable energy projects to accelerate the transition to clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "focuses_on",
         "Object": "community engagement",
         "Description": "The whole-of-society approach focuses on community engagement to ensure the active involvement and empowerment of local communities in sustainable energy initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "in",
         "Object": "energy diplomacy",
         "Description": "The whole-of-society approach is embedded in the Energy Policy to ensure the integration of diverse perspectives and expertise in decision-making processes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "partners_with",
         "Object": "non-governmental organizations",
         "Description": "The whole-of-society approach partners with non-governmental organizations to leverage their expertise and resources in implementing sustainable energy projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals",
         "Description": "The whole-of-society approach contributes to the achievement of Sustainable Development Goals by promoting inclusive and equitable access to sustainable energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "The whole-of-society approach monitors energy consumption patterns to identify areas for improvement and optimize energy efficiency measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "whole-of-society approach"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "The whole-of-society approach targets the reduction of energy poverty by implementing targeted interventions and programs to improve access to affordable and reliable energy services.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "whole-of-society approach"
+      },
       {
         "Subject": "just energy transition",
         "Relation": "employs",
@@ -132,9 +333,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",

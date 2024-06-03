@@ -1,77 +1,214 @@
 {
   "metadata": {
-    "Entity": "The UNDP SIDS Offer",
     "Description": null,
     "Category": null,
     "Tags": null,
     "Dimension": null,
     "Acronym": null,
     "Importance": null,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "The Undp Sids Offer",
+    "Entity Code": "the undp sids offer"
   },
   "knowledge graph": {
     "entities": [
-      "partnership with local governments",
-      "energy efficiency",
-      "energy markets",
-      "private sector companies",
-      "climate change mitigation",
-      "energy consumption",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Partnership with Local Governments",
+        "Entity Code": "partnership with local governments",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Private Sector Companies",
+        "Entity Code": "private sector companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "The UNDP SIDS Offer implements energy efficiency policies to promote sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "The UNDP SIDS Offer provides funding for renewable energy projects to support the transition to sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "The UNDP SIDS Offer focuses on improving energy access in developing countries to ensure sustainable development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "in",
         "Object": "partnership with local governments",
         "Description": "The UNDP SIDS Offer works in partnership with local governments to implement sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector companies",
         "Description": "The UNDP SIDS Offer partners with private sector companies to promote sustainable energy investments.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "The UNDP SIDS Offer contributes to climate change mitigation through the promotion of sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "The UNDP SIDS Offer monitors energy consumption patterns to identify areas for improvement and energy-saving opportunities.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "the undp sids offer"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "The UNDP SIDS Offer sets targets for increasing renewable energy capacity to promote sustainable energy generation.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "the undp sids offer"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -113,9 +250,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

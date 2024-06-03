@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "foundational data infrastructure",
     "Description": "Foundational data infrastructure refers to the basic infrastructure required for collecting, storing, and managing data.",
     "Category": "Infrastructure",
     "Tags": [
@@ -10,18 +9,241 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Foundational Data Infrastructure",
+    "Entity Code": "foundational data infrastructure"
   },
   "knowledge graph": {
     "entities": [
-      "digital transformation",
-      "energy modeling",
-      "energy efficiency",
-      "energy markets",
-      "energy grid operators",
-      "data governance frameworks",
-      "energy data repositories",
-      "energy data analytics"
+      {
+        "Entity Title": "Digital Transformation",
+        "Entity Code": "digital transformation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "data governance principles",
+          "data governance"
+        ],
+        "Entity Title": "Data Governance Frameworks",
+        "Entity Code": "data governance frameworks"
+      },
+      {
+        "Description": "Foundational data infrastructure refers to the basic infrastructure required for collecting, storing, and managing data.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Data Infrastructure",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": null,
+        "Entity Title": "Foundational Data Infrastructure",
+        "Entity Code": "foundational data infrastructure"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Privacy",
+          "Security"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Data Privacy and Security",
+        "Entity Code": "data privacy and security"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+        "Category": "Technology",
+        "Tags": [
+          "Data-driven Insights",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data management",
+          "energy market analysis",
+          "data analytics",
+          "energy analysts"
+        ],
+        "Entity Title": "Energy Data Analytics",
+        "Entity Code": "energy data analytics"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Simulation",
+          "System Analysis",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy planning"
+        ],
+        "Entity Title": "Energy Modeling",
+        "Entity Code": "energy modeling"
+      },
+      {
+        "Entity Title": "Energy Grid Operators",
+        "Entity Code": "energy grid operators",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Repositories that store and manage energy-related data.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Energy",
+          "Repositories"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data platform"
+        ],
+        "Entity Title": "Energy Data Repositories",
+        "Entity Code": "energy data repositories"
+      }
     ],
     "sub-elements": [
       "data collection",
@@ -30,94 +252,63 @@
       "data sharing",
       "data governance"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data collection",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational data infrastructure",
-        "Description": "Data collection is a crucial component of foundational data infrastructure. It involves the systematic gathering of data from various sources, such as sensors, surveys, and administrative records, to provide a comprehensive and accurate representation of the target area or population.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data storage",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational data infrastructure",
-        "Description": "Data storage is an essential aspect of foundational data infrastructure. It refers to the mechanisms and technologies used to store and organize large volumes of data securely and efficiently. Proper data storage ensures data accessibility, integrity, and long-term preservation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data processing",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational data infrastructure",
-        "Description": "Data processing is a key function of foundational data infrastructure. It involves transforming raw data into meaningful information through various techniques such as cleaning, aggregating, analyzing, and visualizing. Data processing enables decision-making and insights generation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data sharing",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational data infrastructure",
-        "Description": "Data sharing is a vital aspect of foundational data infrastructure. It refers to the controlled and secure exchange of data between different stakeholders, including government agencies, research institutions, and private organizations. Data sharing promotes collaboration, innovation, and evidence-based decision-making.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data governance",
-        "Relation": "is a sub-element of",
-        "Parent": "foundational data infrastructure",
-        "Description": "Data governance is a critical component of foundational data infrastructure. It encompasses the policies, processes, and frameworks that ensure the effective management, quality, privacy, and security of data throughout its lifecycle. Data governance establishes accountability, transparency, and trust in data-driven systems.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "Foundational data infrastructure addresses the issue of energy access by providing accurate and reliable data on energy availability and distribution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "employs",
         "Object": "energy data analytics",
         "Description": "Foundational data infrastructure employs data analytics to analyze energy-related data and derive insights for decision-making and policy formulation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "collaborates_with",
         "Object": "energy grid operators",
         "Description": "Foundational data infrastructure collaborates with energy grid operators to ensure the efficient and reliable transmission of energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "supports",
         "Object": "energy modeling",
         "Description": "Foundational data infrastructure supports energy planning efforts by providing accurate data on energy consumption, demand, and infrastructure.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "administers",
         "Object": "energy data repositories",
         "Description": "Foundational data infrastructure administers an energy data platform that centralizes and manages energy-related data for easy access and analysis.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "measures",
         "Object": "energy efficiency",
         "Description": "Foundational data infrastructure measures energy efficiency by collecting and analyzing data on energy consumption and efficiency measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "aligns_with",
         "Object": "digital transformation",
         "Description": "Foundational data infrastructure aligns with the digital transformation agenda to leverage technology for efficient energy data management and analysis.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "foundational data infrastructure"
       },
       {
         "Relation": "an_instance_of",
         "Object": "data governance frameworks",
         "Description": "Foundational data infrastructure is an instance of data governance that ensures the quality, integrity, and accessibility of energy-related data.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "foundational data infrastructure"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -173,9 +364,7 @@
         "Object": "data privacy and security",
         "Description": "Energy data repositories provide funding for initiatives related to data privacy and security.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -203,6 +392,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data collection is a crucial component of foundational data infrastructure. It involves the systematic gathering of data from various sources, such as sensors, surveys, and administrative records, to provide a comprehensive and accurate representation of the target area or population.",
+        "Importance": 4,
+        "Subject": "data collection",
+        "Object": "foundational data infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data storage is an essential aspect of foundational data infrastructure. It refers to the mechanisms and technologies used to store and organize large volumes of data securely and efficiently. Proper data storage ensures data accessibility, integrity, and long-term preservation.",
+        "Importance": 4,
+        "Subject": "data storage",
+        "Object": "foundational data infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data processing is a key function of foundational data infrastructure. It involves transforming raw data into meaningful information through various techniques such as cleaning, aggregating, analyzing, and visualizing. Data processing enables decision-making and insights generation.",
+        "Importance": 4,
+        "Subject": "data processing",
+        "Object": "foundational data infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data sharing is a vital aspect of foundational data infrastructure. It refers to the controlled and secure exchange of data between different stakeholders, including government agencies, research institutions, and private organizations. Data sharing promotes collaboration, innovation, and evidence-based decision-making.",
+        "Importance": 4,
+        "Subject": "data sharing",
+        "Object": "foundational data infrastructure"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data governance is a critical component of foundational data infrastructure. It encompasses the policies, processes, and frameworks that ensure the effective management, quality, privacy, and security of data throughout its lifecycle. Data governance establishes accountability, transparency, and trust in data-driven systems.",
+        "Importance": 4,
+        "Subject": "data governance",
+        "Object": "foundational data infrastructure"
       }
     ]
   }

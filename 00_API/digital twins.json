@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "digital twins",
     "Description": "A digital representation of a physical object or system that can be used for various purposes such as monitoring, simulation, and optimization.",
     "Category": "Technology",
     "Tags": [
@@ -11,19 +10,230 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Digital Twins",
+    "Entity Code": "digital twins"
   },
   "knowledge graph": {
     "entities": [
-      "asset performance optimization",
-      "predictive maintenance",
-      "smart manufacturing",
-      "data equity",
-      "smart cities initiative",
-      "resilient infrastructure",
-      "building information modeling",
-      "energy transport systems",
-      "internet of energy"
+      {
+        "Entity Title": "Predictive Maintenance",
+        "Entity Code": "predictive maintenance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Smart Manufacturing",
+        "Entity Code": "smart manufacturing",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
+        "Category": "Social",
+        "Tags": [
+          "Data Access",
+          "Data Inclusion",
+          "Data Justice"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "data security",
+          "data quality"
+        ],
+        "Entity Title": "Data Equity",
+        "Entity Code": "data equity"
+      },
+      {
+        "Entity Title": "Building Information Modeling",
+        "Entity Code": "building information modeling",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Asset Performance Optimization",
+        "Entity Code": "asset performance optimization",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Transport Systems",
+        "Entity Code": "energy transport systems",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A digital representation of a physical object or system that can be used for various purposes such as monitoring, simulation, and optimization.",
+        "Category": "Technology",
+        "Tags": [
+          "Internet of Things",
+          "Simulation",
+          "Optimization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Digital Twins",
+        "Entity Code": "digital twins"
+      },
+      {
+        "Description": "The application of artificial intelligence techniques to optimize the operation and management of smart grids.",
+        "Category": "Technology",
+        "Tags": [
+          "Artificial Intelligence",
+          "Smart Grids",
+          "Energy Optimization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "AI-SGO",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Ai for Smart Grid Optimization",
+        "Entity Code": "ai for smart grid optimization"
+      },
+      {
+        "Entity Title": "Smart Cities Initiative",
+        "Entity Code": "smart cities initiative",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A network of interconnected devices and systems that enable the efficient management and distribution of energy.",
+        "Category": "Technology",
+        "Tags": [
+          "IoT",
+          "Energy Management",
+          "Smart Grids"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "IoE",
+        "Importance": 4.0,
+        "Synonyms": [
+          "internet of things",
+          "net zero energy"
+        ],
+        "Entity Title": "Internet of Energy",
+        "Entity Code": "internet of energy"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Disaster Risk Reduction"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "infrastructure",
+          "charging infrastructure",
+          "hydrogen infrastructure",
+          "green infrastructure"
+        ],
+        "Entity Title": "Resilient Infrastructure",
+        "Entity Code": "resilient infrastructure"
+      }
     ],
     "sub-elements": [
       "data integration",
@@ -32,100 +242,70 @@
       "visualization",
       "predictive maintenance"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data integration",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Data integration is a crucial aspect of digital twins, as it involves collecting and integrating data from various sources to create a virtual representation of a physical asset or system. This allows for real-time monitoring and analysis of the asset or system's performance.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "simulation",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Simulation is an important sub-element of digital twins, as it enables the creation of virtual models that mimic the behavior and performance of physical assets or systems. This allows for testing and optimization of different scenarios without the need for physical prototypes.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "analytics",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Analytics is a key sub-element of digital twins, as it involves the use of advanced data analysis techniques to derive insights and make predictions based on the data collected from the virtual representation of a physical asset or system. This helps in optimizing performance and making informed decisions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Visualization is an essential sub-element of digital twins, as it allows for the representation of complex data and information in a visual format. This enables stakeholders to easily understand and interpret the insights derived from the virtual representation of a physical asset or system.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "predictive maintenance",
-        "Relation": "is a sub-element of",
-        "Parent": "digital twins",
-        "Description": "Predictive maintenance is a significant sub-element of digital twins, as it involves using data and analytics to predict when maintenance or repairs are needed for a physical asset or system. This helps in optimizing maintenance schedules, reducing downtime, and improving overall asset performance.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building information modeling",
         "Description": "Digital twins implements Building Information Modeling to create virtual representations of physical assets for better monitoring and management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital twins"
       },
       {
         "Relation": "funds",
         "Object": "smart cities initiative",
         "Description": "Digital twins funds the Smart Cities Initiative to develop innovative solutions for urban planning and management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital twins"
       },
       {
         "Relation": "focuses_on",
         "Object": "predictive maintenance",
         "Description": "Digital twins focuses on predictive maintenance to optimize asset performance and reduce downtime.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital twins"
       },
       {
         "Relation": "in",
         "Object": "internet of energy",
         "Description": "Digital twins operates in the Internet of Things ecosystem to collect real-time data for analysis and decision-making.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital twins"
       },
       {
         "Relation": "partners_with",
         "Object": "energy transport systems",
         "Description": "Digital twins partners with Energy Management Systems to optimize energy consumption and improve efficiency.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital twins"
       },
       {
         "Relation": "contributes_to",
         "Object": "asset performance optimization",
         "Description": "Digital twins contributes to asset performance optimization by providing real-time insights and predictive analytics.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital twins"
       },
       {
         "Relation": "monitors",
         "Object": "resilient infrastructure",
         "Description": "Digital twins monitors infrastructure to detect anomalies, predict failures, and enable proactive maintenance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital twins"
       },
       {
         "Relation": "targets",
         "Object": "smart manufacturing",
         "Description": "Digital twins targets smart manufacturing to improve production efficiency and quality through virtual simulations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital twins"
       },
       {
         "Relation": "addresses",
         "Object": "data equity",
         "Description": "Digital twins addresses data security concerns by implementing robust encryption and access control measures.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "digital twins"
+      },
       {
         "Subject": "internet of energy",
         "Relation": "implements",
@@ -181,9 +361,7 @@
         "Object": "ai for smart grid optimization",
         "Description": "Data equity partners with AI for smart grid optimization to collaborate on innovative solutions for energy grid optimization.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -211,6 +389,41 @@
         "Object": "energy markets",
         "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data integration is a crucial aspect of digital twins, as it involves collecting and integrating data from various sources to create a virtual representation of a physical asset or system. This allows for real-time monitoring and analysis of the asset or system's performance.",
+        "Importance": 4,
+        "Subject": "data integration",
+        "Object": "digital twins"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Simulation is an important sub-element of digital twins, as it enables the creation of virtual models that mimic the behavior and performance of physical assets or systems. This allows for testing and optimization of different scenarios without the need for physical prototypes.",
+        "Importance": 4,
+        "Subject": "simulation",
+        "Object": "digital twins"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Analytics is a key sub-element of digital twins, as it involves the use of advanced data analysis techniques to derive insights and make predictions based on the data collected from the virtual representation of a physical asset or system. This helps in optimizing performance and making informed decisions.",
+        "Importance": 4,
+        "Subject": "analytics",
+        "Object": "digital twins"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Visualization is an essential sub-element of digital twins, as it allows for the representation of complex data and information in a visual format. This enables stakeholders to easily understand and interpret the insights derived from the virtual representation of a physical asset or system.",
+        "Importance": 3,
+        "Subject": "visualization",
+        "Object": "digital twins"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Predictive maintenance is a significant sub-element of digital twins, as it involves using data and analytics to predict when maintenance or repairs are needed for a physical asset or system. This helps in optimizing maintenance schedules, reducing downtime, and improving overall asset performance.",
+        "Importance": 4,
+        "Subject": "predictive maintenance",
+        "Object": "digital twins"
       }
     ]
   }

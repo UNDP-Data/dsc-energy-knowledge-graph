@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "levelized cost of electricity",
     "Description": "A measure of the average cost of generating electricity from a particular source over its lifetime, taking into account the initial investment, operating costs, and expected output.",
     "Category": "Economic",
     "Tags": [
@@ -10,18 +9,236 @@
     "Dimension": "Economic",
     "Acronym": "LCOE",
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Levelized Cost of Electricity",
+    "Entity Code": "levelized cost of electricity"
   },
   "knowledge graph": {
     "entities": [
-      "electricity regulatory authority",
-      "energy consumption patterns",
-      "energy efficiency",
-      "just energy transition",
-      "renewable energy agencies",
-      "cost reduction strategies",
-      "energy data analytics",
-      "affordable energy access"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Electricity Regulatory Authority",
+        "Entity Code": "electricity regulatory authority",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A measure of the average cost of generating electricity from a particular source over its lifetime, taking into account the initial investment, operating costs, and expected output.",
+        "Category": "Economic",
+        "Tags": [
+          "Technology",
+          "Finance"
+        ],
+        "Dimension": "Economic",
+        "Acronym": "LCOE",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Levelized Cost of Electricity",
+        "Entity Code": "levelized cost of electricity"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+        "Category": "Technology",
+        "Tags": [
+          "Data-driven Insights",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data management",
+          "energy market analysis",
+          "data analytics",
+          "energy analysts"
+        ],
+        "Entity Title": "Energy Data Analytics",
+        "Entity Code": "energy data analytics"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Affordable Energy Access",
+        "Entity Code": "affordable energy access",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Cost Reduction Strategies",
+        "Entity Code": "cost reduction strategies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "capital costs",
@@ -30,94 +247,63 @@
       "maintenance costs",
       "transmission and distribution costs"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "capital costs",
-        "Relation": "is a sub-element of",
-        "Parent": "levelized cost of electricity",
-        "Description": "Capital costs are a component of the levelized cost of electricity and include the initial investment required for the construction and installation of the energy generation infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "operating costs",
-        "Relation": "is a sub-element of",
-        "Parent": "levelized cost of electricity",
-        "Description": "Operating costs are a component of the levelized cost of electricity and include the expenses associated with the day-to-day operation and maintenance of the energy generation infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "fuel costs",
-        "Relation": "is a sub-element of",
-        "Parent": "levelized cost of electricity",
-        "Description": "Fuel costs are a component of the levelized cost of electricity and include the expenses related to the procurement and utilization of fuel for energy generation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "maintenance costs",
-        "Relation": "is a sub-element of",
-        "Parent": "levelized cost of electricity",
-        "Description": "Maintenance costs are a component of the levelized cost of electricity and include the expenses associated with the regular upkeep and repair of the energy generation infrastructure.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "transmission and distribution costs",
-        "Relation": "is a sub-element of",
-        "Parent": "levelized cost of electricity",
-        "Description": "Transmission and distribution costs are a component of the levelized cost of electricity and include the expenses related to the transmission and distribution of electricity from the generation source to the end-users.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "The levelized cost of electricity is implemented by the Energy Efficiency Policy to ensure cost-effective energy generation and consumption.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "The levelized cost of electricity provides funding for various renewable energy projects to promote sustainable energy generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "focuses_on",
         "Object": "cost reduction strategies",
         "Description": "The levelized cost of electricity focuses on implementing cost reduction strategies to make energy generation more affordable and accessible.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "in",
         "Object": "energy data analytics",
         "Description": "The levelized cost of electricity is used in energy market analysis to assess the competitiveness of different energy sources.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "partners_with",
         "Object": "electricity regulatory authority",
         "Description": "The levelized cost of electricity partners with the Electricity Regulatory Authority to ensure fair pricing and regulation in the energy sector.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "contributes_to",
         "Object": "just energy transition",
         "Description": "The levelized cost of electricity contributes to the overall energy transition by promoting the adoption of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption patterns",
         "Description": "The levelized cost of electricity monitors energy consumption patterns to identify areas for improvement and optimization.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "levelized cost of electricity"
       },
       {
         "Relation": "targets",
         "Object": "affordable energy access",
         "Description": "The levelized cost of electricity targets affordable energy access for all, especially in underserved communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "levelized cost of electricity"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -159,9 +345,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -189,6 +373,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Capital costs are a component of the levelized cost of electricity and include the initial investment required for the construction and installation of the energy generation infrastructure.",
+        "Importance": 4,
+        "Subject": "capital costs",
+        "Object": "levelized cost of electricity"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Operating costs are a component of the levelized cost of electricity and include the expenses associated with the day-to-day operation and maintenance of the energy generation infrastructure.",
+        "Importance": 4,
+        "Subject": "operating costs",
+        "Object": "levelized cost of electricity"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Fuel costs are a component of the levelized cost of electricity and include the expenses related to the procurement and utilization of fuel for energy generation.",
+        "Importance": 4,
+        "Subject": "fuel costs",
+        "Object": "levelized cost of electricity"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Maintenance costs are a component of the levelized cost of electricity and include the expenses associated with the regular upkeep and repair of the energy generation infrastructure.",
+        "Importance": 4,
+        "Subject": "maintenance costs",
+        "Object": "levelized cost of electricity"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Transmission and distribution costs are a component of the levelized cost of electricity and include the expenses related to the transmission and distribution of electricity from the generation source to the end-users.",
+        "Importance": 4,
+        "Subject": "transmission and distribution costs",
+        "Object": "levelized cost of electricity"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "nationally determined contributions",
     "Description": "Commitments made by countries under the Paris Agreement to reduce greenhouse gas emissions.",
     "Category": "Policy",
     "Tags": [
@@ -10,18 +9,241 @@
     "Dimension": "Social",
     "Acronym": "NDCs",
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Nationally Determined Contributions",
+    "Entity Code": "nationally determined contributions"
   },
   "knowledge graph": {
     "entities": [
-      "climate action plans",
-      "greenhouse gas emissions",
-      "regional energy organizations",
-      "adaptation projects",
-      "climate change mitigation",
-      "climate finance mechanisms",
-      "renewable energy agencies",
-      "Paris Agreement Goals"
+      {
+        "Entity Title": "Adaptation Projects",
+        "Entity Code": "adaptation projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Entity Title": "Greenhouse Gas Emissions",
+        "Entity Code": "greenhouse gas emissions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
+        "Category": "Finance",
+        "Tags": [
+          "Climate Change",
+          "Funding",
+          "Investment"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate finance programs",
+          "climate finance"
+        ],
+        "Entity Title": "Climate Finance Mechanisms",
+        "Entity Code": "climate finance mechanisms"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Action Plans",
+        "Entity Code": "climate action plans",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Commitments made by countries under the Paris Agreement to reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Policy",
+          "Social"
+        ],
+        "Dimension": "Social",
+        "Acronym": "NDCs",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Nationally Determined Contributions",
+        "Entity Code": "nationally determined contributions"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      }
     ],
     "sub-elements": [
       "mitigation",
@@ -30,94 +252,63 @@
       "technology transfer",
       "capacity building"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "mitigation",
-        "Relation": "is a sub-element of",
-        "Parent": "nationally determined contributions",
-        "Description": "Mitigation refers to the efforts made by countries to reduce greenhouse gas emissions and limit the impacts of climate change. Nationally determined contributions include specific targets and actions related to mitigation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "adaptation",
-        "Relation": "is a sub-element of",
-        "Parent": "nationally determined contributions",
-        "Description": "Adaptation refers to the actions taken to adjust to the impacts of climate change and build resilience. Nationally determined contributions may include measures to enhance adaptive capacity and reduce vulnerability.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "finance",
-        "Relation": "is a sub-element of",
-        "Parent": "nationally determined contributions",
-        "Description": "Finance is an important aspect of nationally determined contributions, as it involves the provision of financial resources to support climate change mitigation and adaptation efforts. This can include both domestic and international funding.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "technology transfer",
-        "Relation": "is a sub-element of",
-        "Parent": "nationally determined contributions",
-        "Description": "Technology transfer refers to the sharing of knowledge, skills, and technologies between countries to support sustainable development and address climate change. Nationally determined contributions may include provisions for technology transfer to enhance mitigation and adaptation efforts.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "capacity building",
-        "Relation": "is a sub-element of",
-        "Parent": "nationally determined contributions",
-        "Description": "Capacity building involves strengthening the skills, knowledge, and institutions necessary to effectively implement climate change mitigation and adaptation measures. Nationally determined contributions may include capacity building activities to support their implementation.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "climate change mitigation",
         "Description": "Nationally determined contributions address climate change mitigation by outlining the actions and targets of each country to reduce greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Nationally determined contributions employ renewable energy technologies to achieve the targets set for climate change mitigation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "collaborates_with",
         "Object": "regional energy organizations",
         "Description": "Nationally determined contributions collaborate with international organizations to enhance the implementation of climate change mitigation measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "supports",
         "Object": "adaptation projects",
         "Description": "Nationally determined contributions support adaptation projects to enhance the resilience of communities and ecosystems to the impacts of climate change.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "administers",
         "Object": "climate finance mechanisms",
         "Description": "Nationally determined contributions administer climate finance to support the implementation of climate change mitigation and adaptation measures.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "measures",
         "Object": "greenhouse gas emissions",
         "Description": "Nationally determined contributions measure greenhouse gas emissions to track progress towards the targets set for climate change mitigation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "aligns_with",
-        "Object": "Paris Agreement Goals",
+        "Object": "paris agreement goals",
         "Description": "Nationally determined contributions align with the goals and objectives of the Paris Agreement to enhance global climate change mitigation efforts.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "nationally determined contributions"
       },
       {
         "Relation": "an_instance_of",
         "Object": "climate action plans",
         "Description": "Nationally determined contributions are an instance of climate action plans developed by each country to address climate change mitigation and adaptation.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "nationally determined contributions"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -161,21 +352,19 @@
         "Importance": 4
       },
       {
-        "Subject": "Paris Agreement Goals",
+        "Subject": "paris agreement goals",
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Paris Agreement Goals implements Energy Efficiency Policy to promote energy-saving practices and reduce greenhouse gas emissions.",
         "Importance": 4
       },
       {
-        "Subject": "Paris Agreement Goals",
+        "Subject": "paris agreement goals",
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Paris Agreement Goals funds Renewable Energy Projects to support the transition to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -203,6 +392,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Mitigation refers to the efforts made by countries to reduce greenhouse gas emissions and limit the impacts of climate change. Nationally determined contributions include specific targets and actions related to mitigation.",
+        "Importance": 4,
+        "Subject": "mitigation",
+        "Object": "nationally determined contributions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Adaptation refers to the actions taken to adjust to the impacts of climate change and build resilience. Nationally determined contributions may include measures to enhance adaptive capacity and reduce vulnerability.",
+        "Importance": 4,
+        "Subject": "adaptation",
+        "Object": "nationally determined contributions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Finance is an important aspect of nationally determined contributions, as it involves the provision of financial resources to support climate change mitigation and adaptation efforts. This can include both domestic and international funding.",
+        "Importance": 3,
+        "Subject": "finance",
+        "Object": "nationally determined contributions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Technology transfer refers to the sharing of knowledge, skills, and technologies between countries to support sustainable development and address climate change. Nationally determined contributions may include provisions for technology transfer to enhance mitigation and adaptation efforts.",
+        "Importance": 3,
+        "Subject": "technology transfer",
+        "Object": "nationally determined contributions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Capacity building involves strengthening the skills, knowledge, and institutions necessary to effectively implement climate change mitigation and adaptation measures. Nationally determined contributions may include capacity building activities to support their implementation.",
+        "Importance": 2,
+        "Subject": "capacity building",
+        "Object": "nationally determined contributions"
       }
     ]
   }

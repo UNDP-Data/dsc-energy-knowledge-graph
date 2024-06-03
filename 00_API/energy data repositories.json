@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy data repositories",
     "Description": "Repositories that store and manage energy-related data.",
     "Category": "Technology",
     "Tags": [
@@ -13,72 +12,108 @@
     "Importance": 3.0,
     "Synonyms": [
       "energy data platform"
-    ]
+    ],
+    "Entity Title": "Energy Data Repositories",
+    "Entity Code": "energy data repositories"
   },
   "knowledge graph": {
     "entities": [
-      "data privacy and security",
-      "partners_with"
+      {
+        "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
+        "Category": "Technology",
+        "Tags": [
+          "Data",
+          "Privacy",
+          "Security"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Data Privacy and Security",
+        "Entity Code": "data privacy and security"
+      },
+      {
+        "Entity Title": "Cybersecurity Research",
+        "Entity Code": "cybersecurity research",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Privacy Regulations",
+        "Entity Code": "privacy regulations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Partners_with",
+        "Entity Code": "partners_with",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "data privacy and security",
         "Description": "Energy data repositories implement data privacy and security measures to protect sensitive information.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "funds",
         "Object": "data privacy and security",
         "Description": "Energy data repositories provide funding for initiatives related to data privacy and security.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "focuses_on",
         "Object": "data privacy and security",
         "Description": "Energy data repositories focus on ensuring data privacy and security in their operations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "in",
         "Object": "partners_with",
         "Description": "Energy data repositories collaborate with partners to enhance data privacy and security.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "contributes_to",
         "Object": "data privacy and security",
         "Description": "Energy data repositories contribute to the improvement of data privacy and security practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "monitors",
         "Object": "data privacy and security",
         "Description": "Energy data repositories monitor data privacy and security measures to ensure compliance.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "targets",
         "Object": "data privacy and security",
         "Description": "Energy data repositories set targets for enhancing data privacy and security.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "addresses",
         "Object": "data privacy and security",
         "Description": "Energy data repositories address issues related to data privacy and security.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data repositories"
       },
       {
         "Relation": "employs",
         "Object": "data privacy and security",
         "Description": "Energy data repositories employ measures to ensure data privacy and security.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy data repositories"
+      },
       {
         "Subject": "data privacy and security",
         "Relation": "implements",
@@ -93,7 +128,6 @@
         "Description": "Data privacy and security funds cybersecurity research to develop advanced technologies and strategies for protecting data from cyber threats.",
         "Importance": 3
       }
-    ],
-    "relations-level-3": []
+    ]
   }
 }

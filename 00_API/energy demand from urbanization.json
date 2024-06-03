@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy demand from urbanization",
     "Description": "Energy demand from urbanization refers to the increasing energy needs of urban areas due to population growth and urban development.",
     "Category": "Infrastructure",
     "Tags": [
@@ -10,18 +9,243 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Demand From Urbanization",
+    "Entity Code": "energy demand from urbanization"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency incentive programs",
-      "smart metering technologies",
-      "energy efficiency",
-      "just energy transition",
-      "sustainable development goals",
-      "energy consumption",
-      "city planning departments",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "City Planning Departments",
+        "Entity Code": "city planning departments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Efficiency Incentive Programs",
+        "Entity Code": "energy efficiency incentive programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "Energy demand from urbanization refers to the increasing energy needs of urban areas due to population growth and urban development.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Urbanization",
+          "Energy Demand"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Demand From Urbanization",
+        "Entity Code": "energy demand from urbanization"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "residential energy demand",
@@ -30,94 +254,63 @@
       "industrial energy demand",
       "public sector energy demand"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "residential energy demand",
-        "Relation": "is a sub-element of",
-        "Parent": "energy demand from urbanization",
-        "Description": "Residential energy demand refers to the energy consumption by households for heating, cooling, lighting, and appliances. As urbanization increases, the demand for residential energy also rises due to the growing number of urban dwellings.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "commercial energy demand",
-        "Relation": "is a sub-element of",
-        "Parent": "energy demand from urbanization",
-        "Description": "Commercial energy demand includes the energy required for offices, retail spaces, hotels, and other commercial buildings. As urban areas expand, the demand for commercial energy increases to support economic activities.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "transportation energy demand",
-        "Relation": "is a sub-element of",
-        "Parent": "energy demand from urbanization",
-        "Description": "Transportation energy demand refers to the energy needed for transportation systems, including private vehicles, public transportation, and freight. Urbanization leads to higher transportation energy demand due to increased mobility and commuting.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "industrial energy demand",
-        "Relation": "is a sub-element of",
-        "Parent": "energy demand from urbanization",
-        "Description": "Industrial energy demand represents the energy consumption by manufacturing facilities, factories, and industrial processes. As urbanization drives economic growth and industrialization, the demand for industrial energy also rises.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "public sector energy demand",
-        "Relation": "is a sub-element of",
-        "Parent": "energy demand from urbanization",
-        "Description": "Public sector energy demand includes the energy required for government buildings, schools, hospitals, and other public infrastructure. As urban areas expand, the demand for public sector energy increases to support the provision of public services.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "smart metering technologies",
         "Description": "The increasing energy demand from urbanization is addressed through the implementation of smart grid technology to optimize energy distribution and consumption.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "employs",
         "Object": "energy efficiency",
         "Description": "To manage the energy demand from urbanization, various energy efficiency measures are employed to reduce energy consumption and promote sustainable development.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "collaborates_with",
         "Object": "city planning departments",
         "Description": "Efforts to address the energy demand from urbanization involve collaboration with city planning departments to integrate sustainable energy solutions into urban development plans.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "To meet the increasing energy demand from urbanization, support is provided to renewable energy projects that can provide clean and reliable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "administers",
         "Object": "energy efficiency incentive programs",
         "Description": "To encourage energy efficiency in urban areas, the administration of energy efficiency incentive programs is carried out to promote the adoption of energy-saving practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "measures",
         "Object": "energy consumption",
         "Description": "The energy demand from urbanization is measured to assess the energy consumption patterns and identify areas for improvement and optimization.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Efforts to address the energy demand from urbanization align with the Sustainable Development Goals, particularly in terms of affordable and clean energy access for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy demand from urbanization"
       },
       {
         "Relation": "an_instance_of",
         "Object": "just energy transition",
         "Description": "The increasing energy demand from urbanization is an instance of the ongoing global energy transition towards sustainable and low-carbon energy systems.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy demand from urbanization"
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",
@@ -173,9 +366,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -203,6 +394,41 @@
         "Object": "energy efficiency",
         "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Residential energy demand refers to the energy consumption by households for heating, cooling, lighting, and appliances. As urbanization increases, the demand for residential energy also rises due to the growing number of urban dwellings.",
+        "Importance": 3,
+        "Subject": "residential energy demand",
+        "Object": "energy demand from urbanization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Commercial energy demand includes the energy required for offices, retail spaces, hotels, and other commercial buildings. As urban areas expand, the demand for commercial energy increases to support economic activities.",
+        "Importance": 3,
+        "Subject": "commercial energy demand",
+        "Object": "energy demand from urbanization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Transportation energy demand refers to the energy needed for transportation systems, including private vehicles, public transportation, and freight. Urbanization leads to higher transportation energy demand due to increased mobility and commuting.",
+        "Importance": 4,
+        "Subject": "transportation energy demand",
+        "Object": "energy demand from urbanization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Industrial energy demand represents the energy consumption by manufacturing facilities, factories, and industrial processes. As urbanization drives economic growth and industrialization, the demand for industrial energy also rises.",
+        "Importance": 4,
+        "Subject": "industrial energy demand",
+        "Object": "energy demand from urbanization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Public sector energy demand includes the energy required for government buildings, schools, hospitals, and other public infrastructure. As urban areas expand, the demand for public sector energy increases to support the provision of public services.",
+        "Importance": 2,
+        "Subject": "public sector energy demand",
+        "Object": "energy demand from urbanization"
       }
     ]
   }

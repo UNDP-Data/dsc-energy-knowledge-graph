@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy resilience",
     "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
     "Category": "Policy",
     "Tags": [
@@ -15,72 +14,272 @@
       "disaster resilience",
       "grid resilience",
       "energy resilience grants"
-    ]
+    ],
+    "Entity Title": "Energy Resilience",
+    "Entity Code": "energy resilience"
   },
   "knowledge graph": {
     "entities": [
-      "resilient energy storage systems",
-      "disaster management agencies",
-      "micro grids",
-      "renewable energy certificates",
-      "energy democracy",
-      "sustainable development goals",
-      "climate change impacts",
-      "energy resilience"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Storage Technologies",
+        "Entity Code": "energy storage technologies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy Access",
+          "Resilience",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microgrid systems",
+          "smart grids"
+        ],
+        "Entity Title": "Micro Grids",
+        "Entity Code": "micro grids"
+      },
+      {
+        "Entity Title": "Climate Change Impacts",
+        "Entity Code": "climate change impacts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Disaster Management Agencies",
+        "Entity Code": "disaster management agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Environmental",
+          "Crisis"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "disaster resilience",
+          "grid resilience",
+          "energy resilience grants"
+        ],
+        "Entity Title": "Energy Resilience",
+        "Entity Code": "energy resilience"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Resilient energy storage systems are systems that can store energy and withstand disruptions or failures.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Storage",
+          "Resilience"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "resilient energy systems"
+        ],
+        "Entity Title": "Resilient Energy Storage Systems",
+        "Entity Code": "resilient energy storage systems"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "climate change impacts",
         "Description": "Energy resilience addresses the challenges posed by climate change impacts to ensure a reliable and sustainable energy supply.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "employs",
         "Object": "micro grids",
         "Description": "Energy resilience employs microgrid systems to enhance the resilience and reliability of energy infrastructure.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "collaborates_with",
         "Object": "disaster management agencies",
         "Description": "Energy resilience collaborates with disaster management agencies to develop strategies for energy supply during emergencies and natural disasters.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy certificates",
         "Description": "Energy resilience supports the integration of renewable energy sources into the energy system to enhance resilience and reduce dependence on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "administers",
         "Object": "energy resilience",
         "Description": "Energy resilience administers grants to support projects and initiatives that enhance energy resilience in vulnerable communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "measures",
         "Object": "energy democracy",
         "Description": "Energy resilience measures the level of energy security to identify vulnerabilities and develop strategies for improvement.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Energy resilience aligns with the Sustainable Development Goals, particularly Goal 7 on affordable and clean energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy resilience"
       },
       {
         "Relation": "an_instance_of",
         "Object": "resilient energy storage systems",
         "Description": "Energy resilience is an instance of resilient energy systems that are designed to withstand disruptions and ensure continuous energy supply.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy resilience"
+      },
       {
         "Subject": "micro grids",
         "Relation": "addresses",
@@ -136,9 +335,7 @@
         "Object": "research and development",
         "Description": "Resilient energy storage systems provide funding for research and development activities to improve energy storage technologies.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",

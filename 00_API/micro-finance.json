@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "micro-finance",
     "Description": "Financial services, such as loans, savings, and insurance, provided to low-income individuals or small businesses.",
     "Category": "Finance",
     "Tags": [
@@ -13,79 +12,278 @@
     "Importance": 3.0,
     "Synonyms": [
       "microfinance programs"
-    ]
+    ],
+    "Entity Title": "Micro-finance",
+    "Entity Code": "micro-finance"
   },
   "knowledge graph": {
     "entities": [
-      "energy access gap",
-      "sustainable energy investments",
-      "energy access programs",
-      "renewable energy certificates",
-      "energy markets",
-      "energy entrepreneurship",
-      "clean energy projects",
-      "energy poverty indices",
-      "local ngos"
+      {
+        "Entity Title": "Sustainable Energy Investments",
+        "Entity Code": "sustainable energy investments",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Access Gap",
+        "Entity Code": "energy access gap",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+        "Category": "Economic",
+        "Tags": [
+          "Clean Energy Startups",
+          "Renewable Energy Business"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "entrepreneurship",
+          "women entrepreneurs"
+        ],
+        "Entity Title": "Energy Entrepreneurship",
+        "Entity Code": "energy entrepreneurship"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Projects",
+        "Entity Code": "clean energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy access programs",
         "Description": "Micro-finance implements energy access programs that provide financial support for clean energy projects in underserved communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy certificates",
         "Description": "Micro-finance funds renewable energy startups that develop innovative solutions for sustainable energy generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy poverty indices",
         "Description": "Micro-finance focuses on addressing energy poverty by providing financial services for clean energy solutions to marginalized communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy investments",
         "Description": "Micro-finance plays a role in sustainable energy investments by providing financial resources for renewable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "partners_with",
         "Object": "local ngos",
         "Description": "Micro-finance partners with local NGOs to support sustainable energy initiatives in marginalized communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy markets",
         "Description": "Micro-finance contributes to improving energy access by providing financial services for clean energy solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "monitors",
         "Object": "clean energy projects",
         "Description": "Micro-finance monitors the progress and impact of clean energy projects that it supports financially.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "targets",
         "Object": "energy entrepreneurship",
         "Description": "Micro-finance targets women entrepreneurs in the sustainable energy sector by providing financial support and resources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "micro-finance"
       },
       {
         "Relation": "addresses",
         "Object": "energy access gap",
         "Description": "Micro-finance addresses the energy access gap by providing financial services for clean energy solutions in underserved communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "micro-finance"
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",
@@ -141,9 +339,7 @@
         "Object": "energy markets",
         "Description": "Energy entrepreneurship focuses on improving energy access in underserved communities through innovative solutions.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

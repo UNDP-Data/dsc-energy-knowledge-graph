@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy governance",
     "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
     "Category": "Policy",
     "Tags": [
@@ -14,79 +13,257 @@
     "Synonyms": [
       "energy performance",
       "sustainable energy governance"
-    ]
+    ],
+    "Entity Title": "Energy Governance",
+    "Entity Code": "energy governance"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "national energy policy",
-      "energy markets",
-      "energy democracy",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "renewable energy agencies",
-      "private sector"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "National Energy Policy",
+        "Entity Code": "national energy policy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Private Sector",
+        "Entity Code": "private sector",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Energy governance implements Energy Efficiency Policy to promote energy-saving practices and policies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy governance"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Energy governance funds Renewable Energy Projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy governance"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "Energy governance focuses on improving energy access for all communities, especially in remote and underserved areas.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy governance"
       },
       {
         "Relation": "in",
         "Object": "national energy policy",
         "Description": "Energy governance operates within the framework of the National Energy Policy to ensure coordinated and effective energy management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy governance"
       },
       {
         "Relation": "partners_with",
         "Object": "private sector",
         "Description": "Energy governance partners with the Private Sector to leverage their expertise and resources in advancing sustainable energy initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy governance"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Energy governance contributes to climate change mitigation efforts by promoting the use of renewable energy and reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy governance"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy governance monitors energy consumption patterns to identify areas for improvement and optimize energy efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy governance"
       },
       {
         "Relation": "targets",
         "Object": "energy poverty indices",
         "Description": "Energy governance targets the reduction of energy poverty by implementing policies and programs to ensure affordable and reliable energy access for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy governance"
       },
       {
         "Relation": "addresses",
         "Object": "energy democracy",
         "Description": "Energy governance addresses energy security concerns by diversifying energy sources and promoting resilience in the energy sector.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy governance"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -142,9 +319,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

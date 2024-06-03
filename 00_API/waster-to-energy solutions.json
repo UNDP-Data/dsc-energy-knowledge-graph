@@ -1,23 +1,121 @@
 {
   "metadata": {
-    "Entity": "waster-to-energy solutions",
     "Description": null,
     "Category": null,
     "Tags": null,
     "Dimension": null,
     "Acronym": null,
     "Importance": null,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Waster-to-energy Solutions",
+    "Entity Code": "waster-to-energy solutions"
   },
   "knowledge graph": {
     "entities": [
-      "renewable energy agencies",
-      "waste management",
-      "local governments",
-      "climate change mitigation",
-      "energy production",
-      "building standards",
-      "circular economy"
+      {
+        "Entity Title": "Waste-to-energy Solutions",
+        "Entity Code": "waste-to-energy solutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Waste Management",
+        "Entity Code": "waste management",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Production",
+        "Entity Code": "energy production",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Waste Reduction",
+        "Entity Code": "waste reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Production Practices",
+        "Entity Code": "sustainable production practices",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",
+        "Category": "Policy",
+        "Tags": [
+          "Sustainability",
+          "Resource Management",
+          "Waste Reduction"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "circular economy principles",
+          "circular economy solution",
+          "circular economy goals"
+        ],
+        "Entity Title": "Circular Economy",
+        "Entity Code": "circular economy"
+      }
     ],
     "sub-elements": [
       "anaerobic digestion",
@@ -26,94 +124,63 @@
       "pyrolysis",
       "landfill gas recovery"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "anaerobic digestion",
-        "Relation": "is a sub-element of",
-        "Parent": "waste-to-energy solutions",
-        "Description": "Anaerobic digestion is a sub-component of waste-to-energy solutions. It involves the breakdown of organic waste in the absence of oxygen, producing biogas that can be used for energy generation. This process helps in reducing the volume of waste and capturing methane emissions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "incineration",
-        "Relation": "is a sub-element of",
-        "Parent": "waste-to-energy solutions",
-        "Description": "Incineration is a sub-component of waste-to-energy solutions. It involves the combustion of waste materials at high temperatures, generating heat or electricity. This process helps in reducing the volume of waste and can be used to recover energy from non-recyclable materials.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "gasification",
-        "Relation": "is a sub-element of",
-        "Parent": "waste-to-energy solutions",
-        "Description": "Gasification is a sub-component of waste-to-energy solutions. It involves the conversion of carbonaceous materials into a synthesis gas (syngas) through high-temperature reactions. The syngas can be used for the production of electricity, heat, or biofuels.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "pyrolysis",
-        "Relation": "is a sub-element of",
-        "Parent": "waste-to-energy solutions",
-        "Description": "Pyrolysis is a sub-component of waste-to-energy solutions. It involves the thermal decomposition of organic materials in the absence of oxygen, producing bio-oil, syngas, and char. These products can be used for energy generation or as feedstock for other processes.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "landfill gas recovery",
-        "Relation": "is a sub-element of",
-        "Parent": "waste-to-energy solutions",
-        "Description": "Landfill gas recovery is a sub-component of waste-to-energy solutions. It involves the collection and utilization of methane gas emitted from landfills. The captured methane can be used as a fuel for electricity generation or as a heat source.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "waster-to-energy solutions implements rigorous building standards that promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "waster-to-energy solutions funds renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "focuses_on",
         "Object": "waste management",
         "Description": "waster-to-energy solutions focuses on waste management to efficiently convert waste into energy and reduce environmental impact.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "in",
         "Object": "circular economy",
         "Description": "waster-to-energy solutions operates in the context of the circular economy, where waste is considered a valuable resource for energy production.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "partners_with",
         "Object": "local governments",
         "Description": "waster-to-energy solutions partners with local governments to implement sustainable waste management practices and promote renewable energy generation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "waster-to-energy solutions contributes to climate change mitigation by reducing greenhouse gas emissions through the conversion of waste into energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "monitors",
         "Object": "energy production",
         "Description": "waster-to-energy solutions monitors energy production to ensure efficient and sustainable conversion of waste into energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "waster-to-energy solutions"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "waster-to-energy solutions targets increased renewable energy generation through the efficient conversion of waste into energy.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "waster-to-energy solutions"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -141,15 +208,48 @@
         "Object": "waste reduction",
         "Description": "The circular economy focuses on waste reduction strategies to minimize the environmental impact of resource consumption.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Anaerobic digestion is a sub-component of waste-to-energy solutions. It involves the breakdown of organic waste in the absence of oxygen, producing biogas that can be used for energy generation. This process helps in reducing the volume of waste and capturing methane emissions.",
+        "Importance": 4,
+        "Subject": "anaerobic digestion",
+        "Object": "waste-to-energy solutions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Incineration is a sub-component of waste-to-energy solutions. It involves the combustion of waste materials at high temperatures, generating heat or electricity. This process helps in reducing the volume of waste and can be used to recover energy from non-recyclable materials.",
+        "Importance": 3,
+        "Subject": "incineration",
+        "Object": "waste-to-energy solutions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gasification is a sub-component of waste-to-energy solutions. It involves the conversion of carbonaceous materials into a synthesis gas (syngas) through high-temperature reactions. The syngas can be used for the production of electricity, heat, or biofuels.",
+        "Importance": 3,
+        "Subject": "gasification",
+        "Object": "waste-to-energy solutions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Pyrolysis is a sub-component of waste-to-energy solutions. It involves the thermal decomposition of organic materials in the absence of oxygen, producing bio-oil, syngas, and char. These products can be used for energy generation or as feedstock for other processes.",
+        "Importance": 2,
+        "Subject": "pyrolysis",
+        "Object": "waste-to-energy solutions"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Landfill gas recovery is a sub-component of waste-to-energy solutions. It involves the collection and utilization of methane gas emitted from landfills. The captured methane can be used as a fuel for electricity generation or as a heat source.",
+        "Importance": 4,
+        "Subject": "landfill gas recovery",
+        "Object": "waste-to-energy solutions"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "decarbonization",
     "Description": "The process of reducing or eliminating carbon dioxide emissions from various sectors to mitigate climate change.",
     "Category": "Technology",
     "Tags": [
@@ -13,17 +12,267 @@
     "Importance": 4.0,
     "Synonyms": [
       "decentralization"
-    ]
+    ],
+    "Entity Title": "Decarbonization",
+    "Entity Code": "decarbonization"
   },
   "knowledge graph": {
     "entities": [
-      "carbon pricing",
-      "energy cooperatives",
-      "carbon emissions",
-      "energy efficiency",
-      "traditional energy technologies",
-      "sustainable development",
-      "Paris Agreement Goals"
+      {
+        "Description": "The process of reducing or eliminating carbon dioxide emissions from various sectors to mitigate climate change.",
+        "Category": "Technology",
+        "Tags": [
+          "Climate Change",
+          "Greenhouse Gas Emissions",
+          "Renewable Energy"
+        ],
+        "Dimension": "Climate Change",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "decentralization"
+        ],
+        "Entity Title": "Decarbonization",
+        "Entity Code": "decarbonization"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "clean energy technologies",
+          "bioenergy technology"
+        ],
+        "Entity Title": "Traditional Energy Technologies",
+        "Entity Code": "traditional energy technologies"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Entity Title": "Sustainable Development",
+        "Entity Code": "sustainable development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Paris Agreement",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "paris agreement"
+        ],
+        "Entity Title": "Paris Agreement Goals",
+        "Entity Code": "paris agreement goals"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Cooperatives that enable individuals or communities to collectively own and manage energy resources.",
+        "Category": "Organization",
+        "Tags": [
+          "Community Ownership",
+          "Renewable Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy conservation",
+          "energy experts",
+          "energy companies"
+        ],
+        "Entity Title": "Energy Cooperatives",
+        "Entity Code": "energy cooperatives"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Carbon Emissions",
+        "Entity Code": "carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Emissions Reduction",
+          "Market Mechanism"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "carbon footprint",
+          "carbon pricing mechanisms"
+        ],
+        "Entity Title": "Carbon Pricing",
+        "Entity Code": "carbon pricing"
+      }
     ],
     "sub-elements": [
       "renewable energy",
@@ -32,94 +281,63 @@
       "electrification",
       "sustainable transportation"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "renewable energy",
-        "Relation": "is a sub-element of",
-        "Parent": "decarbonization",
-        "Description": "Renewable energy is a key sub-element of decarbonization. It involves the generation of energy from renewable sources such as solar, wind, hydro, and geothermal, which do not produce greenhouse gas emissions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency",
-        "Relation": "is a sub-element of",
-        "Parent": "decarbonization",
-        "Description": "Energy efficiency is an important sub-element of decarbonization. It focuses on reducing energy consumption and improving energy productivity to minimize greenhouse gas emissions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "carbon capture and storage",
-        "Relation": "is a sub-element of",
-        "Parent": "decarbonization",
-        "Description": "Carbon capture and storage is a significant sub-element of decarbonization. It involves capturing carbon dioxide emissions from industrial processes and storing them underground to prevent their release into the atmosphere.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "electrification",
-        "Relation": "is a sub-element of",
-        "Parent": "decarbonization",
-        "Description": "Electrification is a crucial sub-element of decarbonization. It involves the transition from fossil fuel-based energy sources to electricity for various applications such as transportation, heating, and cooking, reducing reliance on carbon-intensive fuels.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "sustainable transportation",
-        "Relation": "is a sub-element of",
-        "Parent": "decarbonization",
-        "Description": "Sustainable transportation is a key sub-element of decarbonization. It focuses on promoting low-carbon modes of transportation such as electric vehicles, public transit, cycling, and walking to reduce greenhouse gas emissions from the transportation sector.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "carbon emissions",
         "Description": "Decarbonization addresses carbon emissions by implementing strategies and technologies that reduce the reliance on fossil fuels and promote renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "employs",
         "Object": "traditional energy technologies",
         "Description": "Decarbonization employs clean energy technologies such as solar power, wind power, and hydropower to reduce greenhouse gas emissions and transition to a low-carbon economy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "collaborates_with",
         "Object": "energy cooperatives",
         "Description": "Decarbonization collaborates with energy companies to develop and implement sustainable energy solutions that contribute to the reduction of carbon emissions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "supports",
         "Object": "energy efficiency",
         "Description": "Decarbonization supports energy efficiency programs that aim to reduce energy consumption and promote the use of energy-saving technologies in various sectors.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "administers",
         "Object": "carbon pricing",
         "Description": "Decarbonization administers carbon pricing mechanisms to incentivize the reduction of carbon emissions and encourage the adoption of cleaner energy alternatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "measures",
         "Object": "carbon pricing",
         "Description": "Decarbonization measures carbon footprint to assess the environmental impact of activities and identify areas for improvement in terms of carbon emissions reduction.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "aligns_with",
-        "Object": "Paris Agreement Goals",
+        "Object": "paris agreement goals",
         "Description": "Decarbonization aligns with the goals and objectives of the Paris Agreement, aiming to limit global warming to well below 2 degrees Celsius and pursue efforts to limit the temperature increase to 1.5 degrees Celsius.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "decarbonization"
       },
       {
         "Relation": "an_instance_of",
         "Object": "sustainable development",
         "Description": "Decarbonization is an instance of sustainable development, as it promotes the transition to a low-carbon economy while considering social, economic, and environmental aspects.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "decarbonization"
+      },
       {
         "Subject": "traditional energy technologies",
         "Relation": "implements",
@@ -175,9 +393,7 @@
         "Object": "climate change mitigation",
         "Description": "Carbon pricing plays a role in climate change mitigation efforts by incentivizing the reduction of greenhouse gas emissions.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -205,6 +421,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy is a key sub-element of decarbonization. It involves the generation of energy from renewable sources such as solar, wind, hydro, and geothermal, which do not produce greenhouse gas emissions.",
+        "Importance": 4,
+        "Subject": "renewable energy",
+        "Object": "decarbonization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency is an important sub-element of decarbonization. It focuses on reducing energy consumption and improving energy productivity to minimize greenhouse gas emissions.",
+        "Importance": 3,
+        "Subject": "energy efficiency",
+        "Object": "decarbonization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Carbon capture and storage is a significant sub-element of decarbonization. It involves capturing carbon dioxide emissions from industrial processes and storing them underground to prevent their release into the atmosphere.",
+        "Importance": 3,
+        "Subject": "carbon capture and storage",
+        "Object": "decarbonization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Electrification is a crucial sub-element of decarbonization. It involves the transition from fossil fuel-based energy sources to electricity for various applications such as transportation, heating, and cooking, reducing reliance on carbon-intensive fuels.",
+        "Importance": 4,
+        "Subject": "electrification",
+        "Object": "decarbonization"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Sustainable transportation is a key sub-element of decarbonization. It focuses on promoting low-carbon modes of transportation such as electric vehicles, public transit, cycling, and walking to reduce greenhouse gas emissions from the transportation sector.",
+        "Importance": 4,
+        "Subject": "sustainable transportation",
+        "Object": "decarbonization"
       }
     ]
   }

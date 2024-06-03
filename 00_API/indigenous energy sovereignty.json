@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "indigenous energy sovereignty",
     "Description": "The right of indigenous communities to have control over their energy resources and systems.",
     "Category": "Social",
     "Tags": [
@@ -10,72 +9,235 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Indigenous Energy Sovereignty",
+    "Entity Code": "indigenous energy sovereignty"
   },
   "knowledge graph": {
     "entities": [
-      "un declaration on the rights of indigenous peoples",
-      "energy and health",
-      "renewable energy agencies",
-      "energy access programs",
-      "community-led energy projects",
-      "energy governance",
-      "cultural impact assessments",
-      "traditional ecological knowledge"
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Indigenous Communities",
+        "Entity Code": "indigenous communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Agroecology",
+        "Entity Code": "agroecology",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Assessments that evaluate the cultural impact of a project or development on a community or society.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "cultural impact"
+        ],
+        "Entity Title": "Cultural Impact Assessments",
+        "Entity Code": "cultural impact assessments"
+      },
+      {
+        "Entity Title": "Climate Change Adaptation",
+        "Entity Code": "climate change adaptation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Entity Title": "Community-led Energy Projects",
+        "Entity Code": "community-led energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
+        "Category": "Policy",
+        "Tags": [
+          "Energy Policy",
+          "Regulation",
+          "Energy Access"
+        ],
+        "Dimension": "Governance",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy performance",
+          "sustainable energy governance"
+        ],
+        "Entity Title": "Energy Governance",
+        "Entity Code": "energy governance"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Un Declaration on the Rights of Indigenous Peoples",
+        "Entity Code": "un declaration on the rights of indigenous peoples",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The knowledge, practices, and beliefs of indigenous communities regarding the environment and natural resources.",
+        "Category": "Social",
+        "Tags": [
+          "Traditional Ecological Knowledge",
+          "Indigenous",
+          "Environment"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "traditional knowledge"
+        ],
+        "Entity Title": "Traditional Ecological Knowledge",
+        "Entity Code": "traditional ecological knowledge"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy and health",
         "Description": "Indigenous energy sovereignty addresses energy inequality by empowering indigenous communities to have control over their energy resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "employs",
         "Object": "traditional ecological knowledge",
         "Description": "Indigenous energy sovereignty employs traditional knowledge to develop sustainable energy solutions rooted in indigenous practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "collaborates_with",
         "Object": "renewable energy agencies",
         "Description": "Indigenous energy sovereignty collaborates with renewable energy companies to promote the use of clean and sustainable energy sources in indigenous communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "supports",
         "Object": "community-led energy projects",
         "Description": "Indigenous energy sovereignty supports community-led energy projects to empower indigenous communities in managing their energy resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "administers",
         "Object": "energy access programs",
         "Description": "Indigenous energy sovereignty administers energy access programs to ensure equitable and affordable energy access for indigenous communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "measures",
         "Object": "cultural impact assessments",
         "Description": "Indigenous energy sovereignty measures the cultural impact of energy projects to ensure the preservation of indigenous heritage and practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "aligns_with",
         "Object": "un declaration on the rights of indigenous peoples",
         "Description": "Indigenous energy sovereignty aligns with the UN Declaration on the Rights of Indigenous Peoples to promote and protect the rights of indigenous communities in relation to energy resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "indigenous energy sovereignty"
       },
       {
         "Relation": "an_instance_of",
         "Object": "energy governance",
         "Description": "Indigenous energy sovereignty is an instance of sustainable energy governance that emphasizes the rights and participation of indigenous communities in energy decision-making.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "indigenous energy sovereignty"
+      },
       {
         "Subject": "energy and health",
         "Relation": "implements",
@@ -131,9 +293,7 @@
         "Object": "indigenous communities",
         "Description": "Cultural impact assessments focus on understanding and addressing the impacts of projects on indigenous communities.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "offshore renewable energy",
         "Relation": "implements",

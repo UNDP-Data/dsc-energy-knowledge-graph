@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "gasification",
     "Description": "Gasification is a process that converts carbon-based materials, such as coal or biomass, into synthesis gas (syngas) which can be used for power generation or as a chemical feedstock.",
     "Category": "Technology",
     "Tags": [
@@ -13,79 +12,286 @@
     "Importance": 3.0,
     "Synonyms": [
       "gasification plants"
-    ]
+    ],
+    "Entity Title": "Gasification",
+    "Entity Code": "gasification"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable energy systems",
-      "gasification",
-      "research and development",
-      "carbon capture and storage",
-      "biomass",
-      "waste management",
-      "energy conversion technology",
-      "clean energy production",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Waste Management",
+        "Entity Code": "waste management",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Carbon capture and storage (CCS) is a technology that captures carbon dioxide (CO2) emissions from sources such as power plants and stores it underground to prevent it from entering the atmosphere.",
+        "Category": "Technology",
+        "Tags": [
+          "Climate Change",
+          "Emissions Reduction",
+          "Carbon Sequestration"
+        ],
+        "Dimension": "Technology",
+        "Acronym": "CCS",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Carbon Capture and Storage",
+        "Entity Code": "carbon capture and storage"
+      },
+      {
+        "Entity Title": "Clean Energy Production",
+        "Entity Code": "clean energy production",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Energy",
+          "Modernization",
+          "Infrastructure"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy generation",
+          "grid modernization"
+        ],
+        "Entity Title": "Energy and Modernization",
+        "Entity Code": "energy and modernization"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Biomass refers to organic matter, such as plants or plant-based materials, that can be used as a renewable energy source.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Organic Matter"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Biomass",
+        "Entity Code": "biomass"
+      },
+      {
+        "Entity Title": "Carbon Sequestration",
+        "Entity Code": "carbon sequestration",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Gasification is a process that converts carbon-based materials, such as coal or biomass, into synthesis gas (syngas) which can be used for power generation or as a chemical feedstock.",
+        "Category": "Technology",
+        "Tags": [
+          "Syngas",
+          "Biomass",
+          "Coal"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "gasification plants"
+        ],
+        "Entity Title": "Gasification",
+        "Entity Code": "gasification"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Energy Systems",
+        "Entity Code": "sustainable energy systems",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Conversion Technology",
+        "Entity Code": "energy conversion technology",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy conversion technology",
         "Description": "Gasification implements energy conversion technology that converts carbon-based materials into synthesis gas.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gasification"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Gasification funds research and development activities to improve the efficiency and effectiveness of gasification processes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gasification"
       },
       {
         "Relation": "focuses_on",
         "Object": "biomass",
         "Description": "Gasification focuses on biomass as a feedstock for the gasification process.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gasification"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy systems",
         "Description": "Gasification is used in sustainable energy systems to convert biomass into useful energy products.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gasification"
       },
       {
         "Relation": "partners_with",
         "Object": "renewable energy agencies",
         "Description": "Gasification partners with renewable energy companies to develop and deploy gasification technologies for renewable energy production.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gasification"
       },
       {
         "Relation": "contributes_to",
         "Object": "carbon capture and storage",
         "Description": "Gasification contributes to carbon capture and storage efforts by producing synthesis gas that can be captured and stored.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gasification"
       },
       {
         "Relation": "monitors",
         "Object": "gasification",
         "Description": "Gasification monitors the performance and operation of gasification plants to ensure optimal efficiency and safety.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "gasification"
       },
       {
         "Relation": "targets",
         "Object": "clean energy production",
         "Description": "Gasification targets clean energy production by converting biomass into clean and sustainable energy products.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gasification"
       },
       {
         "Relation": "addresses",
         "Object": "waste management",
         "Description": "Gasification addresses waste management challenges by converting waste materials into useful energy products.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "gasification"
+      },
       {
         "Subject": "biomass",
         "Relation": "implements",
@@ -127,9 +333,7 @@
         "Object": "carbon sequestration",
         "Description": "Carbon capture and storage focuses on the process of carbon sequestration to reduce carbon dioxide levels in the atmosphere.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy and modernization",
         "Relation": "implements",

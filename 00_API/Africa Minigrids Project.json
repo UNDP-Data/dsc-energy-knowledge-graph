@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Africa Minigrids Project",
     "Description": "Summary of Africa Minigrids Project",
     "Category": "Project",
     "Tags": [
@@ -11,72 +10,250 @@
     "Dimension": "Infrastructure",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Africa Minigrids Project",
+    "Entity Code": "africa minigrids project"
   },
   "knowledge graph": {
     "entities": [
-      "public-private partnerships",
-      "financial incentives",
-      "smart metering technologies",
-      "local governments",
-      "energy entrepreneurship",
-      "energy markets",
-      "sustainable development goals",
-      "rural electrification"
+      {
+        "Description": "Summary of SDG7 targets",
+        "Category": "Policy",
+        "Tags": [
+          "SDG7",
+          "Targets"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Sdg7 Targets",
+        "Entity Code": "sdg7 targets"
+      },
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Financial Incentives",
+        "Entity Code": "financial incentives",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Smart Grid",
+        "Entity Code": "smart grid",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+        "Category": "Economic",
+        "Tags": [
+          "Clean Energy Startups",
+          "Renewable Energy Business"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "entrepreneurship",
+          "women entrepreneurs"
+        ],
+        "Entity Title": "Energy Entrepreneurship",
+        "Entity Code": "energy entrepreneurship"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Summary of public-private partnerships",
+        "Category": "Organization",
+        "Tags": [
+          "Public-Private",
+          "Partnerships"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "public-private partnership"
+        ],
+        "Entity Title": "Public-private Partnerships",
+        "Entity Code": "public-private partnerships"
+      },
+      {
+        "Entity Title": "Rural Electrification",
+        "Entity Code": "rural electrification",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "rural electrification",
         "Description": "The Africa Minigrids Project addresses the challenge of rural electrification by deploying minigrids to provide clean and affordable energy to remote communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "employs",
         "Object": "smart metering technologies",
         "Description": "The Africa Minigrids Project employs smart metering technology to enable efficient monitoring and management of energy usage in minigrids.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "collaborates_with",
         "Object": "local governments",
         "Description": "The Africa Minigrids Project collaborates with local governments to ensure the successful implementation and operation of minigrids in their respective regions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "supports",
         "Object": "energy entrepreneurship",
         "Description": "The Africa Minigrids Project supports entrepreneurship by creating opportunities for local businesses to participate in the development and operation of minigrids.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "administers",
         "Object": "financial incentives",
         "Description": "The Africa Minigrids Project administers financial incentives to attract private sector investments in minigrid projects and accelerate their deployment.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "measures",
         "Object": "energy markets",
         "Description": "The Africa Minigrids Project measures progress in improving energy access by tracking the number of households and businesses connected to minigrids.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "The Africa Minigrids Project aligns with the Sustainable Development Goals, particularly Goal 7 on ensuring access to affordable, reliable, sustainable, and modern energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "africa minigrids project"
       },
       {
         "Relation": "an_instance_of",
         "Object": "public-private partnerships",
         "Description": "The Africa Minigrids Project is an instance of a public-private partnership that brings together government, private sector, and development partners to drive the deployment of minigrids.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "africa minigrids project"
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",
@@ -132,9 +309,7 @@
         "Object": "sdg7 targets",
         "Description": "Public-private partnerships provide funding for the implementation of SDG7 targets, ensuring financial support for sustainable energy projects.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

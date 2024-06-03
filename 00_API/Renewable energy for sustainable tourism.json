@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Renewable energy for sustainable tourism",
     "Description": "The use of renewable energy sources to power sustainable tourism activities.",
     "Category": "Technology",
     "Tags": [
@@ -10,19 +9,191 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Renewable Energy for Sustainable Tourism",
+    "Entity Code": "renewable energy for sustainable tourism"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "carbon neutrality",
-      "local communities",
-      "tourism sector",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "building standards",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Carbon neutrality refers to achieving a balance between carbon emissions and carbon removal, resulting in no net increase in atmospheric carbon dioxide levels.",
+        "Category": "Policy",
+        "Tags": [
+          "Carbon Neutrality",
+          "Climate Change",
+          "Policy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Carbon Neutrality",
+        "Entity Code": "carbon neutrality"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of renewable energy sources to power sustainable tourism activities.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Sustainable Tourism"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Renewable Energy for Sustainable Tourism",
+        "Entity Code": "renewable energy for sustainable tourism"
+      },
+      {
+        "Entity Title": "Energy Affordability",
+        "Entity Code": "energy affordability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Tourism Sector",
+        "Entity Code": "tourism sector",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "Solar energy systems",
@@ -31,100 +202,70 @@
       "Biomass energy",
       "Geothermal energy"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "Solar energy systems",
-        "Relation": "is a sub-element of",
-        "Parent": "Renewable energy for sustainable tourism",
-        "Description": "Solar energy systems involve the use of solar panels to convert sunlight into electricity. They can be used to power various aspects of sustainable tourism, such as lighting, heating, and cooling systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Wind energy systems",
-        "Relation": "is a sub-element of",
-        "Parent": "Renewable energy for sustainable tourism",
-        "Description": "Wind energy systems harness the power of wind to generate electricity. They can be used to provide renewable energy for sustainable tourism facilities, reducing reliance on fossil fuels.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "Hydroelectric power",
-        "Relation": "is a sub-element of",
-        "Parent": "Renewable energy for sustainable tourism",
-        "Description": "Hydroelectric power involves the generation of electricity from flowing water. It can be used to power sustainable tourism facilities located near rivers or other water sources.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Biomass energy",
-        "Relation": "is a sub-element of",
-        "Parent": "Renewable energy for sustainable tourism",
-        "Description": "Biomass energy involves the use of organic materials, such as agricultural waste or wood pellets, to generate heat or electricity. It can be used as a renewable energy source for sustainable tourism facilities.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "Geothermal energy",
-        "Relation": "is a sub-element of",
-        "Parent": "Renewable energy for sustainable tourism",
-        "Description": "Geothermal energy involves harnessing the heat from the Earth's core to generate electricity or provide heating and cooling. It can be used to power sustainable tourism facilities located in areas with geothermal resources.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Renewable energy for sustainable tourism implements rigorous building standards that promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Renewable energy for sustainable tourism funds research and development projects to explore innovative solutions for sustainable energy in the tourism sector.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Renewable energy for sustainable tourism focuses on the development and implementation of various renewable energy technologies to reduce the carbon footprint of the tourism industry.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "in",
         "Object": "tourism sector",
         "Description": "Renewable energy for sustainable tourism plays a crucial role in the tourism sector by providing clean and sustainable energy solutions for hotels, resorts, and other tourism facilities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "partners_with",
         "Object": "local communities",
         "Description": "Renewable energy for sustainable tourism partners with local communities to promote the adoption of renewable energy practices and empower communities to become active participants in the transition to sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Renewable energy for sustainable tourism contributes to climate change mitigation efforts by reducing greenhouse gas emissions and promoting the use of clean and renewable energy sources in the tourism sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Renewable energy for sustainable tourism monitors energy consumption patterns in the tourism sector to identify opportunities for energy efficiency improvements and the integration of renewable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "targets",
         "Object": "carbon neutrality",
         "Description": "Renewable energy for sustainable tourism targets carbon neutrality by implementing renewable energy projects and adopting energy-efficient practices to minimize the carbon footprint of the tourism industry.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "renewable energy for sustainable tourism"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Renewable energy for sustainable tourism addresses energy poverty by promoting access to clean and affordable energy solutions in communities heavily reliant on tourism for their livelihoods.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "renewable energy for sustainable tourism"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -166,9 +307,7 @@
         "Object": "energy affordability",
         "Description": "Energy poverty indices focus on improving energy affordability to ensure that all individuals can access and afford essential energy services.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -189,6 +328,41 @@
         "Object": "building standards",
         "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar energy systems involve the use of solar panels to convert sunlight into electricity. They can be used to power various aspects of sustainable tourism, such as lighting, heating, and cooling systems.",
+        "Importance": 4,
+        "Subject": "solar energy systems",
+        "Object": "renewable energy for sustainable tourism"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind energy systems harness the power of wind to generate electricity. They can be used to provide renewable energy for sustainable tourism facilities, reducing reliance on fossil fuels.",
+        "Importance": 4,
+        "Subject": "wind energy systems",
+        "Object": "renewable energy for sustainable tourism"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Hydroelectric power involves the generation of electricity from flowing water. It can be used to power sustainable tourism facilities located near rivers or other water sources.",
+        "Importance": 3,
+        "Subject": "hydroelectric power",
+        "Object": "renewable energy for sustainable tourism"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biomass energy involves the use of organic materials, such as agricultural waste or wood pellets, to generate heat or electricity. It can be used as a renewable energy source for sustainable tourism facilities.",
+        "Importance": 3,
+        "Subject": "biomass energy",
+        "Object": "renewable energy for sustainable tourism"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Geothermal energy involves harnessing the heat from the Earth's core to generate electricity or provide heating and cooling. It can be used to power sustainable tourism facilities located in areas with geothermal resources.",
+        "Importance": 3,
+        "Subject": "geothermal energy",
+        "Object": "renewable energy for sustainable tourism"
       }
     ]
   }

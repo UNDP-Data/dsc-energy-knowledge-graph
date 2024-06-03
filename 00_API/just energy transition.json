@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "just energy transition",
     "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
     "Category": "Policy",
     "Tags": [
@@ -22,17 +21,215 @@
       "energy transition plan",
       "energy transition theory",
       "energy transition goals"
-    ]
+    ],
+    "Entity Title": "Just Energy Transition",
+    "Entity Code": "just energy transition"
   },
   "knowledge graph": {
     "entities": [
-      "energy equity",
-      "local communities",
-      "renewable energy certificates",
-      "just energy transition",
-      "social justice",
-      "sustainable development goals",
-      "energy justice"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Equitable Energy Pricing",
+        "Entity Code": "equitable energy pricing",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Social Justice",
+        "Entity Code": "social justice",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "Energy justice is a concept that focuses on ensuring fair and equitable access to affordable, reliable, and clean energy for all, particularly marginalized and vulnerable communities.",
+        "Category": "Social",
+        "Tags": [
+          "Equity",
+          "Access",
+          "Inclusion"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Justice",
+        "Entity Code": "energy justice"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "renewable energy",
@@ -41,88 +238,56 @@
       "electrification",
       "energy justice"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "renewable energy",
-        "Relation": "is a sub-element of",
-        "Parent": "just energy transition",
-        "Description": "Renewable energy is a key component of a just energy transition. It involves the generation of energy from sources that are naturally replenished, such as solar, wind, and hydro power. By transitioning to renewable energy sources, we can reduce greenhouse gas emissions and mitigate climate change.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency",
-        "Relation": "is a sub-element of",
-        "Parent": "just energy transition",
-        "Description": "Energy efficiency is an important aspect of a just energy transition. It involves using less energy to achieve the same level of output or service. By improving energy efficiency in buildings, transportation, and industrial processes, we can reduce energy consumption and lower greenhouse gas emissions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "decarbonization",
-        "Relation": "is a sub-element of",
-        "Parent": "just energy transition",
-        "Description": "Decarbonization is a crucial element of a just energy transition. It refers to the process of reducing or eliminating carbon dioxide emissions from energy sources. By transitioning to low-carbon or carbon-free energy sources, we can mitigate climate change and achieve a more sustainable energy system.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "electrification",
-        "Relation": "is a sub-element of",
-        "Parent": "just energy transition",
-        "Description": "Electrification is a key component of a just energy transition. It involves the adoption of electric power for various energy needs, such as transportation, heating, and cooking. By transitioning to electric vehicles and appliances, we can reduce reliance on fossil fuels and promote a cleaner and more sustainable energy system.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy justice",
-        "Relation": "is a sub-element of",
-        "Parent": "just energy transition",
-        "Description": "Energy justice is an important aspect of a just energy transition. It involves ensuring equitable access to affordable, reliable, and clean energy for all. By addressing energy poverty and promoting inclusive energy policies, we can achieve a more just and sustainable energy system.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "employs",
         "Object": "renewable energy certificates",
         "Description": "The just energy transition employs a renewable energy workforce to support the transition to clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "collaborates_with",
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "supports",
         "Object": "energy equity",
         "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "administers",
         "Object": "just energy transition",
         "Description": "The just energy transition administers energy transition funds to support the implementation of sustainable energy projects.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "measures",
         "Object": "energy justice",
         "Description": "The just energy transition measures energy justice to ensure fair distribution of energy resources and benefits.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "The just energy transition aligns with the Sustainable Development Goals to promote sustainable and inclusive energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "just energy transition"
       },
       {
         "Relation": "an_instance_of",
         "Object": "social justice",
         "Description": "The just energy transition is an instance of social justice, aiming to address energy inequalities and promote fairness.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "just energy transition"
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",
@@ -164,9 +329,7 @@
         "Object": "equitable energy pricing",
         "Description": "Energy justice employs equitable energy pricing mechanisms to ensure fair and affordable energy costs for marginalized communities.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -194,6 +357,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy is a key component of a just energy transition. It involves the generation of energy from sources that are naturally replenished, such as solar, wind, and hydro power. By transitioning to renewable energy sources, we can reduce greenhouse gas emissions and mitigate climate change.",
+        "Importance": 4,
+        "Subject": "renewable energy",
+        "Object": "just energy transition"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency is an important aspect of a just energy transition. It involves using less energy to achieve the same level of output or service. By improving energy efficiency in buildings, transportation, and industrial processes, we can reduce energy consumption and lower greenhouse gas emissions.",
+        "Importance": 3,
+        "Subject": "energy efficiency",
+        "Object": "just energy transition"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Decarbonization is a crucial element of a just energy transition. It refers to the process of reducing or eliminating carbon dioxide emissions from energy sources. By transitioning to low-carbon or carbon-free energy sources, we can mitigate climate change and achieve a more sustainable energy system.",
+        "Importance": 4,
+        "Subject": "decarbonization",
+        "Object": "just energy transition"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Electrification is a key component of a just energy transition. It involves the adoption of electric power for various energy needs, such as transportation, heating, and cooking. By transitioning to electric vehicles and appliances, we can reduce reliance on fossil fuels and promote a cleaner and more sustainable energy system.",
+        "Importance": 3,
+        "Subject": "electrification",
+        "Object": "just energy transition"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy justice is an important aspect of a just energy transition. It involves ensuring equitable access to affordable, reliable, and clean energy for all. By addressing energy poverty and promoting inclusive energy policies, we can achieve a more just and sustainable energy system.",
+        "Importance": 4,
+        "Subject": "energy justice",
+        "Object": "just energy transition"
       }
     ]
   }

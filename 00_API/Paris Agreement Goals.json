@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "Paris Agreement Goals",
     "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
     "Category": "Policy",
     "Tags": [
@@ -13,72 +12,219 @@
     "Importance": 4.0,
     "Synonyms": [
       "paris agreement"
-    ]
+    ],
+    "Entity Title": "Paris Agreement Goals",
+    "Entity Code": "paris agreement goals"
   },
   "knowledge graph": {
     "entities": [
-      "greenhouse gas emissions",
-      "sustainable development goals (sdgs)",
-      "united nations framework convention on climate change (unfccc)",
-      "energy efficiency",
-      "net zero emissions",
-      "climate change mitigation",
-      "renewable energy agencies",
-      "international renewable energy agency (irena)"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "United Nations Framework Convention on Climate Change (unfccc)",
+        "Entity Code": "united nations framework convention on climate change (unfccc)",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "International Renewable Energy Agency (irena)",
+        "Entity Code": "international renewable energy agency (irena)",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Greenhouse Gas Emissions",
+        "Entity Code": "greenhouse gas emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals (sdgs)",
+        "Entity Code": "sustainable development goals (sdgs)",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Net Zero Emissions",
+        "Entity Code": "net zero emissions",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Paris Agreement Goals implements Energy Efficiency Policy to promote energy-saving practices and reduce greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Paris Agreement Goals funds Renewable Energy Projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "focuses_on",
         "Object": "climate change mitigation",
         "Description": "Paris Agreement Goals focuses on Climate Change Mitigation to reduce the impact of global warming and limit temperature rise.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "in",
         "Object": "united nations framework convention on climate change (unfccc)",
         "Description": "Paris Agreement Goals is in the framework of the United Nations Framework Convention on Climate Change (UNFCCC) to address climate change issues globally.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "partners_with",
         "Object": "international renewable energy agency (irena)",
         "Description": "Paris Agreement Goals partners with International Renewable Energy Agency (IRENA) to promote renewable energy adoption and collaboration.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development goals (sdgs)",
         "Description": "Paris Agreement Goals contributes to the achievement of Sustainable Development Goals (SDGs) by addressing climate change and promoting sustainable practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "monitors",
         "Object": "greenhouse gas emissions",
         "Description": "Paris Agreement Goals monitors Greenhouse Gas Emissions to track progress towards emission reduction targets.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "targets",
         "Object": "net zero emissions",
         "Description": "Paris Agreement Goals targets Net Zero Emissions to achieve a balance between greenhouse gas emissions and removals.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "paris agreement goals"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -106,9 +252,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",

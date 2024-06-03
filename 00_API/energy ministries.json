@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy ministries",
     "Description": "Government ministries responsible for energy-related policies and regulations.",
     "Category": "Organization",
     "Tags": [
@@ -13,72 +12,261 @@
     "Importance": 3.0,
     "Synonyms": [
       "energy intensive industries"
-    ]
+    ],
+    "Entity Title": "Energy Ministries",
+    "Entity Code": "energy ministries"
   },
   "knowledge graph": {
     "entities": [
-      "regional energy organizations",
-      "energy cooperatives",
-      "energy subsisides reform",
-      "energy markets",
-      "energy consumption",
-      "climate change mitigation",
-      "renewable energy agencies",
-      "government agencies"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Local Governments",
+        "Entity Code": "local governments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Cooperatives that enable individuals or communities to collectively own and manage energy resources.",
+        "Category": "Organization",
+        "Tags": [
+          "Community Ownership",
+          "Renewable Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy conservation",
+          "energy experts",
+          "energy companies"
+        ],
+        "Entity Title": "Energy Cooperatives",
+        "Entity Code": "energy cooperatives"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": null,
+        "Category": null,
+        "Tags": null,
+        "Dimension": null,
+        "Acronym": null,
+        "Importance": null,
+        "Synonyms": [
+          "energy subsidy programs",
+          "energy subsidies"
+        ],
+        "Entity Title": "Energy Subsisides Reform",
+        "Entity Code": "energy subsisides reform"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "Energy ministries address the issue of energy access by implementing policies and initiatives to ensure reliable and affordable energy for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "employs",
         "Object": "energy cooperatives",
         "Description": "Energy ministries employ energy experts to provide technical knowledge and advice on energy-related matters.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "collaborates_with",
         "Object": "regional energy organizations",
         "Description": "Energy ministries collaborate with international organizations to exchange best practices and coordinate efforts in addressing global energy challenges.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "Energy ministries support research and development in the field of renewable energy to drive innovation and technological advancements.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "administers",
         "Object": "energy subsisides reform",
         "Description": "Energy ministries administer energy subsidy programs to promote the use of clean and sustainable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "measures",
         "Object": "energy consumption",
         "Description": "Energy ministries measure energy consumption to assess the effectiveness of energy conservation and efficiency measures.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate change mitigation",
         "Description": "Energy ministries align their policies and strategies with climate change mitigation goals to reduce greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy ministries"
       },
       {
         "Relation": "an_instance_of",
         "Object": "government agencies",
         "Description": "Energy ministries are government agencies responsible for formulating and implementing energy policies and regulations.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy ministries"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -134,9 +322,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",

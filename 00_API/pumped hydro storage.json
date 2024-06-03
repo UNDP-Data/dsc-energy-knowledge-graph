@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "pumped hydro storage",
     "Description": "A type of energy storage that uses the gravitational potential energy of water to store and release energy.",
     "Category": "Technology",
     "Tags": [
@@ -10,78 +9,253 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Pumped Hydro Storage",
+    "Entity Code": "pumped hydro storage"
   },
   "knowledge graph": {
     "entities": [
-      "decentralized energy systems",
-      "intermittency of renewable energy",
-      "electricity grid operators",
-      "climate change mitigation",
-      "grid stability",
-      "energy storage",
-      "renewable energy agencies",
-      "energy storage performance"
+      {
+        "Entity Title": "Grid Stability",
+        "Entity Code": "grid stability",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
+        "Category": "Strategy",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "community-based energy solutions",
+          "community-based organizations"
+        ],
+        "Entity Title": "Community-led Solutions",
+        "Entity Code": "community-led solutions"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Energy Storage Performance",
+        "Entity Code": "energy storage performance",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Electricity Grid Operators",
+        "Entity Code": "electricity grid operators",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy systems that generate and distribute energy at a local level, often using renewable sources and involving local communities in decision-making and ownership.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Renewable Energy",
+          "Local Communities",
+          "Decentralization"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "renewable energy system"
+        ],
+        "Entity Title": "Decentralized Energy Systems",
+        "Entity Code": "decentralized energy systems"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy storage",
         "Description": "Pumped hydro storage implements the Energy Storage Policy to promote the use of energy storage technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Pumped hydro storage funds renewable energy projects to support the development of clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "focuses_on",
         "Object": "grid stability",
         "Description": "Pumped hydro storage focuses on grid stability by providing a reliable source of energy during peak demand.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "in",
         "Object": "decentralized energy systems",
         "Description": "Pumped hydro storage is an integral part of a renewable energy system to store excess energy for later use.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "partners_with",
         "Object": "electricity grid operators",
         "Description": "Pumped hydro storage partners with electricity grid operators to ensure efficient energy distribution and management.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Pumped hydro storage contributes to climate change mitigation by enabling the integration of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "monitors",
         "Object": "energy storage performance",
         "Description": "Pumped hydro storage monitors the performance of energy storage systems to optimize their efficiency and effectiveness.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "targets",
         "Object": "energy storage",
         "Description": "Pumped hydro storage targets the expansion of energy storage capacity to meet the growing demand for renewable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "pumped hydro storage"
       },
       {
         "Relation": "addresses",
         "Object": "intermittency of renewable energy",
         "Description": "Pumped hydro storage addresses the intermittency of renewable energy sources by providing a reliable and dispatchable power supply.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "pumped hydro storage"
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -123,9 +297,7 @@
         "Object": "community-led solutions",
         "Description": "Decentralized energy systems focus on community-based energy solutions to promote local energy production and consumption.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",

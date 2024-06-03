@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "smart energy contracts",
     "Description": "Summary of smart energy contracts.",
     "Category": "Technology",
     "Tags": [
@@ -13,18 +12,186 @@
     "Importance": 3.0,
     "Synonyms": [
       "smart contracts"
-    ]
+    ],
+    "Entity Title": "Smart Energy Contracts",
+    "Entity Code": "smart energy contracts"
   },
   "knowledge graph": {
     "entities": [
-      "energy efficiency",
-      "energy service companies",
-      "energy markets",
-      "energy consumption",
-      "carbon emission reduction",
-      "energy storage",
-      "renewable energy agencies",
-      "demand response programs"
+      {
+        "Description": "Summary of smart energy contracts.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart contracts"
+        ],
+        "Entity Title": "Smart Energy Contracts",
+        "Entity Code": "smart energy contracts"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Carbon Emission Reduction",
+        "Entity Code": "carbon emission reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Demand Response Programs",
+        "Entity Code": "demand response programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Energy Service Companies",
+        "Entity Code": "energy service companies",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "smart meters",
@@ -33,94 +200,63 @@
       "automated billing",
       "demand response"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "smart meters",
-        "Relation": "is a sub-element of",
-        "Parent": "smart energy contracts",
-        "Description": "Smart meters are a key component of smart energy contracts, enabling the measurement and monitoring of energy consumption in real-time. They provide accurate data that is used for billing, demand response, and energy management.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "blockchain technology",
-        "Relation": "is a sub-element of",
-        "Parent": "smart energy contracts",
-        "Description": "Blockchain technology is utilized in smart energy contracts to ensure secure and transparent transactions. It enables the creation of decentralized energy markets, peer-to-peer energy trading, and automated contract execution.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy data management",
-        "Relation": "is a sub-element of",
-        "Parent": "smart energy contracts",
-        "Description": "Energy data management is an essential aspect of smart energy contracts, involving the collection, storage, analysis, and utilization of energy consumption data. It enables informed decision-making, optimization of energy usage, and identification of energy-saving opportunities.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "automated billing",
-        "Relation": "is a sub-element of",
-        "Parent": "smart energy contracts",
-        "Description": "Automated billing is a key feature of smart energy contracts, allowing for accurate and timely billing based on real-time energy consumption data. It eliminates the need for manual meter reading and enables dynamic pricing models.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "demand response",
-        "Relation": "is a sub-element of",
-        "Parent": "smart energy contracts",
-        "Description": "Demand response is facilitated through smart energy contracts, enabling the adjustment of energy consumption in response to grid conditions, pricing signals, or demand-side management programs. It helps to balance energy supply and demand, reduce peak loads, and enhance grid stability.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Smart energy contracts implement the policies outlined in the Energy Efficiency Policy to promote energy-saving practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Smart energy contracts provide funding for various renewable energy projects to support the transition to clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "focuses_on",
         "Object": "demand response programs",
         "Description": "Smart energy contracts focus on the implementation of demand response programs to manage electricity consumption during peak periods.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "in",
         "Object": "energy markets",
         "Description": "Smart energy contracts operate within the energy market to facilitate the trading and exchange of energy resources.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "partners_with",
         "Object": "energy service companies",
         "Description": "Smart energy contracts form partnerships with energy service companies to provide energy management solutions to consumers.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "contributes_to",
         "Object": "carbon emission reduction",
         "Description": "Smart energy contracts contribute to the reduction of carbon emissions by promoting the use of renewable energy sources and energy-efficient practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Smart energy contracts monitor energy consumption patterns to identify opportunities for energy optimization and efficiency improvements.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "smart energy contracts"
       },
       {
         "Relation": "targets",
         "Object": "energy storage",
         "Description": "Smart energy contracts set targets for energy savings to incentivize consumers and businesses to adopt energy-efficient practices.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "smart energy contracts"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -162,9 +298,7 @@
         "Object": "smart metering technologies",
         "Description": "Energy storage employs battery technologies to store and release energy efficiently, enabling the integration of renewable energy sources into the grid.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -192,6 +326,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Smart meters are a key component of smart energy contracts, enabling the measurement and monitoring of energy consumption in real-time. They provide accurate data that is used for billing, demand response, and energy management.",
+        "Importance": 4,
+        "Subject": "smart meters",
+        "Object": "smart energy contracts"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Blockchain technology is utilized in smart energy contracts to ensure secure and transparent transactions. It enables the creation of decentralized energy markets, peer-to-peer energy trading, and automated contract execution.",
+        "Importance": 4,
+        "Subject": "blockchain technology",
+        "Object": "smart energy contracts"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy data management is an essential aspect of smart energy contracts, involving the collection, storage, analysis, and utilization of energy consumption data. It enables informed decision-making, optimization of energy usage, and identification of energy-saving opportunities.",
+        "Importance": 3,
+        "Subject": "energy data management",
+        "Object": "smart energy contracts"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Automated billing is a key feature of smart energy contracts, allowing for accurate and timely billing based on real-time energy consumption data. It eliminates the need for manual meter reading and enables dynamic pricing models.",
+        "Importance": 3,
+        "Subject": "automated billing",
+        "Object": "smart energy contracts"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand response is facilitated through smart energy contracts, enabling the adjustment of energy consumption in response to grid conditions, pricing signals, or demand-side management programs. It helps to balance energy supply and demand, reduce peak loads, and enhance grid stability.",
+        "Importance": 4,
+        "Subject": "demand response",
+        "Object": "smart energy contracts"
       }
     ]
   }

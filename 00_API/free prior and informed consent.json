@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "free prior and informed consent",
     "Description": "The principle that requires the consent of indigenous communities before any decision or action is taken that may affect their rights or lands.",
     "Category": "Social",
     "Tags": [
@@ -11,72 +10,139 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Free Prior and Informed Consent",
+    "Entity Code": "free prior and informed consent"
   },
   "knowledge graph": {
     "entities": [
-      "government policies",
-      "international human rights law",
-      "resource extraction projects",
-      "environmental impact assessments",
-      "building standards",
-      "sustainable development",
-      "indigenous peoples organizations",
-      "community development programs"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Resource Extraction Projects",
+        "Entity Code": "resource extraction projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Community Development Programs",
+        "Entity Code": "community development programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development",
+        "Entity Code": "sustainable development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "International Human Rights Law",
+        "Entity Code": "international human rights law",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Indigenous Peoples Organizations",
+        "Entity Code": "indigenous peoples organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Environmental Regulations",
+        "Entity Code": "environmental regulations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Assessments of the environmental impact of projects",
+        "Category": "Policy",
+        "Tags": [
+          "Environmental Impact",
+          "Assessments"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "environmental impact",
+          "environmental impact assessment process",
+          "environmental assessment"
+        ],
+        "Entity Title": "Environmental Impact Assessments",
+        "Entity Code": "environmental impact assessments"
+      },
+      {
+        "Entity Title": "Environmental Experts",
+        "Entity Code": "environmental experts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Government Policies",
+        "Entity Code": "government policies",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Free prior and informed consent implements building standards that ensure the rights of indigenous communities are respected in development projects.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "funds",
         "Object": "community development programs",
         "Description": "Free prior and informed consent provides funding for community development programs that empower indigenous communities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "focuses_on",
         "Object": "environmental impact assessments",
         "Description": "Free prior and informed consent focuses on conducting environmental impact assessments to ensure the protection of indigenous lands and resources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "in",
         "Object": "international human rights law",
         "Description": "Free prior and informed consent is recognized as a right under international human rights law.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "partners_with",
         "Object": "indigenous peoples organizations",
         "Description": "Free prior and informed consent partners with indigenous peoples organizations to ensure meaningful participation in decision-making processes.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development",
         "Description": "Free prior and informed consent contributes to sustainable development by promoting the rights and well-being of indigenous communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "monitors",
         "Object": "resource extraction projects",
         "Description": "Free prior and informed consent monitors resource extraction projects to ensure compliance with indigenous rights and environmental standards.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "free prior and informed consent"
       },
       {
         "Relation": "targets",
         "Object": "government policies",
         "Description": "Free prior and informed consent targets government policies to ensure the recognition and protection of indigenous rights.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "free prior and informed consent"
+      },
       {
         "Subject": "environmental impact assessments",
         "Relation": "employs",
@@ -111,9 +177,7 @@
         "Object": "environmental impact assessments",
         "Description": "Environmental impact assessments are an instance of the broader practice of environmental assessment, specifically focused on energy projects.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "environmental impact assessments",
         "Relation": "employs",

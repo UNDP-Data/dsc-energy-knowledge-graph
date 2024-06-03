@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy entrepreneurship",
     "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
     "Category": "Economic",
     "Tags": [
@@ -13,19 +12,200 @@
     "Synonyms": [
       "entrepreneurship",
       "women entrepreneurs"
-    ]
+    ],
+    "Entity Title": "Energy Entrepreneurship",
+    "Entity Code": "energy entrepreneurship"
   },
   "knowledge graph": {
     "entities": [
-      "local communities",
-      "energy efficiency",
-      "clean energy sector",
-      "energy markets",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "building standards",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+        "Category": "Economic",
+        "Tags": [
+          "Clean Energy Startups",
+          "Renewable Energy Business"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "entrepreneurship",
+          "women entrepreneurs"
+        ],
+        "Entity Title": "Energy Entrepreneurship",
+        "Entity Code": "energy entrepreneurship"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Clean Energy Sector",
+        "Entity Code": "clean energy sector",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "business models",
@@ -34,100 +214,70 @@
       "investment",
       "policy support"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "business models",
-        "Relation": "is a sub-element of",
-        "Parent": "energy entrepreneurship",
-        "Description": "Business models are a key sub-element of energy entrepreneurship. They define the structure and strategy of how energy entrepreneurs create, deliver, and capture value in the sustainable energy sector. Different business models can include pay-as-you-go, leasing, and energy service companies.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "startups",
-        "Relation": "is a sub-element of",
-        "Parent": "energy entrepreneurship",
-        "Description": "Startups are an important sub-element of energy entrepreneurship. They are newly established companies that aim to bring innovative and scalable solutions to the sustainable energy sector. Startups often face unique challenges such as access to funding, market entry, and scaling up.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "innovation",
-        "Relation": "is a sub-element of",
-        "Parent": "energy entrepreneurship",
-        "Description": "Innovation is a crucial sub-element of energy entrepreneurship. It involves the development and implementation of new ideas, technologies, and processes to address sustainable energy challenges. Innovation can lead to breakthrough solutions, improved efficiency, and increased access to clean energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "investment",
-        "Relation": "is a sub-element of",
-        "Parent": "energy entrepreneurship",
-        "Description": "Investment is a vital sub-element of energy entrepreneurship. It refers to the financial resources and funding that support the development and growth of sustainable energy ventures. Investment can come from various sources such as venture capital, impact investors, and government grants.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "policy support",
-        "Relation": "is a sub-element of",
-        "Parent": "energy entrepreneurship",
-        "Description": "Policy support is a critical sub-element of energy entrepreneurship. It involves the creation and implementation of supportive policies and regulations that enable and incentivize the growth of sustainable energy businesses. Policy support can include feed-in tariffs, tax incentives, and supportive regulatory frameworks.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Energy entrepreneurship implements rigorous building standards that promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Energy entrepreneurship funds renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "Energy entrepreneurship focuses on improving energy access in underserved communities through innovative solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "in",
         "Object": "clean energy sector",
         "Description": "Energy entrepreneurship operates in the clean energy sector, contributing to the growth and development of sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "partners_with",
         "Object": "local communities",
         "Description": "Energy entrepreneurship partners with local communities to co-create and implement energy solutions that meet their specific needs.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Energy entrepreneurship contributes to climate change mitigation by promoting the adoption of renewable energy sources and reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy entrepreneurship monitors energy consumption patterns to identify opportunities for energy efficiency improvements and cost savings.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Energy entrepreneurship targets energy efficiency by implementing measures to reduce energy waste and optimize energy use.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Energy entrepreneurship addresses energy poverty by providing access to affordable and reliable energy services for marginalized communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy entrepreneurship"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -183,9 +333,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -213,6 +361,41 @@
         "Object": "intermittency of renewable energy",
         "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Business models are a key sub-element of energy entrepreneurship. They define the structure and strategy of how energy entrepreneurs create, deliver, and capture value in the sustainable energy sector. Different business models can include pay-as-you-go, leasing, and energy service companies.",
+        "Importance": 4,
+        "Subject": "business models",
+        "Object": "energy entrepreneurship"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Startups are an important sub-element of energy entrepreneurship. They are newly established companies that aim to bring innovative and scalable solutions to the sustainable energy sector. Startups often face unique challenges such as access to funding, market entry, and scaling up.",
+        "Importance": 4,
+        "Subject": "startups",
+        "Object": "energy entrepreneurship"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Innovation is a crucial sub-element of energy entrepreneurship. It involves the development and implementation of new ideas, technologies, and processes to address sustainable energy challenges. Innovation can lead to breakthrough solutions, improved efficiency, and increased access to clean energy.",
+        "Importance": 4,
+        "Subject": "innovation",
+        "Object": "energy entrepreneurship"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Investment is a vital sub-element of energy entrepreneurship. It refers to the financial resources and funding that support the development and growth of sustainable energy ventures. Investment can come from various sources such as venture capital, impact investors, and government grants.",
+        "Importance": 4,
+        "Subject": "investment",
+        "Object": "energy entrepreneurship"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Policy support is a critical sub-element of energy entrepreneurship. It involves the creation and implementation of supportive policies and regulations that enable and incentivize the growth of sustainable energy businesses. Policy support can include feed-in tariffs, tax incentives, and supportive regulatory frameworks.",
+        "Importance": 4,
+        "Subject": "policy support",
+        "Object": "energy entrepreneurship"
       }
     ]
   }

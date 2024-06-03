@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "battery storage",
     "Description": "Storage systems that store electrical energy in batteries for later use.",
     "Category": "Technology",
     "Tags": [
@@ -12,17 +11,207 @@
     "Importance": 3.0,
     "Synonyms": [
       "battery performance"
-    ]
+    ],
+    "Entity Title": "Battery Storage",
+    "Entity Code": "battery storage"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "grid integration",
-      "just energy transition",
-      "battery storage",
-      "energy storage",
-      "renewable energy agencies",
-      "electric vehicle manufacturers"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Storage systems that store electrical energy in batteries for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "battery performance"
+        ],
+        "Entity Title": "Battery Storage",
+        "Entity Code": "battery storage"
+      },
+      {
+        "Entity Title": "Grid Integration",
+        "Entity Code": "grid integration",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Electric Vehicle Manufacturers",
+        "Entity Code": "electric vehicle manufacturers",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "lithium-ion batteries",
@@ -31,94 +220,63 @@
       "sodium-sulfur batteries",
       "nickel-cadmium batteries"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "lithium-ion batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "battery storage",
-        "Description": "Lithium-ion batteries are a type of rechargeable battery commonly used in battery storage systems. They have a high energy density, long cycle life, and low self-discharge rate, making them suitable for storing and releasing energy in sustainable energy applications.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "lead-acid batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "battery storage",
-        "Description": "Lead-acid batteries are a type of rechargeable battery commonly used in battery storage systems. They are known for their low cost, high surge current capability, and ability to withstand high discharge rates. However, they have a lower energy density and shorter cycle life compared to lithium-ion batteries.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "flow batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "battery storage",
-        "Description": "Flow batteries are a type of rechargeable battery commonly used in large-scale energy storage systems. They store energy in liquid electrolytes contained in external tanks, allowing for flexible capacity and longer duration storage. Flow batteries are suitable for applications requiring long-duration energy storage and frequent cycling.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "sodium-sulfur batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "battery storage",
-        "Description": "Sodium-sulfur batteries are a type of rechargeable battery commonly used in grid-scale energy storage systems. They operate at high temperatures and use molten sulfur and sodium as the active materials. Sodium-sulfur batteries have a high energy density and long cycle life, making them suitable for large-scale energy storage.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "nickel-cadmium batteries",
-        "Relation": "is a sub-element of",
-        "Parent": "battery storage",
-        "Description": "Nickel-cadmium batteries are a type of rechargeable battery commonly used in portable and backup power applications. They have a long cycle life, high discharge rate, and wide operating temperature range. However, they have a lower energy density compared to lithium-ion batteries and are being phased out due to environmental concerns.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy storage",
         "Description": "Battery storage implements the Energy Storage Policy to promote the use of energy storage technologies for grid stability and renewable energy integration.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery storage"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Battery storage funds research and development activities to improve battery technologies and enhance energy storage capabilities.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery storage"
       },
       {
         "Relation": "focuses_on",
         "Object": "grid integration",
         "Description": "Battery storage focuses on grid integration to enable the seamless integration of renewable energy sources and enhance grid stability.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery storage"
       },
       {
         "Relation": "in",
         "Object": "renewable energy agencies",
         "Description": "Battery storage is used in renewable energy projects to store excess energy generated from renewable sources for later use.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "battery storage"
       },
       {
         "Relation": "partners_with",
         "Object": "electric vehicle manufacturers",
         "Description": "Battery storage partners with electric vehicle manufacturers to develop advanced battery technologies for electric vehicles.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery storage"
       },
       {
         "Relation": "contributes_to",
         "Object": "just energy transition",
         "Description": "Battery storage contributes to the energy transition by enabling the integration of renewable energy sources and reducing reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery storage"
       },
       {
         "Relation": "monitors",
         "Object": "battery storage",
         "Description": "Battery storage monitors battery performance to ensure optimal operation and identify any issues or degradation in performance.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "battery storage"
       },
       {
         "Relation": "targets",
         "Object": "energy storage",
         "Description": "Battery storage targets the increase of energy storage capacity to support the growth of renewable energy and enhance grid flexibility.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "battery storage"
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -146,9 +304,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",
@@ -176,6 +332,41 @@
         "Object": "energy efficiency",
         "Description": "Renewable energy certificates are implemented by the Energy Efficiency Policy to promote the use of renewable energy sources.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Lithium-ion batteries are a type of rechargeable battery commonly used in battery storage systems. They have a high energy density, long cycle life, and low self-discharge rate, making them suitable for storing and releasing energy in sustainable energy applications.",
+        "Importance": 4,
+        "Subject": "lithium-ion batteries",
+        "Object": "battery storage"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Lead-acid batteries are a type of rechargeable battery commonly used in battery storage systems. They are known for their low cost, high surge current capability, and ability to withstand high discharge rates. However, they have a lower energy density and shorter cycle life compared to lithium-ion batteries.",
+        "Importance": 3,
+        "Subject": "lead-acid batteries",
+        "Object": "battery storage"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Flow batteries are a type of rechargeable battery commonly used in large-scale energy storage systems. They store energy in liquid electrolytes contained in external tanks, allowing for flexible capacity and longer duration storage. Flow batteries are suitable for applications requiring long-duration energy storage and frequent cycling.",
+        "Importance": 3,
+        "Subject": "flow batteries",
+        "Object": "battery storage"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Sodium-sulfur batteries are a type of rechargeable battery commonly used in grid-scale energy storage systems. They operate at high temperatures and use molten sulfur and sodium as the active materials. Sodium-sulfur batteries have a high energy density and long cycle life, making them suitable for large-scale energy storage.",
+        "Importance": 3,
+        "Subject": "sodium-sulfur batteries",
+        "Object": "battery storage"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Nickel-cadmium batteries are a type of rechargeable battery commonly used in portable and backup power applications. They have a long cycle life, high discharge rate, and wide operating temperature range. However, they have a lower energy density compared to lithium-ion batteries and are being phased out due to environmental concerns.",
+        "Importance": 2,
+        "Subject": "nickel-cadmium batteries",
+        "Object": "battery storage"
       }
     ]
   }

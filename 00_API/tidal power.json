@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "tidal power",
     "Description": "Tidal power is a form of hydropower that converts the energy from the tides into electricity.",
     "Category": "Technology",
     "Tags": [
@@ -11,17 +10,234 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Tidal Power",
+    "Entity Code": "tidal power"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "energy efficiency",
-      "ocean conservation organization",
-      "just energy transition",
-      "climate change mitigation",
-      "cogeneration",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Tidal power is a form of hydropower that converts the energy from the tides into electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Tidal Energy",
+          "Ocean Power"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Tidal Power",
+        "Entity Code": "tidal power"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Industrial Sector",
+        "Entity Code": "industrial sector",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Ocean Conservation Organization",
+        "Entity Code": "ocean conservation organization",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Description": "Cogeneration, also known as combined heat and power (CHP), is the simultaneous production of electricity and useful heat from the same energy source.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Efficiency",
+          "Heat and Power"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "power generation"
+        ],
+        "Entity Title": "Cogeneration",
+        "Entity Code": "cogeneration"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "tidal turbines",
@@ -30,94 +246,63 @@
       "tidal fences",
       "tidal stream generators"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "tidal turbines",
-        "Relation": "is a sub-element of",
-        "Parent": "tidal power",
-        "Description": "Tidal turbines are devices that convert the kinetic energy of tidal currents into electrical energy. They are typically installed on the seabed or mounted on floating platforms and use the flow of water to rotate their blades and generate electricity.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "tidal barrages",
-        "Relation": "is a sub-element of",
-        "Parent": "tidal power",
-        "Description": "Tidal barrages are large structures built across estuaries or bays to capture and harness the energy of tidal movements. They consist of a dam-like barrier with turbines that generate electricity as the tide flows in and out, utilizing the potential energy difference between high and low tides.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "tidal lagoons",
-        "Relation": "is a sub-element of",
-        "Parent": "tidal power",
-        "Description": "Tidal lagoons are enclosed areas of seawater that are partially enclosed by a natural or artificial barrier. They utilize the rise and fall of tides to generate electricity through turbines. Tidal lagoons can provide a more predictable and controllable source of tidal energy compared to other technologies.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "tidal fences",
-        "Relation": "is a sub-element of",
-        "Parent": "tidal power",
-        "Description": "Tidal fences, also known as tidal barrages or tidal fences, are arrays of vertical axis turbines installed in a line across a tidal channel or river. They harness the kinetic energy of tidal currents to generate electricity. Tidal fences are suitable for locations with strong tidal flows.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "tidal stream generators",
-        "Relation": "is a sub-element of",
-        "Parent": "tidal power",
-        "Description": "Tidal stream generators are devices that extract energy from the flow of tidal currents. They typically consist of underwater turbines or rotors that are anchored to the seabed or suspended in the water column. Tidal stream generators can be deployed in various configurations to maximize energy capture.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Tidal power implements Energy Efficiency Policy to promote the use of energy-saving designs and materials.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "tidal power"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Tidal power funds Research and Development to explore new technologies and improve efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "tidal power"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Tidal power focuses on Renewable Energy Sources to harness clean and sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "tidal power"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Tidal power is included in the Energy Transition Plan to diversify the energy mix and reduce reliance on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "tidal power"
       },
       {
         "Relation": "partners_with",
         "Object": "ocean conservation organization",
         "Description": "Tidal power partners with Ocean Conservation Organization to ensure minimal impact on marine ecosystems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "tidal power"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Tidal power contributes to Climate Change Mitigation by reducing greenhouse gas emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "tidal power"
       },
       {
         "Relation": "monitors",
         "Object": "cogeneration",
         "Description": "Tidal power monitors power generation to optimize efficiency and performance.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "tidal power"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "Tidal power targets increased Renewable Energy Capacity to meet sustainability goals.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "tidal power"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -173,9 +358,7 @@
         "Object": "industrial sector",
         "Description": "Cogeneration is commonly used in the industrial sector to meet the energy demands of manufacturing processes and reduce greenhouse gas emissions.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -203,6 +386,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal turbines are devices that convert the kinetic energy of tidal currents into electrical energy. They are typically installed on the seabed or mounted on floating platforms and use the flow of water to rotate their blades and generate electricity.",
+        "Importance": 4,
+        "Subject": "tidal turbines",
+        "Object": "tidal power"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal barrages are large structures built across estuaries or bays to capture and harness the energy of tidal movements. They consist of a dam-like barrier with turbines that generate electricity as the tide flows in and out, utilizing the potential energy difference between high and low tides.",
+        "Importance": 4,
+        "Subject": "tidal barrages",
+        "Object": "tidal power"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal lagoons are enclosed areas of seawater that are partially enclosed by a natural or artificial barrier. They utilize the rise and fall of tides to generate electricity through turbines. Tidal lagoons can provide a more predictable and controllable source of tidal energy compared to other technologies.",
+        "Importance": 3,
+        "Subject": "tidal lagoons",
+        "Object": "tidal power"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal fences, also known as tidal barrages or tidal fences, are arrays of vertical axis turbines installed in a line across a tidal channel or river. They harness the kinetic energy of tidal currents to generate electricity. Tidal fences are suitable for locations with strong tidal flows.",
+        "Importance": 3,
+        "Subject": "tidal fences",
+        "Object": "tidal power"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal stream generators are devices that extract energy from the flow of tidal currents. They typically consist of underwater turbines or rotors that are anchored to the seabed or suspended in the water column. Tidal stream generators can be deployed in various configurations to maximize energy capture.",
+        "Importance": 4,
+        "Subject": "tidal stream generators",
+        "Object": "tidal power"
       }
     ]
   }

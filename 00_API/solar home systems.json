@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "solar home systems",
     "Description": "Stand-alone solar power systems that provide electricity for individual households.",
     "Category": "Technology",
     "Tags": [
@@ -11,18 +10,128 @@
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Solar Home Systems",
+    "Entity Code": "solar home systems"
   },
   "knowledge graph": {
     "entities": [
-      "clean energy initiative",
-      "energy access program",
-      "energy markets",
-      "local ngos",
-      "energy consumption",
-      "off-grid communities",
-      "rural electrification",
-      "renewable energy agencies"
+      {
+        "Description": "Stand-alone solar power systems that provide electricity for individual households.",
+        "Category": "Technology",
+        "Tags": [
+          "Solar Power",
+          "Home Systems",
+          "Renewable Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Solar Home Systems",
+        "Entity Code": "solar home systems"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Clean Energy Initiative",
+        "Entity Code": "clean energy initiative",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Program",
+        "Entity Code": "energy access program",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Off-grid Communities",
+        "Entity Code": "off-grid communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Rural Electrification",
+        "Entity Code": "rural electrification",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "solar panels",
@@ -31,94 +140,63 @@
       "inverter",
       "load appliances"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "solar panels",
-        "Relation": "is a sub-element of",
-        "Parent": "solar home systems",
-        "Description": "Solar panels are the main component of a solar home system. They capture sunlight and convert it into electricity, which is used to power the home.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "battery storage",
-        "Relation": "is a sub-element of",
-        "Parent": "solar home systems",
-        "Description": "Battery storage is an essential part of a solar home system as it stores excess electricity generated by the solar panels. It ensures a continuous power supply even when sunlight is not available.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "charge controller",
-        "Relation": "is a sub-element of",
-        "Parent": "solar home systems",
-        "Description": "A charge controller regulates the flow of electricity from the solar panels to the battery storage. It prevents overcharging and ensures efficient charging of the batteries.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "inverter",
-        "Relation": "is a sub-element of",
-        "Parent": "solar home systems",
-        "Description": "An inverter converts the direct current (DC) electricity stored in the batteries into alternating current (AC) electricity, which is used to power household appliances.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "load appliances",
-        "Relation": "is a sub-element of",
-        "Parent": "solar home systems",
-        "Description": "Load appliances refer to the various electrical devices and equipment that are powered by the solar home system, such as lights, fans, televisions, and refrigerators.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy access program",
         "Description": "Solar home systems implement the Energy Access Program, which aims to provide clean and affordable energy to off-grid communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Solar home systems contribute funds to support renewable energy projects, promoting the transition to clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "focuses_on",
         "Object": "rural electrification",
         "Description": "Solar home systems focus on rural electrification, providing electricity to remote areas that are not connected to the main power grid.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "in",
         "Object": "clean energy initiative",
         "Description": "Solar home systems are included in the Clean Energy Initiative, which aims to promote the use of renewable energy sources for a sustainable future.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "partners_with",
         "Object": "local ngos",
         "Description": "Solar home systems collaborate and partner with local NGOs to implement sustainable energy projects and initiatives.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy markets",
         "Description": "Solar home systems contribute to improving energy access, providing electricity to households and communities without reliable power sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Solar home systems monitor energy consumption, helping users track their electricity usage and promote energy efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "solar home systems"
       },
       {
         "Relation": "targets",
         "Object": "off-grid communities",
         "Description": "Solar home systems target off-grid communities, aiming to provide them with clean and reliable energy solutions.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "solar home systems"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -146,9 +224,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -169,6 +245,41 @@
         "Object": "sustainable energy projects",
         "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Solar panels are the main component of a solar home system. They capture sunlight and convert it into electricity, which is used to power the home.",
+        "Importance": 4,
+        "Subject": "solar panels",
+        "Object": "solar home systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Battery storage is an essential part of a solar home system as it stores excess electricity generated by the solar panels. It ensures a continuous power supply even when sunlight is not available.",
+        "Importance": 4,
+        "Subject": "battery storage",
+        "Object": "solar home systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "A charge controller regulates the flow of electricity from the solar panels to the battery storage. It prevents overcharging and ensures efficient charging of the batteries.",
+        "Importance": 3,
+        "Subject": "charge controller",
+        "Object": "solar home systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "An inverter converts the direct current (DC) electricity stored in the batteries into alternating current (AC) electricity, which is used to power household appliances.",
+        "Importance": 3,
+        "Subject": "inverter",
+        "Object": "solar home systems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Load appliances refer to the various electrical devices and equipment that are powered by the solar home system, such as lights, fans, televisions, and refrigerators.",
+        "Importance": 2,
+        "Subject": "load appliances",
+        "Object": "solar home systems"
       }
     ]
   }

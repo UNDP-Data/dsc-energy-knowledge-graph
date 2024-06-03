@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy data analytics",
     "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
     "Category": "Technology",
     "Tags": [
@@ -15,17 +14,174 @@
       "energy market analysis",
       "data analytics",
       "energy analysts"
-    ]
+    ],
+    "Entity Title": "Energy Data Analytics",
+    "Entity Code": "energy data analytics"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "smart grid systems",
-      "energy efficiency",
-      "energy service companies",
-      "energy consumption",
-      "renewable energy agencies",
-      "carbon footprint reduction"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Smart Grid Systems",
+        "Entity Code": "smart grid systems",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Carbon Footprint Reduction",
+        "Entity Code": "carbon footprint reduction",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
+        "Category": "Technology",
+        "Tags": [
+          "Data-driven Insights",
+          "Energy Efficiency"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy data management",
+          "energy market analysis",
+          "data analytics",
+          "energy analysts"
+        ],
+        "Entity Title": "Energy Data Analytics",
+        "Entity Code": "energy data analytics"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Energy Service Companies",
+        "Entity Code": "energy service companies",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "data collection",
@@ -34,94 +190,63 @@
       "predictive modeling",
       "energy efficiency optimization"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data collection",
-        "Relation": "is a sub-element of",
-        "Parent": "energy data analytics",
-        "Description": "Data collection is a fundamental aspect of energy data analytics, involving the gathering and recording of energy-related data from various sources such as sensors, meters, and databases. It provides the foundation for further analysis and insights.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy data analytics",
-        "Description": "Data analysis is a crucial component of energy data analytics, involving the examination and interpretation of energy-related data to identify patterns, trends, and insights. It helps in understanding energy consumption patterns, identifying inefficiencies, and optimizing energy usage.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data visualization",
-        "Relation": "is a sub-element of",
-        "Parent": "energy data analytics",
-        "Description": "Data visualization is an important aspect of energy data analytics, involving the representation of energy-related data in visual formats such as charts, graphs, and maps. It helps in communicating complex energy information effectively and facilitating data-driven decision-making.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "predictive modeling",
-        "Relation": "is a sub-element of",
-        "Parent": "energy data analytics",
-        "Description": "Predictive modeling is a key technique in energy data analytics, involving the use of statistical and machine learning algorithms to forecast future energy consumption, demand, and trends. It enables proactive decision-making, energy planning, and optimization strategies.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency optimization",
-        "Relation": "is a sub-element of",
-        "Parent": "energy data analytics",
-        "Description": "Energy efficiency optimization is a significant application of energy data analytics, involving the identification and implementation of measures to improve energy efficiency in various sectors. It utilizes data analysis and modeling techniques to identify energy-saving opportunities and optimize energy usage.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Energy data analytics implements the Energy Efficiency Policy to optimize energy consumption and reduce waste.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Energy data analytics funds research and development projects to advance sustainable energy technologies and practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Energy data analytics focuses on analyzing data related to renewable energy sources to identify trends and opportunities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "in",
         "Object": "smart grid systems",
         "Description": "Energy data analytics is used in smart grid systems to optimize energy distribution and improve grid efficiency.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "partners_with",
         "Object": "energy service companies",
         "Description": "Energy data analytics partners with energy service companies to provide data-driven insights for energy efficiency improvements.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "contributes_to",
         "Object": "carbon footprint reduction",
         "Description": "Energy data analytics contributes to carbon footprint reduction by identifying energy-saving opportunities and optimizing energy usage.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy data analytics monitors energy consumption patterns to identify areas for improvement and optimize energy usage.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy data analytics"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Energy data analytics targets energy efficiency improvements by analyzing data and identifying energy-saving measures.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "energy data analytics"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -149,9 +274,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -179,6 +302,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data collection is a fundamental aspect of energy data analytics, involving the gathering and recording of energy-related data from various sources such as sensors, meters, and databases. It provides the foundation for further analysis and insights.",
+        "Importance": 4,
+        "Subject": "data collection",
+        "Object": "energy data analytics"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data analysis is a crucial component of energy data analytics, involving the examination and interpretation of energy-related data to identify patterns, trends, and insights. It helps in understanding energy consumption patterns, identifying inefficiencies, and optimizing energy usage.",
+        "Importance": 4,
+        "Subject": "data analysis",
+        "Object": "energy data analytics"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data visualization is an important aspect of energy data analytics, involving the representation of energy-related data in visual formats such as charts, graphs, and maps. It helps in communicating complex energy information effectively and facilitating data-driven decision-making.",
+        "Importance": 3,
+        "Subject": "data visualization",
+        "Object": "energy data analytics"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Predictive modeling is a key technique in energy data analytics, involving the use of statistical and machine learning algorithms to forecast future energy consumption, demand, and trends. It enables proactive decision-making, energy planning, and optimization strategies.",
+        "Importance": 4,
+        "Subject": "predictive modeling",
+        "Object": "energy data analytics"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy efficiency optimization is a significant application of energy data analytics, involving the identification and implementation of measures to improve energy efficiency in various sectors. It utilizes data analysis and modeling techniques to identify energy-saving opportunities and optimize energy usage.",
+        "Importance": 4,
+        "Subject": "energy efficiency optimization",
+        "Object": "energy data analytics"
       }
     ]
   }

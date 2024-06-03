@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "hydrogen for development",
     "Description": "The use of hydrogen as a clean and sustainable energy source for various sectors to support economic development and decarbonization.",
     "Category": "Technology",
     "Tags": [
@@ -11,72 +10,258 @@
     "Dimension": "Sustainable Development",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Hydrogen for Development",
+    "Entity Code": "hydrogen for development"
   },
   "knowledge graph": {
     "entities": [
-      "climate change scenario analysis",
-      "clean energy initiative",
-      "renewable energy certificates",
-      "carbon emissions",
-      "fuel cell technology",
-      "research institutions",
-      "resilient infrastructure",
-      "energy storage"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Clean Energy Initiative",
+        "Entity Code": "clean energy initiative",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "Analysis of different scenarios related to climate change",
+        "Category": "Policy",
+        "Tags": [
+          "Climate Change",
+          "Scenario",
+          "Analysis"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate change goals"
+        ],
+        "Entity Title": "Climate Change Scenario Analysis",
+        "Entity Code": "climate change scenario analysis"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Carbon Emissions",
+        "Entity Code": "carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Fuel Cell Technology",
+        "Entity Code": "fuel cell technology",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",
+        "Category": "Infrastructure",
+        "Tags": [
+          "Resilience",
+          "Adaptation",
+          "Disaster Risk Reduction"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "infrastructure",
+          "charging infrastructure",
+          "hydrogen infrastructure",
+          "green infrastructure"
+        ],
+        "Entity Title": "Resilient Infrastructure",
+        "Entity Code": "resilient infrastructure"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "energy storage",
         "Description": "Hydrogen for development addresses the need for efficient energy storage solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "employs",
         "Object": "fuel cell technology",
         "Description": "Hydrogen for development employs fuel cell technology for clean and sustainable energy generation.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "collaborates_with",
         "Object": "research institutions",
         "Description": "Hydrogen for development collaborates with research institutions to advance hydrogen energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy certificates",
         "Description": "Hydrogen for development supports the integration of renewable energy sources into existing energy systems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "administers",
         "Object": "resilient infrastructure",
         "Description": "Hydrogen for development administers the development of hydrogen infrastructure for widespread adoption.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "measures",
         "Object": "carbon emissions",
         "Description": "Hydrogen for development measures carbon emissions reduction achieved through hydrogen energy utilization.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate change scenario analysis",
         "Description": "Hydrogen for development aligns with global climate change goals for a sustainable future.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "hydrogen for development"
       },
       {
         "Relation": "an_instance_of",
         "Object": "clean energy initiative",
         "Description": "Hydrogen for development is an instance of a clean energy initiative promoting hydrogen energy solutions.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "hydrogen for development"
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -132,9 +317,7 @@
         "Object": "offshore renewable energy",
         "Description": "Climate change scenario analysis funds research on renewable energy to develop innovative solutions for sustainable energy.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "smart metering technologies",
         "Relation": "implements",

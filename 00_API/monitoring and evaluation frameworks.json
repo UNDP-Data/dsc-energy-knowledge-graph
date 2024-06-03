@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "monitoring and evaluation frameworks",
     "Description": "Frameworks for monitoring and evaluating projects",
     "Category": "Policy",
     "Tags": [
@@ -11,17 +10,218 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Monitoring and Evaluation Frameworks",
+    "Entity Code": "monitoring and evaluation frameworks"
   },
   "knowledge graph": {
     "entities": [
-      "research and development",
-      "energy efficiency",
-      "just energy transition",
-      "energy consumption",
-      "policy development",
-      "renewable energy agencies",
-      "government agencies"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Frameworks for monitoring and evaluating projects",
+        "Category": "Policy",
+        "Tags": [
+          "Monitoring",
+          "Evaluation",
+          "Frameworks"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Monitoring and Evaluation Frameworks",
+        "Entity Code": "monitoring and evaluation frameworks"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Policy Development",
+        "Entity Code": "policy development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      }
     ],
     "sub-elements": [
       "indicators",
@@ -30,94 +230,63 @@
       "reporting mechanisms",
       "feedback loops"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "indicators",
-        "Relation": "is a sub-element of",
-        "Parent": "monitoring and evaluation frameworks",
-        "Description": "Indicators are a key component of monitoring and evaluation frameworks. They are measurable variables that provide information about the progress and effectiveness of sustainable energy projects. Indicators help to track the achievement of goals and targets, and inform decision-making processes.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "data collection methods",
-        "Relation": "is a sub-element of",
-        "Parent": "monitoring and evaluation frameworks",
-        "Description": "Data collection methods are an essential part of monitoring and evaluation frameworks. They involve the systematic gathering of data to assess the performance and impact of sustainable energy projects. Data collection methods can include surveys, interviews, observations, and the use of monitoring equipment.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "evaluation criteria",
-        "Relation": "is a sub-element of",
-        "Parent": "monitoring and evaluation frameworks",
-        "Description": "Evaluation criteria are used to assess the success and effectiveness of sustainable energy projects within monitoring and evaluation frameworks. These criteria define the standards and benchmarks against which project performance is measured. Evaluation criteria can include environmental, social, economic, and technical aspects.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "reporting mechanisms",
-        "Relation": "is a sub-element of",
-        "Parent": "monitoring and evaluation frameworks",
-        "Description": "Reporting mechanisms are an integral part of monitoring and evaluation frameworks. They involve the regular reporting of data, findings, and progress related to sustainable energy projects. Reporting mechanisms ensure transparency, accountability, and enable stakeholders to make informed decisions.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "feedback loops",
-        "Relation": "is a sub-element of",
-        "Parent": "monitoring and evaluation frameworks",
-        "Description": "Feedback loops are an important component of monitoring and evaluation frameworks. They enable the continuous learning and improvement of sustainable energy projects. Feedback loops involve the collection, analysis, and utilization of feedback from stakeholders to inform decision-making and project adjustments.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Monitoring and evaluation frameworks implement the Energy Efficiency Policy to assess the effectiveness of energy-saving measures.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Monitoring and evaluation frameworks allocate funds for research and development in sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "focuses_on",
         "Object": "renewable energy agencies",
         "Description": "Monitoring and evaluation frameworks focus on assessing the performance and impact of renewable energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "in",
         "Object": "just energy transition",
         "Description": "Monitoring and evaluation frameworks play a crucial role in the successful implementation of the Sustainable Energy Transition.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "partners_with",
         "Object": "government agencies",
         "Description": "Monitoring and evaluation frameworks collaborate with government agencies to gather data and assess the progress of sustainable energy initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "contributes_to",
         "Object": "policy development",
         "Description": "Monitoring and evaluation frameworks contribute valuable insights and data to inform policy development in the field of sustainable energy.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Monitoring and evaluation frameworks monitor energy consumption patterns to identify areas for improvement and energy-saving opportunities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
       },
       {
         "Relation": "targets",
         "Object": "energy efficiency",
         "Description": "Monitoring and evaluation frameworks set targets for energy efficiency improvements and track progress towards achieving them.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "monitoring and evaluation frameworks"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -159,9 +328,7 @@
         "Object": "local communities",
         "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -189,6 +356,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Indicators are a key component of monitoring and evaluation frameworks. They are measurable variables that provide information about the progress and effectiveness of sustainable energy projects. Indicators help to track the achievement of goals and targets, and inform decision-making processes.",
+        "Importance": 4,
+        "Subject": "indicators",
+        "Object": "monitoring and evaluation frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data collection methods are an essential part of monitoring and evaluation frameworks. They involve the systematic gathering of data to assess the performance and impact of sustainable energy projects. Data collection methods can include surveys, interviews, observations, and the use of monitoring equipment.",
+        "Importance": 3,
+        "Subject": "data collection methods",
+        "Object": "monitoring and evaluation frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Evaluation criteria are used to assess the success and effectiveness of sustainable energy projects within monitoring and evaluation frameworks. These criteria define the standards and benchmarks against which project performance is measured. Evaluation criteria can include environmental, social, economic, and technical aspects.",
+        "Importance": 4,
+        "Subject": "evaluation criteria",
+        "Object": "monitoring and evaluation frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Reporting mechanisms are an integral part of monitoring and evaluation frameworks. They involve the regular reporting of data, findings, and progress related to sustainable energy projects. Reporting mechanisms ensure transparency, accountability, and enable stakeholders to make informed decisions.",
+        "Importance": 3,
+        "Subject": "reporting mechanisms",
+        "Object": "monitoring and evaluation frameworks"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Feedback loops are an important component of monitoring and evaluation frameworks. They enable the continuous learning and improvement of sustainable energy projects. Feedback loops involve the collection, analysis, and utilization of feedback from stakeholders to inform decision-making and project adjustments.",
+        "Importance": 4,
+        "Subject": "feedback loops",
+        "Object": "monitoring and evaluation frameworks"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "biodigestion",
     "Description": "Biodigestion is the process of breaking down organic materials, such as food waste or agricultural residues, to produce biogas.",
     "Category": "Technology",
     "Tags": [
@@ -12,18 +11,186 @@
     "Importance": 2.0,
     "Synonyms": [
       "anaerobic digestion"
-    ]
+    ],
+    "Entity Title": "Biodigestion",
+    "Entity Code": "biodigestion"
   },
   "knowledge graph": {
     "entities": [
-      "biodigestion",
-      "municipalities",
-      "climate action",
-      "methane emissions",
-      "waste management",
-      "traditional energy technologies",
-      "biogas incentive programs",
-      "circular economy"
+      {
+        "Description": "Biodigestion is the process of breaking down organic materials, such as food waste or agricultural residues, to produce biogas.",
+        "Category": "Technology",
+        "Tags": [
+          "Organic Waste",
+          "Biogas"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "anaerobic digestion"
+        ],
+        "Entity Title": "Biodigestion",
+        "Entity Code": "biodigestion"
+      },
+      {
+        "Entity Title": "Climate Action",
+        "Entity Code": "climate action",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Waste Management",
+        "Entity Code": "waste management",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Technologies that have been used for energy generation and distribution for a long time.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "clean energy technologies",
+          "bioenergy technology"
+        ],
+        "Entity Title": "Traditional Energy Technologies",
+        "Entity Code": "traditional energy technologies"
+      },
+      {
+        "Entity Title": "Municipalities",
+        "Entity Code": "municipalities",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Innovative Recycling Technologies",
+        "Entity Code": "innovative recycling technologies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Biogas Incentive Programs",
+        "Entity Code": "biogas incentive programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Methane Emissions",
+        "Entity Code": "methane emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Production Practices",
+        "Entity Code": "sustainable production practices",
+        "Error": "File not found"
+      },
+      {
+        "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",
+        "Category": "Policy",
+        "Tags": [
+          "Sustainability",
+          "Resource Management",
+          "Waste Reduction"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "circular economy principles",
+          "circular economy solution",
+          "circular economy goals"
+        ],
+        "Entity Title": "Circular Economy",
+        "Entity Code": "circular economy"
+      }
     ],
     "sub-elements": [
       "anaerobic digestion",
@@ -32,94 +199,63 @@
       "biomethane production",
       "waste treatment"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "anaerobic digestion",
-        "Relation": "is a sub-element of",
-        "Parent": "biodigestion",
-        "Description": "Anaerobic digestion is a sub-component of biodigestion, which is a process that breaks down organic matter in the absence of oxygen. It involves the decomposition of biodegradable materials by microorganisms to produce biogas and digestate.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "aerobic digestion",
-        "Relation": "is a sub-element of",
-        "Parent": "biodigestion",
-        "Description": "Aerobic digestion is a sub-component of biodigestion, which is a process that breaks down organic matter in the presence of oxygen. It involves the use of aerobic microorganisms to decompose biodegradable materials and produce compost.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "biogas production",
-        "Relation": "is a sub-element of",
-        "Parent": "biodigestion",
-        "Description": "Biogas production is a sub-component of biodigestion, which is the process of producing biogas through the anaerobic digestion of organic matter. Biogas is a renewable energy source that can be used for heating, electricity generation, and cooking.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "biomethane production",
-        "Relation": "is a sub-element of",
-        "Parent": "biodigestion",
-        "Description": "Biomethane production is a sub-component of biodigestion, which is the process of upgrading biogas to produce biomethane. Biomethane is a renewable natural gas that can be injected into the natural gas grid or used as a transportation fuel.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "waste treatment",
-        "Relation": "is a sub-element of",
-        "Parent": "biodigestion",
-        "Description": "Waste treatment is a sub-component of biodigestion, which involves the treatment and management of organic waste through anaerobic or aerobic digestion. Biodigestion is an effective method for diverting organic waste from landfills and reducing greenhouse gas emissions.",
-        "Importance": 3
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "waste management",
         "Description": "Biodigestion addresses waste management challenges by converting organic waste into biogas and organic fertilizers.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "employs",
         "Object": "biodigestion",
         "Description": "Biodigestion employs anaerobic digestion processes to break down organic waste and produce biogas.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "collaborates_with",
         "Object": "municipalities",
         "Description": "Biodigestion collaborates with municipalities to implement biogas plants for organic waste treatment and energy generation.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "supports",
         "Object": "circular economy",
         "Description": "Biodigestion supports the circular economy by converting organic waste into valuable resources and reducing reliance on landfill disposal.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "administers",
         "Object": "biogas incentive programs",
         "Description": "Biodigestion administers biogas incentive programs to promote the adoption of biodigestion technologies for organic waste management.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "measures",
         "Object": "methane emissions",
         "Description": "Biodigestion measures methane emissions from organic waste and reduces them through the capture and utilization of biogas.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate action",
         "Description": "Biodigestion aligns with climate action goals by reducing methane emissions and promoting renewable energy generation from organic waste.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "biodigestion"
       },
       {
         "Relation": "an_instance_of",
         "Object": "traditional energy technologies",
         "Description": "Biodigestion is an instance of bioenergy technology that converts organic waste into biogas through anaerobic digestion.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "biodigestion"
+      },
       {
         "Subject": "biodigestion",
         "Relation": "addresses",
@@ -161,9 +297,7 @@
         "Object": "renewable energy agencies",
         "Description": "Traditional energy technologies provide funding for research in renewable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "circular economy",
         "Relation": "implements",
@@ -191,6 +325,41 @@
         "Object": "renewable energy agencies",
         "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Anaerobic digestion is a sub-component of biodigestion, which is a process that breaks down organic matter in the absence of oxygen. It involves the decomposition of biodegradable materials by microorganisms to produce biogas and digestate.",
+        "Importance": 4,
+        "Subject": "anaerobic digestion",
+        "Object": "biodigestion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Aerobic digestion is a sub-component of biodigestion, which is a process that breaks down organic matter in the presence of oxygen. It involves the use of aerobic microorganisms to decompose biodegradable materials and produce compost.",
+        "Importance": 3,
+        "Subject": "aerobic digestion",
+        "Object": "biodigestion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biogas production is a sub-component of biodigestion, which is the process of producing biogas through the anaerobic digestion of organic matter. Biogas is a renewable energy source that can be used for heating, electricity generation, and cooking.",
+        "Importance": 4,
+        "Subject": "biogas production",
+        "Object": "biodigestion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Biomethane production is a sub-component of biodigestion, which is the process of upgrading biogas to produce biomethane. Biomethane is a renewable natural gas that can be injected into the natural gas grid or used as a transportation fuel.",
+        "Importance": 4,
+        "Subject": "biomethane production",
+        "Object": "biodigestion"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Waste treatment is a sub-component of biodigestion, which involves the treatment and management of organic waste through anaerobic or aerobic digestion. Biodigestion is an effective method for diverting organic waste from landfills and reducing greenhouse gas emissions.",
+        "Importance": 3,
+        "Subject": "waste treatment",
+        "Object": "biodigestion"
       }
     ]
   }

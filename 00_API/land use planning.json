@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "land use planning",
     "Description": "Planning and management of land use",
     "Category": "Policy",
     "Tags": [
@@ -10,18 +9,163 @@
     "Dimension": "Infrastructure",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Land Use Planning",
+    "Entity Code": "land use planning"
   },
   "knowledge graph": {
     "entities": [
-      "spatial analysis",
-      "community engagement",
-      "land suitability",
-      "sustainable development goals",
-      "climate change mitigation",
-      "integrated resource planning",
-      "zoning regulations",
-      "urban planning departments"
+      {
+        "Entity Title": "Community Engagement",
+        "Entity Code": "community engagement",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Zoning Regulations",
+        "Entity Code": "zoning regulations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Integrated resource planning is a process that helps utilities and energy providers make informed decisions about the mix of energy resources and technologies to meet future energy demand.",
+        "Category": "Strategy",
+        "Tags": [
+          "Energy Planning",
+          "Resource Optimization",
+          "Energy Transition"
+        ],
+        "Dimension": "Strategy",
+        "Acronym": "IRP",
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Integrated Resource Planning",
+        "Entity Code": "integrated resource planning"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Planning and management of land use",
+        "Category": "Policy",
+        "Tags": [
+          "Land Use",
+          "Planning"
+        ],
+        "Dimension": "Infrastructure",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": null,
+        "Entity Title": "Land Use Planning",
+        "Entity Code": "land use planning"
+      },
+      {
+        "Entity Title": "Land Suitability",
+        "Entity Code": "land suitability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Urban Planning Departments",
+        "Entity Code": "urban planning departments",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Spatial Analysis",
+        "Entity Code": "spatial analysis",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "zoning regulations",
@@ -30,94 +174,63 @@
       "public participation",
       "land use policies"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "zoning regulations",
-        "Relation": "is a sub-element of",
-        "Parent": "land use planning",
-        "Description": "Zoning regulations are an important aspect of land use planning. They involve dividing land into different zones or areas with specific permitted uses and regulations. This helps to ensure that land is used in a way that is compatible with its surrounding environment and promotes sustainable development.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "urban design",
-        "Relation": "is a sub-element of",
-        "Parent": "land use planning",
-        "Description": "Urban design is a sub-element of land use planning that focuses on the physical layout and design of urban areas. It involves the arrangement and design of buildings, public spaces, transportation systems, and other elements to create functional, attractive, and sustainable urban environments.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "environmental impact assessment",
-        "Relation": "is a sub-element of",
-        "Parent": "land use planning",
-        "Description": "Environmental impact assessment is an integral part of land use planning. It involves assessing the potential environmental effects of proposed land use changes or developments. This helps to identify and mitigate any negative impacts on the environment, ensuring sustainable and responsible land use.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "public participation",
-        "Relation": "is a sub-element of",
-        "Parent": "land use planning",
-        "Description": "Public participation is a crucial aspect of land use planning. It involves involving the public in the decision-making process and seeking their input and feedback on proposed land use changes or developments. This helps to ensure that the interests and concerns of the community are taken into account, leading to more sustainable and inclusive land use decisions.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "land use policies",
-        "Relation": "is a sub-element of",
-        "Parent": "land use planning",
-        "Description": "Land use policies are an essential component of land use planning. They are a set of guidelines, regulations, and principles that govern how land is used and developed. These policies help to ensure that land use decisions align with sustainable development goals, promote efficient land use, and protect natural resources.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "sustainable development goals",
         "Description": "Land use planning plays a crucial role in addressing the Sustainable Development Goals by promoting sustainable and efficient use of land for energy-related activities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "land use planning"
       },
       {
         "Relation": "employs",
         "Object": "spatial analysis",
         "Description": "Land use planning employs spatial analysis techniques to identify suitable locations for renewable energy projects and optimize energy infrastructure.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "land use planning"
       },
       {
         "Relation": "collaborates_with",
         "Object": "urban planning departments",
         "Description": "Land use planning collaborates with urban planning departments to integrate energy considerations into urban development plans and ensure sustainable energy practices.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "land use planning"
       },
       {
         "Relation": "supports",
         "Object": "community engagement",
         "Description": "Land use planning supports community engagement initiatives to involve local residents in decision-making processes related to energy infrastructure and land use.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "land use planning"
       },
       {
         "Relation": "administers",
         "Object": "zoning regulations",
         "Description": "Land use planning administers zoning regulations to ensure appropriate allocation of land for different energy-related activities and minimize conflicts.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "land use planning"
       },
       {
         "Relation": "measures",
         "Object": "land suitability",
         "Description": "Land use planning measures land suitability for various energy projects, considering factors such as topography, soil quality, and environmental impact.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "land use planning"
       },
       {
         "Relation": "aligns_with",
         "Object": "climate change mitigation",
         "Description": "Land use planning aligns with climate change mitigation efforts by promoting sustainable land use practices that reduce greenhouse gas emissions and enhance carbon sequestration.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "land use planning"
       },
       {
         "Relation": "an_instance_of",
         "Object": "integrated resource planning",
         "Description": "Land use planning is an instance of integrated resource planning, which aims to optimize the use of land and energy resources for sustainable development.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "land use planning"
+      },
       {
         "Subject": "integrated resource planning",
         "Relation": "implements",
@@ -131,9 +244,7 @@
         "Object": "renewable energy agencies",
         "Description": "Integrated resource planning funds renewable energy projects to promote the transition to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -147,6 +258,41 @@
         "Object": "renewable energy agencies",
         "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Zoning regulations are an important aspect of land use planning. They involve dividing land into different zones or areas with specific permitted uses and regulations. This helps to ensure that land is used in a way that is compatible with its surrounding environment and promotes sustainable development.",
+        "Importance": 4,
+        "Subject": "zoning regulations",
+        "Object": "land use planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Urban design is a sub-element of land use planning that focuses on the physical layout and design of urban areas. It involves the arrangement and design of buildings, public spaces, transportation systems, and other elements to create functional, attractive, and sustainable urban environments.",
+        "Importance": 4,
+        "Subject": "urban design",
+        "Object": "land use planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Environmental impact assessment is an integral part of land use planning. It involves assessing the potential environmental effects of proposed land use changes or developments. This helps to identify and mitigate any negative impacts on the environment, ensuring sustainable and responsible land use.",
+        "Importance": 4,
+        "Subject": "environmental impact assessment",
+        "Object": "land use planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Public participation is a crucial aspect of land use planning. It involves involving the public in the decision-making process and seeking their input and feedback on proposed land use changes or developments. This helps to ensure that the interests and concerns of the community are taken into account, leading to more sustainable and inclusive land use decisions.",
+        "Importance": 4,
+        "Subject": "public participation",
+        "Object": "land use planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Land use policies are an essential component of land use planning. They are a set of guidelines, regulations, and principles that govern how land is used and developed. These policies help to ensure that land use decisions align with sustainable development goals, promote efficient land use, and protect natural resources.",
+        "Importance": 4,
+        "Subject": "land use policies",
+        "Object": "land use planning"
       }
     ]
   }

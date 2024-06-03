@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "electrification planning",
     "Description": "The process of developing strategies and plans to increase access to electricity in a specific area or region.",
     "Category": "Strategy",
     "Tags": [
@@ -13,19 +12,171 @@
     "Importance": 3.0,
     "Synonyms": [
       "electrification"
-    ]
+    ],
+    "Entity Title": "Electrification Planning",
+    "Entity Code": "electrification planning"
   },
   "knowledge graph": {
     "entities": [
-      "universal electricity access",
-      "local communities",
-      "energy markets",
-      "climate change mitigation",
-      "energy consumption",
-      "energy poverty indices",
-      "renewable energy initiatives",
-      "rural areas",
-      "sustainable energy projects"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Renewable Energy Initiatives",
+        "Entity Code": "renewable energy initiatives",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Rural Areas",
+        "Entity Code": "rural areas",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The process of developing strategies and plans to increase access to electricity in a specific area or region.",
+        "Category": "Strategy",
+        "Tags": [
+          "Electrification",
+          "Planning",
+          "Energy Access"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "electrification"
+        ],
+        "Entity Title": "Electrification Planning",
+        "Entity Code": "electrification planning"
+      },
+      {
+        "Entity Title": "Universal Electricity Access",
+        "Entity Code": "universal electricity access",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      }
     ],
     "sub-elements": [
       "grid extension",
@@ -34,100 +185,70 @@
       "energy access planning",
       "renewable energy integration"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "grid extension",
-        "Relation": "is a sub-element of",
-        "Parent": "electrification planning",
-        "Description": "Grid extension involves expanding the existing electricity grid infrastructure to reach areas that currently lack access to electricity. It includes the installation of transmission lines, transformers, and distribution networks to connect households and businesses to the grid.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "off-grid solutions",
-        "Relation": "is a sub-element of",
-        "Parent": "electrification planning",
-        "Description": "Off-grid solutions refer to decentralized electricity generation systems that are not connected to the main electricity grid. These solutions often rely on renewable energy sources such as solar panels, wind turbines, or small-scale hydroelectric systems to provide electricity to remote or isolated areas.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "demand-side management",
-        "Relation": "is a sub-element of",
-        "Parent": "electrification planning",
-        "Description": "Demand-side management involves implementing strategies and technologies to optimize energy consumption and reduce peak demand. It includes measures such as energy efficiency programs, load shifting, and demand response initiatives to ensure efficient and sustainable use of electricity.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "energy access planning",
-        "Relation": "is a sub-element of",
-        "Parent": "electrification planning",
-        "Description": "Energy access planning focuses on developing strategies and policies to ensure universal access to affordable, reliable, and modern energy services. It involves assessing energy needs, identifying barriers to access, and designing interventions to overcome these barriers and improve energy access for all.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "renewable energy integration",
-        "Relation": "is a sub-element of",
-        "Parent": "electrification planning",
-        "Description": "Renewable energy integration involves incorporating renewable energy sources into the electricity grid system. It includes the planning, design, and implementation of infrastructure and technologies to enable the seamless integration of renewable energy generation, such as solar and wind power, with the existing grid infrastructure.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable energy projects",
         "Description": "Electrification planning implements sustainable energy projects to ensure access to clean and reliable electricity.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy initiatives",
         "Description": "Electrification planning funds renewable energy initiatives to promote the adoption of clean energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy markets",
         "Description": "Electrification planning focuses on improving energy access for underserved communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "in",
         "Object": "rural areas",
         "Description": "Electrification planning is implemented in rural areas to address energy poverty and promote sustainable development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "partners_with",
         "Object": "local communities",
         "Description": "Electrification planning partners with local communities to ensure their active participation in decision-making processes.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Electrification planning contributes to climate change mitigation by reducing reliance on fossil fuels and promoting clean energy solutions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Electrification planning monitors energy consumption patterns to identify opportunities for energy efficiency improvements.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "targets",
         "Object": "universal electricity access",
         "Description": "Electrification planning targets universal electricity access to ensure no one is left behind in accessing modern energy services.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "electrification planning"
       },
       {
         "Relation": "addresses",
         "Object": "energy poverty indices",
         "Description": "Electrification planning addresses energy poverty by providing affordable and reliable electricity to marginalized communities.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "electrification planning"
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -155,9 +276,7 @@
         "Object": "renewable energy agencies",
         "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy markets",
         "Relation": "addresses",
@@ -185,6 +304,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Grid extension involves expanding the existing electricity grid infrastructure to reach areas that currently lack access to electricity. It includes the installation of transmission lines, transformers, and distribution networks to connect households and businesses to the grid.",
+        "Importance": 4,
+        "Subject": "grid extension",
+        "Object": "electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Off-grid solutions refer to decentralized electricity generation systems that are not connected to the main electricity grid. These solutions often rely on renewable energy sources such as solar panels, wind turbines, or small-scale hydroelectric systems to provide electricity to remote or isolated areas.",
+        "Importance": 3,
+        "Subject": "off-grid solutions",
+        "Object": "electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand-side management involves implementing strategies and technologies to optimize energy consumption and reduce peak demand. It includes measures such as energy efficiency programs, load shifting, and demand response initiatives to ensure efficient and sustainable use of electricity.",
+        "Importance": 3,
+        "Subject": "demand-side management",
+        "Object": "electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Energy access planning focuses on developing strategies and policies to ensure universal access to affordable, reliable, and modern energy services. It involves assessing energy needs, identifying barriers to access, and designing interventions to overcome these barriers and improve energy access for all.",
+        "Importance": 4,
+        "Subject": "energy access planning",
+        "Object": "electrification planning"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Renewable energy integration involves incorporating renewable energy sources into the electricity grid system. It includes the planning, design, and implementation of infrastructure and technologies to enable the seamless integration of renewable energy generation, such as solar and wind power, with the existing grid infrastructure.",
+        "Importance": 4,
+        "Subject": "renewable energy integration",
+        "Object": "electrification planning"
       }
     ]
   }

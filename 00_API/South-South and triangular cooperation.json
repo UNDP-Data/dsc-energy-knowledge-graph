@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "South-South and triangular cooperation",
     "Description": "Collaboration and exchange of resources, knowledge, and expertise among developing countries (South-South cooperation) and between developing countries and other partners (triangular cooperation).",
     "Category": "Strategy",
     "Tags": [
@@ -11,65 +10,245 @@
     "Dimension": "Strategy",
     "Acronym": "SSTC",
     "Importance": 4.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "South-south and Triangular Cooperation",
+    "Entity Code": "south-south and triangular cooperation"
   },
   "knowledge graph": {
     "entities": [
-      "regional energy organizations",
-      "energy efficiency",
-      "international cooperation",
-      "sustainable development goals",
-      "climate finance mechanisms",
-      "renewable energy agencies",
-      "capacity building programs"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "International Cooperation",
+        "Entity Code": "international cooperation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Industries",
+        "Entity Code": "industries",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
+        "Category": "Finance",
+        "Tags": [
+          "Climate Change",
+          "Funding",
+          "Investment"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "climate finance programs",
+          "climate finance"
+        ],
+        "Entity Title": "Climate Finance Mechanisms",
+        "Entity Code": "climate finance mechanisms"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Capacity Building Programs",
+        "Entity Code": "capacity building programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "employs",
         "Object": "capacity building programs",
         "Description": "South-South and triangular cooperation employs capacity building programs to enhance knowledge and skills in sustainable energy.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "collaborates_with",
         "Object": "regional energy organizations",
         "Description": "South-South and triangular cooperation collaborates with international organizations to promote sustainable energy cooperation among developing countries.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "supports",
         "Object": "renewable energy agencies",
         "Description": "South-South and triangular cooperation supports research in renewable energy technologies to foster innovation and knowledge sharing.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "administers",
         "Object": "climate finance mechanisms",
         "Description": "South-South and triangular cooperation administers climate finance programs to support sustainable energy projects in developing countries.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "measures",
         "Object": "energy efficiency",
         "Description": "South-South and triangular cooperation measures energy efficiency performance to track progress and identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "South-South and triangular cooperation aligns with the Sustainable Development Goals to promote sustainable energy access and development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "south-south and triangular cooperation"
       },
       {
         "Relation": "an_instance_of",
         "Object": "international cooperation",
         "Description": "South-South and triangular cooperation is an instance of international cooperation for sustainable energy development.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "south-south and triangular cooperation"
+      },
       {
         "Subject": "regional energy organizations",
         "Relation": "implements",
@@ -125,9 +304,7 @@
         "Object": "industries",
         "Description": "Energy efficiency collaborates with industries to develop and implement energy-saving measures and technologies.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

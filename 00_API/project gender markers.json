@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "project gender markers",
     "Description": "Project gender markers are indicators or criteria used to assess the gender responsiveness or impact of a project. They help ensure that projects consider and address gender inequalities and promote gender equality.",
     "Category": "Policy",
     "Tags": [
@@ -11,11 +10,69 @@
     "Dimension": "Policy",
     "Acronym": null,
     "Importance": 2.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Project Gender Markers",
+    "Entity Code": "project gender markers"
   },
   "knowledge graph": {
     "entities": [
-      "women's economic empowerment"
+      {
+        "Description": "Project gender markers are indicators or criteria used to assess the gender responsiveness or impact of a project. They help ensure that projects consider and address gender inequalities and promote gender equality.",
+        "Category": "Policy",
+        "Tags": [
+          "Gender Equality",
+          "Gender Mainstreaming",
+          "Project Assessment"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": null,
+        "Entity Title": "Project Gender Markers",
+        "Entity Code": "project gender markers"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Women's economic empowerment refers to the ability of women to participate and have control over economic activities, resources, and decision-making processes. It aims to promote gender equality and women's rights in the economic sphere.",
+        "Category": "Social",
+        "Tags": [
+          "Gender Equality",
+          "Women's Rights",
+          "Economic Empowerment"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": null,
+        "Entity Title": "Women's Economic Empowerment",
+        "Entity Code": "women's economic empowerment"
+      },
+      {
+        "Entity Title": "Gender Equality Policy",
+        "Entity Code": "gender equality policy",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Financial services, such as loans, savings, and insurance, provided to low-income individuals or small businesses.",
+        "Category": "Finance",
+        "Tags": [
+          "Microfinance",
+          "Financial Services",
+          "Poverty Alleviation"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "microfinance programs"
+        ],
+        "Entity Title": "Micro-finance",
+        "Entity Code": "micro-finance"
+      }
     ],
     "sub-elements": [
       "gender analysis",
@@ -24,100 +81,70 @@
       "gender-sensitive indicators",
       "gender-disaggregated data"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "gender analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "project gender markers",
-        "Description": "Gender analysis is a crucial component of project gender markers. It involves assessing the different impacts of a project on individuals of different genders. This analysis helps in identifying gender-specific needs, vulnerabilities, and opportunities.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender mainstreaming",
-        "Relation": "is a sub-element of",
-        "Parent": "project gender markers",
-        "Description": "Gender mainstreaming is an integral part of project gender markers. It refers to the process of integrating a gender perspective into all stages of project planning, implementation, monitoring, and evaluation. It aims to promote gender equality and address gender disparities.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "gender-responsive budgeting",
-        "Relation": "is a sub-element of",
-        "Parent": "project gender markers",
-        "Description": "Gender-responsive budgeting is a key aspect of project gender markers. It involves analyzing and allocating financial resources in a way that addresses gender inequalities and promotes gender equality. It ensures that budgetary decisions consider the different needs and priorities of individuals of different genders.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "gender-sensitive indicators",
-        "Relation": "is a sub-element of",
-        "Parent": "project gender markers",
-        "Description": "Gender-sensitive indicators are an important component of project gender markers. These indicators are used to measure and track the progress of a project in achieving gender equality and women's empowerment. They help in assessing the impact of interventions on individuals of different genders.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "gender-disaggregated data",
-        "Relation": "is a sub-element of",
-        "Parent": "project gender markers",
-        "Description": "Gender-disaggregated data is a critical element of project gender markers. It involves collecting and analyzing data that is broken down by gender. This data helps in understanding the different experiences, needs, and outcomes of individuals of different genders, and informs evidence-based decision-making.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "women's economic empowerment",
         "Description": "project gender markers implements women's economic empowerment to ensure gender equality and promote women's economic participation.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "funds",
         "Object": "women's economic empowerment",
         "Description": "project gender markers funds women's economic empowerment initiatives to support women's economic development and empowerment.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "focuses_on",
         "Object": "women's economic empowerment",
         "Description": "project gender markers focuses on women's economic empowerment to address gender disparities and promote women's economic opportunities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "in",
         "Object": "women's economic empowerment",
         "Description": "project gender markers is implemented in the context of women's economic empowerment to ensure gender-responsive development.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "partners_with",
         "Object": "women's economic empowerment",
         "Description": "project gender markers partners with women's economic empowerment organizations to collaborate on gender equality initiatives.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "contributes_to",
         "Object": "women's economic empowerment",
         "Description": "project gender markers contributes to women's economic empowerment by supporting programs and policies that promote women's economic inclusion.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "monitors",
         "Object": "women's economic empowerment",
         "Description": "project gender markers monitors the progress of women's economic empowerment initiatives to ensure their effectiveness and impact.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "targets",
         "Object": "women's economic empowerment",
         "Description": "project gender markers targets women's economic empowerment as a key outcome to achieve gender equality and women's empowerment.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "project gender markers"
       },
       {
         "Relation": "addresses",
         "Object": "women's economic empowerment",
         "Description": "project gender markers addresses the challenges and barriers faced by women in economic empowerment to promote gender equality.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "project gender markers"
+      },
       {
         "Subject": "women's economic empowerment",
         "Relation": "implements",
@@ -131,15 +158,48 @@
         "Object": "micro-finance",
         "Description": "Women's economic empowerment funds microfinance programs that provide financial services to women entrepreneurs, enabling them to start and grow their businesses.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "micro-finance",
         "Relation": "implements",
         "Object": "energy access programs",
         "Description": "Micro-finance implements energy access programs that provide financial support for clean energy projects in underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender analysis is a crucial component of project gender markers. It involves assessing the different impacts of a project on individuals of different genders. This analysis helps in identifying gender-specific needs, vulnerabilities, and opportunities.",
+        "Importance": 4,
+        "Subject": "gender analysis",
+        "Object": "project gender markers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender mainstreaming is an integral part of project gender markers. It refers to the process of integrating a gender perspective into all stages of project planning, implementation, monitoring, and evaluation. It aims to promote gender equality and address gender disparities.",
+        "Importance": 4,
+        "Subject": "gender mainstreaming",
+        "Object": "project gender markers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-responsive budgeting is a key aspect of project gender markers. It involves analyzing and allocating financial resources in a way that addresses gender inequalities and promotes gender equality. It ensures that budgetary decisions consider the different needs and priorities of individuals of different genders.",
+        "Importance": 3,
+        "Subject": "gender-responsive budgeting",
+        "Object": "project gender markers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-sensitive indicators are an important component of project gender markers. These indicators are used to measure and track the progress of a project in achieving gender equality and women's empowerment. They help in assessing the impact of interventions on individuals of different genders.",
+        "Importance": 3,
+        "Subject": "gender-sensitive indicators",
+        "Object": "project gender markers"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Gender-disaggregated data is a critical element of project gender markers. It involves collecting and analyzing data that is broken down by gender. This data helps in understanding the different experiences, needs, and outcomes of individuals of different genders, and informs evidence-based decision-making.",
+        "Importance": 4,
+        "Subject": "gender-disaggregated data",
+        "Object": "project gender markers"
       }
     ]
   }

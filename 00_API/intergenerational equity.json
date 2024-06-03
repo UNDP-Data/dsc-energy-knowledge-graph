@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "intergenerational equity",
     "Description": "The principle of fairness and justice between generations, ensuring that the needs of future generations are considered.",
     "Category": "Social",
     "Tags": [
@@ -13,79 +12,158 @@
     "Importance": 3.0,
     "Synonyms": [
       "intergenerational justice"
-    ]
+    ],
+    "Entity Title": "Intergenerational Equity",
+    "Entity Code": "intergenerational equity"
   },
   "knowledge graph": {
     "entities": [
-      "long-term sustainability",
-      "environmental conservation projects",
-      "international agreements",
-      "youth organizations",
-      "sustainable development goals",
-      "environmental impact assessments",
-      "climate change mitigation",
-      "intergenerational equity",
-      "sustainable development"
+      {
+        "Description": "The principle of fairness and justice between generations, ensuring that the needs of future generations are considered.",
+        "Category": "Social",
+        "Tags": [
+          "Intergenerational Equity",
+          "Fairness",
+          "Justice"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "intergenerational justice"
+        ],
+        "Entity Title": "Intergenerational Equity",
+        "Entity Code": "intergenerational equity"
+      },
+      {
+        "Entity Title": "Long-term Sustainability",
+        "Entity Code": "long-term sustainability",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Environmental Conservation Projects",
+        "Entity Code": "environmental conservation projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Youth Organizations",
+        "Entity Code": "youth organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "International Agreements",
+        "Entity Code": "international agreements",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development",
+        "Entity Code": "sustainable development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Environmental Regulations",
+        "Entity Code": "environmental regulations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Assessments of the environmental impact of projects",
+        "Category": "Policy",
+        "Tags": [
+          "Environmental Impact",
+          "Assessments"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "environmental impact",
+          "environmental impact assessment process",
+          "environmental assessment"
+        ],
+        "Entity Title": "Environmental Impact Assessments",
+        "Entity Code": "environmental impact assessments"
+      },
+      {
+        "Entity Title": "Environmental Experts",
+        "Entity Code": "environmental experts",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "sustainable development goals",
         "Description": "Intergenerational equity implements the sustainable development goals to ensure a better future for future generations.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "funds",
         "Object": "environmental conservation projects",
         "Description": "Intergenerational equity funds environmental conservation projects to protect natural resources for future generations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "focuses_on",
         "Object": "long-term sustainability",
         "Description": "Intergenerational equity focuses on long-term sustainability to ensure the well-being of future generations.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "in",
         "Object": "international agreements",
         "Description": "Intergenerational equity is included in international agreements to promote fairness between generations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "partners_with",
         "Object": "youth organizations",
         "Description": "Intergenerational equity partners with youth organizations to involve young people in decision-making processes.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "contributes_to",
         "Object": "sustainable development",
         "Description": "Intergenerational equity contributes to sustainable development by considering the needs of future generations.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "monitors",
         "Object": "environmental impact assessments",
         "Description": "Intergenerational equity monitors the environmental impact of policies and actions to protect future generations.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "targets",
         "Object": "climate change mitigation",
         "Description": "Intergenerational equity targets climate change mitigation to reduce the impact on future generations.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "intergenerational equity"
       },
       {
         "Relation": "addresses",
         "Object": "intergenerational equity",
         "Description": "Intergenerational equity addresses intergenerational justice to ensure fairness between generations.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "intergenerational equity"
+      },
       {
         "Subject": "environmental impact assessments",
         "Relation": "aligns_with",
@@ -106,9 +184,7 @@
         "Object": "environmental conservation projects",
         "Description": "Intergenerational equity funds environmental conservation projects to protect natural resources for future generations.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "environmental impact assessments",
         "Relation": "employs",

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "offshore renewable energy",
     "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
     "Category": "Technology",
     "Tags": [
@@ -13,18 +12,228 @@
       "marine renewable energy",
       "research on renewable energy",
       "renewable energy"
-    ]
+    ],
+    "Entity Title": "Offshore Renewable Energy",
+    "Entity Code": "offshore renewable energy"
   },
   "knowledge graph": {
     "entities": [
-      "wind energy",
-      "regional energy organizations",
-      "research and development",
-      "marine environment",
-      "climate change mitigation",
-      "environmental impact assessments",
-      "building standards",
-      "renewable energy agencies"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
+        "Category": "Technology",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Social",
+          "Economic"
+        ],
+        "Dimension": "Intersectionality",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "wave energy"
+        ],
+        "Entity Title": "Wind Energy",
+        "Entity Code": "wind energy"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Environmental Regulations",
+        "Entity Code": "environmental regulations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
+        "Category": "Technology",
+        "Tags": [
+          "Environmental"
+        ],
+        "Dimension": "Environmental",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "marine renewable energy",
+          "research on renewable energy",
+          "renewable energy"
+        ],
+        "Entity Title": "Offshore Renewable Energy",
+        "Entity Code": "offshore renewable energy"
+      },
+      {
+        "Description": "Assessments of the environmental impact of projects",
+        "Category": "Policy",
+        "Tags": [
+          "Environmental Impact",
+          "Assessments"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "environmental impact",
+          "environmental impact assessment process",
+          "environmental assessment"
+        ],
+        "Entity Title": "Environmental Impact Assessments",
+        "Entity Code": "environmental impact assessments"
+      },
+      {
+        "Entity Title": "Marine Environment",
+        "Entity Code": "marine environment",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Organizations that focus on energy issues within a specific region.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "international organizations",
+          "environmental organizations",
+          "renewable energy organization",
+          "geological survey organizations"
+        ],
+        "Entity Title": "Regional Energy Organizations",
+        "Entity Code": "regional energy organizations"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "wind energy",
@@ -33,94 +242,63 @@
       "ocean thermal energy",
       "current energy"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "wind energy",
-        "Relation": "is a sub-element of",
-        "Parent": "offshore renewable energy",
-        "Description": "Wind energy is a sub-component of offshore renewable energy. It involves harnessing the power of wind to generate electricity using wind turbines installed offshore. Offshore wind farms are becoming increasingly popular due to their higher wind speeds and larger turbine capacities.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "wave energy",
-        "Relation": "is a sub-element of",
-        "Parent": "offshore renewable energy",
-        "Description": "Wave energy is a sub-component of offshore renewable energy. It involves capturing the energy from ocean waves and converting it into electricity. Wave energy devices are typically installed offshore and can provide a consistent and reliable source of renewable energy.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "tidal energy",
-        "Relation": "is a sub-element of",
-        "Parent": "offshore renewable energy",
-        "Description": "Tidal energy is a sub-component of offshore renewable energy. It involves harnessing the power of tides to generate electricity. Tidal energy devices are typically installed in coastal areas with strong tidal currents, and they can provide a predictable and renewable source of energy.",
-        "Importance": 3
-      },
-      {
-        "Sub-element": "ocean thermal energy",
-        "Relation": "is a sub-element of",
-        "Parent": "offshore renewable energy",
-        "Description": "Ocean thermal energy is a sub-component of offshore renewable energy. It involves utilizing the temperature difference between warm surface waters and cold deep waters to generate electricity. Ocean thermal energy conversion (OTEC) systems can provide a continuous and sustainable source of power.",
-        "Importance": 2
-      },
-      {
-        "Sub-element": "current energy",
-        "Relation": "is a sub-element of",
-        "Parent": "offshore renewable energy",
-        "Description": "Current energy is a sub-component of offshore renewable energy. It involves harnessing the kinetic energy of ocean currents to generate electricity. Current energy devices are typically installed in areas with strong and consistent currents, and they can provide a reliable and renewable source of energy.",
-        "Importance": 2
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Offshore renewable energy implements building standards that promote the use of sustainable energy sources and technologies.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Offshore renewable energy funds research and development projects to advance the use of sustainable energy technologies.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "focuses_on",
         "Object": "wind energy",
         "Description": "Offshore renewable energy focuses on harnessing wave energy as a sustainable energy source.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "in",
         "Object": "marine environment",
         "Description": "Offshore renewable energy operates in the marine environment to harness sustainable energy from wind, waves, and tides.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "partners_with",
         "Object": "regional energy organizations",
         "Description": "Offshore renewable energy partners with environmental organizations to ensure sustainable practices and minimize environmental impact.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Offshore renewable energy contributes to climate change mitigation by reducing greenhouse gas emissions and dependence on fossil fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "monitors",
         "Object": "environmental impact assessments",
         "Description": "Offshore renewable energy monitors its environmental impact to ensure sustainable operations and minimize harm to marine ecosystems.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "offshore renewable energy"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "Offshore renewable energy targets increased renewable energy generation to meet sustainable energy goals and reduce reliance on non-renewable sources.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "offshore renewable energy"
+      },
       {
         "Subject": "wind energy",
         "Relation": "implements",
@@ -169,9 +347,7 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -199,6 +375,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wind energy is a sub-component of offshore renewable energy. It involves harnessing the power of wind to generate electricity using wind turbines installed offshore. Offshore wind farms are becoming increasingly popular due to their higher wind speeds and larger turbine capacities.",
+        "Importance": 4,
+        "Subject": "wind energy",
+        "Object": "offshore renewable energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Wave energy is a sub-component of offshore renewable energy. It involves capturing the energy from ocean waves and converting it into electricity. Wave energy devices are typically installed offshore and can provide a consistent and reliable source of renewable energy.",
+        "Importance": 3,
+        "Subject": "wave energy",
+        "Object": "offshore renewable energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Tidal energy is a sub-component of offshore renewable energy. It involves harnessing the power of tides to generate electricity. Tidal energy devices are typically installed in coastal areas with strong tidal currents, and they can provide a predictable and renewable source of energy.",
+        "Importance": 3,
+        "Subject": "tidal energy",
+        "Object": "offshore renewable energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Ocean thermal energy is a sub-component of offshore renewable energy. It involves utilizing the temperature difference between warm surface waters and cold deep waters to generate electricity. Ocean thermal energy conversion (OTEC) systems can provide a continuous and sustainable source of power.",
+        "Importance": 2,
+        "Subject": "ocean thermal energy",
+        "Object": "offshore renewable energy"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Current energy is a sub-component of offshore renewable energy. It involves harnessing the kinetic energy of ocean currents to generate electricity. Current energy devices are typically installed in areas with strong and consistent currents, and they can provide a reliable and renewable source of energy.",
+        "Importance": 2,
+        "Subject": "current energy",
+        "Object": "offshore renewable energy"
       }
     ]
   }

@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "battery recycling",
     "Description": "Battery recycling is the process of reusing or extracting valuable materials from used batteries to reduce waste and environmental impact.",
     "Category": "Technology",
     "Tags": [
@@ -13,71 +12,250 @@
     "Importance": 2.0,
     "Synonyms": [
       "battery recycling program"
-    ]
+    ],
+    "Entity Title": "Battery Recycling",
+    "Entity Code": "battery recycling"
   },
   "knowledge graph": {
     "entities": [
-      "sustainable waste management",
-      "waste management",
-      "just energy transition",
-      "environmental impact assessments",
-      "circular economy",
-      "battery recycling",
-      "electronic manufacturers"
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Description": "Battery recycling is the process of reusing or extracting valuable materials from used batteries to reduce waste and environmental impact.",
+        "Category": "Technology",
+        "Tags": [
+          "Waste Management",
+          "Circular Economy",
+          "Resource Recovery"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "battery recycling program"
+        ],
+        "Entity Title": "Battery Recycling",
+        "Entity Code": "battery recycling"
+      },
+      {
+        "Entity Title": "Waste Management",
+        "Entity Code": "waste management",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Electronic Manufacturers",
+        "Entity Code": "electronic manufacturers",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
+        "Entity Title": "Environmental Regulations",
+        "Entity Code": "environmental regulations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Waste Reduction",
+        "Entity Code": "waste reduction",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Assessments of the environmental impact of projects",
+        "Category": "Policy",
+        "Tags": [
+          "Environmental Impact",
+          "Assessments"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "environmental impact",
+          "environmental impact assessment process",
+          "environmental assessment"
+        ],
+        "Entity Title": "Environmental Impact Assessments",
+        "Entity Code": "environmental impact assessments"
+      },
+      {
+        "Entity Title": "Sustainable Production Practices",
+        "Entity Code": "sustainable production practices",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Waste Management",
+        "Entity Code": "sustainable waste management",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",
+        "Category": "Policy",
+        "Tags": [
+          "Sustainability",
+          "Resource Management",
+          "Waste Reduction"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "circular economy principles",
+          "circular economy solution",
+          "circular economy goals"
+        ],
+        "Entity Title": "Circular Economy",
+        "Entity Code": "circular economy"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "addresses",
         "Object": "waste management",
         "Description": "Battery recycling addresses waste management by safely disposing and recycling used batteries.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "employs",
         "Object": "circular economy",
         "Description": "Battery recycling employs circular economy principles to minimize resource consumption and maximize recycling.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "collaborates_with",
         "Object": "electronic manufacturers",
         "Description": "Battery recycling collaborates with electronic manufacturers to establish collection and recycling programs.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "supports",
         "Object": "just energy transition",
         "Description": "Battery recycling supports the clean energy transition by recycling batteries used in renewable energy systems.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "administers",
         "Object": "battery recycling",
         "Description": "Battery recycling administers the Battery Recycling Program to ensure proper collection and recycling of batteries.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "measures",
         "Object": "environmental impact assessments",
         "Description": "Battery recycling measures the environmental impact of recycling processes to improve sustainability.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "aligns_with",
         "Object": "circular economy",
         "Description": "Battery recycling aligns with circular economy goals by promoting resource efficiency and waste reduction.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "battery recycling"
       },
       {
         "Relation": "an_instance_of",
         "Object": "sustainable waste management",
         "Description": "Battery recycling is an instance of sustainable waste management practices.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "battery recycling"
+      },
       {
         "Subject": "circular economy",
         "Relation": "implements",
@@ -126,9 +304,7 @@
         "Object": "environmental regulations",
         "Description": "Environmental impact assessments align with environmental regulations to ensure compliance and minimize the negative environmental impacts of energy projects.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",

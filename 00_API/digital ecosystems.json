@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "digital ecosystems",
     "Description": "Digital ecosystems refer to interconnected digital platforms, services, and applications that create a holistic digital environment.",
     "Category": "Technology",
     "Tags": [
@@ -10,18 +9,193 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Digital Ecosystems",
+    "Entity Code": "digital ecosystems"
   },
   "knowledge graph": {
     "entities": [
-      "clean energy startups",
-      "smart metering technologies",
-      "energy efficiency",
-      "sustainable energy innovation lab",
-      "carbon emission reduction",
-      "energy access initiative",
-      "renewable energy agencies",
-      "energy consumption patterns"
+      {
+        "Entity Title": "Clean Energy Startups",
+        "Entity Code": "clean energy startups",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Summary of smart metering technologies.",
+        "Category": "Technology",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "smart grid technology",
+          "battery technologies",
+          "smart metering technology"
+        ],
+        "Entity Title": "Smart Metering Technologies",
+        "Entity Code": "smart metering technologies"
+      },
+      {
+        "Entity Title": "Energy Access Initiative",
+        "Entity Code": "energy access initiative",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Carbon Emission Reduction",
+        "Entity Code": "carbon emission reduction",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Innovation Lab",
+        "Entity Code": "sustainable energy innovation lab",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Digital ecosystems refer to interconnected digital platforms, services, and applications that create a holistic digital environment.",
+        "Category": "Technology",
+        "Tags": [
+          "Digital Ecosystems",
+          "Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Digital Ecosystems",
+        "Entity Code": "digital ecosystems"
+      }
     ],
     "sub-elements": [
       "data exchange",
@@ -30,94 +204,63 @@
       "cybersecurity",
       "governance"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data exchange",
-        "Relation": "is a sub-element of",
-        "Parent": "digital ecosystems",
-        "Description": "Data exchange is a crucial aspect of digital ecosystems, enabling the seamless flow of data between different components and stakeholders. It allows for the integration and analysis of diverse data sources, leading to better decision-making and innovation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "platforms",
-        "Relation": "is a sub-element of",
-        "Parent": "digital ecosystems",
-        "Description": "Platforms are a key component of digital ecosystems, providing the infrastructure and tools for various services and applications to operate. They enable the integration of different technologies and facilitate collaboration and interaction among users.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "interoperability",
-        "Relation": "is a sub-element of",
-        "Parent": "digital ecosystems",
-        "Description": "Interoperability is an essential characteristic of digital ecosystems, ensuring that different components and systems can seamlessly communicate and exchange data. It enables the integration of diverse technologies and promotes collaboration and innovation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "cybersecurity",
-        "Relation": "is a sub-element of",
-        "Parent": "digital ecosystems",
-        "Description": "Cybersecurity is a critical aspect of digital ecosystems, protecting the integrity, confidentiality, and availability of data and systems. It involves measures and practices to prevent unauthorized access, data breaches, and other cyber threats.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "governance",
-        "Relation": "is a sub-element of",
-        "Parent": "digital ecosystems",
-        "Description": "Governance is a key element of digital ecosystems, providing the framework and rules for managing and coordinating the various components and stakeholders. It ensures accountability, fairness, and sustainability in the operation and evolution of the ecosystem.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Digital ecosystems implement the Energy Efficiency Policy to promote sustainable energy practices.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Digital ecosystems provide funding for research on renewable energy sources.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "focuses_on",
         "Object": "smart metering technologies",
         "Description": "Digital ecosystems focus on the development and implementation of smart grid technology for efficient energy distribution.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "in",
         "Object": "sustainable energy innovation lab",
         "Description": "Digital ecosystems operate within the Sustainable Energy Innovation Lab to foster innovation in sustainable energy solutions.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "partners_with",
         "Object": "clean energy startups",
         "Description": "Digital ecosystems collaborate and partner with clean energy startups to support their growth and development.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "contributes_to",
         "Object": "energy access initiative",
         "Description": "Digital ecosystems contribute to the Energy Access Initiative to provide sustainable energy solutions to underserved communities.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption patterns",
         "Description": "Digital ecosystems monitor energy consumption patterns to identify areas for improvement and optimization.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "digital ecosystems"
       },
       {
         "Relation": "targets",
         "Object": "carbon emission reduction",
         "Description": "Digital ecosystems set targets for carbon emission reduction to mitigate climate change and promote sustainable energy practices.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "digital ecosystems"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -159,9 +302,7 @@
         "Object": "research and development",
         "Description": "Smart metering technologies contribute funds to research and development projects for improving energy efficiency.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -189,6 +330,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data exchange is a crucial aspect of digital ecosystems, enabling the seamless flow of data between different components and stakeholders. It allows for the integration and analysis of diverse data sources, leading to better decision-making and innovation.",
+        "Importance": 4,
+        "Subject": "data exchange",
+        "Object": "digital ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Platforms are a key component of digital ecosystems, providing the infrastructure and tools for various services and applications to operate. They enable the integration of different technologies and facilitate collaboration and interaction among users.",
+        "Importance": 4,
+        "Subject": "platforms",
+        "Object": "digital ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Interoperability is an essential characteristic of digital ecosystems, ensuring that different components and systems can seamlessly communicate and exchange data. It enables the integration of diverse technologies and promotes collaboration and innovation.",
+        "Importance": 4,
+        "Subject": "interoperability",
+        "Object": "digital ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Cybersecurity is a critical aspect of digital ecosystems, protecting the integrity, confidentiality, and availability of data and systems. It involves measures and practices to prevent unauthorized access, data breaches, and other cyber threats.",
+        "Importance": 4,
+        "Subject": "cybersecurity",
+        "Object": "digital ecosystems"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Governance is a key element of digital ecosystems, providing the framework and rules for managing and coordinating the various components and stakeholders. It ensures accountability, fairness, and sustainability in the operation and evolution of the ecosystem.",
+        "Importance": 4,
+        "Subject": "governance",
+        "Object": "digital ecosystems"
       }
     ]
   }

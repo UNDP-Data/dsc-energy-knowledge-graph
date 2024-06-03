@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "social protection",
     "Description": "Policies and programs designed to support individuals and communities in times of economic and social vulnerability.",
     "Category": "Policy",
     "Tags": [
@@ -14,72 +13,224 @@
     "Synonyms": [
       "social cohesion",
       "financial protection"
-    ]
+    ],
+    "Entity Title": "Social Protection",
+    "Entity Code": "social protection"
   },
   "knowledge graph": {
     "entities": [
-      "non-governmental organizations",
-      "multilateral development banks",
-      "social protection",
-      "government programs",
-      "poverty reduction",
-      "program implementation",
-      "vulnerable populations",
-      "social welfare organizations"
+      {
+        "Entity Title": "Social Welfare Organizations",
+        "Entity Code": "social welfare organizations",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
+        "Category": "Organization",
+        "Tags": [
+          "Finance",
+          "Economic",
+          "Infrastructure"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "national development plans",
+          "development banks"
+        ],
+        "Entity Title": "Multilateral Development Banks",
+        "Entity Code": "multilateral development banks"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Government Programs",
+        "Entity Code": "government programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Vulnerable Populations",
+        "Entity Code": "vulnerable populations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Non-governmental Organizations",
+        "Entity Code": "non-governmental organizations",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Program Implementation",
+        "Entity Code": "program implementation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Policies and programs designed to support individuals and communities in times of economic and social vulnerability.",
+        "Category": "Policy",
+        "Tags": [
+          "Poverty Alleviation",
+          "Inequality Reduction",
+          "Safety Nets"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "social cohesion",
+          "financial protection"
+        ],
+        "Entity Title": "Social Protection",
+        "Entity Code": "social protection"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Poverty Reduction",
+        "Entity Code": "poverty reduction",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [],
-    "subelement_relations": [],
     "relations": [
       {
         "Relation": "implements",
         "Object": "government programs",
         "Description": "Social protection implements various government programs that provide financial assistance and support to vulnerable individuals and families.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "social protection"
       },
       {
         "Relation": "funds",
         "Object": "social welfare organizations",
         "Description": "Social protection funds social welfare organizations that work towards improving the well-being and livelihoods of disadvantaged groups.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "social protection"
       },
       {
         "Relation": "focuses_on",
         "Object": "poverty reduction",
         "Description": "Social protection focuses on poverty reduction by implementing policies and programs that aim to alleviate poverty and improve living conditions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "social protection"
       },
       {
         "Relation": "in",
         "Object": "multilateral development banks",
         "Description": "Social protection is included in national development plans as a key component for achieving inclusive and sustainable development.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "social protection"
       },
       {
         "Relation": "partners_with",
         "Object": "non-governmental organizations",
         "Description": "Social protection partners with non-governmental organizations to enhance the delivery and effectiveness of social welfare programs.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "social protection"
       },
       {
         "Relation": "contributes_to",
         "Object": "social protection",
         "Description": "Social protection contributes to social cohesion by reducing inequality, promoting social justice, and ensuring equal opportunities for all.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "social protection"
       },
       {
         "Relation": "monitors",
         "Object": "program implementation",
         "Description": "Social protection monitors the implementation of social welfare programs to ensure their effectiveness and impact on the target beneficiaries.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "social protection"
       },
       {
         "Relation": "targets",
         "Object": "vulnerable populations",
         "Description": "Social protection targets vulnerable populations such as the elderly, disabled individuals, and low-income households for providing necessary support and assistance.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "social protection"
+      },
       {
         "Subject": "multilateral development banks",
         "Relation": "implements",
@@ -107,9 +258,7 @@
         "Object": "social welfare organizations",
         "Description": "Social protection funds social welfare organizations that work towards improving the well-being and livelihoods of disadvantaged groups.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",

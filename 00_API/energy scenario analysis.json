@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "energy scenario analysis",
     "Description": "Analysis of different scenarios related to energy",
     "Category": "Policy",
     "Tags": [
@@ -11,18 +10,192 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Energy Scenario Analysis",
+    "Entity Code": "energy scenario analysis"
   },
   "knowledge graph": {
     "entities": [
-      "energy diplomacy",
-      "energy markets",
-      "climate change mitigation",
-      "energy transition strategies",
-      "energy consumption",
-      "building standards",
-      "renewable energy agencies",
-      "academic institutions"
+      {
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Description": "Energy diplomacy refers to the diplomatic efforts and negotiations related to energy resources, energy security, and energy cooperation between countries and international organizations.",
+        "Category": "Policy",
+        "Tags": [
+          "International Relations",
+          "Energy Security",
+          "Cooperation"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy policy"
+        ],
+        "Entity Title": "Energy Diplomacy",
+        "Entity Code": "energy diplomacy"
+      },
+      {
+        "Entity Title": "Research Institutions",
+        "Entity Code": "research institutions",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Description": "Analysis of different scenarios related to energy",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Scenario",
+          "Analysis"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Energy Scenario Analysis",
+        "Entity Code": "energy scenario analysis"
+      },
+      {
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Transition Strategies",
+        "Entity Code": "energy transition strategies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Energy Projects",
+        "Entity Code": "sustainable energy projects",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Academic Institutions",
+        "Entity Code": "academic institutions",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "data collection",
@@ -31,100 +204,70 @@
       "policy analysis",
       "reporting"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "data collection",
-        "Relation": "is a sub-element of",
-        "Parent": "energy scenario analysis",
-        "Description": "Data collection is a crucial step in energy scenario analysis, involving the gathering and analysis of relevant data related to energy sources, consumption patterns, and other factors. It provides the foundation for accurate modeling and scenario development.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "modeling",
-        "Relation": "is a sub-element of",
-        "Parent": "energy scenario analysis",
-        "Description": "Modeling is an essential component of energy scenario analysis, where mathematical models are used to simulate and predict energy system behavior under different scenarios. It helps in understanding the potential impacts of various factors and interventions on energy systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "scenario development",
-        "Relation": "is a sub-element of",
-        "Parent": "energy scenario analysis",
-        "Description": "Scenario development is a key aspect of energy scenario analysis, involving the creation of different plausible future scenarios based on various assumptions and factors. It helps in exploring different pathways and potential outcomes for the energy sector.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "policy analysis",
-        "Relation": "is a sub-element of",
-        "Parent": "energy scenario analysis",
-        "Description": "Policy analysis is an important element of energy scenario analysis, where the potential impacts of different policy interventions and measures are assessed. It helps in identifying effective policy options for achieving sustainable energy goals.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "reporting",
-        "Relation": "is a sub-element of",
-        "Parent": "energy scenario analysis",
-        "Description": "Reporting is a crucial part of energy scenario analysis, involving the communication of findings, results, and recommendations to stakeholders. It helps in informing decision-making processes and facilitating informed discussions on sustainable energy strategies.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "building standards",
         "Description": "Energy scenario analysis implements building standards to assess the energy requirements and potential of different scenarios.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
         "Description": "Energy scenario analysis funds research on renewable energy technologies and their potential for sustainable energy production.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "focuses_on",
         "Object": "energy transition strategies",
         "Description": "Energy scenario analysis focuses on developing strategies for a smooth and sustainable transition to clean energy sources.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "in",
         "Object": "energy diplomacy",
         "Description": "Energy scenario analysis is an integral part of energy policy formulation to ensure informed decision-making.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "partners_with",
         "Object": "academic institutions",
         "Description": "Energy scenario analysis partners with academic institutions to leverage their expertise in energy research and analysis.",
-        "Importance": 2
+        "Importance": 2,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "contributes_to",
         "Object": "climate change mitigation",
         "Description": "Energy scenario analysis contributes to climate change mitigation efforts by identifying sustainable energy options and their impact on emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
         "Description": "Energy scenario analysis monitors energy consumption patterns to identify areas for improvement and optimize energy use.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
         "Description": "Energy scenario analysis sets targets for renewable energy deployment based on the analysis of different energy scenarios.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "energy scenario analysis"
       },
       {
         "Relation": "addresses",
         "Object": "energy markets",
         "Description": "Energy scenario analysis addresses the challenge of ensuring universal energy access through the identification of sustainable energy solutions.",
-        "Importance": 3
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 3,
+        "Subject": "energy scenario analysis"
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -166,9 +309,7 @@
         "Object": "government agencies",
         "Description": "Energy markets collaborate with government agencies to develop and implement policies and regulations that promote a sustainable and efficient energy sector.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "renewable energy agencies",
         "Relation": "employs",
@@ -196,6 +337,41 @@
         "Object": "sustainable energy projects",
         "Description": "Climate change scenario analysis implements sustainable energy projects to mitigate the impacts of climate change.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Data collection is a crucial step in energy scenario analysis, involving the gathering and analysis of relevant data related to energy sources, consumption patterns, and other factors. It provides the foundation for accurate modeling and scenario development.",
+        "Importance": 4,
+        "Subject": "data collection",
+        "Object": "energy scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Modeling is an essential component of energy scenario analysis, where mathematical models are used to simulate and predict energy system behavior under different scenarios. It helps in understanding the potential impacts of various factors and interventions on energy systems.",
+        "Importance": 4,
+        "Subject": "modeling",
+        "Object": "energy scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Scenario development is a key aspect of energy scenario analysis, involving the creation of different plausible future scenarios based on various assumptions and factors. It helps in exploring different pathways and potential outcomes for the energy sector.",
+        "Importance": 4,
+        "Subject": "scenario development",
+        "Object": "energy scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Policy analysis is an important element of energy scenario analysis, where the potential impacts of different policy interventions and measures are assessed. It helps in identifying effective policy options for achieving sustainable energy goals.",
+        "Importance": 4,
+        "Subject": "policy analysis",
+        "Object": "energy scenario analysis"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Reporting is a crucial part of energy scenario analysis, involving the communication of findings, results, and recommendations to stakeholders. It helps in informing decision-making processes and facilitating informed discussions on sustainable energy strategies.",
+        "Importance": 4,
+        "Subject": "reporting",
+        "Object": "energy scenario analysis"
       }
     ]
   }

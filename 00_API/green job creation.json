@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "green job creation",
     "Description": "Green job creation refers to the process of generating employment opportunities in sectors that contribute to environmental sustainability, such as renewable energy, energy efficiency, and waste management.",
     "Category": "Economic",
     "Tags": [
@@ -11,17 +10,236 @@
     "Dimension": "Economic",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Green Job Creation",
+    "Entity Code": "green job creation"
   },
   "knowledge graph": {
     "entities": [
-      "blue economy",
-      "renewable energy certificates",
-      "job creation impact",
-      "energy entrepreneurship",
-      "green job programs",
-      "sustainable development goals",
-      "educational institutions"
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Green job creation refers to the process of generating employment opportunities in sectors that contribute to environmental sustainability, such as renewable energy, energy efficiency, and waste management.",
+        "Category": "Economic",
+        "Tags": [
+          "Employment",
+          "Sustainability",
+          "Green Economy"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Green Job Creation",
+        "Entity Code": "green job creation"
+      },
+      {
+        "Description": "Agencies that promote and support the development and use of renewable energy sources.",
+        "Category": "Organization",
+        "Tags": [
+          "Policy",
+          "Technology",
+          "Economic"
+        ],
+        "Dimension": "Policy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy projects",
+          "renewable energy generation",
+          "renewable energy mapping",
+          "renewable energy access",
+          "renewable energy research",
+          "renewable energy technologies",
+          "renewable energy capacity",
+          "renewable energy sources",
+          "international renewable energy agency",
+          "renewable energy transition",
+          "renewable energy solutions",
+          "renewable energy deployment",
+          "renewable energy investments",
+          "renewable energy market",
+          "renewable energy companies",
+          "renewable energy adoption",
+          "renewable energy providers",
+          "renewable energy standards",
+          "renewable energy incentives",
+          "renewable energy performance",
+          "renewable energy developers",
+          "renewable energy solution",
+          "renewable energy goals",
+          "renewable energy experts"
+        ],
+        "Entity Title": "Renewable Energy Agencies",
+        "Entity Code": "renewable energy agencies"
+      },
+      {
+        "Entity Title": "Job Creation Impact",
+        "Entity Code": "job creation impact",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Educational Institutions",
+        "Entity Code": "educational institutions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Ocean Conservation Projects",
+        "Entity Code": "ocean conservation projects",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The sustainable use of ocean resources for economic growth, improved livelihoods, and jobs while preserving the health of the ocean ecosystem.",
+        "Category": "Economic",
+        "Tags": [
+          "Ocean",
+          "Sustainable Development",
+          "Marine Resources"
+        ],
+        "Dimension": "Sustainable Development",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "green economy"
+        ],
+        "Entity Title": "Blue Economy",
+        "Entity Code": "blue economy"
+      },
+      {
+        "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
+        "Category": "Economic",
+        "Tags": [
+          "Clean Energy Startups",
+          "Renewable Energy Business"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "entrepreneurship",
+          "women entrepreneurs"
+        ],
+        "Entity Title": "Energy Entrepreneurship",
+        "Entity Code": "energy entrepreneurship"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Green Job Programs",
+        "Entity Code": "green job programs",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Entity Title": "Sustainable Fisheries",
+        "Entity Code": "sustainable fisheries",
+        "Error": "File not found"
+      }
     ],
     "sub-elements": [
       "renewable energy sector",
@@ -30,88 +248,56 @@
       "green building sector",
       "circular economy sector"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "renewable energy sector",
-        "Relation": "is a sub-element of",
-        "Parent": "green job creation",
-        "Description": "The renewable energy sector is a sub-element of green job creation. It involves the development, installation, and maintenance of renewable energy technologies such as solar, wind, and hydro power. This sector creates job opportunities in the design, manufacturing, installation, and operation of renewable energy systems.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "energy efficiency sector",
-        "Relation": "is a sub-element of",
-        "Parent": "green job creation",
-        "Description": "The energy efficiency sector is a sub-element of green job creation. It focuses on improving energy efficiency in various sectors such as buildings, industries, and transportation. This sector creates job opportunities in energy auditing, retrofitting, and the development and implementation of energy-efficient technologies.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "sustainable transportation sector",
-        "Relation": "is a sub-element of",
-        "Parent": "green job creation",
-        "Description": "The sustainable transportation sector is a sub-element of green job creation. It involves the development and operation of transportation systems that minimize environmental impact, such as electric vehicles, public transit, and cycling infrastructure. This sector creates job opportunities in the manufacturing, maintenance, and operation of sustainable transportation modes.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "green building sector",
-        "Relation": "is a sub-element of",
-        "Parent": "green job creation",
-        "Description": "The green building sector is a sub-element of green job creation. It focuses on the design, construction, and operation of buildings that are energy-efficient, resource-efficient, and environmentally friendly. This sector creates job opportunities in green architecture, construction, and building management.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "circular economy sector",
-        "Relation": "is a sub-element of",
-        "Parent": "green job creation",
-        "Description": "The circular economy sector is a sub-element of green job creation. It involves the transition from a linear economy (take-make-dispose) to a circular economy (reduce-reuse-recycle). This sector creates job opportunities in waste management, recycling, remanufacturing, and the development of sustainable business models.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "employs",
         "Object": "renewable energy certificates",
         "Description": "Green job creation employs a renewable energy workforce to support the growth of the renewable energy sector.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "green job creation"
       },
       {
         "Relation": "collaborates_with",
         "Object": "educational institutions",
         "Description": "Green job creation collaborates with educational institutions to provide training and education for the renewable energy workforce.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "green job creation"
       },
       {
         "Relation": "supports",
         "Object": "energy entrepreneurship",
         "Description": "Green job creation supports entrepreneurship in the renewable energy sector by providing funding and resources for innovative startups.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "green job creation"
       },
       {
         "Relation": "administers",
         "Object": "green job programs",
         "Description": "Green job creation administers green job programs to facilitate the creation of employment opportunities in the renewable energy industry.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "green job creation"
       },
       {
         "Relation": "measures",
         "Object": "job creation impact",
         "Description": "Green job creation measures the impact of job creation in the renewable energy sector on economic growth and sustainability.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "green job creation"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
         "Description": "Green job creation aligns with the Sustainable Development Goals by promoting inclusive and sustainable economic growth.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "green job creation"
       },
       {
         "Relation": "an_instance_of",
         "Object": "blue economy",
         "Description": "Green job creation is an instance of the transition to a green economy that prioritizes sustainable and low-carbon industries.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "green job creation"
+      },
       {
         "Subject": "renewable energy certificates",
         "Relation": "implements",
@@ -153,9 +339,7 @@
         "Object": "ocean conservation projects",
         "Description": "The blue economy funds various ocean conservation projects to protect marine biodiversity and ecosystems.",
         "Importance": 3
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -183,6 +367,41 @@
         "Object": "energy access programs",
         "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The renewable energy sector is a sub-element of green job creation. It involves the development, installation, and maintenance of renewable energy technologies such as solar, wind, and hydro power. This sector creates job opportunities in the design, manufacturing, installation, and operation of renewable energy systems.",
+        "Importance": 4,
+        "Subject": "renewable energy sector",
+        "Object": "green job creation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The energy efficiency sector is a sub-element of green job creation. It focuses on improving energy efficiency in various sectors such as buildings, industries, and transportation. This sector creates job opportunities in energy auditing, retrofitting, and the development and implementation of energy-efficient technologies.",
+        "Importance": 4,
+        "Subject": "energy efficiency sector",
+        "Object": "green job creation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The sustainable transportation sector is a sub-element of green job creation. It involves the development and operation of transportation systems that minimize environmental impact, such as electric vehicles, public transit, and cycling infrastructure. This sector creates job opportunities in the manufacturing, maintenance, and operation of sustainable transportation modes.",
+        "Importance": 4,
+        "Subject": "sustainable transportation sector",
+        "Object": "green job creation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The green building sector is a sub-element of green job creation. It focuses on the design, construction, and operation of buildings that are energy-efficient, resource-efficient, and environmentally friendly. This sector creates job opportunities in green architecture, construction, and building management.",
+        "Importance": 4,
+        "Subject": "green building sector",
+        "Object": "green job creation"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The circular economy sector is a sub-element of green job creation. It involves the transition from a linear economy (take-make-dispose) to a circular economy (reduce-reuse-recycle). This sector creates job opportunities in waste management, recycling, remanufacturing, and the development of sustainable business models.",
+        "Importance": 4,
+        "Subject": "circular economy sector",
+        "Object": "green job creation"
       }
     ]
   }

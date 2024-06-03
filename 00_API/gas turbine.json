@@ -1,6 +1,5 @@
 {
   "metadata": {
-    "Entity": "gas turbine",
     "Description": "A gas turbine is a type of internal combustion engine that converts the energy from the combustion of a fuel, such as natural gas or liquid fuels, into mechanical energy.",
     "Category": "Technology",
     "Tags": [
@@ -11,19 +10,196 @@
     "Dimension": "Technology",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": null
+    "Synonyms": null,
+    "Entity Title": "Gas Turbine",
+    "Entity Code": "gas turbine"
   },
   "knowledge graph": {
     "entities": [
-      "operational performance",
-      "research and development",
-      "renewable energy certificates",
-      "energy efficiency",
-      "reducing carbon emissions",
-      "energy democracy",
-      "clean energy generation",
-      "energy storage companies",
-      "power generation plants"
+      {
+        "Entity Title": "Research and Development",
+        "Entity Code": "research and development",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
+        "Category": "Economic",
+        "Tags": [
+          "Energy",
+          "Markets",
+          "Commodities"
+        ],
+        "Dimension": "Economic",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy startups",
+          "energy access",
+          "energy audits",
+          "energy market",
+          "energy market monopoly"
+        ],
+        "Entity Title": "Energy Markets",
+        "Entity Code": "energy markets"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Clean Energy Research",
+        "Entity Code": "clean energy research",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Participatory Decision-making",
+        "Entity Code": "participatory decision-making",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Energy Storage Companies",
+        "Entity Code": "energy storage companies",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Power Generation Plants",
+        "Entity Code": "power generation plants",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Reducing Carbon Emissions",
+        "Entity Code": "reducing carbon emissions",
+        "Error": "File not found"
+      },
+      {
+        "Entity Title": "Operational Performance",
+        "Entity Code": "operational performance",
+        "Error": "File not found"
+      },
+      {
+        "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
+        "Category": "Social",
+        "Tags": [
+          "Community",
+          "Participation",
+          "Decentralization"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 2.0,
+        "Synonyms": [
+          "energy security",
+          "energy demand"
+        ],
+        "Entity Title": "Energy Democracy",
+        "Entity Code": "energy democracy"
+      },
+      {
+        "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
+        "Category": "Technology",
+        "Tags": [
+          "Energy Conservation",
+          "Energy Management",
+          "Sustainability"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy efficiency policy",
+          "energy efficiency programs",
+          "energy efficiency goals",
+          "energy efficiency performance",
+          "energy efficiency initiatives",
+          "energy efficiency measures",
+          "energy efficiency improvements",
+          "energy efficiency targets"
+        ],
+        "Entity Title": "Energy Efficiency",
+        "Entity Code": "energy efficiency"
+      },
+      {
+        "Description": "Summary of energy and health",
+        "Category": "Crisis",
+        "Tags": [
+          "Health",
+          "Energy"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy inequality"
+        ],
+        "Entity Title": "Energy and Health",
+        "Entity Code": "energy and health"
+      },
+      {
+        "Entity Title": "Clean Energy Generation",
+        "Entity Code": "clean energy generation",
+        "Error": "File not found"
+      },
+      {
+        "Description": "The process of capturing and storing energy for later use.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Grid Stability",
+          "Battery Technology"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy waste",
+          "energy storage capacity",
+          "energy savings",
+          "energy data",
+          "energy storage solutions",
+          "energy storage policy",
+          "energy surveys"
+        ],
+        "Entity Title": "Energy Storage",
+        "Entity Code": "energy storage"
+      },
+      {
+        "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
+        "Category": "Technology",
+        "Tags": [
+          "Renewable Energy",
+          "Certification",
+          "Market"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "renewable energy integration",
+          "renewable energy workforce",
+          "renewable energy startups",
+          "renewable energy cooperatives",
+          "energy certificates",
+          "renewable energy portfolio"
+        ],
+        "Entity Title": "Renewable Energy Certificates",
+        "Entity Code": "renewable energy certificates"
+      },
+      {
+        "Description": "A gas turbine is a type of internal combustion engine that converts the energy from the combustion of a fuel, such as natural gas or liquid fuels, into mechanical energy.",
+        "Category": "Technology",
+        "Tags": [
+          "Power Generation",
+          "Energy Efficiency",
+          "Combustion"
+        ],
+        "Dimension": "Technology",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Gas Turbine",
+        "Entity Code": "gas turbine"
+      }
     ],
     "sub-elements": [
       "combustion chamber",
@@ -32,100 +208,70 @@
       "generator",
       "exhaust system"
     ],
-    "subelement_relations": [
-      {
-        "Sub-element": "combustion chamber",
-        "Relation": "is a sub-element of",
-        "Parent": "gas turbine",
-        "Description": "The combustion chamber is a crucial component of a gas turbine. It is where the fuel and air mixture is ignited and burned, generating high-temperature and high-pressure gases that drive the turbine.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "compressor",
-        "Relation": "is a sub-element of",
-        "Parent": "gas turbine",
-        "Description": "The compressor is an essential part of a gas turbine. It compresses the incoming air, increasing its pressure and temperature before it enters the combustion chamber. This compressed air is necessary for efficient combustion and power generation.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "turbine",
-        "Relation": "is a sub-element of",
-        "Parent": "gas turbine",
-        "Description": "The turbine is a key component of a gas turbine. It consists of a series of blades mounted on a shaft. As the high-temperature and high-pressure gases from the combustion chamber flow over the turbine blades, they cause the blades to rotate, converting the gas energy into mechanical energy.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "generator",
-        "Relation": "is a sub-element of",
-        "Parent": "gas turbine",
-        "Description": "The generator is an integral part of a gas turbine system. It is connected to the turbine shaft and converts the mechanical energy from the turbine into electrical energy. The generator plays a crucial role in the power generation process.",
-        "Importance": 4
-      },
-      {
-        "Sub-element": "exhaust system",
-        "Relation": "is a sub-element of",
-        "Parent": "gas turbine",
-        "Description": "The exhaust system is an important component of a gas turbine. It is responsible for safely removing the exhaust gases from the turbine after they have passed through the turbine blades. The exhaust system also plays a role in controlling emissions and ensuring environmental sustainability.",
-        "Importance": 4
-      }
-    ],
     "relations": [
       {
         "Relation": "implements",
         "Object": "energy efficiency",
         "Description": "Gas turbine implements energy efficiency measures to optimize energy consumption and reduce emissions.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "funds",
         "Object": "research and development",
         "Description": "Gas turbine funds research and development initiatives to improve efficiency and performance.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "focuses_on",
         "Object": "clean energy generation",
         "Description": "Gas turbine focuses on clean energy generation by utilizing renewable fuels and reducing environmental impact.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "in",
         "Object": "power generation plants",
         "Description": "Gas turbine is used in power generation plants to produce electricity efficiently.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "partners_with",
         "Object": "energy storage companies",
         "Description": "Gas turbine partners with energy storage companies to enhance grid stability and enable renewable energy integration.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "contributes_to",
         "Object": "reducing carbon emissions",
         "Description": "Gas turbine contributes to reducing carbon emissions by providing a cleaner and more efficient energy source.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "monitors",
         "Object": "operational performance",
         "Description": "Gas turbine monitors its operational performance to ensure optimal efficiency and identify areas for improvement.",
-        "Importance": 3
+        "Importance": 3,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy certificates",
         "Description": "Gas turbine targets renewable energy integration by enabling the efficient utilization of renewable fuels.",
-        "Importance": 4
+        "Importance": 4,
+        "Subject": "gas turbine"
       },
       {
         "Relation": "addresses",
         "Object": "energy democracy",
         "Description": "Gas turbine addresses energy demand by providing a reliable and flexible power generation solution.",
-        "Importance": 4
-      }
-    ],
-    "relations-level-2": [
+        "Importance": 4,
+        "Subject": "gas turbine"
+      },
       {
         "Subject": "energy efficiency",
         "Relation": "addresses",
@@ -167,9 +313,7 @@
         "Object": "participatory decision-making",
         "Description": "Energy democracy employs participatory decision-making processes to ensure that all stakeholders have a voice in shaping energy policies and projects.",
         "Importance": 4
-      }
-    ],
-    "relations-level-3": [
+      },
       {
         "Subject": "energy storage",
         "Relation": "addresses",
@@ -197,6 +341,41 @@
         "Object": "energy storage",
         "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The combustion chamber is a crucial component of a gas turbine. It is where the fuel and air mixture is ignited and burned, generating high-temperature and high-pressure gases that drive the turbine.",
+        "Importance": 4,
+        "Subject": "combustion chamber",
+        "Object": "gas turbine"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The compressor is an essential part of a gas turbine. It compresses the incoming air, increasing its pressure and temperature before it enters the combustion chamber. This compressed air is necessary for efficient combustion and power generation.",
+        "Importance": 4,
+        "Subject": "compressor",
+        "Object": "gas turbine"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The turbine is a key component of a gas turbine. It consists of a series of blades mounted on a shaft. As the high-temperature and high-pressure gases from the combustion chamber flow over the turbine blades, they cause the blades to rotate, converting the gas energy into mechanical energy.",
+        "Importance": 4,
+        "Subject": "turbine",
+        "Object": "gas turbine"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The generator is an integral part of a gas turbine system. It is connected to the turbine shaft and converts the mechanical energy from the turbine into electrical energy. The generator plays a crucial role in the power generation process.",
+        "Importance": 4,
+        "Subject": "generator",
+        "Object": "gas turbine"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "The exhaust system is an important component of a gas turbine. It is responsible for safely removing the exhaust gases from the turbine after they have passed through the turbine blades. The exhaust system also plays a role in controlling emissions and ensuring environmental sustainability.",
+        "Importance": 4,
+        "Subject": "exhaust system",
+        "Object": "gas turbine"
       }
     ]
   }
