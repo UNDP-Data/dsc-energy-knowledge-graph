@@ -36,7 +36,7 @@
       {
         "Entity Title": "Climate Action",
         "Entity Code": "climate action",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -81,7 +81,7 @@
       {
         "Entity Title": "Waste Management",
         "Entity Code": "waste management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Technologies that have been used for energy generation and distribution for a long time.",
@@ -103,17 +103,17 @@
       {
         "Entity Title": "Municipalities",
         "Entity Code": "municipalities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Innovative Recycling Technologies",
         "Entity Code": "innovative recycling technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Biogas Incentive Programs",
         "Entity Code": "biogas incentive programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -165,12 +165,12 @@
       {
         "Entity Title": "Methane Emissions",
         "Entity Code": "methane emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Production Practices",
         "Entity Code": "sustainable production practices",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",

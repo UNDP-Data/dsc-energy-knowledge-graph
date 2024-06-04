@@ -19,7 +19,7 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -42,17 +42,17 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Digital Divide",
         "Entity Code": "digital divide",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption Patterns",
         "Entity Code": "energy consumption patterns",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -97,27 +97,27 @@
       {
         "Entity Title": "Reducing Carbon Emissions",
         "Entity Code": "reducing carbon emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Smart Grid Technologies",
         "Entity Code": "smart grid technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Collaboration with Energy Companies",
         "Entity Code": "collaboration with energy companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -145,7 +145,7 @@
       {
         "Entity Title": "Academic Institutions",
         "Entity Code": "academic institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

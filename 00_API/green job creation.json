@@ -40,12 +40,12 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Green job creation refers to the process of generating employment opportunities in sectors that contribute to environmental sustainability, such as renewable energy, energy efficiency, and waste management.",
@@ -105,17 +105,17 @@
       {
         "Entity Title": "Job Creation Impact",
         "Entity Code": "job creation impact",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Educational Institutions",
         "Entity Code": "educational institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Ocean Conservation Projects",
         "Entity Code": "ocean conservation projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The sustainable use of ocean resources for economic growth, improved livelihoods, and jobs while preserving the health of the ocean ecosystem.",
@@ -201,17 +201,17 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Green Job Programs",
         "Entity Code": "green job programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
@@ -238,7 +238,7 @@
       {
         "Entity Title": "Sustainable Fisheries",
         "Entity Code": "sustainable fisheries",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

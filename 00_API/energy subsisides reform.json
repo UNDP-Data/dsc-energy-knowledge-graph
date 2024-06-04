@@ -18,7 +18,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -63,12 +63,12 @@
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Policy Reform",
         "Entity Code": "energy policy reform",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": null,
@@ -87,22 +87,22 @@
       {
         "Entity Title": "Market-based Pricing Mechanisms",
         "Entity Code": "market-based pricing mechanisms",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "International Energy Agency (iea)",
         "Entity Code": "international energy agency (iea)",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goal 7 (sdg 7)",
         "Entity Code": "sustainable development goal 7 (sdg 7)",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Affordability Index",
         "Entity Code": "energy affordability index",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

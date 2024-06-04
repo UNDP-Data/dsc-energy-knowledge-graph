@@ -21,12 +21,12 @@
       {
         "Entity Title": "Data Privacy",
         "Entity Code": "data privacy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Open Data Initiatives",
         "Entity Code": "open data initiatives",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
@@ -50,7 +50,7 @@
       {
         "Entity Title": "Sustainable Energy Policies",
         "Entity Code": "sustainable energy policies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
@@ -73,7 +73,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -118,12 +118,12 @@
       {
         "Entity Title": "Privacy Regulations",
         "Entity Code": "privacy regulations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Data Sharing Policy",
         "Entity Code": "data sharing policy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -171,7 +171,7 @@
       {
         "Entity Title": "Research and Development Projects",
         "Entity Code": "research and development projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agreements for sharing data",

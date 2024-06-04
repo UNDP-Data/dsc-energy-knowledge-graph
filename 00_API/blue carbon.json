@@ -21,7 +21,7 @@
       {
         "Entity Title": "Marine Conservation Organizations",
         "Entity Code": "marine conservation organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -66,12 +66,12 @@
       {
         "Entity Title": "Carbon Storage Capacity",
         "Entity Code": "carbon storage capacity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Natural Climate Solution",
         "Entity Code": "natural climate solution",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
@@ -151,12 +151,12 @@
       {
         "Entity Title": "Coastal Ecosystem Conservation",
         "Entity Code": "coastal ecosystem conservation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Sequestration",
         "Entity Code": "carbon sequestration",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -184,7 +184,7 @@
       {
         "Entity Title": "Sustainable Fisheries",
         "Entity Code": "sustainable fisheries",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

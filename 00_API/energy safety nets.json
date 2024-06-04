@@ -19,7 +19,7 @@
       {
         "Entity Title": "Energy Assistance Programs",
         "Entity Code": "energy assistance programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -42,12 +42,12 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Affordability Indicators",
         "Entity Code": "energy affordability indicators",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -92,32 +92,32 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Non-profit Organizations",
         "Entity Code": "non-profit organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Social Equity",
         "Entity Code": "social equity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Vulnerable Populations",
         "Entity Code": "energy vulnerable populations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Social Welfare Programs",
         "Entity Code": "social welfare programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -145,7 +145,7 @@
       {
         "Entity Title": "Energy Access Barriers",
         "Entity Code": "energy access barriers",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

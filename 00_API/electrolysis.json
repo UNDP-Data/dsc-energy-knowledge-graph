@@ -35,7 +35,7 @@
       {
         "Entity Title": "Carbon Emissions",
         "Entity Code": "carbon emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -58,7 +58,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -120,7 +120,7 @@
       {
         "Entity Title": "Hydrogen Production Facilities",
         "Entity Code": "hydrogen production facilities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -149,12 +149,12 @@
       {
         "Entity Title": "Fuel Cell Technology",
         "Entity Code": "fuel cell technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Hydrogen Purity",
         "Entity Code": "hydrogen purity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -182,7 +182,7 @@
       {
         "Entity Title": "Electrochemical Process",
         "Entity Code": "electrochemical process",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

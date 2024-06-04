@@ -18,7 +18,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,17 +44,17 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption Patterns",
         "Entity Code": "energy consumption patterns",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -99,7 +99,7 @@
       {
         "Entity Title": "Electricity Regulatory Authority",
         "Entity Code": "electricity regulatory authority",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A measure of the average cost of generating electricity from a particular source over its lifetime, taking into account the initial investment, operating costs, and expected output.",
@@ -187,7 +187,7 @@
       {
         "Entity Title": "Affordable Energy Access",
         "Entity Code": "affordable energy access",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -215,7 +215,7 @@
       {
         "Entity Title": "Cost Reduction Strategies",
         "Entity Code": "cost reduction strategies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

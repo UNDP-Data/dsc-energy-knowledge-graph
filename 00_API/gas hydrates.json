@@ -40,12 +40,12 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -90,22 +90,22 @@
       {
         "Entity Title": "Climate Change Adaptation",
         "Entity Code": "climate change adaptation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Unconventional Energy Resource",
         "Entity Code": "unconventional energy resource",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Methane Extraction Technology",
         "Entity Code": "methane extraction technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Methane Content",
         "Entity Code": "methane content",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -134,7 +134,7 @@
       {
         "Entity Title": "Hydrate Extraction Projects",
         "Entity Code": "hydrate extraction projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

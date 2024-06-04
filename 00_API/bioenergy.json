@@ -20,17 +20,17 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Biomass Production",
         "Entity Code": "sustainable biomass production",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -56,7 +56,7 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -85,7 +85,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy derived from biomass, such as organic materials or agricultural residues, through processes like combustion or fermentation.",
@@ -106,7 +106,7 @@
       {
         "Entity Title": "Rural Electrification",
         "Entity Code": "rural electrification",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -156,7 +156,7 @@
       {
         "Entity Title": "Bioenergy Production",
         "Entity Code": "bioenergy production",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

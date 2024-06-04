@@ -40,7 +40,7 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Integrated resource planning is a process that helps utilities and energy providers make informed decisions about the mix of energy resources and technologies to meet future energy demand.",
@@ -60,17 +60,17 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Equity",
         "Entity Code": "energy equity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Demand-side Management",
         "Entity Code": "demand-side management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -115,12 +115,12 @@
       {
         "Entity Title": "Energy Sector",
         "Entity Code": "energy sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -149,12 +149,12 @@
       {
         "Entity Title": "Utilities",
         "Entity Code": "utilities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Emissions Reduction",
         "Entity Code": "carbon emissions reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

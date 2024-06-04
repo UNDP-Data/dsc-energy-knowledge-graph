@@ -36,12 +36,12 @@
       {
         "Entity Title": "Transparency",
         "Entity Code": "transparency",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Distributed Ledger Technology",
         "Entity Code": "distributed ledger technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of smart energy contracts.",
@@ -63,12 +63,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -154,7 +154,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
@@ -185,17 +185,17 @@
       {
         "Entity Title": "Energy Traceability",
         "Entity Code": "energy traceability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Emission Reduction",
         "Entity Code": "carbon emission reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Emissions",
         "Entity Code": "carbon emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

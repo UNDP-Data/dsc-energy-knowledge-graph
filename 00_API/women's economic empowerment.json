@@ -37,7 +37,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -63,17 +63,17 @@
       {
         "Entity Title": "Gender-responsive Employment Policies",
         "Entity Code": "gender-responsive employment policies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Women-owned Businesses",
         "Entity Code": "women-owned businesses",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Gender-based Violence",
         "Entity Code": "gender-based violence",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Women's economic empowerment refers to the ability of women to participate and have control over economic activities, resources, and decision-making processes. It aims to promote gender equality and women's rights in the economic sphere.",
@@ -93,7 +93,7 @@
       {
         "Entity Title": "Gender Equality Policy",
         "Entity Code": "gender equality policy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Financial services, such as loans, savings, and insurance, provided to low-income individuals or small businesses.",
@@ -115,27 +115,27 @@
       {
         "Entity Title": "Gender Pay Gap",
         "Entity Code": "gender pay gap",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Women's Rights Organizations",
         "Entity Code": "women's rights organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Gap",
         "Entity Code": "energy access gap",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Poverty Reduction",
         "Entity Code": "poverty reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

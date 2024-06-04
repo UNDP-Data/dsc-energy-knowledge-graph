@@ -21,12 +21,12 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -71,12 +71,12 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Waste Management",
         "Entity Code": "waste management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Carbon capture and storage (CCS) is a technology that captures carbon dioxide (CO2) emissions from sources such as power plants and stores it underground to prevent it from entering the atmosphere.",
@@ -96,7 +96,7 @@
       {
         "Entity Title": "Clean Energy Production",
         "Entity Code": "clean energy production",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy and modernization refers to the process of integrating modern energy systems and technologies into various sectors of society.",
@@ -157,7 +157,7 @@
       {
         "Entity Title": "Carbon Sequestration",
         "Entity Code": "carbon sequestration",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Gasification is a process that converts carbon-based materials, such as coal or biomass, into synthesis gas (syngas) which can be used for power generation or as a chemical feedstock.",
@@ -219,12 +219,12 @@
       {
         "Entity Title": "Sustainable Energy Systems",
         "Entity Code": "sustainable energy systems",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Conversion Technology",
         "Entity Code": "energy conversion technology",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

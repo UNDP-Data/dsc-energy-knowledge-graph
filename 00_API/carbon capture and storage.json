@@ -19,12 +19,12 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -50,17 +50,17 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Dioxide Levels",
         "Entity Code": "carbon dioxide levels",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Sequestration",
         "Entity Code": "carbon sequestration",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Carbon capture and storage (CCS) is a technology that captures carbon dioxide (CO2) emissions from sources such as power plants and stores it underground to prevent it from entering the atmosphere.",
@@ -104,7 +104,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
@@ -135,17 +135,17 @@
       {
         "Entity Title": "Industrial Emissions",
         "Entity Code": "industrial emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Oil and Gas Companies",
         "Entity Code": "oil and gas companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change",
         "Entity Code": "climate change",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

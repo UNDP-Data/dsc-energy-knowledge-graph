@@ -17,27 +17,27 @@
       {
         "Entity Title": "Government Incentive Programs",
         "Entity Code": "government incentive programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Ocean Temperature",
         "Entity Code": "ocean temperature",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Coastal Communities",
         "Entity Code": "coastal communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -100,7 +100,7 @@
       {
         "Entity Title": "Climate Change Adaptation",
         "Entity Code": "climate change adaptation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -129,7 +129,7 @@
       {
         "Entity Title": "Heat Exchangers",
         "Entity Code": "heat exchangers",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -157,7 +157,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A technology that harnesses the temperature difference between warm surface water and cold deep water to generate electricity.",

@@ -36,12 +36,12 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Solar Power",
         "Entity Code": "solar power",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -86,37 +86,37 @@
       {
         "Entity Title": "Climate Change Adaptation",
         "Entity Code": "climate change adaptation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Output",
         "Entity Code": "energy output",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Private Sector",
         "Entity Code": "private sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Water Conservation",
         "Entity Code": "water conservation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Water Scarcity",
         "Entity Code": "water scarcity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Resilient infrastructure refers to the design and construction of infrastructure systems that can withstand and recover quickly from natural disasters, climate change impacts, and other shocks and stresses.",

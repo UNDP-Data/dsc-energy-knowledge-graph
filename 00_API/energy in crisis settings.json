@@ -19,22 +19,22 @@
       {
         "Entity Title": "Humanitarian Organizations",
         "Entity Code": "humanitarian organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Disaster Response",
         "Entity Code": "disaster response",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -79,7 +79,7 @@
       {
         "Entity Title": "Feed-in Tariff Programs",
         "Entity Code": "feed-in tariff programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy in crisis settings.",
@@ -118,27 +118,27 @@
       {
         "Entity Title": "Emergency Energy Provision",
         "Entity Code": "emergency energy provision",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sendai Framework for Disaster Risk Reduction",
         "Entity Code": "sendai framework for disaster risk reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Humanitarian Needs",
         "Entity Code": "humanitarian needs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Aid Programs",
         "Entity Code": "energy aid programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

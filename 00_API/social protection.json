@@ -22,7 +22,7 @@
       {
         "Entity Title": "Social Welfare Organizations",
         "Entity Code": "social welfare organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
@@ -85,22 +85,22 @@
       {
         "Entity Title": "Government Programs",
         "Entity Code": "government programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Vulnerable Populations",
         "Entity Code": "vulnerable populations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Non-governmental Organizations",
         "Entity Code": "non-governmental organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Program Implementation",
         "Entity Code": "program implementation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -170,7 +170,7 @@
       {
         "Entity Title": "Poverty Reduction",
         "Entity Code": "poverty reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

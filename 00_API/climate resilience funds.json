@@ -23,7 +23,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
@@ -47,7 +47,7 @@
       {
         "Entity Title": "Extreme Weather Events",
         "Entity Code": "extreme weather events",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of community-based energy resilience programs.",
@@ -86,7 +86,7 @@
       {
         "Entity Title": "Local Governments",
         "Entity Code": "local governments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -131,7 +131,7 @@
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
@@ -212,7 +212,7 @@
       {
         "Entity Title": "National Disaster Management Agencies",
         "Entity Code": "national disaster management agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

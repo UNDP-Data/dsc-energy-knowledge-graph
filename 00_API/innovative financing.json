@@ -18,17 +18,17 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Financial Innovation",
         "Entity Code": "financial innovation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "New and creative ways of raising funds for projects or initiatives.",
@@ -47,7 +47,7 @@
       {
         "Entity Title": "Impact Investing",
         "Entity Code": "impact investing",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
@@ -70,7 +70,7 @@
       {
         "Entity Title": "Un Sustainable Development Goals",
         "Entity Code": "un sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -139,17 +139,17 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Startups",
         "Entity Code": "startups",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Innovation Funds",
         "Entity Code": "energy innovation funds",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

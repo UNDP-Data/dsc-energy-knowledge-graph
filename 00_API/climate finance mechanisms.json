@@ -41,12 +41,12 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Extreme Weather Events",
         "Entity Code": "extreme weather events",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -107,27 +107,27 @@
       {
         "Entity Title": "Local Governments",
         "Entity Code": "local governments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Project Implementation",
         "Entity Code": "project implementation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Greenhouse Gas Emission Reduction",
         "Entity Code": "greenhouse gas emission reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Global Climate Fund",
         "Entity Code": "global climate fund",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -174,17 +174,17 @@
       {
         "Entity Title": "International Financial Institutions",
         "Entity Code": "international financial institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "National Disaster Management Agencies",
         "Entity Code": "national disaster management agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

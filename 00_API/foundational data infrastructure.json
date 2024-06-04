@@ -18,7 +18,7 @@
       {
         "Entity Title": "Digital Transformation",
         "Entity Code": "digital transformation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,7 +44,7 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Frameworks that define how data is collected, managed, and used within an organization or across multiple organizations.",
@@ -203,7 +203,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of creating mathematical models to simulate and analyze energy systems and their performance.",
@@ -225,7 +225,7 @@
       {
         "Entity Title": "Energy Grid Operators",
         "Entity Code": "energy grid operators",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Repositories that store and manage energy-related data.",

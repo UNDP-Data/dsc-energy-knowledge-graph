@@ -22,12 +22,12 @@
       {
         "Entity Title": "Energy Market Performance",
         "Entity Code": "energy market performance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Organizations that facilitate and regulate energy market and trade activities.",
@@ -90,12 +90,12 @@
       {
         "Entity Title": "Energy Policy Development",
         "Entity Code": "energy policy development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "International Energy Trade",
         "Entity Code": "international energy trade",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The analysis of energy data to gain insights and inform decision-making in the energy sector.",
@@ -143,7 +143,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

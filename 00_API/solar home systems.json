@@ -55,12 +55,12 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Ngos",
         "Entity Code": "local ngos",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -105,32 +105,32 @@
       {
         "Entity Title": "Clean Energy Initiative",
         "Entity Code": "clean energy initiative",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Program",
         "Entity Code": "energy access program",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Off-grid Communities",
         "Entity Code": "off-grid communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Rural Electrification",
         "Entity Code": "rural electrification",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

@@ -19,7 +19,7 @@
       {
         "Entity Title": "Renewable Energy Initiatives",
         "Entity Code": "renewable energy initiatives",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
@@ -59,7 +59,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -85,7 +85,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -130,17 +130,17 @@
       {
         "Entity Title": "Social Justice",
         "Entity Code": "social justice",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Social Equity",
         "Entity Code": "social equity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": null,
@@ -159,12 +159,12 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -192,7 +192,7 @@
       {
         "Entity Title": "Equitable Energy Pricing",
         "Entity Code": "equitable energy pricing",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

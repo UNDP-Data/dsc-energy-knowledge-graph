@@ -21,17 +21,17 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Coastal Communities",
         "Entity Code": "coastal communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -94,22 +94,22 @@
       {
         "Entity Title": "Sustainable Aquaculture",
         "Entity Code": "sustainable aquaculture",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Ocean Pollution",
         "Entity Code": "ocean pollution",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Marine Research Institutions",
         "Entity Code": "marine research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -138,7 +138,7 @@
       {
         "Entity Title": "Marine Environment",
         "Entity Code": "marine environment",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Assessments of the environmental impact of projects",
@@ -161,7 +161,7 @@
       {
         "Entity Title": "Environmental Experts",
         "Entity Code": "environmental experts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
@@ -203,12 +203,12 @@
       {
         "Entity Title": "Ocean Conservation Projects",
         "Entity Code": "ocean conservation projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Fisheries",
         "Entity Code": "sustainable fisheries",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

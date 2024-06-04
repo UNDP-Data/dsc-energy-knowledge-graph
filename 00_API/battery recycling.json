@@ -21,7 +21,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -61,12 +61,12 @@
       {
         "Entity Title": "Waste Management",
         "Entity Code": "waste management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Electronic Manufacturers",
         "Entity Code": "electronic manufacturers",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -121,12 +121,12 @@
       {
         "Entity Title": "Environmental Regulations",
         "Entity Code": "environmental regulations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Waste Reduction",
         "Entity Code": "waste reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Assessments of the environmental impact of projects",
@@ -149,12 +149,12 @@
       {
         "Entity Title": "Sustainable Production Practices",
         "Entity Code": "sustainable production practices",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Waste Management",
         "Entity Code": "sustainable waste management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

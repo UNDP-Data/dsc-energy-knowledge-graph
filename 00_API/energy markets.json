@@ -25,12 +25,12 @@
       {
         "Entity Title": "Energy Pricing Mechanisms",
         "Entity Code": "energy pricing mechanisms",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -56,7 +56,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -101,7 +101,7 @@
       {
         "Entity Title": "Economic Sector",
         "Entity Code": "economic sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Analysis of different scenarios related to climate change",
@@ -123,12 +123,12 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
@@ -150,12 +150,12 @@
       {
         "Entity Title": "Clean Energy Projects",
         "Entity Code": "clean energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

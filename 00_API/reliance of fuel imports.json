@@ -18,12 +18,12 @@
       {
         "Entity Title": "Energy Security Challenge",
         "Entity Code": "energy security challenge",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -46,17 +46,17 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Independence Index",
         "Entity Code": "energy independence index",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Participatory Decision-making",
         "Entity Code": "participatory decision-making",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
@@ -79,12 +79,12 @@
       {
         "Entity Title": "Domestic Energy Production",
         "Entity Code": "domestic energy production",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Diversification Strategies",
         "Entity Code": "energy diversification strategies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy and health",
@@ -105,7 +105,7 @@
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
@@ -160,17 +160,17 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Exporting Countries",
         "Entity Code": "energy exporting countries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

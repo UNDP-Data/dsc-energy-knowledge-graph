@@ -34,27 +34,27 @@
       {
         "Entity Title": "Biogas Production",
         "Entity Code": "biogas production",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Waste Management",
         "Entity Code": "waste management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Feed-in Tariff Program",
         "Entity Code": "feed-in tariff program",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Municipalities",
         "Entity Code": "municipalities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Innovative Recycling Technologies",
         "Entity Code": "innovative recycling technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -83,12 +83,12 @@
       {
         "Entity Title": "Sustainable Production Practices",
         "Entity Code": "sustainable production practices",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A system aimed at eliminating waste and promoting the continual use of resources.",

@@ -41,22 +41,22 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Technology Diffusion",
         "Entity Code": "technology diffusion",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Knowledge Exchange",
         "Entity Code": "knowledge exchange",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
@@ -94,7 +94,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -122,12 +122,12 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Capacity Building Programs",
         "Entity Code": "capacity building programs",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

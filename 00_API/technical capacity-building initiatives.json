@@ -32,12 +32,12 @@
       {
         "Entity Title": "Capacity Development",
         "Entity Code": "capacity development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Training Programs",
         "Entity Code": "training programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -81,7 +81,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
@@ -203,22 +203,22 @@
       {
         "Entity Title": "Impact",
         "Entity Code": "impact",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Skills Gap",
         "Entity Code": "skills gap",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Universities",
         "Entity Code": "universities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

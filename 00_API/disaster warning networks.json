@@ -19,12 +19,12 @@
       {
         "Entity Title": "Risk Levels",
         "Entity Code": "risk levels",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Emergency Response Teams",
         "Entity Code": "emergency response teams",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Systems and networks that provide early warning and preparedness for natural disasters to minimize their impact on communities.",
@@ -44,22 +44,22 @@
       {
         "Entity Title": "Meteorological Agencies",
         "Entity Code": "meteorological agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Disaster Risk Reduction Strategies",
         "Entity Code": "disaster risk reduction strategies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sensor Technology",
         "Entity Code": "sensor technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Early Warning Systems",
         "Entity Code": "early warning systems",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [
