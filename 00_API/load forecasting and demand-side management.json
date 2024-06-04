@@ -1,25 +1,24 @@
 {
   "metadata": {
-    "Description": "Summary of Action Opportunities",
+    "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
     "Category": "Strategy",
     "Tags": [
-      "Action",
-      "Opportunities"
+      "Energy Management",
+      "Demand Response",
+      "Smart Grid"
     ],
-    "Dimension": "Social",
+    "Dimension": "Strategy",
     "Acronym": null,
     "Importance": 3.0,
-    "Synonyms": [
-      "livelihood opportunities"
-    ],
-    "Entity Title": "Action Opportunities",
-    "Entity Code": "action opportunities"
+    "Synonyms": null,
+    "Entity Title": "Load Forecasting and Demand-side Management",
+    "Entity Code": "load forecasting and demand-side management"
   },
   "knowledge graph": {
     "entities": [
       {
-        "Entity Title": "Government Agencies",
-        "Entity Code": "government agencies",
+        "Entity Title": "Grid Stability",
+        "Entity Code": "grid stability",
         "Category": "Missing"
       },
       {
@@ -44,11 +43,6 @@
         "Entity Code": "energy markets"
       },
       {
-        "Entity Title": "Local Communities",
-        "Entity Code": "local communities",
-        "Category": "Missing"
-      },
-      {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
         "Category": "Missing"
@@ -59,8 +53,18 @@
         "Category": "Missing"
       },
       {
-        "Entity Title": "Energy Equity",
-        "Entity Code": "energy equity",
+        "Entity Title": "Energy Consumption Patterns",
+        "Entity Code": "energy consumption patterns",
+        "Category": "Missing"
+      },
+      {
+        "Entity Title": "Peak Demand",
+        "Entity Code": "peak demand",
+        "Category": "Missing"
+      },
+      {
+        "Entity Title": "Utility Companies",
+        "Entity Code": "utility companies",
         "Category": "Missing"
       },
       {
@@ -133,35 +137,24 @@
         "Entity Code": "energy efficiency"
       },
       {
-        "Entity Title": "Climate Change Mitigation",
-        "Entity Code": "climate change mitigation",
-        "Category": "Missing"
+        "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
+        "Category": "Strategy",
+        "Tags": [
+          "Energy Management",
+          "Demand Response",
+          "Smart Grid"
+        ],
+        "Dimension": "Strategy",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": null,
+        "Entity Title": "Load Forecasting and Demand-side Management",
+        "Entity Code": "load forecasting and demand-side management"
       },
       {
-        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
-        "Category": "Policy",
-        "Tags": [
-          "Social",
-          "Economic",
-          "Intersectionality"
-        ],
-        "Dimension": "Social",
-        "Acronym": "JET",
-        "Importance": 4.0,
-        "Synonyms": [
-          "energy transition",
-          "clean energy transition",
-          "energy transition funds",
-          "democratic energy transition",
-          "energy transition progress",
-          "sustainable energy transition",
-          "energy transition strategy",
-          "energy transition plan",
-          "energy transition theory",
-          "energy transition goals"
-        ],
-        "Entity Title": "Just Energy Transition",
-        "Entity Code": "just energy transition"
+        "Entity Title": "Building Standards",
+        "Entity Code": "building standards",
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -185,70 +178,89 @@
         ],
         "Entity Title": "Energy Storage",
         "Entity Code": "energy storage"
-      },
-      {
-        "Entity Title": "Sustainable Development Goals",
-        "Entity Code": "sustainable development goals",
-        "Category": "Missing"
       }
     ],
-    "sub-elements": [],
+    "sub-elements": [
+      "Load forecasting",
+      "Demand-side management"
+    ],
     "relations": [
       {
         "Relation": "implements",
-        "Object": "energy efficiency",
-        "Description": "Action Opportunities implements energy efficiency measures to reduce energy consumption and promote sustainable energy practices.",
+        "Object": "building standards",
+        "Description": "Load forecasting and demand-side management implements building standards that promote energy efficiency and conservation.",
         "Importance": 4,
-        "Subject": "action opportunities"
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
-        "Description": "Action Opportunities funds renewable energy projects to support the transition to clean and sustainable energy sources.",
+        "Description": "Load forecasting and demand-side management funds renewable energy projects to support the transition to clean energy sources.",
         "Importance": 3,
-        "Subject": "action opportunities"
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "focuses_on",
-        "Object": "climate change mitigation",
-        "Description": "Action Opportunities focuses on climate change mitigation by promoting sustainable energy solutions and reducing greenhouse gas emissions.",
-        "Importance": 4,
-        "Subject": "action opportunities"
+        "Object": "energy consumption patterns",
+        "Description": "Load forecasting and demand-side management focuses on analyzing energy consumption patterns to optimize energy usage.",
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "in",
-        "Object": "just energy transition",
-        "Description": "Action Opportunities is involved in the energy transition towards sustainable and clean energy sources.",
-        "Importance": 3,
-        "Subject": "action opportunities"
+        "Object": "energy efficiency",
+        "Description": "Load forecasting and demand-side management is implemented in energy efficiency programs to reduce energy waste.",
+        "Importance": 2,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "partners_with",
-        "Object": "government agencies",
-        "Description": "Action Opportunities partners with government agencies to implement sustainable energy policies and initiatives.",
-        "Importance": 4,
-        "Subject": "action opportunities"
+        "Object": "utility companies",
+        "Description": "Load forecasting and demand-side management partners with utility companies to coordinate energy demand and supply.",
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "contributes_to",
-        "Object": "sustainable development goals",
-        "Description": "Action Opportunities contributes to the achievement of sustainable development goals through the promotion of sustainable energy practices.",
+        "Object": "grid stability",
+        "Description": "Load forecasting and demand-side management contributes to grid stability by managing and balancing energy demand.",
         "Importance": 4,
-        "Subject": "action opportunities"
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
-        "Description": "Action Opportunities monitors energy consumption to identify areas for improvement and promote energy efficiency.",
-        "Importance": 3,
-        "Subject": "action opportunities"
+        "Description": "Load forecasting and demand-side management monitors energy consumption to identify trends and patterns.",
+        "Importance": 2,
+        "Subject": "load forecasting and demand-side management"
       },
       {
         "Relation": "targets",
-        "Object": "renewable energy agencies",
-        "Description": "Action Opportunities targets increased deployment of renewable energy technologies to accelerate the transition to clean energy.",
+        "Object": "energy efficiency",
+        "Description": "Load forecasting and demand-side management targets energy efficiency by optimizing energy usage and reducing waste.",
         "Importance": 4,
-        "Subject": "action opportunities"
+        "Subject": "load forecasting and demand-side management"
+      },
+      {
+        "Relation": "addresses",
+        "Object": "peak demand",
+        "Description": "Load forecasting and demand-side management addresses peak demand by managing and reducing energy usage during high-demand periods.",
+        "Importance": 3,
+        "Subject": "load forecasting and demand-side management"
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
+        "Importance": 4
+      },
+      {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
       },
       {
         "Subject": "energy efficiency",
@@ -269,27 +281,6 @@
         "Relation": "employs",
         "Object": "renewable energy agencies",
         "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-        "Importance": 4
-      },
-      {
-        "Subject": "renewable energy agencies",
-        "Relation": "collaborates_with",
-        "Object": "research institutions",
-        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-        "Importance": 4
-      },
-      {
-        "Subject": "just energy transition",
-        "Relation": "collaborates_with",
-        "Object": "local communities",
-        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
-        "Importance": 4
-      },
-      {
-        "Subject": "just energy transition",
-        "Relation": "supports",
-        "Object": "energy equity",
-        "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
         "Importance": 4
       },
       {
@@ -314,11 +305,18 @@
         "Importance": 4
       },
       {
-        "Subject": "energy efficiency",
-        "Relation": "addresses",
-        "Object": "energy storage",
-        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
-        "Importance": 4
+        "Relation": "is a sub-element of",
+        "Description": "Load forecasting is a technique used to predict the future electricity demand based on historical data and other relevant factors. It helps in optimizing the generation, transmission, and distribution of electricity, leading to more efficient and sustainable energy systems.",
+        "Importance": 3,
+        "Subject": "load forecasting",
+        "Object": "load forecasting and demand-side management"
+      },
+      {
+        "Relation": "is a sub-element of",
+        "Description": "Demand-side management refers to the strategies and measures implemented to modify consumer electricity usage patterns. It aims to reduce peak demand, shift load to off-peak periods, and encourage energy efficiency and conservation. By actively managing the demand, it helps in balancing the electricity grid and promoting sustainable energy consumption.",
+        "Importance": 4,
+        "Subject": "demand-side management",
+        "Object": "load forecasting and demand-side management"
       }
     ]
   }

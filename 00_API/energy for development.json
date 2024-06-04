@@ -1,21 +1,45 @@
 {
   "metadata": {
-    "Description": "Collaboration and exchange of resources, knowledge, and expertise among developing countries (South-South cooperation) and between developing countries and other partners (triangular cooperation).",
-    "Category": "Strategy",
-    "Tags": [
-      "Collaboration",
-      "Exchange",
-      "Developing Countries"
-    ],
-    "Dimension": "Strategy",
-    "Acronym": "SSTC",
-    "Importance": 4.0,
+    "Description": null,
+    "Category": null,
+    "Tags": null,
+    "Dimension": null,
+    "Acronym": null,
+    "Importance": null,
     "Synonyms": null,
-    "Entity Title": "South-south and Triangular Cooperation",
-    "Entity Code": "south-south and triangular cooperation"
+    "Entity Title": "Energy For Development",
+    "Entity Code": "energy for development"
   },
   "knowledge graph": {
     "entities": [
+      {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Category": "Missing"
+      },
+      {
+        "Description": "Summary of energy poverty indices",
+        "Category": "Policy",
+        "Tags": [
+          "Energy",
+          "Poverty",
+          "Indices"
+        ],
+        "Dimension": "Social",
+        "Acronym": null,
+        "Importance": 3.0,
+        "Synonyms": [
+          "energy poverty",
+          "energy import policies"
+        ],
+        "Entity Title": "Energy Poverty Indices",
+        "Entity Code": "energy poverty indices"
+      },
+      {
+        "Entity Title": "Energy Access Programs",
+        "Entity Code": "energy access programs",
+        "Category": "Missing"
+      },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
         "Category": "Economic",
@@ -38,13 +62,18 @@
         "Entity Code": "energy markets"
       },
       {
-        "Entity Title": "Energy Access Programs",
-        "Entity Code": "energy access programs",
+        "Entity Title": "Capacity Building",
+        "Entity Code": "capacity building",
         "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
+        "Category": "Missing"
+      },
+      {
+        "Entity Title": "Intermittency of Renewable Energy",
+        "Entity Code": "intermittency of renewable energy",
         "Category": "Missing"
       },
       {
@@ -88,32 +117,14 @@
         "Entity Code": "renewable energy agencies"
       },
       {
-        "Entity Title": "International Cooperation",
-        "Entity Code": "international cooperation",
-        "Category": "Missing"
-      },
-      {
         "Entity Title": "Industries",
         "Entity Code": "industries",
         "Category": "Missing"
       },
       {
-        "Description": "Climate finance mechanisms refer to the various financial instruments and mechanisms that are used to mobilize and allocate funds for climate change mitigation and adaptation projects.",
-        "Category": "Finance",
-        "Tags": [
-          "Climate Change",
-          "Funding",
-          "Investment"
-        ],
-        "Dimension": "Economic",
-        "Acronym": null,
-        "Importance": 3.0,
-        "Synonyms": [
-          "climate finance programs",
-          "climate finance"
-        ],
-        "Entity Title": "Climate Finance Mechanisms",
-        "Entity Code": "climate finance mechanisms"
+        "Entity Title": "Energy Consumption",
+        "Entity Code": "energy consumption",
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -138,11 +149,6 @@
         ],
         "Entity Title": "Energy Efficiency",
         "Entity Code": "energy efficiency"
-      },
-      {
-        "Entity Title": "Capacity Building Programs",
-        "Entity Code": "capacity building programs",
-        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
@@ -201,66 +207,73 @@
     "sub-elements": [],
     "relations": [
       {
+        "Relation": "addresses",
+        "Object": "energy poverty indices",
+        "Description": "Energy For Development addresses energy poverty by promoting access to affordable and sustainable energy sources.",
+        "Importance": 4,
+        "Subject": "energy for development"
+      },
+      {
         "Relation": "employs",
-        "Object": "capacity building programs",
-        "Description": "South-South and triangular cooperation employs capacity building programs to enhance knowledge and skills in sustainable energy.",
+        "Object": "renewable energy agencies",
+        "Description": "Energy For Development employs renewable energy technologies to provide clean and sustainable energy solutions.",
         "Importance": 3,
-        "Subject": "south-south and triangular cooperation"
+        "Subject": "energy for development"
       },
       {
         "Relation": "collaborates_with",
-        "Object": "regional energy organizations",
-        "Description": "South-South and triangular cooperation collaborates with international organizations to promote sustainable energy cooperation among developing countries.",
-        "Importance": 4,
-        "Subject": "south-south and triangular cooperation"
+        "Object": "local communities",
+        "Description": "Energy For Development collaborates with local communities to implement sustainable energy projects and initiatives.",
+        "Importance": 3,
+        "Subject": "energy for development"
       },
       {
         "Relation": "supports",
-        "Object": "renewable energy agencies",
-        "Description": "South-South and triangular cooperation supports research in renewable energy technologies to foster innovation and knowledge sharing.",
+        "Object": "capacity building",
+        "Description": "Energy For Development supports capacity building efforts to enhance knowledge and skills in sustainable energy practices.",
         "Importance": 4,
-        "Subject": "south-south and triangular cooperation"
+        "Subject": "energy for development"
       },
       {
         "Relation": "administers",
-        "Object": "climate finance mechanisms",
-        "Description": "South-South and triangular cooperation administers climate finance programs to support sustainable energy projects in developing countries.",
+        "Object": "energy efficiency",
+        "Description": "Energy For Development administers energy efficiency programs to promote energy conservation and reduce carbon emissions.",
         "Importance": 3,
-        "Subject": "south-south and triangular cooperation"
+        "Subject": "energy for development"
       },
       {
         "Relation": "measures",
-        "Object": "energy efficiency",
-        "Description": "South-South and triangular cooperation measures energy efficiency performance to track progress and identify areas for improvement.",
-        "Importance": 3,
-        "Subject": "south-south and triangular cooperation"
+        "Object": "energy consumption",
+        "Description": "Energy For Development measures energy consumption to assess the impact of sustainable energy initiatives and identify areas for improvement.",
+        "Importance": 2,
+        "Subject": "energy for development"
       },
       {
         "Relation": "aligns_with",
         "Object": "sustainable development goals",
-        "Description": "South-South and triangular cooperation aligns with the Sustainable Development Goals to promote sustainable energy access and development.",
+        "Description": "Energy For Development aligns with the Sustainable Development Goals to contribute to the global agenda for sustainable development.",
         "Importance": 4,
-        "Subject": "south-south and triangular cooperation"
+        "Subject": "energy for development"
       },
       {
         "Relation": "an_instance_of",
-        "Object": "international cooperation",
-        "Description": "South-South and triangular cooperation is an instance of international cooperation for sustainable energy development.",
-        "Importance": 4,
-        "Subject": "south-south and triangular cooperation"
+        "Object": "regional energy organizations",
+        "Description": "Energy For Development is an instance of a renewable energy organization that promotes sustainable energy practices.",
+        "Importance": 3,
+        "Subject": "energy for development"
       },
       {
-        "Subject": "regional energy organizations",
+        "Subject": "energy poverty indices",
         "Relation": "implements",
-        "Object": "energy efficiency",
-        "Description": "Regional energy organizations implement energy efficiency policies to promote sustainable energy practices.",
+        "Object": "energy access programs",
+        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
         "Importance": 4
       },
       {
-        "Subject": "regional energy organizations",
+        "Subject": "energy poverty indices",
         "Relation": "funds",
         "Object": "renewable energy agencies",
-        "Description": "Regional energy organizations provide funding for renewable energy projects to support the transition to clean energy sources.",
+        "Description": "Energy poverty indices fund renewable energy projects to increase access to clean and sustainable energy sources.",
         "Importance": 3
       },
       {
@@ -278,20 +291,6 @@
         "Importance": 4
       },
       {
-        "Subject": "climate finance mechanisms",
-        "Relation": "implements",
-        "Object": "building standards",
-        "Description": "Climate finance mechanisms implement building standards that promote sustainable and energy-efficient construction practices.",
-        "Importance": 4
-      },
-      {
-        "Subject": "climate finance mechanisms",
-        "Relation": "funds",
-        "Object": "renewable energy agencies",
-        "Description": "Climate finance mechanisms provide funding for renewable energy projects to support the transition to clean and sustainable energy sources.",
-        "Importance": 4
-      },
-      {
         "Subject": "energy efficiency",
         "Relation": "addresses",
         "Object": "energy storage",
@@ -306,10 +305,17 @@
         "Importance": 4
       },
       {
-        "Subject": "energy efficiency",
-        "Relation": "addresses",
-        "Object": "energy storage",
-        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Subject": "regional energy organizations",
+        "Relation": "implements",
+        "Object": "energy efficiency",
+        "Description": "Regional energy organizations implement energy efficiency policies to promote sustainable energy practices.",
+        "Importance": 4
+      },
+      {
+        "Subject": "regional energy organizations",
+        "Relation": "focuses_on",
+        "Object": "energy markets",
+        "Description": "Regional energy organizations focus on improving energy access in underserved areas to ensure equitable distribution of sustainable energy resources.",
         "Importance": 4
       },
       {
@@ -320,17 +326,24 @@
         "Importance": 4
       },
       {
-        "Subject": "energy markets",
+        "Subject": "energy efficiency",
         "Relation": "addresses",
-        "Object": "energy markets",
-        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
         "Importance": 4
       },
       {
-        "Subject": "energy poverty indices",
+        "Subject": "energy and health",
         "Relation": "implements",
-        "Object": "energy access programs",
-        "Description": "Energy poverty indices implement energy access programs to provide affordable and reliable energy services to underserved communities.",
+        "Object": "building standards",
+        "Description": "Energy and health implements building standards that promote the use of energy-saving designs and materials.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy storage",
+        "Relation": "addresses",
+        "Object": "intermittency of renewable energy",
+        "Description": "Energy storage addresses the issue of intermittency in renewable energy sources by storing excess energy for use during periods of low generation.",
         "Importance": 4
       }
     ]
