@@ -1,17 +1,20 @@
 {
   "metadata": {
-    "Description": "Summary of Solar For Health",
-    "Category": "Technology",
+    "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
+    "Category": "Policy",
     "Tags": [
-      "Solar",
-      "Health"
+      "Paris Agreement",
+      "Climate Change",
+      "Policy"
     ],
     "Dimension": "Social",
     "Acronym": null,
     "Importance": 4.0,
-    "Synonyms": null,
-    "Entity Title": "Solar For Health",
-    "Entity Code": "solar for health"
+    "Synonyms": [
+      "paris agreement"
+    ],
+    "Entity Title": "Paris Agreement Goals",
+    "Entity Code": "paris agreement goals"
   },
   "knowledge graph": {
     "entities": [
@@ -37,11 +40,6 @@
         "Entity Code": "energy markets"
       },
       {
-        "Entity Title": "Partnership with Ministry of Health",
-        "Entity Code": "partnership with ministry of health",
-        "Category": "Missing"
-      },
-      {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
         "Category": "Missing"
@@ -52,8 +50,8 @@
         "Category": "Missing"
       },
       {
-        "Entity Title": "Local Ngos",
-        "Entity Code": "local ngos",
+        "Entity Title": "United Nations Framework Convention on Climate Change (unfccc)",
+        "Entity Code": "united nations framework convention on climate change (unfccc)",
         "Category": "Missing"
       },
       {
@@ -97,13 +95,18 @@
         "Entity Code": "renewable energy agencies"
       },
       {
-        "Entity Title": "Off-grid Solar Systems",
-        "Entity Code": "off-grid solar systems",
+        "Entity Title": "International Renewable Energy Agency (irena)",
+        "Entity Code": "international renewable energy agency (irena)",
         "Category": "Missing"
       },
       {
-        "Entity Title": "Energy Consumption",
-        "Entity Code": "energy consumption",
+        "Entity Title": "Greenhouse Gas Emissions",
+        "Entity Code": "greenhouse gas emissions",
+        "Category": "Missing"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals (sdgs)",
+        "Entity Code": "sustainable development goals (sdgs)",
         "Category": "Missing"
       },
       {
@@ -157,6 +160,11 @@
         ],
         "Entity Title": "Energy Storage",
         "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Net Zero Emissions",
+        "Entity Code": "net zero emissions",
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],
@@ -164,58 +172,58 @@
       {
         "Relation": "implements",
         "Object": "energy efficiency",
-        "Description": "Solar For Health implements the Energy Efficiency Policy to promote the use of energy-saving designs and materials in healthcare facilities.",
+        "Description": "Paris Agreement Goals implements Energy Efficiency Policy to promote energy-saving practices and reduce greenhouse gas emissions.",
         "Importance": 4,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
-        "Description": "Solar For Health funds research on renewable energy technologies to support the development of sustainable energy solutions for healthcare facilities.",
+        "Description": "Paris Agreement Goals funds Renewable Energy Projects to support the transition to clean and sustainable energy sources.",
         "Importance": 3,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "focuses_on",
-        "Object": "off-grid solar systems",
-        "Description": "Solar For Health focuses on the deployment of off-grid solar systems to provide reliable and clean energy for healthcare facilities in remote areas.",
+        "Object": "climate change mitigation",
+        "Description": "Paris Agreement Goals focuses on Climate Change Mitigation to reduce the impact of global warming and limit temperature rise.",
         "Importance": 4,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "in",
-        "Object": "partnership with ministry of health",
-        "Description": "Solar For Health operates in partnership with the Ministry of Health to ensure the successful implementation of sustainable energy solutions in healthcare facilities.",
+        "Object": "united nations framework convention on climate change (unfccc)",
+        "Description": "Paris Agreement Goals is in the framework of the United Nations Framework Convention on Climate Change (UNFCCC) to address climate change issues globally.",
         "Importance": 4,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "partners_with",
-        "Object": "local ngos",
-        "Description": "Solar For Health partners with local NGOs to leverage their expertise and resources in implementing sustainable energy projects in healthcare facilities.",
+        "Object": "international renewable energy agency (irena)",
+        "Description": "Paris Agreement Goals partners with International Renewable Energy Agency (IRENA) to promote renewable energy adoption and collaboration.",
         "Importance": 3,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "contributes_to",
-        "Object": "climate change mitigation",
-        "Description": "Solar For Health's sustainable energy initiatives contribute to climate change mitigation efforts by reducing greenhouse gas emissions from healthcare facilities.",
+        "Object": "sustainable development goals (sdgs)",
+        "Description": "Paris Agreement Goals contributes to the achievement of Sustainable Development Goals (SDGs) by addressing climate change and promoting sustainable practices.",
         "Importance": 4,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "monitors",
-        "Object": "energy consumption",
-        "Description": "Solar For Health monitors energy consumption in healthcare facilities to identify opportunities for energy efficiency improvements and cost savings.",
+        "Object": "greenhouse gas emissions",
+        "Description": "Paris Agreement Goals monitors Greenhouse Gas Emissions to track progress towards emission reduction targets.",
         "Importance": 3,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Relation": "targets",
-        "Object": "energy markets",
-        "Description": "Solar For Health targets improved energy access in healthcare facilities to ensure reliable and uninterrupted provision of essential healthcare services.",
+        "Object": "net zero emissions",
+        "Description": "Paris Agreement Goals targets Net Zero Emissions to achieve a balance between greenhouse gas emissions and removals.",
         "Importance": 4,
-        "Subject": "solar for health"
+        "Subject": "paris agreement goals"
       },
       {
         "Subject": "energy efficiency",
@@ -244,20 +252,6 @@
         "Object": "research institutions",
         "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
         "Importance": 4
-      },
-      {
-        "Subject": "energy markets",
-        "Relation": "addresses",
-        "Object": "energy markets",
-        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
-        "Importance": 4
-      },
-      {
-        "Subject": "energy markets",
-        "Relation": "employs",
-        "Object": "renewable energy agencies",
-        "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
-        "Importance": 3
       },
       {
         "Subject": "energy storage",

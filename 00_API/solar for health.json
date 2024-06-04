@@ -1,26 +1,20 @@
 {
   "metadata": {
-    "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
-    "Category": "Strategy",
+    "Description": "Summary of Solar For Health",
+    "Category": "Technology",
     "Tags": [
-      "Energy Management",
-      "Demand Response",
-      "Smart Grid"
+      "Solar",
+      "Health"
     ],
-    "Dimension": "Strategy",
+    "Dimension": "Social",
     "Acronym": null,
-    "Importance": 3.0,
+    "Importance": 4.0,
     "Synonyms": null,
-    "Entity Title": "Load Forecasting and Demand-side Management",
-    "Entity Code": "load forecasting and demand-side management"
+    "Entity Title": "Solar For Health",
+    "Entity Code": "solar for health"
   },
   "knowledge graph": {
     "entities": [
-      {
-        "Entity Title": "Grid Stability",
-        "Entity Code": "grid stability",
-        "Category": "Missing"
-      },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
         "Category": "Economic",
@@ -43,6 +37,11 @@
         "Entity Code": "energy markets"
       },
       {
+        "Entity Title": "Partnership with Ministry of Health",
+        "Entity Code": "partnership with ministry of health",
+        "Category": "Missing"
+      },
+      {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
         "Category": "Missing"
@@ -53,18 +52,8 @@
         "Category": "Missing"
       },
       {
-        "Entity Title": "Energy Consumption Patterns",
-        "Entity Code": "energy consumption patterns",
-        "Category": "Missing"
-      },
-      {
-        "Entity Title": "Peak Demand",
-        "Entity Code": "peak demand",
-        "Category": "Missing"
-      },
-      {
-        "Entity Title": "Utility Companies",
-        "Entity Code": "utility companies",
+        "Entity Title": "Local Ngos",
+        "Entity Code": "local ngos",
         "Category": "Missing"
       },
       {
@@ -108,6 +97,11 @@
         "Entity Code": "renewable energy agencies"
       },
       {
+        "Entity Title": "Off-grid Solar Systems",
+        "Entity Code": "off-grid solar systems",
+        "Category": "Missing"
+      },
+      {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
         "Category": "Missing"
@@ -137,23 +131,8 @@
         "Entity Code": "energy efficiency"
       },
       {
-        "Description": "Load forecasting and demand-side management are strategies used to predict and manage electricity demand in order to optimize energy generation and consumption.",
-        "Category": "Strategy",
-        "Tags": [
-          "Energy Management",
-          "Demand Response",
-          "Smart Grid"
-        ],
-        "Dimension": "Strategy",
-        "Acronym": null,
-        "Importance": 3.0,
-        "Synonyms": null,
-        "Entity Title": "Load Forecasting and Demand-side Management",
-        "Entity Code": "load forecasting and demand-side management"
-      },
-      {
-        "Entity Title": "Building Standards",
-        "Entity Code": "building standards",
+        "Entity Title": "Climate Change Mitigation",
+        "Entity Code": "climate change mitigation",
         "Category": "Missing"
       },
       {
@@ -180,87 +159,63 @@
         "Entity Code": "energy storage"
       }
     ],
-    "sub-elements": [
-      "Load forecasting",
-      "Demand-side management"
-    ],
+    "sub-elements": [],
     "relations": [
       {
         "Relation": "implements",
-        "Object": "building standards",
-        "Description": "Load forecasting and demand-side management implements building standards that promote energy efficiency and conservation.",
+        "Object": "energy efficiency",
+        "Description": "Solar For Health implements the Energy Efficiency Policy to promote the use of energy-saving designs and materials in healthcare facilities.",
         "Importance": 4,
-        "Subject": "load forecasting and demand-side management"
+        "Subject": "solar for health"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
-        "Description": "Load forecasting and demand-side management funds renewable energy projects to support the transition to clean energy sources.",
+        "Description": "Solar For Health funds research on renewable energy technologies to support the development of sustainable energy solutions for healthcare facilities.",
         "Importance": 3,
-        "Subject": "load forecasting and demand-side management"
+        "Subject": "solar for health"
       },
       {
         "Relation": "focuses_on",
-        "Object": "energy consumption patterns",
-        "Description": "Load forecasting and demand-side management focuses on analyzing energy consumption patterns to optimize energy usage.",
-        "Importance": 3,
-        "Subject": "load forecasting and demand-side management"
+        "Object": "off-grid solar systems",
+        "Description": "Solar For Health focuses on the deployment of off-grid solar systems to provide reliable and clean energy for healthcare facilities in remote areas.",
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "in",
-        "Object": "energy efficiency",
-        "Description": "Load forecasting and demand-side management is implemented in energy efficiency programs to reduce energy waste.",
-        "Importance": 2,
-        "Subject": "load forecasting and demand-side management"
+        "Object": "partnership with ministry of health",
+        "Description": "Solar For Health operates in partnership with the Ministry of Health to ensure the successful implementation of sustainable energy solutions in healthcare facilities.",
+        "Importance": 4,
+        "Subject": "solar for health"
       },
       {
         "Relation": "partners_with",
-        "Object": "utility companies",
-        "Description": "Load forecasting and demand-side management partners with utility companies to coordinate energy demand and supply.",
+        "Object": "local ngos",
+        "Description": "Solar For Health partners with local NGOs to leverage their expertise and resources in implementing sustainable energy projects in healthcare facilities.",
         "Importance": 3,
-        "Subject": "load forecasting and demand-side management"
+        "Subject": "solar for health"
       },
       {
         "Relation": "contributes_to",
-        "Object": "grid stability",
-        "Description": "Load forecasting and demand-side management contributes to grid stability by managing and balancing energy demand.",
+        "Object": "climate change mitigation",
+        "Description": "Solar For Health's sustainable energy initiatives contribute to climate change mitigation efforts by reducing greenhouse gas emissions from healthcare facilities.",
         "Importance": 4,
-        "Subject": "load forecasting and demand-side management"
+        "Subject": "solar for health"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
-        "Description": "Load forecasting and demand-side management monitors energy consumption to identify trends and patterns.",
-        "Importance": 2,
-        "Subject": "load forecasting and demand-side management"
+        "Description": "Solar For Health monitors energy consumption in healthcare facilities to identify opportunities for energy efficiency improvements and cost savings.",
+        "Importance": 3,
+        "Subject": "solar for health"
       },
       {
         "Relation": "targets",
-        "Object": "energy efficiency",
-        "Description": "Load forecasting and demand-side management targets energy efficiency by optimizing energy usage and reducing waste.",
+        "Object": "energy markets",
+        "Description": "Solar For Health targets improved energy access in healthcare facilities to ensure reliable and uninterrupted provision of essential healthcare services.",
         "Importance": 4,
-        "Subject": "load forecasting and demand-side management"
-      },
-      {
-        "Relation": "addresses",
-        "Object": "peak demand",
-        "Description": "Load forecasting and demand-side management addresses peak demand by managing and reducing energy usage during high-demand periods.",
-        "Importance": 3,
-        "Subject": "load forecasting and demand-side management"
-      },
-      {
-        "Subject": "renewable energy agencies",
-        "Relation": "employs",
-        "Object": "renewable energy agencies",
-        "Description": "Renewable energy agencies employ experts in the field of renewable energy to drive innovation and promote the adoption of clean energy technologies.",
-        "Importance": 4
-      },
-      {
-        "Subject": "renewable energy agencies",
-        "Relation": "collaborates_with",
-        "Object": "research institutions",
-        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
-        "Importance": 4
+        "Subject": "solar for health"
       },
       {
         "Subject": "energy efficiency",
@@ -284,6 +239,27 @@
         "Importance": 4
       },
       {
+        "Subject": "renewable energy agencies",
+        "Relation": "collaborates_with",
+        "Object": "research institutions",
+        "Description": "Renewable energy agencies collaborate with research institutions to advance scientific knowledge and develop new technologies for renewable energy generation.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "addresses",
+        "Object": "energy markets",
+        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Importance": 4
+      },
+      {
+        "Subject": "energy markets",
+        "Relation": "employs",
+        "Object": "renewable energy agencies",
+        "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
+        "Importance": 3
+      },
+      {
         "Subject": "energy storage",
         "Relation": "addresses",
         "Object": "intermittency of renewable energy",
@@ -305,18 +281,11 @@
         "Importance": 4
       },
       {
-        "Relation": "is a sub-element of",
-        "Description": "Load forecasting is a technique used to predict the future electricity demand based on historical data and other relevant factors. It helps in optimizing the generation, transmission, and distribution of electricity, leading to more efficient and sustainable energy systems.",
-        "Importance": 3,
-        "Subject": "load forecasting",
-        "Object": "load forecasting and demand-side management"
-      },
-      {
-        "Relation": "is a sub-element of",
-        "Description": "Demand-side management refers to the strategies and measures implemented to modify consumer electricity usage patterns. It aims to reduce peak demand, shift load to off-peak periods, and encourage energy efficiency and conservation. By actively managing the demand, it helps in balancing the electricity grid and promoting sustainable energy consumption.",
-        "Importance": 4,
-        "Subject": "demand-side management",
-        "Object": "load forecasting and demand-side management"
+        "Subject": "energy efficiency",
+        "Relation": "addresses",
+        "Object": "energy storage",
+        "Description": "Energy efficiency measures address energy waste by promoting the use of energy-efficient technologies and practices.",
+        "Importance": 4
       }
     ]
   }

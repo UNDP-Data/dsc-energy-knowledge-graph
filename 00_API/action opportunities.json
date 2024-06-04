@@ -1,20 +1,25 @@
 {
   "metadata": {
-    "Description": null,
-    "Category": null,
-    "Tags": null,
-    "Dimension": null,
+    "Description": "Summary of Action Opportunities",
+    "Category": "Strategy",
+    "Tags": [
+      "Action",
+      "Opportunities"
+    ],
+    "Dimension": "Social",
     "Acronym": null,
-    "Importance": null,
-    "Synonyms": null,
-    "Entity Title": "The Undp Sids Offer",
-    "Entity Code": "the undp sids offer"
+    "Importance": 3.0,
+    "Synonyms": [
+      "livelihood opportunities"
+    ],
+    "Entity Title": "Action Opportunities",
+    "Entity Code": "action opportunities"
   },
   "knowledge graph": {
     "entities": [
       {
-        "Entity Title": "Partnership with Local Governments",
-        "Entity Code": "partnership with local governments",
+        "Entity Title": "Government Agencies",
+        "Entity Code": "government agencies",
         "Category": "Missing"
       },
       {
@@ -39,6 +44,11 @@
         "Entity Code": "energy markets"
       },
       {
+        "Entity Title": "Local Communities",
+        "Entity Code": "local communities",
+        "Category": "Missing"
+      },
+      {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
         "Category": "Missing"
@@ -46,6 +56,11 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
+        "Category": "Missing"
+      },
+      {
+        "Entity Title": "Energy Equity",
+        "Entity Code": "energy equity",
         "Category": "Missing"
       },
       {
@@ -89,11 +104,6 @@
         "Entity Code": "renewable energy agencies"
       },
       {
-        "Entity Title": "Private Sector Companies",
-        "Entity Code": "private sector companies",
-        "Category": "Missing"
-      },
-      {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
         "Category": "Missing"
@@ -128,6 +138,32 @@
         "Category": "Missing"
       },
       {
+        "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
+        "Category": "Policy",
+        "Tags": [
+          "Social",
+          "Economic",
+          "Intersectionality"
+        ],
+        "Dimension": "Social",
+        "Acronym": "JET",
+        "Importance": 4.0,
+        "Synonyms": [
+          "energy transition",
+          "clean energy transition",
+          "energy transition funds",
+          "democratic energy transition",
+          "energy transition progress",
+          "sustainable energy transition",
+          "energy transition strategy",
+          "energy transition plan",
+          "energy transition theory",
+          "energy transition goals"
+        ],
+        "Entity Title": "Just Energy Transition",
+        "Entity Code": "just energy transition"
+      },
+      {
         "Description": "The process of capturing and storing energy for later use.",
         "Category": "Technology",
         "Tags": [
@@ -149,6 +185,11 @@
         ],
         "Entity Title": "Energy Storage",
         "Entity Code": "energy storage"
+      },
+      {
+        "Entity Title": "Sustainable Development Goals",
+        "Entity Code": "sustainable development goals",
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],
@@ -156,58 +197,58 @@
       {
         "Relation": "implements",
         "Object": "energy efficiency",
-        "Description": "The UNDP SIDS Offer implements energy efficiency policies to promote sustainable energy practices.",
+        "Description": "Action Opportunities implements energy efficiency measures to reduce energy consumption and promote sustainable energy practices.",
         "Importance": 4,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Relation": "funds",
         "Object": "renewable energy agencies",
-        "Description": "The UNDP SIDS Offer provides funding for renewable energy projects to support the transition to sustainable energy sources.",
+        "Description": "Action Opportunities funds renewable energy projects to support the transition to clean and sustainable energy sources.",
         "Importance": 3,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Relation": "focuses_on",
-        "Object": "energy markets",
-        "Description": "The UNDP SIDS Offer focuses on improving energy access in developing countries to ensure sustainable development.",
+        "Object": "climate change mitigation",
+        "Description": "Action Opportunities focuses on climate change mitigation by promoting sustainable energy solutions and reducing greenhouse gas emissions.",
         "Importance": 4,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Relation": "in",
-        "Object": "partnership with local governments",
-        "Description": "The UNDP SIDS Offer works in partnership with local governments to implement sustainable energy initiatives.",
+        "Object": "just energy transition",
+        "Description": "Action Opportunities is involved in the energy transition towards sustainable and clean energy sources.",
         "Importance": 3,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Relation": "partners_with",
-        "Object": "private sector companies",
-        "Description": "The UNDP SIDS Offer partners with private sector companies to promote sustainable energy investments.",
-        "Importance": 3,
-        "Subject": "the undp sids offer"
+        "Object": "government agencies",
+        "Description": "Action Opportunities partners with government agencies to implement sustainable energy policies and initiatives.",
+        "Importance": 4,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "contributes_to",
-        "Object": "climate change mitigation",
-        "Description": "The UNDP SIDS Offer contributes to climate change mitigation through the promotion of sustainable energy practices.",
+        "Object": "sustainable development goals",
+        "Description": "Action Opportunities contributes to the achievement of sustainable development goals through the promotion of sustainable energy practices.",
         "Importance": 4,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Relation": "monitors",
         "Object": "energy consumption",
-        "Description": "The UNDP SIDS Offer monitors energy consumption patterns to identify areas for improvement and energy-saving opportunities.",
-        "Importance": 2,
-        "Subject": "the undp sids offer"
+        "Description": "Action Opportunities monitors energy consumption to identify areas for improvement and promote energy efficiency.",
+        "Importance": 3,
+        "Subject": "action opportunities"
       },
       {
         "Relation": "targets",
         "Object": "renewable energy agencies",
-        "Description": "The UNDP SIDS Offer sets targets for increasing renewable energy capacity to promote sustainable energy generation.",
+        "Description": "Action Opportunities targets increased deployment of renewable energy technologies to accelerate the transition to clean energy.",
         "Importance": 4,
-        "Subject": "the undp sids offer"
+        "Subject": "action opportunities"
       },
       {
         "Subject": "energy efficiency",
@@ -238,18 +279,18 @@
         "Importance": 4
       },
       {
-        "Subject": "energy markets",
-        "Relation": "addresses",
-        "Object": "energy markets",
-        "Description": "Energy markets address the issue of energy access by ensuring the availability and affordability of energy sources for all segments of society.",
+        "Subject": "just energy transition",
+        "Relation": "collaborates_with",
+        "Object": "local communities",
+        "Description": "The just energy transition collaborates with local communities to ensure a fair and inclusive transition to sustainable energy.",
         "Importance": 4
       },
       {
-        "Subject": "energy markets",
-        "Relation": "employs",
-        "Object": "renewable energy agencies",
-        "Description": "Energy markets employ renewable energy technologies to diversify the energy mix and reduce dependence on fossil fuels.",
-        "Importance": 3
+        "Subject": "just energy transition",
+        "Relation": "supports",
+        "Object": "energy equity",
+        "Description": "The just energy transition supports energy equity by promoting equal access to clean and affordable energy.",
+        "Importance": 4
       },
       {
         "Subject": "energy storage",
