@@ -32,7 +32,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Buildings that are designed and constructed to have a minimal impact on the environment.",
@@ -53,32 +53,32 @@
       {
         "Entity Title": "Social Welfare Organizations",
         "Entity Code": "social welfare organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Risk Exposure",
         "Entity Code": "risk exposure",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Financial Stability",
         "Entity Code": "financial stability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Risk Management",
         "Entity Code": "risk management",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Government Programs",
         "Entity Code": "government programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Insurance Companies",
         "Entity Code": "insurance companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -125,7 +125,7 @@
       {
         "Entity Title": "Sustainable Construction Practices",
         "Entity Code": "sustainable construction practices",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -153,7 +153,7 @@
       {
         "Entity Title": "Natural Disasters",
         "Entity Code": "natural disasters",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

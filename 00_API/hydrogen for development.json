@@ -19,22 +19,22 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of smart metering technologies.",
@@ -58,7 +58,7 @@
       {
         "Entity Title": "Clean Energy Initiative",
         "Entity Code": "clean energy initiative",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
@@ -121,17 +121,17 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Emissions",
         "Entity Code": "carbon emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -159,7 +159,7 @@
       {
         "Entity Title": "Fuel Cell Technology",
         "Entity Code": "fuel cell technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

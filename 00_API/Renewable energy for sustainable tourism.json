@@ -18,12 +18,12 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -46,7 +46,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Carbon neutrality refers to achieving a balance between carbon emissions and carbon removal, resulting in no net increase in atmospheric carbon dioxide levels.",
@@ -66,7 +66,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -125,12 +125,12 @@
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -159,17 +159,17 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Tourism Sector",
         "Entity Code": "tourism sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

@@ -57,32 +57,32 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Action",
         "Entity Code": "climate action",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Cities and Communities",
         "Entity Code": "sustainable cities and communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Universal Access to Affordable, Reliable, and Modern Energy Services",
         "Entity Code": "universal access to affordable, reliable, and modern energy services",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -127,12 +127,12 @@
       {
         "Entity Title": "Energy Affordability",
         "Entity Code": "energy affordability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -161,12 +161,12 @@
       {
         "Entity Title": "Access to Clean Energy",
         "Entity Code": "access to clean energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Private Sector",
         "Entity Code": "private sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

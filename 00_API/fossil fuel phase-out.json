@@ -18,7 +18,7 @@
       {
         "Entity Title": "Air Pollution",
         "Entity Code": "air pollution",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,12 +44,12 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Gradual elimination of fossil fuel usage",
@@ -125,7 +125,7 @@
       {
         "Entity Title": "Greenhouse Gas Emissions",
         "Entity Code": "greenhouse gas emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The Paris Agreement Goals are the targets and commitments made by countries to combat climate change and reduce greenhouse gas emissions.",
@@ -171,7 +171,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",

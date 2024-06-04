@@ -42,12 +42,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Capacity Building",
         "Entity Code": "capacity building",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
@@ -109,7 +109,7 @@
       {
         "Entity Title": "Industries",
         "Entity Code": "industries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -156,12 +156,12 @@
       {
         "Entity Title": "Private Sector",
         "Entity Code": "private sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Collaborative Governance",
         "Entity Code": "collaborative governance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -189,12 +189,12 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Collaborative Decision-making",
         "Entity Code": "collaborative decision-making",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",

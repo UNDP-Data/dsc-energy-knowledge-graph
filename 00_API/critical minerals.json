@@ -19,17 +19,17 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Reducing Dependency on Fossil Fuels",
         "Entity Code": "reducing dependency on fossil fuels",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -55,17 +55,17 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Mining Companies",
         "Entity Code": "mining companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
@@ -205,12 +205,12 @@
       {
         "Entity Title": "Supply Chain",
         "Entity Code": "supply chain",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Battery Manufacturing",
         "Entity Code": "battery manufacturing",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

@@ -19,7 +19,7 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -62,7 +62,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -122,7 +122,7 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -151,22 +151,22 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Transition Strategies",
         "Entity Code": "energy transition strategies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -194,7 +194,7 @@
       {
         "Entity Title": "Academic Institutions",
         "Entity Code": "academic institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

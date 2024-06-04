@@ -34,7 +34,7 @@
       {
         "Entity Title": "Community Engagement",
         "Entity Code": "community engagement",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -57,22 +57,22 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Access to Clean Cooking Solutions",
         "Entity Code": "access to clean cooking solutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Ngos",
         "Entity Code": "local ngos",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -117,12 +117,12 @@
       {
         "Entity Title": "Urban Areas",
         "Entity Code": "urban areas",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy and health",
@@ -143,7 +143,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -171,7 +171,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

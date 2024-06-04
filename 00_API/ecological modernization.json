@@ -18,7 +18,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,12 +44,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -94,12 +94,12 @@
       {
         "Entity Title": "Clean Energy Companies",
         "Entity Code": "clean energy companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -128,7 +128,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
@@ -159,12 +159,12 @@
       {
         "Entity Title": "Innovative Recycling Technologies",
         "Entity Code": "innovative recycling technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Production Practices",
         "Entity Code": "sustainable production practices",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

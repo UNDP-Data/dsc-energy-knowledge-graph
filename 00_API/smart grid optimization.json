@@ -40,17 +40,17 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Utility Companies",
         "Entity Code": "utility companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -129,12 +129,12 @@
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Transport Systems",
         "Entity Code": "energy transport systems",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
@@ -158,7 +158,7 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -187,7 +187,7 @@
       {
         "Entity Title": "Energy Distribution",
         "Entity Code": "energy distribution",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -215,7 +215,7 @@
       {
         "Entity Title": "Demand Response",
         "Entity Code": "demand response",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

@@ -19,12 +19,12 @@
       {
         "Entity Title": "Predictive Maintenance",
         "Entity Code": "predictive maintenance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Smart Manufacturing",
         "Entity Code": "smart manufacturing",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -50,12 +50,12 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The principle of ensuring fair and equal access to and use of data, particularly for marginalized communities.",
@@ -78,7 +78,7 @@
       {
         "Entity Title": "Building Information Modeling",
         "Entity Code": "building information modeling",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of smart metering technologies.",
@@ -102,17 +102,17 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Asset Performance Optimization",
         "Entity Code": "asset performance optimization",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Transport Systems",
         "Entity Code": "energy transport systems",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A digital representation of a physical object or system that can be used for various purposes such as monitoring, simulation, and optimization.",
@@ -147,7 +147,7 @@
       {
         "Entity Title": "Smart Cities Initiative",
         "Entity Code": "smart cities initiative",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",

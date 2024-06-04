@@ -42,22 +42,22 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Mobile Banking",
         "Entity Code": "mobile banking",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Social Impact Bonds",
         "Entity Code": "social impact bonds",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Financial Inclusion",
         "Entity Code": "financial inclusion",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
@@ -102,12 +102,12 @@
       {
         "Entity Title": "Microfinance Institutions",
         "Entity Code": "microfinance institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Financial services that are accessible and affordable to all individuals and businesses, including those in underserved and marginalized communities.",
@@ -129,7 +129,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

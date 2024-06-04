@@ -18,7 +18,7 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,12 +44,12 @@
       {
         "Entity Title": "Data Privacy",
         "Entity Code": "data privacy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Legal and institutional frameworks that govern the energy sector.",
@@ -68,7 +68,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -174,12 +174,12 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Government Policy",
         "Entity Code": "government policy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agreements for sharing data",

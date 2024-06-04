@@ -18,7 +18,7 @@
       {
         "Entity Title": "Grid Stability",
         "Entity Code": "grid stability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
@@ -40,12 +40,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -109,12 +109,12 @@
       {
         "Entity Title": "Energy Storage Performance",
         "Entity Code": "energy storage performance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Electricity Grid Operators",
         "Entity Code": "electricity grid operators",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -143,7 +143,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy systems that generate and distribute energy at a local level, often using renewable sources and involving local communities in decision-making and ownership.",
@@ -165,7 +165,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

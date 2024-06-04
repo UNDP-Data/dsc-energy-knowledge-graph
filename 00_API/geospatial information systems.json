@@ -42,7 +42,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
@@ -122,7 +122,7 @@
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
@@ -146,12 +146,12 @@
       {
         "Entity Title": "Urban Planning Departments",
         "Entity Code": "urban planning departments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Industries",
         "Entity Code": "industries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -198,7 +198,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -226,7 +226,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A policy instrument that puts a price on carbon emissions, either through a carbon tax or a cap-and-trade system, to incentivize the reduction of greenhouse gas emissions.",

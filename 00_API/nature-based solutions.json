@@ -19,17 +19,17 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Biodiversity Conservation",
         "Entity Code": "biodiversity conservation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -74,12 +74,12 @@
       {
         "Entity Title": "Climate Change Adaptation",
         "Entity Code": "climate change adaptation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Ecosystem Restoration",
         "Entity Code": "ecosystem restoration",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Approaches that use nature and natural processes to address environmental challenges and promote sustainable development.",
@@ -99,12 +99,12 @@
       {
         "Entity Title": "Carbon Sequestration",
         "Entity Code": "carbon sequestration",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

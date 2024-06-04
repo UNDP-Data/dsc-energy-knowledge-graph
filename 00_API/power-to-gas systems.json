@@ -18,12 +18,12 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -49,12 +49,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Electric Vehicle Charging Infrastructure",
         "Entity Code": "electric vehicle charging infrastructure",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Carbon neutrality refers to achieving a balance between carbon emissions and carbon removal, resulting in no net increase in atmospheric carbon dioxide levels.",
@@ -74,7 +74,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -119,7 +119,7 @@
       {
         "Entity Title": "Hydrogen Production Efficiency",
         "Entity Code": "hydrogen production efficiency",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Systems that convert electrical power into a gas fuel, such as hydrogen or methane.",
@@ -162,7 +162,7 @@
       {
         "Entity Title": "Greenhouse Gas Emissions Reduction",
         "Entity Code": "greenhouse gas emissions reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",

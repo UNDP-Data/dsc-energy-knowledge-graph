@@ -20,17 +20,17 @@
       {
         "Entity Title": "Community Engagement",
         "Entity Code": "community engagement",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Biodiversity Conservation",
         "Entity Code": "biodiversity conservation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Climate resilience funds are financial mechanisms that provide funding for projects and initiatives aimed at enhancing the resilience of communities, ecosystems, and infrastructure to climate change impacts.",
@@ -54,7 +54,7 @@
       {
         "Entity Title": "Extreme Weather Events",
         "Entity Code": "extreme weather events",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -99,7 +99,7 @@
       {
         "Entity Title": "Local Governments",
         "Entity Code": "local governments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Strategies and actions taken to adapt to the impacts of climate change.",
@@ -120,12 +120,12 @@
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Vulnerability",
         "Entity Code": "vulnerability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Approaches that use nature and natural processes to address environmental challenges and promote sustainable development.",
@@ -169,12 +169,12 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Resilience Planning",
         "Entity Code": "resilience planning",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

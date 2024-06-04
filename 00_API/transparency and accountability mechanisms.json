@@ -18,7 +18,7 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,12 +44,12 @@
       {
         "Entity Title": "Civil Society Organizations",
         "Entity Code": "civil society organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -132,7 +132,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
@@ -155,7 +155,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -183,7 +183,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

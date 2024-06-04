@@ -28,7 +28,7 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -54,12 +54,12 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of smart metering technologies.",
@@ -83,7 +83,7 @@
       {
         "Entity Title": "Industries",
         "Entity Code": "industries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -171,7 +171,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

@@ -19,12 +19,12 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -47,22 +47,22 @@
       {
         "Entity Title": "Green Startups",
         "Entity Code": "green startups",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Finance",
         "Entity Code": "sustainable finance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Investment Banks",
         "Entity Code": "investment banks",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -107,12 +107,12 @@
       {
         "Entity Title": "Project Performance",
         "Entity Code": "project performance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Grant Programs",
         "Entity Code": "grant programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -167,7 +167,7 @@
       {
         "Entity Title": "Project Finance Specialists",
         "Entity Code": "project finance specialists",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

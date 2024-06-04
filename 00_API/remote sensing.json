@@ -19,7 +19,7 @@
       {
         "Entity Title": "Vegetation Index",
         "Entity Code": "vegetation index",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of remote sensing.",
@@ -39,37 +39,37 @@
       {
         "Entity Title": "Renewable Energy Monitoring Programs",
         "Entity Code": "renewable energy monitoring programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Renewable Energy Potential Mapping",
         "Entity Code": "renewable energy potential mapping",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Environmental Research Institutions",
         "Entity Code": "environmental research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Satellite Imagery",
         "Entity Code": "satellite imagery",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Geospatial Technology",
         "Entity Code": "geospatial technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

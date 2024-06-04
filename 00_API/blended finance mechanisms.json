@@ -19,7 +19,7 @@
       {
         "Entity Title": "Renewable Energy Initiatives",
         "Entity Code": "renewable energy initiatives",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -45,17 +45,17 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -100,7 +100,7 @@
       {
         "Entity Title": "Private Sector Organizations",
         "Entity Code": "private sector organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Technologies that have been used for energy generation and distribution for a long time.",
@@ -122,7 +122,7 @@
       {
         "Entity Title": "Sustainable Energy Sector",
         "Entity Code": "sustainable energy sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -151,7 +151,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of blended finance mechanisms.",
@@ -171,7 +171,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

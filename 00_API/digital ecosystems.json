@@ -18,7 +18,7 @@
       {
         "Entity Title": "Clean Energy Startups",
         "Entity Code": "clean energy startups",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -44,22 +44,22 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption Patterns",
         "Entity Code": "energy consumption patterns",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of smart metering technologies.",
@@ -83,7 +83,7 @@
       {
         "Entity Title": "Energy Access Initiative",
         "Entity Code": "energy access initiative",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -152,12 +152,12 @@
       {
         "Entity Title": "Carbon Emission Reduction",
         "Entity Code": "carbon emission reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Innovation Lab",
         "Entity Code": "sustainable energy innovation lab",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

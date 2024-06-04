@@ -20,27 +20,27 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Smart Grid Infrastructure",
         "Entity Code": "smart grid infrastructure",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Storage Technologies",
         "Entity Code": "energy storage technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
@@ -63,7 +63,7 @@
       {
         "Entity Title": "Utility Companies",
         "Entity Code": "utility companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -145,12 +145,12 @@
       {
         "Entity Title": "Reducing Carbon Emissions",
         "Entity Code": "reducing carbon emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The ability of an energy system to withstand and recover from disruptions, such as natural disasters or cyber attacks, and continue to provide reliable and sustainable energy services.",
@@ -174,7 +174,7 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",

@@ -18,12 +18,12 @@
       {
         "Entity Title": "Community Engagement",
         "Entity Code": "community engagement",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Zoning Regulations",
         "Entity Code": "zoning regulations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Integrated resource planning is a process that helps utilities and energy providers make informed decisions about the mix of energy resources and technologies to meet future energy demand.",
@@ -97,22 +97,22 @@
       {
         "Entity Title": "Land Suitability",
         "Entity Code": "land suitability",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Urban Planning Departments",
         "Entity Code": "urban planning departments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Spatial Analysis",
         "Entity Code": "spatial analysis",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -164,7 +164,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

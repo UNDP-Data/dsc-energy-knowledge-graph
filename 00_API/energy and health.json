@@ -38,17 +38,17 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Access to Clean Cooking Solutions",
         "Entity Code": "access to clean cooking solutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Consumption Patterns",
         "Entity Code": "energy consumption patterns",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -93,7 +93,7 @@
       {
         "Entity Title": "Universal Access to Energy",
         "Entity Code": "universal access to energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy generated from the wind through the use of wind turbines to produce electricity.",
@@ -116,7 +116,7 @@
       {
         "Entity Title": "Ministry of Health",
         "Entity Code": "ministry of health",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -145,12 +145,12 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy for All Initiative",
         "Entity Code": "sustainable energy for all initiative",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",
@@ -195,7 +195,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

@@ -35,22 +35,22 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Carbon Reduction Strategies",
         "Entity Code": "carbon reduction strategies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Net-zero Emissions",
         "Entity Code": "net-zero emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Emission Reduction",
         "Entity Code": "emission reduction",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing carbon dioxide emissions and converting them into useful products.",
@@ -70,22 +70,22 @@
       {
         "Entity Title": "Industrial Sectors",
         "Entity Code": "industrial sectors",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change",
         "Entity Code": "climate change",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

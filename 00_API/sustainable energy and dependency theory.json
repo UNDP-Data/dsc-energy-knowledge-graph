@@ -19,27 +19,27 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Index",
         "Entity Code": "energy access index",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
@@ -106,7 +106,7 @@
       {
         "Entity Title": "Industries",
         "Entity Code": "industries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -177,12 +177,12 @@
       {
         "Entity Title": "Community-based Renewable Energy Projects",
         "Entity Code": "community-based renewable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -210,12 +210,12 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Academic Institutions",
         "Entity Code": "academic institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy generated from sources located in bodies of water, such as wind farms or tidal power plants.",

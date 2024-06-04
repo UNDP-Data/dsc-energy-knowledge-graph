@@ -21,7 +21,7 @@
       {
         "Entity Title": "Sustainable Energy Investments",
         "Entity Code": "sustainable energy investments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -47,7 +47,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -70,7 +70,7 @@
       {
         "Entity Title": "Local Ngos",
         "Entity Code": "local ngos",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -115,7 +115,7 @@
       {
         "Entity Title": "Energy Access Gap",
         "Entity Code": "energy access gap",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Entrepreneurship focused on sustainable energy solutions and innovations.",
@@ -161,17 +161,17 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Projects",
         "Entity Code": "clean energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

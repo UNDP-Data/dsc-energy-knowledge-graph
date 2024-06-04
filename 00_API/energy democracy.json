@@ -22,7 +22,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Approaches and initiatives that are driven and implemented by local communities to address sustainable energy challenges and meet their specific needs.",
@@ -65,27 +65,27 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Participatory Decision-making",
         "Entity Code": "participatory decision-making",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Equity",
         "Entity Code": "energy equity",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Feed-in Tariff Programs",
         "Entity Code": "feed-in tariff programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy and health",
@@ -156,12 +156,12 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -189,7 +189,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

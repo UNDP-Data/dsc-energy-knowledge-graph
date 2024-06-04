@@ -19,7 +19,7 @@
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -45,7 +45,7 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The sequence of activities involved in the production, transformation, distribution, and consumption of energy, including extraction, generation, transmission, and end-use.",
@@ -84,7 +84,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -153,7 +153,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The framework and processes for decision-making, policy development, and regulation in the energy sector to ensure sustainable and equitable energy access.",
@@ -199,7 +199,7 @@
       {
         "Entity Title": "Sustainable Energy System",
         "Entity Code": "sustainable energy system",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

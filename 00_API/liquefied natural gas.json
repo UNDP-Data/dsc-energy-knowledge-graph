@@ -19,7 +19,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -45,22 +45,22 @@
       {
         "Entity Title": "Lng Import Terminals",
         "Entity Code": "lng import terminals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Shipping Companies",
         "Entity Code": "shipping companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Participatory Decision-making",
         "Entity Code": "participatory decision-making",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Natural Gas",
         "Entity Code": "natural gas",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -138,12 +138,12 @@
       {
         "Entity Title": "Greenhouse Gas Emissions",
         "Entity Code": "greenhouse gas emissions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Cryogenic Technology",
         "Entity Code": "cryogenic technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy and health",
@@ -214,7 +214,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

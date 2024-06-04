@@ -19,22 +19,22 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Citizen Engagement",
         "Entity Code": "citizen engagement",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Capacity Building",
         "Entity Code": "capacity building",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Public Consultations",
         "Entity Code": "public consultations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Collaborative initiatives involving multiple stakeholders, such as governments, businesses, and civil society organizations.",
@@ -56,12 +56,12 @@
       {
         "Entity Title": "Social Inclusion",
         "Entity Code": "social inclusion",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Good Governance Principles",
         "Entity Code": "good governance principles",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -90,17 +90,17 @@
       {
         "Entity Title": "Democratic Governance",
         "Entity Code": "democratic governance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Private Sector",
         "Entity Code": "private sector",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Collaborative Governance",
         "Entity Code": "collaborative governance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -128,12 +128,12 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Collaborative Decision-making",
         "Entity Code": "collaborative decision-making",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

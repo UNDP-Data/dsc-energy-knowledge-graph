@@ -34,12 +34,12 @@
       {
         "Entity Title": "Data Protection Regulations",
         "Entity Code": "data protection regulations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Data Localization Initiatives",
         "Entity Code": "data localization initiatives",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A set of rules, guidelines, and measures designed to protect computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction.",
@@ -59,7 +59,7 @@
       {
         "Entity Title": "Sustainable Energy Policies",
         "Entity Code": "sustainable energy policies",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

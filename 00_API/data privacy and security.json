@@ -19,32 +19,32 @@
       {
         "Entity Title": "Cybersecurity Research",
         "Entity Code": "cybersecurity research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Government Agencies",
         "Entity Code": "government agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Data Protection Laws",
         "Entity Code": "data protection laws",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Data Encryption",
         "Entity Code": "data encryption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Information Technology",
         "Entity Code": "information technology",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Data Breaches",
         "Entity Code": "data breaches",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Protection of data from unauthorized access and ensuring its confidentiality and integrity.",
@@ -64,17 +64,17 @@
       {
         "Entity Title": "Privacy Regulations",
         "Entity Code": "privacy regulations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Cybercriminals",
         "Entity Code": "cybercriminals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Trust in Digital Services",
         "Entity Code": "trust in digital services",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [

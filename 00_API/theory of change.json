@@ -19,7 +19,7 @@
       {
         "Entity Title": "Innovation in Clean Technologies",
         "Entity Code": "innovation in clean technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -42,7 +42,7 @@
       {
         "Entity Title": "Intermittency of Renewable Energy",
         "Entity Code": "intermittency of renewable energy",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
@@ -69,12 +69,12 @@
       {
         "Entity Title": "Social Impact",
         "Entity Code": "social impact",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Industries",
         "Entity Code": "industries",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -103,12 +103,12 @@
       {
         "Entity Title": "Barriers to Renewable Energy Adoption",
         "Entity Code": "barriers to renewable energy adoption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Action Plans",
         "Entity Code": "climate action plans",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -154,22 +154,22 @@
       {
         "Entity Title": "Impact Evaluation Methods",
         "Entity Code": "impact evaluation methods",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Strategic Planning",
         "Entity Code": "strategic planning",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Academic Institutions",
         "Entity Code": "academic institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

@@ -20,17 +20,17 @@
       {
         "Entity Title": "Energy Assistance Programs",
         "Entity Code": "energy assistance programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Humanitarian Organizations",
         "Entity Code": "humanitarian organizations",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Sustainable Energy Access",
         "Entity Code": "sustainable energy access",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of Action Opportunities",
@@ -51,7 +51,7 @@
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of Action Opportunities",
@@ -112,7 +112,7 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The use of less energy to provide the same level of output or service, resulting in reduced energy consumption, cost savings, and environmental benefits.",
@@ -141,12 +141,12 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Challenges",
         "Entity Code": "energy access challenges",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy services provided in settings where people have been displaced due to conflicts, disasters, or other reasons.",

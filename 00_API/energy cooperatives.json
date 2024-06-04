@@ -40,27 +40,27 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Research Institutions",
         "Entity Code": "research institutions",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Community Development",
         "Entity Code": "community development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Feed-in Tariff Programs",
         "Entity Code": "feed-in tariff programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Governments",
         "Entity Code": "local governments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Agencies that promote and support the development and use of renewable energy sources.",
@@ -105,17 +105,17 @@
       {
         "Entity Title": "Energy Consumption",
         "Entity Code": "energy consumption",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Community-owned Renewable Energy Projects",
         "Entity Code": "community-owned renewable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -143,7 +143,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       }
     ],
     "sub-elements": [],

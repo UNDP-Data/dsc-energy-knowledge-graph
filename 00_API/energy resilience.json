@@ -23,7 +23,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Markets where electricity, natural gas, and other energy commodities are bought and sold.",
@@ -49,17 +49,17 @@
       {
         "Entity Title": "Research and Development",
         "Entity Code": "research and development",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Storage Technologies",
         "Entity Code": "energy storage technologies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Clean Energy Research",
         "Entity Code": "clean energy research",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Small-scale, localized electrical grids that can operate independently or in conjunction with the main grid.",
@@ -82,12 +82,12 @@
       {
         "Entity Title": "Climate Change Impacts",
         "Entity Code": "climate change impacts",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Disaster Management Agencies",
         "Entity Code": "disaster management agencies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Energy democracy is a concept that promotes the democratization of energy systems, giving communities and individuals more control over the production, distribution, and consumption of energy.",
@@ -169,7 +169,7 @@
       {
         "Entity Title": "Building Standards",
         "Entity Code": "building standards",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",
@@ -197,7 +197,7 @@
       {
         "Entity Title": "Sustainable Development Goals",
         "Entity Code": "sustainable development goals",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",

@@ -19,27 +19,27 @@
       {
         "Entity Title": "Energy Resource Potential",
         "Entity Code": "energy resource potential",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Geospatial Analysis",
         "Entity Code": "geospatial analysis",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Indigenous Communities",
         "Entity Code": "indigenous communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of community-based energy resilience programs.",
@@ -102,12 +102,12 @@
       {
         "Entity Title": "Energy Data Collection",
         "Entity Code": "energy data collection",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Climate Change Adaptation",
         "Entity Code": "climate change adaptation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The rights of indigenous communities to own, use, and manage their traditional lands.",
@@ -152,7 +152,7 @@
       {
         "Entity Title": "Community-led Energy Projects",
         "Entity Code": "community-led energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "The process of capturing and storing energy for later use.",

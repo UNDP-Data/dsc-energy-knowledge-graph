@@ -18,7 +18,7 @@
       {
         "Entity Title": "Local Communities",
         "Entity Code": "local communities",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Summary of energy poverty indices",
@@ -41,7 +41,7 @@
       {
         "Entity Title": "Energy Access Programs",
         "Entity Code": "energy access programs",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "New and creative ways of raising funds for projects or initiatives.",
@@ -60,7 +60,7 @@
       {
         "Entity Title": "Sustainable Energy Projects",
         "Entity Code": "sustainable energy projects",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Organizations that provide financial support and expertise for development projects in multiple countries.",
@@ -123,7 +123,7 @@
       {
         "Entity Title": "Clean Energy Companies",
         "Entity Code": "clean energy companies",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Foundational energy infrastructure refers to the essential physical structures and systems that support the production, distribution, and consumption of energy.",
@@ -168,7 +168,7 @@
       {
         "Entity Title": "Climate Change Mitigation",
         "Entity Code": "climate change mitigation",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "A concept that aims to ensure a fair and equitable transition to a sustainable energy system, taking into account social, economic, and environmental aspects.",
@@ -217,12 +217,12 @@
       {
         "Entity Title": "Long-term Investments",
         "Entity Code": "long-term investments",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Entity Title": "Investment Performance",
         "Entity Code": "investment performance",
-        "Error": "File not found"
+        "Category": "Missing"
       },
       {
         "Description": "Renewable energy certificates, also known as green certificates or tradable renewable certificates, are proof that a certain amount of electricity has been generated from renewable sources.",
