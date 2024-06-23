@@ -1,0 +1,2033 @@
+[
+  {
+    "Subject": "energy efficiency",
+    "Object": "transition to sustainable energy systems",
+    "Relation": "mentioned as part of",
+    "Description": "Energy efficiency is mentioned as part of the transition to sustainable energy systems.",
+    "Importance": 3
+  },
+  {
+    "Subject": "bioenergy",
+    "Relation": "contributes_to",
+    "Object": "climate mitigation efforts",
+    "Description": "Bioenergy can contribute to climate mitigation efforts by reducing emissions of greenhouse gases and promoting the use of low-carbon or carbon-neutral energy sources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon neutrality",
+    "Relation": "refers_to",
+    "Object": "achieving a net-zero carbon footprint",
+    "Description": "Carbon neutrality refers to achieving a net-zero carbon footprint by balancing a measured amount of carbon released with an equivalent amount sequestered or offset, or buying enough carbon credits to make up the difference.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biomass",
+    "Object": "energy-related emissions",
+    "Relation": "contributes_to",
+    "Description": "Biomass contributes to energy-related emissions from the production of energy from other fuels including electricity and heat.",
+    "Importance": 3
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "related_to",
+    "Object": "N2O emissions",
+    "Description": "Biofuels are related to N2O emissions, which are a significant source of greenhouse gas emissions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decarbonization",
+    "Object": "sector",
+    "Relation": "is_critical_for",
+    "Description": "Decarbonization is critical for achieving the 2050 decarbonization pathway.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "affects",
+    "Object": "crop yield",
+    "Description": "Climate change affects the availability of bioenergy feedstock in different regions of the world and therefore influences its substitution efficiency of traditional fossil energy and creates feedback to climate through changed GHG performance.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Relation": "affects",
+    "Object": "wind patterns",
+    "Description": "Climate change can alter global wind patterns and regional wind distributions due to changes in atmospheric circulation, sea surface temperatures, and land-sea temperature gradients.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar energy",
+    "Relation": "affects",
+    "Object": "solar energy production",
+    "Description": "Climate change can have various impacts on solar energy production, affecting both photovoltaic (PV) solar panels and concentrating solar power (CSP) systems.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Object": "climate-related hazards",
+    "Relation": "vulnerable_to",
+    "Description": "Energy storage facilities such as the Battery Systems are vulnerable to extreme temperatures, flooding, and other climate-related hazards, leading to reduced efficiency, capacity loss, and operational challenges.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "building insulation",
+    "Relation": "addresses",
+    "Description": "Energy efficiency measures, such as building insulation, are crucial in reducing energy consumption and mitigating the impacts of climate change.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geothermal energy",
+    "Relation": "offers",
+    "Object": "sustainable alternative",
+    "Description": "Geothermal energy offers a sustainable alternative to fossil fuels.",
+    "Importance": 3
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "environment impact assessments",
+    "Relation": "prior to",
+    "Description": "Just energy transition emphasizes the importance of conducting environment impact assessments prior to adopting certain energy infrastructure development projects.",
+    "Importance": 3
+  },
+  {
+    "Subject": "critical minerals",
+    "Object": "green energy transition solutions",
+    "Relation": "used in",
+    "Description": "Critical minerals such as bauxite, lithium, and cobalt are used in green energy transition solutions such as electric vehicles and solar panels.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "wind farms",
+    "Relation": "impacts",
+    "Description": "Wind energy developments, including wind farms, can fragment habitats, disturb wildlife, and interfere with bird migration routes.",
+    "Importance": 3
+  },
+  {
+    "Subject": "bioenergy",
+    "Object": "food production",
+    "Relation": "competes with",
+    "Description": "Bioenergy production, such as the cultivation of crops for biofuels, can compete with food production and natural ecosystems for land resources, leading to deforestation, habitat conversion, and loss of biodiversity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "concentrated solar power",
+    "Relation": "uses",
+    "Object": "mirrors",
+    "Description": "Concentrated solar power uses mirrors to focus sunlight, which heats a fluid and generates steam to power a turbine for electricity production.",
+    "Importance": 4
+  },
+  {
+    "Subject": "heating and cooling",
+    "Relation": "contributes_to",
+    "Object": "energy demand",
+    "Description": "Heating and cooling systems contribute to the energy demand of hospitals and offices, accounting for 50-60% of their energy bill.",
+    "Importance": 4
+  },
+  {
+    "Subject": "heating and cooling",
+    "Object": "building energy usage",
+    "Relation": "focuses_on",
+    "Description": "Adopting more energy-efficient heating and cooling procedures has become a top focus for reducing building energy usage.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy markets",
+    "Object": "wind power",
+    "Relation": "contributes_to",
+    "Description": "Energy markets contribute to the development and financing of wind power projects.",
+    "Importance": 3
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "renewable energy",
+    "Relation": "is_a",
+    "Description": "Wind energy is a major source of renewable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geothermal energy",
+    "Relation": "uses",
+    "Object": "earth's internal heat",
+    "Description": "Geothermal energy uses the earth's internal heat to produce power.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geothermal energy",
+    "Relation": "uses",
+    "Object": "earth's internal heat",
+    "Description": "Geothermal energy uses the earth's internal heat to produce power.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon capture and storage",
+    "Relation": "involves",
+    "Object": "capturing CO2 emissions",
+    "Description": "Carbon capture and storage involves the capturing of CO2 emissions from various industrial processes.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy for development",
+    "Object": "countries",
+    "Relation": "promote",
+    "Description": "UNDP works with countries to promote energy for development, and build the resilient, equitable, sustainable energy systems of tomorrow through just energy transitions.",
+    "Importance": 4
+  },
+
+  {
+    "Subject": "energy resilience",
+    "Object": "energy infrastructure",
+    "Relation": "refers_to",
+    "Description": "Energy resilience refers to the ability of energy infrastructure to withstand and recover from disruptions caused by climate-related events.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "enables",
+    "Object": "rapid response to changes in supply and demand",
+    "Description": "Energy storage enables a rapid response to changes in supply and demand, reducing transmission losses, and mitigating the impact of outages.",
+    "Importance": 4
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Object": "microgrid projects",
+    "Relation": "explored as",
+    "Description": "Public-private partnerships are explored as an ownership model for microgrid projects to foster a sense of ownership among residents and encourage investment in the project.",
+    "Importance": 3
+  },
+  {
+    "Subject": "technology transfer",
+    "Object": "knowledge sharing",
+    "Relation": "partners_with",
+    "Description": "Technology transfer partners with knowledge sharing to facilitate the exchange of information and expertise.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "growing trend",
+    "Object": "energy storage solutions",
+    "Description": "Energy storage solutions are showing a growing trend throughout the years.",
+    "Importance": 3
+  },
+  {
+    "Subject": "climate adaptation strategies",
+    "Relation": "implements",
+    "Object": "seasonal pumped hydropower storage (SPHS)",
+    "Description": "Climate adaptation strategies, such as the seasonal pumped hydropower storage (SPHS) implemented in Brazil, aim to balance the supply and demand for electricity, especially during droughts that would impact hydroelectric power plants.",
+    "Importance": 4
+  },
+  {
+    "Subject": "battery storage",
+    "Relation": "improves",
+    "Object": "grid stability",
+    "Description": "Battery storage improves grid stability by responding to power supply fluctuations and optimizing charging and discharging cycles.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nationally determined contributions",
+    "Object": "NAPs",
+    "Relation": "implements",
+    "Description": "Nationally determined contributions implements NAPs in an integrated approach connecting with UNDP's Climate Promise and accelerating climate action and progress on SDGs.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp accelerator labs",
+    "Object": "renewable energy technologies",
+    "Relation": "focuses_on",
+    "Description": "UNDP Accelerator Labs focuses on renewable energy technologies for urban resilience.",
+    "Importance": 4
+  },
+  {
+    "Subject": "critical minerals",
+    "Object": "clean energy transitions",
+    "Relation": "play a crucial role in",
+    "Description": "Critical minerals play a crucial role in clean energy transitions and are required for the development of renewable energy technologies.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "energy-efficient technologies and practices",
+    "Relation": "helps_conserve",
+    "Description": "Energy efficiency helps conserve energy resources, reduce greenhouse gas emissions, and lower energy costs.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp country offices",
+    "Object": "energy planning and decision-making processes",
+    "Relation": "focuses_on",
+    "Description": "UNDP country offices focuses on energy planning and decision-making processes.",
+    "Importance": 3
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Relation": "mentioned_as",
+    "Object": "way to leverage public and private resources for sustainable energy development",
+    "Description": "Public-Private Partnerships (PPPs) are mentioned as a way to leverage public and private resources for sustainable energy development. They are listed as one of the ways to enhance fiscal space, access international finance, improve public expenditure management, develop green bonds, foster innovation and technology transfer, and mitigate risks. PPPs are also mentioned in the context of public and private partnerships and concessions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "green bonds",
+    "Object": "sustainable energy",
+    "Relation": "funds",
+    "Description": "Green bonds can be used as a financial instrument to fund sustainable energy projects for development.",
+    "Importance": 4
+  },
+  {
+    "Subject": "technology transfer",
+    "Object": "innovation",
+    "Relation": "fosters",
+    "Description": "Technology transfer fosters innovation by facilitating the exchange of knowledge, ideas, and technologies between different entities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy for development",
+    "Relation": "investments",
+    "Object": "renewable energy",
+    "Description": "Energy for development involves investments in renewable energy to promote sustainable development and address climate goals and commitments.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Object": "carbon markets",
+    "Relation": "addresses",
+    "Description": "Carbon pricing addresses the challenges and issues related to carbon markets.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy markets",
+    "Relation": "focuses_on",
+    "Object": "renewable energy sources",
+    "Description": "Energy markets focuses on the trade and distribution of renewable energy sources.",
+    "Importance": 3
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "Sustainable Energy Financial Architecture",
+    "Relation": "part_of",
+    "Description": "Innovative financing is part of the Sustainable Energy Financial Architecture, which involves financing projects and initiatives that promote sustainability and reduce negative environmental impacts.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "global investments",
+    "Relation": "focuses_on",
+    "Description": "Energy efficiency focuses on global investments in energy transition technologies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "is included in",
+    "Object": "total investments",
+    "Description": "Energy storage is included in the total investments of USD 1.3 trillion in 2022, along with renewable energy, energy efficiency, electrified transport and heat, hydrogen, and carbon capture and storage (CCS).",
+    "Importance": 3
+  },
+  {
+    "Subject": "carbon capture and storage",
+    "Relation": "captures",
+    "Object": "carbon dioxide emissions",
+    "Description": "Carbon capture and storage is a process that captures carbon dioxide emissions from sources such as power plants and industrial facilities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "investments",
+    "Object": "renewable energy",
+    "Description": "Investment in renewable energy, including wind, solar, and biofuels, grew by 8% to $623 billion.",
+    "Importance": 4
+  },
+  {
+    "Subject": "green bonds",
+    "Relation": "supports",
+    "Object": "projects and initiatives aimed at environmental sustainability",
+    "Description": "Green bonds are a financial product that supports projects and initiatives aimed at environmental sustainability, such as renewable energy, energy efficiency, pollution prevention, and conservation efforts.",
+    "Importance": 4
+  },
+  {
+    "Subject": "just energy transition",
+    "Relation": "involves",
+    "Object": "decarbonizing economies",
+    "Description": "The just energy transition involves more than just decarbonizing economies. It also includes evaluating investments from various development dimensions, including social, gender, governance, finance, climate mitigation and adaptation, and biodiversity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "investment gap",
+    "Relation": "bridges",
+    "Description": "Innovative financing mechanisms are needed to bridge the investment gap in renewable energy in developing countries.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy markets",
+    "Object": "international energy investment",
+    "Relation": "reshaping",
+    "Description": "Energy markets are being reshaped by the trends in international energy investment, which have significant implications for energy prices, trade flows, and market stability.",
+    "Importance": 3
+  },
+  {
+    "Subject": "biomass",
+    "Object": "renewable energy sources",
+    "Relation": "an_instance_of",
+    "Description": "Biomass is one of the renewable energy sources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "energy efficiency improvements",
+    "Relation": "represents",
+    "Description": "Energy efficiency represents a cost-effective strategy to reduce energy consumption and greenhouse gas emissions, with significant potential for economic savings and environmental benefits.",
+    "Importance": 4
+  },
+  {
+    "Subject": "battery storage",
+    "Object": "investment in research and development (R&D) of new energy technologies",
+    "Relation": "contributes_to",
+    "Description": "Battery storage contributes to the investment in research and development (R&D) of new energy technologies, which is crucial for the energy transition. These technologies are vital for enhancing the flexibility and resilience of energy systems and reducing dependency on fossil fuels.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multilateral development banks",
+    "Object": "World Bank Group",
+    "Relation": "an_instance_of",
+    "Description": "Multilateral development banks are an instance of the World Bank Group.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multilateral development banks",
+    "Object": "development projects",
+    "Relation": "funds",
+    "Description": "Multilateral Development Banks offer financial support for development projects in developing nations through long-term loans, very long-term loans, and grant financing primarily for technical assistance, advisory services, or project preparation.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon neutrality",
+    "Object": "renewable energy",
+    "Relation": "contributes_to",
+    "Description": "Carbon neutrality contributes to the development and growth of renewable energy as a sustainable energy source.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decarbonization",
+    "Relation": "funds",
+    "Object": "clean energy development",
+    "Description": "Decarbonization effort leads to a significant allocation of funds towards clean energy development.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "wind turbine technology",
+    "Relation": "advancements_in",
+    "Description": "Advancements in wind turbine technology, including taller turbines with larger rotor diameters, have enabled access to higher wind speeds and more consistent generation, improving the economics of wind energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "JETP",
+    "Relation": "an_instance_of",
+    "Description": "Just energy transition is an instance of the Just Energy Transition Partnership (JETP) created during the 2021 United Nations Climate Change Conference (COP26).",
+    "Importance": 4
+  },
+  {
+    "Subject": "nationally determined contributions",
+    "Object": "countries",
+    "Relation": "contributes_to",
+    "Description": "Nationally determined contributions contribute to countries' efforts to meet their international commitments and signal their commitment to sustainable development and international cooperation.",
+    "Importance": 4
+  },
+  {
+    "Subject": "climate finance mechanisms",
+    "Relation": "supports",
+    "Object": "developing countries",
+    "Description": "Climate finance mechanisms support developing countries in their transition to sustainable energy systems.",
+    "Importance": 4
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Object": "clean energy financing",
+    "Relation": "enhances",
+    "Description": "Public-private partnerships enhance the effectiveness of clean energy financing by allowing for sharing the risks and benefits of renewable energy projects, making them more attractive to private investors.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multilateral development banks",
+    "Object": "countries",
+    "Relation": "provides_assistance_to",
+    "Description": "Multilateral development banks provide both financial and technical assistance to help countries transition to sustainable energy systems.",
+    "Importance": 4
+  },
+  {
+    "Subject": "technology transfer",
+    "Relation": "facilitating",
+    "Object": "development of new technologies",
+    "Description": "Technology transfer facilitates the development of new technologies in sustainable energy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "green bonds",
+    "Relation": "enables",
+    "Object": "capital raising and investment",
+    "Description": "Green bonds enable capital raising and investment for new and existing projects with environmental benefits.",
+    "Importance": 4
+  },
+  {
+    "Subject": "green buildings",
+    "Object": "green bond issuance",
+    "Relation": "eligible_for",
+    "Description": "Green buildings are one of the project categories eligible for green bond issuance.",
+    "Importance": 3
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "target populations",
+    "Relation": "addresses",
+    "Description": "Marginalized communities addresses social issues and achieve positive social outcomes for target populations such as those living below the poverty line, migrants, unemployed, women and/or sexual and gender minorities, people with disabilities, and displaced persons.",
+    "Importance": 3
+  },
+  {
+    "Subject": "carbon pricing",
+    "Relation": "addresses",
+    "Object": "climate crisis",
+    "Description": "Carbon pricing policies address the climate crisis by providing an economic signal for markets to determine where emissions can be reduced for the lowest cost.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nationally determined contributions",
+    "Object": "Paris Agreement",
+    "Relation": "under",
+    "Description": "Nationally determined contributions are the commitments made by countries under the Paris Agreement to reduce greenhouse gas emissions and adapt to the impacts of climate change.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nature-based solutions",
+    "Object": "forest conservation and blue carbon projects",
+    "Relation": "can be found in",
+    "Description": "Nature-based solutions such as reforestation, afforestation, and blue carbon projects (focused on coastal and marine ecosystems) can be found in both developed and developing countries.",
+    "Importance": 3
+  },
+  {
+    "Subject": "blue carbon",
+    "Object": "coastal and marine ecosystems",
+    "Relation": "focuses_on",
+    "Description": "Blue carbon projects focus on coastal and marine ecosystems to support local communities and biodiversity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon neutrality",
+    "Object": "Long-Term Strategy",
+    "Relation": "an_instance_of",
+    "Description": "Carbon neutrality is an instance of the Long-Term Strategy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy markets",
+    "Relation": "contributes_to",
+    "Object": "market development",
+    "Description": "Energy markets contribute to market development not only through energy markets themselves but also through diverse sectors towards sustainable development from transportation to food sector, and to industrial sectors.",
+    "Importance": 4
+  },
+  {
+    "Subject": "critical minerals",
+    "Object": "clean energy technologies",
+    "Relation": "transitioning_into",
+    "Description": "Critical minerals are transitioning into clean energy technologies, which will have a significant impact on the renewable energy market and energy trading of commodities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "environmental impact assessments",
+    "Object": "project planning and assessment",
+    "Relation": "conducted as part of",
+    "Description": "Environmental impact assessments are conducted as part of project planning and assessment to ensure the viability of the project.",
+    "Importance": 3
+  },
+  {
+    "Subject": "land use planning",
+    "Object": "energy policies",
+    "Relation": "addresses",
+    "Description": "Land use planning addresses energy policies to ensure sustainable development.",
+    "Importance": 3
+  },
+  {
+    "Subject": "theory of change",
+    "Relation": "focuses_on",
+    "Object": "utility-scale renewable energy",
+    "Description": "The theory of change focuses on utility-scale renewable energy as a key task for policymakers acting today.",
+    "Importance": 4
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "energy access",
+    "Relation": "addresses",
+    "Description": "Clean cooking addresses the complex relationship between energy access and other SDGs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "SDG 7.3",
+    "Relation": "aligns_with",
+    "Description": "Energy efficiency aligns with SDG 7.3, which focuses on ensuring access to affordable, reliable, sustainable and modern energy for all.",
+    "Importance": 4
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "SDG interlinkage",
+    "Relation": "fosters collaboration",
+    "Description": "Innovative financing fosters collaboration for SDG interlinkage by exploring the evolving landscape of partnerships and financial structures.",
+    "Importance": 3
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Object": "strategic innovation",
+    "Relation": "an_instance_of",
+    "Description": "Gender mainstreaming is an instance of strategic innovation in the context of energy efficiency trade-offs.",
+    "Importance": 4
+  },
+  {
+    "Subject": "theory of change",
+    "Object": "",
+    "Relation": "",
+    "Description": "",
+    "Importance": ""
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Object": "sustainable energy development",
+    "Relation": "addresses",
+    "Description": "Public-private partnerships address barriers to sustainable energy development, such as financing constraints and regulatory challenges.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multi-stakeholder partnerships",
+    "Relation": "mentioned_in",
+    "Object": "text",
+    "Description": "Multi-stakeholder partnerships are mentioned in the text in the context of building and managing effective partnerships for SDG progress.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy for development",
+    "Object": "SDGs",
+    "Relation": "addresses",
+    "Description": "Energy for development addresses the interlinkages between Sustainable Energy for Development and the SDGs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "UN agencies",
+    "Object": "case studies",
+    "Relation": "developed by",
+    "Description": "UN agencies developed case studies showcasing efforts to leverage synergies or counteract trade-offs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "digital literacy",
+    "Object": "information and communication technologies",
+    "Relation": "fosters",
+    "Description": "Digital literacy is fostered through the use of information and communication technologies, which significantly enhance learning experiences.",
+    "Importance": 4
+  },
+  {
+    "Subject": "heating and cooling",
+    "Object": "thermal comfort",
+    "Relation": "provides",
+    "Description": "Heating and cooling provides thermal comfort for households.",
+    "Importance": 3
+  },
+  {
+    "Subject": "time poverty",
+    "Object": "access to clean energy",
+    "Relation": "reduces",
+    "Description": "Access to clean energy directly aids in reducing women's time poverty, for instance thanks to equipment such as fridges and washing machines, allowing better educational attendance.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biomass",
+    "Object": "reliable energy availability",
+    "Relation": "hinders",
+    "Description": "The lack of reliable energy availability hinders rural communities from abandoning biomass.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar home systems",
+    "Object": "small-scale renewable energy technologies",
+    "Relation": "an_instance_of",
+    "Description": "Solar home systems are an instance of small-scale renewable energy technologies.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Relation": "contributes_to",
+    "Object": "conserving and sustainably using marine resources",
+    "Description": "Wind energy contributes to conserving and sustainably using marine resources by replacing off-shore petroleum extraction with renewable energy generated from offshore wind, wave, and tidal power farms.",
+    "Importance": 4
+  },
+  {
+    "Subject": "tidal power",
+    "Relation": "contributes_to",
+    "Object": "conserving and sustainably using marine resources",
+    "Description": "Tidal power contributes to conserving and sustainably using marine resources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "resilient infrastructure",
+    "Object": "SDG 7.2 target",
+    "Relation": "achieves",
+    "Description": "Resilient infrastructure achieves the SDG 7.2 target by creating the conditions for cities and human settlements to be inclusive, safe, resilient, less-polluting, and more sustainable.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy resilience",
+    "Object": "City Energy Resilience Framework (CERF)",
+    "Relation": "serves_as",
+    "Description": "Energy resilience serves as a comprehensive guide for cities to bolster their energy transition and urban resilience.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "make up",
+    "Object": "growth in renewable energy jobs",
+    "Description": "Biofuels make up most of the growth in renewable energy jobs.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar energy",
+    "Relation": "promotes",
+    "Object": "clean energy systems",
+    "Description": "Solar energy promotes the use of clean energy systems such as solar panels and improved cookstoves.",
+    "Importance": 4
+  },
+  {
+    "Subject": "bioenergy",
+    "Object": "water-related issues",
+    "Relation": "exacerbates",
+    "Description": "Bioenergy, if mismanaged, could exacerbate existing water-related issues.",
+    "Importance": 3
+  },
+  {
+    "Subject": "liquefied natural gas",
+    "Object": "gas and electricity markets",
+    "Relation": "strains",
+    "Description": "The significant drop in hydropower output in southern Europe in 2022 compounded the strain on gas and electricity markets due to Russia's invasion of Ukraine.",
+    "Importance": 3
+  },
+  {
+    "Subject": "bioenergy",
+    "Object": "land management co-product",
+    "Relation": "supports",
+    "Description": "Bioenergy supports land management as a co-product, contributing to ecological services like soil restoration, wildfire prevention, and habitat preservation.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "extends across",
+    "Object": "water resources",
+    "Description": "Renewable energies' impact on water resources extends across their entire value chain.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "policies",
+    "Relation": "enables",
+    "Description": "Energy efficiency policies enable the world to achieve more than 40% of the emissions cuts needed to reach climate goals without new technologies.",
+    "Importance": 4
+  },
+  {
+    "Subject": "water-food-energy nexus",
+    "Relation": "optimizes",
+    "Object": "use of water, food, and energy resources",
+    "Description": "The water-food-energy nexus optimizes the use of water, food, and energy resources to ensure sustainable development.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nature-based solutions",
+    "Object": "inequality and land challenges",
+    "Relation": "addresses",
+    "Description": "Nature-based solutions address inequality and land challenges by providing sustainable and equitable solutions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "energy-related environmental effects on climate",
+    "Relation": "reduces",
+    "Description": "Energy efficiency reduces the amount of energy consumption, which has direct impacts on reducing energy-related environmental effects on climate.",
+    "Importance": 4
+  },
+  {
+    "Subject": "water-food-energy nexus",
+    "Object": "water (SDG 6), food (SDG 2), and energy (SDG 7)",
+    "Relation": "exerts pressure on",
+    "Description": "The growing demand for water (SDG 6), food (SDG 2), and energy (SDG 7) exerts immense pressure on this interconnected nexus.",
+    "Importance": 4
+  },
+  {
+    "Subject": "resilient infrastructure",
+    "Relation": "contributes_to",
+    "Object": "low-impact energy generation",
+    "Description": "Resilient infrastructure contributes to low-impact energy generation by addressing waste reduction, resource efficiency, fostering innovation, and aligning with Sustainable Development Goals (SDGs) 9, 11, and 12.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon pricing",
+    "Object": "innovation and compliance",
+    "Relation": "aids",
+    "Description": "Carbon pricing aids innovation and compliance in the industrial sector.",
+    "Importance": 3
+  },
+  {
+    "Subject": "nature-based solutions",
+    "Relation": "contributes_to",
+    "Object": "energy efficiency",
+    "Description": "Nature-based solutions contribute to scaling up energy efficiency.",
+    "Importance": 4
+  },
+  {
+    "Subject": "marginalized communities",
+    "Relation": "addresses",
+    "Object": "social injustices",
+    "Description": "Addressing climate issues and social injustices requires integrated, bottom-up approaches that focus on marginalized communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "climate-smart agriculture",
+    "Object": "gender-responsive programs",
+    "Relation": "integrated_into",
+    "Description": "Climate-smart agriculture solutions are integrated into gender-responsive programs to minimize the triple divide impacting women and prepare youth for inclusive, environmentally sensitive livelihoods.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy markets",
+    "Relation": "focuses_on",
+    "Object": "cost-reduction strategies and innovative business models",
+    "Description": "The program focuses on cost-reduction strategies and innovative business models to enhance access to clean energy and encourage significant commercial investment in renewable energy minigrids across Africa.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy value chain",
+    "Object": "green energy value chain",
+    "Relation": "requires",
+    "Description": "The energy value chain requires a holistic approach to manage potential trade-offs, such as water security challenges, balancing land use and food security, considering the entire environmental footprint, and ensuring governance and community rights.",
+    "Importance": 3
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Relation": "promotes",
+    "Object": "gender equality",
+    "Description": "Gender mainstreaming promotes gender equality by identifying and addressing disparities, ensuring equal benefits from policies and programs, and promoting inclusivity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Object": "gender equality",
+    "Relation": "promotes",
+    "Description": "Gender mainstreaming promotes gender equality by identifying and addressing disparities, ensuring equal benefits from policies and programs, and promoting inclusivity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy entrepreneurship",
+    "Object": "gender gap",
+    "Relation": "measures",
+    "Description": "Energy entrepreneurship measures the gender gap in terms of energy entrepreneurship.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar home systems",
+    "Object": "renewable electricity",
+    "Relation": "an_instance_of",
+    "Description": "Solar home systems are an instance of renewable electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "undp country offices",
+    "Object": "UNDP energy projects",
+    "Relation": "monitors",
+    "Description": "UNDP country offices monitor the progress of UNDP energy projects.",
+    "Importance": 3
+  },
+  {
+    "Subject": "theory of change",
+    "Object": "desired changes",
+    "Relation": "articulates",
+    "Description": "Theory of change articulates the steps driving desired changes.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decarbonization",
+    "Relation": "prioritizes",
+    "Object": "Global Roadmap for SDG 7 Action",
+    "Description": "The Global Roadmap for SDG 7 Action prioritizes decarbonization as one of the key areas for achieving sustainable energy goals.",
+    "Importance": 4
+  },
+  {
+    "Subject": "the UNDP Sustainable Energy Hub",
+    "Object": "governments",
+    "Relation": "collaborates_with",
+    "Description": "The UNDP Sustainable Energy Hub collaborates with governments to facilitate a just and sustainable energy transition.",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "Alliance",
+    "Relation": "partners_with",
+    "Description": "The Alliance partners with energy, development, and humanitarian partners to transition towards renewable energy, aiming to improve efficiency, reduce costs, and cut emissions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multi-stakeholder partnerships",
+    "Object": "2030 Agenda Partnership Accelerator",
+    "Relation": "an_instance_of",
+    "Description": "Multi-stakeholder partnerships are an instance of the 2030 Agenda Partnership Accelerator, which offers training, advisory services, and capacity building to strengthen collaboration across sectors and establish effective platforms at the national level.",
+    "Importance": 4
+  },
+  {
+    "Subject": "blended finance mechanisms",
+    "Relation": "leverage",
+    "Object": "public resources",
+    "Description": "Blended finance mechanisms leverage public resources to attract private investment, maximizing impact.",
+    "Importance": 4
+  },
+  {
+    "Subject": "mobile payment systems",
+    "Object": "financial services",
+    "Relation": "expands",
+    "Description": "Mobile payment systems expand financial services, particularly benefiting rural populations globally.",
+    "Importance": 3
+  },
+  {
+    "Subject": "sovereign wealth funds",
+    "Object": "SDG alignment",
+    "Relation": "ensures",
+    "Description": "Sovereign wealth funds ensure SDG alignment through the use of an Impact Committee and an external LIFE Council.",
+    "Importance": 3
+  },
+  {
+    "Subject": "social protection",
+    "Object": "government spending",
+    "Relation": "contributes_to",
+    "Description": "Social protection contributes to government spending, with an average of 34% of government spending being allocated to advancing social protection linked to SDGs 1, 2, 3, 4, and 11.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multilateral development banks",
+    "Object": "financing",
+    "Relation": "contributes_to",
+    "Description": "Multilateral development banks contribute to financing the sustainable development goals.",
+    "Importance": 4
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Object": "energy's interconnectedness with gender, healthcare, clean cooking, resilience for displaced people, green economy, and digital finance services",
+    "Relation": "addresses",
+    "Description": "Public-private partnerships address energy's interconnectedness with gender, healthcare, clean cooking, resilience for displaced people, green economy, and digital finance services.",
+    "Importance": 4
+  },
+  {
+    "Subject": "theory of change",
+    "Object": "Operationalizing nexus projects",
+    "Relation": "relies_on",
+    "Description": "The theory of change is a critical tool that Operationalizing nexus projects rely on for informed, data-driven decisions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Relation": "addresses",
+    "Object": "gender disparities",
+    "Description": "Gender mainstreaming addresses gender disparities by integrating a gender perspective into all policies, programs, and activities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "energy inequalities",
+    "Relation": "addresses",
+    "Description": "Addressing Energy Inequalities Among Marginalized Communities",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy resilience",
+    "Object": "system or community",
+    "Relation": "refers_to",
+    "Description": "Energy resilience refers to the ability of a system or community to withstand and recover from disruptions in the energy supply.",
+    "Importance": 4
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "energy interventions",
+    "Relation": "benefits",
+    "Description": "Energy interventions do not reach or benefit marginalized communities in equal terms.",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Relation": "refers_to",
+    "Object": "clean and efficient cooking fuels and technologies",
+    "Description": "Clean cooking refers to the use of clean and efficient cooking fuels and technologies, such as LPG, biogas, and electric stoves, to replace traditional cooking fuels like wood, charcoal, and dung.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "implements",
+    "Object": "renewable technologies",
+    "Description": "Energy storage implements cutting-edge renewable technologies for efficient energy management and utilization.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biomass",
+    "Object": "indoor air pollution",
+    "Relation": "contributes_to",
+    "Description": "Biomass is a significant contributor to indoor air pollution, which is a severe issue causing 3.2 million deaths annually according to the WHO.",
+    "Importance": 4
+  },
+  {
+    "Subject": "time poverty",
+    "Object": "energy investments",
+    "Relation": "supports",
+    "Description": "Time poverty is supported by energy investments that reduce the amount of time spent on energy-related tasks.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy governance",
+    "Object": "women\u2019s inclusion",
+    "Relation": "focuses_on",
+    "Description": "UNDP focuses on advocating for women\u2019s inclusion in energy governance",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "policies",
+    "Relation": "addresses",
+    "Description": "Energy efficiency addresses the lack of proactive participation of women and reflection of their needs in the planning stage, which may lead to negative impacts.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decarbonization",
+    "Object": "low carbonization",
+    "Relation": "induces",
+    "Description": "Decarbonization induces low carbonization at the national level.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar home systems",
+    "Object": "women",
+    "Relation": "managing",
+    "Description": "Women often dedicate more time than men to managing stand-alone systems, such as solar home systems, due to their greater household presence and responsibilities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Object": "policies, programs and projects",
+    "Relation": "embeds",
+    "Description": "Gender mainstreaming embeds gender equality into policies, programs and projects by assessing the implications of planned action on both women and men across all levels and areas.",
+    "Importance": 4
+  },
+  {
+    "Subject": "sex-disaggregated data",
+    "Relation": "allows",
+    "Object": "decision-makers, environment and energy institutions and development agencies",
+    "Description": "Collecting sex-disaggregated data allows decision-makers, environment and energy institutions and development agencies to better understand who is using existing resources, such as land, forest and water, and what they are doing with it.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Object": "clean energy value chain",
+    "Relation": "is important for",
+    "Description": "The clean energy value chain is important for generating jobs and improving livelihoods.",
+    "Importance": 4
+  },
+  {
+    "Subject": "sex-disaggregated data",
+    "Relation": "addresses",
+    "Object": "gender analysis",
+    "Description": "Sex-disaggregated data addresses the need for effective gender analysis by providing information separately for men and women, boys and girls.",
+    "Importance": 3
+  },
+  {
+    "Subject": "critical minerals",
+    "Object": "Indigenous and peasant communities",
+    "Relation": "situated on or near lands belonging to",
+    "Description": "Critical minerals are situated on or near lands belonging to Indigenous and peasant communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nationally determined contributions",
+    "Relation": "part of",
+    "Object": "international climate change mitigation efforts",
+    "Description": "Nationally determined contributions are part of international climate change mitigation efforts.",
+    "Importance": 4
+  },
+  {
+    "Subject": "public-private partnerships",
+    "Object": "off-grid implementation",
+    "Relation": "implements",
+    "Description": "Public-private partnerships implement various models of off-grid implementation to meet targets.",
+    "Importance": 4
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "equitable access",
+    "Relation": "requires",
+    "Description": "A just energy transition requires that all vulnerable and marginalized groups are given equitable access to the opportunities and shared benefits of sustainable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy resilience",
+    "Object": "individuals, communities, and systems",
+    "Relation": "defines",
+    "Description": "The UNDP Sustainable Energy Hub (SEH) defines energy resilience in fragile contexts as the ability of individuals, communities, and systems to withstand and recover from shocks and stresses related to energy supply, demand, and access.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy resilience",
+    "Relation": "enhancing",
+    "Object": "energy resilience",
+    "Description": "Social policies play a pivotal role in enhancing energy resilience by ensuring accessible, affordable, and reliable energy systems and targeting vulnerable and marginalized groups.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "National Energy Efficiency Action Plan (NEEAP)",
+    "Relation": "implements",
+    "Description": "The National Energy Efficiency Action Plan (NEEAP) in Jordan implements energy efficiency measures to enhance the energy efficiency of public buildings and promote the adoption of renewable energy sources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy markets",
+    "Relation": "accelerating",
+    "Object": "financing and private sector engagement",
+    "Description": "Energy markets accelerate financing and private sector engagement in crisis-affected nations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "private sector",
+    "Relation": "attract",
+    "Description": "Innovative financing is needed to attract investment and participation from the private sector.",
+    "Importance": 3
+  },
+  {
+    "Subject": "multi-stakeholder partnerships",
+    "Object": "energy access problems",
+    "Relation": "aims to solve",
+    "Description": "Multi-stakeholder partnerships aim to solve energy access problems by fostering collaboration and understanding the different roles and contributions of each type of partner organization.",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "energy access",
+    "Relation": "is_one_of",
+    "Description": "Clean cooking is one of the aspects of energy access.",
+    "Importance": 3
+  },
+  {
+    "Subject": "heating and cooling",
+    "Object": "fuels and technologies",
+    "Relation": "access to",
+    "Description": "Access to heating and cooling fuels and technologies is essential for sustainable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar for health",
+    "Object": "RBAS",
+    "Relation": "an_instance_of",
+    "Description": "Solar for Health in Yemen is an instance of RBAS.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy safety nets",
+    "Relation": "in",
+    "Object": "Brazil",
+    "Description": "Energy Safety Nets are implemented in Brazil through programs such as Luz para Todos (Light for All), Tarifa Social (Social Tariff), and Bolsa Familia (Family Allowance).",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "clean and efficient cooking fuels and technologies",
+    "Relation": "refers_to",
+    "Description": "Clean cooking refers to the use of clean and efficient cooking fuels and technologies to meet the basic cooking needs of a population.",
+    "Importance": 3
+  },
+  {
+    "Subject": "biomass",
+    "Object": "traditional cooking methods",
+    "Relation": "contributes_to",
+    "Description": "Biomass contributes to indoor air pollution through traditional cooking methods using solid fuels such as wood, coal, or biomass.",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "clean fuels",
+    "Relation": "focuses_on",
+    "Description": "Clean cooking focuses on the use of clean fuels such as biogas, liquified petroleum gas (LPG) or electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "time poverty",
+    "Object": "household responsibilities",
+    "Relation": "bears",
+    "Description": "Time poverty is linked to women bearing a disproportionate share of household responsibilities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "heating and cooling",
+    "Relation": "addresses",
+    "Object": "global disparity in access to heating and cooling fuels and technologies",
+    "Description": "Heating and cooling addresses the global disparity in access to heating and cooling fuels and technologies, which poses a significant challenge in understanding and addressing the diverse energy needs of populations around the world.",
+    "Importance": 4
+  },
+  {
+    "Subject": "heating and cooling",
+    "Object": "global access gap",
+    "Relation": "monitors",
+    "Description": "Heating and cooling monitors the global access gap in heating and cooling to understand and address the diverse energy needs of populations around the world.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "homes",
+    "Relation": "addresses",
+    "Description": "Energy efficiency addresses the demand for excessive heating or cooling in well-insulated homes with energy-efficient designs, promoting both energy efficiency and the well-being of occupants.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Object": "clean energy technologies",
+    "Relation": "encompasses",
+    "Description": "Energy storage is encompassed by clean energy technologies like renewables, nuclear, hydrogen, and carbon capture.",
+    "Importance": 3
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "support and innovative financing mechanisms",
+    "Relation": "supports",
+    "Description": "Innovative financing supports the need for increased support and innovative financing mechanisms to de-risk energy transition investments in regions like Sub-Saharan Africa.",
+    "Importance": 3
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "energy infrastructure",
+    "Relation": "addresses",
+    "Description": "Addressing the financial barrier, particularly in impoverished regions, to develop essential energy infrastructure for marginalized communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "gender disparities in energy",
+    "Object": "gender equality",
+    "Relation": "addresses",
+    "Description": "Addressing gender disparities in energy access is crucial for promoting gender equality and improving overall well-being.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar home systems",
+    "Object": "clean and reliable electricity",
+    "Relation": "usher in",
+    "Description": "Solar home systems usher in a new era of clean and reliable electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar home systems",
+    "Object": "clean and reliable electricity",
+    "Relation": "usher in",
+    "Description": "Solar home systems usher in a new era of clean and reliable electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "battery storage",
+    "Object": "technological innovations",
+    "Relation": "contributes_to",
+    "Description": "Battery storage systems contribute to expanding energy access on a global scale.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "passive solar heating",
+    "Relation": "minimizes reliance on",
+    "Description": "Energy efficiency minimizes reliance on external energy sources for temperature control through strategies like passive solar heating.",
+    "Importance": 3
+  },
+  {
+    "Subject": "battery storage",
+    "Relation": "tackles",
+    "Object": "intermittency",
+    "Description": "Battery storage tackles the issue of intermittency in clean energy systems.",
+    "Importance": 3
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "energy access journey",
+    "Relation": "overcoming",
+    "Description": "Innovative financing strategies are instrumental in overcoming the financial barriers that have hindered the energy access journey.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy markets",
+    "Relation": "serves_as",
+    "Object": "Policy Frameworks",
+    "Description": "Energy markets serve as the regulatory framework for Policy Frameworks, guaranteeing that these markets operate in a manner that best serves the needs of communities and individuals.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multi-stakeholder partnerships",
+    "Object": "energy access challenges",
+    "Relation": "tackle",
+    "Description": "Multi-stakeholder partnerships bring together a range of actors from different sectors to tackle energy access challenges.",
+    "Importance": 4
+  },
+  {
+    "Subject": "small island developing states",
+    "Object": "energy access",
+    "Relation": "increases",
+    "Description": "Energy access increases across small island developing states (SIDS).",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp country offices",
+    "Object": "sustainable energy",
+    "Relation": "focuses_on",
+    "Description": "UNDP country offices focus on sustainable energy to drive positive and transformative change.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Object": "sustainable energy transformation",
+    "Relation": "brings",
+    "Description": "Decentralized energy systems bring challenges and opportunities to sustainable energy transformation.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy for development",
+    "Object": "sustainable energy",
+    "Relation": "contributes_to",
+    "Description": "Energy for development contributes to the promotion and implementation of sustainable energy practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biomass",
+    "Object": "bioenergy solutions",
+    "Relation": "an_instance_of",
+    "Description": "Biomass is an instance of bioenergy solutions.",
+    "Importance": 4
+  },
+  {
+    "Subject": "bioenergy",
+    "Object": "biomass",
+    "Relation": "an_instance_of",
+    "Description": "Bioenergy is an instance of biomass, which refers to organic matter used as a renewable energy source.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy for development",
+    "Relation": "contributes_to",
+    "Object": "development",
+    "Description": "Energy for development contributes to the overall development of a region or country.",
+    "Importance": 4
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "electricity",
+    "Relation": "access_to",
+    "Description": "Clean cooking solutions provide access to clean, affordable and reliable electricity 24/7.",
+    "Importance": 4
+  },
+  {
+    "Subject": "social protection",
+    "Object": "",
+    "Relation": "",
+    "Description": "",
+    "Importance": ""
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "Gender Equality",
+    "Relation": "focuses_on",
+    "Description": "A just energy transition focuses on achieving gender equality in the energy sector.",
+    "Importance": 4
+  },
+  {
+    "Subject": "small island developing states",
+    "Object": "SIDS",
+    "Relation": "an_instance_of",
+    "Description": "Small island developing states are instances of SIDS (Small Island Developing States).",
+    "Importance": 4
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "access",
+    "Relation": "increases",
+    "Description": "Access to clean cooking has increased.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "SDG7 target areas",
+    "Relation": "addresses",
+    "Description": "Improving energy efficiency addresses one of the targeted efforts and actions embodied in SDG7 target areas.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decarbonization",
+    "Object": "energy systems",
+    "Relation": "requires",
+    "Description": "Decarbonization requires a transformation in energy systems away from fossil fuels and toward clean and renewable sources, that promotes long-term resource availability.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biomass",
+    "Relation": "can be converted to",
+    "Object": "electricity, heat, cooling, and transport fuels, as well as materials and chemicals",
+    "Description": "Biomass can be converted through a variety of biological, chemical and thermal processes to produce electricity, heat, cooling, and transport fuels, as well as materials and chemicals.",
+    "Importance": 4
+  },
+  {
+    "Subject": "bioenergy",
+    "Object": "renewable source of energy",
+    "Relation": "is a",
+    "Description": "Bioenergy is a versatile renewable source of energy with many feedstocks, technological pathways and end-uses.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "provides_alternatives_to",
+    "Object": "fossil fuels",
+    "Description": "Biofuels can provide locally sourced alternatives to fossil fuels for uses such as heating/cooking, transport fuels and electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "biofuels",
+    "Relation": "provide",
+    "Object": "locally sourced alternatives",
+    "Description": "Biofuels can provide locally sourced alternatives to fossil fuels for uses such as heating/cooking, transport fuels and electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar energy",
+    "Object": "solar photovoltaic (PV) systems",
+    "Relation": "enhances",
+    "Description": "Advancements in solar photovoltaic (PV) systems have enhanced the efficiency and affordability of solar power.",
+    "Importance": 3
+  },
+  {
+    "Subject": "concentrated solar power",
+    "Object": "steam turbine & generator",
+    "Relation": "powers",
+    "Description": "Concentrated solar power systems concentrate sunlight directly into high-temperature heat that can be used to power a steam turbine & generator, much like a coal or nuclear plant.",
+    "Importance": 4
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Object": "project cycle",
+    "Relation": "addresses",
+    "Description": "Gender mainstreaming approach in the project cycle addresses gender gaps and strengthens the integration of gender considerations throughout the project.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar energy",
+    "Object": "solar photovoltaic (PV)",
+    "Relation": "uses",
+    "Description": "Solar energy uses solar photovoltaic (PV) systems that convert sunlight directly into electricity.",
+    "Importance": 4
+  },
+  {
+    "Subject": "gender mainstreaming",
+    "Object": "Solar Energy Program (NOOR)",
+    "Relation": "implements",
+    "Description": "The Solar Energy Program (NOOR) implements various measures to address gender equality during the construction, maintenance, and operation phases of the project.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy resilience",
+    "Object": "solar infrastructure",
+    "Relation": "enhances",
+    "Description": "Energy resilience is enhanced by the installation and maintenance of solar infrastructure, which creates job opportunities and fosters economic growth at the community level.",
+    "Importance": 3
+  },
+  {
+    "Subject": "levelized cost of electricity",
+    "Object": "utility-scale solar PV",
+    "Relation": "saw a reduction",
+    "Description": "The global weighted-average levelized cost of electricity (LCOE) for utility-scale solar PV saw an 85% reduction from 2010 to 2020.",
+    "Importance": 3
+  },
+  {
+    "Subject": "heating and cooling",
+    "Relation": "shifts to",
+    "Object": "electric heat pumps",
+    "Description": "As households increasingly shift to electric heat pumps for heating and cooling and electrify their mobility, the need for local embedded electricity production will increase.",
+    "Importance": 3
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "solar adoption",
+    "Relation": "incentivize",
+    "Description": "Innovative financing models are being explored to incentivize solar adoption and integrate solar into broader energy transition strategies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "geothermal energy",
+    "Object": "electricity generation",
+    "Relation": "contributes_to",
+    "Description": "Geothermal energy contributes to electricity generation by providing a sustainable and renewable energy source.",
+    "Importance": 4
+  },
+  {
+    "Subject": "geothermal energy",
+    "Object": "clean and continuous energy supply",
+    "Relation": "contributes_to",
+    "Description": "Geothermal projects contribute to a clean and continuous energy supply, reducing dependence on fossil fuels.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decarbonization",
+    "Relation": "employs",
+    "Object": "hydropower",
+    "Description": "Decarbonization employs hydropower as a renewable energy source that converts the energy of water moving from higher to lower elevations.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "includes",
+    "Object": "pumped storage plants",
+    "Description": "Energy storage technology includes pumped storage plants that pump water from a lower reservoir into a higher reservoir for large-scale energy storage benefits.",
+    "Importance": 4
+  },
+  {
+    "Subject": "technology transfer",
+    "Object": "hydropower technologies",
+    "Relation": "provides",
+    "Description": "Technology transfer provides sustainable standards for all hydropower technologies to ensure energy access and efficiency.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "wind turbines",
+    "Relation": "harnesses",
+    "Description": "Wind energy harnesses the kinetic energy of wind by using large wind turbines located on land or in the sea and freshwater.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "electricity",
+    "Relation": "produces",
+    "Description": "Wind energy produces electricity by harnessing the kinetic energy of wind.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "wind power",
+    "Relation": "is_a_key_technology_of",
+    "Description": "Wind energy is a key technology of decarbonization and sustainable energy transition.",
+    "Importance": 4
+  },
+  {
+    "Subject": "blue economy",
+    "Object": "ocean-based energy",
+    "Relation": "contributes_to",
+    "Description": "Ocean-based energy contributes to the blue economy approach and overall development goals in SIDS by enhancing economic diversification.",
+    "Importance": 4
+  },
+  {
+    "Subject": "carbon capture and storage",
+    "Relation": "aims_to_capture",
+    "Object": "CO2",
+    "Description": "Carbon capture and storage technology aims to capture CO2 for decarbonization.",
+    "Importance": 3
+  },
+  {
+    "Subject": "land use planning",
+    "Relation": "implements",
+    "Object": "energy efficiency",
+    "Description": "Land use planning implements energy efficiency strategies such as designing buildings with energy efficiency, passive cooling and heating, and low GHG materials.",
+    "Importance": 4
+  },
+  {
+    "Subject": "circular economy",
+    "Relation": "practices",
+    "Object": "sustainable industries",
+    "Description": "Circular economy practices present opportunities for sustainable industries.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decentralized energy systems",
+    "Object": "global energy access",
+    "Relation": "delivers",
+    "Description": "Decentralized energy systems have a promising role in delivering global energy access.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy value chain",
+    "Relation": "mentioned in",
+    "Object": "text",
+    "Description": "The energy value chain is mentioned in the text in relation to decentralized energy systems and the inclusion of women in the energy value chain from financing to training. It is also mentioned in the context of sustainable energy and its alignment with the principles of environmental stewardship, economic viability, and social equity.",
+    "Importance": 3
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "sustainable fuels and modern cooking technologies",
+    "Relation": "refers_to",
+    "Description": "Clean cooking refers to sustainable fuels and modern cooking technologies that enable people to cook and heat their home in a way that is not harmful to their health and limits the immediate impacts on their environment.",
+    "Importance": 4
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "blended finance models",
+    "Relation": "driving",
+    "Description": "Just energy transition drives the integration of sustainable energy finance into blended finance models.",
+    "Importance": 3
+  },
+  {
+    "Subject": "sovereign wealth funds",
+    "Object": "renewable energy markets",
+    "Relation": "enables",
+    "Description": "Sovereign wealth funds enable capital flow into renewable energy markets through multi-stakeholder collaboration in market development.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy markets",
+    "Object": "renewable energy technologies",
+    "Relation": "enhances_demand_for",
+    "Description": "Energy markets play a crucial role in scaling up renewable energy technologies and achieving sustainable development goals. Phasing out fossil fuels in energy finance can enhance the demand for renewable energy technologies in the energy market mix.",
+    "Importance": 4
+  },
+  {
+    "Subject": "green bonds",
+    "Object": "renewable energy",
+    "Relation": "funds",
+    "Description": "Green bonds are fixed-income securities and innovative capital-market instruments that raise capital to fund projects related to renewable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "green buildings",
+    "Relation": "funds",
+    "Object": "projects",
+    "Description": "Green buildings are fixed-income securities and innovative capital-market instruments to raise capital to fund projects that have a clear environmental benefit, such as renewable energy, energy efficiency, clean transportation, and green buildings.",
+    "Importance": 4
+  },
+  {
+    "Subject": "green bonds",
+    "Object": "renewable energy",
+    "Relation": "funds",
+    "Description": "Green bonds are fixed-income securities and innovative capital-market instruments to raise capital to fund projects that have a clear environmental benefit, such as renewable energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "social protection",
+    "Object": "energy access",
+    "Relation": "represents",
+    "Description": "The intersection between social protection and sustainable energy represents key points in addressing vulnerabilities and supporting inclusive development.",
+    "Importance": 3
+  },
+  {
+    "Subject": "time poverty",
+    "Object": "Sustainable energy access to clean cooking",
+    "Relation": "reduces",
+    "Description": "Time poverty is reduced by sustainable energy access to clean cooking.",
+    "Importance": 3
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "sustainable energy systems",
+    "Relation": "enables access to",
+    "Description": "Sustainable energy systems enable access to critical services such as education, healthcare and clean water for vulnerable and marginalized communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "critical minerals",
+    "Relation": "are essential components in",
+    "Object": "batteries, solar panels and wind turbines",
+    "Description": "Critical minerals are essential components in batteries, solar panels and wind turbines.",
+    "Importance": 4
+  },
+  {
+    "Subject": "critical minerals",
+    "Object": "global energy landscape",
+    "Relation": "alters",
+    "Description": "Critical minerals alter the global energy landscape as well as geopolitical shifts and bring geopolitical advantages to countries that have access to them.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "enables",
+    "Object": "energy security",
+    "Description": "Energy storage enables energy security by storing excess energy generated by intermittent renewable energy resources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy justice",
+    "Relation": "addresses",
+    "Object": "energy inequality",
+    "Description": "Energy justice addresses the issue of energy inequality by ensuring fair distribution and use of energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "solar home systems",
+    "Relation": "provides",
+    "Object": "off-grid electricity solutions",
+    "Description": "Solar home systems provide off-grid electricity solutions for people in rural and remote communities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "mobile payment systems",
+    "Object": "new innovations",
+    "Relation": "brings",
+    "Description": "Mobile payment systems bring new innovations such as pay-as-you-go business models.",
+    "Importance": 3
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "development models",
+    "Relation": "implements",
+    "Description": "Just energy transitions can improve jobs and livelihoods and strengthen economic resilience. We affirm that no country should have to choose between fighting poverty and fighting for our planet. We will pursue development models that implement sustainable, inclusive, and just transitions globally, while leaving no one behind.",
+    "Importance": 4
+  },
+  {
+    "Subject": "UN Agencies",
+    "Object": "partnerships",
+    "Relation": "collaborates_with",
+    "Description": "UN Agencies collaborates with other stakeholders to build and strengthen partnerships.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar energy",
+    "Object": "UNDP's Solar for Health initiative",
+    "Relation": "contributes_to",
+    "Description": "Solar energy contributes to UNDP's Solar for Health initiative by providing cost-effective and reliable access to electricity for health facilities in poor and remote areas.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy governance",
+    "Object": "sustainable development",
+    "Relation": "achieves",
+    "Description": "Energy governance stands as an anchor for achieving the imperative of a sustainable development for countries and societies.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy governance",
+    "Relation": "supports",
+    "Object": "countries",
+    "Description": "Energy governance supports countries in their transformative journey on energy transition through shaping and strengthening their energy governance system.",
+    "Importance": 4
+  },
+  {
+    "Subject": "clean cooking",
+    "Object": "energy access",
+    "Relation": "part_of",
+    "Description": "Clean cooking is considered as part of energy access, which generally refers to reliable and affordable access to modern energy carriers and end-use services for households and communities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "fossil fuels",
+    "Relation": "replacing",
+    "Description": "Just energy transition is a process of replacing fossil fuels with low or zero-carbon energy sources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "human development index",
+    "Object": "poverty",
+    "Relation": "pushed_into",
+    "Description": "The human development index has seen a decline as a growing number of people have been pushed into poverty.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "improves",
+    "Object": "efficiency",
+    "Description": "Energy storage improves the efficiency of energy transition and addresses urgent national development priorities, environmental concerns, protecting human rights, and maintaining social stability.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "energy storage",
+    "Relation": "improves",
+    "Description": "Energy efficiency improves the efficiency of energy storage, leading to more reliable and affordable energy access.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy governance",
+    "Object": "energy resources",
+    "Relation": "developed",
+    "Description": "Energy governance involves making decisions about where and how energy resources are developed.",
+    "Importance": 3
+  },
+  {
+    "Subject": "intergenerational equity",
+    "Relation": "focuses_on",
+    "Object": "just energy transition",
+    "Description": "Intergenerational equity is a key focus area in UNDP's Energy Governance Framework for a just energy transition.",
+    "Importance": 4
+  },
+  {
+    "Subject": "appropriate and independent oversight",
+    "Object": "UNDP's Energy Governance Framework",
+    "Relation": "focuses_on",
+    "Description": "Appropriate and independent oversight is one of the four programming focus areas in UNDP's Energy Governance Framework for a just energy transition.",
+    "Importance": 4
+  },
+  {
+    "Subject": "multi-level governance",
+    "Object": "",
+    "Relation": "",
+    "Description": "",
+    "Importance": ""
+  },
+  {
+    "Subject": "multi-level governance",
+    "Relation": "refers_to",
+    "Object": "interaction and continuous negotiation between various levels and actors",
+    "Description": "Multi-level governance refers to the interaction and continuous negotiation between various levels and actors, both vertically and horizontally, across policy fields.",
+    "Importance": 3
+  },
+  {
+    "Subject": "technology transfer",
+    "Object": "Uruguay",
+    "Relation": "implements",
+    "Description": "Uruguay implements a domestic Monitoring, Reporting and Verification (MRV) system that includes technology transfer.",
+    "Importance": 4
+  },
+  {
+    "Subject": "whole-of-society approach",
+    "Object": "multi-stakeholder partnerships",
+    "Relation": "mobilize",
+    "Description": "A whole-of-society approach mobilizes multi-stakeholder partnerships for collective action by promoting access to information and participation.",
+    "Importance": 3
+  },
+  {
+    "Subject": "undp country offices",
+    "Object": "ICA",
+    "Relation": "helps",
+    "Description": "UNDP country offices can be helped by ICA to become more strategic in their engagement with different actors and sectors.",
+    "Importance": 3
+  },
+  {
+    "Subject": "theory of change",
+    "Object": "policies",
+    "Relation": "enhances_success",
+    "Description": "A clear theory of change and measurable indicators enhance the success of policies.",
+    "Importance": 3
+  },
+  {
+    "Subject": "just energy transition",
+    "Object": "oversight entities",
+    "Relation": "enhances accountability",
+    "Description": "Collaboration and coordination among oversight entities enhance accountability and transparency in the energy transition process.",
+    "Importance": 4
+  },
+  {
+    "Subject": "just energy transition",
+    "Relation": "promotes",
+    "Object": "inclusive processes",
+    "Description": "Just energy transition promotes inclusive processes considering unique local and regional contexts.",
+    "Importance": 3
+  },
+  {
+    "Subject": "just energy transition",
+    "Relation": "refers_to",
+    "Object": "process",
+    "Description": "A just energy transition refers to the process of transitioning to a sustainable energy system in a fair and equitable manner.",
+    "Importance": 4
+  },
+  {
+    "Subject": "decarbonization",
+    "Object": "energy system",
+    "Relation": "decarbonizes",
+    "Description": "Decarbonization of the energy system involves reducing or eliminating carbon emissions from the production and use of energy.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy safety nets",
+    "Object": "",
+    "Relation": "",
+    "Description": "",
+    "Importance": ""
+  },
+  {
+    "Subject": "biomass",
+    "Object": "women",
+    "Relation": "upscaled",
+    "Description": "Biomass energy can be upscaled by women in their fish drying business.",
+    "Importance": 3
+  },
+  {
+    "Subject": "critical minerals",
+    "Relation": "are essential for",
+    "Object": "renewable energy technologies",
+    "Description": "Critical minerals are minerals and metals that are essential for renewable energy technologies and the energy transition.",
+    "Importance": 4
+  },
+  {
+    "Subject": "small island developing states",
+    "Object": "rising sea levels",
+    "Relation": "face increasing",
+    "Description": "Small Island Developing States (SIDS) face increasing coastal flood risks due to rising sea levels.",
+    "Importance": 3
+  },
+  {
+    "Subject": "decarbonization",
+    "Object": "energy transition",
+    "Relation": "underlined by",
+    "Description": "The need for a rapid energy transition is underlined by the fact that the continued operation of existing fossil fuel infrastructure and the infrastructure currently under construction will already lead to 1.65\u00b0C warming.",
+    "Importance": 4
+  },
+  {
+    "Subject": "clean cooking",
+    "Relation": "addresses",
+    "Object": "access to clean cooking fuels",
+    "Description": "Clean cooking addresses the issue of lack of access to clean cooking fuels, which affects 2.3 billion people worldwide and contributes to health problems and premature deaths.",
+    "Importance": 4
+  },
+  {
+    "Subject": "marginalized communities",
+    "Object": "",
+    "Relation": "",
+    "Description": "",
+    "Importance": ""
+  },
+  {
+    "Subject": "energy democracy",
+    "Object": "concept",
+    "Relation": "is_a_concept_of",
+    "Description": "Energy democracy is a concept that prioritizes accessibility, economic empowerment, and ensuring that clean energy benefits all, particularly marginalized communities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "biomass",
+    "Object": "energy transition",
+    "Relation": "contributes_to",
+    "Description": "Biomass contributes to the energy transition by being considered a renewable energy source that can help reduce greenhouse gas emissions.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy justice",
+    "Relation": "relates_to",
+    "Object": "environmental justice",
+    "Description": "Energy justice relates to environmental justice, which involves identifying and protecting communities that have historically faced injustices from the current energy system.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy governance",
+    "Object": "achieving a just energy transition",
+    "Relation": "addresses",
+    "Description": "Energy governance addresses the need for achieving a just energy transition through effective, accountable, and inclusive measures.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "systems",
+    "Relation": "increases",
+    "Description": "Increasing energy efficiency of systems (including buildings and industry) helps to limit global warming.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy storage",
+    "Relation": "plays a crucial role in",
+    "Object": "the transition to sustainable energy",
+    "Description": "Energy storage plays a crucial role in the transition to sustainable energy by providing reliable and affordable energy access, especially to the world's poorest populations.",
+    "Importance": 4
+  },
+  {
+    "Subject": "critical minerals",
+    "Relation": "are essential for",
+    "Object": "renewable energy technologies",
+    "Description": "Critical minerals are essential for renewable energy technologies like solar panels, wind turbines, and electric vehicle batteries.",
+    "Importance": 4
+  },
+  {
+    "Subject": "concentrated solar power",
+    "Relation": "assessed_in",
+    "Object": "lifecycle GHG assessment",
+    "Description": "Concentrated solar power is one of the electricity generation technologies assessed in a lifecycle GHG assessment conducted by UNECE (2022).",
+    "Importance": 3
+  },
+  {
+    "Subject": "wind energy",
+    "Object": "bird fatalities",
+    "Relation": "reduces",
+    "Description": "Improving blade visibility by painting them black or with black and white stripes significantly reduces bird fatalities.",
+    "Importance": 3
+  },
+  {
+    "Subject": "solar energy",
+    "Object": "land use",
+    "Relation": "impacts",
+    "Description": "Solar energy impacts land use due to the large areas of land required for solar panel installations.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy value chain",
+    "Object": "sustainability",
+    "Relation": "promotes",
+    "Description": "The renewable energy value chain promotes sustainability by preventing abuses and ensuring sustainable practices.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy democracy",
+    "Object": "democratic principles and practices",
+    "Relation": "rooted in",
+    "Description": "Energy democracy is a concept rooted in democratic principles and practices, focusing on the inclusive participation of citizens in decisions related to energy production, distribution, and consumption.",
+    "Importance": 4
+  },
+  {
+    "Subject": "technology transfer",
+    "Object": "technology transfer policies",
+    "Relation": "implements",
+    "Description": "Technology transfer implements effective technology transfer policies that are essential for developing countries to acquire the necessary expertise and capabilities to establish downstream processing facilities.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy governance",
+    "Object": "government policies, regulations, and incentives",
+    "Relation": "addresses",
+    "Description": "Energy governance addresses distributional impacts and mitigates risks associated with the energy transition through government policies, regulations, and incentives.",
+    "Importance": 4
+  },
+  {
+    "Subject": "nationally determined contributions",
+    "Object": "Paris Agreement",
+    "Relation": "outlined in",
+    "Description": "Nationally Determined Contributions (NDCs) are outlined in the Paris Agreement and refer to the commitments made by countries to reduce greenhouse gas emissions and adapt to the impacts of climate change.",
+    "Importance": 4
+  },
+  {
+    "Subject": "innovative financing",
+    "Object": "Just Energy Transition Partnerships (JETPs)",
+    "Relation": "represents",
+    "Description": "Innovative financing represents Just Energy Transition Partnerships (JETPs), which are aimed at supporting developing countries in transitioning from fossil fuels to clean energy sources.",
+    "Importance": 4
+  },
+  {
+    "Subject": "concentrated solar power",
+    "Object": "6-hour storage",
+    "Relation": "includes",
+    "Description": "Concentrated solar power includes 6-hour storage for energy inputs and waste production.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy justice",
+    "Relation": "is relevant to",
+    "Object": "social category",
+    "Description": "Energy justice is relevant to the social category in the context of sustainable energy.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "racial inequities",
+    "Relation": "addresses",
+    "Description": "Energy efficiency is discussed in the context of addressing racial inequities through investments in people and places.",
+    "Importance": 3
+  },
+  {
+    "Subject": "energy efficiency",
+    "Object": "reduction of energy consumption",
+    "Relation": "refers_to",
+    "Description": "Energy efficiency refers to the reduction of energy consumption while maintaining the same level of output or service.",
+    "Importance": 4
+  },
+  {
+    "Subject": "energy justice",
+    "Relation": "addresses",
+    "Object": "social, economic, and environmental disparities",
+    "Description": "Energy justice addresses social, economic, and environmental disparities in access to and benefits from energy services.",
+    "Importance": 4
+  },
+  {
+    "Subject": "wind energy",
+    "Relation": "utilizes",
+    "Object": "power of wind",
+    "Description": "Wind energy utilizes the power of wind to generate electricity.",
+    "Importance": 4
+  }
+]
