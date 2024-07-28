@@ -1,6 +1,6 @@
 # 01_KG_Creation_Pipeline.ipynb
 
-This Jupyter notebook is designed to create and update a Knowledge Graph (KG) based on a provided list of entities located in the `02_Input` directory. The notebook includes pipelines to update entities and relations files, as well as an optional pipeline to identify and rectify any missing relations due to model errors.
+This jupyter notebook is designed to create and update a Knowledge Graph (KG) based on a provided list of entities located in the `02_Input` directory. The notebook includes pipelines to update entities and relations files, as well as an optional pipeline to identify and rectify any missing relations due to model errors.
 
 ## How to Use the Notebook
 
